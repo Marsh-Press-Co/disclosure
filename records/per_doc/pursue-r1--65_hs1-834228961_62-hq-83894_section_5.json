@@ -1,0 +1,361 @@
+{
+ "doc_id": "65_hs1-834228961_62-hq-83894_section_5",
+ "file": "pursue-r1--65_hs1-834228961_62-hq-83894_section_5.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "65_HS1-834228961_62-HQ-83894_Section_5",
+ "record_type": "case_file",
+ "index_date": "1957-06-15",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This document is an FBI case file (62-HQ-83894) containing investigative records, correspondence, and teletypes regarding UAP sightings between 1949 and 1950, including reports from the public and military radar observations. / This document is an FBI case file (62-HQ-83894) containing investigative records, correspondence, and reports regarding UAP sightings and alleged flying saucer hoaxes between 1950 and 1951.",
+ "incidents": [
+  {
+   "summary": "Convention planned in Alexandria, Louisiana for persons who have seen flying saucers.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "flying saucers",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Peter Cameron Jones reported observing a large silver metal object shaped like a child's top in the mountains near Los Angeles.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "silent flight",
+    "knocked witness to ground"
+   ],
+   "color": "silver",
+   "country": "USA",
+   "date": "1947-08",
+   "explanation_status": "unexplained",
+   "location_name": "Los Angeles, CA",
+   "quote": "large silver metal object shaped like a child's top",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "child's top",
+   "size": "size of a balloon",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "LTJG Joseph C. Shell observed 6 or 7 flying discs while flying a private plane in southern Oregon.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "steady file formation",
+    "paralleling course"
+   ],
+   "color": "unpainted metal",
+   "country": "USA",
+   "date": "1949-05-27",
+   "explanation_status": "unexplained",
+   "location_name": "Southern Oregon",
+   "object_count": "6-7",
+   "quote": "elongated ovals, perhaps 20' in length",
+   "recording_agency": "Navy",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "elongated oval",
+   "size": "less than 20 feet",
+   "time_local": "1425",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Glen Sprouse observed a bright yellow rocket-shaped object while flying near Parkersburg, West Virginia.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "dropping slightly"
+   ],
+   "color": "bright canary yellow",
+   "country": "USA",
+   "date": "1949-09-25",
+   "explanation_status": "unexplained",
+   "location_name": "Lubeck, West Virginia",
+   "quote": "bright yellow object coming directly towards me",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "rocket",
+   "size": "15-18 inches long",
+   "time_local": "1445",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Radar station at WROL Knoxville detected unidentified objects over Oak Ridge.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "circling",
+    "moving at terrific speed"
+   ],
+   "country": "USA",
+   "date": "1950-03-01",
+   "explanation_status": "unexplained",
+   "location_name": "Oak Ridge, Tennessee",
+   "recording_agency": "Army",
+   "sensors": [
+    "radar"
+   ],
+   "time_local": "2135",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Radar station at WROL Knoxville detected unidentified objects over Oak Ridge.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "medium",
+   "country": "USA",
+   "date": "1950-03-02",
+   "explanation_status": "unexplained",
+   "location_name": "Oak Ridge, Tennessee",
+   "recording_agency": "Army",
+   "sensors": [
+    "radar"
+   ],
+   "time_local": "1105",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Miss Laura McChesney observed a silvery white, diamond-shaped object traveling west at airplane speed.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "traveling at airplane speed",
+    "went behind a cloud"
+   ],
+   "color": "silvery white",
+   "country": "USA",
+   "date": "1950-04-01",
+   "location_name": "Route 47, west of Geneva, Illinois",
+   "page_refs": [
+    107
+   ],
+   "quote": "I saw a silvery white object in the sky.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "flattened diamond",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Elmira Police Department reported a flying saucer landing near the airport; investigation revealed it to be a cardboard box with a radio tube and flare.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "landed"
+   ],
+   "color": "aluminum",
+   "country": "USA",
+   "date": "1950-04-08",
+   "explanation": "Corrugated cardboard box with radio tube and flare.",
+   "explanation_status": "explained",
+   "location_name": "Elmira, New York",
+   "page_refs": [
+    111,
+    113,
+    115
+   ],
+   "quote": "FLYING SAUCER WAS CORRUGATED CARDBOARD BOX",
+   "recording_agency": "FBI",
+   "shape": "box",
+   "size": "40 inches in diameter",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Naval personnel reported unidentified radar contacts and visual sightings of orange lights and a reddish-orange ball of fire.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "rotating",
+    "high speed",
+    "maneuverable"
+   ],
+   "color": "orange, reddish-orange",
+   "country": "USA",
+   "date": "1950-01-22",
+   "explanation_status": "not-assessed",
+   "location_name": "Kodiak, Alaska",
+   "page_refs": [
+    147,
+    148
+   ],
+   "recording_agency": "US Navy",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "ball of fire",
+   "size": "1 foot diameter",
+   "witness_types": [
+    "military-pilot",
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Douglas Harrison observed a cigar-shaped silver object moving east at high altitude.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "moving east"
+   ],
+   "color": "silver",
+   "country": "USA",
+   "date": "1950-06-25",
+   "location_name": "Washington, D.C.",
+   "page_refs": [
+    166,
+    167
+   ],
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "cigar",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Tage Stensig observed a large, bright, silvery object moving north-northwest.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "moving north-northwest"
+   ],
+   "color": "silvery",
+   "country": "USA",
+   "date": "1950-07-04",
+   "location_name": "Downers Grove, Illinois",
+   "page_refs": [
+    169
+   ],
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple citizens and FBI personnel observed an object picked up by radar; B-29 attempted to follow.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "moving westward",
+    "highly maneuverable"
+   ],
+   "country": "USA",
+   "date": "1950-06-29",
+   "location_name": "Phoenix, Arizona",
+   "page_refs": [
+    170,
+    172
+   ],
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_types": [
+    "military-pilot",
+    "federal-le",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Informant observed a cigar-shaped object traveling northwest to southeast.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "straight and level flight"
+   ],
+   "color": "burning kerosene lamp glow",
+   "country": "USA",
+   "date": "1950-07-01",
+   "location_name": "North Chicago, Illinois",
+   "page_refs": [
+    174
+   ],
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "cigar",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Walter D. Jones observed a hazy object of light circling near his farmhouse.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "circling",
+    "retarding speed"
+   ],
+   "country": "Canada",
+   "date": "1950-07-19",
+   "location_name": "Toronto, Ontario",
+   "page_refs": [
+    208
+   ],
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

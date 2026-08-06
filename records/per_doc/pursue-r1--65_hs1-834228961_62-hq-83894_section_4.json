@@ -1,0 +1,606 @@
+{
+ "doc_id": "65_hs1-834228961_62-hq-83894_section_4",
+ "file": "pursue-r1--65_hs1-834228961_62-hq-83894_section_4.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "65_HS1-834228961_62-HQ-83894_Section_4",
+ "record_type": "case_file",
+ "index_date": "1957-06-15",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 3,
+ "doc_notes": "This document is a collection of FBI case files (62-HQ-83894) regarding UAP/UFO reports, investigations, and correspondence between 1947 and 1949, including internal memoranda and reports on the 'flying disc' phenomenon. / This document is a collection of FBI case files (62-HQ-83894) regarding 'Flying Discs' and 'Unconventional Aircraft' from 1949, containing internal memoranda, correspondence, and reports on various sightings. / This document is a collection of FBI case files (62-HQ-83894) regarding UAP/UFO reports, including correspondence, newspaper clippings, and internal memoranda from 1947 to 1949.",
+ "incidents": [
+  {
+   "summary": "Police officers in Portland, Oregon, observed a bright, silvery, round object reflecting sunlight, which made a wide turn and disappeared to the south.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "steady flight",
+    "wide turn"
+   ],
+   "color": "silvery",
+   "country": "USA",
+   "date": "1947-09-11",
+   "location_name": "Portland, Oregon",
+   "page_refs": [
+    2,
+    4
+   ],
+   "quote": "observed the very bright reflection of the sun on some object which was apparently made of silvery metal",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "witness_count": "2",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "A pilot and co-pilot of a DC-3 observed a dark, wing-shaped object near Bethel, Alaska, which they maneuvered to avoid.",
+   "date_precision": "month",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "steady flight",
+    "maneuvered to avoid"
+   ],
+   "color": "dark",
+   "country": "USA",
+   "date": "1947-07",
+   "location_name": "Bethel, Alaska",
+   "page_refs": [
+    5,
+    6
+   ],
+   "quote": "described the object as appearing to be some flying wing",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "flying wing",
+   "size": "size of a C-54",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "A witness in South Royalton, Vermont, reported seeing flying discs.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "USA",
+   "date": "1947-09-17",
+   "location_name": "South Royalton, Vermont",
+   "page_refs": [
+    7
+   ],
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Seven to ten objects observed flying over a farm near Rockfield, Wisconsin, making no noise.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "medium",
+   "behavior": [
+    "steady flight",
+    "no noise"
+   ],
+   "country": "USA",
+   "date": "1947-06-28",
+   "location_name": "Rockfield, Wisconsin",
+   "object_count": "7-10",
+   "page_refs": [
+    24
+   ],
+   "quote": "flew directly over our house. He said they went like blue blazes",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Witness observed a high-altitude object leaving a vapor trail that did not change shape or direction.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "medium",
+   "behavior": [
+    "steady flight",
+    "high speed"
+   ],
+   "country": "USA",
+   "date": "1948-03-13",
+   "location_name": "Benkelman, Nebraska",
+   "page_refs": [
+    46,
+    47
+   ],
+   "quote": "witnessed a strange sight in the sky traveling at a very high rate of speed",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "A metallic object with wings and a gyroscope center was found in the desert near Lone Pine, California.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "crashed"
+   ],
+   "color": "aluminum",
+   "country": "USA",
+   "date": "1948-12-07",
+   "location_name": "Lone Pine, California",
+   "page_refs": [
+    66,
+    68,
+    72,
+    74,
+    76,
+    80,
+    82,
+    95,
+    96,
+    97
+   ],
+   "quote": "object could be described as being 8' in diameter with wings about 4' long",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "size": "8 feet diameter",
+   "witness_count": "4",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple sightings of an aerial object reported across New Mexico, including El Paso, Albuquerque, and Roswell.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "country": "USA",
+   "date": "1949-01-30",
+   "location_name": "New Mexico",
+   "object_count": "100+",
+   "page_refs": [
+    106
+   ],
+   "quote": "Sighting of identical object reported at 2255Z 30 Jan 49 by aprx 30 people",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "100",
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "Photographs taken by William Presley of an unidentified object over Oak Ridge, TN, were evaluated by the Air Force and determined to be a result of film defects (water or developer drops).",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "flying"
+   ],
+   "country": "United States",
+   "date": "1947-07",
+   "explanation": "Film defects (water or developer drops on the negative).",
+   "explanation_status": "explained",
+   "location_name": "Oak Ridge, Tennessee",
+   "page_refs": [
+    112,
+    113
+   ],
+   "quote": "This indicates that either a drop of warm water or a drop of developer struck the film",
+   "recording_agency": "FBI",
+   "sensors": [
+    "photo"
+   ],
+   "shape": "sphere",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Eastern Airlines pilot and co-pilot observed an unconventional, wingless, rocket-shaped object with windows over Montgomery, Alabama.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "appeared out of a thunderhead",
+    "disappeared in another cloud",
+    "traveling at 2700 mph"
+   ],
+   "country": "United States",
+   "date": "1948-07",
+   "explanation_status": "not-assessed",
+   "location_name": "Montgomery, Alabama",
+   "page_refs": [
+    115
+   ],
+   "quote": "This aircraft was reported to be of an unconventional type without wings and resembled generally a rocket ship",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "rocket ship",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple sightings of unexplained phenomena near Los Alamos, New Mexico, by military and civilian personnel.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "level flight",
+    "tangent to earth's surface",
+    "vertical change in path"
+   ],
+   "color": "brilliant green, red, white, blue-white, yellowish green",
+   "country": "United States",
+   "date": "1948-12",
+   "explanation_status": "unexplained",
+   "location_name": "Los Alamos, New Mexico",
+   "page_refs": [
+    115,
+    116
+   ],
+   "quote": "sightings of unexplained phenomena were made near Los Alamos by Special Agents",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "witness_count": "multiple",
+   "witness_types": [
+    "military-other",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Dr. Lincoln La Paz observed a green fireball phenomenon near Starvation Peak, New Mexico.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "horizontal path",
+    "constant angular velocity"
+   ],
+   "color": "yellow green",
+   "country": "United States",
+   "date": "1948-12",
+   "explanation_status": "unexplained",
+   "location_name": "Starvation Peak, New Mexico",
+   "page_refs": [
+    120
+   ],
+   "quote": "There was an initial bright light (no period of intensity increase) and constant intensity",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "scientist"
+   ]
+  },
+  {
+   "summary": "Reports of flares or green fireball phenomena near Killeen Base, Camp Hood, Texas.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "medium",
+   "country": "United States",
+   "date": "1949-03-06",
+   "explanation_status": "partially-explained",
+   "location_name": "Camp Hood, Texas",
+   "page_refs": [
+    121
+   ],
+   "quote": "what was at first thought to be a flare was seen approximately one-half mile north of Killeen Base",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "multiple",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Reports of aerial explosions and falling silver objects near Ogden and Logan, Utah, initially suspected to be B-29 practice bombing.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "medium",
+   "behavior": [
+    "explosion in the air",
+    "falling"
+   ],
+   "color": "silver",
+   "country": "United States",
+   "date": "1949-04-05",
+   "explanation": "Probably caused by B-29 practice bombing.",
+   "explanation_status": "explained",
+   "location_name": "Ogden/Logan, Utah",
+   "page_refs": [
+    126
+   ],
+   "quote": "observed what appeared to be an explosion in the air accompanied by a flash of light",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "multiple",
+   "witness_types": [
+    "military-other",
+    "federal-le",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Wade H. Harrison observed a brilliant, mirror-like object moving southeast over Fort Smith, Arkansas.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "moving in a southeastern direction"
+   ],
+   "country": "United States",
+   "date": "1949-04-16",
+   "explanation_status": "unexplained",
+   "location_name": "Fort Smith, Arkansas",
+   "page_refs": [
+    133,
+    135,
+    136
+   ],
+   "quote": "observed a brilliant object moving in a southeastern direction",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Lt. Frederick W. Davis observed a reddish-white object with a fire trail near Killeen Base, Texas.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "traveling parallel to the ground",
+    "disappeared high in the sky"
+   ],
+   "color": "reddish white",
+   "country": "United States",
+   "date": "1949-03-31",
+   "explanation_status": "unexplained",
+   "location_name": "Killeen Base, Texas",
+   "page_refs": [
+    145
+   ],
+   "quote": "lighted object about the size of a basketball, reddish white in color, followed by a fire trail",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "size": "size of a basketball",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Major William H. Parrott observed a solid mass object with a clicking sound near Merced, California.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "clicking noise",
+    "blanking out stars",
+    "maneuvered through an arc of turn"
+   ],
+   "color": "dull metal",
+   "country": "United States",
+   "date": "1949-04-04",
+   "explanation_status": "unexplained",
+   "location_name": "Merced, California",
+   "page_refs": [
+    157,
+    159
+   ],
+   "quote": "object was observed blanking out stars in describing a flight path",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "solid mass",
+   "size": "four or five feet in diameter",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Eastern Air Lines pilots reported a wingless, black, cigar-shaped object with a fiery tail and square windows near Montgomery, Alabama.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "streaking",
+    "spurting flame"
+   ],
+   "color": "black",
+   "country": "United States",
+   "date": "1948-07-24",
+   "explanation_status": "partially-explained",
+   "location_name": "Montgomery, Alabama",
+   "page_refs": [
+    179,
+    180,
+    181,
+    182,
+    183,
+    185
+   ],
+   "quote": "A gigantic plane without wings, black against the night sky, streaking through the heavens",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "cigar",
+   "witness_types": [
+    "civilian",
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Multiple sightings of a 'flying floor lamp' or 'red ball of fire' reported over Atlanta, Georgia.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "banked",
+    "rolled",
+    "breathed fire"
+   ],
+   "color": "red",
+   "country": "United States",
+   "date": "1948-07-26",
+   "explanation_status": "not-assessed",
+   "location_name": "Atlanta, Georgia",
+   "page_refs": [
+    181,
+    182
+   ],
+   "quote": "The front end of it looked like a flying floor lamp—a fiery-red floor lamp.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "ball",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Sightings of a long, cigar-shaped object with a red nose and trailing smoke reported across Virginia and Tennessee.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "medium",
+   "behavior": [
+    "level off",
+    "wiggle"
+   ],
+   "color": "black",
+   "country": "United States",
+   "date": "1949-05-12",
+   "explanation_status": "not-assessed",
+   "location_name": "Radford, Virginia",
+   "page_refs": [
+    187,
+    191,
+    192,
+    193
+   ],
+   "quote": "It looked like a long black cigar which was on fire",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "cigar",
+   "witness_types": [
+    "civilian",
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Witness observed a small, angular object in the sky that changed shape and appeared to be on fire.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "whirling",
+    "floating"
+   ],
+   "country": "United States",
+   "date": "1949-05-14",
+   "explanation_status": "partially-explained",
+   "location_name": "Nobleboro, Maine",
+   "page_refs": [
+    189,
+    194,
+    195,
+    196,
+    197,
+    198
+   ],
+   "quote": "its shape was angular, more like a piece of torn paper.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "angular",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Report of a fire caused by an object striking a roof, suspected by the complainant to be a military flare or flying saucer.",
+   "date_precision": "month",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "ignited"
+   ],
+   "country": "United States",
+   "date": "1948-11",
+   "explanation_status": "not-assessed",
+   "location_name": "Scranton, Pennsylvania",
+   "page_refs": [
+    199,
+    200,
+    201,
+    202
+   ],
+   "quote": "an object had entered the roof of the building, caused an explosion",
+   "recording_agency": "FBI",
+   "sensors": [
+    "other"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}
