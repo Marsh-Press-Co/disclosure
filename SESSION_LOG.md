@@ -4,6 +4,39 @@ Running project history, newest entries first. Current state lives in the vault 
 (`MindHive/10-Projects/Disclosure/_Disclosure-Hub.md`); this file records what
 happened when.
 
+## 2026-08-06 — Story tour shipped + repo moved to the org (group project now)
+
+**Shipped/Done**
+- **Story tour v2** on the globe site: landing (count-up counters, tour/explore
+  choice, skeptic tagline), 9 chapters (1947 wave → paper machine → night tie →
+  shape eras → watched skies → the record about the record → claims & verdicts →
+  silence & deluge → the nineteen), each driving camera + filters + highlight
+  rings, with **13 rendered primary-source assets** (Hoover's handwritten note,
+  Hottel memo, AMC no-exhibits page, forwarding order, Western US slides,
+  FBI composite sketch + photo B7, ORNL specimen analysis, OSD custody-language
+  page, Gemini VII bogey page, Robertson-Panel history page, Starlink FAA
+  report) in a captioned lightbox with source links. Findings drawer (8 cards →
+  chapter jumps), About modal carrying **Marsh's skeptic charter** (media
+  decision reversed for the presentation layer only; every asset captioned as
+  exactly what it is). Chapters reference incidents by QUERY, resolved at build
+  time (tools/build_tour_data.py) — pipeline re-runs never break the tour.
+- **Repo moved to the org (Marsh's call: recognition goes to the group):**
+  `Marsh-Press-Co/disclosure`, PRIVATE, full history pushed as clyde-colab.
+  Public flip remains a separate Marsh decision.
+- Media decision recorded: analysis stays text-only; presentation layer uses
+  selective primary-source imagery (docs > photos > video links). Videos:
+  link official DVIDS, don't host (v1).
+
+**Verified** — DOM-driven end-to-end: chapters apply filters/camera (ch1 =
+108 incidents in 1947 view, ch9 = exactly the 19 ★), 15/15 media assets load,
+lightbox + findings + about all function. Screenshot blocked only by pane
+display state (known gotcha), not app state.
+
+**Deferred/next** — co-lab board channel + onboarding docs for Preston/Bonnie
+(the Treasure-Hunter sharing pattern); public flip via GitHub Pages from the
+org repo on Marsh's go (+ final name decision); og:image for shares; mobile
+polish pass; navaid geocoding.
+
 ## 2026-08-06 — NARA RG 615 ingested (tiers A+B + selected): the collection joins the corpus
 
 **Shipped/Done**
