@@ -1,0 +1,51 @@
+{
+ "doc_id": "341_110677_numerical_file_5-2500",
+ "file": "pursue-r1--341_110677_numerical_file_5-2500.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "341_110677_Numerical_File,_5-2500",
+ "record_type": "other",
+ "index_date": "2055-10-14",
+ "index_location": "Azerbaijan",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a declassified Air Intelligence Information Report (IR 193-55) detailing observations made by a US delegation, including Senator Richard Russell, while traveling by rail through the USSR in October 1955.",
+ "incidents": [
+  {
+   "summary": "Three US observers (Senator Richard Russell, Lt. Col. E.U. Hathaway, and Mr. Ruben Efron) witnessed two unconventional disc-shaped aircraft ascending vertically near a railway line in the Trans-Caucasus region.",
+   "date_precision": "day",
+   "time_of_day": "dusk",
+   "confidence": "high",
+   "behavior": [
+    "ascended vertically",
+    "revolving clockwise",
+    "horizontal flight",
+    "high speed"
+   ],
+   "color": "unknown",
+   "country": "USSR",
+   "date": "1955-10-04",
+   "explanation_status": "unexplained",
+   "location_name": "Between Atjaty and Adzhijabul",
+   "object_count": "2",
+   "page_refs": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "quote": "two round and circular unconventional aircraft resembling flying discs or flying saucers were seen taking off almost vertically one minute apart",
+   "recording_agency": "US Air Attache",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "witness_count": "3",
+   "witness_types": [
+    "government-civilian",
+    "military-other",
+    "contractor"
+   ]
+  }
+ ]
+}

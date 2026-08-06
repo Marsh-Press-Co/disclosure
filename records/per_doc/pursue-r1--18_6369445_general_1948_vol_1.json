@@ -1,0 +1,99 @@
+{
+ "doc_id": "18_6369445_general_1948_vol_1",
+ "file": "pursue-r1--18_6369445_general_1948_vol_1.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "18_6369445_General_1948_Vol_1",
+ "record_type": "other",
+ "index_date": "2048-06-15",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of correspondence, routing sheets, and memorandums from the Department of the Air Force in 1948 regarding the reporting and investigation of 'Flying Discs' and the establishment of Project SIGN.",
+ "incidents": [
+  {
+   "summary": "Four witnesses observed a round, phosphorescent object moving at high speed with a phosphorescent trail at an altitude of 6-8 miles.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "high speed",
+    "phosphorescent trail"
+   ],
+   "color": "phosphorescent",
+   "country": "USA",
+   "date": "1948-05-08",
+   "location_name": "Hobson, Ohio",
+   "object_count": "1",
+   "page_refs": [
+    2,
+    3
+   ],
+   "quote": "round, appeared to be nine inches in diameter from ground level",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "size": "9 inches",
+   "witness_count": "4",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Observation of two objects falling to earth described as similar to falling aircraft with smoke and debris trailing.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "falling to earth",
+    "smoke and debris trailing"
+   ],
+   "country": "USA",
+   "date": "1948-03-05",
+   "location_name": "Bakersfield, California",
+   "object_count": "2",
+   "page_refs": [
+    16
+   ],
+   "quote": "two objects falling to earth from unknown source",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "falling aircraft",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Observation of two objects falling to earth, one appearing to be on fire with red and black smoke trailing.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "falling to earth",
+    "on fire",
+    "smoke trailing"
+   ],
+   "country": "USA",
+   "date": "1948-03-08",
+   "location_name": "Bakersfield, California",
+   "object_count": "2",
+   "page_refs": [
+    16
+   ],
+   "quote": "One object seemed to be on fire with red and black smoke trailing behind",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

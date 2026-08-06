@@ -1,0 +1,14 @@
+{
+ "doc_id": "odni-2022-annual-report",
+ "file": "odni-2022-annual-report.md",
+ "source": "ODNI",
+ "agency": "Office of the Director of National Intelligence",
+ "title": "2022 Annual Report on Unidentified Aerial Phenomena (ODNI)",
+ "record_type": "annual-report",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is the 2022 Annual Report on Unidentified Aerial Phenomena provided by the ODNI, which summarizes reporting statistics and the establishment of the All-Domain Anomaly Resolution Office (AARO) without detailing specific individual incident reports.",
+ "incidents": []
+}

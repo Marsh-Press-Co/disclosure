@@ -1,0 +1,117 @@
+{
+ "doc_id": "aaro-historical-record-report-vol1",
+ "file": "aaro-historical-record-report-vol1.md",
+ "source": "AARO",
+ "agency": "All-domain Anomaly Resolution Office",
+ "title": "Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (AARO, Feb 2024)",
+ "record_type": "historical-report",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is the AARO Historical Record Report Volume I, which reviews USG involvement with UAP since 1945 and investigates interviewee claims of hidden programs.",
+ "incidents": [
+  {
+   "summary": "Kenneth Arnold sighting of nine circular objects near Mount Rainier, Washington.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "flying in formation",
+    "periodically flipped",
+    "traveling at 1,700 miles per hour"
+   ],
+   "shape": "saucer-like",
+   "size": "large",
+   "witness_types": [
+    "civilian",
+    "military-pilot",
+    "military-other",
+    "federal-le",
+    "government-civilian",
+    "contractor",
+    "civilian",
+    "astronaut",
+    "scientist",
+    "unknown"
+   ]
+  },
+  {
+   "summary": "Alleged recovery of metallic and rubber debris from a crashed military balloon near Roswell, New Mexico.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "explanation": "Materials were consistent with a balloon used in the then-classified Project Mogul.",
+   "explanation_status": "explained",
+   "location_name": "Roswell, New Mexico",
+   "page_refs": [
+    21,
+    22
+   ],
+   "quote": "The materials recovered near Roswell were consistent with a balloon of the type used in the then-classified Project Mogul.",
+   "recording_agency": "USAF"
+  },
+  {
+   "summary": "Interviewee claimed to have touched an extraterrestrial spacecraft in a building.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "explanation": "Interviewee likely touched an F-117 Nighthawk stealth fighter.",
+   "explanation_status": "explained",
+   "page_refs": [
+    29,
+    32
+   ],
+   "quote": "The interviewee stated that the senior officer gave a detailed description of a craft floating in a building.",
+   "recording_agency": "AARO",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Interviewee overheard conversation about aliens present during specialized materials testing.",
+   "date_precision": "decade",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "explanation": "Likely a misunderstanding of a test and evaluation unit with a nickname with alien connotations.",
+   "explanation_status": "explained",
+   "page_refs": [
+    29,
+    31
+   ],
+   "quote": "The interviewee also reported that on another occasion in the 1990s he observed an “unidentified flying object” at a U.S. military facility.",
+   "recording_agency": "AARO"
+  },
+  {
+   "summary": "Interviewee encountered U.S. Special Forces loading containers onto a large extraterrestrial spacecraft.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "page_refs": [
+    29
+   ],
+   "quote": "encountered “U.S. Special Forces” loading containers onto a large extraterrestrial spacecraft.",
+   "recording_agency": "AARO",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Observation of a UAP destroying an ICBM loaded with a dummy warhead mid-flight.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "explanation": "Correlated with an antiballistic missile test.",
+   "explanation_status": "partially-explained",
+   "page_refs": [
+    30,
+    33
+   ],
+   "quote": "AARO was able to correlate the general time and location with an antiballistic missile test",
+   "recording_agency": "AARO",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "doc_id": "255_t_763_r1b_transcripts",
+ "file": "pursue-r1--255_t_763_r1b_transcripts.md",
+ "source": "PURSUE-R1",
+ "agency": "NASA",
+ "title": "NASA-UAP-D3, Gemini 7 Transcript, 1965",
+ "record_type": "transcript",
+ "index_date": "2065-12-05",
+ "index_location": "Low Earth Orbit",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a transcript of communications between the Gemini 7 crew and Houston Mission Control regarding sightings of a 'bogey' and a debris field during their 1965 flight.",
+ "incidents": [
+  {
+   "summary": "Astronaut Frank Borman reported a 'bogey' at ten o'clock high during the Gemini 7 mission.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "tumbling"
+   ],
+   "country": "unknown",
+   "date": "1965-12-05",
+   "explanation_status": "unexplained",
+   "location_name": "Low Earth Orbit",
+   "page_refs": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "quote": "A BOGEY AT TEN O'CLOCK HIGH.",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "astronaut"
+   ]
+  },
+  {
+   "summary": "Astronauts observed a debris field of hundreds of particles passing the spacecraft at a distance of three to four miles.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "moving in path at 90 degrees",
+    "going into polar orbit"
+   ],
+   "country": "unknown",
+   "date": "1965-12-05",
+   "explanation_status": "unexplained",
+   "location_name": "Low Earth Orbit",
+   "object_count": "hundreds",
+   "page_refs": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "quote": "WE HAVE VERY, VERY MANY A - IT LOOKS LIKE HUNDREDS OF LITTLE PARTICLES GOING BY",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "astronaut"
+   ]
+  }
+ ]
+}

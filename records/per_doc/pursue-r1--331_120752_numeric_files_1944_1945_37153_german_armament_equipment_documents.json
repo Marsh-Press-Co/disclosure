@@ -1,0 +1,357 @@
+{
+ "doc_id": "331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents",
+ "file": "pursue-r1--331_120752_numeric_files_1944_1945_37153_german_armament_equipment_documents.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "331_120752_Numeric_Files_1944–1945_37153_German_Armament_Equipment_Documents",
+ "record_type": "other",
+ "index_date": "2045-03-18",
+ "index_location": "Germany",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of SHAEF and Air Ministry correspondence regarding 'night phenomena' (foo fighters) and unidentified cylindrical objects observed by Allied pilots in 1944-1945.",
+ "incidents": [
+  {
+   "summary": "Pilot observed a large red light traveling East at 200 MPH.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "traveling"
+   ],
+   "color": "red",
+   "country": "France",
+   "date": "1944-12-14",
+   "location_name": "Erstein",
+   "page_refs": [
+    15
+   ],
+   "quote": "observed large red light at 2000 ft. going East at 18:40 hrs.",
+   "recording_agency": "415th Night Fighter Squadron",
+   "sensors": [
+    "visual"
+   ],
+   "size": "large",
+   "time_local": "18:40",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Pilot observed 5 or 6 flashing red and green lights in a T-shape that followed the aircraft.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flashing",
+    "followed aircraft"
+   ],
+   "color": "red and green",
+   "country": "Germany",
+   "date": "1944-12-16",
+   "location_name": "Breisach",
+   "page_refs": [
+    15
+   ],
+   "quote": "observed 5 or 6 flashing red and green lights in T shape",
+   "recording_agency": "415th Night Fighter Squadron",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "T-shape",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Two lights with an orange glow followed the aircraft for two minutes before peeling off.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "followed aircraft",
+    "peeled off",
+    "leveled off"
+   ],
+   "color": "orange",
+   "country": "France",
+   "date": "1944-12-22",
+   "location_name": "Hagenau",
+   "object_count": "2",
+   "page_refs": [
+    15
+   ],
+   "quote": "Lights appeared to be a large orange glow.",
+   "recording_agency": "415th Night Fighter Squadron",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "06:00",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Pilot observed reddish colored flames at 10,000 feet.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "color": "reddish",
+   "date": "1944-12-23",
+   "page_refs": [
+    16
+   ],
+   "quote": "Observed reddish colored flames at considerable distance",
+   "recording_agency": "415th Night Fighter Squadron",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Glowing red object shot straight up, performed a wing-over, and dove.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "shot straight up",
+    "wing over",
+    "dive"
+   ],
+   "color": "red",
+   "date": "1944-12-23",
+   "location_name": "Point X (Q6745)",
+   "page_refs": [
+    16
+   ],
+   "quote": "glowing red object shooting straight up",
+   "recording_agency": "415th Night Fighter Squadron",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Two yellow streaks of flame and red balls of fire observed; pilot felt prop wash.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flying",
+    "prop wash"
+   ],
+   "color": "yellow, red",
+   "date": "1944-12-26",
+   "location_name": "Q-9050 and R-1556",
+   "page_refs": [
+    16
+   ],
+   "quote": "saw two yellow streaks of flame",
+   "recording_agency": "415th Night Fighter Squadron",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "01:45",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Airborne white lights observed staggered vertically, appearing stationary.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "stationary"
+   ],
+   "color": "white",
+   "date": "1944-12-26",
+   "page_refs": [
+    16
+   ],
+   "quote": "observed airborne white lights",
+   "recording_agency": "415th Night Fighter Squadron",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Light approached within 100 feet and followed the aircraft for 5 minutes.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "followed aircraft",
+    "pulled up rapidly"
+   ],
+   "date": "1944-12-26",
+   "location_name": "Worms",
+   "page_refs": [
+    16
+   ],
+   "quote": "Observer saw light come within 100 ft.",
+   "recording_agency": "415th Night Fighter Squadron",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Orange lights suspended in air moving slowly.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "moving slowly"
+   ],
+   "color": "orange",
+   "date": "1944-12-27",
+   "location_name": "Q-1378",
+   "page_refs": [
+    16
+   ],
+   "quote": "lights suspended in air moving slowly",
+   "recording_agency": "415th Night Fighter Squadron",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Three sets of red and white lights closed in on aircraft.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "closing in"
+   ],
+   "color": "red and white",
+   "country": "France",
+   "date": "1944-12-27",
+   "location_name": "Luneville",
+   "page_refs": [
+    16
+   ],
+   "quote": "saw three sets of three lights (red and white)",
+   "recording_agency": "415th Night Fighter Squadron",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "19:10",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Group of lights observed flying through the air.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flying"
+   ],
+   "date": "1944-12-30",
+   "page_refs": [
+    16
+   ],
+   "quote": "Saw a group of lights flying through the air",
+   "recording_agency": "415th Night Fighter Squadron",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Aluminum colored cylinder observed at 9,000 feet; attacked and partially deflated.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "floating",
+    "attacked",
+    "deflated"
+   ],
+   "color": "aluminum",
+   "date": "1945-01-01",
+   "location_name": "F-5710",
+   "page_refs": [
+    6,
+    7,
+    9
+   ],
+   "quote": "An aluminum coloured cylinder shaped object",
+   "recording_agency": "67th TAC/R Group",
+   "sensors": [
+    "visual",
+    "photo"
+   ],
+   "shape": "cylinder",
+   "size": "12 ft long, 1 ft diameter",
+   "time_local": "10:30",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Large orange glow observed in the sky.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "color": "orange",
+   "date": "1945-01-14",
+   "location_name": "Ingweiller",
+   "page_refs": [
+    16
+   ],
+   "quote": "Observed a large orange glow in sky",
+   "recording_agency": "415th Night Fighter Squadron",
+   "sensors": [
+    "visual"
+   ],
+   "size": "5 ft diameter",
+   "time_local": "20:00",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Two amber lights observed following the aircraft.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "following"
+   ],
+   "color": "amber",
+   "date": "1945-01-29",
+   "location_name": "Weissembourg and Landau",
+   "object_count": "2",
+   "page_refs": [
+    17
+   ],
+   "quote": "Lights were amber and one was 20 - 50 ft. above the other",
+   "recording_agency": "415th Night Fighter Squadron",
+   "sensors": [
+    "visual"
+   ],
+   "size": "1 ft diameter",
+   "time_local": "00:10",
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

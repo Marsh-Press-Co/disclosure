@@ -1,0 +1,38 @@
+{
+ "doc_id": "059uap00013",
+ "file": "pursue-r1--059uap00013.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of State",
+ "title": "State Department UAP Cable 5, Mexico, September 16, 2003",
+ "record_type": "cable",
+ "index_date": "2023-09-16",
+ "index_location": "Mexico",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a weekly political blotter cable from the U.S. Embassy in Mexico, which includes a summary of a Mexican Congressional hearing regarding UAP and alleged alien remains.",
+ "incidents": [
+  {
+   "summary": "Mexican pilots encountered fast-moving flying objects during flight, as presented in testimony to the Mexican Congress.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "fast-moving"
+   ],
+   "country": "Mexico",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    5,
+    6
+   ],
+   "quote": "videos of Mexican pilots' encounters with fast-moving flying objects during flight",
+   "recording_agency": "Department of State",
+   "sensors": [
+    "video"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "doc_id": "aaro-fy23-consolidated-annual-report",
+ "file": "aaro-fy23-consolidated-annual-report.md",
+ "source": "AARO",
+ "agency": "All-domain Anomaly Resolution Office",
+ "title": "FY 2023 Consolidated Annual Report on UAP (AARO/ODNI joint)",
+ "record_type": "annual-report",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is the Fiscal Year 2023 Consolidated Annual Report on Unidentified Anomalous Phenomena produced by the All-domain Anomaly Resolution Office (AARO) and the Office of the Director of National Intelligence (ODNI), covering reporting from August 31, 2022, to April 30, 2023.",
+ "incidents": []
+}

@@ -1,0 +1,189 @@
+{
+ "doc_id": "hearing-2024-11-13-house-oversight",
+ "file": "hearing-2024-11-13-house-oversight.md",
+ "source": "CONGRESS",
+ "agency": "U.S. House Committee on Oversight and Accountability",
+ "title": "Hearing: Unidentified Anomalous Phenomena - Exposing the Truth (House Oversight joint subcommittees, 13 Nov 2024)",
+ "record_type": "hearing-transcript",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a transcript of a joint congressional hearing regarding UAP transparency, featuring testimony from military and civilian experts.",
+ "incidents": [
+  {
+   "summary": "Multiple near midair collisions involving unidentified objects during a naval exercise off the U.S. East Coast.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "near midair collisions"
+   ],
+   "country": "United States",
+   "date": "2015-01",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    14,
+    26
+   ],
+   "quote": "URGENT SAFETY OF FLIGHT ISSUE",
+   "recording_agency": "U.S. Navy",
+   "sensors": [
+    "ir",
+    "visual"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Drone swarm incursion over Langley Air Force Base.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "flying at 100 mph",
+    "altitude of 3000 feet"
+   ],
+   "country": "United States",
+   "date": "2023-12",
+   "explanation_status": "unexplained",
+   "location_name": "Langley Air Force Base",
+   "page_refs": [
+    10,
+    27
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "radar",
+    "visual"
+   ],
+   "shape": "roughly 20 feet long",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Tic Tac object encounter by Navy pilots.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "instantaneous acceleration"
+   ],
+   "country": "United States",
+   "date": "2004",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    9,
+    26
+   ],
+   "recording_agency": "U.S. Navy",
+   "sensors": [
+    "radar",
+    "visual"
+   ],
+   "shape": "tic-tac",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Observation of a UAP by watch standers on the USS Omaha.",
+   "date_precision": "decade",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "transmedium travel",
+    "enter water from atmosphere"
+   ],
+   "country": "United States",
+   "date": "2014-2024",
+   "explanation_status": "unexplained",
+   "location_name": "Southern California",
+   "page_refs": [
+    26
+   ],
+   "recording_agency": "U.S. Navy",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Orb UAP observed off the coast of Kuwait.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "emerging from ocean"
+   ],
+   "country": "Kuwait",
+   "date": "",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    15,
+    19
+   ],
+   "recording_agency": "DoD",
+   "sensors": [
+    "video"
+   ],
+   "shape": "white orb",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Equilateral triangle UAP observed over ships in the Pacific.",
+   "date_precision": "unknown",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "slowly rotate"
+   ],
+   "country": "International Waters",
+   "date": "",
+   "explanation_status": "unexplained",
+   "location_name": "Pacific Ocean",
+   "page_refs": [
+    37
+   ],
+   "recording_agency": "DoD",
+   "sensors": [
+    "ir",
+    "photo"
+   ],
+   "shape": "equilateral-triangle"
+  },
+  {
+   "summary": "F-22 intercepted and boxed in by metallic orbs.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "hovering",
+    "rapid acceleration",
+    "intercepting"
+   ],
+   "country": "United States",
+   "date": "",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    37
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "radar"
+   ],
+   "shape": "metallic orbs",
+   "size": "smaller than a sedan",
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

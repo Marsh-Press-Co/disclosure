@@ -1,0 +1,37 @@
+{
+ "doc_id": "059uap00011",
+ "file": "pursue-r1--059uap00011.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of State",
+ "title": "State Department UAP Cable 3, Tbilisi, Georgia, October 30, 2001",
+ "record_type": "cable",
+ "index_date": "2001-10-28",
+ "index_location": "Georgia",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a State Department cable from the U.S. Embassy in Moscow discussing diplomatic tensions regarding alleged Russian military incursions into Georgia, where Russian officials dismissively referred to the unidentified aircraft as UFOs.",
+ "incidents": [
+  {
+   "summary": "Alleged violation of Georgian airspace and bombing of Kodori Gorge by unidentified aircraft, which Russian officials suggested could have been UFOs.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "airspace violation",
+    "bombing"
+   ],
+   "country": "Georgia",
+   "date": "2001-10-28",
+   "explanation": "Russian officials denied involvement and suggested the unidentified aircraft could have been UFOs; U.S. embassy staff characterized this as a 'bold lie' to conceal Russian military actions.",
+   "explanation_status": "unexplained",
+   "location_name": "Kodori Gorge",
+   "page_refs": [
+    2,
+    3,
+    4
+   ],
+   "quote": "reports of planes in the area might as well have been about 'UFOS.'",
+   "recording_agency": "Department of State"
+  }
+ ]
+}

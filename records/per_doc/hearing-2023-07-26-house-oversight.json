@@ -1,0 +1,167 @@
+{
+ "doc_id": "hearing-2023-07-26-house-oversight",
+ "file": "hearing-2023-07-26-house-oversight.md",
+ "source": "CONGRESS",
+ "agency": "U.S. House Committee on Oversight and Accountability",
+ "title": "Hearing: Unidentified Anomalous Phenomena - Implications on National Security, Public Safety, and Government Transparency (House Oversight, 26 Jul 2023)",
+ "record_type": "hearing-transcript",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a transcript of a House Oversight Committee hearing held on July 26, 2023, regarding Unidentified Anomalous Phenomena (UAP).",
+ "incidents": [
+  {
+   "summary": "F-18 pilot reports detecting unknown objects in airspace off Virginia Beach after radar upgrades.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "stationary",
+    "accelerate to supersonic speeds",
+    "erratic"
+   ],
+   "color": "dark gray or black",
+   "country": "United States",
+   "date": "2014",
+   "explanation_status": "unexplained",
+   "location_name": "NAS Oceana, Virginia Beach",
+   "page_refs": [
+    14
+   ],
+   "quote": "After upgrades were made to our jet’s radar systems, we began detecting unknown objects operating in our airspace.",
+   "recording_agency": "US Navy",
+   "sensors": [
+    "radar",
+    "ir",
+    "visual"
+   ],
+   "shape": "cube inside of a clear sphere",
+   "size": "5 to 15 feet",
+   "witness_count": "multiple",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Two F-18 Super Hornets encountered a UAP 10 miles off the coast of Virginia Beach.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "stationary",
+    "accelerate to supersonic speeds"
+   ],
+   "color": "dark gray or black",
+   "country": "United States",
+   "date": "2014",
+   "explanation_status": "unexplained",
+   "location_name": "Warning Area W-72",
+   "page_refs": [
+    14
+   ],
+   "quote": "The object, described as a dark gray or a black cube inside of a clear sphere, came within 50 feet of the lead aircraft",
+   "recording_agency": "US Navy",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "cube inside of a clear sphere",
+   "size": "5 to 15 feet",
+   "witness_count": "2",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Tic Tac UAP encounter by USS Nimitz Carrier Airwing 11.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "rapidly descending",
+    "hovering",
+    "abrupt movement",
+    "jamming radar"
+   ],
+   "color": "white",
+   "country": "United States",
+   "date": "2004-11-14",
+   "explanation_status": "unexplained",
+   "location_name": "Off the coast of San Diego",
+   "page_refs": [
+    13,
+    17,
+    41
+   ],
+   "quote": "All four of us... looked down and saw a white Tic Tac object with a longitudinal axis pointing north south",
+   "recording_agency": "US Navy",
+   "sensors": [
+    "radar",
+    "visual",
+    "video"
+   ],
+   "shape": "Tic Tac",
+   "size": "40 feet",
+   "witness_count": "4",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Boeing contractors observed a large red square object hovering over a launch facility.",
+   "date_precision": "year",
+   "time_of_day": "morning",
+   "confidence": "medium",
+   "behavior": [
+    "hovering",
+    "darting off"
+   ],
+   "color": "red",
+   "country": "United States",
+   "date": "2003",
+   "explanation_status": "unexplained",
+   "location_name": "Vandenberg Air Force Base",
+   "page_refs": [
+    28
+   ],
+   "quote": "observed a very large 100-yard sighted red square approach the base from the ocean and hover at low altitude",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "square",
+   "size": "100 yards",
+   "witness_count": "group",
+   "witness_types": [
+    "contractor"
+   ]
+  },
+  {
+   "summary": "Diamond formation UAP encounter over the Gulf of Mexico.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "formation flight",
+    "jamming sensors"
+   ],
+   "country": "United States",
+   "explanation_status": "unexplained",
+   "location_name": "Gulf of Mexico",
+   "page_refs": [
+    41
+   ],
+   "quote": "They saw a sequence of four craft in a clear diamond formation",
+   "recording_agency": "USAF",
+   "sensors": [
+    "radar",
+    "visual"
+   ],
+   "shape": "orb",
+   "witness_count": "multiple",
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

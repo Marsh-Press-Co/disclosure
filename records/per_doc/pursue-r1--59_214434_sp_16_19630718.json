@@ -1,0 +1,44 @@
+{
+ "doc_id": "59_214434_sp_16_19630718",
+ "file": "pursue-r1--59_214434_sp_16_19630718.md",
+ "source": "PURSUE-R1",
+ "agency": "",
+ "title": "59_214434_sp_16_19630718",
+ "record_type": "other",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a 1963 memorandum from the National Aeronautics and Space Council discussing the theoretical policy implications of discovering extraterrestrial intelligence, referencing various speculative lunar phenomena as potential indicators.",
+ "incidents": [
+  {
+   "summary": "Discovery of hot gases emanating from the lunar crater Alphonsus.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "behavior": [
+    "emanating hot gases"
+   ],
+   "explanation_status": "not-assessed",
+   "location_name": "Crater Alphonsus, Moon",
+   "page_refs": [
+    3
+   ],
+   "quote": "The discovery of hot gasses eminating from the crater Alphonsus when the moon was supposedly dead."
+  },
+  {
+   "summary": "Infra-red scans of the moon showing hot spots.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "hot spots",
+   "size": "unknown",
+   "witness_types": [
+    "scientist"
+   ]
+  }
+ ]
+}

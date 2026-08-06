@@ -1,0 +1,99 @@
+{
+ "doc_id": "341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399",
+ "file": "pursue-r1--341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "341_110448_Records_Relating_to_the_Collection_and_Dissemination_of_Intelligence_1948-1955-TS_CONT_No.2_2-5300-2-5399",
+ "record_type": "other",
+ "index_date": "2048-11-08",
+ "index_location": "Netherlands",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of Top Secret and Confidential intelligence reports from the U.S. Air Force in Europe (USAFE) dated November 1948, concerning unidentified aircraft and radar intelligence.",
+ "incidents": [
+  {
+   "summary": "Unidentified aircraft sighted by three crews of the 307th Bomb Group off the west coast of Holland.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "cruising",
+    "leaving smoke trails",
+    "leaving condensation trails",
+    "sudden acceleration",
+    "climb"
+   ],
+   "country": "Netherlands",
+   "date": "1948-09-05",
+   "explanation_status": "unexplained",
+   "location_name": "5155N/0355E",
+   "page_refs": [
+    4
+   ],
+   "quote": "Unidentified aircraft was sighted by three crews of the group at 1402Z 5 Sep 48 off west coast of Holland",
+   "recording_agency": "USAFE",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "single jet propelled A/C",
+   "size": "30,000 feet altitude",
+   "time_local": "1402Z",
+   "witness_count": "three crews",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "A flying saucer was observed hovering over Neubiberg Air Base.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "hovering"
+   ],
+   "country": "Germany",
+   "date": "1948-10",
+   "duration": "thirty minutes",
+   "explanation_status": "unexplained",
+   "location_name": "Neubiberg Air Base",
+   "page_refs": [
+    5
+   ],
+   "quote": "one was observed hovering over Neubiberg Air Base for about thirty minutes",
+   "recording_agency": "USAFE",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "flying saucer",
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "A flying saucer observed by a Swedish technical expert near a lake, resulting in a crater on the lake floor.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "crashed",
+    "landed"
+   ],
+   "country": "Sweden",
+   "date": "1948",
+   "explanation_status": "unexplained",
+   "location_name": "edge of a lake",
+   "page_refs": [
+    5
+   ],
+   "quote": "The object crashed or landed in the lake and he carefully noted its azimuth",
+   "recording_agency": "USAFE",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "flying saucer",
+   "witness_types": [
+    "scientist"
+   ]
+  }
+ ]
+}

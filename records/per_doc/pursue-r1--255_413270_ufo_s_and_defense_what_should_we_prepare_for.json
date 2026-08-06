@@ -1,0 +1,547 @@
+{
+ "doc_id": "255_413270_ufo's_and_defense_what_should_we_prepare_for",
+ "file": "pursue-r1--255_413270_ufo_s_and_defense_what_should_we_prepare_for.md",
+ "source": "PURSUE-R1",
+ "agency": "NASA",
+ "title": "255_413270_UFO's_and_Defense_What_Should_we_Prepare_For",
+ "record_type": "other",
+ "index_date": "1965-06-15",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This document is a declassified French COMETA report on UFOs and defense, detailing various international and French sightings and the organization of UFO research. / This document is a report by the French association COMETA regarding UFOs and defense, including appendices on historical cases, disinformation, and scientific implications, followed by press clippings discussing the report.",
+ "incidents": [
+  {
+   "summary": "Mirage IV pilot and navigator observed a very bright glow on a collision course, which maneuvered to follow them at high speed.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "collision course",
+    "maneuvering",
+    "following"
+   ],
+   "color": "bright glow",
+   "country": "France",
+   "date": "1977-03-07",
+   "explanation_status": "unexplained",
+   "location_name": "Dijon",
+   "page_refs": [
+    13,
+    14
+   ],
+   "quote": "feeling like he was being \"watched\" according to his own words",
+   "recording_agency": "COMETA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Student pilot in a T-33 training aircraft encountered a phosphorescent green sphere that passed over his wing.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "collision course",
+    "hovering",
+    "descending"
+   ],
+   "color": "phosphorescent green",
+   "country": "France",
+   "date": "1976-03-03",
+   "explanation_status": "unexplained",
+   "location_name": "Tours",
+   "page_refs": [
+    14,
+    15
+   ],
+   "quote": "The aircraft was completely enveloped in a very bright and phosphorescent green light.",
+   "recording_agency": "COMETA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "sphere",
+   "size": "1 to 2 m in diameter",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Air France flight crew observed a brown bell-shaped object that transformed into a lens shape before disappearing.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "transforming",
+    "disappearing"
+   ],
+   "color": "brown",
+   "country": "France",
+   "date": "1994-01-28",
+   "explanation_status": "unexplained",
+   "location_name": "Coulommiers",
+   "page_refs": [
+    15
+   ],
+   "quote": "what they were seeing did not resemble anything that they knew of.",
+   "recording_agency": "COMETA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "bell, lens",
+   "size": "250 m",
+   "time_local": "1314",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple radar and visual sightings of unidentified objects moving at high speeds and performing abrupt maneuvers.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "high speed",
+    "abrupt stops",
+    "maneuvering"
+   ],
+   "color": "bright light",
+   "country": "United Kingdom",
+   "date": "1956-08-13",
+   "explanation_status": "unexplained",
+   "location_name": "Lakenheath",
+   "page_refs": [
+    16,
+    17
+   ],
+   "quote": "my machine guns are locked onto him.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_types": [
+    "military-pilot",
+    "military-other"
+   ]
+  },
+  {
+   "summary": "RB-47 bomber crew detected an unidentified object via radar and visual observation, with associated microwave emissions.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "mirroring movements",
+    "disappearing",
+    "reappearing"
+   ],
+   "color": "bluish-white, red",
+   "country": "United States",
+   "date": "1957-07-17",
+   "explanation_status": "unexplained",
+   "location_name": "Texas",
+   "page_refs": [
+    17,
+    18,
+    19
+   ],
+   "quote": "The object changed direction several times, describing line segments",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual",
+    "radar",
+    "ew"
+   ],
+   "time_local": "0330",
+   "witness_types": [
+    "military-pilot",
+    "military-other"
+   ]
+  },
+  {
+   "summary": "F-4 Phantom interceptors experienced instrument and communication failure when approaching a luminous object.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "accelerating",
+    "releasing smaller object"
+   ],
+   "color": "bluish-white, red, orange",
+   "country": "Iran",
+   "date": "1976-09-18",
+   "explanation_status": "unexplained",
+   "location_name": "Tehran",
+   "page_refs": [
+    19,
+    20
+   ],
+   "quote": "An outstanding report. This case is a classic",
+   "recording_agency": "DIA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "rectangle, cylinder",
+   "witness_types": [
+    "military-pilot",
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Multiple visual sightings of disk-shaped objects performing S-turns and hovering.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "hovering",
+    "S-turn",
+    "rotating"
+   ],
+   "country": "Russia",
+   "date": "1990-03-21",
+   "explanation_status": "unexplained",
+   "location_name": "Pereslavl-Zalesski",
+   "page_refs": [
+    20,
+    21
+   ],
+   "quote": "The objects flew at altitudes ranging from 100 to 7000 m.",
+   "recording_agency": "Russian Air Defense",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "disk",
+   "size": "100 to 200 meters",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Commercial flight crew and ground witnesses observed a luminous object performing maneuvers near an airport.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "vertical ascent",
+    "parallel flight"
+   ],
+   "color": "red",
+   "country": "Argentina",
+   "date": "1995-07-31",
+   "explanation_status": "unexplained",
+   "location_name": "San Carlos de Bariloche",
+   "page_refs": [
+    21
+   ],
+   "quote": "the object, which had become luminous, moved behind the airplane",
+   "recording_agency": "SEPRA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian",
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Large green object observed by hundreds of witnesses, causing animal panic and power outages.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "high speed",
+    "hovering"
+   ],
+   "color": "green",
+   "country": "Madagascar",
+   "date": "1954-08-16",
+   "explanation_status": "unexplained",
+   "location_name": "Antananarivo",
+   "page_refs": [
+    21,
+    22
+   ],
+   "quote": "a sort of metal rugby ball preceded by a clearly detached green lens",
+   "recording_agency": "GEPA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "rugby ball",
+   "size": "40 meters",
+   "time_local": "1700",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Pilot and wife observed a metallic object hovering near their home before it departed at high speed.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "oscillating",
+    "high speed departure"
+   ],
+   "color": "metallic gray, bluish",
+   "country": "France",
+   "date": "1979-12-09",
+   "explanation_status": "unexplained",
+   "location_name": "Dijon",
+   "page_refs": [
+    22,
+    23
+   ],
+   "quote": "having the shape of two superposed saucers with very distinct contours",
+   "recording_agency": "GEPAN",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "saucer",
+   "size": "20 m diameter",
+   "time_local": "0915",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Military personnel observed disk-shaped objects hovering and performing maneuvers near a missile base.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "jerky movements"
+   ],
+   "color": "phosphorescent green",
+   "country": "Russia",
+   "date": "1989-07-28",
+   "explanation_status": "unexplained",
+   "location_name": "Kapustin Yar",
+   "page_refs": [
+    23
+   ],
+   "quote": "The saucer sometimes moved abruptly, but soundlessly",
+   "recording_agency": "KGB",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disk",
+   "size": "4-5 m",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Witness observed a landed object and two small beings, resulting in temporary paralysis.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "landed",
+    "vertical ascent"
+   ],
+   "country": "France",
+   "date": "1965-07-01",
+   "explanation_status": "unexplained",
+   "location_name": "Valensole",
+   "page_refs": [
+    24
+   ],
+   "quote": "I was totally immobilized in place, numbed and paralyzed",
+   "recording_agency": "Gendarmerie Nationale",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "Dauphine automobile",
+   "time_local": "0600",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Two children observed four small beings and a sphere, accompanied by a hissing sound and sulfur odor.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "spiral movement"
+   ],
+   "country": "France",
+   "date": "1967-08-29",
+   "explanation_status": "unexplained",
+   "location_name": "Cussac",
+   "page_refs": [
+    24,
+    25
+   ],
+   "quote": "The sphere took off with a hissing sound, then rose into the sky",
+   "recording_agency": "GEPAN",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "sphere",
+   "time_local": "1030",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Witness observed a silent metal object land and take off, leaving physical traces on the ground.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "landed",
+    "take off"
+   ],
+   "country": "France",
+   "date": "1981-01-08",
+   "explanation_status": "unexplained",
+   "location_name": "Trans-en-Provence",
+   "page_refs": [
+    25,
+    26
+   ],
+   "quote": "The object, which was ovoid in shape, did not exhibit any apparent projections",
+   "recording_agency": "GEPAN",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "ovoid",
+   "time_local": "1700",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Witness observed an ovoid craft hovering in his garden for 20 minutes.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "vertical ascent"
+   ],
+   "color": "metallic, blue-green",
+   "country": "France",
+   "date": "1982-10-21",
+   "explanation_status": "unexplained",
+   "location_name": "Nancy",
+   "page_refs": [
+    26,
+    27
+   ],
+   "quote": "ovoid in shape, approximately 1 m in diameter, 80 cm thick",
+   "recording_agency": "GEPAN",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "ovoid",
+   "size": "1 m diameter",
+   "time_local": "0035",
+   "witness_types": [
+    "scientist"
+   ]
+  },
+  {
+   "summary": "Three bright disks performed extraordinary aerial maneuvers over an Army missile base near Astrakhan, moving from hovering to high speed silently.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "high speed",
+    "silent"
+   ],
+   "color": "bright",
+   "country": "USSR",
+   "date": "1989",
+   "explanation_status": "unexplained",
+   "location_name": "Astrakhan",
+   "object_count": "3",
+   "page_refs": [
+    50
+   ],
+   "quote": "extraordinary aerial maneuvers of three bright disks",
+   "recording_agency": "KGB",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disk",
+   "witness_count": "7",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "A silent discoid object was observed moving from hovering to speeds two or three times faster than a modern fighter jet.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "high speed",
+    "silent"
+   ],
+   "country": "USSR",
+   "date": "1990-03-21",
+   "explanation_status": "unexplained",
+   "location_name": "Pereslav-Zalesski",
+   "object_count": "1",
+   "page_refs": [
+    50
+   ],
+   "quote": "silent discoid object went from hovering to a speed two or three times faster",
+   "recording_agency": "USSR Air Defense",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "discoid",
+   "witness_count": "multiple",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "A luminescent object hovered above the runway of Barnaul airport, causing a cargo plane crew to refuse takeoff and another to divert.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "hovering"
+   ],
+   "color": "luminescent",
+   "country": "Russia",
+   "date": "2001-01-26",
+   "duration": "90 minutes",
+   "explanation_status": "unexplained",
+   "location_name": "Barnaul airport",
+   "object_count": "1",
+   "page_refs": [
+    93
+   ],
+   "quote": "luminescent unidentified flying object hovered above its runway",
+   "recording_agency": "Agence France Presse",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2754 @@
+{
+ "doc_id": "38_143685_box7_incident_summaries_1-100",
+ "file": "pursue-r1--38_143685_box7_incident_summaries_1-100.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "38_143685_box7_Incident_Summaries_1-100",
+ "record_type": "other",
+ "index_date": "1955-06-15",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of declassified incident summaries regarding unidentified flying objects, containing checklists and witness reports from 1946-1948.",
+ "incidents": [
+  {
+   "summary": "Two silver disc-like objects observed moving north at 8000 ft, followed by a third object performing tight circles.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "tight circle",
+    "moving north"
+   ],
+   "color": "silver",
+   "country": "USA",
+   "date": "1947-07-08",
+   "explanation_status": "unexplained",
+   "location_name": "Muroc Air Field, Muroc, Calif",
+   "object_count": "3",
+   "page_refs": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "quote": "2 silver objects of either spherical or disc-like shape",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc-like or spherical",
+   "time_local": "0930",
+   "witness_count": "7",
+   "witness_types": [
+    "military-other",
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "Metallic object observed oscillating from intermediate altitude to near ground and climbing again.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "oscillating",
+    "climbing"
+   ],
+   "color": "aluminum",
+   "country": "USA",
+   "date": "1947-07-08",
+   "explanation_status": "unexplained",
+   "location_name": "Muroc Army Air Field, Muroc, California",
+   "object_count": "1",
+   "page_refs": [
+    8
+   ],
+   "quote": "The object moved from an intermediate altitude in an oscillating fashion",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unconventional",
+   "time_local": "1200",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Yellowish white sphere observed oscillating in a forward whirling movement.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "oscillating",
+    "whirling"
+   ],
+   "color": "yellowish white",
+   "country": "USA",
+   "date": "1947-07-07",
+   "explanation_status": "unexplained",
+   "location_name": "Muroc Army Air Field, Muroc, California",
+   "object_count": "1",
+   "page_refs": [
+    9,
+    10
+   ],
+   "quote": "oscillating in a forward whirling movement without losing altitude",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "sphere",
+   "time_local": "10:10",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Rounded silvery object observed descending with rotation or oscillation.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "rotation",
+    "oscillation",
+    "falling"
+   ],
+   "color": "silvery",
+   "country": "USA",
+   "date": "1947-07-08",
+   "explanation_status": "unexplained",
+   "location_name": "Rogers Dry Lake, California",
+   "object_count": "1",
+   "page_refs": [
+    11,
+    12
+   ],
+   "quote": "distinct ovular outline, with two (2) projections on the upper surface",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "ovular",
+   "time_local": "11:50",
+   "witness_count": "4",
+   "witness_types": [
+    "military-pilot",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Five large discs observed dipping in an oscillating motion.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "oscillating",
+    "dipping"
+   ],
+   "country": "USA",
+   "date": "1947-07-04",
+   "explanation_status": "unexplained",
+   "location_name": "Portland, Oregon",
+   "object_count": "5",
+   "page_refs": [
+    13,
+    14
+   ],
+   "quote": "dipped in an up and down oscillating motion",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round disc",
+   "time_local": "1305",
+   "witness_count": "1",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Aluminum disc observed performing 90-degree turns.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "90-degree turn"
+   ],
+   "color": "aluminum",
+   "country": "USA",
+   "date": "1947-07-04",
+   "explanation_status": "unexplained",
+   "location_name": "Portland, Oregon",
+   "object_count": "1",
+   "page_refs": [
+    15,
+    16
+   ],
+   "quote": "could change direction at a 90° angle without difficulty",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "time_local": "1305",
+   "witness_count": "1",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Three discs observed following each other at high speed.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "following"
+   ],
+   "color": "whitish brown",
+   "country": "USA",
+   "date": "1947-07-04",
+   "explanation_status": "unexplained",
+   "location_name": "Milwaukee, Oregon",
+   "object_count": "3",
+   "page_refs": [
+    17,
+    18
+   ],
+   "quote": "three discs following each other at an undetermined altitude at terrific speed",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "time_local": "1305",
+   "witness_count": "1",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Three flat round discs in straight line formation, one fluttering in an arc.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "fluttering",
+    "straight line formation"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "1947-07-04",
+   "explanation_status": "unexplained",
+   "location_name": "Portland, Oregon",
+   "object_count": "3",
+   "page_refs": [
+    19,
+    20,
+    21,
+    22
+   ],
+   "quote": "three flat round discs which flew at terrific speed in straight line formation",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "time_local": "1305",
+   "witness_count": "2",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Three to six shiny objects oscillating and changing shape.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "oscillating",
+    "wobbling",
+    "disappearing and reappearing"
+   ],
+   "color": "chromium",
+   "country": "USA",
+   "date": "1947-07-04",
+   "explanation_status": "unexplained",
+   "location_name": "Portland, Oregon",
+   "object_count": "3-6",
+   "page_refs": [
+    23,
+    24
+   ],
+   "quote": "The discs would oscillate and sometimes we would see a full disc, then a half-moon shape",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc/half-moon",
+   "time_local": "1305",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Nine flying discs observed in loose formation by airline crew.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "loose formation"
+   ],
+   "country": "USA",
+   "date": "1947-07-04",
+   "explanation_status": "unexplained",
+   "location_name": "Emmett, Idaho",
+   "object_count": "9",
+   "page_refs": [
+    25,
+    26
+   ],
+   "quote": "thin and smooth on the bottom and rough appearing on top",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "time_local": "20:04",
+   "witness_count": "3",
+   "witness_types": [
+    "military-pilot",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Saucer or ball shaped object observed overhead.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "speeding"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "1947-07-04",
+   "explanation_status": "unexplained",
+   "location_name": "Lake City, Seattle, Wash",
+   "object_count": "1",
+   "page_refs": [
+    27,
+    28
+   ],
+   "quote": "saucer or ball shaped",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual",
+    "photo"
+   ],
+   "shape": "saucer or ball",
+   "time_local": "evening",
+   "witness_count": "2",
+   "witness_types": [
+    "federal-le",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Twenty to thirty objects in V-formation observed with humming sound.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "V-formation"
+   ],
+   "country": "USA",
+   "date": "1947-07-04",
+   "explanation_status": "unexplained",
+   "location_name": "Vancouver, Washington",
+   "object_count": "20-30",
+   "page_refs": [
+    29,
+    30
+   ],
+   "quote": "saw 20 to 30 objects like a flight of geese",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "V-shaped",
+   "time_local": "1305",
+   "witness_count": "3",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Three metallic discs observed glinting in sunlight.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "fast flight"
+   ],
+   "color": "metallic",
+   "country": "USA",
+   "date": "1947-07-04",
+   "explanation_status": "unexplained",
+   "location_name": "Portland, Oregon",
+   "object_count": "3",
+   "page_refs": [
+    31,
+    32
+   ],
+   "quote": "Resembled metallic discs glinting in sunlight",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "time_local": "1400",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Silvery disc observed flipping around.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "flipping"
+   ],
+   "color": "silvery",
+   "country": "USA",
+   "date": "1947-07-04",
+   "explanation_status": "unexplained",
+   "location_name": "Portland, Oregon",
+   "object_count": "1",
+   "page_refs": [
+    33
+   ],
+   "quote": "disc like a new dime flipping around",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "time_local": "1630",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Three silver objects observed heading southeast and northeast.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "heading"
+   ],
+   "color": "silver",
+   "country": "USA",
+   "date": "1947-07-04",
+   "explanation_status": "unexplained",
+   "location_name": "Portland, Oregon",
+   "object_count": "3",
+   "page_refs": [
+    34
+   ],
+   "quote": "One object was heading southeast and two others were going northeast",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "time_local": "1700",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Four discs observed flying past Mt Jefferson.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "flying"
+   ],
+   "country": "USA",
+   "date": "1947-07-04",
+   "explanation_status": "unexplained",
+   "location_name": "Mt Jefferson, Oregon",
+   "object_count": "4",
+   "page_refs": [
+    35
+   ],
+   "quote": "four discs flew past Mt Jefferson",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "time_local": "1100",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Nine mirror-like craft observed in a diagonal chain-like line.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "swerving",
+    "dipping"
+   ],
+   "color": "mirror-like",
+   "country": "USA",
+   "date": "1947-06-24",
+   "explanation_status": "unexplained",
+   "location_name": "Mt. Ranier, Washington",
+   "object_count": "9",
+   "page_refs": [
+    36,
+    37
+   ],
+   "quote": "chain of 9 peculiar looking craft flying from north to south",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular",
+   "time_local": "1500",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Two cigar-shaped craft observed flying in straight course.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "straight course"
+   ],
+   "color": "reflected light",
+   "country": "USA",
+   "date": "1947-10-20",
+   "explanation_status": "unexplained",
+   "location_name": "Dayton, Ohio",
+   "object_count": "2",
+   "page_refs": [
+    38,
+    39
+   ],
+   "quote": "strange looking craft flying very fast in a very straight course",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "cigar",
+   "time_local": "1320",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Silver round object observed flying in straight course.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "straight course"
+   ],
+   "color": "silver",
+   "country": "USA",
+   "date": "1947-10-20",
+   "explanation_status": "unexplained",
+   "location_name": "Xenia, Ohio",
+   "object_count": "1",
+   "page_refs": [
+    40
+   ],
+   "quote": "Could not see any propellers or dome",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "time_local": "1100",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Thirteen objects observed in single file formation.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "single file"
+   ],
+   "color": "dirty white",
+   "country": "USA",
+   "date": "1947-06-29",
+   "explanation_status": "unexplained",
+   "location_name": "Des Moines, Iowa",
+   "object_count": "13",
+   "page_refs": [
+    41
+   ],
+   "quote": "Between circle and oval - inverted saucer",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "inverted saucer",
+   "time_local": "1645",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Shiny object observed flashing intermittently.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "flashing"
+   ],
+   "color": "shiny silvery",
+   "country": "USA",
+   "date": "1947-06-21",
+   "explanation_status": "unexplained",
+   "location_name": "Spokane, Washington",
+   "object_count": "1",
+   "page_refs": [
+    42,
+    43
+   ],
+   "quote": "bright shiny flash attracted my attention",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "time_local": "1200",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Half-circled bright object observed clinging to a cloud.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "stationary"
+   ],
+   "color": "bright silvery",
+   "country": "USA",
+   "date": "1947-06-30",
+   "explanation_status": "unexplained",
+   "location_name": "Boise, Idaho",
+   "object_count": "1",
+   "page_refs": [
+    44,
+    45
+   ],
+   "quote": "clinging to a huge cloud",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "half-circled",
+   "time_local": "1745",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Tiny object emitting vapor observed shooting up and down.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "shooting up and down"
+   ],
+   "color": "glistening",
+   "country": "USA",
+   "date": "1947-06-12",
+   "explanation_status": "unexplained",
+   "location_name": "Weiser, Idaho",
+   "object_count": "2",
+   "page_refs": [
+    46,
+    47
+   ],
+   "quote": "another object shot into the sky",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "time_local": "1815",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Luminous flying saucer observed traveling east.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "traveling"
+   ],
+   "color": "luminous",
+   "country": "USA",
+   "date": "1947-07-04",
+   "explanation_status": "unexplained",
+   "location_name": "West Trenton, New Jersey",
+   "object_count": "1",
+   "page_refs": [
+    48,
+    49
+   ],
+   "quote": "self-luminous with no tail or halo",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "flying saucer",
+   "time_local": "2345",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Bluish streak observed cutting through clouds.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "circular path"
+   ],
+   "color": "bluish",
+   "country": "Canada",
+   "date": "1947-07-10",
+   "explanation_status": "unexplained",
+   "location_name": "Harmon Field, Newfoundland",
+   "object_count": "1",
+   "page_refs": [
+    50,
+    51
+   ],
+   "quote": "bluish streak left in the sky which could not have been a cloud formation",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual",
+    "photo"
+   ],
+   "shape": "unknown",
+   "time_local": "1500",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Comet-like object observed hanging in the western sky.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "hovering"
+   ],
+   "country": "USA",
+   "date": "1947-06-24",
+   "explanation_status": "unexplained",
+   "location_name": "Idaho",
+   "object_count": "1",
+   "page_refs": [
+    52,
+    53
+   ],
+   "quote": "comet-like object hanging in the western sky",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "comet-like",
+   "time_local": "unknown",
+   "witness_count": "1",
+   "witness_types": [
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "Ten objects in V-formation observed.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "V-formation"
+   ],
+   "country": "USA",
+   "date": "1947-06-14",
+   "explanation_status": "unexplained",
+   "location_name": "Portland, Oregon",
+   "object_count": "10",
+   "page_refs": [
+    54,
+    55
+   ],
+   "quote": "flying in V formation with one object straggling in the rear",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "flying flapjack",
+   "time_local": "1200",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Bright white light observed hovering and descending.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "descending"
+   ],
+   "color": "white to orange",
+   "country": "USA",
+   "date": "1948-01-07",
+   "explanation_status": "unexplained",
+   "location_name": "Lockbourne Army Air Base, Columbus, Ohio",
+   "object_count": "1",
+   "page_refs": [
+    56,
+    57,
+    58,
+    59,
+    60,
+    61
+   ],
+   "quote": "glowing object with a cone-shaped streak to the right",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "oval",
+   "time_local": "1925",
+   "witness_count": "4",
+   "witness_types": [
+    "military-pilot",
+    "military-other"
+   ]
+  },
+  {
+   "summary": "White vapor trail observed at high altitude.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "behavior": [
+    "straight flight"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "1946-12",
+   "explanation_status": "unexplained",
+   "location_name": "Northern Arizona",
+   "object_count": "1",
+   "page_refs": [
+    62
+   ],
+   "quote": "Saw only vapor trail, like rocket or jet exhaust",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "time_local": "unknown",
+   "witness_count": "1",
+   "witness_types": [
+    "scientist"
+   ]
+  },
+  {
+   "summary": "Large amber light observed stationary.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "stationary"
+   ],
+   "color": "amber",
+   "country": "USA",
+   "date": "1948-01-07",
+   "explanation_status": "unexplained",
+   "location_name": "Columbus, Ohio",
+   "object_count": "1",
+   "page_refs": [
+    63,
+    64
+   ],
+   "quote": "Large bright light off to the west",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "star-like",
+   "time_local": "1953",
+   "witness_count": "2",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Large circular metallic object observed being pursued by P-51 aircraft.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "climbing",
+    "pursued"
+   ],
+   "color": "silvery",
+   "country": "USA",
+   "date": "1948-01-07",
+   "explanation_status": "unexplained",
+   "location_name": "Godman Field, Fort Knox, Ky",
+   "object_count": "1",
+   "page_refs": [
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78
+   ],
+   "quote": "it appears metallic of tremendous size",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular",
+   "time_local": "1345",
+   "witness_count": "10",
+   "witness_types": [
+    "military-pilot",
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Cone-shaped object observed moving slowly.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "medium",
+   "behavior": [
+    "moving"
+   ],
+   "country": "USA",
+   "date": "1947-07-07",
+   "explanation_status": "unexplained",
+   "location_name": "Madisonville, Ky",
+   "object_count": "1",
+   "page_refs": [
+    79,
+    80
+   ],
+   "quote": "cone shape",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "cone",
+   "time_local": "1310",
+   "witness_count": "1",
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "Two discs trailing fire observed moving in an arc.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "arc flight"
+   ],
+   "country": "USA",
+   "date": "1947-11-12",
+   "explanation_status": "unexplained",
+   "location_name": "Cape Blanco, Oregon",
+   "object_count": "2",
+   "page_refs": [
+    81,
+    82
+   ],
+   "quote": "Two flying discs trailing jet-like streams of fire",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "ball",
+   "time_local": "early",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Pulsating bluish-green light observed moving over mountains.",
+   "date_precision": "unknown",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "pulsating"
+   ],
+   "color": "bluish-green",
+   "country": "USA",
+   "date": "unknown",
+   "explanation_status": "unexplained",
+   "location_name": "Boise, Idaho",
+   "object_count": "1",
+   "page_refs": [
+    83
+   ],
+   "quote": "pulsating bluish-green light",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "time_local": "after dark",
+   "witness_count": "1",
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "Flying wing-shaped object observed moving in straight line.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "straight flight"
+   ],
+   "color": "red/black",
+   "country": "USA",
+   "date": "1947-10-14",
+   "explanation_status": "unexplained",
+   "location_name": "Phoenix, Arizona",
+   "object_count": "1",
+   "page_refs": [
+    84,
+    85
+   ],
+   "quote": "resembled a flying wing",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "flying wing",
+   "time_local": "1200",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Four round figures observed flying side by side.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "rocking motion"
+   ],
+   "color": "phosphorescent",
+   "country": "Canada",
+   "date": "1947-07-09",
+   "explanation_status": "unexplained",
+   "location_name": "Grand Falls, Newfoundland",
+   "object_count": "5",
+   "page_refs": [
+    86,
+    87
+   ],
+   "quote": "huge jelly-fish flash across the sky",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "time_local": "2330",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Elliptical object observed spiraling and ascending.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "spiraling",
+    "ascending"
+   ],
+   "color": "grey",
+   "country": "USA",
+   "date": "1947-07-07",
+   "explanation_status": "unexplained",
+   "location_name": "Phoenix, Arizona",
+   "object_count": "1",
+   "page_refs": [
+    88,
+    89
+   ],
+   "quote": "Spiraled down from 5000' to 2000 ft and then ascended at 45° angle",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual",
+    "photo"
+   ],
+   "shape": "elliptical",
+   "time_local": "1600",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Thirteen inverted saucer-shaped objects in single file.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "single file"
+   ],
+   "color": "dirty white",
+   "country": "USA",
+   "date": "1947-06-29",
+   "explanation_status": "unexplained",
+   "location_name": "Clarion, Iowa",
+   "object_count": "13",
+   "page_refs": [
+    90,
+    91
+   ],
+   "quote": "inverted saucer flying thru the air",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "inverted saucer",
+   "time_local": "1645",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Seven to ten saucer-shaped objects observed flying south.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "flying"
+   ],
+   "country": "USA",
+   "date": "1947-06-28",
+   "explanation_status": "unexplained",
+   "location_name": "Rockfield, Wisconsin",
+   "object_count": "7-10",
+   "page_refs": [
+    92,
+    93
+   ],
+   "quote": "went like blue blazes",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "saucer",
+   "time_local": "1543",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Discs sighted over Illinois.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "behavior": [
+    "flying"
+   ],
+   "country": "USA",
+   "date": "1947-06-28",
+   "explanation_status": "unexplained",
+   "location_name": "Illinois",
+   "object_count": "7-10",
+   "page_refs": [
+    94,
+    95
+   ],
+   "quote": "discs had been sighted over Illinois",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "time_local": "unknown",
+   "witness_count": "0",
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "Flaming red cone trailing green mist observed.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "bursts of speed"
+   ],
+   "color": "red",
+   "country": "USA",
+   "date": "1948-01-07",
+   "explanation_status": "unexplained",
+   "location_name": "Wilmington, Ohio",
+   "object_count": "1",
+   "page_refs": [
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105
+   ],
+   "quote": "flaming red cone trailing a gaseous green mist",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "cone",
+   "time_local": "1920",
+   "witness_count": "10",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Pencil-like object observed leaving smoke trail and exploding.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "exploding"
+   ],
+   "country": "USA",
+   "date": "1948-01-09",
+   "explanation_status": "unexplained",
+   "location_name": "Danville, Kentucky",
+   "object_count": "1",
+   "page_refs": [
+    106,
+    107
+   ],
+   "quote": "pencil-like object flying very high which left a long trail of smoke",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "pencil",
+   "time_local": "2300",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Ovular object split into two pieces and fell into the sea.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "falling"
+   ],
+   "color": "yellow/red/amber",
+   "country": "USA",
+   "date": "1948-01-10",
+   "explanation_status": "unexplained",
+   "location_name": "Wildwood, New Jersey",
+   "object_count": "1",
+   "page_refs": [
+    108,
+    109,
+    110,
+    111
+   ],
+   "quote": "one object which split into two separate pieces and fell into the ocean",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "ovular",
+   "time_local": "2200",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Twelve to fifteen round silver objects observed at high altitude.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "flying"
+   ],
+   "color": "silver",
+   "country": "USA",
+   "date": "1947-09-03",
+   "explanation_status": "unexplained",
+   "location_name": "Oswego, Oregon",
+   "object_count": "12-15",
+   "page_refs": [
+    112
+   ],
+   "quote": "12 to 15 round silver objects seen at high altitude",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "time_local": "1215",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Two circular objects observed flying fast.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "flying"
+   ],
+   "color": "white shiny",
+   "country": "USA",
+   "date": "1947-07-29",
+   "explanation_status": "unexplained",
+   "location_name": "Hamilton Field, California",
+   "object_count": "2",
+   "page_refs": [
+    113,
+    114,
+    115,
+    116
+   ],
+   "quote": "circular like a ball on the bottom but not completely round",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular",
+   "time_local": "1450",
+   "witness_count": "2",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Five or six white circular objects in close formation.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "flying"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "1947-06-28",
+   "explanation_status": "unexplained",
+   "location_name": "Lake Meade, Nevada",
+   "object_count": "5-6",
+   "page_refs": [
+    117,
+    118
+   ],
+   "quote": "5 or 6 white, circular objects",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular",
+   "time_local": "1515",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Reddish light observed darting abruptly.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "darting"
+   ],
+   "color": "reddish",
+   "country": "Canada",
+   "date": "1947-07-23",
+   "explanation_status": "unexplained",
+   "location_name": "Harmon Field, Newfoundland",
+   "object_count": "1",
+   "page_refs": [
+    119,
+    120
+   ],
+   "quote": "abrupt darts of light",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "time_local": "0715",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Seven to ten round objects observed traveling in an arc.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "arc flight"
+   ],
+   "country": "USA",
+   "date": "1947-07-06",
+   "explanation_status": "unexplained",
+   "location_name": "Birmingham, Alabama",
+   "object_count": "7-10",
+   "page_refs": [
+    121,
+    122
+   ],
+   "quote": "appeared to be traveling in a definite arc",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual",
+    "photo"
+   ],
+   "shape": "round",
+   "time_local": "2045",
+   "witness_count": "2",
+   "witness_types": [
+    "military-other",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Silvery to reddish flashes observed at equal intervals.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flashing"
+   ],
+   "color": "silvery to reddish",
+   "country": "Canada",
+   "date": "1947-07-20",
+   "explanation_status": "unexplained",
+   "location_name": "Sydney, Nova Scotia",
+   "object_count": "4-5",
+   "page_refs": [
+    123,
+    124
+   ],
+   "quote": "flashes approximately one second apart and equidistant",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "time_local": "0015",
+   "witness_count": "5",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Black saucer-like object observed without motors or wings.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "flying"
+   ],
+   "color": "black",
+   "country": "USA",
+   "date": "1947-08-04",
+   "explanation_status": "unexplained",
+   "location_name": "Bethel, Alaska",
+   "object_count": "1",
+   "page_refs": [
+    125,
+    126
+   ],
+   "quote": "saucer - like that of C-54 (from rear) but without motors or flying wings",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "saucer",
+   "time_local": "evening",
+   "witness_count": "2",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Intense white light observed veering and splitting into two.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "veering"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "1947-09-12",
+   "explanation_status": "unexplained",
+   "location_name": "Necker Island",
+   "object_count": "1",
+   "page_refs": [
+    127,
+    128
+   ],
+   "quote": "bright light appeared to split into two parts and assumed a reddish hue",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "time_local": "0558",
+   "witness_count": "2",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Red and yellow circular object observed with yellowish tail.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "fast flight"
+   ],
+   "color": "red and yellow",
+   "country": "Canada",
+   "date": "1947-07-10",
+   "explanation_status": "unexplained",
+   "location_name": "Cordroy, Newfoundland",
+   "object_count": "1",
+   "page_refs": [
+    129,
+    130
+   ],
+   "quote": "circle itself appeared to be sort of red and yellow",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circle",
+   "time_local": "1000",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Bright reddish yellow object observed shooting down.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "shooting down"
+   ],
+   "color": "reddish yellow",
+   "country": "Canada",
+   "date": "1947-07-10",
+   "explanation_status": "unexplained",
+   "location_name": "Cordroy, Newfoundland",
+   "object_count": "1",
+   "page_refs": [
+    131,
+    132
+   ],
+   "quote": "I saw it only for a minute because it was traveling at a terrific speed",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "time_local": "1000",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Group of white illuminated objects observed circling city.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "circling"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "1947-09-08",
+   "explanation_status": "unexplained",
+   "location_name": "Logan, Utah",
+   "object_count": "12",
+   "page_refs": [
+    133,
+    134
+   ],
+   "quote": "white and illuminated",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "time_local": "2230",
+   "witness_count": "4",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Group of moving stars observed traveling clockwise.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "clockwise flight"
+   ],
+   "country": "USA",
+   "date": "1947-09-08",
+   "explanation_status": "unexplained",
+   "location_name": "Logan, Utah",
+   "object_count": "unknown",
+   "page_refs": [
+    135,
+    136
+   ],
+   "quote": "group of flying objects similar in appearance to a group of moving stars",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "time_local": "2230",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Polished nickel disc observed hovering and swooping.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "swooping"
+   ],
+   "color": "polished nickel",
+   "country": "USA",
+   "date": "1947-07-29",
+   "explanation_status": "unexplained",
+   "location_name": "Canyon Ferry, Montana",
+   "object_count": "1",
+   "page_refs": [
+    137,
+    138
+   ],
+   "quote": "bright disc hovering and fluttering in the air",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular",
+   "time_local": "1205",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple triangular formations of glowing objects observed.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "triangular formation"
+   ],
+   "color": "glow",
+   "country": "USA",
+   "date": "1947-08-19",
+   "explanation_status": "unexplained",
+   "location_name": "Twin Falls, Idaho",
+   "object_count": "35-50",
+   "page_refs": [
+    139,
+    140
+   ],
+   "quote": "10 similar objects proceed rapidly in the same direction in the form of a triangle",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "time_local": "2130",
+   "witness_count": "6",
+   "witness_types": [
+    "civilian",
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Bright orange flame observed moving horizontally.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "horizontal flight"
+   ],
+   "color": "bright orange",
+   "country": "USA",
+   "date": "1947-08-10",
+   "explanation_status": "unexplained",
+   "location_name": "Silver Springs, Ohio",
+   "object_count": "1",
+   "page_refs": [
+    141,
+    142
+   ],
+   "quote": "bright orange glow or flame",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "time_local": "2100",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Metallic rocket-shaped object observed in shallow dive.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "shallow dive"
+   ],
+   "color": "polished chromium",
+   "country": "USA",
+   "date": "1947-08-14",
+   "explanation_status": "unexplained",
+   "location_name": "Placerville, California",
+   "object_count": "1",
+   "page_refs": [
+    143,
+    144
+   ],
+   "quote": "object 4 to 6 ft in length x 10 to 14 inches wide and of a metal color",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "rectangular/rocket",
+   "time_local": "1600",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Round disc with tail observed banking.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "banking"
+   ],
+   "country": "USA",
+   "date": "1947-06-24",
+   "explanation_status": "unexplained",
+   "location_name": "Cascade Mountains, Oregon",
+   "object_count": "5-6",
+   "page_refs": [
+    145,
+    146
+   ],
+   "quote": "disc proceeding in a southerly direction",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round with tail",
+   "time_local": "unknown",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Large white object observed traveling fast with buzzing sound.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "fast flight"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "1947-08-06",
+   "explanation_status": "unexplained",
+   "location_name": "Philadelphia, Pennsylvania",
+   "object_count": "1",
+   "page_refs": [
+    147,
+    148,
+    149,
+    150
+   ],
+   "quote": "large white object traveling at a very fast rate of speed",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "time_local": "2230",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Bluish-white flame object observed passing quickly.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "fast flight"
+   ],
+   "color": "bluish-white",
+   "country": "USA",
+   "date": "1947-08-06",
+   "explanation_status": "unexplained",
+   "location_name": "Philadelphia, Pennsylvania",
+   "object_count": "1",
+   "page_refs": [
+    151,
+    152,
+    153,
+    154
+   ],
+   "quote": "object which emitted a bluish-white flame pass quickly thru the air",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "time_local": "2245",
+   "witness_count": "4",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "White trail observed at high speed.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "straight flight"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "1947-10-08",
+   "explanation_status": "unexplained",
+   "location_name": "Las Vegas, Nevada",
+   "object_count": "1",
+   "page_refs": [
+    155,
+    156
+   ],
+   "quote": "Trail almost white and of cumulus cloud density",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "time_local": "unknown",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Metallic spherical object observed traveling against the wind.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "traveling against wind"
+   ],
+   "color": "metallic silver",
+   "country": "USA",
+   "date": "1947-09-17",
+   "explanation_status": "unexplained",
+   "location_name": "Fort Richardson, Alaska",
+   "object_count": "1",
+   "page_refs": [
+    157,
+    158
+   ],
+   "quote": "object appeared metallic and silver in color",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "spherical",
+   "time_local": "unknown",
+   "witness_count": "2",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Elliptical bright orange object observed.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "flying"
+   ],
+   "color": "bright orange",
+   "country": "USA",
+   "date": "1947-08-04",
+   "explanation_status": "unexplained",
+   "location_name": "Boston, Massachusetts",
+   "object_count": "2",
+   "page_refs": [
+    159,
+    160
+   ],
+   "quote": "bright orange object slightly below the level of their aircraft",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "elliptical",
+   "time_local": "1600",
+   "witness_count": "2",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Sky-blue oblong object observed following ground contours.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "following contours"
+   ],
+   "color": "sky blue",
+   "country": "USA",
+   "date": "1947-08-13",
+   "explanation_status": "unexplained",
+   "location_name": "Snake River Canyon, Idaho",
+   "object_count": "1",
+   "page_refs": [
+    161,
+    162
+   ],
+   "quote": "oblong broad rimmed hat with low crown",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "oblong",
+   "time_local": "unknown",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Two circular objects observed reflecting light.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "flying"
+   ],
+   "country": "USA",
+   "date": "1947-08-13",
+   "explanation_status": "unexplained",
+   "location_name": "Salmon Dam, Idaho",
+   "object_count": "2",
+   "page_refs": [
+    163,
+    164
+   ],
+   "quote": "two circular objects which reflected light",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular",
+   "time_local": "unknown",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Group of light-colored objects observed moving irregularly.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "irregular movement"
+   ],
+   "color": "light-colored",
+   "country": "USA",
+   "date": "1947-07-03",
+   "explanation_status": "unexplained",
+   "location_name": "South Brooksville, Maine",
+   "object_count": "10",
+   "page_refs": [
+    165,
+    166
+   ],
+   "quote": "moving irregularly like a swarm of bees",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "time_local": "1530",
+   "witness_count": "1",
+   "witness_types": [
+    "scientist"
+   ]
+  },
+  {
+   "summary": "Two circular light gray objects observed descending vertically.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "descending vertically"
+   ],
+   "color": "light gray",
+   "country": "USA",
+   "date": "1947-06-30",
+   "explanation_status": "unexplained",
+   "location_name": "Grand Canyon, Arizona",
+   "object_count": "2",
+   "page_refs": [
+    167,
+    168
+   ],
+   "quote": "2 round objects going at inconceivable speeds straight down",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular",
+   "time_local": "0910",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Metallic disc observed below weather balloon.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "level flight"
+   ],
+   "color": "metallic silver",
+   "country": "USA",
+   "date": "1947-04",
+   "explanation_status": "unexplained",
+   "location_name": "Richmond, Virginia",
+   "object_count": "1",
+   "page_refs": [
+    169,
+    170
+   ],
+   "quote": "metallic-like chrome - shaped something like an ellipse",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "ellipse",
+   "time_local": "1100",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Blob of light observed crossing at high speed.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "fast flight"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "1947-07-07",
+   "explanation_status": "unexplained",
+   "location_name": "Arlington, Virginia",
+   "object_count": "1",
+   "page_refs": [
+    171,
+    172
+   ],
+   "quote": "blob of light crossing at very high speed",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "blob",
+   "time_local": "2230",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Large balloon with silver disc suspended below.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "revolving"
+   ],
+   "color": "silver",
+   "country": "USA",
+   "date": "1947-07-07",
+   "explanation_status": "unexplained",
+   "location_name": "Hickam Field, Hawaii",
+   "object_count": "1",
+   "page_refs": [
+    173,
+    174
+   ],
+   "quote": "large balloon with a silver disc (not unlike a camera lens) suspended below it",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "spherical",
+   "time_local": "0900",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Frosty white disc observed moving at high speed.",
+   "date_precision": "month",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "straight flight"
+   ],
+   "color": "frosty white",
+   "country": "USA",
+   "date": "1947-05",
+   "explanation_status": "unexplained",
+   "location_name": "Oklahoma City, Oklahoma",
+   "object_count": "1",
+   "page_refs": [
+    175,
+    176
+   ],
+   "quote": "Round but disc-like with no protrusions",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "time_local": "2030",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Round black object observed performing barrel roll.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "barrel roll"
+   ],
+   "color": "black",
+   "country": "USA",
+   "date": "1947-07-09",
+   "explanation_status": "unexplained",
+   "location_name": "Boise, Idaho",
+   "object_count": "1",
+   "page_refs": [
+    177,
+    178
+   ],
+   "quote": "performed a maneuver which looked as if it had begun a slow roll",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual",
+    "photo"
+   ],
+   "shape": "round",
+   "time_local": "unknown",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Five shiny objects observed climbing rapidly.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "climbing"
+   ],
+   "color": "glittery",
+   "country": "USA",
+   "date": "1947-07-07",
+   "explanation_status": "unexplained",
+   "location_name": "Lakeland, Florida",
+   "object_count": "5",
+   "page_refs": [
+    179,
+    180
+   ],
+   "quote": "5 shiny objects going upward",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual",
+    "photo"
+   ],
+   "shape": "unknown",
+   "time_local": "1300",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Saucer-shaped objects observed with ray phenomena.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "spinning"
+   ],
+   "color": "red",
+   "country": "USA",
+   "date": "1947-07-06",
+   "explanation_status": "unexplained",
+   "location_name": "Hollywood, California",
+   "object_count": "several",
+   "page_refs": [
+    181,
+    182
+   ],
+   "quote": "spinning objects of some red substance",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "saucer",
+   "time_local": "unknown",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Object observed descending in spiral motion.",
+   "date_precision": "year",
+   "time_of_day": "evening",
+   "confidence": "medium",
+   "behavior": [
+    "spiraling"
+   ],
+   "country": "Germany",
+   "date": "1945",
+   "explanation_status": "unexplained",
+   "location_name": "Habberbishophiem, Germany",
+   "object_count": "1",
+   "page_refs": [
+    183,
+    184
+   ],
+   "quote": "suddenly dropped in a spiral motion",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "time_local": "evening",
+   "witness_count": "1",
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "Flying disc observed revolving.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "revolving"
+   ],
+   "country": "USA",
+   "date": "1947-08-03",
+   "explanation_status": "unexplained",
+   "location_name": "Hackensack, New Jersey",
+   "object_count": "1",
+   "page_refs": [
+    185,
+    186
+   ],
+   "quote": "revolving slowly but moving rapidly",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "time_local": "late afternoon",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian",
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Bright silvery disc observed flying in formation.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "flying"
+   ],
+   "color": "silvery",
+   "country": "USA",
+   "date": "1947-07-06",
+   "explanation_status": "unexplained",
+   "location_name": "Kansas City, Missouri",
+   "object_count": "1",
+   "page_refs": [
+    187,
+    188
+   ],
+   "quote": "round, disc shaped object, very bright and silvery colored",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "time_local": "1345",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Uniform object observed moving horizontally.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "horizontal flight"
+   ],
+   "country": "USA",
+   "date": "1947-06-29",
+   "explanation_status": "unexplained",
+   "location_name": "Las Cruces, New Mexico",
+   "object_count": "1",
+   "page_refs": [
+    189,
+    190
+   ],
+   "quote": "uniform with no protuberances such as the wings of a plane",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "uniform",
+   "time_local": "1300",
+   "witness_count": "4",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Brilliant light observed zig-zagging.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "zig-zag"
+   ],
+   "color": "brilliant",
+   "country": "USA",
+   "date": "1947-06-28",
+   "explanation_status": "unexplained",
+   "location_name": "Maxwell Field, Alabama",
+   "object_count": "1",
+   "page_refs": [
+    191,
+    192
+   ],
+   "quote": "traveled a zig-zag course with frequent bursts of speed",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "time_local": "2120",
+   "witness_count": "4",
+   "witness_types": [
+    "military-pilot",
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Silver object observed climbing and diving.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "climbing",
+    "diving"
+   ],
+   "color": "silver",
+   "country": "USA",
+   "date": "1947-05-19",
+   "explanation_status": "unexplained",
+   "location_name": "Manitou Springs, Colorado",
+   "object_count": "1",
+   "page_refs": [
+    193,
+    194
+   ],
+   "quote": "executed maneuvers such as climbing, diving and reversal of flight",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "time_local": "1215",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Bluish-centered disc observed dropping.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "dropping"
+   ],
+   "color": "bluish center, red edges",
+   "country": "USA",
+   "date": "1948-01-11",
+   "explanation_status": "unexplained",
+   "location_name": "Hartford, Connecticut",
+   "object_count": "1",
+   "page_refs": [
+    195,
+    196
+   ],
+   "quote": "bluish center, red on the edges",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "time_local": "1630",
+   "witness_count": "2",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Object trailing green and blue flames observed descending.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "descending"
+   ],
+   "color": "green and blue",
+   "country": "USA",
+   "date": "1947-12-30",
+   "explanation_status": "unexplained",
+   "location_name": "Nevada",
+   "object_count": "1",
+   "page_refs": [
+    197,
+    198
+   ],
+   "quote": "trailing intense green and blue flames",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "time_local": "1926",
+   "witness_count": "2",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Object trailing red and green flames observed.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flying"
+   ],
+   "color": "red and green",
+   "country": "USA",
+   "date": "1947-12-30",
+   "explanation_status": "unexplained",
+   "location_name": "Rosedale, California",
+   "object_count": "1",
+   "page_refs": [
+    199,
+    200
+   ],
+   "quote": "trailing several colors of flame with red and green predominating",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "time_local": "1925",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Object observed exploding in the air.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "exploding"
+   ],
+   "country": "USA",
+   "date": "1947-12-30",
+   "explanation_status": "unexplained",
+   "location_name": "Lovelock, Nevada",
+   "object_count": "1",
+   "page_refs": [
+    201,
+    202
+   ],
+   "quote": "motorist on US highway #40... had seen an object explode in the air",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "time_local": "1926",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Flash observed in the sky.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flashing"
+   ],
+   "country": "USA",
+   "date": "1947-12-30",
+   "explanation_status": "unexplained",
+   "location_name": "Medford, Oregon",
+   "object_count": "1",
+   "page_refs": [
+    203,
+    204
+   ],
+   "quote": "observed a flash at 1925 PST just north of their position",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "time_local": "1925",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Round ball of fire observed spinning.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "spinning"
+   ],
+   "color": "fire",
+   "country": "USA",
+   "date": "1947-11-02",
+   "explanation_status": "unexplained",
+   "location_name": "Houston, Texas",
+   "object_count": "1",
+   "page_refs": [
+    205,
+    206
+   ],
+   "quote": "large round ball of fire about 26 to 30 inches in diameter",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "time_local": "dawn",
+   "witness_count": "2",
+   "witness_types": [
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "Brightly shining object with long tail observed.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "flying"
+   ],
+   "color": "shining",
+   "country": "Finland",
+   "date": "1948-01-03",
+   "explanation_status": "unexplained",
+   "location_name": "Vaasa, Finland",
+   "object_count": "1",
+   "page_refs": [
+    207
+   ],
+   "quote": "brightly shining object with long tail moved west to east",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "time_local": "unknown",
+   "witness_count": "0",
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "Shining object observed ejecting flames.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "ejecting flames"
+   ],
+   "color": "shining",
+   "country": "Finland",
+   "date": "1948-01-05",
+   "explanation_status": "unexplained",
+   "location_name": "Pietarsaari, Finland",
+   "object_count": "1",
+   "page_refs": [
+    208
+   ],
+   "quote": "Eyewitnesses state flames were ejected and grey streaks left in the sky",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "time_local": "unknown",
+   "witness_count": "0",
+   "witness_types": [
+    "unknown"
+   ]
+  }
+ ]
+}

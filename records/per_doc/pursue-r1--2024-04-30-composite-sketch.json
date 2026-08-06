@@ -1,0 +1,43 @@
+{
+ "doc_id": "2024-04-30-composite-sketch",
+ "file": "pursue-r1--2024-04-30-composite-sketch.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "FBI September 2023 Sighting - Composite Sketch",
+ "record_type": "other",
+ "index_date": "2023-09-01",
+ "index_location": "United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI composite sketch and description of a September 2023 sighting, featuring a photographic representation of an alleged UAP.",
+ "incidents": [
+  {
+   "summary": "Eyewitness report of an ellipsoid bronze metallic object materializing from a bright light in the sky.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "materializing",
+    "disappearing instantaneously"
+   ],
+   "color": "bronze",
+   "country": "United States",
+   "date": "2023-09",
+   "explanation_status": "not-assessed",
+   "object_count": "1",
+   "page_refs": [
+    1
+   ],
+   "quote": "apparent ellipsoid bronze metallic object materializing out of a bright light in the sky",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "ellipsoid",
+   "size": "130-195 feet",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

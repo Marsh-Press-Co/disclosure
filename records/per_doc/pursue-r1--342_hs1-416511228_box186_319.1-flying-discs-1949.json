@@ -1,0 +1,887 @@
+{
+ "doc_id": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+ "file": "pursue-r1--342_hs1-416511228_box186_319.1-flying-discs-1949.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "342_HS1-416511228_319.1 Flying Discs 1949",
+ "record_type": "other",
+ "index_date": "2050-01-09",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of declassified U.S. Air Force and military intelligence reports regarding Unidentified Flying Objects (UFOs) from 1948-1950, compiled in compliance with Flight Service Regulation 200-4.",
+ "incidents": [
+  {
+   "summary": "Two spherical objects sighted over Kansas City and Olathe, Kansas, appearing motionless for 10-15 minutes before moving off fast.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "motionless",
+    "moved off very fast"
+   ],
+   "color": "brilliant white, orange and red flashes",
+   "country": "United States",
+   "date": "1950-01-06",
+   "explanation_status": "not-assessed",
+   "location_name": "Kansas City and Olathe, Kansas",
+   "object_count": "2",
+   "page_refs": [
+    1
+   ],
+   "quote": "They appeared to be motionless over Olathe for ten to fifteen minutes, then moved off very fast.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "spherical",
+   "size": "size of old fashioned street lights",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian",
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Cylindrical object with orange and white flame observed by pilot and co-pilot.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "slow descent"
+   ],
+   "color": "silvery or aluminum",
+   "country": "United States",
+   "date": "1949-09-20",
+   "explanation_status": "not-assessed",
+   "location_name": "Griffiss Air Force Base, Rome, New York",
+   "object_count": "1",
+   "page_refs": [
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "quote": "Slow descent into overcast",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "cylindrical",
+   "witness_count": "2",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Circular object sighted over Seattle, Washington.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "did not maneuver"
+   ],
+   "color": "shiny aluminum",
+   "country": "United States",
+   "date": "1949-08-22",
+   "explanation_status": "not-assessed",
+   "location_name": "Seattle, Washington",
+   "object_count": "1",
+   "page_refs": [
+    9,
+    10,
+    11
+   ],
+   "quote": "Object did not maneuver.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular",
+   "size": "75 to 100 feet in diameter",
+   "witness_count": "3",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Object sighted near Seattle-Tacoma Airport resembling a jet fighter.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "did not maneuver"
+   ],
+   "color": "similar to an F-84",
+   "country": "United States",
+   "date": "1949-08-22",
+   "explanation_status": "not-assessed",
+   "location_name": "Seattle-Tacoma Airport, Washington",
+   "object_count": "1",
+   "page_refs": [
+    11,
+    12
+   ],
+   "quote": "definite that the object sighted displayed visual characteristics of a jet fighter",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "similar to an F-84",
+   "size": "similar to an F-84",
+   "witness_count": "2",
+   "witness_types": [
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "Round object sighted over Greenville, South Carolina, identified as a weather balloon.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "medium",
+   "behavior": [
+    "constant speed and altitude"
+   ],
+   "color": "grey",
+   "country": "United States",
+   "date": "1949-08-15",
+   "explanation_status": "explained",
+   "location_name": "Greenville, South Carolina",
+   "object_count": "1",
+   "page_refs": [
+    14
+   ],
+   "quote": "unidentified object was a Geological Weather Service balloon",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Formation of eight dish-shaped objects sighted over Spokane, Washington.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "medium",
+   "country": "United States",
+   "date": "1949-07-26",
+   "explanation_status": "not-assessed",
+   "location_name": "Spokane, Washington",
+   "object_count": "8",
+   "page_refs": [
+    15,
+    16
+   ],
+   "quote": "formation of eight (8) dish shaped objects",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "dish shaped",
+   "size": "larger than a B-29",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple shiny objects sighted near Medford, Oregon, maneuvering in formation.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "maneuvered horizontally",
+    "break off and reform"
+   ],
+   "color": "shiny",
+   "country": "United States",
+   "date": "1949-08-08",
+   "explanation_status": "not-assessed",
+   "location_name": "Medford, Oregon",
+   "object_count": "1-7",
+   "page_refs": [
+    18,
+    19,
+    20
+   ],
+   "quote": "objects would fly formation for a while and then break off and reform",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "7",
+   "witness_types": [
+    "military-other",
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "Object sighted over Columbus, Ohio, displaying white and yellowish-red light.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "medium",
+   "behavior": [
+    "straight line"
+   ],
+   "color": "white and yellowish red",
+   "country": "United States",
+   "date": "1949-08-01",
+   "explanation_status": "not-assessed",
+   "location_name": "Columbus, Ohio",
+   "object_count": "1",
+   "page_refs": [
+    22,
+    23
+   ],
+   "quote": "White and then yellowish red when on the horizon.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "3",
+   "witness_types": [
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "Unidentified object with red and white lights following an airline flight.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "following",
+    "pull away"
+   ],
+   "color": "two red lights and one white light",
+   "country": "United States",
+   "date": "1949-07-30",
+   "explanation_status": "not-assessed",
+   "location_name": "Portland, Oregon",
+   "object_count": "1",
+   "page_refs": [
+    25,
+    26
+   ],
+   "quote": "object then turned to the southeast and appeared to pull away from him quite easily.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "7",
+   "witness_types": [
+    "civilian",
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "Seven delta-wing objects in V-formation sighted over Idaho.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "V formation",
+    "180 degree turn"
+   ],
+   "color": "light gray and dirty white",
+   "country": "United States",
+   "date": "1949-07-24",
+   "explanation_status": "not-assessed",
+   "location_name": "Mountain Home, Idaho",
+   "object_count": "7",
+   "page_refs": [
+    28,
+    29,
+    30
+   ],
+   "quote": "Seven (7) objects were sighted flying in a V formation.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "delta wings",
+   "size": "larger than an F-51",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Luminous object sighted over Columbus, Ohio, described as flying wing type.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "medium",
+   "behavior": [
+    "straight line"
+   ],
+   "color": "luminous",
+   "country": "United States",
+   "date": "1949-07-19",
+   "explanation_status": "not-assessed",
+   "location_name": "Columbus, Ohio",
+   "object_count": "1",
+   "page_refs": [
+    32,
+    33
+   ],
+   "quote": "Flying wing type, swept back wings, tail but no noticeable nose",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "flying wing",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Object with flame and smoke trail sighted over Fairfield, Ohio.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "medium",
+   "color": "flame and smoke",
+   "country": "United States",
+   "date": "1949-06-28",
+   "explanation_status": "not-assessed",
+   "location_name": "Fairfield, Ohio",
+   "object_count": "1",
+   "page_refs": [
+    35,
+    36
+   ],
+   "quote": "Long tail of flame accompanied by a long tail of smoke.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "2",
+   "witness_types": [
+    "military-other",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Tubular white object sighted 20 miles southwest of Boston.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "medium",
+   "color": "white",
+   "country": "United States",
+   "date": "1949-06-10",
+   "explanation_status": "not-assessed",
+   "location_name": "Boston, Massachusetts",
+   "object_count": "1",
+   "page_refs": [
+    37,
+    38,
+    39,
+    40,
+    41
+   ],
+   "quote": "Object appeared as a brilliant flare in the sky.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "tubular",
+   "size": "100 feet long",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Three flying discs sighted near Elko, Nevada.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "left turn"
+   ],
+   "country": "United States",
+   "date": "1949-05-02",
+   "explanation_status": "not-assessed",
+   "location_name": "Elko, Nevada",
+   "object_count": "3",
+   "page_refs": [
+    43,
+    44
+   ],
+   "quote": "appeared to be three flying discs in the vicinity of Elko",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "size": "30 feet in diameter",
+   "witness_count": "1",
+   "witness_types": [
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "Radar interference observed on RB-29 flight near Guam.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "country": "United States",
+   "date": "1949-05-02",
+   "explanation_status": "not-assessed",
+   "location_name": "Guam",
+   "page_refs": [
+    46,
+    50
+   ],
+   "quote": "some type of interference was noticed on the scope",
+   "recording_agency": "USAF",
+   "sensors": [
+    "radar"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "White billowing substance sighted at high altitude by RB-29 crew.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "straight line"
+   ],
+   "color": "white",
+   "country": "unknown",
+   "date": "1949-06-08",
+   "explanation_status": "not-assessed",
+   "location_name": "12° 25'N and 140° 20'E",
+   "object_count": "1",
+   "page_refs": [
+    46,
+    48
+   ],
+   "quote": "white billowing substance was sighted at an altitude of 30000 to 35000 ft.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "2",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Flaming greenish-blue object sighted over Kodiak, Alaska.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "plummet across the sky"
+   ],
+   "color": "greenish-blue",
+   "country": "United States",
+   "date": "1949-04-08",
+   "explanation_status": "not-assessed",
+   "location_name": "Kodiak, Alaska",
+   "object_count": "1",
+   "page_refs": [
+    51,
+    52,
+    53,
+    55,
+    56,
+    57
+   ],
+   "quote": "flaming greenish-blue object plummet across the sky",
+   "recording_agency": "US Navy",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "4",
+   "witness_types": [
+    "civilian",
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Round silver object sighted over Fort Worth, Texas.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "horizontal flight"
+   ],
+   "color": "silver",
+   "country": "United States",
+   "date": "1949-04-13",
+   "explanation_status": "not-assessed",
+   "location_name": "Fort Worth, Texas",
+   "object_count": "1",
+   "page_refs": [
+    58
+   ],
+   "quote": "Object was round and in the shape of a ball, very silver in color.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "ball",
+   "witness_count": "2",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Unidentified object sighted over Fort Chimo, Quebec.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "medium",
+   "color": "red light",
+   "country": "Canada",
+   "date": "1949-03-18",
+   "explanation_status": "not-assessed",
+   "location_name": "Fort Chimo, Quebec",
+   "object_count": "1",
+   "page_refs": [
+    63
+   ],
+   "quote": "object displayed red light same as ACFT",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "4",
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "Jet propelled blimp sighted over Sandberg Pass, California.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "medium",
+   "country": "United States",
+   "date": "1949-02-28",
+   "explanation_status": "not-assessed",
+   "location_name": "Sandberg Pass, California",
+   "object_count": "1",
+   "page_refs": [
+    65
+   ],
+   "quote": "circled by a jet propelled blimp",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "blimp",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Burning object sighted over Newfoundland.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "medium",
+   "color": "glowing",
+   "country": "Canada",
+   "date": "1949-02-11",
+   "explanation_status": "not-assessed",
+   "location_name": "Newfoundland",
+   "object_count": "1",
+   "page_refs": [
+    71,
+    73
+   ],
+   "quote": "observed burning object",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Three aerial objects sighted near San Andres Islands.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "medium",
+   "color": "silver to yellow to red",
+   "country": "unknown",
+   "date": "1949-02-06",
+   "explanation_status": "not-assessed",
+   "location_name": "San Andres Islands, Caribbean Sea",
+   "object_count": "3",
+   "page_refs": [
+    75,
+    77
+   ],
+   "quote": "round, silver-colored sphere",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "sphere",
+   "size": "12 to 14 inches",
+   "witness_count": "unknown",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Bright object sighted over Fort Knox, Kentucky, rotating with colors.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "rotating"
+   ],
+   "color": "bright green, yellow, red",
+   "country": "United States",
+   "date": "1949-02-07",
+   "explanation_status": "not-assessed",
+   "location_name": "Fort Knox, Kentucky",
+   "object_count": "1",
+   "page_refs": [
+    79,
+    80,
+    81
+   ],
+   "quote": "Object appeared to be rotating with green, yellow and red colors.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "4",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Glow phenomenon sighted over Japan.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "medium",
+   "color": "pale, white, yellowish red",
+   "country": "Japan",
+   "date": "1949-01-25",
+   "explanation_status": "not-assessed",
+   "location_name": "Japan",
+   "object_count": "1",
+   "page_refs": [
+    83,
+    84,
+    85,
+    86,
+    87
+   ],
+   "quote": "glow pale in colour was seen flying from northwest toward southeast",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "unknown",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Object sighted over Hickam Field, Hawaii, described as white cardboard.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "oscillating",
+    "circling"
+   ],
+   "color": "white",
+   "country": "United States",
+   "date": "1949-01-04",
+   "explanation_status": "not-assessed",
+   "location_name": "Hickam Field, Hawaii",
+   "object_count": "1",
+   "page_refs": [
+    92,
+    93,
+    94,
+    97,
+    98
+   ],
+   "quote": "object appeared to be a large round piece of flat white cardboard, oscillating continually.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "size": "size of an AT-6",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Illuminated object sighted over Fairfield-Suisun AFB, California.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "undulating",
+    "vertical climb"
+   ],
+   "color": "colorless white light",
+   "country": "United States",
+   "date": "1948-12-03",
+   "explanation_status": "not-assessed",
+   "location_name": "Fairfield-Suisun AFB, California",
+   "object_count": "1",
+   "page_refs": [
+    100,
+    101,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113
+   ],
+   "quote": "object first shot into view about 2 miles north of the control tower",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "size": "30 inches",
+   "witness_count": "2",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Cigar-shaped object sighted near Jackson, Mississippi.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "color": "dark blue or black",
+   "country": "United States",
+   "date": "1949-01-01",
+   "explanation_status": "not-assessed",
+   "location_name": "Jackson, Mississippi",
+   "object_count": "1",
+   "page_refs": [
+    116,
+    117,
+    120,
+    132,
+    133,
+    136
+   ],
+   "quote": "Cigar like. Not unlike sleeve target.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "cigar",
+   "size": "60 feet long",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian",
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Egg-shaped object with tail sighted over Alberta, Canada.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "color": "bright flaming orange",
+   "country": "Canada",
+   "date": "1948-11-17",
+   "explanation_status": "not-assessed",
+   "location_name": "Alberta, Canada",
+   "object_count": "1",
+   "page_refs": [
+    121,
+    141
+   ],
+   "quote": "Egg shaped with a tail",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "egg",
+   "size": "50 feet",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Stationary flare-like object sighted over West Virginia.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "color": "red to blue to red",
+   "country": "United States",
+   "date": "1948-12-11",
+   "explanation_status": "not-assessed",
+   "location_name": "Martinsburg, West Virginia",
+   "object_count": "1",
+   "page_refs": [
+    122,
+    124,
+    126,
+    128
+   ],
+   "quote": "Resembled to parachute flare",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "3",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Bright object sighted over Chanute AFB, Illinois.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "color": "bright white",
+   "country": "United States",
+   "date": "1948-12-08",
+   "explanation_status": "not-assessed",
+   "location_name": "Chanute AFB, Illinois",
+   "object_count": "1",
+   "page_refs": [
+    137,
+    138,
+    139,
+    140
+   ],
+   "quote": "Object was round, white and moved very fast.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "witness_count": "2",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

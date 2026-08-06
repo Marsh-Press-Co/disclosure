@@ -1,0 +1,81 @@
+{
+ "doc_id": "18_100754_general_1946-7_vol_2",
+ "file": "pursue-r1--18_100754_general_1946-7_vol_2.md",
+ "source": "PURSUE-R1",
+ "agency": "",
+ "title": "18_100754_general_1946-7_vol_2",
+ "record_type": "other",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of internal U.S. Air Force and Air Materiel Command correspondence from 1946-1947 regarding the investigation of 'Flying Discs' and the establishment of Project SIGN.",
+ "incidents": [
+  {
+   "summary": "Photographs taken by Mary L. Herren in the vicinity of Jefferson, Oregon, showing objects in the sky.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "formation"
+   ],
+   "country": "USA",
+   "date": "1946-11",
+   "explanation": "Marks on photographs believed to be defects in film, paper, or camera.",
+   "explanation_status": "explained",
+   "location_name": "Jefferson, Oregon",
+   "page_refs": [
+    4,
+    5,
+    6
+   ],
+   "quote": "The uniformity of the markings would tend to indicate that the camera or film used to take these pictures was possibly defective.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "photo"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Flying disc incident reported in Alaska.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "country": "USA",
+   "date": "1947-09",
+   "explanation_status": "not-assessed",
+   "location_name": "Alaska",
+   "page_refs": [
+    7
+   ],
+   "quote": "A brief statement was made in a recent intelligence report from Hq, USAF, AC/AS-2, regarding a flying disc incident in Alaska in September.",
+   "recording_agency": "USAF",
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "Alleged flying saucer flight sighting by a radar station in Japan.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "Japan",
+   "date": "1947-09-05",
+   "explanation_status": "not-assessed",
+   "location_name": "Japan",
+   "page_refs": [
+    24
+   ],
+   "quote": "It is requested that this office be furnished all available information concerning an alleged \"Flying Saucer\" flight sighting made by a radar station in Japan.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "radar"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

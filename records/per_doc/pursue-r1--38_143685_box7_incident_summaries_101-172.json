@@ -1,0 +1,1983 @@
+{
+ "doc_id": "38_143685_box7_incident_summaries_101-172",
+ "file": "pursue-r1--38_143685_box7_incident_summaries_101-172.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "38_143685_box_Incident_Summaries_101-172",
+ "record_type": "other",
+ "index_date": "1955-06-15",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This document is a collection of declassified U.S. Air Force incident summaries (101-130) regarding unidentified flying objects, containing checklists, witness statements, and correspondence. / This document is a collection of incident summaries and checklists regarding unidentified flying objects, compiled by the Department of War/USAF, covering various international and domestic sightings between 1947 and 1948.",
+ "incidents": [
+  {
+   "summary": "Meteorite explosion over Norcatur, Kansas, with reports of a mushroom-shaped cloud and debris.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "disintegration",
+    "explosion"
+   ],
+   "color": "bluish-white",
+   "country": "USA",
+   "date": "1948-02-18",
+   "explanation": "Meteorite fall",
+   "explanation_status": "explained",
+   "location_name": "Norcatur, Kansas",
+   "page_refs": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ],
+   "quote": "One big explosion - afterwards a lot of little explosions",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual",
+    "photo"
+   ],
+   "shape": "mushroom",
+   "witness_count": "multiple",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "B-29 crews observed a multi-colored ball of fire with a smoke trail near Green River, Utah.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "explosion rate"
+   ],
+   "color": "multi-colored",
+   "country": "USA",
+   "date": "1948-02-18",
+   "explanation_status": "not-assessed",
+   "location_name": "Green River, Utah",
+   "page_refs": [
+    17,
+    18,
+    19
+   ],
+   "quote": "A huge multi-colored ball of fire trailing a dense cloud of smoke",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "ball",
+   "size": "huge",
+   "witness_count": "4",
+   "witness_types": [
+    "military-pilot",
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Yellow-orange oval object observed near Smyrna AAF for 45 minutes.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "faded away"
+   ],
+   "color": "yellow-orange",
+   "country": "USA",
+   "date": "1948-03-07",
+   "explanation_status": "not-assessed",
+   "location_name": "Smyrna, Tennessee",
+   "page_refs": [
+    20,
+    21
+   ],
+   "quote": "A yellow-orange object which had the appearance of a flare",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "oval",
+   "witness_count": "3",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Metallic-appearing object observed moving rapidly near Belmont, North Carolina.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "straight line"
+   ],
+   "color": "bright or silver",
+   "country": "USA",
+   "date": "1948-03-08",
+   "explanation_status": "not-assessed",
+   "location_name": "Belmont, North Carolina",
+   "page_refs": [
+    22,
+    23
+   ],
+   "quote": "A round metallic-appearing object moving very rapidly",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round or sphere",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Objects resembling falling aircraft with smoke and debris observed near Bakersfield.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "medium",
+   "behavior": [
+    "falling"
+   ],
+   "color": "red and black smoke",
+   "country": "USA",
+   "date": "1948-03-05",
+   "explanation_status": "partially-explained",
+   "location_name": "Bakersfield, California",
+   "page_refs": [
+    24,
+    25,
+    26,
+    27,
+    28
+   ],
+   "quote": "Seemingly on fire, black and red smoke trailing behind",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "falling aircraft",
+   "witness_count": "multiple",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Confidential report of peculiar noises in the sky resembling foreign aircraft.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "low",
+   "country": "USA",
+   "date": "1948-03-23",
+   "explanation_status": "not-assessed",
+   "location_name": "Hamilton, Baltimore, Maryland",
+   "page_refs": [
+    31,
+    32
+   ],
+   "quote": "peculiar sounding noises in the sky",
+   "recording_agency": "FBI",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Pilot observed a silver flying wing object that accelerated rapidly.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "accelerated rapidly"
+   ],
+   "color": "silver",
+   "country": "unknown",
+   "date": "1948-04-01",
+   "explanation_status": "not-assessed",
+   "location_name": "unknown",
+   "page_refs": [
+    33,
+    34
+   ],
+   "quote": "The object appeared to be a flying wing aircraft, its shape resembled a half moon.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "half moon",
+   "size": "30 feet span",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Multiple witnesses observed a slow-moving silver/white cylindrical object.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "drifting"
+   ],
+   "color": "silver/white",
+   "country": "USA",
+   "date": "1948-04-08",
+   "explanation_status": "not-assessed",
+   "location_name": "Ashley and Delaware, Ohio",
+   "page_refs": [
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48
+   ],
+   "quote": "long cylindrical body like a stick of firewood",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "cylindrical",
+   "witness_count": "multiple",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Pilot observed a silver disc-like object with a canister attached.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "horizontal flight"
+   ],
+   "color": "silver",
+   "country": "USA",
+   "date": "1948-04-09",
+   "explanation_status": "not-assessed",
+   "location_name": "Montgomery, Alabama",
+   "page_refs": [
+    49,
+    50,
+    51
+   ],
+   "quote": "appeared to be a silver disc",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "size": "8 feet diameter",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Silvery round object observed oscillating near Fairbanks.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "oscillated"
+   ],
+   "color": "silvery",
+   "country": "USA",
+   "date": "1948-04-18",
+   "explanation_status": "not-assessed",
+   "location_name": "Fairbanks, Alaska",
+   "page_refs": [
+    52,
+    53
+   ],
+   "quote": "oscillated from a horizontal plane to a vertical plane",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round and flat",
+   "size": "8 inches",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Elliptical objects observed hovering then accelerating rapidly.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "accelerating"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "1948-04-19",
+   "explanation_status": "not-assessed",
+   "location_name": "Greenville, South Carolina",
+   "page_refs": [
+    54,
+    55,
+    56
+   ],
+   "quote": "stationary, then rapidly accelerating and climbing",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "elliptical",
+   "witness_count": "2",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Blue flame ball exploded near Moose Factory.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "exploded"
+   ],
+   "color": "blue",
+   "country": "Canada",
+   "date": "1948-03-11",
+   "explanation_status": "not-assessed",
+   "location_name": "Moose Factory, Canada",
+   "page_refs": [
+    57,
+    58
+   ],
+   "quote": "A big ball of blue flame, seemingly the size of a football",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "ball",
+   "size": "football",
+   "witness_count": "multiple",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Fifty to 60 shiny objects observed moving at high speed.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "zig-zagged"
+   ],
+   "color": "shiny aluminum",
+   "country": "USA",
+   "date": "1948-05-07",
+   "explanation_status": "not-assessed",
+   "location_name": "Memphis, Tennessee",
+   "page_refs": [
+    59,
+    60
+   ],
+   "quote": "Fifty to 60 shiny objects were seen moving at a speed faster than any known aircraft",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "multiple",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "White point observed moving fast at high altitude.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "color": "white",
+   "country": "Germany",
+   "date": "1948-03-28",
+   "explanation_status": "not-assessed",
+   "location_name": "Berlin, Germany",
+   "page_refs": [
+    61,
+    62
+   ],
+   "quote": "1 white point moving from South to North",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Oval object with colored wake observed.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "medium",
+   "color": "green, yellow, orange",
+   "country": "Paraguay",
+   "date": "1948-02-20",
+   "explanation_status": "not-assessed",
+   "location_name": "Asuncion, Paraguay",
+   "page_refs": [
+    63,
+    64,
+    65,
+    66,
+    67
+   ],
+   "quote": "object of oval shape traveling thru space",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "oval",
+   "witness_count": "multiple",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Shining object observed moving at high speed.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "high speed"
+   ],
+   "color": "shining",
+   "country": "Denmark",
+   "date": "1948-02-07",
+   "explanation_status": "not-assessed",
+   "location_name": "Vejle, Denmark",
+   "page_refs": [
+    68,
+    69
+   ],
+   "quote": "shining object which moved at high speed",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Pilot observed blue flame object resembling a buzz bomb.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "sputtered"
+   ],
+   "color": "blue",
+   "country": "USA",
+   "date": "1948-01-09",
+   "explanation_status": "not-assessed",
+   "location_name": "Cartersville, Georgia",
+   "page_refs": [
+    70,
+    71
+   ],
+   "quote": "intense blue flame, in a shape circular except for the top quarter which was flat",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Rounded object observed performing erratic maneuvers.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "erratic"
+   ],
+   "color": "grey-white",
+   "country": "USA",
+   "date": "1948-04-05",
+   "explanation_status": "not-assessed",
+   "location_name": "Holloman Air Force Base",
+   "page_refs": [
+    72,
+    73
+   ],
+   "quote": "rounded, indistinct form",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "rounded",
+   "size": "large",
+   "witness_count": "multiple",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Huge fowl-like creature observed.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "medium",
+   "behavior": [
+    "flapped its wings"
+   ],
+   "country": "USA",
+   "date": "1948-04-11",
+   "explanation_status": "not-assessed",
+   "location_name": "Alton, Illinois",
+   "page_refs": [
+    74,
+    75
+   ],
+   "quote": "Resembled a huge fowl and not a type of aircraft",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "fowl",
+   "size": "bigger than an airplane",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Radar track of unidentified target.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "country": "unknown",
+   "date": "1948-04-18",
+   "explanation_status": "not-assessed",
+   "location_name": "North Atlantic",
+   "page_refs": [
+    76,
+    77
+   ],
+   "quote": "This target was contacted on the air search radar",
+   "recording_agency": "USAF",
+   "sensors": [
+    "radar"
+   ],
+   "witness_count": "unknown"
+  },
+  {
+   "summary": "Phosphorescent bird-like object.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "low",
+   "color": "phosphorescent",
+   "country": "USA",
+   "date": "1948-05-02",
+   "explanation_status": "not-assessed",
+   "location_name": "St. Louis, Missouri",
+   "page_refs": [
+    78
+   ],
+   "quote": "Phosphorescent after dark",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "bird"
+  },
+  {
+   "summary": "Yellow spherical object observed by pilot.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "color": "yellow",
+   "country": "USA",
+   "date": "1948-04-30",
+   "explanation_status": "not-assessed",
+   "location_name": "Anacostia, Naval Air Station",
+   "page_refs": [
+    79,
+    80
+   ],
+   "quote": "The object appeared to the pilot to be a yellow (or light colored) balloon",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "sphere",
+   "size": "25-40 ft diameter",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Flying disc observed making noise like an artillery shell.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "Yugoslavia/Greece border",
+   "date": "1948-05-07",
+   "explanation_status": "not-assessed",
+   "location_name": "Lake Doiran",
+   "page_refs": [
+    81,
+    82
+   ],
+   "quote": "making a noise like an artillery shell",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "flying disc",
+   "witness_count": "multiple",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Phosphorescent disc-shaped objects observed.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "disintegrate"
+   ],
+   "color": "phosphorescent",
+   "country": "USA",
+   "date": "1948-05-08",
+   "explanation_status": "not-assessed",
+   "location_name": "Middleport, Ohio",
+   "page_refs": [
+    83,
+    84
+   ],
+   "quote": "Take a large clock face, cover it with radium, and sail it through the air.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "size": "9 inch diameter",
+   "witness_count": "4",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Oblong object emitting smoke observed.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "emitted smoke"
+   ],
+   "country": "USA",
+   "date": "1948-05-31",
+   "explanation_status": "not-assessed",
+   "location_name": "Wilmington, North Carolina",
+   "page_refs": [
+    85,
+    86
+   ],
+   "quote": "As large as an arm, and about 3 feet long",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "oblong",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Bright white ball observed performing maneuvers.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "arc"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "1948-05-17",
+   "explanation_status": "not-assessed",
+   "location_name": "Plevna, Montana",
+   "page_refs": [
+    87,
+    88,
+    89
+   ],
+   "quote": "a ball of bright white light",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "ball",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Lt Col Wm T. Hull observed a round, white light moving in a zigzag course at approximately 500 MPH.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "zigzag course"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "1948-06-20",
+   "location_name": "Belleville, Illinois",
+   "object_count": "1",
+   "page_refs": [
+    91
+   ],
+   "quote": "No aircraft flying in the vicinity of Scott AF Base at the time light was sighted",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "size": "6-8 inches",
+   "time_local": "2230",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Daughter of Col Rasmussen observed a luminous white object with a greenish-yellow tail performing an arc.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "performed arc of circle"
+   ],
+   "color": "luminous white",
+   "country": "Norway",
+   "date": "1947-12-12",
+   "location_name": "Oslo, Norway",
+   "object_count": "1",
+   "page_refs": [
+    92
+   ],
+   "quote": "Luminous white with greenish-yellow tail",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "2205",
+   "witness_count": "1",
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "Multiple sightings of fiery objects with green tails appearing around 2130 hours.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "low",
+   "country": "Norway",
+   "date": "1948-02-20",
+   "location_name": "Norway, Denmark, Sweden",
+   "page_refs": [
+    93
+   ],
+   "quote": "The trend of these objects to appear at 2130 hours might be significant.",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "2130",
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "Lt Kokolonis observed five disc-shaped objects flying in a stepped-up line formation.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "abrupt turns",
+    "maintained nose-up attitude"
+   ],
+   "color": "silvery-gold",
+   "country": "USA",
+   "date": "1948-05-28",
+   "location_name": "Monroe, Michigan",
+   "object_count": "5",
+   "page_refs": [
+    94
+   ],
+   "quote": "Objects maintained smooth track thru sky, and flew in line of stern stepped up.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "size": "300-400 ft",
+   "time_local": "1500",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "M/Sgt Ernest Davis observed two shiny brass, round objects flying a straight course.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "pursued straight course"
+   ],
+   "color": "shiny brass",
+   "country": "USA",
+   "date": "1948-05-28",
+   "location_name": "Monroe, Michigan",
+   "object_count": "2",
+   "page_refs": [
+    95
+   ],
+   "quote": "Witness perceived only top-side of object.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "size": "4 ft",
+   "time_local": "1500",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Maj Hammer observed approximately 12 yellowish-white elliptical objects in a tight diamond formation.",
+   "date_precision": "month",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "tight diamond-shaped formation"
+   ],
+   "color": "yellowish-white",
+   "country": "USA",
+   "date": "1948-08",
+   "location_name": "Weaver, South Dakota",
+   "object_count": "12",
+   "page_refs": [
+    96
+   ],
+   "quote": "tight diamond-shaped formation",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "elliptical",
+   "size": "100+ ft",
+   "time_local": "2130",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Mrs. Whitehouse and others observed an orange ball of fire with a bluish streamer.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "color": "orange",
+   "country": "USA",
+   "date": "1948-06-30",
+   "location_name": "Knoxville, Tennessee",
+   "object_count": "1",
+   "page_refs": [
+    97,
+    98,
+    99
+   ],
+   "quote": "ball of fire of orange color with a streamer of bluish color trailing",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "ball",
+   "time_local": "2140",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian",
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Mathematics instructor observed three cigar-shaped objects moving generally North.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "moved generally North"
+   ],
+   "country": "USA",
+   "date": "1948-07-07",
+   "location_name": "Chapel Hill, North Carolina",
+   "object_count": "3",
+   "page_refs": [
+    100,
+    101
+   ],
+   "quote": "Blunt front tapering to a point in the rear shaped like a cigar.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "cigar",
+   "size": "3.5 inches (perspective)",
+   "time_local": "2114",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian",
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Mrs. Wilda Zittak observed two silver, cigar-shaped objects bobbing in the air.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "medium",
+   "behavior": [
+    "bobbed up and down"
+   ],
+   "color": "silver",
+   "country": "USA",
+   "date": "1948-07-08",
+   "location_name": "Columbus, Ohio",
+   "object_count": "2",
+   "page_refs": [
+    102,
+    103,
+    104,
+    105
+   ],
+   "quote": "bobbed up and down rather than pursuing a set and steady course.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "cigar",
+   "time_local": "0920",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Lt. Glasebrook observed a pale yellowish-white light appearing intermittently.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "intermittent appearances"
+   ],
+   "color": "pale yellowish-white",
+   "country": "USA",
+   "date": "1948-07-09",
+   "location_name": "Osborn, Ohio",
+   "object_count": "1",
+   "page_refs": [
+    106,
+    107
+   ],
+   "quote": "The intermittent appearance of the light was at a regulated interval.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "2147",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Multiple witnesses observed a bright yellow-white light moving at a terrific rate of speed.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "flat line of flight"
+   ],
+   "color": "bright yellow-white",
+   "country": "USA",
+   "date": "1948-07-01",
+   "location_name": "Gahanna, Ohio",
+   "object_count": "1",
+   "page_refs": [
+    108,
+    109
+   ],
+   "quote": "Beautiful golden saucer glowing like a halo with a silver rim around it.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "2100",
+   "witness_count": "6",
+   "witness_types": [
+    "civilian",
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Norman Pfutzenreuter observed a cluster of parts that disintegrated into a triangle formation.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "disintegrated",
+    "formed triangle"
+   ],
+   "color": "polished aluminum",
+   "country": "USA",
+   "date": "1948-06-30",
+   "location_name": "Hecla, South Dakota",
+   "object_count": "1",
+   "page_refs": [
+    110,
+    111
+   ],
+   "quote": "Three larger parts moved away out from the mass and formed a perfect isometric triangle",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "changing",
+   "time_local": "1125",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Airline pilots observed a cigar-shaped object with a red-orange flame and blue glow.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "pulled up sharply"
+   ],
+   "country": "USA",
+   "date": "1948-07-24",
+   "location_name": "Montgomery, Alabama",
+   "object_count": "1",
+   "page_refs": [
+    114,
+    117,
+    118
+   ],
+   "quote": "There were two rows of windows, which indicated an upper and lower deck",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "cigar",
+   "size": "100 ft",
+   "time_local": "0245",
+   "witness_count": "3",
+   "witness_types": [
+    "military-pilot",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Pilot observed a jet or rocket trail at terrific speed.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "terrific speed"
+   ],
+   "country": "USA",
+   "date": "1948-07-24",
+   "location_name": "Blackstone, Virginia",
+   "object_count": "1",
+   "page_refs": [
+    115,
+    116
+   ],
+   "quote": "Only trail perceived - object was not seen",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "0230",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Pilot observed a bright meteor-like object traveling horizontally.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "traveling horizontally"
+   ],
+   "country": "USA",
+   "date": "1948-07-24",
+   "location_name": "Blackstone, Virginia",
+   "object_count": "1",
+   "page_refs": [
+    119,
+    120
+   ],
+   "quote": "At no time did it appear to travel in a downward direction.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "0230",
+   "witness_count": "2",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Two observers saw approximately 20 spheroid objects in a shotgun blast pattern.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "jockeyed back and forth"
+   ],
+   "color": "grayish black",
+   "country": "USA",
+   "date": "1948-07-09",
+   "location_name": "Fielding Lake, Alaska",
+   "object_count": "20",
+   "page_refs": [
+    121,
+    122
+   ],
+   "quote": "jockeyed back and forth in the group formation",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "spheroid",
+   "time_local": "1205",
+   "witness_count": "2",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Two sergeants observed seven circular objects in varying formations.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "formation varied from V to L to O"
+   ],
+   "color": "aluminum",
+   "country": "USA",
+   "date": "1948-07-17",
+   "location_name": "San Acacia Dam, New Mexico",
+   "object_count": "7",
+   "page_refs": [
+    123,
+    124
+   ],
+   "quote": "resembled a cluster of balloons traveling at a great rate of speed.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular",
+   "time_local": "1650",
+   "witness_count": "2",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Mrs. Gibson observed a huge ball with a bright red tail.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "color": "red tail",
+   "country": "USA",
+   "date": "1948-07-27",
+   "location_name": "Springfield, Ohio",
+   "object_count": "1",
+   "page_refs": [
+    125
+   ],
+   "quote": "Witness stated object resembled a huge ball",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "time_local": "2200",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Mrs. Rose Henry observed an intense yellow, round object hovering.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "hovering"
+   ],
+   "color": "intense yellow",
+   "country": "USA",
+   "date": "1948-07-28",
+   "location_name": "Springfield, Ohio",
+   "object_count": "1",
+   "page_refs": [
+    127
+   ],
+   "quote": "About the size of a basketball",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "time_local": "0400",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Reports of three rocket-like objects with green tails that exploded.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "low",
+   "behavior": [
+    "exploded"
+   ],
+   "color": "green tail",
+   "country": "Denmark",
+   "date": "1948-01-19",
+   "location_name": "North Jutland, Denmark",
+   "object_count": "3",
+   "page_refs": [
+    126,
+    128
+   ],
+   "quote": "rocket-like objects which suddenly stopped, exploded and disappeared.",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "ball",
+   "time_local": "0730",
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "Norwegian pilot observed a projectile with a bluish-green flame.",
+   "date_precision": "month",
+   "time_of_day": "morning",
+   "confidence": "medium",
+   "color": "bluish-green flame",
+   "country": "Norway",
+   "date": "1948-03",
+   "location_name": "Swedish Coast",
+   "object_count": "1",
+   "page_refs": [
+    129,
+    130
+   ],
+   "quote": "It emitted a bluish-green flame but left no trail in the sky.",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "0930",
+   "witness_count": "2",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Two employees observed a shiny, aluminum, propeller-shaped object.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "gliding"
+   ],
+   "color": "aluminum",
+   "country": "USA",
+   "date": "1948-07-29",
+   "location_name": "Indianapolis, Indiana",
+   "object_count": "1",
+   "page_refs": [
+    131,
+    132,
+    133,
+    134
+   ],
+   "quote": "Shaped like a broad short propeller",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "propeller",
+   "size": "6-8 ft",
+   "time_local": "0955",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Mr. and Mrs. Swigert observed a white, cymbal-shaped object.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "color": "white",
+   "country": "USA",
+   "date": "1948-07-31",
+   "location_name": "Indianapolis, Indiana",
+   "object_count": "1",
+   "page_refs": [
+    135,
+    136,
+    137
+   ],
+   "quote": "Object was shaped like a cymbal with smooth surfaces",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "cymbal",
+   "size": "20 ft",
+   "time_local": "0825",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Former AF pilot observed a blue-white streak of light with a trail of sparks.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "color": "blue-white",
+   "country": "USA",
+   "date": "1948-08-05",
+   "location_name": "Parrott, Georgia",
+   "object_count": "1",
+   "page_refs": [
+    138,
+    139
+   ],
+   "quote": "brilliant blue-white streak of light",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "streak",
+   "time_local": "0100",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Attorney observed a round object changing shape from parallelogram to circular.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "changed position"
+   ],
+   "color": "grey-black",
+   "country": "USA",
+   "date": "1948-08-02",
+   "location_name": "Columbus, Ohio",
+   "object_count": "1",
+   "page_refs": [
+    140,
+    141
+   ],
+   "quote": "Perimeter: constant grey-black. Center: transparent.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "changing",
+   "size": "20-30 ft",
+   "time_local": "1945",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Mrs. Saunders observed an oblong object changing shape to circular.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "changed shape"
+   ],
+   "country": "USA",
+   "date": "1948-08-02",
+   "location_name": "Columbus, Ohio",
+   "object_count": "1",
+   "page_refs": [
+    142,
+    143
+   ],
+   "quote": "From oblong to circular then to oblong.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "changing",
+   "time_local": "1950",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Mrs. Watson observed 6 or 7 gold, starlike objects hovering.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "medium",
+   "behavior": [
+    "hovering"
+   ],
+   "color": "gold",
+   "country": "USA",
+   "date": "1948-07-31",
+   "location_name": "Columbus, Ohio",
+   "object_count": "7",
+   "page_refs": [
+    144,
+    145
+   ],
+   "quote": "They were gold in color and seemed to be just hanging in the sky.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "starlike",
+   "time_local": "1630",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Two women observed a black, oblong object spouting smoke.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "medium",
+   "behavior": [
+    "spouted black smoke"
+   ],
+   "color": "black",
+   "country": "USA",
+   "date": "1948-07-31",
+   "location_name": "Columbus, Ohio",
+   "object_count": "1",
+   "page_refs": [
+    146,
+    147
+   ],
+   "quote": "spouted black smoke from the top",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "oblong",
+   "size": "5x6 ft",
+   "time_local": "2000",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Teletype operator retrieved a crepe paper balloon.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "color": "white",
+   "country": "USA",
+   "date": "1948-07-31",
+   "location_name": "Columbus, Ohio",
+   "object_count": "1",
+   "page_refs": [
+    148,
+    149
+   ],
+   "quote": "Saw paper bag affair approx 2 feet in diameter and 3-1/2 feet long",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "size": "2x3.5 ft",
+   "time_local": "2000",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Farmer observed a black cloud-like streak that twisted and turned.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "medium",
+   "behavior": [
+    "twisted and turned"
+   ],
+   "country": "USA",
+   "date": "1948-08-29",
+   "location_name": "Maplewood, Ohio",
+   "object_count": "1",
+   "page_refs": [
+    150,
+    151
+   ],
+   "quote": "It was so spontaneous like a rubber band which is round, then suddenly is stretched",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "streak",
+   "time_local": "0530",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "John Felton observed a silver, cylindrical object.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "medium",
+   "color": "silver",
+   "country": "USA",
+   "date": "1948-07-30",
+   "location_name": "Worthington, Ohio",
+   "object_count": "1",
+   "page_refs": [
+    152,
+    153
+   ],
+   "quote": "Object appeared cylindrical in shape with no apparent wings or tail surfaces.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "cylindrical",
+   "time_local": "2015",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "John Jannicky observed a star-like object that stopped and started.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "stopped three times"
+   ],
+   "country": "USA",
+   "date": "1948-07-04",
+   "location_name": "Dravasburg, Pennsylvania",
+   "object_count": "1",
+   "page_refs": [
+    154,
+    155
+   ],
+   "quote": "moved across the sky, then changed its course a bit and went straight",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "star",
+   "time_local": "2315",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Two women observed a silver, plate-like object.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "color": "silver",
+   "country": "USA",
+   "date": "1948-07-08",
+   "location_name": "McKeesport, Pennsylvania",
+   "object_count": "1",
+   "page_refs": [
+    156,
+    157
+   ],
+   "quote": "saw what looked like a big, silver plate zooming noiselessly overhead",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "plate",
+   "size": "12-15 inches",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Two children observed a dull gray, round object land in their yard.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "spun",
+    "shot straight up"
+   ],
+   "color": "dull gray",
+   "country": "USA",
+   "date": "1948-08-11",
+   "location_name": "Hamel, Minnesota",
+   "object_count": "1",
+   "page_refs": [
+    158,
+    159
+   ],
+   "quote": "Upon hitting the ground the object spun once, made a sort of whistling noise",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "size": "2 ft",
+   "time_local": "1200",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Capt Henry Glover observed a spherical object with bluish luminescence.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "medium",
+   "behavior": [
+    "traveled a vertical arc"
+   ],
+   "color": "bluish luminescence",
+   "country": "USA",
+   "date": "1948-07-22",
+   "location_name": "Van Nuys, California",
+   "object_count": "1",
+   "page_refs": [
+    160,
+    161
+   ],
+   "quote": "snapped off like a lamp when you throw switch",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "spherical",
+   "time_local": "1900",
+   "witness_count": "2",
+   "witness_types": [
+    "military-other",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Mrs. McDonald observed three luminous, oval-shaped objects.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "spinning vertically"
+   ],
+   "color": "luminous",
+   "country": "USA",
+   "date": "1948-06-29",
+   "location_name": "Uniontown, Pennsylvania",
+   "object_count": "3",
+   "page_refs": [
+    162,
+    163
+   ],
+   "quote": "spinning vertically on edge",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "oval",
+   "time_local": "2300",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian",
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Doyle Avery observed a blue-white light gaining altitude.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "gaining altitude"
+   ],
+   "color": "blue-white",
+   "country": "USA",
+   "date": "1948-07-26",
+   "location_name": "Chamblee, Georgia",
+   "object_count": "1",
+   "page_refs": [
+    164,
+    165
+   ],
+   "quote": "It looked like a shooting star except for the fact that it maintained the same altitude.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "2100",
+   "witness_count": "7",
+   "witness_types": [
+    "military-other",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "S/Sgt Estes observed a silver, rocket-shaped object.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "color": "silver",
+   "country": "USA",
+   "date": "1948-08-30",
+   "location_name": "Los Angeles, California",
+   "object_count": "1",
+   "page_refs": [
+    166,
+    167
+   ],
+   "quote": "Object resembled the fuselage of a V-2 rocket - but much larger.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "rocket",
+   "time_local": "2000",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Capt Floyd Barnes observed a white ball of fire that exploded.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "exploded"
+   ],
+   "color": "white",
+   "country": "Marshall Islands",
+   "date": "1948-05-06",
+   "location_name": "Kwajalein Island",
+   "object_count": "1",
+   "page_refs": [
+    168,
+    169
+   ],
+   "quote": "A large white ball of fire was observed some four to five miles directly ahead",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "ball",
+   "time_local": "0905",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "A. D. Otter observed a wingless aircraft with two decks.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "medium",
+   "country": "Netherlands",
+   "date": "1948-07-20",
+   "location_name": "Arnhem, The Hague",
+   "object_count": "1",
+   "page_refs": [
+    170
+   ],
+   "quote": "Object appeared to be wingless aircraft with two decks.",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "aircraft",
+   "time_local": "1330",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Faby Niswonger observed a silver sphere that disintegrated.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "disintegrated in mid-air"
+   ],
+   "color": "silver",
+   "country": "USA",
+   "date": "1948-08-29",
+   "location_name": "Maplewood, Ohio",
+   "object_count": "1",
+   "page_refs": [
+    171,
+    172
+   ],
+   "quote": "Witness observed a large silver-colored sphere which seemed to arrive from behind his woods",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "sphere",
+   "time_local": "0530",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Reports of shining objects like meteors, one of which exploded.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "behavior": [
+    "exploded"
+   ],
+   "color": "shining",
+   "country": "Turkey",
+   "date": "1948-05-05",
+   "location_name": "Adapazari, Turkey",
+   "object_count": "1",
+   "page_refs": [
+    173,
+    174
+   ],
+   "quote": "Parts of it fell into a village nearby and killed a sheep dog.",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "Newspaper reporter observed a long, narrow object at high altitude.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "medium",
+   "country": "Russia",
+   "date": "1948-08-03",
+   "location_name": "Moscow, Russia",
+   "object_count": "1",
+   "page_refs": [
+    176
+   ],
+   "quote": "It was long and narrow and proceeded at a high but not excessive speed",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "long and narrow",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "George Gorman observed a clear white, round object maneuvering.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "diving and climbing"
+   ],
+   "color": "clear white",
+   "country": "USA",
+   "date": "1948-10-01",
+   "location_name": "Fargo, North Dakota",
+   "object_count": "1",
+   "page_refs": [
+    177
+   ],
+   "quote": "much faster than F-51",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "size": "6-8 inches",
+   "time_local": "2100",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

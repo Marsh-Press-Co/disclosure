@@ -1,0 +1,111 @@
+{
+ "doc_id": "aaro-fy24-consolidated-annual-report",
+ "file": "aaro-fy24-consolidated-annual-report.md",
+ "source": "AARO",
+ "agency": "All-domain Anomaly Resolution Office",
+ "title": "FY 2024 Consolidated Annual Report on UAP (AARO/ODNI joint)",
+ "record_type": "annual-report",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is the FY 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena produced by the All-domain Anomaly Resolution Office (AARO).",
+ "incidents": [
+  {
+   "summary": "Commercial pilot reported white flashing lights in the night sky, later correlated to a Starlink satellite launch.",
+   "date_precision": "unknown",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "flashing"
+   ],
+   "color": "white",
+   "explanation": "Starlink satellite launch",
+   "explanation_status": "explained",
+   "page_refs": [
+    11
+   ],
+   "quote": "a commercial pilot reported white flashing lights in the night sky",
+   "recording_agency": "AARO",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircrew reported a near miss with a cylindrical object over the Atlantic Ocean.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "near miss"
+   ],
+   "explanation_status": "not-assessed",
+   "location_name": "Atlantic Ocean off the coast of New York",
+   "page_refs": [
+    12
+   ],
+   "quote": "a commercial aircrew reported a near miss with a cylindrical object",
+   "recording_agency": "AARO",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "cylindrical",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Crashed UAS recovered at D.C. Cook Nuclear Power Plant.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "crashed"
+   ],
+   "explanation": "UAS",
+   "explanation_status": "explained",
+   "location_name": "D.C. Cook Nuclear Power Plant, Michigan",
+   "object_count": "1",
+   "page_refs": [
+    12
+   ],
+   "quote": "security recovered a crashed UAS that was given to Berrien County, Michigan, local law enforcement",
+   "recording_agency": "AARO",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "UAS",
+   "witness_types": [
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "UAS flyovers observed for six consecutive nights at a fuel cycle facility.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "flyover"
+   ],
+   "explanation": "UAS",
+   "explanation_status": "explained",
+   "location_name": "Lynchburg, Virginia",
+   "object_count": "1",
+   "page_refs": [
+    12
+   ],
+   "quote": "observed UAS flyovers for six consecutive nights",
+   "recording_agency": "AARO",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "UAS",
+   "witness_types": [
+    "contractor"
+   ]
+  }
+ ]
+}
