@@ -1,0 +1,26 @@
+{
+ "doc_id": "odni-2021-preliminary-assessment",
+ "file": "odni-2021-preliminary-assessment.md",
+ "source": "ODNI",
+ "agency": "Office of the Director of National Intelligence",
+ "title": "Preliminary Assessment: Unidentified Aerial Phenomena (ODNI, 25 Jun 2021)",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a preliminary intelligence assessment by the ODNI regarding UAP, which contains a summary of 144 reports but only details one specific encounter outcome.",
+ "encounters": [
+  {
+   "summary": "A reported UAP incident identified as a large, deflating balloon.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "debunked",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "page_refs": [
+    4,
+    5
+   ],
+   "quote": "we identified the object as a large, deflating balloon"
+  }
+ ]
+}

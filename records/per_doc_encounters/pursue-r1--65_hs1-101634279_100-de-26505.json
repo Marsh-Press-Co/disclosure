@@ -1,0 +1,37 @@
+{
+ "doc_id": "65_hs1-101634279_100-de-26505",
+ "file": "pursue-r1--65_hs1-101634279_100-de-26505.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "65_HS1-101634279_100-DE-26505",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is an FBI investigative file regarding a civilian's report of a 1944 sighting in Germany, which contains detailed encounter information.",
+ "encounters": [
+  {
+   "summary": "Wladyslaw Krasuski, a former POW, reported observing a large circular vehicle in 1944 near Gut Alt Golssen, Germany, which rose vertically from an enclosure. He noted that tractor engines stalled in the area when a high-pitched whining noise was present.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "Germany",
+   "date": "1944",
+   "date_precision": "year",
+   "entity_appearance": "circular vehicle, 75-100 yards in diameter, 14 feet high, with a rapidly moving middle section",
+   "entity_behavior": "rose vertically to clear a 50-foot wall and moved horizontally",
+   "location_name": "Gut Alt Golssen",
+   "page_refs": [
+    9,
+    10,
+    13
+   ],
+   "physical_effects": [
+    "engine stall",
+    "high-pitched whining noise"
+   ],
+   "quote": "vehicle was observed to slowly rise vertically to a height sufficient to clear the wall"
+  }
+ ]
+}

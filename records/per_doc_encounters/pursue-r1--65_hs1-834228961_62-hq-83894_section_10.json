@@ -1,0 +1,195 @@
+{
+ "doc_id": "65_hs1-834228961_62-hq-83894_section_10",
+ "file": "pursue-r1--65_hs1-834228961_62-hq-83894_section_10.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "65_HS1-834228961_62-HQ-83894_Section_10",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 3,
+ "doc_notes": "This document is an FBI case file (Section 10) containing correspondence and newspaper clippings regarding UFO sightings and the Bureau's stance that such matters are outside its jurisdiction. / This is an FBI case file containing reports of UFO sightings, alleged abductions, and contactee claims, including correspondence regarding George Adamski and Fred Steckling. / This document is an FBI case file containing various correspondence, internal memoranda, and reports regarding UFO sightings, public inquiries, and the Bureau's stance on its lack of jurisdiction over such matters.",
+ "encounters": [
+  {
+   "summary": "A 17-year-old boy reported seeing a high-altitude object with white lights moving north, and two other individuals reported an object that stopped and changed colors from red to green to amber.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "USA",
+   "date": "1966-03-21",
+   "date_precision": "day",
+   "location_name": "Detroit, Michigan",
+   "page_refs": [
+    15
+   ]
+  },
+  {
+   "summary": "A 15-year-old girl reported a motionless object with flashing lights hovering over the John Lodge Expressway.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "USA",
+   "date": "1966-03-21",
+   "date_precision": "day",
+   "location_name": "Detroit, Michigan",
+   "page_refs": [
+    15
+   ]
+  },
+  {
+   "summary": "A 39-year-old man reported an object with rotating red, yellow, and green lights near his home.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "USA",
+   "date": "1966-03-21",
+   "date_precision": "day",
+   "location_name": "Detroit, Michigan",
+   "page_refs": [
+    15
+   ]
+  },
+  {
+   "summary": "A 17-year-old girl reported an object that stopped twice and flashed lights while traveling east to west.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "USA",
+   "date": "1966-03-21",
+   "date_precision": "day",
+   "location_name": "Detroit, Michigan",
+   "page_refs": [
+    15
+   ]
+  },
+  {
+   "summary": "Police Chief Joe Thorn reported personally sighting two UFOs, one in daylight under low cloud cover and another at approximately 2,000 feet altitude.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1966-11-29",
+   "date_precision": "day",
+   "location_name": "Princeton, West Virginia",
+   "page_refs": [
+    41
+   ],
+   "quote": "I have personally seen two of them."
+  },
+  {
+   "summary": "James C. Collins reported being taken into a transparent, glass-like craft by undersized creatures (approx. 4 feet tall) wearing T-shirts and trousers, and being transported for an hour.",
+   "encounter_type": "claimed-abduction",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1967-01-18",
+   "date_precision": "day",
+   "entity_appearance": "undersized creatures, human-like",
+   "entity_clothing": "regular trouser pants and T-shirts",
+   "entity_count": "several",
+   "entity_height": "not more than 4 feet",
+   "location_name": "Chesapeake, Virginia",
+   "page_refs": [
+    51
+   ],
+   "physical_effects": [
+    "missing time"
+   ],
+   "quote": "He believes that he was taken into this craft which he recalls as being made of a glass like substance"
+  },
+  {
+   "summary": "Paul L. Peyerl claimed to have photographed a saucer-shaped, radio-controlled aircraft in 1944 while serving as a test pilot in the Black Forest, Austria.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "Austria",
+   "date": "1944-11",
+   "date_precision": "month",
+   "location_name": "Black Forest, Austria",
+   "page_refs": [
+    63,
+    64,
+    65,
+    66,
+    68,
+    69
+   ],
+   "quote": "It was saucer shaped, about twenty-one feet in diameter, radio controlled, and mounted several jet engines"
+  },
+  {
+   "summary": "A young woman reported meeting a being from another planet in July 1967 who assumed earthly form and departed on August 21, 1967. She also claimed to have received messages from non-earthly sources regarding UFO sightings and incidents.",
+   "encounter_type": "claimed-contact",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_content": "Information regarding UFO sightings, antimissile missile firings, and extraterrestrial activity.",
+   "communication_method": "unknown",
+   "country": "USA",
+   "date": "1967-07",
+   "date_precision": "month",
+   "location_name": "Dallas, Texas",
+   "page_refs": [
+    102,
+    103,
+    105,
+    107,
+    109
+   ],
+   "quote": "She stated in July, 1967, she met a being from another planet who had assumed earthly form."
+  },
+  {
+   "summary": "An individual reported observing an unusual object in the sky at Moorestown, New Jersey, on December 7, 1963, which he claimed was laying air mines that caused a Pan American aircraft to explode the following day.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "dismissed",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1963-12-07",
+   "date_precision": "day",
+   "entity_appearance": "cleverly designed missile camouflaged to appear as a meteor or flying saucer",
+   "location_name": "Moorestown, New Jersey",
+   "page_refs": [
+    127,
+    129,
+    130
+   ],
+   "physical_effects": [
+    "explosion"
+   ],
+   "quote": "I claimed that the object which I seen was laying air mines and that this aircraft was destroyed by contact with one of these mines."
+  },
+  {
+   "summary": "A man identifying himself as Dave T. Ozanne, wearing an Air Force uniform with a chaplain's badge, inquired about UFO sightings at a newspaper office while carrying a folder marked 'Top Secret' containing photos of military installations.",
+   "encounter_type": "occupant-report",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "country": "USA",
+   "date": "1973-03-09",
+   "date_precision": "day",
+   "entity_appearance": "Man in Air Force uniform with chaplain's badge",
+   "location_name": "Waco, Texas",
+   "page_refs": [
+    161,
+    162,
+    163
+   ],
+   "quote": "Ozanne was described as having on an Air Force uniform with a chaplain's badge on the uniform."
+  }
+ ]
+}

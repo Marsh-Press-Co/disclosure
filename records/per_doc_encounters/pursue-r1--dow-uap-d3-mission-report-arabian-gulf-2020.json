@@ -1,0 +1,27 @@
+{
+ "doc_id": "dow-uap-d3-mission-report-arabian-gulf-2020",
+ "file": "pursue-r1--dow-uap-d3-mission-report-arabian-gulf-2020.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D3, Mission Report, Arabian Gulf, 2020",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a declassified Department of War mission report containing a brief UAP sighting log on page 7.",
+ "encounters": [
+  {
+   "summary": "Four UAP were observed beneath an aircraft at specific intervals between 17:36:22 and 17:36:49 ZULU time.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "date_precision": "unknown",
+   "entity_count": "4",
+   "page_refs": [
+    7
+   ],
+   "quote": "4 UAP WERE OBSERVED BENEATH"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "doc_id": "aaro-fy24-consolidated-annual-report",
+ "file": "aaro-fy24-consolidated-annual-report.md",
+ "source": "AARO",
+ "agency": "All-domain Anomaly Resolution Office",
+ "title": "FY 2024 Consolidated Annual Report on UAP (AARO/ODNI joint)",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is the FY 2024 Consolidated Annual Report on UAP from AARO, which contains a summary of reported incidents including one specific close-approach encounter.",
+ "encounters": [
+  {
+   "summary": "A commercial aircrew reported a near miss with a cylindrical object while flying over the Atlantic Ocean off the coast of New York.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "investigated",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "United States",
+   "location_name": "Atlantic Ocean off the coast of New York",
+   "page_refs": [
+    12
+   ],
+   "quote": "commercial aircrew reported a near miss with a cylindrical object"
+  }
+ ]
+}

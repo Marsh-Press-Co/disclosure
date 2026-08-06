@@ -1,0 +1,158 @@
+{
+ "doc_id": "65_hs1-834228961_62-hq-83894_section_7",
+ "file": "pursue-r1--65_hs1-834228961_62-hq-83894_section_7.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "65_HS1-834228961_62-HQ-83894_Section_7",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This document is an FBI case file (62-83894) containing various reports, correspondence, and internal memoranda regarding unidentified flying objects (UFOs) and flying saucers from 1952-1953, confirming the presence of encounter-related content. / This document is a collection of FBI case files and correspondence regarding UFO reports, including internal routing slips and public inquiries.",
+ "encounters": [
+  {
+   "summary": "Two employees of the E. I. DuPont Company observed a saucer-shaped object with a blue light and orange fringe flying at high speed over the Savannah River Plant.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1952-08-08",
+   "date_precision": "day",
+   "location_name": "Savannah River Plant, South Carolina",
+   "page_refs": [
+    3
+   ]
+  },
+  {
+   "summary": "A scoutmaster reported an unidentified object 30 feet in diameter hovering over him; he claimed it shot a 'red blob' that caused him to lose consciousness, leaving his cap burned and arm hair singed.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1952-08-26",
+   "date_precision": "day",
+   "location_name": "West Palm Beach, Florida",
+   "page_refs": [
+    44
+   ],
+   "physical_effects": [
+    "burns",
+    "loss of consciousness",
+    "singed hair"
+   ]
+  },
+  {
+   "summary": "A witness reported seeing a pale yellow object that fell toward Earth, moved horizontally, and then rose and disappeared into space.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1917",
+   "date_precision": "year",
+   "location_name": "Roadstown, New Jersey",
+   "page_refs": [
+    48,
+    50
+   ]
+  },
+  {
+   "summary": "Three objects, one large and two small, observed over Franklin, Indiana, performing aerial maneuvers for over four hours.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1952-07-28",
+   "date_precision": "day",
+   "entity_appearance": "round and flat, one large yellowish-white, two smaller orange and red",
+   "entity_behavior": "barrel rolls, loops, spins, 90 and 45 degree turns, hovering",
+   "location_name": "Franklin, Indiana",
+   "page_refs": [
+    123
+   ],
+   "physical_effects": [
+    "engine stall",
+    "radar readings"
+   ],
+   "quote": "dancing up and down as if someone was playing with a giant yo-yo"
+  },
+  {
+   "summary": "A disc-shaped object sighted in the East of Los Angeles, remaining stationary before moving north.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1952-09-22",
+   "date_precision": "day",
+   "entity_appearance": "disc shaped, yellowish-white, 50 feet in diameter",
+   "location_name": "Los Angeles, California",
+   "page_refs": [
+    123
+   ],
+   "quote": "remained in a stationary position for about 4 seconds"
+  },
+  {
+   "summary": "A large metal ball landed in Charleston, West Virginia; two small men in red emerged from a trap in the top.",
+   "encounter_type": "occupant-report",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1952-10-11",
+   "date_precision": "day",
+   "entity_appearance": "two small men in red",
+   "entity_behavior": "emerged from trap, climbed tree, looked around, re-entered craft",
+   "entity_clothing": "red",
+   "entity_count": "2",
+   "location_name": "Charleston, West Virginia",
+   "page_refs": [
+    116
+   ],
+   "physical_effects": [
+    "white light"
+   ],
+   "quote": "two small men in red emerged from a trap in the top"
+  },
+  {
+   "summary": "Three small animals encountered on Bankhead Highway near Mableton, Georgia; one killed by automobile.",
+   "encounter_type": "occupant-report",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1953-07-08",
+   "date_precision": "day",
+   "entity_appearance": "21 inches long, pointed head, large ears, pinkish skin, no hair",
+   "entity_behavior": "running toward saucer",
+   "entity_count": "3",
+   "location_name": "Mableton, Georgia",
+   "page_refs": [
+    154,
+    156,
+    159,
+    160,
+    161,
+    163
+   ],
+   "physical_effects": [
+    "blood"
+   ],
+   "quote": "looked as if it belonged to monkey family"
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "doc_id": "dow-uap-d14-mission-report-iraq-may-2022",
+ "file": "pursue-r1--dow-uap-d14-mission-report-iraq-may-2022.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-PR21, Unresolved UAP Report, Iraq, May 2022",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a declassified military mission report (MISREP) detailing ISR operations in Iraq and the Mediterranean; it contains no encounters as defined by the criteria.",
+ "encounters": []
+}

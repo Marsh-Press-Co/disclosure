@@ -1,0 +1,74 @@
+{
+ "doc_id": "18_6369445_general_1948_vol_1",
+ "file": "pursue-r1--18_6369445_general_1948_vol_1.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "18_6369445_General_1948_Vol_1",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of military correspondence and routing slips regarding the reporting and investigation of 'Flying Discs' and Project SIGN, containing reports of specific sightings.",
+ "encounters": [
+  {
+   "summary": "Four witnesses observed a round, phosphorescent object with a phosphorescent trail moving at great speed at an altitude of 6 to 8 miles.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1948-05-08",
+   "date_precision": "day",
+   "location_name": "Hobson, Ohio",
+   "page_refs": [
+    2,
+    3
+   ],
+   "physical_effects": [
+    "phosphorescent trail"
+   ],
+   "quote": "round, phosphorescent... Great amount of speed"
+  },
+  {
+   "summary": "Witnesses reported two objects falling to earth resembling aircraft with smoke and debris trailing.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1948-03-05",
+   "date_precision": "day",
+   "location_name": "Bakersfield, California",
+   "page_refs": [
+    16
+   ],
+   "physical_effects": [
+    "smoke and debris trailing"
+   ],
+   "quote": "Description of objects similar to falling aircraft with smoke and debris trailing."
+  },
+  {
+   "summary": "Witness reported two objects falling to earth north of Bakersfield, one appearing to be on fire with red and black smoke trailing.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1948-03-08",
+   "date_precision": "day",
+   "location_name": "Bakersfield, California",
+   "page_refs": [
+    16
+   ],
+   "physical_effects": [
+    "fire",
+    "red and black smoke trailing"
+   ],
+   "quote": "One object seemed to be on fire with red and black smoke trailing behind."
+  }
+ ]
+}

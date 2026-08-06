@@ -1,0 +1,100 @@
+{
+ "doc_id": "hearing-2023-07-26-house-oversight",
+ "file": "hearing-2023-07-26-house-oversight.md",
+ "source": "CONGRESS",
+ "agency": "U.S. House Committee on Oversight and Accountability",
+ "title": "Hearing: Unidentified Anomalous Phenomena - Implications on National Security, Public Safety, and Government Transparency (House Oversight, 26 Jul 2023)",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a transcript of a U.S. House Oversight Committee hearing on UAPs, containing multiple firsthand and secondhand accounts of close-range encounters.",
+ "encounters": [
+  {
+   "summary": "Two F-18 Super Hornets were split by a UAP described as a dark gray or black cube inside a clear sphere, which came within 50 feet of the lead aircraft.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "2014",
+   "date_precision": "year",
+   "entity_appearance": "dark gray or black cube inside a clear sphere",
+   "entity_count": "1",
+   "entity_height": "5 to 15 feet in diameter",
+   "location_name": "Warning Area W-72, off the coast of Virginia Beach",
+   "page_refs": [
+    14
+   ],
+   "physical_effects": [
+    "radar errors",
+    "sensor correlation"
+   ],
+   "quote": "The object, described as a dark gray or a black cube inside of a clear sphere, came within 50 feet of the lead aircraft"
+  },
+  {
+   "summary": "A white Tic Tac-shaped object was observed by multiple pilots, performing abrupt maneuvers and rapid acceleration, with no visible propulsion or control surfaces.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "2004-11-14",
+   "date_precision": "day",
+   "entity_appearance": "white Tic Tac object, longitudinal axis, no rotors, no wings, no visible control surfaces",
+   "entity_behavior": "moving abruptly, rapid acceleration, hovering",
+   "entity_count": "1",
+   "location_name": "Off the coast of California",
+   "page_refs": [
+    13,
+    14
+   ],
+   "physical_effects": [
+    "radar jamming",
+    "whitewater disturbance"
+   ],
+   "quote": "saw a white Tic Tac object with a longitudinal axis pointing north south and moving very abruptly over the water like a ping pong ball"
+  },
+  {
+   "summary": "Boeing contractors observed a 100-yard wide red square object hovering over a launch facility, which later approached security guards at high speed.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "USA",
+   "date": "2003",
+   "date_precision": "year",
+   "entity_appearance": "100-yard wide red square",
+   "entity_behavior": "hovering, darting off at rapid speeds",
+   "location_name": "Vandenberg Air Force Base",
+   "page_refs": [
+    24
+   ],
+   "quote": "observed a very large 100-yard sighted red square approach the base from the ocean and hover at low altitude"
+  },
+  {
+   "summary": "Test pilots observed a diamond formation of four craft over the Gulf of Mexico; one pilot approached an orb-like craft which caused sensor malfunctions.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "2023",
+   "date_precision": "year",
+   "entity_appearance": "orb",
+   "entity_behavior": "diamond formation, disarming sensors",
+   "entity_count": "4",
+   "location_name": "Gulf of Mexico",
+   "page_refs": [
+    41
+   ],
+   "physical_effects": [
+    "radar malfunction",
+    "FLIR system malfunction"
+   ],
+   "quote": "saw a sequence of four craft in a clear diamond formation"
+  }
+ ]
+}

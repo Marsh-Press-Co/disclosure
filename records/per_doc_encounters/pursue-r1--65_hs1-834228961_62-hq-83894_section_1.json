@@ -1,0 +1,244 @@
+{
+ "doc_id": "65_hs1-834228961_62-hq-83894_section_1",
+ "file": "pursue-r1--65_hs1-834228961_62-hq-83894_section_1.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "65_HS1-834228961_62-HQ-83894_Section_1",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This is an FBI case file (62-HQ-83894) containing various reports, teletypes, and newspaper clippings regarding flying disc sightings and recovered objects in July 1947. / This document is an FBI case file containing various reports, memoranda, and teletypes regarding 'flying discs' or 'flying saucers' from 1947, including both hoax reports and serious military/intelligence inquiries.",
+ "encounters": [
+  {
+   "summary": "A Catholic priest in Grafton, Wisconsin, reported a metal disc crashed into his yard, which he held for the FBI; it was later identified as a circular saw blade with wires and tubes attached.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "civilian",
+   "document_stance": "debunked",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1947-07-06",
+   "date_precision": "day",
+   "entity_appearance": "none",
+   "entity_behavior": "none",
+   "entity_clothing": "none",
+   "entity_count": "0",
+   "entity_height": "none",
+   "location_name": "Grafton, Wisconsin",
+   "page_refs": [
+    2,
+    24,
+    46,
+    48,
+    49,
+    50,
+    56
+   ],
+   "physical_effects": [
+    "mild explosion",
+    "heat"
+   ],
+   "quote": "The object still was warm, weighed about four or five pounds and was about one eighth of an inch thick"
+  },
+  {
+   "summary": "An Idaho housewife reported seeing a fleet of eight saucer-shaped objects land on a mountainside near St. Maries, Idaho.",
+   "encounter_type": "landing",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1947-07-04",
+   "date_precision": "day",
+   "entity_appearance": "none",
+   "entity_behavior": "fluttered like leaves to the ground",
+   "entity_clothing": "none",
+   "entity_count": "8",
+   "entity_height": "size of a five-room house",
+   "location_name": "St. Maries, Idaho",
+   "page_refs": [
+    4,
+    50,
+    52
+   ],
+   "physical_effects": [],
+   "quote": "fluttered like leaves to the ground"
+  },
+  {
+   "summary": "A resident of Omaha, Nebraska, reported a flaming, solid circular disc dropped in the street in front of his house, burning with extreme heat.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "civilian",
+   "document_stance": "debunked",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1947-07-07",
+   "date_precision": "day",
+   "entity_appearance": "none",
+   "entity_behavior": "none",
+   "entity_clothing": "none",
+   "entity_count": "0",
+   "entity_height": "none",
+   "location_name": "Omaha, Nebraska",
+   "page_refs": [
+    11,
+    13,
+    14,
+    15
+   ],
+   "physical_effects": [
+    "extreme heat",
+    "scorch marks"
+   ],
+   "quote": "burning with extreme heat"
+  },
+  {
+   "summary": "A resident of Shreveport, Louisiana, reported a circular disc whirring in the air with fire spouting from its sides before landing.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1947-07-07",
+   "date_precision": "day",
+   "entity_appearance": "none",
+   "entity_behavior": "whirling",
+   "entity_clothing": "none",
+   "entity_count": "0",
+   "entity_height": "none",
+   "location_name": "Shreveport, Louisiana",
+   "page_refs": [
+    72
+   ],
+   "physical_effects": [
+    "fire",
+    "smoke"
+   ],
+   "quote": "DISC WHIRLING WHEN SEEN IN AIR AND FIRE SEEN SPOUTING FROM SIDES"
+  },
+  {
+   "summary": "A resident of Twin Falls, Idaho, reported finding a circular disc with a plastic dome and radio tubes in a neighbor's yard.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1947-07-11",
+   "date_precision": "day",
+   "entity_appearance": "none",
+   "entity_behavior": "none",
+   "entity_clothing": "none",
+   "entity_count": "0",
+   "entity_height": "none",
+   "location_name": "Twin Falls, Idaho",
+   "page_refs": [
+    79
+   ],
+   "physical_effects": [
+    "burned wiring"
+   ],
+   "quote": "A disc 30½\" in diameter, circular in shape, it is dished like a saucer"
+  },
+  {
+   "summary": "A 'flying disc' reported to have landed in a garden, burst into flames, and was extinguished by the fire department.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "civilian",
+   "document_stance": "debunked",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "country": "USA",
+   "date": "1947-07-09",
+   "date_precision": "day",
+   "location_name": "North Hollywood, California",
+   "page_refs": [
+    94
+   ],
+   "physical_effects": [
+    "flames",
+    "ground traces"
+   ],
+   "quote": "definitely a hoax"
+  },
+  {
+   "summary": "A 'flying disc' reported to have landed on a roof, burning and then extinguished.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "civilian",
+   "document_stance": "debunked",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "country": "USA",
+   "date": "1947-07-15",
+   "date_precision": "day",
+   "location_name": "Seattle, Washington",
+   "page_refs": [
+    99,
+    101
+   ],
+   "physical_effects": [
+    "flames",
+    "charred cloth"
+   ],
+   "quote": "definitely not of AAF origin"
+  },
+  {
+   "summary": "Small burned spots found on a lawn following reports of smoke and metallic fragments.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "country": "USA",
+   "date": "1947-07-07",
+   "date_precision": "day",
+   "location_name": "West Rindge, New Hampshire",
+   "page_refs": [
+    106,
+    108
+   ],
+   "physical_effects": [
+    "burns",
+    "metallic fragments"
+   ],
+   "quote": "small burned spots about one and one half inches in diameter"
+  },
+  {
+   "summary": "Witness reported seeing a strange object in the sky that descended in a spiral motion and disappeared.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": true,
+   "country": "Germany",
+   "date": "1947",
+   "date_precision": "year",
+   "location_name": "Germany",
+   "page_refs": [
+    147,
+    148
+   ],
+   "quote": "descending slowly... suddenly it dropped in a spiral motion"
+  },
+  {
+   "summary": "Witness reported seeing three flat round discs flying at high speed.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "federal-le",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1947-07-04",
+   "date_precision": "day",
+   "location_name": "Portland, Oregon",
+   "page_refs": [
+    183
+   ],
+   "quote": "three flat round discs, having a white color to them"
+  }
+ ]
+}

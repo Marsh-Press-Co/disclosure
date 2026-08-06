@@ -1,0 +1,26 @@
+{
+ "doc_id": "aaro-fy25-consolidated-annual-report",
+ "file": "aaro-fy25-consolidated-annual-report.md",
+ "source": "AARO",
+ "agency": "All-domain Anomaly Resolution Office",
+ "title": "FY 2025 Consolidated Annual Report on UAP (AARO, 20 Jul 2026)",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is an annual report from the All-domain Anomaly Resolution Office (AARO) covering UAP reporting trends and analysis, containing one specific encounter report.",
+ "encounters": [
+  {
+   "summary": "A U.S. Navy report described approximately 100 airborne UAP and two uncrewed surface systems operating off the coast of Virginia.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "United States",
+   "location_name": "Virginia coast",
+   "page_refs": [
+    5
+   ]
+  }
+ ]
+}

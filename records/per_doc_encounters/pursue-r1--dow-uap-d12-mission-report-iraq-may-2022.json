@@ -1,0 +1,29 @@
+{
+ "doc_id": "dow-uap-d12-mission-report-iraq-may-2022",
+ "file": "pursue-r1--dow-uap-d12-mission-report-iraq-may-2022.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D12, Mission Report, Iraq, May 2022",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a declassified military mission report (MISREP) from the Department of War regarding an aerial reconnaissance flight in Iraq, which includes a brief section documenting a UAP sighting.",
+ "encounters": [
+  {
+   "summary": "An unidentified aerial phenomenon was observed by an aircraft screener moving north to north-east; the object could not be positively identified.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "date": "2022-05-20",
+   "date_precision": "day",
+   "entity_count": "1",
+   "location_name": "38SMC79[REDACTED]70[REDACTED]",
+   "page_refs": [
+    6
+   ],
+   "quote": "SCREENER COULD NOT GET A POSITIVE ID ON THE UAP"
+  }
+ ]
+}

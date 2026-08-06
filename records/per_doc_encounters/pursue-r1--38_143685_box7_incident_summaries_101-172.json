@@ -1,0 +1,267 @@
+{
+ "doc_id": "38_143685_box7_incident_summaries_101-172",
+ "file": "pursue-r1--38_143685_box7_incident_summaries_101-172.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "38_143685_box_Incident_Summaries_101-172",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This document is a collection of incident summaries regarding unidentified flying objects and aerial phenomena, containing several firsthand reports of close-range encounters. / This document contains a series of incident summaries regarding unidentified flying objects, including reports from military personnel and civilians.",
+ "encounters": [
+  {
+   "summary": "Leland Sammons observed a funnel-shaped object hovering near his house, which wobbled, emitted fire, and showered sparks before departing rapidly.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1948-02-18",
+   "date_precision": "day",
+   "entity_appearance": "funnel-shaped, 4 feet long",
+   "entity_behavior": "hovered, wobbled, belched fire, showered sparks",
+   "location_name": "Stockton, Kansas",
+   "page_refs": [
+    5
+   ],
+   "physical_effects": [
+    "heat",
+    "fire"
+   ],
+   "quote": "The thing was about 4' long, shaped something like a funnel."
+  },
+  {
+   "summary": "Lt. Meyers observed a silver, half-moon shaped flying wing aircraft that performed rapid maneuvers and disappeared.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1948-04-01",
+   "date_precision": "day",
+   "entity_appearance": "silver, half-moon shape, dorsal fin",
+   "entity_behavior": "leveled out, accelerated rapidly",
+   "location_name": "Unknown",
+   "page_refs": [
+    34
+   ],
+   "quote": "The object appeared to be a flying wing aircraft, its shape resembled a half moon."
+  },
+  {
+   "summary": "Lt. Col. Robert B. Hughes observed a silver, parachute-like object with a canister suspended by a cable.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1948-04-09",
+   "date_precision": "day",
+   "entity_appearance": "silver, parachute-like top, dark cable, silver canister",
+   "entity_behavior": "flew away on a horizontal plane",
+   "location_name": "Montgomery, Alabama",
+   "page_refs": [
+    49,
+    50,
+    51
+   ],
+   "quote": "Top part of the object approximately eight feet in diameter, silver in color, had the appearance of a parachute."
+  },
+  {
+   "summary": "Col. W. F. Siegmund observed a creature resembling a huge fowl that was bigger than an airplane.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1948-04-11",
+   "date_precision": "day",
+   "entity_appearance": "huge fowl, bigger than an airplane",
+   "entity_behavior": "flying",
+   "location_name": "Alton, Illinois",
+   "page_refs": [
+    74,
+    75
+   ],
+   "quote": "Resembled a huge fowl and not a type of aircraft"
+  },
+  {
+   "summary": "Lt Kokolonis observed 5 silvery-gold disc-shaped objects flying in a stepped-up formation at high speed.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1948-05-28",
+   "date_precision": "day",
+   "entity_appearance": "silvery-gold, hazy or fuzzy outline",
+   "entity_behavior": "maintained smooth track, abrupt turns",
+   "entity_count": "5",
+   "entity_height": "300 to 400 ft",
+   "location_name": "6 miles east of Monroe, Michigan",
+   "page_refs": [
+    94
+   ],
+   "quote": "Objects maintained smooth track thru sky"
+  },
+  {
+   "summary": "M/Sgt Ernest Davis, Jr. observed 2 shiny brass round objects flying a straight course.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1948-05-28",
+   "date_precision": "day",
+   "entity_appearance": "shiny brass, round",
+   "entity_behavior": "pursued straight course",
+   "entity_count": "2",
+   "entity_height": "4 feet",
+   "location_name": "6 miles due east of Monroe, Michigan",
+   "page_refs": [
+    95
+   ],
+   "quote": "Appeared to be four feet in diameter"
+  },
+  {
+   "summary": "Maj Elmer H. Hammer, Jr. observed 12 elliptical yellowish-white objects in a tight diamond formation.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1948-08-15",
+   "date_precision": "month",
+   "entity_appearance": "yellowish-white, brilliant, elliptical",
+   "entity_behavior": "tight diamond-shaped formation",
+   "entity_count": "12",
+   "entity_height": "100+ ft",
+   "location_name": "Weaver, S.D.",
+   "page_refs": [
+    96
+   ],
+   "quote": "tight diamond-shaped formation"
+  },
+  {
+   "summary": "Mrs. Wilda Zittak observed 2 silver, cigar-shaped objects through binoculars that bobbed up and down.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1948-07-08",
+   "date_precision": "day",
+   "entity_appearance": "silver, cigar-shaped, blunt front",
+   "entity_behavior": "bobbed up and down",
+   "entity_count": "2",
+   "location_name": "Columbus, Ohio",
+   "page_refs": [
+    102,
+    104,
+    105
+   ],
+   "quote": "looked like something going through air currents"
+  },
+  {
+   "summary": "Pilot Clarence Shipe Chiles and Co-Pilot John B. Whitted observed a cigar-shaped craft with two rows of windows and a blue glow underneath.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1948-07-24",
+   "date_precision": "day",
+   "entity_appearance": "cigar-shaped, two rows of windows, blue glow underneath, shooting flame from rear",
+   "entity_behavior": "pulled up into clouds",
+   "entity_count": "1",
+   "entity_height": "100 ft",
+   "location_name": "20 miles south of Montgomery, Ala",
+   "page_refs": [
+    114,
+    118
+   ],
+   "quote": "two rows of windows, which indicated an upper and lower deck"
+  },
+  {
+   "summary": "1st Lt Dominick J. Caramia and Thomas B. Carpenter observed approximately 20 grayish-black spheroid or disc-shaped objects.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1948-07-09",
+   "date_precision": "day",
+   "entity_appearance": "grayish-black, spheroid or disc-shaped",
+   "entity_behavior": "jockeyed back and forth in shotgun blast pattern",
+   "entity_count": "20",
+   "location_name": "Fielding Lake, Alaska",
+   "page_refs": [
+    121,
+    122
+   ],
+   "quote": "jockeyed back and forth in the group formation"
+  },
+  {
+   "summary": "Two children observed a dull gray, round object land in their backyard, spin, whistle, and maneuver around wires.",
+   "encounter_type": "landing",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1948-08-11",
+   "date_precision": "day",
+   "entity_appearance": "dull gray, round, metallic",
+   "entity_behavior": "landed, spun, whistled, maneuvered around wires",
+   "entity_count": "1",
+   "entity_height": "2 feet",
+   "location_name": "Hamel, Minnesota",
+   "page_refs": [
+    158,
+    159
+   ],
+   "physical_effects": [
+    "ground dented",
+    "rocks leveled"
+   ],
+   "quote": "settled to the ground gently - much as a balloon"
+  },
+  {
+   "summary": "Mr. and Mrs. Vernon Swigert observed a white, cymbal-shaped object that shimmered and appeared to spin.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1948-07-31",
+   "date_precision": "day",
+   "entity_appearance": "flat white, cymbal-shaped",
+   "entity_behavior": "shimmered, appeared to spin",
+   "entity_count": "1",
+   "entity_height": "6 to 8 ft",
+   "location_name": "Indianapolis, Indiana",
+   "page_refs": [
+    135,
+    136
+   ],
+   "quote": "shaped like a cymbal with smooth surfaces"
+  }
+ ]
+}

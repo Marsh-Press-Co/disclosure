@@ -1,0 +1,11 @@
+{
+ "doc_id": "dow-uap-d18-mission-report-iraq-december-2022",
+ "file": "pursue-r1--dow-uap-d18-mission-report-iraq-december-2022.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-PR23, Unresolved UAP Report, Iraq, December 2022",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a declassified military mission report (MISREP) regarding an ISR flight in Iraq; it contains no encounter records as the only UAP mention is a distant sighting of a possible UAV.",
+ "encounters": []
+}

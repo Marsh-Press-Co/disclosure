@@ -1,0 +1,31 @@
+{
+ "doc_id": "dow-uap-d19-mission-report-syria-february-21-2023",
+ "file": "pursue-r1--dow-uap-d19-mission-report-syria-february-21-2023.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D19, Mission Report, Syria, February 21, 2023",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a declassified U.S. Air Force mission report (MISREP) from February 2023 containing a report of an aerial encounter with unidentified objects.",
+ "encounters": [
+  {
+   "summary": "Aircrew observed three possible UAP while cruising in CAP; no radar returns were received, but the objects were IR significant.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "Syria",
+   "date": "2023-02-21",
+   "date_precision": "day",
+   "entity_appearance": "2 white objects",
+   "entity_count": "3",
+   "location_name": "Shaddadi",
+   "page_refs": [
+    9
+   ],
+   "quote": "3X POSS UAP IVO SHADDADI"
+  }
+ ]
+}

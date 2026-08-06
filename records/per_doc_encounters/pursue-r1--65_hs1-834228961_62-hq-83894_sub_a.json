@@ -1,0 +1,247 @@
+{
+ "doc_id": "65_hs1-834228961_62-hq-83894_sub_a",
+ "file": "pursue-r1--65_hs1-834228961_62-hq-83894_sub_a.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "65_HS1-834228961_62-HQ-83894_SUB_A",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This is a collection of FBI file clippings and reports regarding UFO sightings, including several reports of close encounters and physical effects. / This document is a collection of FBI case files and newspaper clippings regarding flying saucer reports, containing multiple accounts of close encounters and sightings.",
+ "encounters": [
+  {
+   "summary": "Reinhold O. Schmidt claimed to have encountered a cigar-shaped craft and its six occupants in a field near Kearney, Nebraska.",
+   "encounter_type": "claimed-contact",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_content": "Occupants spoke High German and English; told him he had nothing to fear and would find out more in a couple of weeks.",
+   "communication_method": "verbal",
+   "country": "USA",
+   "date": "1957-11-05",
+   "date_precision": "day",
+   "entity_appearance": "Four men and two women in business suits.",
+   "entity_behavior": "Waved a flashlight, searched claimant for weapons, moved by stepping into specific locations.",
+   "entity_clothing": "Business suits",
+   "entity_count": "6",
+   "location_name": "Kearney, Nebraska",
+   "page_refs": [
+    6,
+    7,
+    8,
+    9
+   ],
+   "physical_effects": [
+    "car engine stall",
+    "paralysis",
+    "oil stains on ground"
+   ],
+   "quote": "I couldn't move. I don't know whether I was just afraid or what, but it was like being paralyzed"
+  },
+  {
+   "summary": "James Stokes reported an egg-shaped object that caused car engines to stall near White Sands Proving Grounds.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "USA",
+   "date": "1957-11-04",
+   "date_precision": "day",
+   "entity_appearance": "Brilliant colored egg-shaped object.",
+   "location_name": "White Sands, New Mexico",
+   "page_refs": [
+    9,
+    11
+   ],
+   "physical_effects": [
+    "car engine stall",
+    "radiation heat wave"
+   ],
+   "quote": "brilliant colored egg-shaped object"
+  },
+  {
+   "summary": "A Civil Service worker reported an egg-shaped object landing in a ravine near San Antonio, causing his car engine and lights to fail.",
+   "encounter_type": "landing",
+   "claimant_type": "government-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "low",
+   "claimant_firsthand": false,
+   "country": "USA",
+   "date": "1957-11",
+   "date_precision": "month",
+   "entity_appearance": "Egg-shaped object.",
+   "location_name": "San Antonio, Texas",
+   "page_refs": [
+    9
+   ],
+   "physical_effects": [
+    "car engine stall",
+    "lights failure"
+   ],
+   "quote": "egg-shaped object land in a ravine"
+  },
+  {
+   "summary": "Sheriff Weir Clem and several motorists reported an egg-shaped object that caused car engines and headlights to fail.",
+   "encounter_type": "close-approach",
+   "claimant_type": "federal-le",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "USA",
+   "date": "1957-11-03",
+   "date_precision": "day",
+   "entity_appearance": "Egg-shaped, glowing like a blinding-red sunset or neon light.",
+   "location_name": "Levelland, Texas",
+   "page_refs": [
+    14,
+    15
+   ],
+   "physical_effects": [
+    "car engine stall",
+    "headlight failure"
+   ],
+   "quote": "mysterious egg-shaped object which looked like a blinding-red sunset"
+  },
+  {
+   "summary": "Herbert Long reported an egg-shaped object sitting in the road that caused his engine and lights to fail.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "USA",
+   "date": "1957-11-03",
+   "date_precision": "day",
+   "entity_appearance": "Egg-shaped, 200 feet long, glowing like a neon light.",
+   "location_name": "Levelland, Texas",
+   "page_refs": [
+    15
+   ],
+   "physical_effects": [
+    "car engine stall",
+    "headlight failure"
+   ],
+   "quote": "glowed intermittently like a blinding neon light"
+  },
+  {
+   "summary": "Herbert Long reported seeing a parked saucer-shaped craft 30 feet from his car.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "USA",
+   "date": "1952-08",
+   "date_precision": "month",
+   "entity_appearance": "Dome-shaped with three window-like openings and an antenna.",
+   "location_name": "Kutztown, Pennsylvania",
+   "page_refs": [
+    49,
+    50
+   ],
+   "quote": "too frightened to approach it"
+  },
+  {
+   "summary": "Four Philadelphia policemen reported seeing a saucer-like object land in a field, which then evaporated, leaving a sticky, odorless residue.",
+   "encounter_type": "landing",
+   "claimant_type": "federal-le",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "location_name": "Philadelphia, Pennsylvania",
+   "page_refs": [
+    69
+   ],
+   "physical_effects": [
+    "sticky odorless residue"
+   ]
+  },
+  {
+   "summary": "Pilot Jim Graham claimed a 'flying sausage' collided with his plane and exploded like a bomb, though no damage was found.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "date": "1950-07-30",
+   "date_precision": "day",
+   "entity_appearance": "blue streak about 10 feet long shaped like a sausage",
+   "entity_behavior": "dived suddenly and collided with plane",
+   "location_name": "Williamsville, Illinois",
+   "page_refs": [
+    71
+   ],
+   "physical_effects": [
+    "explosion"
+   ]
+  },
+  {
+   "summary": "Two pilots and an electronics instructor tracked a helmet-shaped object on radar for eight miles and observed it visually.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "date": "1950-07-13",
+   "date_precision": "day",
+   "entity_appearance": "helmet-shaped, shiny round object, 25 to 45 feet across, 7 feet high",
+   "entity_behavior": "whizzing past training planes",
+   "location_name": "Osceola, Arkansas",
+   "page_refs": [
+    73
+   ],
+   "physical_effects": [
+    "radar contact"
+   ]
+  },
+  {
+   "summary": "Capt. Thomas Mantell died after pursuing a metallic object he described as a silver ice cream cone topped with red.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "verbal",
+   "location_name": "Fort Knox, Kentucky",
+   "page_refs": [
+    84,
+    85
+   ],
+   "quote": "The thing looks metallic and is tremendous."
+  },
+  {
+   "summary": "Airline pilots Chiles and Whitted reported a cigar-shaped object with orange flames that rocked their DC-3.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "location_name": "Montgomery, Alabama",
+   "page_refs": [
+    85
+   ],
+   "physical_effects": [
+    "rocking of aircraft"
+   ],
+   "quote": "There was a tremendous burst of orange flame from the rear."
+  },
+  {
+   "summary": "Airline pilots Adams and Anderson reported a flying saucer with windows on the bottom and a blinking light on top.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "location_name": "Arkansas",
+   "page_refs": [
+    85
+   ],
+   "quote": "I've been a sceptic all my life about such things, but what can you do when you see a thing like that?"
+  }
+ ]
+}

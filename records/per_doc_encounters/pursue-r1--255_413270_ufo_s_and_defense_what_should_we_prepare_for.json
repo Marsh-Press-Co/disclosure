@@ -1,0 +1,119 @@
+{
+ "doc_id": "255_413270_ufo's_and_defense_what_should_we_prepare_for",
+ "file": "pursue-r1--255_413270_ufo_s_and_defense_what_should_we_prepare_for.md",
+ "source": "PURSUE-R1",
+ "agency": "NASA",
+ "title": "255_413270_UFO's_and_Defense_What_Should_we_Prepare_For",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This document is a report by the French association COMETA regarding UFOs and defense, containing summaries of various historical encounter cases. / This document is a report by the French committee COMETA regarding UFOs and defense, which includes summaries of various international encounter reports.",
+ "encounters": [
+  {
+   "summary": "Maurice Masse observed a craft land in his lavender field and encountered two small beings who paralyzed him with a tube-like device.",
+   "encounter_type": "occupant-report",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "France",
+   "date": "1965-07-01",
+   "date_precision": "day",
+   "entity_appearance": "two small beings",
+   "location_name": "Valensole",
+   "page_refs": [
+    24
+   ],
+   "physical_effects": [
+    "depression in ground",
+    "cylindrical hole",
+    "dried up lavender"
+   ],
+   "quote": "Maurice Masse indicated that he was totally immobilized in place, numbed and paralyzed"
+  },
+  {
+   "summary": "Two children observed four small beings and a sphere; the beings used a mirror-like object to blind them.",
+   "encounter_type": "occupant-report",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "France",
+   "date": "1967-08-29",
+   "date_precision": "day",
+   "entity_appearance": "small black beings, height not exceeding 1.20 m",
+   "entity_clothing": "none",
+   "entity_count": "4",
+   "entity_height": "1.20 m",
+   "location_name": "Cussac",
+   "page_refs": [
+    24,
+    25
+   ],
+   "physical_effects": [
+    "sulfur odor",
+    "physiological disorders",
+    "eye irritation"
+   ],
+   "quote": "small black beings whose height did not exceed 1.20 m"
+  },
+  {
+   "summary": "Military personnel at an Astrakhan missile base observed three bright disks performing extraordinary maneuvers, including hovering and high-speed flight without noise, and outmaneuvering a fighter jet.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "Russia",
+   "date": "1989",
+   "date_precision": "year",
+   "entity_appearance": "three bright disks",
+   "entity_behavior": "hovering to high speed, silent, evasive",
+   "location_name": "Astrakhan",
+   "page_refs": [
+    50
+   ],
+   "physical_effects": [
+    "engine stall"
+   ]
+  },
+  {
+   "summary": "A silent discoid object was observed by multiple witnesses and radar, performing maneuvers at speeds two or three times faster than a modern fighter jet.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "Russia",
+   "date": "1990-03-21",
+   "date_precision": "day",
+   "entity_appearance": "silent discoid object",
+   "entity_behavior": "hovering to supersonic speed",
+   "location_name": "Pereslav-Zalesski",
+   "page_refs": [
+    50
+   ],
+   "physical_effects": []
+  },
+  {
+   "summary": "A luminescent object hovered above the runway of Barnaul airport, causing cargo aircraft crews to refuse takeoff and landing.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "Russia",
+   "date": "2001-01-26",
+   "date_precision": "day",
+   "entity_appearance": "luminescent object",
+   "entity_behavior": "hovering",
+   "location_name": "Barnaul airport",
+   "page_refs": [
+    93
+   ],
+   "physical_effects": []
+  }
+ ]
+}

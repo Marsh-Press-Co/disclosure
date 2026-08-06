@@ -1,0 +1,11 @@
+{
+ "doc_id": "255_t_763_r1b_transcripts",
+ "file": "pursue-r1--255_t_763_r1b_transcripts.md",
+ "source": "PURSUE-R1",
+ "agency": "NASA",
+ "title": "NASA-UAP-D3, Gemini 7 Transcript, 1965",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a transcript of radio communications between Gemini 7 and Houston Control regarding space debris and sightings, but it contains no encounters as defined by the criteria.",
+ "encounters": []
+}

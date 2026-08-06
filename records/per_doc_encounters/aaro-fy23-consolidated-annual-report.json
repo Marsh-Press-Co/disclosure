@@ -1,0 +1,11 @@
+{
+ "doc_id": "aaro-fy23-consolidated-annual-report",
+ "file": "aaro-fy23-consolidated-annual-report.md",
+ "source": "AARO",
+ "agency": "All-domain Anomaly Resolution Office",
+ "title": "FY 2023 Consolidated Annual Report on UAP (AARO/ODNI joint)",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a declassified annual report from the All-domain Anomaly Resolution Office (AARO) regarding UAP reporting trends, and it contains no specific encounter records.",
+ "encounters": []
+}

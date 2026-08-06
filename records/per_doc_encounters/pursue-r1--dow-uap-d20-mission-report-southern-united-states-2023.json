@@ -1,0 +1,11 @@
+{
+ "doc_id": "dow-uap-d20-mission-report-southern-united-states-2023",
+ "file": "pursue-r1--dow-uap-d20-mission-report-southern-united-states-2023.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D20, Mission Report, Iraq, 2023",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a military mission report (MISREP) detailing an F-16 flight, and while it mentions an observation of 'UAPs' on page 6, the description provided is of distant, bright objects maneuvering, which does not meet the criteria for a close-range encounter, landing, or occupant report.",
+ "encounters": []
+}

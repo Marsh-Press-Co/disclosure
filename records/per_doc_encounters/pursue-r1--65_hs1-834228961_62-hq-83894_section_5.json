@@ -1,0 +1,181 @@
+{
+ "doc_id": "65_hs1-834228961_62-hq-83894_section_5",
+ "file": "pursue-r1--65_hs1-834228961_62-hq-83894_section_5.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "65_HS1-834228961_62-HQ-83894_Section_5",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This document is an FBI case file (62-HQ-83894) containing various reports, memoranda, and correspondence regarding flying saucers, including several claimed encounters with craft and occupants. / This file contains various reports of flying saucer sightings and hoaxes, which the FBI consistently referred to the Air Force or OSI.",
+ "encounters": [
+  {
+   "summary": "A pilot reported observing a bright yellow, rocket-shaped object approximately 15-18 inches long, traveling at high speed near Parkersburg, West Virginia.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "United States",
+   "date": "1949-09-25",
+   "date_precision": "day",
+   "entity_appearance": "bright canary yellow, rocket-shaped, needle nose, blunt rear, vertical and horizontal fins",
+   "entity_behavior": "traveling at high speed, dropping slightly",
+   "entity_count": "1",
+   "location_name": "Lubeck, West Virginia",
+   "page_refs": [
+    41,
+    42,
+    43
+   ],
+   "quote": "bright yellow object coming directly towards me"
+  },
+  {
+   "summary": "A lecturer at Denver University claimed to have observed crashed flying saucers in New Mexico and recovered human-like occupants approximately three feet tall.",
+   "encounter_type": "occupant-report",
+   "claimant_type": "unknown",
+   "document_stance": "debunked",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "United States",
+   "date": "1950-03-09",
+   "date_precision": "day",
+   "entity_appearance": "human form, three feet tall",
+   "entity_behavior": "dead",
+   "location_name": "Denver, Colorado",
+   "page_refs": [
+    54,
+    55
+   ],
+   "quote": "occupants of saucers described by him as of human form, but about three feet tall"
+  },
+  {
+   "summary": "An informant reported observing a circular object with three-foot tall occupants in metallic cloth suits recovered in New Mexico.",
+   "encounter_type": "occupant-report",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "United States",
+   "date": "1950-03-22",
+   "date_precision": "day",
+   "entity_appearance": "human shape, three feet tall, metallic cloth suits",
+   "entity_count": "3",
+   "location_name": "New Mexico",
+   "page_refs": [
+    68
+   ],
+   "quote": "three bodies of human shape but only 3 feet tall, dressed in metallic cloth"
+  },
+  {
+   "summary": "Miss Laura McChesney observed a silvery white, diamond-shaped object traveling west at high speed near Geneva, Illinois.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "forwarded-no-action",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1950-04-01",
+   "date_precision": "day",
+   "location_name": "Route 47, west of Geneva, Illinois",
+   "page_refs": [
+    107
+   ]
+  },
+  {
+   "summary": "Elmira Police Department reported a landed object near the airport, which was identified by the Resident Agent as a corrugated cardboard box with a radio tube and flare.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "federal-le",
+   "document_stance": "debunked",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "country": "USA",
+   "date": "1950-04-08",
+   "date_precision": "day",
+   "location_name": "Elmira, New York",
+   "page_refs": [
+    113,
+    115
+   ],
+   "physical_effects": [
+    "scorched grass"
+   ]
+  },
+  {
+   "summary": "Naval personnel reported multiple sightings of unidentified objects, including radar interference and visual sightings of fast-moving orange lights and fireballs.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1950-01-22",
+   "date_precision": "day",
+   "location_name": "Kodiak, Alaska",
+   "page_refs": [
+    147,
+    148
+   ]
+  },
+  {
+   "summary": "Douglas Harrison observed a cigar-shaped, silver object at high altitude moving east over Washington, D.C.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1950-06-25",
+   "date_precision": "day",
+   "location_name": "Washington, D.C.",
+   "page_refs": [
+    166,
+    167
+   ]
+  },
+  {
+   "summary": "Tage Stensig, a meteorologist, observed a large, bright, silvery object moving at high speed over Downers Grove, Illinois.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1950-07-04",
+   "date_precision": "day",
+   "location_name": "Downers Grove, Illinois",
+   "page_refs": [
+    169
+   ]
+  },
+  {
+   "summary": "An informant observed a cigar-shaped object with a glowing front and dark rear traveling at high speed over the Great Lakes Naval Training Center.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1950-07-01",
+   "date_precision": "day",
+   "location_name": "North Chicago, Illinois",
+   "page_refs": [
+    174
+   ]
+  },
+  {
+   "summary": "Walter D. Jones observed a hazy, light-emitting object circling over his farm near Toronto for 35 minutes.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "forwarded-no-action",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "Canada",
+   "date": "1950-07-19",
+   "date_precision": "day",
+   "location_name": "Toronto, Ontario",
+   "page_refs": [
+    208
+   ]
+  }
+ ]
+}

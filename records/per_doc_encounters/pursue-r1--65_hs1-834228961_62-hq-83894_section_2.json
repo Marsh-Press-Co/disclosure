@@ -1,0 +1,303 @@
+{
+ "doc_id": "65_hs1-834228961_62-hq-83894_section_2",
+ "file": "pursue-r1--65_hs1-834228961_62-hq-83894_section_2.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "65_HS1-834228961_62-HQ-83894_Section_2",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This document is an FBI case file (62-HQ-83894) containing various reports and investigations into flying disc sightings and related claims from 1947. / This is an FBI case file containing various reports of flying discs and unidentified aerial objects, including statements from pilots and civilians.",
+ "encounters": [
+  {
+   "summary": "Two men observed a round, black object, 30-40 inches in diameter, moving horizontally at a steady rate without rays or exhaust.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1947-08-03",
+   "date_precision": "day",
+   "location_name": "Hackensack, New Jersey",
+   "page_refs": [
+    4,
+    6,
+    7
+   ]
+  },
+  {
+   "summary": "A couple observed a ball of white light burning near the ground, leaving behind fused sand and metallic material.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "medium",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1947-07-09",
+   "date_precision": "day",
+   "location_name": "Midland, Michigan",
+   "page_refs": [
+    8,
+    10,
+    14
+   ],
+   "physical_effects": [
+    "fused sand",
+    "metallic residue",
+    "ammonia odor",
+    "low-level radioactivity"
+   ]
+  },
+  {
+   "summary": "A pilot and student observed a spherical object, estimated 30-50 feet in diameter, traveling at high speed and climbing rapidly.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1947-08-06",
+   "date_precision": "day",
+   "location_name": "Myrtle Creek, Oregon",
+   "page_refs": [
+    52,
+    53,
+    54
+   ]
+  },
+  {
+   "summary": "Multiple witnesses observed groups of triangularly-formed illuminated objects flying over the city.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1947-08-19",
+   "date_precision": "day",
+   "location_name": "Twin Falls, Idaho",
+   "page_refs": [
+    57,
+    59,
+    61
+   ]
+  },
+  {
+   "summary": "A woman and two children observed approximately two dozen round silver objects, platter-shaped, high in the sky.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1947-09-03",
+   "date_precision": "day",
+   "location_name": "Oswego, Oregon",
+   "page_refs": [
+    92,
+    94
+   ]
+  },
+  {
+   "summary": "Superintendent of Schools A. Courtney Parker observed a white, ball-shaped object followed by a saucer-shaped object moving noiselessly from the East.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1947-09-17",
+   "date_precision": "day",
+   "location_name": "Rix Ledges, north of Lebanon, N.H.",
+   "page_refs": [
+    100
+   ],
+   "physical_effects": [
+    "glare of the sun"
+   ],
+   "quote": "I observed a so-called flying saucer."
+  },
+  {
+   "summary": "William Albert Rhodes observed an odd-shaped ship, 20-30 feet in diameter, making a spiral maneuver before banking into the clouds.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1947-07-07",
+   "date_precision": "day",
+   "entity_appearance": "dark, odd-shaped ship, 20-30 feet in diameter, green house in center",
+   "location_name": "Phoenix, Arizona",
+   "page_refs": [
+    117,
+    118
+   ],
+   "physical_effects": [
+    "no noise audible"
+   ],
+   "quote": "I observed to the northeast what appeared to be an odd shaped ship."
+  },
+  {
+   "summary": "Chief of Police Leon V. Jenkins observed a bright metal object, similar to a weather balloon, traveling rapidly.",
+   "encounter_type": "close-approach",
+   "claimant_type": "federal-le",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "USA",
+   "date": "1947-09-11",
+   "date_precision": "day",
+   "location_name": "Portland, Oregon",
+   "page_refs": [
+    120
+   ],
+   "quote": "an object similar in size to a weather balloon"
+  },
+  {
+   "summary": "Mrs. G. H. Stockton and Hugh Jennings observed a football-shaped object turning end over end at constant altitude.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "USA",
+   "date": "1947-09-06",
+   "date_precision": "day",
+   "entity_appearance": "football-shaped",
+   "location_name": "Shouns, Tennessee",
+   "page_refs": [
+    122
+   ],
+   "quote": "object which he described as being shaped like football"
+  },
+  {
+   "summary": "Fred M. Johnson observed a disc-shaped object with a tail, approximately 30 feet in diameter, while prospecting.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1947-06-24",
+   "date_precision": "day",
+   "location_name": "Cascade Mountains, Oregon",
+   "page_refs": [
+    127
+   ],
+   "physical_effects": [
+    "compass acted very peculiar"
+   ],
+   "quote": "saw a disc proceeding in a southeasterly direction."
+  },
+  {
+   "summary": "Kenneth Arnold observed nine disc-like objects flying in a chain-like formation near Mt. Rainier.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1947-06-24",
+   "date_precision": "day",
+   "entity_appearance": "disc-like, crescent-shaped, mirror bright",
+   "location_name": "Mt. Rainier, Washington",
+   "page_refs": [
+    164,
+    165,
+    166,
+    167
+   ],
+   "quote": "I observed a chain of nine peculiar looking aircraft"
+  },
+  {
+   "summary": "David N. Johnson observed a black, round object performing erratic maneuvers while flying an AT-6 aircraft.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1947-07-09",
+   "date_precision": "day",
+   "entity_appearance": "black and round",
+   "location_name": "Boise, Idaho",
+   "page_refs": [
+    169,
+    170,
+    171,
+    172,
+    173
+   ],
+   "quote": "there suddenly appeared in the left hand portion of my field of vision an object which was black and round."
+  },
+  {
+   "summary": "Captain William H. Ryherd observed two shiny, ball-like objects traveling at high speed.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1947-07-29",
+   "date_precision": "day",
+   "entity_appearance": "solid, white, shiny, ball-like on bottom",
+   "location_name": "Hamilton Field, California",
+   "page_refs": [
+    186
+   ],
+   "quote": "two flying objects traveling the same direction as the P-80."
+  },
+  {
+   "summary": "Lt. Eric B. Armstrong observed five or six white, circular objects flying in close formation.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1947-06-28",
+   "date_precision": "day",
+   "entity_appearance": "white, circular, 36 inches in diameter",
+   "location_name": "Lake Meade, Nevada",
+   "page_refs": [
+    189
+   ],
+   "quote": "sighted five or six white, circular objects"
+  },
+  {
+   "summary": "Captain Jack Peck and Vince Daly observed a smooth, streamlined object larger than a DC-3 crossing their course.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1947-08-04",
+   "date_precision": "day",
+   "entity_appearance": "smooth surfaced, streamlined, larger than DC-3",
+   "location_name": "Bethel, Alaska",
+   "page_refs": [
+    183
+   ],
+   "quote": "sighted and followed a flying saucer Northwest of Bethel Alaska."
+  },
+  {
+   "summary": "Horace P. Wenyon observed a projectile-like object with spurting flames traveling at high speed.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1946-09-01",
+   "date_precision": "month",
+   "entity_appearance": "projectile, 15 inches diameter, spurting flames",
+   "location_name": "Rehoboth Beach, Delaware",
+   "page_refs": [
+    192
+   ],
+   "quote": "projectile approximately fifteen inches in diameter which crossed his course"
+  }
+ ]
+}

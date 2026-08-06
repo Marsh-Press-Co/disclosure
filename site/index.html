@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>DISCLOSURE — The Paper Trail</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,600;9..144,900&family=IBM+Plex+Mono:wght@300;400;600&display=swap" rel="stylesheet">
+<script src="https://unpkg.com/globe.gl@2.34.5/dist/globe.gl.min.js"></script>
+<style>
+  :root{
+    --bg:#06080d; --bg2:#0b0f17; --paper:#ece5d3; --paper2:#e0d7bf; --ink:#10131a;
+    --amber:#e8a33d; --crimson:#ff5470; --dim:#8b93a5; --line:#232a38;
+    --e40:#d9a05b; --e50:#c8b48a; --e60:#a8b79b; --e70:#85b3a6; --e80:#6aacb5;
+    --e90:#58a3c4; --e00:#4f97d6; --e10:#5e8ce8; --e20:#7bd0ff;
+  }
+  *{box-sizing:border-box; margin:0; padding:0}
+  html,body{height:100%; background:var(--bg); color:var(--paper); font-family:'IBM Plex Mono',monospace; overflow:hidden}
+  #globe{position:absolute; inset:0}
+  .noise{position:fixed; inset:0; pointer-events:none; opacity:.05; z-index:5;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='120' height='120' filter='url(%23n)' opacity='0.6'/%3E%3C/svg%3E")}
+
+  /* ---------- left rail : the file cover ---------- */
+  #rail{position:absolute; z-index:10; top:0; left:0; bottom:0; width:308px; padding:22px 20px;
+    background:linear-gradient(90deg, rgba(6,8,13,.94) 70%, rgba(6,8,13,0)); overflow-y:auto; scrollbar-width:thin}
+  .stamp{display:inline-block; border:2px solid var(--amber); color:var(--amber); padding:2px 8px;
+    font-size:10px; letter-spacing:.22em; transform:rotate(-2deg); margin-bottom:14px}
+  h1{font-family:'Fraunces',serif; font-weight:900; font-size:44px; line-height:.95; letter-spacing:.01em}
+  h1 .thin{display:block; font-weight:300; font-size:17px; letter-spacing:.28em; margin-top:8px; color:var(--dim)}
+  .redact{display:inline-block; background:#000; color:#000; border-radius:1px; user-select:none}
+  #tally{margin:18px 0 6px; font-size:11px; line-height:2; color:var(--dim)}
+  #tally b{color:var(--paper); font-weight:600}
+  #tally .star{color:var(--amber)}
+  .rule{border-top:1px dashed var(--line); margin:14px 0}
+  .flabel{font-size:10px; letter-spacing:.24em; color:var(--dim); margin:14px 0 8px}
+  .chips{display:flex; flex-wrap:wrap; gap:6px}
+  .chip{font-size:10.5px; padding:4px 9px; border:1px solid var(--line); border-radius:2px;
+    color:var(--dim); cursor:pointer; transition:all .15s; background:transparent}
+  .chip:hover{border-color:var(--dim); color:var(--paper)}
+  .chip.on{color:var(--ink); background:var(--paper); border-color:var(--paper)}
+  .chip.era.on{background:var(--ec,var(--paper)); border-color:var(--ec,var(--paper))}
+  .tog{display:flex; align-items:center; gap:8px; font-size:11.5px; margin:8px 0; cursor:pointer; color:var(--dim)}
+  .tog input{accent-color:var(--amber)}
+  .tog:hover{color:var(--paper)}
+  .tog .cr{color:var(--crimson)}
+  #browseLink{font-size:10.5px; color:var(--dim); text-decoration:underline dotted; cursor:pointer; margin-top:4px; display:inline-block}
+  #about{margin-top:16px; font-size:10px; line-height:1.7; color:var(--dim)}
+  #about a{color:var(--amber)}
+  .credit{margin-top:10px; font-size:9.5px; color:#4a5262}
+
+  /* ---------- timeline ---------- */
+  #timeline{position:absolute; z-index:10; left:328px; right:24px; bottom:18px; height:86px;
+    display:flex; flex-direction:column; gap:4px}
+  #bars{position:relative; flex:1; display:flex; align-items:flex-end; gap:1px; border-bottom:1px solid var(--line)}
+  .bar{flex:1; background:var(--dim); opacity:.35; min-height:1px; transition:opacity .2s, background .2s}
+  .bar.inwin{opacity:.95}
+  #tlabels{display:flex; justify-content:space-between; font-size:9.5px; color:var(--dim); letter-spacing:.1em}
+  #tctrl{position:absolute; right:0; top:-26px; display:flex; gap:10px; align-items:center; font-size:10.5px}
+  #yearRead{color:var(--amber); letter-spacing:.12em; min-width:110px; text-align:right}
+  button.tbtn{background:none; border:1px solid var(--line); color:var(--paper); font-family:inherit;
+    font-size:10px; padding:3px 10px; cursor:pointer; letter-spacing:.15em}
+  button.tbtn:hover{border-color:var(--amber); color:var(--amber)}
+  #winA,#winB{position:absolute; top:-6px; bottom:14px; width:10px; cursor:ew-resize; z-index:3}
+  #winA::after,#winB::after{content:""; position:absolute; top:0; bottom:0; left:4px; width:2px; background:var(--amber)}
+  #winShade{position:absolute; top:0; bottom:15px; background:rgba(232,163,61,.07); pointer-events:none}
+
+  /* ---------- dossier card ---------- */
+  #card{position:absolute; z-index:20; top:20px; right:20px; width:360px; max-height:calc(100% - 130px);
+    background:var(--paper); color:var(--ink); border-radius:2px; padding:18px 18px 14px;
+    box-shadow:0 18px 60px rgba(0,0,0,.65); overflow-y:auto; transform:translateX(110%); transition:transform .28s cubic-bezier(.2,.8,.2,1)}
+  #card.open{transform:none}
+  #card .close{position:absolute; top:8px; right:12px; cursor:pointer; font-size:16px; color:#666}
+  #card .cid{font-size:10px; letter-spacing:.25em; color:#7a6c4a}
+  #card h2{font-family:'Fraunces',serif; font-weight:600; font-size:21px; line-height:1.15; margin:6px 0 2px}
+  #card .when{font-size:11px; color:#5b5443; margin-bottom:10px}
+  #card .corrStamp{display:inline-block; border:2px solid #9a6a1f; color:#9a6a1f; font-size:9.5px;
+    letter-spacing:.18em; padding:1px 7px; transform:rotate(1.5deg); margin:2px 0 8px}
+  .kv{display:grid; grid-template-columns:88px 1fr; gap:2px 10px; font-size:11.5px; margin:10px 0; line-height:1.55}
+  .kv dt{color:#8a7d5e; letter-spacing:.06em; font-size:10px; padding-top:1px}
+  .kv dd{color:var(--ink)}
+  #card .sum{font-size:12.5px; line-height:1.6; border-left:3px solid #c9b98d; padding-left:10px; margin:10px 0}
+  #card .srcHead{font-size:10px; letter-spacing:.24em; color:#8a7d5e; margin:14px 0 6px}
+  .src{border-top:1px solid #d4c9ac; padding:8px 0; font-size:11px; line-height:1.5}
+  .src .t{font-weight:600}
+  .src .q{font-style:italic; color:#544d3c}
+  .src a{color:#8a5b1d}
+  #card .caveat{margin-top:12px; font-size:9.5px; color:#7c7259; border-top:2px solid var(--ink); padding-top:6px}
+  #card .encList{font-size:11px; background:#f6efe0; border:1px dashed #b3a67f; padding:8px; margin-top:8px}
+
+  /* ---------- browse list ---------- */
+  #browse{position:absolute; z-index:30; inset:60px 80px; background:var(--bg2); border:1px solid var(--line);
+    display:none; flex-direction:column; padding:18px}
+  #browse.open{display:flex}
+  #browse h3{font-family:'Fraunces',serif; font-size:20px; margin-bottom:10px}
+  #blist{overflow-y:auto; flex:1; font-size:11.5px; line-height:1.5}
+  .brow{padding:7px 6px; border-bottom:1px solid var(--line); cursor:pointer; display:flex; gap:12px}
+  .brow:hover{background:#121826}
+  .brow .d{color:var(--amber); min-width:86px}
+  .brow .star{color:var(--amber)}
+  #browse .close{align-self:flex-end; cursor:pointer; color:var(--dim); margin-bottom:6px}
+
+  /* off-earth tray */
+  #orbit{position:absolute; z-index:10; top:18px; right:20px; font-size:10px; color:var(--dim);
+    letter-spacing:.15em; cursor:pointer; border:1px dashed var(--line); padding:4px 10px}
+  #orbit:hover{color:var(--paper); border-color:var(--dim)}
+
+  @media (max-width:820px){
+    #rail{width:100%; bottom:auto; max-height:46%; background:rgba(6,8,13,.93)}
+    h1{font-size:30px}
+    #timeline{left:12px; right:12px}
+    #card{left:10px; right:10px; width:auto; top:auto; bottom:110px; max-height:55%}
+    #orbit{display:none}
+  }
+</style>
+</head>
+<body>
+<div id="globe"></div>
+<div class="noise"></div>
+
+<aside id="rail">
+  <span class="stamp">DECLASSIFIED · PUBLIC RECORD</span>
+  <h1>DISCLOSURE<span class="thin">THE PAPER TRAIL</span></h1>
+  <div id="tally">loading the record…</div>
+  <div class="rule"></div>
+
+  <div class="flabel">ERA</div>
+  <div class="chips" id="eraChips"></div>
+
+  <div class="flabel">REPORTED SHAPE</div>
+  <div class="chips" id="shapeChips"></div>
+
+  <div class="flabel">TIME OF DAY</div>
+  <div class="chips" id="todChips"></div>
+
+  <div class="rule"></div>
+  <label class="tog"><input type="checkbox" id="fCorr"> <span>★ corroborated by 2+ agencies only</span></label>
+  <label class="tog"><input type="checkbox" id="fEnc"> <span class="cr">◆ encounter records only</span></label>
+  <span id="browseLink">not on the globe: <b id="unplacedN">0</b> — browse all →</span>
+
+  <div class="rule"></div>
+  <div id="about">
+    Every dot is an incident recorded in the U.S. government's own released
+    files — PURSUE Release&nbsp;1 (war.gov/UFO), AARO &amp; ODNI reports, and
+    congressional testimony. Click a dot: the card cites the document and page.
+    <br><br>
+    <b style="color:var(--paper)">Honesty:</b> text of scanned pages is a
+    vision-model transcription (CC0,
+    <a href="https://github.com/AlexZhangji/ufo-pursue-open-atlas" target="_blank" rel="noopener">ufo-pursue-open-atlas</a>);
+    incidents were structured by an LLM with page references; verify quotes
+    against source pages before citing. Claims in files are not government
+    endorsements.
+    <div class="credit">593 incidents · $0 · every dot cites its paper</div>
+  </div>
+</aside>
+
+<div id="orbit">⦿ IN ORBIT: <span id="orbitN">0</span> RECORDS</div>
+
+<div id="timeline">
+  <div id="tctrl">
+    <span id="yearRead"></span>
+    <button class="tbtn" id="playBtn">▶ PLAY</button>
+    <button class="tbtn" id="resetBtn">RESET</button>
+  </div>
+  <div id="bars"><div id="winShade"></div><div id="winA"></div><div id="winB"></div></div>
+  <div id="tlabels"></div>
+</div>
+
+<div id="card"><span class="close" onclick="closeCard()">✕</span><div id="cardBody"></div></div>
+
+<div id="browse"><span class="close" onclick="toggleBrowse(false)">✕ close</span>
+  <h3>All incidents in the current filter</h3><div id="blist"></div></div>
+
+<script>
+const ERAS=[["1940s",1940,"#d9a05b"],["1950s",1950,"#c8b48a"],["1960s",1960,"#a8b79b"],["1970s",1970,"#85b3a6"],
+            ["1980s",1980,"#6aacb5"],["1990s",1990,"#58a3c4"],["2000s",2000,"#4f97d6"],["2010s",2010,"#5e8ce8"],["2020s",2020,"#7bd0ff"]];
+const eraColor=y=>{ if(y==null) return "#6c7484"; for(let i=ERAS.length-1;i>=0;i--) if(y>=ERAS[i][1]) return ERAS[i][2]; return "#6c7484"; };
+const TODS=["night","dawn","morning","midday","afternoon","dusk","evening","unknown"];
+const YMIN=1940, YMAX=2026;
+
+let DATA=[], filt={eras:new Set(), shapes:new Set(), tods:new Set(), corr:false, enc:false, y0:YMIN, y1:YMAX};
+let globe, playTimer=null;
+
+fetch("data.json").then(r=>r.json()).then(d=>{
+  DATA=d.incidents;
+  initGlobe(); initChips(); initTimeline(); apply();
+}).catch(e=>{ document.getElementById("tally").textContent="data.json missing — run tools/build_site_data.py"; });
+
+function initGlobe(){
+  globe=Globe()(document.getElementById("globe"))
+    .globeImageUrl("https://unpkg.com/three-globe/example/img/earth-night.jpg")
+    .backgroundImageUrl("https://unpkg.com/three-globe/example/img/night-sky.png")
+    .atmosphereColor("#2b3a55").atmosphereAltitude(.18)
+    .pointAltitude(.012)
+    .pointRadius(p=>.22+.22*(p.corr-1))
+    .pointColor(p=>filt.enc||p.encounter.length? (p.encounter.length? "#ff5470":eraColor(p.year)) : eraColor(p.year))
+    .pointsTransitionDuration(600)
+    .onPointClick(p=>openCard(p))
+    .ringColor(()=>t=>`rgba(232,163,61,${1-t})`)
+    .ringMaxRadius(3.2).ringPropagationSpeed(1.6).ringRepeatPeriod(1800);
+  globe.controls().autoRotate=true; globe.controls().autoRotateSpeed=.42;
+  globe.pointOfView({lat:32,lng:-88,altitude:2.1});
+  document.getElementById("globe").addEventListener("pointerdown",()=>{globe.controls().autoRotate=false;},{once:true});
+  addEventListener("resize",()=>globe.width(innerWidth).height(innerHeight));
+}
+
+function chip(parent,label,set,key,color){
+  const el=document.createElement("span");
+  el.className="chip"+(parent.id==="eraChips"?" era":"");
+  if(color) el.style.setProperty("--ec",color);
+  el.textContent=label;
+  el.onclick=()=>{ set.has(key)?set.delete(key):set.add(key); el.classList.toggle("on"); apply(); };
+  parent.appendChild(el);
+}
+function initChips(){
+  const e=document.getElementById("eraChips"); ERAS.forEach(([n,y,c])=>chip(e,n,filt.eras,y,c));
+  const shapes=[...new Set(DATA.map(i=>i.shapeClass))].sort();
+  const s=document.getElementById("shapeChips"); shapes.forEach(x=>chip(s,x,filt.shapes,x));
+  const t=document.getElementById("todChips"); TODS.forEach(x=>chip(t,x,filt.tods,x));
+  document.getElementById("fCorr").onchange=ev=>{filt.corr=ev.target.checked; apply();};
+  document.getElementById("fEnc").onchange=ev=>{filt.enc=ev.target.checked; apply();};
+  document.getElementById("browseLink").onclick=()=>toggleBrowse(true);
+  document.getElementById("orbit").onclick=()=>toggleBrowse(true,"off-earth");
+}
+
+function match(i){
+  if(filt.eras.size){
+    if(i.year==null) return false;
+    const dec=Math.max(1940, Math.floor(i.year/10)*10);
+    if(!filt.eras.has(dec)) return false;
+  }
+  if(i.year!=null && (i.year<filt.y0||i.year>filt.y1)) return false;
+  if(filt.y0>YMIN && i.year==null) return false;
+  if(filt.shapes.size && !filt.shapes.has(i.shapeClass)) return false;
+  if(filt.tods.size && !filt.tods.has(i.tod)) return false;
+  if(filt.corr && i.corr<2) return false;
+  if(filt.enc && !i.encounter.length) return false;
+  return true;
+}
+
+function apply(){
+  const all=DATA.filter(match);
+  const placed=all.filter(i=>i.lat!=null);
+  globe.pointsData(placed);
+  globe.ringsData(placed.filter(i=>i.corr>=2));
+  const stars=all.filter(i=>i.corr>=2).length, enc=all.filter(i=>i.encounter.length).length;
+  document.getElementById("tally").innerHTML=
+    `<b>${all.length}</b> incidents in view · <b>${placed.length}</b> on the globe<br>`+
+    `<span class="star">★ ${stars}</span> multi-agency · <span style="color:var(--crimson)">◆ ${enc}</span> with encounter records`;
+  document.getElementById("unplacedN").textContent=all.length-placed.length;
+  document.getElementById("orbitN").textContent=DATA.filter(i=>i.geo==="off-earth").length;
+  renderBrowse(all);
+  paintBars();
+}
+
+/* ---------- timeline ---------- */
+let barEls=[];
+function initTimeline(){
+  const bars=document.getElementById("bars");
+  const counts={};
+  DATA.forEach(i=>{ if(i.year!=null){ counts[i.year]=(counts[i.year]||0)+1; }});
+  const max=Math.max(...Object.values(counts),1);
+  for(let y=YMIN;y<=YMAX;y++){
+    const b=document.createElement("div"); b.className="bar";
+    b.style.height=(3+92*(counts[y]||0)/max)+"%";
+    b.title=y+": "+(counts[y]||0);
+    b.onclick=()=>{filt.y0=y; filt.y1=y; apply();};
+    bars.appendChild(b); barEls.push([y,b]);
+  }
+  const lab=document.getElementById("tlabels");
+  [1940,1960,1980,2000,2026].forEach(y=>{const s=document.createElement("span");s.textContent=y;lab.appendChild(s);});
+  dragHandle("winA","y0"); dragHandle("winB","y1");
+  document.getElementById("playBtn").onclick=togglePlay;
+  document.getElementById("resetBtn").onclick=()=>{stopPlay(); filt.y0=YMIN; filt.y1=YMAX; apply();};
+}
+function xToYear(clientX){
+  const r=document.getElementById("bars").getBoundingClientRect();
+  return Math.round(YMIN+(YMAX-YMIN)*Math.min(1,Math.max(0,(clientX-r.left)/r.width)));
+}
+function dragHandle(id,key){
+  const el=document.getElementById(id);
+  el.addEventListener("pointerdown",e=>{
+    const move=ev=>{ filt[key]=xToYear(ev.clientX);
+      if(filt.y0>filt.y1) [filt.y0,filt.y1]=[filt.y1,filt.y0]; apply(); };
+    const up=()=>{removeEventListener("pointermove",move);removeEventListener("pointerup",up);};
+    addEventListener("pointermove",move); addEventListener("pointerup",up); e.preventDefault();
+  });
+}
+function paintBars(){
+  const r=document.getElementById("bars").getBoundingClientRect();
+  const px=y=>(y-YMIN)/(YMAX-YMIN)*r.width;
+  barEls.forEach(([y,b])=>{
+    const inwin=y>=filt.y0&&y<=filt.y1;
+    b.classList.toggle("inwin",inwin);
+    b.style.background=inwin?eraColor(y):"";
+  });
+  document.getElementById("winA").style.left=(px(filt.y0)-5)+"px";
+  document.getElementById("winB").style.left=(px(filt.y1)-5)+"px";
+  const sh=document.getElementById("winShade");
+  sh.style.left=px(filt.y0)+"px"; sh.style.width=Math.max(2,px(filt.y1)-px(filt.y0))+"px";
+  document.getElementById("yearRead").textContent=
+    filt.y0===YMIN&&filt.y1===YMAX?"ALL YEARS":filt.y0===filt.y1?String(filt.y0):filt.y0+" – "+filt.y1;
+}
+function togglePlay(){
+  if(playTimer) return stopPlay();
+  document.getElementById("playBtn").textContent="❚❚ STOP";
+  filt.y0=YMIN; filt.y1=YMIN; apply();
+  playTimer=setInterval(()=>{ filt.y1++; if(filt.y1>=YMAX){stopPlay(); filt.y1=YMAX;} apply(); },260);
+}
+function stopPlay(){ clearInterval(playTimer); playTimer=null; document.getElementById("playBtn").textContent="▶ PLAY"; }
+
+/* ---------- dossier card ---------- */
+function esc(s){return String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));}
+function openCard(p){
+  const kv=(k,v)=>v?`<dt>${k}</dt><dd>${esc(v)}</dd>`:"";
+  const srcs=p.sources.map(s=>`
+    <div class="src"><div class="t">${esc(s.title)}</div>
+      ${s.pages.length?`<div>pages ${s.pages.join(", ")}</div>`:""}
+      ${s.quote?`<div class="q">“${esc(s.quote)}”</div>`:""}
+      ${s.url?`<a href="${esc(s.url)}" target="_blank" rel="noopener">source document ↗</a>`:""}
+    </div>`).join("");
+  document.getElementById("cardBody").innerHTML=`
+    <div class="cid">${esc(p.id)} · ${esc(p.geo)}</div>
+    <h2>${esc(p.loc||"Location unstated")}</h2>
+    <div class="when">${esc(p.date||"undated")}${p.tod!=="unknown"?" · "+esc(p.tod):""}</div>
+    ${p.corr>=2?`<span class="corrStamp">★ CORROBORATED — ${p.corr} AGENCIES</span><br>`:""}
+    <dl class="kv">
+      ${kv("SHAPE",p.shape)}${kv("BEHAVIOR",(p.behavior||[]).join("; "))}
+      ${kv("SENSORS",(p.sensors||[]).join(", "))}${kv("AGENCIES",(p.agencies||[]).join(", "))}
+      ${kv("STATUS",p.status)}
+    </dl>
+    <div class="sum">${esc(p.summary)}</div>
+    ${p.encounter.length?`<div class="encList">◆ encounter record types in source file: ${p.encounter.map(esc).join(", ")}</div>`:""}
+    <div class="srcHead">CITATIONS — THE PAPER</div>${srcs}
+    <div class="caveat">Transcribed text is a VLM re-rendering of scanned pages — verify quotes against the source page before citing.</div>`;
+  document.getElementById("card").classList.add("open");
+}
+function closeCard(){document.getElementById("card").classList.remove("open");}
+
+/* ---------- browse ---------- */
+function renderBrowse(list){
+  const el=document.getElementById("blist");
+  el.innerHTML=list.map(i=>`
+    <div class="brow" onclick='openCard(DATA.find(x=>x.id==="${i.id}"))'>
+      <span class="d">${esc(i.date||"undated")}</span>
+      <span>${i.corr>=2?'<span class="star">★</span> ':""}${i.encounter.length?'<span style="color:var(--crimson)">◆</span> ':""}${esc(i.loc||i.summary.slice(0,60))}</span>
+      <span style="color:var(--dim); margin-left:auto">${esc(i.shapeClass!=="unstated"?i.shapeClass:"")}</span>
+    </div>`).join("");
+}
+function toggleBrowse(open,mode){
+  if(mode==="off-earth"){ renderBrowse(DATA.filter(i=>i.geo==="off-earth")); }
+  document.getElementById("browse").classList.toggle("open",open);
+}
+</script>
+</body>
+</html>

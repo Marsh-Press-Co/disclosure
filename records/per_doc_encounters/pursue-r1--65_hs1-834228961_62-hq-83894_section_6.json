@@ -1,0 +1,125 @@
+{
+ "doc_id": "65_hs1-834228961_62-hq-83894_section_6",
+ "file": "pursue-r1--65_hs1-834228961_62-hq-83894_section_6.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "65_HS1-834228961_62-HQ-83894_Section_6",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This document is an FBI case file (Section 6) containing summaries of aerial phenomena reports, including radar sightings and physical trace reports, and correspondence regarding the investigation of flying saucers. / This document is an FBI case file (Section 6 of 62-83894) containing various reports, correspondence, and internal memoranda regarding flying saucer sightings and investigations, including debunked claims and referrals to the Air Force.",
+ "encounters": [
+  {
+   "summary": "Two Philadelphia police officers observed a six-foot circular object with a purplish glow land in a field; it disintegrated into an odorless residue after 25 minutes.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1950-09-26",
+   "date_precision": "day",
+   "entity_appearance": "six-foot circular object, purplish glow, mist-like",
+   "location_name": "Philadelphia, Pennsylvania",
+   "page_refs": [
+    8,
+    18
+   ],
+   "physical_effects": [
+    "purplish glow",
+    "odorless residue",
+    "disintegration"
+   ],
+   "quote": "object broke, leaving a slight odorless residue"
+  },
+  {
+   "summary": "Two FBI officers observed a round object, six feet in circumference, land in a field; it evaporated into a red, flashing pulsation.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "federal-le",
+   "document_stance": "investigated",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1950-10-02",
+   "date_precision": "day",
+   "entity_appearance": "round object, six feet in circumference, lavender color, pale violet",
+   "location_name": "Venus Boulevard, near 25th Street",
+   "page_refs": [
+    19
+   ],
+   "physical_effects": [
+    "evaporation",
+    "red flashing pulsation"
+   ],
+   "quote": "leaving nothing but a red, flashing pulsation"
+  },
+  {
+   "summary": "Four employees of the DuPont Company at the Savannah River Plant observed multiple disc-shaped objects over the 400 area on May 10, 1952. The objects were described as 15 inches in diameter, yellow to gold in color, traveling at high speed and altitude without noise, and weaving from left to right.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1952-05-10",
+   "date_precision": "day",
+   "entity_appearance": "disc-shaped, 15 inches in diameter, yellow to gold color",
+   "entity_behavior": "traveling at high speed and altitude, weaving from left to right, noiseless",
+   "location_name": "Savannah River Plant, Ellenton, South Carolina",
+   "page_refs": [
+    140,
+    144,
+    148
+   ],
+   "quote": "objects as being about fifteen inches in diameter, having yellow to gold color"
+  },
+  {
+   "summary": "Three women observed strange objects floating in the sky over Ashland, Kentucky, on May 25, 1952. The objects were described as looking like large oysters with fishtails, oval in shape, and floating low like a cloud.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1952-05-25",
+   "date_precision": "day",
+   "entity_appearance": "large oysters with fishtails, oval shape, light blue color",
+   "entity_behavior": "floating low like a cloud, circled and changed direction",
+   "location_name": "Ashland, Kentucky",
+   "page_refs": [
+    150,
+    151
+   ],
+   "quote": "looking like large oysters with fishtails floating low like a cloud"
+  },
+  {
+   "summary": "Donald Stewart and George Tyler III claimed to have observed a disc-like aircraft on Ritchie Highway near Baltimore, Maryland, on March 29, 1952. Stewart claimed the object hovered 200 feet above his car, causing the engine to stop and paint to crack, and that he considered firing a sub-machine gun at it.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "debunked",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1952-03-29",
+   "date_precision": "day",
+   "entity_appearance": "flat disk with a cupola or dome, luminous silver color, neon-like lights around edges, 50 feet in diameter",
+   "entity_behavior": "hovered, wavered slightly, turned on edge, moved at high speed",
+   "location_name": "Ritchie Highway, Baltimore, Maryland",
+   "page_refs": [
+    153,
+    157,
+    158,
+    164
+   ],
+   "physical_effects": [
+    "engine stall",
+    "paint cracking"
+   ],
+   "quote": "flat disk with a cupola or dome in the center of one side"
+  }
+ ]
+}

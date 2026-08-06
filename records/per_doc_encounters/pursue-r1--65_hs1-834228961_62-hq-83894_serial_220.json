@@ -1,0 +1,47 @@
+{
+ "doc_id": "65_hs1-834228961_62-hq-83894_serial_220",
+ "file": "pursue-r1--65_hs1-834228961_62-hq-83894_serial_220.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "65_HS1-834228961_62-HQ-83894_Serial_220",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is an FBI case file containing correspondence from an inventor regarding theoretical craft designs and clippings of reported UFO sightings in Mexico and Brazil; encounter content is present in the form of reported sightings.",
+ "encounters": [
+  {
+   "summary": "Student German Horacio Robles Jr. reported observing and photographing a flying saucer over Durango, Mexico, describing it as a double truncated cone moving via jet propulsion.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "Mexico",
+   "date": "1950-03-16",
+   "date_precision": "day",
+   "location_name": "Durango",
+   "page_refs": [
+    5,
+    13
+   ],
+   "quote": "seen with their own eyes the flying saucers"
+  },
+  {
+   "summary": "Student Osvaldo Rhodes Jr. reported observing and photographing a flying saucer while a passenger on an airplane over Furnas, describing it as a double truncated cone.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "Brazil",
+   "date": "1950-01-28",
+   "date_precision": "day",
+   "location_name": "Furnas",
+   "page_refs": [
+    6
+   ],
+   "quote": "seen with their own eyes the flying saucers"
+  }
+ ]
+}

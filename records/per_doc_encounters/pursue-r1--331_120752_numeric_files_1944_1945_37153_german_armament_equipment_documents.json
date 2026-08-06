@@ -1,0 +1,35 @@
+{
+ "doc_id": "331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents",
+ "file": "pursue-r1--331_120752_numeric_files_1944_1945_37153_german_armament_equipment_documents.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "331_120752_Numeric_Files_1944–1945_37153_German_Armament_Equipment_Documents",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of military correspondence and reports regarding 'night phenomena' or 'foo fighters' observed by Allied aircrews during 1944-1945, containing specific encounter reports.",
+ "encounters": [
+  {
+   "summary": "A 107th P.R. Squadron pilot reported a long cylindrical object, 12 feet long and 1 foot in diameter, floating vertically at 9,000 feet. The object had small fins and a mast. It was attacked, partially deflated, and emitted a red flame without smoke.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "Germany",
+   "date": "1945-03-01",
+   "date_precision": "day",
+   "location_name": "vicinity F-5710",
+   "page_refs": [
+    3,
+    6,
+    7,
+    9
+   ],
+   "physical_effects": [
+    "deflated",
+    "red flame"
+   ],
+   "quote": "An aluminum coloured cylinder shaped object, about 12 feet long and 1 foot in diameter was observed floating in the air"
+  }
+ ]
+}

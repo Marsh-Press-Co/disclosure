@@ -1,0 +1,32 @@
+{
+ "doc_id": "341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399",
+ "file": "pursue-r1--341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "341_110448_Records_Relating_to_the_Collection_and_Dissemination_of_Intelligence_1948-1955-TS_CONT_No.2_2-5300-2-5399",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of intelligence reports from the Directorate of Intelligence, Headquarters U.S. Air Force, containing one specific encounter report regarding a Swedish investigation into a crashed object.",
+ "encounters": [
+  {
+   "summary": "A Swedish technical expert observed a flying saucer crash or land in a lake; a subsequent naval salvage operation discovered an uncharted crater on the lake floor.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "Sweden",
+   "date": "1948",
+   "date_precision": "year",
+   "location_name": "a lake in Sweden",
+   "page_refs": [
+    5
+   ],
+   "physical_effects": [
+    "uncharted crater on lake floor"
+   ],
+   "quote": "these phenomena are obviously the result of a high technical skill which cannot be credited to any presently known culture on earth"
+  }
+ ]
+}

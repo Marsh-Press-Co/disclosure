@@ -1,0 +1,206 @@
+{
+ "doc_id": "65_hs1-834228961_62-hq-83894_section_4",
+ "file": "pursue-r1--65_hs1-834228961_62-hq-83894_section_4.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "65_HS1-834228961_62-HQ-83894_Section_4",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This document is a collection of FBI case files regarding 'Flying Discs' and 'Flying Saucers' from 1947-1949, containing multiple reports of sightings and investigations, including debunked claims. / This document collection contains various FBI memoranda, teletypes, and correspondence regarding reports of 'flying discs' and 'unconventional aircraft' between 1947 and 1949, including several specific encounter reports.",
+ "encounters": [
+  {
+   "summary": "Police officers in Portland, Oregon, observed a bright, silvery, round or elliptical object reflecting sunlight, moving steadily at high speed and altitude.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1947-09-11",
+   "date_precision": "day",
+   "entity_appearance": "silvery metal, round or elliptical, bright reflection",
+   "entity_behavior": "steady flight, no oscillation, high speed",
+   "location_name": "Portland, Oregon",
+   "page_refs": [
+    2,
+    4
+   ],
+   "physical_effects": [
+    "sunlight reflection"
+   ],
+   "quote": "very bright reflection of the sun on some object which was apparently made of silvery metal"
+  },
+  {
+   "summary": "Pilot Jack Peck and co-pilot Vince Daly observed a dark, wing-shaped object without fuselage or visible propulsion near Bethel, Alaska.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1947-07",
+   "date_precision": "month",
+   "entity_appearance": "dark, flying wing, size of C-54 without fuselage",
+   "entity_behavior": "flying at 1,000 feet, estimated 300 mph, concise outline",
+   "location_name": "Bethel, Alaska",
+   "page_refs": [
+    5,
+    6
+   ],
+   "physical_effects": [
+    "none reported"
+   ],
+   "quote": "did not blend into the sky but had a definite, concise outline"
+  },
+  {
+   "summary": "Lonnie Noack and companions located a crashed object in the California desert, described as a disc with wings and jet propulsion containers.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "civilian",
+   "document_stance": "debunked",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1948-12-07",
+   "date_precision": "day",
+   "entity_appearance": "8-foot diameter disc, 2 feet thick, 4-foot wings, aluminum construction",
+   "entity_behavior": "crashed, semi-vertical position",
+   "location_name": "Lone Pine, California",
+   "page_refs": [
+    66,
+    68,
+    72,
+    74,
+    76,
+    80,
+    82,
+    91,
+    95,
+    96,
+    97,
+    98,
+    99
+   ],
+   "physical_effects": [
+    "crashed",
+    "dented"
+   ],
+   "quote": "object which could be described as being 8' in diameter with wings about 4' long"
+  },
+  {
+   "summary": "Eastern Airlines pilot and co-pilot reported an unconventional, wingless, rocket-ship-like craft with windows, larger than their plane, traveling at high speed near Montgomery, Alabama.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1948-07",
+   "date_precision": "month",
+   "location_name": "Montgomery, Alabama",
+   "page_refs": [
+    115,
+    179,
+    180
+   ],
+   "quote": "unconventional type without wings and resembled generally a rocket ship"
+  },
+  {
+   "summary": "A post office employee observed a brilliant, mirror-like object moving at high altitude in Fort Smith, Arkansas.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1949-04-16",
+   "date_precision": "day",
+   "location_name": "Fort Smith, Arkansas",
+   "page_refs": [
+    133,
+    135,
+    136
+   ],
+   "quote": "brilliant object moving in a southeastern direction"
+  },
+  {
+   "summary": "Three employees of the Department of Recreation and Parks observed objects appearing to be flying discs in Griffith Park.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "civilian",
+   "document_stance": "forwarded-no-action",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1949-04",
+   "date_precision": "month",
+   "location_name": "Griffith Park, Los Angeles, California",
+   "page_refs": [
+    139,
+    141
+   ],
+   "quote": "noticed an object sailing through the sky"
+  },
+  {
+   "summary": "A military officer observed a lighted, basketball-sized reddish-white object with a fire trail pass over Killeen Base.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1949-03-31",
+   "date_precision": "day",
+   "location_name": "Killeen Base, Camp Hood, Texas",
+   "page_refs": [
+    145
+   ],
+   "quote": "lighted object about the size of a basketball, reddish white in color"
+  },
+  {
+   "summary": "A major in the Air Force Reserve observed a solid mass object with a clicking noise that maneuvered in the sky.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1949-04-04",
+   "date_precision": "day",
+   "location_name": "Merced, California",
+   "page_refs": [
+    157,
+    159
+   ],
+   "quote": "object was observed blanking out stars in describing a flight path"
+  },
+  {
+   "summary": "A witness observed an angular, paper-like object in the sky that changed shape and appeared to be on fire.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1949-05-14",
+   "date_precision": "day",
+   "location_name": "Nobleboro, Maine",
+   "page_refs": [
+    189,
+    194,
+    195,
+    196,
+    197,
+    198
+   ],
+   "quote": "shape was angular, more like a piece of torn paper"
+  }
+ ]
+}

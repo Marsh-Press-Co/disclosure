@@ -1,0 +1,33 @@
+{
+ "doc_id": "dow-uap-d27-mission-report-united-arab-emirates-october-2023",
+ "file": "pursue-r1--dow-uap-d27-mission-report-united-arab-emirates-october-2023.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D27, Mission Report, United Arab Emirates, October 2023",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a declassified Department of War mission report containing a single UAP encounter report.",
+ "encounters": [
+  {
+   "summary": "A glowing hot spherical object with a vertical cylindrical pole attached to the bottom was observed moving at 140 knots over water.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "United Arab Emirates",
+   "date": "2024-06-07",
+   "date_precision": "day",
+   "entity_appearance": "glowing hot spherical object with a vertical unwavering cylindrical pole/bar attached on the bottom",
+   "entity_behavior": "flying straight just over the water at speed of 140 knots",
+   "entity_count": "1",
+   "location_name": "40RFM",
+   "page_refs": [
+    6,
+    7
+   ],
+   "quote": "GLOWING HOT SPHERICAL UNIDENTIFIED OBJECT WITH A VERTICAL UNWAVERING CYLINDRICAL POLE/BAR ATTACHED ON THE BOTTOM"
+  }
+ ]
+}

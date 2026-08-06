@@ -1,0 +1,30 @@
+{
+ "doc_id": "dow-uap-d25-mission-report-greece-january-2024",
+ "file": "pursue-r1--dow-uap-d25-mission-report-greece-january-2024.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D25, Mission Report, Greece, January 2024",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a declassified military mission report (MISREP) from the Department of War containing a specific UAP incident report.",
+ "encounters": [
+  {
+   "summary": "Military aircraft observed a round diamond-shaped UAP with a non-maneuvering tail probe while in transit; it was detected only via SWIR camera for approximately two minutes.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "United States",
+   "date": "2024-01-25",
+   "date_precision": "day",
+   "entity_appearance": "Round diamond shape with a straight, non-maneuverable tail probe.",
+   "page_refs": [
+    6,
+    7
+   ],
+   "quote": "The UAP appeared diamond in shape with a non-manuevering probe at the bottom."
+  }
+ ]
+}

@@ -1,0 +1,122 @@
+{
+ "doc_id": "38_143685_box7_incident_summaries_1-100",
+ "file": "pursue-r1--38_143685_box7_incident_summaries_1-100.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "38_143685_box7_Incident_Summaries_1-100",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of incident summaries regarding unidentified flying objects, containing multiple firsthand and corroborated encounter reports.",
+ "encounters": [
+  {
+   "summary": "Major J. C. Wise observed a yellowish-white spherical object, 5-10 feet in diameter, oscillating in a forward whirling movement.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1947-07-07",
+   "date_precision": "day",
+   "entity_appearance": "yellowish-white sphere",
+   "entity_behavior": "oscillating in a forward whirling movement",
+   "location_name": "Muroc Army Air Field, California",
+   "page_refs": [
+    9,
+    10
+   ],
+   "quote": "oscillating in a forward whirling movement without losing altitude"
+  },
+  {
+   "summary": "Captain John Paul Strapp observed a silvery, ovular object with two projections on the upper surface, suggesting rotation or oscillation.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1947-07-08",
+   "date_precision": "day",
+   "entity_appearance": "silvery, ovular, two projections on upper surface",
+   "entity_behavior": "rotation or oscillation",
+   "location_name": "Rogers Dry Lake, California",
+   "page_refs": [
+    11,
+    12
+   ],
+   "quote": "presented a distinct ovular outline, with two (2) projections on the upper surface"
+  },
+  {
+   "summary": "Kenneth Arnold observed a chain of 9 mirror-like, circular craft flying in a diagonal chain-like line.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1947-06-24",
+   "date_precision": "day",
+   "entity_appearance": "mirror-like, circular, 45-50 ft span",
+   "entity_behavior": "swerved in and out of high mountain peaks",
+   "location_name": "Mt. Rainier, Washington",
+   "page_refs": [
+    36,
+    37
+   ],
+   "quote": "chain of 9 peculiar looking craft"
+  },
+  {
+   "summary": "Capt. E. J. Smith and crew observed nine flying discs near Emmett, Idaho, described as thin and smooth on the bottom and rough on top.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1947-07-04",
+   "date_precision": "day",
+   "entity_appearance": "thin and smooth on bottom, rough on top",
+   "entity_behavior": "loose formation",
+   "location_name": "Emmett, Idaho",
+   "page_refs": [
+    25,
+    26
+   ],
+   "quote": "thin and smooth on the bottom and rough appearing on top"
+  },
+  {
+   "summary": "Capt. Thomas F. Mantell and other observers tracked a large, metallic, circular object that climbed and moved at high speed.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1948-01-07",
+   "date_precision": "day",
+   "entity_appearance": "metallic, circular, tremendous size",
+   "entity_behavior": "climbing, moving at high speed",
+   "location_name": "Godman Field, Kentucky",
+   "page_refs": [
+    65,
+    66,
+    67,
+    68,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78
+   ],
+   "quote": "appears metallic of tremendous size"
+  }
+ ]
+}

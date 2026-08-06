@@ -1,0 +1,38 @@
+{
+ "doc_id": "341_110677_numerical_file_5-2500",
+ "file": "pursue-r1--341_110677_numerical_file_5-2500.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "341_110677_Numerical_File,_5-2500",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a declassified U.S. Air Attache intelligence report (IR 193-55) detailing observations by a U.S. delegation in the USSR, including a significant UFO encounter.",
+ "encounters": [
+  {
+   "summary": "Three U.S. observers, including Senator Richard Russell, witnessed two unconventional disc-shaped aircraft take off vertically near a rail line in the Trans Caucasus region of the USSR.",
+   "encounter_type": "close-approach",
+   "claimant_type": "government-civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USSR",
+   "date": "1955-10-04",
+   "date_precision": "day",
+   "entity_appearance": "Round, circular, disc-shaped, resembling a discus; outer surface revolved slowly clockwise; two stationary lights on top.",
+   "entity_behavior": "Ascended almost vertically at slow speed to 6000 feet, then increased speed sharply in horizontal flight heading north.",
+   "entity_count": "2",
+   "location_name": "Between Atjaty and Adzhijabul",
+   "page_refs": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "physical_effects": [
+    "sparks or flame from aircraft",
+    "searchlight beams pointing vertically"
+   ],
+   "quote": "Two round and circular unconventional aircraft resembling flying discs or flying saucers were seen taking off almost vertically one minute apart."
+  }
+ ]
+}

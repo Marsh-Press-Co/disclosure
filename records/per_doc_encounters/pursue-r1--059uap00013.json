@@ -1,0 +1,31 @@
+{
+ "doc_id": "059uap00013",
+ "file": "pursue-r1--059uap00013.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of State",
+ "title": "State Department UAP Cable 5, Mexico, September 16, 2003",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a State Department cable summarizing political events in Mexico, including a brief report on a congressional hearing regarding UAP and alleged alien remains.",
+ "encounters": [
+  {
+   "summary": "Mexican journalist Jaime Maussan presented two alleged alien corpses to the Mexican Congress during a hearing on UAP, which were subsequently discredited by scientists.",
+   "encounter_type": "occupant-report",
+   "claimant_type": "contactee-figure",
+   "document_stance": "debunked",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "Mexico",
+   "date": "2023-09-12",
+   "date_precision": "day",
+   "entity_appearance": "mummified humanoid-like figure",
+   "location_name": "Mexican Congress",
+   "page_refs": [
+    5,
+    6
+   ],
+   "quote": "Mexican journalist Jaime Maussan presented the alleged remains of non-human beings to Congress."
+  }
+ ]
+}

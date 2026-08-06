@@ -1,0 +1,255 @@
+{
+ "doc_id": "65_hs1-834228961_62-hq-83894_section_3",
+ "file": "pursue-r1--65_hs1-834228961_62-hq-83894_section_3.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "65_HS1-834228961_62-HQ-83894_Section_3",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This file contains multiple FBI and Air Force intelligence reports regarding various flying disc sightings and investigations, including the debunked Maury Island incident. / This document is an FBI case file containing reports and correspondence regarding flying disc sightings, including investigations and internal policy discussions.",
+ "encounters": [
+  {
+   "summary": "F. M. Johnson reported seeing a formation of round, oval-shaped flying discs near Mt. Adams on June 24, 1947, while prospecting.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1947-06-24",
+   "date_precision": "day",
+   "entity_appearance": "Round, 30 feet in diameter, oval-shaped, bright top surface, tail object like a clock hand.",
+   "location_name": "Mt. Adams, Washington",
+   "page_refs": [
+    4
+   ],
+   "quote": "they were Round about 30 foot in dimater tapering sharply to a point in the head end in an oval shape."
+  },
+  {
+   "summary": "Three enlisted men at Harmon Field, Guam, reported seeing two small, crescent-shaped objects traveling at high speed on a zig-zag course.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "Guam",
+   "date": "1947-08-14",
+   "date_precision": "day",
+   "entity_appearance": "Small, crescent-shaped.",
+   "entity_behavior": "Traveling at twice the speed of a fighter plane, zig-zag course.",
+   "location_name": "Harmon Field, Guam",
+   "page_refs": [
+    6
+   ],
+   "quote": "small, crescent shaped and traveling at a speed twice that of a fighter plane"
+  },
+  {
+   "summary": "Harold Dahl and Fred Crisman claimed that flying discs dropped debris on their boat near Maury Island, killing a dog and damaging the boat.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "civilian",
+   "document_stance": "debunked",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1947-06-21",
+   "date_precision": "day",
+   "entity_appearance": "Round, flattened, 100 feet across, 25-foot center hole, portholes.",
+   "location_name": "Maury Island, Washington",
+   "page_refs": [
+    15,
+    16,
+    33,
+    35,
+    36,
+    41,
+    44,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56
+   ],
+   "physical_effects": [
+    "boat damage",
+    "dog killed",
+    "debris/lava dropped"
+   ],
+   "quote": "Five flying discs came down out of the clouds and circled slowly around the bay"
+  },
+  {
+   "summary": "Ray A. Switzer reported seeing a metallic, rocket-shaped object crash with a puff of smoke near Placerville, California.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1947-08-14",
+   "date_precision": "day",
+   "entity_appearance": "Rocket-shaped, 4-6 feet long, 10-14 inches wide, bright chromium color.",
+   "entity_behavior": "Shallow dive, high speed.",
+   "location_name": "Placerville, California",
+   "page_refs": [
+    73,
+    79,
+    80,
+    82
+   ],
+   "physical_effects": [
+    "puff of smoke"
+   ],
+   "quote": "object, four to six feet in length, ten to fourteen inches wide, and of a metal color, bright like highly polished chromium."
+  },
+  {
+   "summary": "R. J. Madden and two others reported seeing a bright, fluttering disc hovering and then disappearing at high speed.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1947-07-29",
+   "date_precision": "day",
+   "entity_appearance": "Bright disc, 5 feet in diameter, 3-4 inches thick, polished nickel appearance.",
+   "entity_behavior": "Hovering, fluttering, then disappeared at high speed.",
+   "location_name": "Canyon Ferry, Montana",
+   "page_refs": [
+    76
+   ],
+   "quote": "bright disc hovering and fluttering in the air"
+  },
+  {
+   "summary": "Kenneth Arnold observed nine disc-like objects flying in formation near Mt. Rainier, Washington, at high speed.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1947-06-24",
+   "date_precision": "day",
+   "entity_appearance": "saucer-like, disc-shaped, no tails, bright reflection",
+   "entity_behavior": "flying in formation, swerving, high speed",
+   "entity_count": "9",
+   "location_name": "Mt. Rainier, Washington",
+   "page_refs": [
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    138,
+    139,
+    140,
+    141,
+    142
+   ],
+   "physical_effects": [
+    "reflection"
+   ],
+   "quote": "I observed a chain of nine peculiar looking aircraft"
+  },
+  {
+   "summary": "A.C. Urie and his two sons observed a disc-shaped object flying through Snake River Canyon.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1947-08-13",
+   "date_precision": "day",
+   "entity_appearance": "oblong, inverted pie-plate, light sky blue, red tubular fiery glow",
+   "entity_behavior": "hovering, fluttering, high speed",
+   "entity_count": "1",
+   "entity_height": "10 ft",
+   "location_name": "Snake River Canyon, Idaho",
+   "page_refs": [
+    123,
+    124,
+    125,
+    128,
+    131,
+    133,
+    134
+   ],
+   "physical_effects": [
+    "trees spun around as if in a vacuum"
+   ],
+   "quote": "It was all one color—sort of a light sky blue with a red, tubular fiery glow"
+  },
+  {
+   "summary": "Byron B. Savage observed a disc-shaped object over Oklahoma City.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1947-05-17",
+   "date_precision": "day",
+   "entity_appearance": "elliptical then perfectly round and flat, frosty white",
+   "entity_behavior": "moving at high speed",
+   "entity_count": "1",
+   "location_name": "Oklahoma City, Oklahoma",
+   "page_refs": [
+    136,
+    137
+   ],
+   "physical_effects": [
+    "swishing sound"
+   ],
+   "quote": "it appeared perfectly round and was flat"
+  },
+  {
+   "summary": "Two army officers observed a spherical object traveling at high speed near Fort Richardson, Alaska.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1947-09-17",
+   "date_precision": "year",
+   "entity_appearance": "spherical, silver, dull metal finish",
+   "entity_behavior": "traveling against the wind, high speed",
+   "entity_count": "1",
+   "entity_height": "2-10 ft",
+   "location_name": "Fort Richardson, Alaska",
+   "page_refs": [
+    150,
+    152
+   ],
+   "quote": "The object appeared to be shaped like a sphere"
+  },
+  {
+   "summary": "R.J. Madden and two others observed a disc hovering and then disappearing at high speed near Canyon Ferry, Montana.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1947-07-29",
+   "date_precision": "day",
+   "entity_appearance": "bright disc, polished nickel",
+   "entity_behavior": "hovering, fluttering, high speed",
+   "entity_count": "1",
+   "location_name": "Canyon Ferry, Montana",
+   "page_refs": [
+    172,
+    173
+   ],
+   "quote": "a bright disc hovering and fluttering in the air"
+  }
+ ]
+}

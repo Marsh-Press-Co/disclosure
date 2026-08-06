@@ -1,0 +1,110 @@
+{
+ "doc_id": "aaro-historical-record-report-vol1",
+ "file": "aaro-historical-record-report-vol1.md",
+ "source": "AARO",
+ "agency": "All-domain Anomaly Resolution Office",
+ "title": "Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (AARO, Feb 2024)",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a historical report by AARO reviewing USG involvement with UAP since 1945, which includes summaries of various interviewee claims and the office's investigative findings.",
+ "encounters": [
+  {
+   "summary": "Kenneth Arnold reported seeing nine large circular objects flying in formation near Mount Rainier, Washington, which he described as saucer-like.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "United States",
+   "date": "1947-06-23",
+   "date_precision": "day",
+   "location_name": "Mount Rainier, Washington",
+   "page_refs": [
+    14
+   ],
+   "quote": "saucer-like aircraft"
+  },
+  {
+   "summary": "An interviewee claimed that in the 1990s he overheard a conversation between two military bases where scientists claimed aliens were present during a materials test.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "civilian",
+   "document_stance": "dismissed",
+   "confidence": "medium",
+   "claimant_firsthand": true,
+   "communication_content": "Scientists discussing the presence of aliens during a materials test.",
+   "communication_method": "verbal",
+   "country": "United States",
+   "date": "1990-1999",
+   "date_precision": "decade",
+   "entity_appearance": "aliens",
+   "location_name": "U.S. military facility",
+   "page_refs": [
+    29,
+    31
+   ],
+   "physical_effects": [
+    "none"
+   ],
+   "quote": "aliens were present during specialized materials testing"
+  },
+  {
+   "summary": "An interviewee claimed a former senior U.S. military officer told him he touched an extraterrestrial spacecraft floating in a building.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "civilian",
+   "document_stance": "dismissed",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_content": "Detailed description of a craft floating in a building and the program details.",
+   "communication_method": "verbal",
+   "country": "United States",
+   "date": "1999",
+   "date_precision": "year",
+   "location_name": "unknown",
+   "page_refs": [
+    29,
+    32
+   ],
+   "quote": "touched the surface of an extraterrestrial spacecraft"
+  },
+  {
+   "summary": "A former U.S. service member claimed to have seen U.S. Special Forces loading containers onto a large extraterrestrial spacecraft in 2009.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "dismissed",
+   "confidence": "medium",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "unknown",
+   "date": "2009",
+   "date_precision": "year",
+   "location_name": "foreign country",
+   "page_refs": [
+    29
+   ],
+   "quote": "encountered U.S. Special Forces loading containers onto a large extraterrestrial spacecraft"
+  },
+  {
+   "summary": "Former USAF members claimed UAP sightings near ICBM silos and disruptions to operations, including power failures and a claim of a UAP destroying a dummy warhead mid-flight.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "medium",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "United States",
+   "date": "1966-1977",
+   "date_precision": "decade",
+   "location_name": "Malmstrom, Ellsworth, Vandenberg, and Minot USAF bases",
+   "page_refs": [
+    30,
+    33
+   ],
+   "physical_effects": [
+    "power failure",
+    "missile malfunction"
+   ],
+   "quote": "UAP destroying an ICBM loaded with a dummy warhead"
+  }
+ ]
+}

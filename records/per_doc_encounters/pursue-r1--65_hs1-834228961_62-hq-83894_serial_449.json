@@ -1,0 +1,81 @@
+{
+ "doc_id": "65_hs1-834228961_62-hq-83894_serial_449",
+ "file": "pursue-r1--65_hs1-834228961_62-hq-83894_serial_449.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "65_HS1-834228961_62-HQ-83894_Serial_449",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI case file containing various newspaper clippings and articles regarding UFO sightings and contactee claims, with encounter content present.",
+ "encounters": [
+  {
+   "summary": "Gary T. Wilcox reported an encounter with an egg-shaped craft and its occupants on his farm.",
+   "encounter_type": "occupant-report",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_content": "The beings spoke in perfect but stilted, smooth English.",
+   "communication_method": "verbal",
+   "country": "USA",
+   "date": "1964-04",
+   "date_precision": "month",
+   "entity_appearance": "human-like creatures",
+   "entity_clothing": "uniforms and hoods",
+   "entity_count": "2",
+   "location_name": "Newark Valley, New York",
+   "page_refs": [
+    18
+   ],
+   "physical_effects": [
+    "no grass growing in landing spot"
+   ],
+   "quote": "I know what I saw. I even talked with them and even joking with them."
+  },
+  {
+   "summary": "Johnny Sparks, age 11, reported two saucer-shaped objects landing in his driveway.",
+   "encounter_type": "landing",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "USA",
+   "date": "1966-03-25",
+   "date_precision": "day",
+   "entity_appearance": "fellow in a fitted suit",
+   "entity_behavior": "landed like an airplane, top spun",
+   "entity_count": "1",
+   "location_name": "Wichita, Kansas",
+   "page_refs": [
+    13
+   ],
+   "physical_effects": [
+    "three-foot deep hole in ground",
+    "sand swirled into driveway"
+   ],
+   "quote": "When it started landing it had legs and put them down."
+  },
+  {
+   "summary": "Two police officers reported a copper-colored saucer-shaped object landing on a highway.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "federal-le",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "South Africa",
+   "date": "1965-09-16",
+   "date_precision": "day",
+   "entity_appearance": "shiny copper-colored object",
+   "entity_behavior": "took off silently at great speed",
+   "location_name": "Pretoria, South Africa",
+   "page_refs": [
+    17
+   ],
+   "physical_effects": [
+    "six-foot wide section of road burned",
+    "grass scorched"
+   ],
+   "quote": "The shiny copper-colored object resembled a giant spinning top."
+  }
+ ]
+}

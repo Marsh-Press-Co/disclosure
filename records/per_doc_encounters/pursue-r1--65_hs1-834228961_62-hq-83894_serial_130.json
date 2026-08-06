@@ -1,0 +1,132 @@
+{
+ "doc_id": "65_hs1-834228961_62-hq-83894_serial_130",
+ "file": "pursue-r1--65_hs1-834228961_62-hq-83894_serial_130.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "65_HS1-834228961_62-HQ-83894_Serial_130",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FBI and military intelligence reports regarding UAP sightings, including witness statements, internal memos, and newspaper clippings.",
+ "encounters": [
+  {
+   "summary": "Staff Sergeant Ira L. Livingston observed 7 to 10 glowing, round objects traveling in an arc at high speed over Green Acres, Birmingham, Alabama.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1947-07-06",
+   "date_precision": "day",
+   "entity_appearance": "round, dim glow of light",
+   "entity_behavior": "traveling in a definite arc, some appeared to come straight up",
+   "entity_count": "7-10",
+   "entity_height": "2000 feet",
+   "location_name": "Green Acres, Birmingham, Alabama",
+   "page_refs": [
+    14
+   ],
+   "quote": "The Discs were silent and appeared to be composed of a single light."
+  },
+  {
+   "summary": "Constable Eric Kearsey and others observed four egg-shaped, phosphorus-glowing objects in formation, followed by a single object, over Grand Falls, Newfoundland.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "federal-le",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "Canada",
+   "date": "1947-07-09",
+   "date_precision": "day",
+   "entity_appearance": "egg-shaped, phosphorus glow, barrel-head size",
+   "entity_behavior": "flying in rocking motion, terrific speed",
+   "entity_count": "5",
+   "location_name": "Grand Falls, Newfoundland",
+   "page_refs": [
+    34,
+    35
+   ],
+   "quote": "I would describe as being a huge jelly-fish flash across the sky."
+  },
+  {
+   "summary": "Three mechanics observed a circular, silvery object that cut through clouds and left a long bluish-black trail.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "Canada",
+   "date": "1947-07-10",
+   "date_precision": "day",
+   "entity_appearance": "circular like a wheel, silvery, translucent",
+   "entity_behavior": "horizontal flight, cut through clouds",
+   "entity_count": "1",
+   "location_name": "Harmon Field, Newfoundland",
+   "page_refs": [
+    18,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+   ],
+   "physical_effects": [
+    "cloud disruption",
+    "bluish-black trail"
+   ],
+   "quote": "It cut a straight path right through the cloud."
+  },
+  {
+   "summary": "Three witnesses observed a flame-colored, disc-shaped object with a cone-shaped after-glow trail.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "Canada",
+   "date": "1947-07-11",
+   "date_precision": "day",
+   "entity_appearance": "flame colored, disc shaped, cone-shaped trail",
+   "entity_behavior": "high velocity",
+   "entity_count": "1",
+   "location_name": "Codroy, Newfoundland",
+   "page_refs": [
+    19,
+    20,
+    30,
+    31,
+    32,
+    33
+   ],
+   "quote": "The circle was a bright red, nearest I could describe it would be the color of a flame."
+  },
+  {
+   "summary": "A.C. Urie and his sons observed a sky-blue, oblong object with a fiery red tubular glow skimming through Snake River Canyon.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1947-08-13",
+   "date_precision": "day",
+   "entity_appearance": "sky blue, oblong, 20ft long, fiery red tubular glow",
+   "entity_behavior": "skimming canyon floor, rode up and down over hills",
+   "entity_count": "1",
+   "entity_height": "75 feet",
+   "location_name": "Snake River Canyon, Idaho",
+   "page_refs": [
+    42,
+    43,
+    44,
+    45
+   ],
+   "physical_effects": [
+    "burned weeds to ash"
+   ],
+   "quote": "It seemed to be powered by jets emitting a fiery glow on both sides."
+  }
+ ]
+}

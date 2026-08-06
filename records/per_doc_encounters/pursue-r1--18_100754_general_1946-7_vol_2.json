@@ -1,0 +1,41 @@
+{
+ "doc_id": "18_100754_general_1946-7_vol_2",
+ "file": "pursue-r1--18_100754_general_1946-7_vol_2.md",
+ "source": "PURSUE-R1",
+ "agency": "",
+ "title": "18_100754_general_1946-7_vol_2",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of internal Air Materiel Command and Air Force correspondence regarding the investigation and policy toward 'Flying Discs' and contains reports of specific claims.",
+ "encounters": [
+  {
+   "summary": "A report of flying discs sighted by a radar station in Japan, mentioned by Dr. Charles Carroll.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "unknown",
+   "document_stance": "investigated",
+   "confidence": "low",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "page_refs": [
+    24
+   ]
+  },
+  {
+   "summary": "Mrs. Madeline Gwynne Merchant claims flying discs are being fired from a laboratory in Central Mexico operated by Russians to target U.S. atomic and aircraft installations.",
+   "encounter_type": "claimed-contact",
+   "claimant_type": "civilian",
+   "document_stance": "dismissed",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "Mexico",
+   "page_refs": [
+    18,
+    19,
+    20,
+    21
+   ],
+   "quote": "Flying Discs are being fired from a locality in Central Mexico from a laboratory which is being operated by the Russians."
+  }
+ ]
+}

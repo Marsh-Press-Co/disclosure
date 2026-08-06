@@ -1,0 +1,119 @@
+{
+ "doc_id": "hearing-2024-11-13-house-oversight",
+ "file": "hearing-2024-11-13-house-oversight.md",
+ "source": "CONGRESS",
+ "agency": "U.S. House Committee on Oversight and Accountability",
+ "title": "Hearing: Unidentified Anomalous Phenomena - Exposing the Truth (House Oversight joint subcommittees, 13 Nov 2024)",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a transcript of a joint congressional hearing regarding UAPs, containing multiple reports of encounters and claims of government concealment.",
+ "encounters": [
+  {
+   "summary": "Navy pilots encountered unidentified objects during a 2015 exercise off the U.S. East Coast, leading to near midair collisions and an urgent safety warning.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "2015",
+   "date_precision": "year",
+   "entity_appearance": "disc-shaped object",
+   "entity_behavior": "exhibiting flight and structural characteristics unlike anything in our arsenal",
+   "location_name": "U.S. East Coast",
+   "page_refs": [
+    14,
+    26
+   ],
+   "physical_effects": [
+    "near midair collisions"
+   ],
+   "quote": "If any of you know what these are, tell me ASAP."
+  },
+  {
+   "summary": "A UAP was observed by watch standers on the USS Omaha off Southern California, exhibiting transmedium travel by entering the water from the atmosphere.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "USA",
+   "date_precision": "decade",
+   "entity_appearance": "aloft object with no observable exhaust or control surfaces",
+   "entity_behavior": "entered the water from the atmosphere",
+   "location_name": "Southern California",
+   "page_refs": [
+    26
+   ],
+   "physical_effects": [
+    "transmedium travel"
+   ],
+   "quote": "saw it enter the water from the atmosphere"
+  },
+  {
+   "summary": "A large equilateral-triangle UAP appeared directly over ships at night in the Pacific Ocean, observed by vessels engaged in SIGINT and MASINT collection.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "unknown",
+   "date_precision": "unknown",
+   "entity_appearance": "large equilateral-triangle with three bright points at each bottom corner",
+   "entity_behavior": "slowly rotate on its horizontal access",
+   "location_name": "Pacific Ocean",
+   "page_refs": [
+    41
+   ],
+   "physical_effects": [
+    "electronic device malfunctions"
+   ],
+   "quote": "large equilateral-triangle UAP suddenly appears directly over the ships"
+  },
+  {
+   "summary": "An F-22 fighter was intercepted and boxed in by multiple metallic orbs while performing an airspace surveillance mission.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "USA",
+   "date_precision": "unknown",
+   "entity_appearance": "multiple metallic orbs, slightly smaller than a sedan",
+   "entity_behavior": "accelerated at rapid speed, intercepted and boxed in the F-22",
+   "location_name": "Eastern Air Defense Sector",
+   "page_refs": [
+    41
+   ],
+   "physical_effects": [
+    "unable to establish radar locks"
+   ],
+   "quote": "boxed in by approximately three to six UAPs"
+  },
+  {
+   "summary": "A white orb UAP was filmed coming out of the ocean off the coast of Kuwait, later joined by a second orb.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "Kuwait",
+   "date_precision": "unknown",
+   "entity_appearance": "white orb",
+   "entity_behavior": "coming out of the ocean, joined by another orb",
+   "location_name": "off the coast of Kuwait",
+   "page_refs": [
+    19
+   ],
+   "physical_effects": [
+    "none"
+   ],
+   "quote": "white orb UAP coming out of the ocean"
+  }
+ ]
+}

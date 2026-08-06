@@ -1,0 +1,28 @@
+{
+ "doc_id": "65_hs1-834228961_62-hq-83894_serial_403",
+ "file": "pursue-r1--65_hs1-834228961_62-hq-83894_serial_403.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "65_HS1-834228961_62-HQ-83894_Serial_403",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is an FBI case file containing a book jacket for Gray Barker's 'They Knew Too Much About Flying Saucers', which mentions a 1952 landing investigation.",
+ "encounters": [
+  {
+   "summary": "Gray Barker investigated a report of a flying saucer landing near his home in West Virginia in 1952, finding the witnesses convincing.",
+   "encounter_type": "landing",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "low",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "United States",
+   "date": "1952",
+   "date_precision": "year",
+   "location_name": "West Virginia",
+   "page_refs": [
+    2
+   ]
+  }
+ ]
+}

@@ -1,0 +1,189 @@
+{
+ "doc_id": "65_hs1-834228961_62-hq-83894_section_9",
+ "file": "pursue-r1--65_hs1-834228961_62-hq-83894_section_9.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "65_HS1-834228961_62-HQ-83894_Section_9",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This document is an FBI case file regarding reports of unidentified flying objects and the Bureau's policy of referring such matters to the Air Force, containing several specific encounter reports. / This document is a collection of FBI case files and memoranda regarding UFO sightings, public inquiries, and internal policy, confirming the FBI's stance of referring such matters to the Air Force.",
+ "encounters": [
+  {
+   "summary": "Two individuals claimed to have seen a flying disc in the shape of a man's hat hovering over the Matahambre Mines area for several minutes before it disappeared at high speed toward the sea.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "Cuba",
+   "date": "1957-11-11",
+   "date_precision": "day",
+   "location_name": "Matahambre Mines, Pinar del Rio Province",
+   "page_refs": [
+    4,
+    5
+   ]
+  },
+  {
+   "summary": "A woman reported that she and her three daughters observed a silent, motionless, dome-shaped object hovering near their farm, which she believed was taking pictures; she later found strange newspapers and magazines on her property.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_content": "She claimed the entities left newspapers and magazines and provided a key to a strange print in a newspaper.",
+   "communication_method": "written",
+   "country": "USA",
+   "date": "1952",
+   "date_precision": "year",
+   "entity_appearance": "human beings",
+   "entity_behavior": "hovering, motionless, silent, taking pictures",
+   "location_name": "Michigan",
+   "page_refs": [
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37
+   ],
+   "physical_effects": [
+    "dog became unconscious and ill"
+   ],
+   "quote": "I realized at once there were human beings guiding it."
+  },
+  {
+   "summary": "A photographer reported observing a flat, oval-shaped object with a fluorescent glow and a vapor trail in a photograph he took of the moon through a telescope.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "forwarded-no-action",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1960-02-21",
+   "date_precision": "day",
+   "entity_appearance": "flat on bottom, oval shaped, fluorescent glow",
+   "location_name": "Grand Blanc, Michigan",
+   "page_refs": [
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115
+   ],
+   "quote": "it is flat on the bottom, is oval shaped, and appears to have a fluorescent glow"
+  },
+  {
+   "summary": "George W. Van Tassel claimed to have been visited by people from outer space and to have taken up a crusade to bring facts about them to the American people.",
+   "encounter_type": "claimed-contact",
+   "claimant_type": "contactee-figure",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_content": "Space people communicate by knowing thoughts; many are mute but some are trained to speak earth languages.",
+   "communication_method": "telepathic",
+   "country": "USA",
+   "date": "1960",
+   "date_precision": "year",
+   "entity_appearance": "Appear just as humans do.",
+   "entity_behavior": "Concerned with atom bombs; have the power to know thoughts; use crystal batteries to bend light and appear invisible.",
+   "entity_clothing": "Not stated",
+   "entity_count": "Hundreds",
+   "entity_height": "Not stated",
+   "location_name": "Giant Rock, California",
+   "page_refs": [
+    148,
+    152,
+    156,
+    160
+   ],
+   "physical_effects": [
+    "magnetic field",
+    "invisibility"
+   ],
+   "quote": "I have also been visited by the people from outer space"
+  },
+  {
+   "summary": "Joseph Perry claimed a photograph of the moon contained a flying object, which the Air Force attributed to a development error.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "dismissed",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "USA",
+   "date": "1960-05-03",
+   "date_precision": "day",
+   "location_name": "Grand Blanc, Michigan",
+   "page_refs": [
+    166,
+    167
+   ],
+   "physical_effects": [
+    "photographic anomaly"
+   ],
+   "quote": "what appeared to be a flying object somewhere in the vicinity of the moon"
+  },
+  {
+   "summary": "Lonnie Zamora, a police officer, reported seeing a landed oval-shaped object with two occupants in white coveralls, which then took off with a roar and flames.",
+   "encounter_type": "landing",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "country": "USA",
+   "date": "1964-04-24",
+   "date_precision": "day",
+   "entity_appearance": "Two persons in apparent white coveralls.",
+   "entity_behavior": "Adjacent to object, then disappeared.",
+   "entity_clothing": "White coveralls",
+   "entity_count": "2",
+   "location_name": "Socorro, New Mexico",
+   "page_refs": [
+    226,
+    228,
+    229,
+    231,
+    233,
+    235
+   ],
+   "physical_effects": [
+    "flame",
+    "smouldering areas",
+    "depressed areas in ground"
+   ],
+   "quote": "oval shaped, similar to football, possibly twenty feet long"
+  },
+  {
+   "summary": "Orlando Gallegos reported seeing a butane-tank-shaped object on the ground surrounded by a blue-white flame.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "country": "USA",
+   "date": "1964-04-26",
+   "date_precision": "day",
+   "entity_appearance": "Object shaped like a butane tank or telephone pole.",
+   "entity_behavior": "Surrounded by blue-white flame from portholes.",
+   "location_name": "La Madera, New Mexico",
+   "page_refs": [
+    221,
+    222,
+    223,
+    224
+   ],
+   "physical_effects": [
+    "scorched circular area",
+    "indentations in ground"
+   ],
+   "quote": "something shaped like a butane tank, possibly twelve to fourteen feet high"
+  }
+ ]
+}

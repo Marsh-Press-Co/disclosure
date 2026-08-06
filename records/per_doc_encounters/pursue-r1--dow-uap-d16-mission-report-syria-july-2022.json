@@ -1,0 +1,11 @@
+{
+ "doc_id": "dow-uap-d16-mission-report-syria-july-2022",
+ "file": "pursue-r1--dow-uap-d16-mission-report-syria-july-2022.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-PR22, Unresolved UAP Report, Syria, July 2022",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a declassified military mission report (MISREP) regarding an ISR flight in Syria; while it mentions a UAP sighting, the event is described only as a distant aerial phenomenon without any close-range encounter, entity observation, or physical trace.",
+ "encounters": []
+}

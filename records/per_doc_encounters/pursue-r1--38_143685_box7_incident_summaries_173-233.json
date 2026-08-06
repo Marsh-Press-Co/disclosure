@@ -1,0 +1,104 @@
+{
+ "doc_id": "38_143685_box7_incident_summaries_173-233",
+ "file": "pursue-r1--38_143685_box7_incident_summaries_173-233.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "38_143685_box_Incident_Summaries_173-233",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This document contains a series of incident summary sheets for unidentified aerial phenomena, most of which are distant sightings, with one claimed physical trace encounter. / This document contains incident summaries from the PURSUE-R1 collection, detailing various aerial sightings, some of which involve close-range encounters with unidentified objects.",
+ "encounters": [
+  {
+   "summary": "Observer reported a mysterious light in Golden Gate Park that illuminated the ocean and caused a physical sensation like an electric arc, resulting in a new bruise on his hand.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "civilian",
+   "document_stance": "dismissed",
+   "confidence": "low",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1947-10",
+   "date_precision": "month",
+   "location_name": "Golden Gate Park, San Francisco, Calif",
+   "page_refs": [
+    18,
+    19
+   ],
+   "physical_effects": [
+    "bruise"
+   ],
+   "quote": "He felt something like an electric arc which seemed to have the power to lower his hand like a sack of shot"
+  },
+  {
+   "summary": "Lt. Jackson and Lt. Combs reported an oval object with no wings or tail circling Andrews AF Base for 15-18 minutes, performing evasive maneuvers and vertical climbs.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "18 Nov 1948",
+   "date_precision": "day",
+   "entity_appearance": "oval, dull gray/whitish-grey, no wings or tail",
+   "entity_behavior": "evasive, tight circles, vertical climbs, high acceleration",
+   "entity_count": "1",
+   "location_name": "Andrews AF Base, Camp Springs, Md",
+   "page_refs": [
+    83,
+    84,
+    85,
+    86
+   ],
+   "physical_effects": [
+    "dull glow"
+   ],
+   "quote": "Object was highly maneuverable."
+  },
+  {
+   "summary": "Sgt. Wright observed a snow-white, wingless object with a straight body tapering to a point, appearing to have windows, flying intermittently through clouds.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "dismissed",
+   "confidence": "medium",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "Philippines",
+   "date": "12 Nov 1948",
+   "date_precision": "day",
+   "entity_appearance": "snow-white, straight body tapering to a point, no tail, windows",
+   "entity_behavior": "reconnaissance, flying through clouds",
+   "entity_count": "1",
+   "location_name": "Clark AF Base, Philippine Islands",
+   "page_refs": [
+    81,
+    82
+   ],
+   "physical_effects": [
+    "exhaust trail"
+   ],
+   "quote": "It appeared to be sky writing"
+  },
+  {
+   "summary": "Mr. and Mrs. Tom Rush observed a dark blue/black cigar-shaped object without wings that crossed their flight path and accelerated.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1 Jan 1949",
+   "date_precision": "day",
+   "entity_appearance": "cigar-shaped, dark blue or black, 60ft long, 10ft wide",
+   "entity_behavior": "accelerated, made 50 degree turn",
+   "entity_count": "1",
+   "location_name": "Jackson, Mississippi",
+   "page_refs": [
+    138,
+    139
+   ],
+   "quote": "as the object made its turn, it was then that I noticed the object didn't have wings."
+  }
+ ]
+}

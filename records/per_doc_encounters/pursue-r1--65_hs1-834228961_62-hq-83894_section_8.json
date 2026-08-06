@@ -1,0 +1,190 @@
+{
+ "doc_id": "65_hs1-834228961_62-hq-83894_section_8",
+ "file": "pursue-r1--65_hs1-834228961_62-hq-83894_section_8.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "65_HS1-834228961_62-HQ-83894_Section_8",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This document is an FBI case file (62-HQ-83894) containing various reports, correspondence, and newspaper clippings regarding flying saucer sightings, contactee claims, and the activities of flying saucer clubs. / This file contains various FBI reports, memoranda, and correspondence regarding UFO sightings, including investigations into claims by Senator Russell, civilian reports, and alleged contactee accounts.",
+ "encounters": [
+  {
+   "summary": "Truman Bethurum claimed to have been aboard flying saucers on eleven occasions and to have met a crew of space explorers led by a woman commandant in the Nevada desert.",
+   "encounter_type": "claimed-contact",
+   "claimant_type": "contactee-figure",
+   "document_stance": "investigated",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "USA",
+   "date": "1953",
+   "date_precision": "year",
+   "entity_appearance": "ravishing woman commandant",
+   "location_name": "Nevada desert",
+   "page_refs": [
+    7
+   ]
+  },
+  {
+   "summary": "Mrs. Frances Swan claimed to receive telepathic messages from beings on space ships designated M-4 and L-11, managed by 'Affa' and 'Ponnar', who are repairing fault lines in the Pacific Ocean.",
+   "encounter_type": "claimed-communication",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "communication_content": "Messages regarding flying saucers, life on other planets, and protection of Earth from atomic destruction.",
+   "communication_method": "telepathic",
+   "country": "USA",
+   "date": "1954",
+   "date_precision": "month",
+   "entity_appearance": "Space ships 150 miles wide, 200 miles long, 100 miles deep.",
+   "entity_behavior": "Repairing fault lines in the Pacific Ocean.",
+   "location_name": "South Berwick, Maine",
+   "page_refs": [
+    12,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+   ],
+   "physical_effects": [
+    "buzzing sound in ear"
+   ]
+  },
+  {
+   "summary": "Franz Hoge reported a cigar-shaped craft hovering six feet above the ground and observed four creatures.",
+   "encounter_type": "occupant-report",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "low",
+   "claimant_firsthand": false,
+   "country": "Germany",
+   "date": "1954",
+   "date_precision": "year",
+   "entity_appearance": "Three and one-half feet in height, thick-set bodies, oversized heads, delicate legs.",
+   "entity_clothing": "rubber-like clothing",
+   "entity_count": "4",
+   "location_name": "Muenster, Germany",
+   "page_refs": [
+    50
+   ]
+  },
+  {
+   "summary": "Senator Richard B. Russell and his party observed two greenish-yellow glowing balls rising rapidly while traveling by train in Russia.",
+   "encounter_type": "close-approach",
+   "claimant_type": "government-civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "Russia",
+   "date": "1955-10-04",
+   "date_precision": "day",
+   "entity_appearance": "greenish-yellow glowing ball",
+   "entity_behavior": "rising rapidly, rotating, whirling",
+   "location_name": "between Baku and Tiflis",
+   "page_refs": [
+    119,
+    120,
+    121,
+    123,
+    125
+   ],
+   "physical_effects": [
+    "engine stall"
+   ],
+   "quote": "small greenish-yellow glowing ball rising quite rapidly in sky"
+  },
+  {
+   "summary": "Sylvia L. Richards and Joseph L. Morris, Jr. observed a low-flying, oval-shaped, bright light blue object while driving.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "United States",
+   "date": "1956-04-06",
+   "date_precision": "day",
+   "entity_appearance": "oval shaped, bright, light blue, spinning",
+   "entity_behavior": "approached car, accelerated, veered off",
+   "location_name": "Route 1 near Henderson, North Carolina",
+   "page_refs": [
+    132,
+    133,
+    134
+   ],
+   "physical_effects": [
+    "rain"
+   ],
+   "quote": "oval-shaped, low-flying object coming directly towards their car"
+  },
+  {
+   "summary": "Thomas Gamble (Billy Thomas Gambill) observed a bright yellow light traveling at high speed.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "United States",
+   "date": "1956-05-04",
+   "date_precision": "day",
+   "entity_appearance": "solid, bright, yellow light",
+   "entity_behavior": "traveling at high speed",
+   "location_name": "Oxford, Pennsylvania",
+   "page_refs": [
+    137,
+    139,
+    141
+   ],
+   "quote": "solid, bright, yellow light, visible from all directions"
+  },
+  {
+   "summary": "Tod Kittredge reported a spherical vehicle landed in his yard and entities invited him for a ride.",
+   "encounter_type": "claimed-abduction",
+   "claimant_type": "civilian",
+   "document_stance": "dismissed",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_content": "invited him to ride in their ship",
+   "communication_method": "verbal",
+   "country": "United States",
+   "date": "1956-07-30",
+   "date_precision": "day",
+   "entity_appearance": "little green men",
+   "location_name": "Van Nuys, California",
+   "page_refs": [
+    143,
+    144,
+    145
+   ],
+   "physical_effects": [
+    "split tree"
+   ],
+   "quote": "some little green men emerged from the vehicle and invited KITTREDGE to ride"
+  },
+  {
+   "summary": "Wladyslaw Krasuski observed a circular vehicle while a prisoner of war in Germany.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "Germany",
+   "date": "1944",
+   "date_precision": "year",
+   "entity_appearance": "circular, 75-100 yards diameter, 14 feet high",
+   "entity_behavior": "rose vertically, moved horizontally",
+   "location_name": "Gut Alt Golssen",
+   "page_refs": [
+    208,
+    213,
+    214
+   ],
+   "physical_effects": [
+    "tractor engine stall"
+   ],
+   "quote": "circular in shape, seventy-five to one hundred yards in diameter"
+  }
+ ]
+}
