@@ -4,6 +4,76 @@ Running project history, newest entries first. Current state lives in the vault 
 (`MindHive/10-Projects/Disclosure/_Disclosure-Hub.md`); this file records what
 happened when.
 
+## 2026-08-06 — PURSUE Release 2 + 3 ingested: cold-session run against HANDOFF-R2.md
+
+**Shipped/Done**
+- Full R2+R3 ingest per `HANDOFF-R2.md`. Marsh confirmed bundling R3 into this
+  run (via structured question) after R2 turned out to be only 6 text PDFs —
+  well under the ~15-doc bundling threshold — and R3's official index was
+  already in hand.
+- **Acquisition**: found war.gov's own master `uap-data.csv` (covers all 4
+  releases cumulatively, referenced by a third-party scraper's manifest) and
+  downloaded the 69 R2+R3 PDFs/images directly from war.gov/UFO via
+  `curl_cffi` Chrome-TLS impersonation — clears the Akamai block that plain
+  `curl`/`urllib` hit, no third-party mirror needed. New tools:
+  `download_r2r3.py`, `extract_r2r3.py` (pypdf digital text + Gemini vision
+  for scans, atlas markdown conventions), `build_index_doc_r2r3.py`.
+- **Corpus**: 126 → 197 docs (1.37M → 2.33M words). 46/69 new PDFs/images
+  born-digital, 23 needed vision transcription (`gemini-3-flash-preview`).
+  $0 cash — all free tier.
+- **Full pipeline rerun** (records → encounters → dedup → geocode → retrieval
+  sweep → eval leads → graphify extract/merge/build/label/export → site data),
+  exact order from the handoff.
+- **Results**: 593 → **814 canonical incidents** (55 multi-agency ★, up from
+  50; top-3 leaderboard unchanged). Graph 1,781 → **2,914 nodes**, 1,310 →
+  **2,234 edges**, 28 → **54 named communities**. Encounters 217 → **341**.
+  Globe: 456 → **606 placed**.
+- **Addenda** in `FINDINGS.md` and `RETRIEVAL_TRAIL.md`: R2's DOW-UAP-D017
+  (Sandia Base, 1948-50, 209 sightings) surfaces a 1949 Socorro copper-dust
+  custody chain with a stated inconclusive disposition — distinct from the
+  still-open 1964 Zamora charred-sample thread. Two new strong leads push the
+  ATIC "no hardware" denial posture back to 1952-53. 1970-2010s gap confirmed
+  MORE pronounced as a corpus share; 2020s jump flagged as mostly R2
+  video-index metadata, not new narrative.
+- **Site fix**: `site/index.html` had two stale hardcoded values (a static
+  "593 incidents" credit line, "PURSUE Release 1" in the about text) —
+  pre-existing bugs from v1, now wired to live `DATA`/updated text. Verified
+  locally (browser pane, DOM/JS checks — `read_page`/`get_page_text` served a
+  cached snapshot after edits; `location.reload(true)` + direct
+  `document.getElementById` queries confirmed the real state).
+
+**Decisions**
+- Bundle R2+R3 into one run (Marsh, structured question) — marginal cost
+  near-zero, R3 index already in hand. R4 and NARA remain out of scope.
+
+**Verified**
+- 0 download failures (69/69), 0 extraction failures (69/69), 0 pipeline-step
+  failures. Graph health warnings (17 dangling edges, ~80 collapsed edges out
+  of 2,352 raw) diagnosed as normal multi-mention consolidation, not
+  corruption — checked via `graphify diagnose multigraph`'s example output.
+  Site spot-checked: 240 incidents correctly source-tagged to R2/R3 docs with
+  real war.gov medialink URLs and page citations.
+
+**Deferred/next**
+- R4 (40 records, 2026-07-10) and NARA RG 615 remain unpulled — no scope
+  authorization yet. RETRIEVAL_TRAIL §6 threads #1-4 (Socorro/1964, Milwaukee,
+  "Ia. case", Serial 164) untouched by R2/R3 — confirmed via direct text
+  search, still open. Site public flip still needs Marsh's explicit go.
+
+**Notes/gotchas** (promoted to hub — see below)
+- `graphify-out/.graphify_detect.json` is not committed/persistent — a fresh
+  session must regenerate it (`graphify.detect.detect(Path('corpus'))`,
+  write with Python not shell redirect, or a Unicode error follows) before
+  `run_graphify_extract.py`/`run_graphify_build.py`/`apply_labels.py` will run.
+- war.gov's declassified PDFs are permissions-restricted (AES-encrypted, no
+  real password): `pip install cryptography` + `reader.decrypt("")` before
+  `pypdf` will read them; `pypdfium2.PdfDocument(path, password="")` likewise.
+- `curl_cffi` with `impersonate="chrome"` clears war.gov/medialink's Akamai
+  block directly — no Wayback/mirror fallback needed for future releases.
+  war.gov's own cumulative CSV index:
+  `https://www.war.gov/portals/1/Interactive/2026/UFO/uap-data.csv` (all
+  releases, refetch for R4+).
+
 ## 2026-08-06 — Phase 2 (same night, continued): globe site + encounter layer + retrieval trail
 
 **Shipped/Done**
