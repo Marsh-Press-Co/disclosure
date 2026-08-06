@@ -4,6 +4,67 @@ Running project history, newest entries first. Current state lives in the vault 
 (`MindHive/10-Projects/Disclosure/_Disclosure-Hub.md`); this file records what
 happened when.
 
+## 2026-08-06 — PURSUE Release 4 ingested (same session, Marsh's go)
+
+**Shipped/Done**
+- Marsh: "can you do r4 now too?" — extended the R2+R3 tooling
+  (`download_r2r3.py`, `build_index_doc_r2r3.py`, `build_manifest.py`) to
+  also cover R4 (2026-07-10, 40 records: 14 PDF/19 VID/3 IMG/4 AUD) using the
+  master CSV already on disk from the R2+R3 pass — no new acquisition
+  research needed.
+- **Corpus**: 197 → 215 docs (2.33M → 2.52M words). 17 new files (14 PDF + 3
+  IMG); 11 born-digital, 6 vision-transcribed. $0 cash.
+- **Full pipeline rerun**, same order as R2+R3.
+- **Results**: 814 → **879 canonical incidents** (72 multi-agency ★, up from
+  55 — R4's older historical docs cross-reference existing incidents rather
+  than adding isolated new ones, so a small release produced an outsized
+  corroboration gain; top-3 leaderboard still unchanged). Graph 2,914 →
+  **3,184 nodes**, 2,234 → **2,441 edges**, 54 → **67 named communities**.
+  Encounters 341 → **388**. Globe: 606 → **654 placed**.
+- **Two real bugs found and fixed**:
+  1. `extract_r2r3.py`'s incremental report-persist only fired on freshly
+     processed docs, not skip-only ones — a run ending on a run of skips
+     silently dropped 21 entries from `extract_report.json` (surfaced as a
+     manifest mismatch: `corpus/` had 215 files, manifest listed 194). Fixed
+     by persisting on every iteration, not just non-skip ones.
+  2. `extract_records.py`'s failure-driven page-split fallback required
+     `len(pages) > MIN_CHUNK_PAGES` (5) — a small doc that fails could never
+     split down and retry. `DOW-UAP-D090` (2 pages, garbled-OCR fillable
+     form) deterministically hit `MAX_TOKENS` twice on the identical prompt.
+     Fixed: on failure (not the pre-emptive size-based split), allow
+     splitting below the floor, down to individual pages.
+- **Addenda**: no new strong custody leads from R4 (31 total, unchanged), no
+  RETRIEVAL_TRAIL open thread touched — R4's PDFs are mostly USAF analytical
+  studies and a Los Alamos green-fireball conference transcript, not
+  incident/custody reports. 1970-2010s gap held flat as a corpus share.
+- **Site fix**: same stale-text pattern as R2+R3 — "PURSUE Releases 1–3" in
+  the about text updated to "1–4"; the dynamic credit line (fixed during
+  R2+R3) already picked up 879 automatically.
+
+**Verified**
+- 0 download failures (17/17), 0 extraction failures (17/17 on R4; 1 initial
+  extract_records.py failure resolved by the page-split fix, 0 after).
+  `corpus/` matches `manifest.json` exactly (215 files) after the persist
+  fix. Site spot-checked live (`document.getElementById('credit')` → "879
+  incidents...").
+
+**Deferred/next**
+- R1-R4 are now fully ingested and swept. NARA RG 615 and the NSA's May 2026
+  "Top Secret Umbra" release remain the only named next steps in
+  RETRIEVAL_TRAIL §6 — both still outside authorized scope. Site public flip
+  still needs Marsh's explicit go.
+
+**Notes/gotchas** (promoted to hub — see below)
+- `extract_r2r3.py`-style scripts: an incremental "persist after every
+  document" pattern must persist on EVERY code path through the loop body,
+  not just the one that does real work — a run ending on a stretch of
+  skip/no-op iterations will silently lose them otherwise.
+- `extract_records.py`'s recursive chunk-splitter has two split conditions
+  (pre-emptive size-based, and failure-driven) — they should NOT share the
+  same `MIN_CHUNK_PAGES` floor. A small chunk that's failing needs to be
+  allowed to split further even below that floor; the floor should only
+  prevent needlessly subdividing a document that isn't failing.
+
 ## 2026-08-06 — PURSUE Release 2 + 3 ingested: cold-session run against HANDOFF-R2.md
 
 **Shipped/Done**
