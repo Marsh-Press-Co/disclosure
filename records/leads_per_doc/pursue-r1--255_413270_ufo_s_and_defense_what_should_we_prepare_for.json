@@ -1,0 +1,45 @@
+{
+ "doc": "pursue-r1--255_413270_ufo_s_and_defense_what_should_we_prepare_for.md",
+ "leads": [
+  {
+   "page": 48,
+   "lead_type": "craft-custody",
+   "claim": "Colonel Philip Corso claimed he saw a cadaver of an occupant from the Roswell crash in 1947 and was later tasked with allowing U.S. industry to benefit from recovered high-tech wreckage.",
+   "strength": "strong",
+   "why": "The claim links specific recovered material (wreckage, cadaver) to a specific individual and a government program (Army R&D foreign technology).",
+   "claimant": "Colonel Philip Corso",
+   "custody_chain": "Army R&D Department",
+   "government_response": "The document presents this as a claim made by Corso, without confirming or denying the official government stance on his specific activities.",
+   "material_description": "Extraterrestrial vessel wreckage (printed circuits, laser, light intensifier) and a cadaver in a glass coffin.",
+   "outcome_in_document": "unresolved",
+   "quote": "He reportedly saw for himself, in July 1947, the cadaver of one of the occupants preserved in a glass coffin."
+  },
+  {
+   "page": 72,
+   "lead_type": "craft-custody",
+   "claim": "Witnesses and former intelligence officers claim the military recovered debris and cadavers from a 1947 crash near Roswell, which were subsequently covered up by the military.",
+   "strength": "strong",
+   "why": "The claim involves specific physical evidence (debris, cadavers) and a detailed account of a military custody chain and subsequent cover-up.",
+   "claimant": "Lieutenant Colonel Marcel (ER) and General du Bose (CR)",
+   "custody_chain": "U.S. Army / 8th Air Force",
+   "government_response": "The Air Force officially stated the debris was from a Mogul balloon project, which the claimants allege was a substitution.",
+   "material_description": "Debris from a flying disk, frame of a space glider, and cadavers of small humanoids.",
+   "outcome_in_document": "asserted-under-oath",
+   "quote": "General du Bose [sic] (CR)... confirms by affidavit that the latter had substituted the debris from a weather balloon... for the debris sent by the Roswell base."
+  },
+  {
+   "page": 74,
+   "lead_type": "biological",
+   "claim": "Paul Bennewicz alleged that the U.S. Army and extraterrestrials (EBEs) jointly operated bases in New Mexico and Nevada.",
+   "strength": "moderate",
+   "why": "The claim describes a joint custody/operational arrangement but lacks direct physical evidence or verification within the text.",
+   "claimant": "Paul Bennewicz",
+   "custody_chain": "U.S. Army and extraterrestrials",
+   "government_response": "The document mentions this as information disclosed by Bennewicz to saucerists.",
+   "material_description": "Extraterrestrial Biological Entities (EBEs).",
+   "outcome_in_document": "unresolved",
+   "quote": "carried out on bases in New Mexico and Nevada jointly owned by the U.S. Army and extraterrestrials baptized EBEs"
+  }
+ ],
+ "doc_verdict": "The document contains multiple accounts and allegations regarding the recovery of extraterrestrial craft and biological entities, primarily centered on the Roswell incident and claims by military personnel, though it presents these as contested narratives rather than confirmed facts."
+}

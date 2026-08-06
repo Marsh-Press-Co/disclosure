@@ -1,0 +1,11 @@
+{
+ "doc_id": "nasa-uap-d1-apollo-12-transcript-1969",
+ "file": "pursue-r1--nasa-uap-d1-apollo-12-transcript-1969.md",
+ "source": "PURSUE-R1",
+ "agency": "NASA",
+ "title": "NASA-UAP-D1, Apollo 12 Transcript, 1969",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a transcript of communications between the Apollo 12 crew and Houston Mission Control; it contains no reports of UAP encounters, only discussions of spacecraft technical phenomena and debris.",
+ "encounters": []
+}

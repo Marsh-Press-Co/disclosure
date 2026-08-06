@@ -118,6 +118,39 @@ usually means *unassessed paper*, not *investigated mystery*.
 
 Full list: `records/timeline.md` (★-flagged), `records/incidents.csv` (sortable).
 
+## 9. The encounter layer — beings, contact, and how the government filed it
+*(added 2026-08-06, dedicated extraction pass; full set in `records/encounters.csv`)*
+
+**217 encounter-class records** (anything beyond a distant sighting) across the
+corpus: 134 close approaches, 24 physical-trace claims, 7 landings, and a
+being/contact core of ~50 typed records — of which the reliable
+occupant/contact subset is roughly 20 (the extractor over-applied
+"entity-sighted" to some plural-craft sightings; counts here use the strict
+subset).
+
+- **Claimant strata (the honest cut):** 115 civilian, 66 military, 14 civilian
+  pilots, 11 federal law enforcement, 3 known contactee-movement figures.
+  Similarity questions should be asked *within* strata — a sober military
+  debrief and a lecture-circuit contact claim are different kinds of paper.
+- **The anchor case for official-witness occupant reports is in the FBI file:
+  Socorro, NM, April 24, 1964 — Officer Lonnie Zamora** — "two individuals in
+  white coveralls… small adults or large kids" beside a landed oval object.
+  Thirty-eight pages of FBI paper (62-HQ-83894 Serial 438), first-hand,
+  filed without comment.
+- **Cross-country descriptor convergence:** the French official investigations
+  in the COMETA document (Valensole 1965; Cussac 1967, "small black beings,
+  height not exceeding 1.20 m") and scattered US civilian reports agree on
+  *small* beings; the few US official-witness descriptions run "small,"
+  "white," "coveralls." Nobody in this corpus describes the pop-culture
+  giant-headed grey.
+- **Claimed communication is genuinely rare:** 10 of 217 records (6 verbal,
+  2 telepathic, 1 written) — and none from military or federal-LE claimants.
+- **The government's dominant posture is archival, not investigative:** 115
+  records filed with no comment, 78 investigated, only 11 debunked and 9
+  dismissed. The files preserve claims; they rarely adjudicate them.
+- Color, not data: a 1948 Alton, Illinois witness reported "a huge fowl,
+  bigger than an airplane." The record keeps what it was given.
+
 ---
 
 ## Honesty — read before quoting anything
@@ -149,7 +182,11 @@ Full list: `records/timeline.md` (★-flagged), `records/incidents.csv` (sortabl
 ## Files
 
 - `records/incidents.csv` / `incidents.json` — 593 canonical incidents, sortable
+- `records/encounters.csv` — 217 encounter records with claimant strata + stances
 - `records/timeline.md` — the chronological record, ★ = multi-agency
+- `site/index.html` — the interactive globe (456 placed incidents, filters,
+  citation dossiers; local until the public flip)
 - `graphify-out/graph.html` — the interactive graph (open in any browser)
 - `graphify-out/GRAPH_REPORT.md` — god nodes, surprising connections, audit stats
+- `RETRIEVAL_TRAIL.md` — ranked materiel/biologics evidence chains
 - `manifest.json` — every source document with provenance and URLs

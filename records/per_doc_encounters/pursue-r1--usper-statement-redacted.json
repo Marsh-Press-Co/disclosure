@@ -1,0 +1,30 @@
+{
+ "doc_id": "usper-statement-redacted",
+ "file": "pursue-r1--usper-statement-redacted.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "USPER Statement about UAP Sighting",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a secret FBI document detailing a series of UAP sightings by military personnel during an aerial search mission; encounter content is present.",
+ "encounters": [
+  {
+   "summary": "Military helicopter crew and intelligence officials observed multiple instances of glowing, oval-shaped orbs that flared in brightness and performed complex maneuvers in close proximity to their aircraft and other military assets.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "date_precision": "day",
+   "entity_appearance": "Oval shaped, orange color with white or yellow center, emitting light in all directions.",
+   "entity_behavior": "Stationary, flaring in brightness, moving at high speeds, breaking into multiple objects, and pursuing military aircraft.",
+   "entity_count": "Multiple, ranging from single orbs to swarms.",
+   "page_refs": [
+    2,
+    3
+   ],
+   "quote": "The two orbs appeared to flare up and remain stationary side by side."
+  }
+ ]
+}

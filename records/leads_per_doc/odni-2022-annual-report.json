@@ -1,0 +1,20 @@
+{
+ "doc": "odni-2022-annual-report.md",
+ "leads": [
+  {
+   "page": 6,
+   "lead_type": "debris-material",
+   "claim": "The document lists airborne debris like plastic bags as a category of UAP misidentification.",
+   "strength": "noise",
+   "why": "The text explicitly categorizes plastic bags as conventional debris used to explain UAP sightings rather than recovered anomalous material."
+  },
+  {
+   "page": 12,
+   "lead_type": "biological",
+   "claim": "The document defines UAP as objects transitioning between space, atmosphere, and water that are not immediately identifiable.",
+   "strength": "noise",
+   "why": "This is a standard administrative definition of UAP and contains no claim regarding the recovery or custody of biological or physical material."
+  }
+ ],
+ "doc_verdict": "This document contains no information suggesting the government or its contractors have obtained, analyzed, or held physical material from a UAP."
+}

@@ -1,0 +1,42 @@
+{
+ "doc": "hearing-2023-07-26-house-oversight.md",
+ "leads": [
+  {
+   "page": 16,
+   "lead_type": "program-custody-language",
+   "claim": "The U.S. government has conducted a multi-decade UAP crash retrieval and reverse engineering program.",
+   "strength": "strong",
+   "why": "The claimant asserts direct knowledge of a specific, long-term government program involving the retrieval and reverse engineering of UAP material.",
+   "claimant": "David Grusch, former intelligence official",
+   "custody_chain": "U.S. government and associated programs",
+   "government_response": "The witness claims he was denied access to these programs when he requested it.",
+   "outcome_in_document": "asserted-under-oath",
+   "quote": "I was informed in the course of my official duties of a multi-decade UAP crash retrieval and reverse engineering program"
+  },
+  {
+   "page": 31,
+   "lead_type": "craft-custody",
+   "claim": "The U.S. is in possession of nonhuman spacecraft and artifacts that have circulated among defense contractors.",
+   "strength": "strong",
+   "why": "The claim explicitly identifies the possession of physical nonhuman spacecraft and links them to defense contractors.",
+   "claimant": "David Grusch, former intelligence official",
+   "custody_chain": "U.S. government and defense contractors",
+   "government_response": "None provided in the text.",
+   "outcome_in_document": "asserted-under-oath",
+   "quote": "the U.S. is in possession of, quote, ‘‘nonhuman spacecraft,’’ end quote, and that some of these artifacts have circulated with defense contractors."
+  },
+  {
+   "page": 44,
+   "lead_type": "biological",
+   "claim": "Nonhuman biologics were recovered alongside UAP craft.",
+   "strength": "strong",
+   "why": "The claimant asserts that biological material was recovered during UAP retrieval operations based on interviews with individuals currently on the program.",
+   "claimant": "David Grusch, former intelligence official",
+   "custody_chain": "U.S. government recovery programs",
+   "government_response": "None provided in the text.",
+   "outcome_in_document": "asserted-under-oath",
+   "quote": "biologics came with some of these recoveries. Yes. ... Nonhuman, and that was the assessment of people with direct knowledge"
+  }
+ ],
+ "doc_verdict": "The document contains sworn testimony from a former intelligence official asserting the existence of U.S. government programs for the retrieval and reverse engineering of nonhuman spacecraft and the recovery of nonhuman biological material."
+}

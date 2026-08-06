@@ -1,0 +1,11 @@
+{
+ "doc_id": "fbi-photo-b8",
+ "file": "pursue-r1--fbi-photo-b8.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "FBI Photo B8",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI photographic record of an infrared sensor still, which contains no reports of close encounters or occupant sightings.",
+ "encounters": []
+}

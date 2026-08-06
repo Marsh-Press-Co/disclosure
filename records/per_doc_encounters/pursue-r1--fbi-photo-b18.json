@@ -1,0 +1,11 @@
+{
+ "doc_id": "fbi-photo-b18",
+ "file": "pursue-r1--fbi-photo-b18.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "FBI Photo B18",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is an FBI surveillance photograph containing no descriptions of encounters with craft or entities.",
+ "encounters": []
+}

@@ -1,0 +1,11 @@
+{
+ "doc_id": "nasa-uap-d6-apollo-17-technical-crew-debriefing-1973",
+ "file": "pursue-r1--nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.md",
+ "source": "PURSUE-R1",
+ "agency": "NASA",
+ "title": "NASA-UAP-D6, Apollo 17 Technical Crew Debriefing, 1973",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a NASA technical crew debriefing document for the Apollo 17 mission, which contains no reports of UAP encounters.",
+ "encounters": []
+}

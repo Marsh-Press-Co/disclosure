@@ -1,0 +1,42 @@
+{
+ "doc": "hearing-2024-11-13-house-oversight.md",
+ "leads": [
+  {
+   "page": 22,
+   "lead_type": "craft-custody",
+   "claim": "The U.S. government has conducted secret UAP crash retrieval programs designed to identify and reverse engineer alien craft.",
+   "strength": "strong",
+   "why": "A former government official explicitly confirms the existence of crash retrieval and reverse engineering programs under oath.",
+   "claimant": "Luis Elizondo, former Director of National Programs Special Management Staff",
+   "custody_chain": "U.S. government and private contractors",
+   "government_response": "The witness confirms the existence of these programs under oath.",
+   "outcome_in_document": "asserted-under-oath",
+   "quote": "Were they designed to identify and reverse engineer alien craft? Yes or no? Mr. ELIZONDO. Yes."
+  },
+  {
+   "page": 43,
+   "lead_type": "biological",
+   "claim": "The U.S. government is in possession of nonhuman biological bodies.",
+   "strength": "strong",
+   "why": "The witness provides a direct affirmative response to a specific question regarding the possession of bodies.",
+   "claimant": "Luis Elizondo, former Director of National Programs Special Management Staff",
+   "custody_chain": "U.S. government",
+   "government_response": "The witness confirms the possession of bodies under oath.",
+   "outcome_in_document": "asserted-under-oath",
+   "quote": "But was anything described as that we have possession of bodies? Mr. ELIZONDO. Yes. Yes, sir."
+  },
+  {
+   "page": 43,
+   "lead_type": "biological",
+   "claim": "Biologics have been recovered in relation to UAP phenomena.",
+   "strength": "moderate",
+   "why": "The witness confirms awareness of reporting regarding the recovery of biologics, though he notes his own focus was on physical craft.",
+   "claimant": "Luis Elizondo, former Director of National Programs Special Management Staff",
+   "custody_chain": "U.S. government",
+   "government_response": "The witness acknowledges the reporting of recovered biologics.",
+   "outcome_in_document": "asserted-under-oath",
+   "quote": "I am, sir, aware of the reporting that biologics have been recovered."
+  }
+ ],
+ "doc_verdict": "This document contains sworn testimony from a former government official asserting that the U.S. government has conducted secret programs to recover and reverse engineer UAP craft and possesses nonhuman biological bodies."
+}

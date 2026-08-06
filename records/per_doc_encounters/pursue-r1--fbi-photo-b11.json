@@ -1,0 +1,11 @@
+{
+ "doc_id": "fbi-photo-b11",
+ "file": "pursue-r1--fbi-photo-b11.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "FBI Photo B11",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI infrared sensor photograph showing a distant object in the sky, containing no reports of close encounters, entities, or physical traces.",
+ "encounters": []
+}

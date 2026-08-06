@@ -1,0 +1,11 @@
+{
+ "doc_id": "fbi-photo-b2",
+ "file": "pursue-r1--fbi-photo-b2.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "FBI Photo B2",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is an FBI photographic record containing a distant image of an unidentified object, but no specific encounter details such as entities or close-range interaction are present.",
+ "encounters": []
+}

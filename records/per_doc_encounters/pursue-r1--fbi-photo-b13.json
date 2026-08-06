@@ -1,0 +1,11 @@
+{
+ "doc_id": "fbi-photo-b13",
+ "file": "pursue-r1--fbi-photo-b13.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "FBI Photo B13",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a single-page FBI photographic record containing a surveillance image of an unidentified object, but it does not contain any reports of close encounters, entities, or contact.",
+ "encounters": []
+}

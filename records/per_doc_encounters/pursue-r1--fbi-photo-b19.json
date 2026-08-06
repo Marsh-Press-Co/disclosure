@@ -1,0 +1,11 @@
+{
+ "doc_id": "fbi-photo-b19",
+ "file": "pursue-r1--fbi-photo-b19.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "FBI Photo B19",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI photographic record containing only sensor imagery of an unidentified object without any reported occupant or contact details.",
+ "encounters": []
+}

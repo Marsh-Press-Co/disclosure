@@ -1,0 +1,11 @@
+{
+ "doc_id": "fbi-photo-b9",
+ "file": "pursue-r1--fbi-photo-b9.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "FBI Photo B9",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a declassified FBI photograph of a grainy infrared-style video frame, which contains no reported encounters.",
+ "encounters": []
+}

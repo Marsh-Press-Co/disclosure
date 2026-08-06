@@ -1,0 +1,17 @@
+{
+ "doc": "pursue-r1--059uap00013.md",
+ "leads": [
+  {
+   "page": 6,
+   "lead_type": "biological",
+   "claim": "Mexican journalist Jaime Maussan presented alleged non-human remains to the Mexican Congress.",
+   "strength": "noise",
+   "why": "The document is merely reporting on a public event involving a journalist's claims; it does not suggest U.S. government involvement, custody, or analysis of the material.",
+   "claimant": "Jaime Maussan",
+   "material_description": "mummified humanoid-like figure",
+   "outcome_in_document": "unknown",
+   "quote": "Jaime Maussan presented the alleged remains of non-human beings to Congress."
+  }
+ ],
+ "doc_verdict": "The document contains no information suggesting the U.S. government or its contractors obtained, held, or analyzed any UAP-related material."
+}

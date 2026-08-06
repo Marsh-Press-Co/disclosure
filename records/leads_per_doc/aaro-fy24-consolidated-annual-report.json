@@ -1,0 +1,28 @@
+{
+ "doc": "aaro-fy24-consolidated-annual-report.md",
+ "leads": [
+  {
+   "page": 13,
+   "lead_type": "analysis-of-material",
+   "claim": "Oak Ridge National Laboratory analyzed a material that was claimed to be from a UAP.",
+   "strength": "moderate",
+   "why": "The document confirms a specific laboratory analyzed a material alleged to be of UAP origin, though it does not provide the results or the nature of the material.",
+   "claimant": "Unspecified",
+   "material_description": "Material claimed to be from a UAP",
+   "outcome_in_document": "unresolved",
+   "quote": "Oak Ridge National Laboratory (ORNL) provided analysis for a material claimed to be from a UAP."
+  },
+  {
+   "page": 16,
+   "lead_type": "biological",
+   "claim": "Interviewees alleged that the KONA BLUE program was a DHS compartment used to cover up the retrieval and exploitation of non-human biologics.",
+   "strength": "moderate",
+   "why": "The document explicitly mentions allegations of non-human biologics retrieval associated with a specific program, though it frames these as claims brought to AARO by interviewees.",
+   "claimant": "Interviewees",
+   "material_description": "non-human biologics",
+   "outcome_in_document": "unresolved",
+   "quote": "cover up the retrieval and exploitation of “non-human biologics.”"
+  }
+ ],
+ "doc_verdict": "The document contains reports of claims regarding the existence of non-human biologics and UAP-related material analysis, but it explicitly states that AARO possesses no data to indicate the actual capture or exploitation of UAP."
+}

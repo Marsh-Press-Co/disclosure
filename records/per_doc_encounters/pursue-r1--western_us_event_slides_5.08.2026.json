@@ -1,0 +1,57 @@
+{
+ "doc_id": "western_us_event_slides_5.08.2026",
+ "file": "pursue-r1--western_us_event_slides_5.08.2026.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "Western US Event",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of slides detailing UAP sightings by federal law enforcement agents in the Western U.S., and it contains multiple close-approach encounter reports.",
+ "encounters": [
+  {
+   "summary": "Federal agents observed a glowing orange orb hovering near a rock pinnacle, appearing to have a spindle connecting it to the rock.",
+   "encounter_type": "close-approach",
+   "claimant_type": "federal-le",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "United States",
+   "location_name": "Western U.S.",
+   "page_refs": [
+    2
+   ],
+   "quote": "did almost appear it might have had a small spindle or something connecting it from underneath to the rock formation"
+  },
+  {
+   "summary": "Federal agents pursued an object resembling a dark kite with two lights that moved laterally over the desert with zero resistance.",
+   "encounter_type": "close-approach",
+   "claimant_type": "federal-le",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "United States",
+   "location_name": "Western U.S.",
+   "page_refs": [
+    3
+   ],
+   "quote": "it almost looked like an ill defined, dark kite shape that had some rounded width to the sides"
+  },
+  {
+   "summary": "Federal agents observed a transparent, kite-shaped object floating near the ground; a spotlight beam appeared to be blocked by an invisible barrier.",
+   "encounter_type": "close-approach",
+   "claimant_type": "federal-le",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "United States",
+   "location_name": "Western U.S.",
+   "page_refs": [
+    4
+   ],
+   "quote": "at one point my beam went from shining far into the distance to stopping about 50 yards away on nothing in particular"
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "doc_id": "pursue-r1-record-index",
+ "file": "pursue-r1--record-index.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "PURSUE Release 1 - official record index (all 161 records: documents, videos, images)",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an official index of 161 records released by the Department of War, containing numerous reports of UAP encounters by military and government personnel.",
+ "encounters": [
+  {
+   "summary": "A U.S. military operator reported observing a solid white object making erratic movements above the water in the Persian Gulf.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "physical_effects": [
+    "erratic movement"
+   ],
+   "quote": "solid white object [fly] through the [field-of-view]"
+  },
+  {
+   "summary": "A U.S. military operator reported observing a formation of unknown flying objects traveling along the coast of the Persian Gulf.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "quote": "formation of unknown flying objects"
+  },
+  {
+   "summary": "A U.S. military operator reported observing a round, cold object over the Gulf of Aden, making abrupt directional changes.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "quote": "round, cold object"
+  },
+  {
+   "summary": "A U.S. military operator reported observing two balloon-shaped, metallic, reflective objects, with one circling the other.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "quote": "balloon-shaped"
+  },
+  {
+   "summary": "Seven federal government employees reported observing orbs launching other orbs, a large stationary glowing orb, and a translucent kite-like phenomenon in the western United States.",
+   "encounter_type": "close-approach",
+   "claimant_type": "government-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "quote": "orbs launching other orbs"
+  },
+  {
+   "summary": "Eyewitnesses reported an ellipsoid bronze metallic object materializing out of a bright light, 130-195 feet in length.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "quote": "ellipsoid bronze metallic object"
+  },
+  {
+   "summary": "A U.S. military operator reported observing a diamond-shaped UAP with a non-maneuvering probe at the bottom over the Mediterranean Sea.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "quote": "diamond-shaped, with a non-maneuvering probe"
+  },
+  {
+   "summary": "A senior U.S. intelligence official reported finding a super-hot orb hovering over the ground after a helicopter search, followed by a swarm of lights and multiple orbs flaring.",
+   "encounter_type": "close-approach",
+   "claimant_type": "government-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "quote": "super-hot orb hovering over the ground"
+  }
+ ]
+}

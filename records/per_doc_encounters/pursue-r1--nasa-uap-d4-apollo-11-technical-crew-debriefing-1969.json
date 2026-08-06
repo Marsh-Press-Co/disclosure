@@ -1,0 +1,49 @@
+{
+ "doc_id": "nasa-uap-d4-apollo-11-technical-crew-debriefing-1969",
+ "file": "pursue-r1--nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.md",
+ "source": "PURSUE-R1",
+ "agency": "NASA",
+ "title": "NASA-UAP-D4, Apollo 11 Technical Crew Debriefing, 1969",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a technical crew debriefing transcript for the Apollo 11 mission containing reports of unidentified visual phenomena and cabin light flashes.",
+ "encounters": [
+  {
+   "summary": "Apollo 11 crew observed an unidentified object while in translunar flight, initially mistaking it for the S-IVB stage. The object appeared to have an L-shape or hollow cylinder structure and was seen tumbling.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "date": "1969-07",
+   "date_precision": "month",
+   "location_name": "Translunar space",
+   "page_refs": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "quote": "It was a hollow cylinder. But then you could change the focus on the sextant and it would be replaced by this open-book shape."
+  },
+  {
+   "summary": "Astronauts observed unexplained light flashes inside the spacecraft cabin during sleep periods, which they speculated might be atomic particles or radiation penetration.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "date": "1969-07",
+   "date_precision": "month",
+   "location_name": "Apollo 11 spacecraft",
+   "page_refs": [
+    6,
+    7,
+    8
+   ],
+   "quote": "It did give you a rather funny feeling to contemplate that something was zapping through the cabin."
+  }
+ ]
+}

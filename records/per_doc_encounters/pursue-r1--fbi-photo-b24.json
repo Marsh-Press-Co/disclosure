@@ -1,0 +1,11 @@
+{
+ "doc_id": "fbi-photo-b24",
+ "file": "pursue-r1--fbi-photo-b24.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "FBI Photo B24",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is an FBI photo document containing only a grainy surveillance image and redacted metadata, with no reported encounters.",
+ "encounters": []
+}

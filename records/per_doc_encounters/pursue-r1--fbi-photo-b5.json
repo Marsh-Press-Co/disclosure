@@ -1,0 +1,11 @@
+{
+ "doc_id": "fbi-photo-b5",
+ "file": "pursue-r1--fbi-photo-b5.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "FBI Photo B5",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI photographic record containing no identifiable encounter reports.",
+ "encounters": []
+}

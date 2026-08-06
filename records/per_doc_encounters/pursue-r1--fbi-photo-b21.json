@@ -1,0 +1,11 @@
+{
+ "doc_id": "fbi-photo-b21",
+ "file": "pursue-r1--fbi-photo-b21.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "FBI Photo B21",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is an FBI photo document containing a single grainy image of an unidentified object, but no specific encounter details or occupant reports are present.",
+ "encounters": []
+}

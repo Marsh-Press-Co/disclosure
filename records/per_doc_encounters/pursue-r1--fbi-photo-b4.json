@@ -1,0 +1,11 @@
+{
+ "doc_id": "fbi-photo-b4",
+ "file": "pursue-r1--fbi-photo-b4.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "FBI Photo B4",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a single-page FBI photograph document containing no descriptions of encounters with craft or entities.",
+ "encounters": []
+}

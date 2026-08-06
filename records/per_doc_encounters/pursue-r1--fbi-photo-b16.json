@@ -1,0 +1,11 @@
+{
+ "doc_id": "fbi-photo-b16",
+ "file": "pursue-r1--fbi-photo-b16.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "FBI Photo B16",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI photograph containing sensor data and redactions, but it does not contain any reports of encounters with entities or craft.",
+ "encounters": []
+}

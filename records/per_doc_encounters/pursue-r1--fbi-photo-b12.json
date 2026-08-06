@@ -1,0 +1,11 @@
+{
+ "doc_id": "fbi-photo-b12",
+ "file": "pursue-r1--fbi-photo-b12.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "FBI Photo B12",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a declassified FBI sensor photograph showing a distant anomalous object, but it contains no reports of close encounters, entities, or contact.",
+ "encounters": []
+}

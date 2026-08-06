@@ -1,0 +1,56 @@
+{
+ "doc_id": "nasa-uap-d2-apollo-17-transcript-1972",
+ "file": "pursue-r1--nasa-uap-d2-apollo-17-transcript-1972.md",
+ "source": "PURSUE-R1",
+ "agency": "NASA",
+ "title": "NASA-UAP-D2, Apollo 17 Transcript, 1972",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a NASA Apollo 17 mission transcript containing reports of unidentified flashing objects in space and on the lunar surface.",
+ "encounters": [
+  {
+   "summary": "Astronauts observed unidentified bright, flashing objects in space while maneuvering, initially speculating they were debris or S-IVB fragments.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1972",
+   "date_precision": "year",
+   "entity_appearance": "Bright, jagged, angular fragments or objects; some flashing rhythmically.",
+   "entity_behavior": "Tumbling, drifting, or moving in a rhythmic flashing pattern.",
+   "location_name": "Space (Apollo 17 mission)",
+   "page_refs": [
+    1,
+    2,
+    3,
+    7,
+    8,
+    9,
+    11
+   ],
+   "quote": "It is a bright object, and it's obviously rotating because it's flashing."
+  },
+  {
+   "summary": "Astronaut observed a bright flash on the lunar surface near the Grimaldi crater.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "Moon",
+   "date": "1972",
+   "date_precision": "year",
+   "entity_appearance": "Bright little flash and thin streak of light.",
+   "entity_behavior": "Stationary flash on lunar surface.",
+   "location_name": "Lunar surface, north of Grimaldi",
+   "page_refs": [
+    16
+   ],
+   "quote": "Hey, I just saw a flash on the lunar surface!"
+  }
+ ]
+}

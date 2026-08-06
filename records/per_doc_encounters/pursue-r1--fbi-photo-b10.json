@@ -1,0 +1,11 @@
+{
+ "doc_id": "fbi-photo-b10",
+ "file": "pursue-r1--fbi-photo-b10.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "FBI Photo B10",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI photographic record containing only a sensor still of an unidentified object at a distance, with no reported encounters.",
+ "encounters": []
+}

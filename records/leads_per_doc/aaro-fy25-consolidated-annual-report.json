@@ -1,0 +1,18 @@
+{
+ "doc": "aaro-fy25-consolidated-annual-report.md",
+ "leads": [
+  {
+   "page": 10,
+   "lead_type": "program-custody-language",
+   "claim": "The USG has never captured or exploited UAP-derived materials.",
+   "strength": "strong",
+   "why": "The document explicitly addresses the existence of UAP-derived materials and denies their capture or exploitation by any USG or private entity.",
+   "claimant": "AARO",
+   "custody_chain": "None",
+   "government_response": "AARO states no evidence exists for such capture or exploitation.",
+   "outcome_in_document": "denied-by-government",
+   "quote": "To date, no evidence suggests that a USG or private entity has ever captured or exploited UAP-derived materials."
+  }
+ ],
+ "doc_verdict": "The document explicitly denies the existence of any captured or exploited UAP-derived materials in the possession of the USG or private entities."
+}

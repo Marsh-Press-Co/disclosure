@@ -1,0 +1,25 @@
+{
+ "doc_id": "serial_5_redacted_redacted",
+ "file": "pursue-r1--serial_5_redacted_redacted.md",
+ "source": "PURSUE-R1",
+ "agency": "",
+ "title": "serial_5_redacted_redacted",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is an FBI FD-302 interview record regarding a UAP sighting, containing minimal encounter information due to extensive redactions.",
+ "encounters": [
+  {
+   "summary": "The claimant observed a light in the sky that they initially suspected might be a meteor heading toward them.",
+   "encounter_type": "close-approach",
+   "claimant_type": "unknown",
+   "document_stance": "recorded-no-comment",
+   "confidence": "low",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "page_refs": [
+    2
+   ],
+   "quote": "thought the light might have been a meteor"
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "doc_id": "fbi-photo-b7",
+ "file": "pursue-r1--fbi-photo-b7.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "FBI Photo B7",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is an FBI photographic record containing a single video frame of a helicopter, with no reported encounters.",
+ "encounters": []
+}

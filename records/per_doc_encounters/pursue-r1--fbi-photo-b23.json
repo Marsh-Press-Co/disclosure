@@ -1,0 +1,11 @@
+{
+ "doc_id": "fbi-photo-b23",
+ "file": "pursue-r1--fbi-photo-b23.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "FBI Photo B23",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI sensor image containing no reports of encounters with entities or craft beyond a distant, unidentified object.",
+ "encounters": []
+}

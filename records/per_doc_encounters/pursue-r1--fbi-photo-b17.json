@@ -1,0 +1,11 @@
+{
+ "doc_id": "fbi-photo-b17",
+ "file": "pursue-r1--fbi-photo-b17.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "FBI Photo B17",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is an FBI photographic record containing no reported encounters with entities or craft.",
+ "encounters": []
+}

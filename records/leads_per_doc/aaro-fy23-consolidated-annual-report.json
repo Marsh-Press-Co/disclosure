@@ -1,0 +1,15 @@
+{
+ "doc": "aaro-fy23-consolidated-annual-report.md",
+ "leads": [
+  {
+   "page": 15,
+   "lead_type": "program-custody-language",
+   "claim": "The document defines UAP material as samples, in whole or in part, of UAP objects, such as debris.",
+   "strength": "weak",
+   "why": "The document provides a formal definition of UAP material for administrative purposes, but does not claim that such material has been recovered or is in custody.",
+   "outcome_in_document": "unresolved",
+   "quote": "UAP material are samples, in whole or in part, of UAP objects (e.g., debris)."
+  }
+ ],
+ "doc_verdict": "The document provides administrative definitions for UAP material and data but does not contain any evidence or claims that the government or its contractors have actually obtained or held such material."
+}

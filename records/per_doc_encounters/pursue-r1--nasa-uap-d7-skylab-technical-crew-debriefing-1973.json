@@ -1,0 +1,11 @@
+{
+ "doc_id": "nasa-uap-d7-skylab-technical-crew-debriefing-1973",
+ "file": "pursue-r1--nasa-uap-d7-skylab-technical-crew-debriefing-1973.md",
+ "source": "PURSUE-R1",
+ "agency": "NASA",
+ "title": "NASA-UAP-D7, Skylab Techincal Crew Debriefing 1973",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a series of NASA Skylab technical crew debriefings containing reports of orbital visual phenomena, such as light flashes and unidentified satellites, which the crews attributed to known space debris or cosmic particles.",
+ "encounters": []
+}

@@ -1,0 +1,33 @@
+{
+ "doc_id": "serial-3_redacted",
+ "file": "pursue-r1--serial-3_redacted.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "FBI September 2023 Sighting - Serial 4",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is an FBI FD-302 interview report documenting a UAP sighting; encounter content is present.",
+ "encounters": [
+  {
+   "summary": "Witness observed a silent, cigar-shaped, metallic bronze object with an intense diamond-white light hovering and moving slowly near a restricted test site.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "United States",
+   "date": "September 2023",
+   "date_precision": "month",
+   "location_name": "Restricted test site",
+   "page_refs": [
+    1,
+    2
+   ],
+   "physical_effects": [
+    "gate malfunction"
+   ],
+   "quote": "cigar shaped object with an extremely bright light"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "doc": "aaro-historical-record-report-vol1.md",
+ "leads": [
+  {
+   "page": 20,
+   "lead_type": "analysis-of-material",
+   "claim": "A radio broadcaster claimed that a piece of a UFO was recovered near Washington, D.C. in 1952 and that the USG loaned fragments of a recovered UFO to the Canadian government.",
+   "strength": "moderate",
+   "why": "The document identifies specific claims of physical material recovery and transfer, though it concludes the claims are likely false.",
+   "claimant": "Frank Edwards (radio broadcaster)",
+   "material_description": "Fragments of a UFO",
+   "outcome_in_document": "judged-hoax",
+   "quote": "Edwards also made the claim in 1966 that the USG had loaned the Canadian government fragments of a UFO it had allegedly recovered."
+  },
+  {
+   "page": 28,
+   "lead_type": "craft-custody",
+   "claim": "An interviewee claimed that an organization was in possession of 12 spacecraft recovered from different crash events prior to 1970.",
+   "strength": "moderate",
+   "why": "The claim involves a specific number of craft and a custody assertion, though it is presented as a thirdhand account.",
+   "claimant": "Unnamed interviewee",
+   "material_description": "12 spacecraft",
+   "outcome_in_document": "unresolved",
+   "quote": "An AARO interviewee claimed in a thirdhand account that an organization was in possession of 12 spacecraft recovered from different crash events prior to 1970."
+  },
+  {
+   "page": 34,
+   "lead_type": "program-custody-language",
+   "claim": "Interviewees claimed that the KONA BLUE program was a sensitive DHS compartment used to cover up the retrieval and exploitation of non-human biologics.",
+   "strength": "moderate",
+   "why": "The document explicitly discusses the existence of the KONA BLUE proposal and the specific allegations regarding its purpose, while denying the material exists.",
+   "claimant": "Unnamed interviewees",
+   "material_description": "Non-human biologics",
+   "outcome_in_document": "denied-by-government",
+   "quote": "KONA BLUE was brought to AARO’s attention by interviewees who claimed that it was a sensitive DHS compartment to cover up the retrieval and exploitation of non-human biologics."
+  }
+ ],
+ "doc_verdict": "The document explicitly denies the existence of any recovered extraterrestrial material or reverse-engineering programs, characterizing all such claims as based on misinterpretations, hoaxes, or circular reporting."
+}
