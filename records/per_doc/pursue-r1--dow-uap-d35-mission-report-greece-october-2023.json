@@ -1,0 +1,44 @@
+{
+ "doc_id": "dow-uap-d35-mission-report-greece-october-2023",
+ "file": "pursue-r1--dow-uap-d35-mission-report-greece-october-2023.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-PR35, Unresolved UAP Report, Greece, October 2023",
+ "record_type": "report",
+ "index_date": "2023-06-15",
+ "index_location": "Greece",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a declassified USCENTCOM mission report (MISREP 9337873) detailing an ISR mission and a specific UAP sighting, heavily redacted under 1.4(a) and other authorities.",
+ "incidents": [
+  {
+   "summary": "An unidentified aerial phenomenon was observed flying just above the ocean surface towards land before being lost from the sensor feed.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "flying straight above the ocean towards land"
+   ],
+   "country": "unknown",
+   "date": "2023-10-29",
+   "explanation_status": "unexplained",
+   "object_count": "1",
+   "page_refs": [
+    1,
+    6,
+    7
+   ],
+   "quote": "SPOTTED A UAP FLYING JUST ABOVE THE SURFACE OF THE OCEAN WATER. THE UAP FLEW STRAIGHT ABOVE THE OCEAN TOWARDS LANDS.",
+   "recording_agency": "USCENTCOM",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular",
+   "size": "small",
+   "time_local": "0811Z",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

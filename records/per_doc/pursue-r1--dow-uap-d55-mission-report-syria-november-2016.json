@@ -1,0 +1,43 @@
+{
+ "doc_id": "dow-uap-d55-mission-report-syria-november-2016",
+ "file": "pursue-r1--dow-uap-d55-mission-report-syria-november-2016.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D55, Mission Report, Syria, November 2016",
+ "record_type": "mission_report",
+ "index_date": "2016-11-18",
+ "index_location": "Syria",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a declassified mission report from USCENTCOM detailing a P-8A sensor observation of an unidentified object near Latakia, Syria, in November 2016.",
+ "incidents": [
+  {
+   "summary": "P-8A aircraft observed an unidentified low-flying object via EO/IR sensor traveling at 500 knots in sea skim mode.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "sea skim mode",
+    "traveling at 500 knots",
+    "southeasterly heading"
+   ],
+   "country": "Syria",
+   "date": "2016-11-18",
+   "duration": "2 minutes",
+   "explanation_status": "unexplained",
+   "location_name": "55 nm northwest of Latakia, Syria",
+   "page_refs": [
+    1
+   ],
+   "quote": "The possible missile appeared to be in sea skim mode traveling at approximately 500KTS",
+   "recording_agency": "USCENTCOM",
+   "sensors": [
+    "ir"
+   ],
+   "time_local": "1310Z",
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

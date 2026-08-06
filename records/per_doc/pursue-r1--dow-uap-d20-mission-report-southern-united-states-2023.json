@@ -1,0 +1,45 @@
+{
+ "doc_id": "dow-uap-d20-mission-report-southern-united-states-2023",
+ "file": "pursue-r1--dow-uap-d20-mission-report-southern-united-states-2023.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D20, Mission Report, Iraq, 2023",
+ "record_type": "mission_report",
+ "index_date": "2023-03-31",
+ "index_location": "Iraq",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a declassified Mission Report (MISREP) from the 77th Expeditionary Fighter Squadron detailing a UAP encounter in Iraqi airspace on March 31, 2023.",
+ "incidents": [
+  {
+   "summary": "F-16 flight observed multiple bright objects maneuvering quickly west to east, tracked by targeting pod for 20 seconds before they dimmed and disappeared.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "maneuvering quickly",
+    "dimmed and disappeared"
+   ],
+   "color": "bright",
+   "country": "Iraq",
+   "date": "2023-03-31",
+   "duration": "20 seconds",
+   "explanation_status": "unexplained",
+   "location_name": "NE of RLZ",
+   "object_count": "10-20",
+   "page_refs": [
+    1,
+    6
+   ],
+   "quote": "observed several bright objects manuevering quickly west to east",
+   "recording_agency": "77 EFS",
+   "sensors": [
+    "visual",
+    "video"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

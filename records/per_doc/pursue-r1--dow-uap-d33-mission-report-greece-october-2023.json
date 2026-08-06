@@ -1,0 +1,46 @@
+{
+ "doc_id": "dow-uap-d33-mission-report-greece-october-2023",
+ "file": "pursue-r1--dow-uap-d33-mission-report-greece-october-2023.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-PR34, Unresolved UAP Report, Greece, October 2023",
+ "record_type": "report",
+ "index_date": "2023-06-15",
+ "index_location": "Greece",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a declassified USCENTCOM mission report (MISREP 9329374) detailing an ISR mission that encountered a UAP, heavily redacted under 1.4(a) and other exemptions.",
+ "incidents": [
+  {
+   "summary": "A UAP was observed flying just above the ocean surface, performing multiple 90-degree turns at approximately 80 mph before being lost from the sensor feed.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "90-degree turns",
+    "flying above ocean surface"
+   ],
+   "country": "unknown",
+   "date": "2023-10-27",
+   "duration": "3 minutes",
+   "explanation_status": "unexplained",
+   "location_name": "35S KD 95/53",
+   "page_refs": [
+    1,
+    6,
+    7
+   ],
+   "quote": "THE UAP TOOK MULTIPLE 90 DEGREE TURNS AT AN ESTIMATED 80 MPH.",
+   "recording_agency": "USCENTCOM",
+   "sensors": [
+    "visual",
+    "other"
+   ],
+   "shape": "seemingly circular",
+   "time_local": "0035Z",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

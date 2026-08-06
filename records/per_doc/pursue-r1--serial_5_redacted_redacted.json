@@ -1,0 +1,34 @@
+{
+ "doc_id": "serial_5_redacted_redacted",
+ "file": "pursue-r1--serial_5_redacted_redacted.md",
+ "source": "PURSUE-R1",
+ "agency": "",
+ "title": "serial_5_redacted_redacted",
+ "record_type": "other",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI FD-302 interview record from September 2023 regarding a UAP sighting, heavily redacted.",
+ "incidents": [
+  {
+   "summary": "Witness observed a light that they initially suspected might be a meteor moving directly toward them.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "explanation": "Witness speculated it might be a meteor burning up in the atmosphere.",
+   "explanation_status": "partially-explained",
+   "page_refs": [
+    2
+   ],
+   "quote": "thought the light might have been a meteor coming straight toward them",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "unknown"
+   ]
+  }
+ ]
+}

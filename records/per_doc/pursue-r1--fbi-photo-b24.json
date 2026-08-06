@@ -1,0 +1,42 @@
+{
+ "doc_id": "fbi-photo-b24",
+ "file": "pursue-r1--fbi-photo-b24.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "FBI Photo B24",
+ "record_type": "photo",
+ "index_date": "2025-12-15",
+ "index_location": "Western United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI submission to AARO containing a single IR still image of a UAP, noting that the timestamp on the image itself is incorrect.",
+ "incidents": [
+  {
+   "summary": "A grainy monochrome IR image of a single dark, irregular-shaped object captured by a U.S. military system.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [],
+   "color": "dark",
+   "country": "United States",
+   "date": "2025-12-15",
+   "explanation_status": "unexplained",
+   "location_name": "Western United States",
+   "object_count": "1",
+   "page_refs": [
+    1
+   ],
+   "quote": "A single dark, irregular-shaped object is visible just above the center of the reticle.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "irregular",
+   "time_local": "18:19:40",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

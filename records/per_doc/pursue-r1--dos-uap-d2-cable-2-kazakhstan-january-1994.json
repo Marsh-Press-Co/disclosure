@@ -1,0 +1,52 @@
+{
+ "doc_id": "dos-uap-d2-cable-2-kazakhstan-january-1994",
+ "file": "pursue-r1--dos-uap-d2-cable-2-kazakhstan-january-1994.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of State",
+ "title": "State Department UAP Cable 2, Kazakhstan, January 31, 1994",
+ "record_type": "cable",
+ "index_date": "1994-01-27",
+ "index_location": "Kazakhstan",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a diplomatic cable from the U.S. Embassy in Dushanbe reporting a pilot encounter with an unidentified aerial object over Kazakhstan.",
+ "incidents": [
+  {
+   "summary": "Three American pilots and one Tajik pilot flying a Boeing 747SP over Kazakhstan observed a high-altitude object performing extreme maneuvers.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "maneuvered in circles",
+    "corkscrews",
+    "90-degree turns",
+    "high-speed course"
+   ],
+   "color": "bright light of enormous intensity",
+   "country": "Kazakhstan",
+   "date": "1994-01-27",
+   "duration": "40 minutes",
+   "explanation": "The crew rejected the possibility of a meteor, suggesting it was extraterrestrial and under intelligent control.",
+   "explanation_status": "unexplained",
+   "location_name": "Lat 45 North and Long 55 East",
+   "object_count": "1",
+   "page_refs": [
+    1,
+    2,
+    3
+   ],
+   "quote": "resembling a high-speed photo of a bullet in flight",
+   "recording_agency": "Department of State",
+   "sensors": [
+    "visual",
+    "photo"
+   ],
+   "shape": "bullet",
+   "size": "small object with large trailing wave",
+   "witness_count": "4",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

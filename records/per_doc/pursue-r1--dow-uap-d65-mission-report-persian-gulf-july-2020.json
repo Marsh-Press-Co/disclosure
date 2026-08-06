@@ -1,0 +1,81 @@
+{
+ "doc_id": "dow-uap-d65-mission-report-persian-gulf-july-2020",
+ "file": "pursue-r1--dow-uap-d65-mission-report-persian-gulf-july-2020.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D65, Mission Report, Persian Gulf, July 2020",
+ "record_type": "mission_report",
+ "index_date": "2020-07-16",
+ "index_location": "Persian Gulf",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a declassified U.S. military Mission Report (MISREP) detailing UAP sightings in the Persian Gulf region on July 16, 2020, characterized by significant redactions under 1.4(a) and other authorities.",
+ "incidents": [
+  {
+   "summary": "UAP observed by military aircraft via FMV sensor.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "date": "2020-07-16",
+   "explanation_status": "not-assessed",
+   "location_name": "Persian Gulf",
+   "page_refs": [
+    1,
+    6
+   ],
+   "quote": "AT 1830Z, [REDACTED — 1.4(a)] OBSERVED AN UNIDENTIFIED AERIAL PHENOMENON.",
+   "recording_agency": "USCENTCOM",
+   "sensors": [
+    "video"
+   ],
+   "time_local": "1830Z",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "UAP observed by military aircraft via FMV sensor.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "date": "2020-07-16",
+   "explanation_status": "not-assessed",
+   "location_name": "Persian Gulf",
+   "page_refs": [
+    1,
+    6
+   ],
+   "quote": "AT 1920Z, [REDACTED — 1.4(a)] OBSERVED AN UNIDENTIFIED AERIAL PHENOMENON.",
+   "recording_agency": "USCENTCOM",
+   "sensors": [
+    "video"
+   ],
+   "time_local": "1920Z",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "UAP observed by military aircraft via FMV sensor.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "date": "2020-07-16",
+   "explanation_status": "not-assessed",
+   "location_name": "Persian Gulf",
+   "page_refs": [
+    1,
+    7
+   ],
+   "quote": "AT 2345Z [REDACTED — 1.4(a)] OBSERVED AN UNIDENTIFIED AERIAL PHENOMENON",
+   "recording_agency": "USCENTCOM",
+   "sensors": [
+    "video"
+   ],
+   "time_local": "2345Z",
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

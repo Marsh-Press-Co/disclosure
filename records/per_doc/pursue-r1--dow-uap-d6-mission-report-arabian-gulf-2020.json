@@ -1,0 +1,45 @@
+{
+ "doc_id": "dow-uap-d6-mission-report-arabian-gulf-2020",
+ "file": "pursue-r1--dow-uap-d6-mission-report-arabian-gulf-2020.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D6, Mission Report, Arabian Gulf, 2020",
+ "record_type": "mission_report",
+ "index_date": "2020-06-15",
+ "index_location": "Arabian Gulf",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a heavily redacted Mission Report (MISREP) from the Department of War regarding a UAP sighting in the Arabian Gulf.",
+ "incidents": [
+  {
+   "summary": "U.S. military operator observed a probable UAP in the vicinity of grid 3SKT4255899519.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [],
+   "color": "",
+   "country": "",
+   "date": "2020-06-15",
+   "duration": "",
+   "explanation": "",
+   "explanation_status": "not-assessed",
+   "location_name": "3SKT4255899519",
+   "object_count": "1",
+   "page_refs": [
+    7
+   ],
+   "quote": "OBSERVED 1X PROB UAP IVO 3SKT4255899519",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "",
+   "size": "",
+   "time_local": "1246Z",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,790 @@
+{
+ "doc_id": "dow-uap-d48-report-september-1996",
+ "file": "pursue-r1--dow-uap-d48-report-september-1996.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D48, Department of the Air Force Report, 1996",
+ "record_type": "report",
+ "index_date": "1996-09-10",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 3,
+ "doc_notes": "This document is a technical report from the Research Triangle Institute to the U.S. Air Force regarding the modeling of space-booster failure responses for risk calculations, containing historical failure narratives in the appendices. / This document is a technical report from the Department of the Air Force (RTI) dated September 1996, detailing launch failure modes and performance histories for Atlas, Delta, Titan, and Thor vehicles. / This report documents historical launch failure modes for Atlas, Delta, and Titan launch vehicles, providing detailed narratives for anomalies and failures between 1957 and 1996.",
+ "incidents": [
+  {
+   "summary": "Atlas 8E launch failure resulting in loss of stability and impact 1316 miles downrange and 215 miles crossrange.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "loss of stability",
+    "sustained turn"
+   ],
+   "date": "1961-01-24",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    12
+   ],
+   "quote": "Missile stability was lost at about 161 seconds",
+   "recording_agency": "RTI"
+  },
+  {
+   "summary": "Titan M-4 launch failure resulting in impact 86 miles short and 14 miles right of target.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "guidance error"
+   ],
+   "date": "1961-10-06",
+   "explanation_status": "explained",
+   "page_refs": [
+    12
+   ],
+   "quote": "A one-bit error in the W velocity accumulation caused impact 86 miles short and 14 miles right of target.",
+   "recording_agency": "RTI"
+  },
+  {
+   "summary": "Atlas 145D launch failure involving erroneous guidance commands and abnormal maneuvers.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "erroneous guidance",
+    "abnormal maneuvers"
+   ],
+   "date": "1962-07-22",
+   "explanation_status": "explained",
+   "page_refs": [
+    12
+   ],
+   "quote": "Due to this and faulty guidance equations, erroneous guidance commands were given based on invalid rate data.",
+   "recording_agency": "RTI"
+  },
+  {
+   "summary": "Atlas SLV-3 launch failure resulting in loss of pitch control and abnormal attitude.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "loss of pitch control",
+    "abnormal attitude"
+   ],
+   "date": "1966-05-17",
+   "explanation_status": "explained",
+   "page_refs": [
+    12
+   ],
+   "quote": "Vehicle became unstable when B2 pitch control was lost at 121 seconds.",
+   "recording_agency": "RTI"
+  },
+  {
+   "summary": "Atlas 95F launch failure resulting in erratic yaw and roll rates and destruct.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "erratic roll and yaw",
+    "destruct"
+   ],
+   "date": "1968-05-03",
+   "explanation_status": "explained",
+   "page_refs": [
+    12,
+    13
+   ],
+   "quote": "Immediately after liftoff the telemetered roll and yaw rates indicated that the missile was erratic.",
+   "recording_agency": "RTI"
+  },
+  {
+   "summary": "Delta Intelsat III launch failure involving undamped pitch oscillations and violent maneuvers.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "undamped pitch oscillations",
+    "violent maneuvers"
+   ],
+   "date": "1968-09-18",
+   "explanation_status": "explained",
+   "page_refs": [
+    13
+   ],
+   "quote": "Due to loss of rate gyro, undamped pitch oscillations began at 20 seconds.",
+   "recording_agency": "RTI"
+  },
+  {
+   "summary": "Delta Pioneer E launch failure involving hydraulic system failure and tumble.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "hydraulic failure",
+    "tumble"
+   ],
+   "date": "1969-08-27",
+   "explanation_status": "explained",
+   "page_refs": [
+    13
+   ],
+   "quote": "First-stage hydraulics system failed a few seconds before first-stage burnout (MECO).",
+   "recording_agency": "RTI"
+  },
+  {
+   "summary": "Atlas 68E launch failure resulting in loss of attitude control and retrofire mode.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "loss of attitude control",
+    "retrofire"
+   ],
+   "date": "1980-12-08",
+   "explanation_status": "explained",
+   "page_refs": [
+    13
+   ],
+   "quote": "As a result, attitude control was lost and the thrusting sustainer pivoted the missile to a retrofire attitude",
+   "recording_agency": "RTI"
+  },
+  {
+   "summary": "Prospector (Joust) launch failure involving radical pitch-up maneuver.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "radical pitch-up"
+   ],
+   "date": "1991-06",
+   "explanation_status": "explained",
+   "page_refs": [
+    15
+   ],
+   "quote": "The vehicle made a radical pitch-up maneuver due to aft-skirt structural failure at approximately T+14 Seconds.",
+   "recording_agency": "RTI"
+  },
+  {
+   "summary": "Red Tigress sounding rocket launch failure involving near 90-degree right turn.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "90-degree right turn"
+   ],
+   "date": "1991-08-20",
+   "explanation_status": "explained",
+   "page_refs": [
+    15
+   ],
+   "quote": "Within a second or two after clearing the launcher, the rocket made a near 90° right turn",
+   "recording_agency": "RTI"
+  },
+  {
+   "summary": "Atlas 4A launch failure due to fuel supply drop to B2 engine, leading to thrust asymmetry and destruction by safety officer.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "thrust asymmetry",
+    "hardover in pitch",
+    "fuel fire"
+   ],
+   "country": "USA",
+   "date": "1957-06-11",
+   "explanation": "Drop in fuel supply to B2 engine.",
+   "explanation_status": "explained",
+   "location_name": "Eastern Range",
+   "page_refs": [
+    124
+   ],
+   "quote": "drop in fuel supply to B2 engine produced a drop in performance and shutdown",
+   "recording_agency": "RTI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "missile",
+   "witness_count": "unknown"
+  },
+  {
+   "summary": "Atlas 6A launch failure due to loss of LOX regulator in booster gas generator.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "performance drop",
+    "engine shutdown"
+   ],
+   "country": "USA",
+   "date": "1957-09-25",
+   "explanation": "Loss of LOX regulator in the booster gas generator.",
+   "explanation_status": "explained",
+   "location_name": "Eastern Range",
+   "page_refs": [
+    124
+   ],
+   "quote": "Loss of thrust was due to loss of LOX regulator in the booster gas generator.",
+   "recording_agency": "RTI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "missile",
+   "witness_count": "unknown"
+  },
+  {
+   "summary": "Atlas 13A launch failure due to B2 turbopump/engine failure and aerodynamic heating.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "propellant sloshing",
+    "missile instability",
+    "breakup"
+   ],
+   "country": "USA",
+   "date": "1958-02-07",
+   "explanation": "B2 turbopump failure and shorting of vernier engine feedback transducer.",
+   "explanation_status": "explained",
+   "location_name": "Eastern Range",
+   "page_refs": [
+    124
+   ],
+   "quote": "Failure was attributed to shorting of a vernier engine feedback transducer due to aerodynamic heating.",
+   "recording_agency": "RTI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "missile",
+   "witness_count": "unknown"
+  },
+  {
+   "summary": "Atlas 11A launch failure due to flight control system component failure.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "divergent oscillations",
+    "hardover"
+   ],
+   "country": "USA",
+   "date": "1958-02-20",
+   "explanation": "Probable component failure in flight control system.",
+   "explanation_status": "explained",
+   "location_name": "Eastern Range",
+   "page_refs": [
+    124
+   ],
+   "quote": "Probable cause of oscillation was a component failure in flight control system.",
+   "recording_agency": "RTI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "missile",
+   "witness_count": "unknown"
+  },
+  {
+   "summary": "Atlas 15A launch failure due to B1 turbopump failure.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "premature shutdown"
+   ],
+   "country": "USA",
+   "date": "1958-04-05",
+   "explanation": "B1 turbopump failure.",
+   "explanation_status": "explained",
+   "location_name": "Eastern Range",
+   "page_refs": [
+    124
+   ],
+   "quote": "Booster engines shut down prematurely at 105.3 seconds due to B1 turbopump failure.",
+   "recording_agency": "RTI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "missile",
+   "witness_count": "unknown"
+  },
+  {
+   "summary": "Atlas booster fuel-pump pressure dropped due to a fuel pre-valve failure, booster lost thrust, fell back on launch pad, and was destroyed.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "lost thrust",
+    "fell back on launch pad",
+    "destroyed"
+   ],
+   "country": "USA",
+   "date": "1965-03-02",
+   "explanation": "fuel pre-valve failure",
+   "explanation_status": "explained",
+   "page_refs": [
+    136
+   ],
+   "quote": "booster lost thrust, fell back on launch pad, and was destroyed",
+   "recording_agency": "Department of War"
+  },
+  {
+   "summary": "Booster gas-generator loop failure resulted in decreasing performance, explosion in thrust section, and vehicle breakup.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "decreasing performance",
+    "explosion",
+    "vehicle breakup"
+   ],
+   "country": "USA",
+   "date": "1965-05-27",
+   "explanation": "failure in the booster gas-generator loop",
+   "explanation_status": "explained",
+   "page_refs": [
+    136
+   ],
+   "quote": "failure in the booster gas-generator loop resulted in decreasing booster performance",
+   "recording_agency": "Department of War"
+  },
+  {
+   "summary": "Circuit board failure caused sustainer shutdown at BECO; Agena ignition created wild uprange movements on IP display.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "sustainer shutdown",
+    "wild uprange movements"
+   ],
+   "country": "USA",
+   "date": "1965-07-12",
+   "explanation": "circuit board failure caused by excessive vibrations",
+   "explanation_status": "explained",
+   "page_refs": [
+    136
+   ],
+   "quote": "creating wild uprange movements on the IP display",
+   "recording_agency": "Department of War"
+  },
+  {
+   "summary": "Agena engine shut down after one second; helium pressurization system continued until tanks burst.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "engine shut down",
+    "tanks burst"
+   ],
+   "country": "USA",
+   "date": "1965-10-25",
+   "explanation": "Agena startup failure",
+   "explanation_status": "explained",
+   "page_refs": [
+    136
+   ],
+   "quote": "Propellants ceased flowing but the helium pressurization system continued to pressurize the propellant tanks until they burst.",
+   "recording_agency": "Department of War"
+  },
+  {
+   "summary": "Missile spiraling due to hydraulic system failure during staging; telemetry indicated rapidly varying pitch, roll, and yaw rates.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "spiraling",
+    "loss of stability",
+    "varying pitch, roll, and yaw rates"
+   ],
+   "country": "USA",
+   "date": "1966-03-04",
+   "explanation": "hydraulic system failure",
+   "explanation_status": "explained",
+   "page_refs": [
+    136
+   ],
+   "quote": "skyscreen operator reported that vehicle was spiraling",
+   "recording_agency": "Department of War"
+  },
+  {
+   "summary": "Reentry vehicle impacted 82 miles beyond target when head suppression valve failed to close at SECO.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "impacted beyond target"
+   ],
+   "country": "USA",
+   "date": "1966-03-19",
+   "explanation": "head suppression valve failed to close",
+   "explanation_status": "explained",
+   "page_refs": [
+    136
+   ],
+   "quote": "reentry vehicle impacted 82 miles beyond the target point",
+   "recording_agency": "Department of War"
+  },
+  {
+   "summary": "Centaur engines started but one could not maintain thrust, resulting in tumbling and fuel starvation.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "tumbling",
+    "fuel starvation"
+   ],
+   "country": "USA",
+   "date": "1966-04-07",
+   "explanation": "thrust imbalance",
+   "explanation_status": "explained",
+   "page_refs": [
+    136,
+    137
+   ],
+   "quote": "Thrust imbalance resulted in tumbling, followed by fuel starvation",
+   "recording_agency": "Department of War"
+  },
+  {
+   "summary": "Sustainer pitch-actuator feedback-loop failed; roll and pitch rates increased; vehicle stability lost.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "roll and pitch rates increased",
+    "stability lost"
+   ],
+   "country": "USA",
+   "date": "1966-05-03",
+   "explanation": "sustainer pitch-actuator feedback-loop failed open",
+   "explanation_status": "explained",
+   "page_refs": [
+    137
+   ],
+   "quote": "sustainer pitch-actuator feedback-loop failed open",
+   "recording_agency": "Department of War"
+  },
+  {
+   "summary": "Vehicle became unstable after loss of pitch control; pitch-down maneuver greater than 90 degrees.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "unstable",
+    "pitch-down maneuver"
+   ],
+   "country": "USA",
+   "date": "1966-05-17",
+   "explanation": "B2 pitch control was lost",
+   "explanation_status": "explained",
+   "page_refs": [
+    137
+   ],
+   "quote": "Vehicle became unstable when B2 pitch control was lost",
+   "recording_agency": "Department of War"
+  },
+  {
+   "summary": "Reentry vehicle undershot target by 20 miles due to vernier engine shutdown caused by helium pressure decay.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "undershot target"
+   ],
+   "country": "USA",
+   "date": "1966-06-10",
+   "explanation": "abnormal decay of control-bottle helium pressure",
+   "explanation_status": "explained",
+   "page_refs": [
+    137
+   ],
+   "quote": "reentry vehicle undershot the target by 20 miles",
+   "recording_agency": "Department of War"
+  },
+  {
+   "summary": "Missile appeared to lose thrust and breakup; major pieces impacted 32 to 40 miles downrange.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "lose thrust",
+    "breakup"
+   ],
+   "country": "USA",
+   "date": "1966-10-11",
+   "explanation": "unknown",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    137
+   ],
+   "quote": "appeared to lose thrust and breakup",
+   "recording_agency": "Department of War"
+  },
+  {
+   "summary": "Diverging roll oscillations, tumbling, and breakup of vehicle.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "tumbling",
+    "breakup"
+   ],
+   "country": "USA",
+   "date": "1967-10-27",
+   "explanation": "anomalous events early in flight",
+   "explanation_status": "partially-explained",
+   "page_refs": [
+    138
+   ],
+   "quote": "Diverging roll oscillations actually began about 21.4 seconds",
+   "recording_agency": "Department of War"
+  },
+  {
+   "summary": "Missile erratic immediately after liftoff, yawed hard left then right, pitched up violently, and destructed.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "erratic",
+    "yawed",
+    "pitched up violently",
+    "destructed"
+   ],
+   "country": "USA",
+   "date": "1968-05-03",
+   "explanation": "unknown",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    138
+   ],
+   "quote": "Immediately after liftoff the telemetered roll and yaw rates indicated that the missile was erratic.",
+   "recording_agency": "Department of War"
+  },
+  {
+   "summary": "Missile lost attitude control, executing a hard yaw rate turn.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "lost attitude control",
+    "hard yaw rate turn"
+   ],
+   "country": "USA",
+   "date": "1968-11-16",
+   "explanation": "unknown",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    138
+   ],
+   "quote": "The missile then lost attitude control, executing a hard yaw rate turn",
+   "recording_agency": "Department of War"
+  },
+  {
+   "summary": "Sustainer engine shut down prematurely; destruct sent.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "premature shutdown",
+    "destruct"
+   ],
+   "country": "USA",
+   "date": "1969-10-10",
+   "explanation": "unknown",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    138
+   ],
+   "quote": "sustainer engine shut down prematurely",
+   "recording_agency": "Department of War"
+  },
+  {
+   "summary": "Pitch stabilization lost; vehicle began accelerated nose-down tumbling motion.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "tumbling"
+   ],
+   "country": "USA",
+   "date": "1971-05-08",
+   "explanation": "failure of the rate gyro or electrical failure",
+   "explanation_status": "partially-explained",
+   "page_refs": [
+    139
+   ],
+   "quote": "accelerated nose-down tumbling motion",
+   "recording_agency": "Department of War"
+  },
+  {
+   "summary": "Sustainer engine turbine damage resulted in hot gas leaks and vehicle breakup.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "breakup"
+   ],
+   "country": "USA",
+   "date": "1971-12-04",
+   "explanation": "Sustainer engine turbine damage",
+   "explanation_status": "explained",
+   "page_refs": [
+    139
+   ],
+   "quote": "Sustainer engine turbine damage during engine start resulted in hot gas leaks",
+   "recording_agency": "Department of War"
+  },
+  {
+   "summary": "Electrical disconnect failed at staging; avionics unable to maintain stability; destruct sent.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "unable to maintain stability",
+    "destruct"
+   ],
+   "country": "USA",
+   "date": "1975-02-20",
+   "explanation": "booster-section electrical disconnect failed",
+   "explanation_status": "explained",
+   "page_refs": [
+    139
+   ],
+   "quote": "flight-control avionics was unable to maintain vehicle stability",
+   "recording_agency": "Department of War"
+  },
+  {
+   "summary": "Breakup resulted from external explosion in flame bucket; radar reported multiple pieces.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "breakup",
+    "multiple pieces"
+   ],
+   "country": "USA",
+   "date": "1975-04-12",
+   "explanation": "external explosion in the flame bucket",
+   "explanation_status": "explained",
+   "page_refs": [
+    139
+   ],
+   "quote": "breakup apparently resulted from an external explosion in the flame bucket",
+   "recording_agency": "Department of War"
+  },
+  {
+   "summary": "Leak in booster hot-gas generator resulted in fire and violent maneuver; vehicle exploded.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "fire",
+    "violent maneuver",
+    "exploded"
+   ],
+   "country": "USA",
+   "date": "1977-09-29",
+   "explanation": "leak in the booster hot-gas generator",
+   "explanation_status": "explained",
+   "page_refs": [
+    139
+   ],
+   "quote": "The vehicle went into a violent maneuver at 54.9 seconds",
+   "recording_agency": "Department of War"
+  },
+  {
+   "summary": "Asymmetric thrust caused yaw and roll rates; attitude control lost; vehicle breakup.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "yaw and roll rates",
+    "attitude control lost",
+    "breakup"
+   ],
+   "country": "USA",
+   "date": "1980-12-08",
+   "explanation": "lube oil pressure on B2 booster engine dropped",
+   "explanation_status": "explained",
+   "page_refs": [
+    139,
+    140
+   ],
+   "quote": "Asymmetric thrust during shutdown caused yaw and roll rates",
+   "recording_agency": "Department of War"
+  },
+  {
+   "summary": "Thrust performance decayed; missile pitched over and impacted ground behind launch pad.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "decayed thrust",
+    "pitched over",
+    "impacted ground"
+   ],
+   "country": "USA",
+   "date": "1981-12-18",
+   "explanation": "plugging of the gas-generator fuel-cooling parts",
+   "explanation_status": "explained",
+   "page_refs": [
+    140
+   ],
+   "quote": "pitched over to the right, and travel horizontally for about one second",
+   "recording_agency": "Department of War"
+  },
+  {
+   "summary": "Vehicle struck by lightning; guidance computer commanded hard right turn; breakup.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "hard right turn",
+    "breakup"
+   ],
+   "country": "USA",
+   "date": "1987-03-26",
+   "explanation": "struck by lightning",
+   "explanation_status": "explained",
+   "page_refs": [
+    140
+   ],
+   "quote": "when the vehicle was struck by lightning",
+   "recording_agency": "Department of War"
+  },
+  {
+   "summary": "Turbo-machinery decelerated and stopped; thrust imbalance; vehicle tumbled out of control.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "tumbled out of control"
+   ],
+   "country": "USA",
+   "date": "1991-04-18",
+   "explanation": "air entering through stuck-open check valve liquefied and froze in LH2 pump",
+   "explanation_status": "explained",
+   "page_refs": [
+    140,
+    141
+   ],
+   "quote": "Due to the resulting thrust imbalance, the vehicle tumbled out of control.",
+   "recording_agency": "Department of War"
+  },
+  {
+   "summary": "Centaur engine check valve stuck open; air froze in LH2 pump; thrust imbalance; destruct sent.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "thrust imbalance",
+    "destruct"
+   ],
+   "country": "USA",
+   "date": "1992-08-22",
+   "explanation": "Centaur engine check valve stuck open",
+   "explanation_status": "explained",
+   "page_refs": [
+    141
+   ],
+   "quote": "A Centaur engine check valve stuck open allowing air into the turbopumps.",
+   "recording_agency": "Department of War"
+  }
+ ]
+}

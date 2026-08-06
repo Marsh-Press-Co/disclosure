@@ -1,0 +1,45 @@
+{
+ "doc_id": "fbi-photo-b13",
+ "file": "pursue-r1--fbi-photo-b13.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "FBI Photo B13",
+ "record_type": "photo",
+ "index_date": "2025-12-15",
+ "index_location": "Western United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI report to AARO regarding a single still image of a UAP, noting that the timestamp on the image is incorrect.",
+ "incidents": [
+  {
+   "summary": "A grainy grayscale surveillance image showing two small, dark, elongated objects near the center of the frame.",
+   "date_precision": "unknown",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [],
+   "color": "dark",
+   "country": "United States",
+   "date": "",
+   "duration": "",
+   "explanation": "The operator reported that they were unable to positively identify the UAP.",
+   "explanation_status": "unexplained",
+   "location_name": "Western United States",
+   "object_count": "2",
+   "page_refs": [
+    1
+   ],
+   "quote": "An elongated, dark (hot) object is visible just below and to the right of the crosshair's center point.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "elongated",
+   "size": "",
+   "time_local": "18:19:54",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

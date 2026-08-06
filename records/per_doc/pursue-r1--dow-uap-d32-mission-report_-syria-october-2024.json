@@ -1,0 +1,45 @@
+{
+ "doc_id": "dow-uap-d32-mission-report,-syria-october-2024",
+ "file": "pursue-r1--dow-uap-d32-mission-report_-syria-october-2024.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-PR33, Unresolved UAP Report, Syria, October 2024",
+ "record_type": "report",
+ "index_date": "2024-06-15",
+ "index_location": "Syria",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a declassified USCENTCOM Mission Report (MISREP) detailing an ISR mission in Syria on October 20, 2024, which includes a specific UAP incident report involving FMV sensor observations.",
+ "incidents": [
+  {
+   "summary": "Aircrew observed multiple light/glare phenomena, including a misshapen and uneven ball of white light, crossing the FMV camera feed during an ISR mission.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "crossed camera feed",
+    "halo effect"
+   ],
+   "color": "white",
+   "country": "Syria",
+   "date": "2024-10-20",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    6,
+    7,
+    8,
+    9
+   ],
+   "quote": "MISHAPEN AND UNEVEN BALL OF WHITE LIGHT.",
+   "recording_agency": "USCENTCOM",
+   "sensors": [
+    "video"
+   ],
+   "shape": "ball",
+   "time_local": "1559Z",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

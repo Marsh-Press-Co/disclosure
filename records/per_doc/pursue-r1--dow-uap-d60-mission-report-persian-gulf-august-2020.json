@@ -1,0 +1,42 @@
+{
+ "doc_id": "dow-uap-d60-mission-report-persian-gulf-august-2020",
+ "file": "pursue-r1--dow-uap-d60-mission-report-persian-gulf-august-2020.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D60, Mission Report, Persian Gulf, August 2020",
+ "record_type": "mission_report",
+ "index_date": "2020-08-08",
+ "index_location": "Persian Gulf",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a declassified Mission Report (MISREP) from the U.S. Department of War regarding an ISR flight in the Arabian Gulf on August 8, 2020, which contains significant redactions under 1.4(a) and (b)(6).",
+ "incidents": [
+  {
+   "summary": "A U.S. military operator observed one UAP transiting while conducting ISR operations.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "transiting"
+   ],
+   "country": "unknown",
+   "date": "2020-08-08",
+   "explanation_status": "unexplained",
+   "location_name": "Arabian Gulf",
+   "object_count": "1",
+   "page_refs": [
+    4,
+    5
+   ],
+   "quote": "OBSERVED 1X UAP IVO",
+   "recording_agency": "USCENTCOM",
+   "sensors": [
+    "video"
+   ],
+   "time_local": "0726Z",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

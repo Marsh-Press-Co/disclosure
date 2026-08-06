@@ -1,0 +1,45 @@
+{
+ "doc_id": "fbi-photo-b5",
+ "file": "pursue-r1--fbi-photo-b5.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "FBI Photo B5",
+ "record_type": "photo",
+ "index_date": "2025-12-15",
+ "index_location": "Western United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI submission to AARO containing a redacted sensor still image of an unidentified object, with an incorrect system timestamp.",
+ "incidents": [
+  {
+   "summary": "A grainy, grayscale sensor still showing a crosshair reticle and an indistinct smudge, submitted by the FBI to AARO.",
+   "date_precision": "unknown",
+   "time_of_day": "evening",
+   "confidence": "medium",
+   "behavior": [],
+   "color": "monochrome",
+   "country": "United States",
+   "date": "",
+   "duration": "",
+   "explanation": "The operator reported that they were unable to positively identify the UAP.",
+   "explanation_status": "unexplained",
+   "location_name": "Western United States",
+   "object_count": "1",
+   "page_refs": [
+    1
+   ],
+   "quote": "A faint, indistinct, darker smudge or object is visible just below and slightly left of the crosshair's center.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "smudge",
+   "size": "",
+   "time_local": "18:12:20",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

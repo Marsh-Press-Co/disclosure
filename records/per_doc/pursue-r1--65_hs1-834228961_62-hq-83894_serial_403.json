@@ -1,0 +1,34 @@
+{
+ "doc_id": "65_hs1-834228961_62-hq-83894_serial_403",
+ "file": "pursue-r1--65_hs1-834228961_62-hq-83894_serial_403.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "65_HS1-834228961_62-HQ-83894_Serial_403",
+ "record_type": "case_file",
+ "index_date": "1957-06-15",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI case file (62-HQ-83894) containing administrative records and a book jacket for Gray Barker's 'They Knew Too Much About Flying Saucers'.",
+ "incidents": [
+  {
+   "summary": "Gray Barker investigated a reported landing of a flying saucer near his home in West Virginia.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "United States",
+   "date": "1952",
+   "explanation_status": "not-assessed",
+   "location_name": "West Virginia",
+   "page_refs": [
+    2
+   ],
+   "quote": "one of the most astonishing ones allegedly landed near his home in West Virginia",
+   "recording_agency": "FBI",
+   "shape": "saucer",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,113 @@
+{
+ "doc_id": "nasa-uap-d2-apollo-17-transcript-1972",
+ "file": "pursue-r1--nasa-uap-d2-apollo-17-transcript-1972.md",
+ "source": "PURSUE-R1",
+ "agency": "NASA",
+ "title": "NASA-UAP-D2, Apollo 17 Transcript, 1972",
+ "record_type": "transcript",
+ "index_date": "1972-06-15",
+ "index_location": "Moon",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a transcript of Apollo 17 air-to-ground communications documenting reports of unidentified visual phenomena observed by the crew.",
+ "incidents": [
+  {
+   "summary": "Astronauts observed bright, tumbling particles drifting near the spacecraft during a maneuver.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "drifting",
+    "tumbling",
+    "twinkling"
+   ],
+   "color": "bright",
+   "country": "unknown",
+   "date": "1972-12-07",
+   "explanation": "Astronauts speculated they were ice or paint fragments from the S-IVB rocket stage.",
+   "explanation_status": "partially-explained",
+   "location_name": "Space",
+   "page_refs": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "quote": "Now we've got a few very bright particles or fragments or something that go drifting by as we maneuver.",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "jagged, angular, flat, flakelike",
+   "size": "up to 6 inches",
+   "witness_count": "3",
+   "witness_types": [
+    "astronaut"
+   ]
+  },
+  {
+   "summary": "Astronauts reported observing flashing, rotating objects and streaks of light while in space.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "flashing",
+    "rotating",
+    "rhythmic flashing"
+   ],
+   "color": "bright",
+   "country": "unknown",
+   "date": "1972-12-09",
+   "explanation": "Astronauts speculated they were SLA panels or other separated spacecraft components.",
+   "explanation_status": "partially-explained",
+   "location_name": "Space",
+   "page_refs": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "quote": "It is a bright object, and it's obviously rotating because it's flashing.",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "streaks, bright spots",
+   "witness_count": "3",
+   "witness_types": [
+    "astronaut"
+   ]
+  },
+  {
+   "summary": "Astronaut observed a flash of light on the lunar surface north of Grimaldi crater.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "flashing"
+   ],
+   "color": "bright",
+   "country": "Moon",
+   "date": "1972-12-10",
+   "explanation": "Astronaut suggested it could be a small impact.",
+   "explanation_status": "unexplained",
+   "location_name": "Grimaldi crater, Moon",
+   "page_refs": [
+    16
+   ],
+   "quote": "Hey, I just saw a flash on the lunar surface!",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "thin streak",
+   "witness_count": "1",
+   "witness_types": [
+    "astronaut"
+   ]
+  }
+ ]
+}

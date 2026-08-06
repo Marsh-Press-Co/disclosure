@@ -1,0 +1,41 @@
+{
+ "doc_id": "fbi-photo-b23",
+ "file": "pursue-r1--fbi-photo-b23.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "FBI Photo B23",
+ "record_type": "photo",
+ "index_date": "2025-12-15",
+ "index_location": "Western United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI submission to AARO containing a redacted infrared sensor still image of an unidentified object, noting that the system timestamp is incorrect.",
+ "incidents": [
+  {
+   "summary": "A grainy, monochrome infrared sensor image showing a single dark, oblong object near the center of a targeting reticle.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [],
+   "color": "dark",
+   "country": "United States",
+   "date": "",
+   "explanation_status": "not-assessed",
+   "location_name": "Western United States",
+   "object_count": "1",
+   "page_refs": [
+    1
+   ],
+   "quote": "A small, dark, oblong or pill-shaped object is visible just to the right of the crosshair's vertical line",
+   "recording_agency": "FBI",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "oblong or pill-shaped",
+   "witness_count": "1",
+   "witness_types": [
+    "unknown"
+   ]
+  }
+ ]
+}

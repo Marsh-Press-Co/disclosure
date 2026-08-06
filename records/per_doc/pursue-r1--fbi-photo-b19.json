@@ -1,0 +1,45 @@
+{
+ "doc_id": "fbi-photo-b19",
+ "file": "pursue-r1--fbi-photo-b19.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "FBI Photo B19",
+ "record_type": "photo",
+ "index_date": "2025-12-15",
+ "index_location": "Western United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI report to AARO containing a single redacted IR still image of a UAP, noting that the system timestamp is incorrect.",
+ "incidents": [
+  {
+   "summary": "A grainy monochrome IR/SWIR image from a military targeting system showing a small, dark, elongated object centered in a crosshair reticle.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [],
+   "color": "dark",
+   "country": "United States",
+   "date": "",
+   "duration": "",
+   "explanation": "The operator reported that they were unable to positively identify the UAP.",
+   "explanation_status": "unexplained",
+   "location_name": "Western United States",
+   "object_count": "1",
+   "page_refs": [
+    1
+   ],
+   "quote": "A small, dark, somewhat elongated object is positioned slightly above the horizontal crosshair",
+   "recording_agency": "FBI",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "elongated",
+   "size": "",
+   "time_local": "",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

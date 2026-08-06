@@ -1,0 +1,461 @@
+{
+ "doc_id": "65_hs1-834228961_62-hq-83894_section_6",
+ "file": "pursue-r1--65_hs1-834228961_62-hq-83894_section_6.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "65_HS1-834228961_62-HQ-83894_Section_6",
+ "record_type": "case_file",
+ "index_date": "1957-06-15",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This document is a collection of FBI case files (62-HQ-83894) regarding UAP/UFO reports, including correspondence, radar reports, and internal memoranda from 1947 to 1952. / This document is an FBI case file (62-HQ-83894) containing investigative records, correspondence, and reports regarding UAP sightings between 1947 and 1958, featuring significant redactions and archival stamps.",
+ "incidents": [
+  {
+   "summary": "Land-Air, Inc. personnel sighted 8 to 10 aerial objects.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "flying"
+   ],
+   "country": "USA",
+   "date": "1950-05-24",
+   "explanation_status": "not-assessed",
+   "location_name": "Vaughn, New Mexico",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "green fireballs and discs",
+   "witness_count": "multiple",
+   "witness_types": [
+    "contractor"
+   ]
+  },
+  {
+   "summary": "Two police officers observed a round, lavender object that disintegrated into a sticky residue.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "descending",
+    "disintegrating"
+   ],
+   "color": "lavender",
+   "country": "USA",
+   "date": "1950-09-26",
+   "duration": "25 minutes",
+   "explanation_status": "not-assessed",
+   "location_name": "Philadelphia, Pennsylvania",
+   "object_count": "1",
+   "page_refs": [
+    8,
+    18
+   ],
+   "quote": "object was lavender in color, described by the officers as dewy, sort of like soap suds",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "size": "six feet in diameter",
+   "witness_count": "2",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "FBI officers observed a round object that evaporated after landing.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "descending",
+    "evaporating"
+   ],
+   "color": "lavender",
+   "country": "USA",
+   "date": "1950-10-02",
+   "duration": "15-20 minutes",
+   "explanation_status": "not-assessed",
+   "location_name": "Venus Boulevard, near 25th Street",
+   "object_count": "1",
+   "page_refs": [
+    19
+   ],
+   "quote": "saw a round object sitting six foot in circumference about five foot down to the ground",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "discus",
+   "size": "six foot in circumference",
+   "witness_count": "2",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Radar detection of multiple unidentified objects over Oak Ridge.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flying"
+   ],
+   "country": "USA",
+   "date": "1950-10-12",
+   "explanation_status": "unexplained",
+   "location_name": "Oak Ridge, Tennessee",
+   "object_count": "11",
+   "page_refs": [
+    73,
+    92
+   ],
+   "quote": "picked up indications of eleven objects and perhaps more traveling across controlled area",
+   "recording_agency": "USAF",
+   "sensors": [
+    "radar"
+   ],
+   "witness_count": "multiple",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Sphere-like object observed by a chemical engineer and his family.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "maneuvering"
+   ],
+   "color": "golden-orange",
+   "country": "USA",
+   "date": "1950-10-20",
+   "duration": "20 seconds",
+   "explanation_status": "not-assessed",
+   "location_name": "New Haven, Connecticut",
+   "object_count": "1",
+   "page_refs": [
+    83,
+    85,
+    87,
+    89,
+    90,
+    91
+   ],
+   "quote": "sphere-like object directly overhead that gave a steady golden-orange glow",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "sphere",
+   "size": "ten times the diameter of Venus",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Radar detection of fast-moving targets near Fort Monmouth.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "fast-moving"
+   ],
+   "country": "USA",
+   "date": "1951-09-10",
+   "explanation_status": "not-assessed",
+   "location_name": "Fort Monmouth, New Jersey",
+   "page_refs": [
+    124,
+    130
+   ],
+   "quote": "picked up a fast moving low flying target",
+   "recording_agency": "USAF",
+   "sensors": [
+    "radar"
+   ],
+   "witness_count": "multiple",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Radar detection of a target displaying unusual maneuverability.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "rapid vertical movement"
+   ],
+   "country": "USA",
+   "date": "1951-09-11",
+   "explanation_status": "not-assessed",
+   "location_name": "Navesink, New Jersey",
+   "page_refs": [
+    126,
+    127,
+    130
+   ],
+   "quote": "target remained practically stationary on the scope and appeared to be hovering",
+   "recording_agency": "USAF",
+   "sensors": [
+    "radar"
+   ],
+   "witness_count": "multiple",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Artist observed a flying disc that appeared radio-controlled.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "motionless",
+    "flying"
+   ],
+   "color": "white with bluish tinge",
+   "country": "USA",
+   "date": "1952-03-06",
+   "duration": "3 seconds",
+   "explanation_status": "not-assessed",
+   "location_name": "Chicago, Illinois",
+   "object_count": "1",
+   "page_refs": [
+    129
+   ],
+   "quote": "stopped and hung motionless in mid-air for a split second, then flew due south at great speed",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular",
+   "size": "six feet in diameter",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Navy officer observed a circular blue object.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flying"
+   ],
+   "color": "deep bright blue",
+   "country": "USA",
+   "date": "1952-03-13",
+   "duration": "3 seconds",
+   "explanation_status": "not-assessed",
+   "location_name": "Nashville, Tennessee",
+   "object_count": "1",
+   "page_refs": [
+    131,
+    132
+   ],
+   "quote": "circular in shape, approximately one-half the size of the moon, deep bright blue in color",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular",
+   "size": "one-half the size of the moon",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Four employees of the DuPont Company at the Savannah River Plant observed multiple disc-shaped objects over the 400 area.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "approaching",
+    "disappearing",
+    "traveling at high rate of speed",
+    "noiseless",
+    "weaving from left to right"
+   ],
+   "color": "yellow to gold",
+   "country": "USA",
+   "date": "1952-05-10",
+   "location_name": "Savannah River Plant, Ellenton, South Carolina",
+   "object_count": "8",
+   "page_refs": [
+    140,
+    144,
+    148
+   ],
+   "quote": "SAW FOUR DISC SHAPED OBJECTS APPROACHING THE FOUR HUNDRED AREA FROM THE SOUTH",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "size": "15 inches in diameter",
+   "witness_count": "4",
+   "witness_types": [
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "Three women observed strange objects floating in the sky over Ashland, Kentucky.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "floating",
+    "circled",
+    "went back in opposite direction"
+   ],
+   "country": "USA",
+   "date": "1952-05-25",
+   "location_name": "Ashland, Kentucky",
+   "page_refs": [
+    150,
+    151
+   ],
+   "quote": "THREE WOMEN SAW A STRANGE OBJECTS FLOATING IN SKY OVER ASHLAND, KY.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "oval",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Donald Stewart reported a disc-like aircraft hovering over his car, causing the engine to stop and paint to crack.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "hovered",
+    "wavered",
+    "turned perpendicular",
+    "rolled across the sky"
+   ],
+   "color": "luminous silver",
+   "country": "USA",
+   "date": "1952-03-29",
+   "location_name": "Ritchie Highway, Baltimore, Maryland",
+   "page_refs": [
+    152,
+    153,
+    155,
+    157,
+    158
+   ],
+   "quote": "flat disk with a cupola or dome in the center of one side",
+   "recording_agency": "OSI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "flat disk with dome",
+   "size": "50 feet in diameter",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Oskar Linke and his daughter observed a saucer-shaped craft and two figures in a forest clearing.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "take off",
+    "whirring"
+   ],
+   "country": "Germany",
+   "date": "1952",
+   "location_name": "near Meiningen, Soviet zone",
+   "page_refs": [
+    177,
+    178
+   ],
+   "quote": "50ft saucer with a 10ft conning tower",
+   "recording_agency": "Sunday Graphic",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "saucer",
+   "size": "50 feet",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Dr. R. H. McIndoo observed a formation of bombing planes dropping objects that spurted vapor.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "medium",
+   "behavior": [
+    "dropped objects",
+    "spurted vapor",
+    "flew off at high rate of speed"
+   ],
+   "country": "Canada",
+   "date": "1952-07-27",
+   "location_name": "Thessalon Lake, Ontario",
+   "page_refs": [
+    192,
+    193,
+    195
+   ],
+   "quote": "suddenly spurted vapor and at a high rate of speed flew off",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Air Force personnel observed a disc-shaped object that merged with a second object.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "rotating",
+    "stationary",
+    "moving slowly",
+    "merged",
+    "disappear"
+   ],
+   "color": "yellowish",
+   "country": "USA",
+   "date": "1958-01-13",
+   "location_name": "Sachs Air Force Base, Oklahoma",
+   "page_refs": [
+    250
+   ],
+   "quote": "disc-shaped object which was yellowish in color and appeared to be rotating",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

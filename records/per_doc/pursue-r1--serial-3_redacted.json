@@ -1,0 +1,49 @@
+{
+ "doc_id": "serial-3_redacted",
+ "file": "pursue-r1--serial-3_redacted.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "FBI September 2023 Sighting - Serial 4",
+ "record_type": "other",
+ "index_date": "2023-09-01",
+ "index_location": "United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI FD-302 interview report detailing a UAP sighting by a government employee and contractors at a restricted test site.",
+ "incidents": [
+  {
+   "summary": "A witness observed a metallic bronze, cigar-shaped object with an intense diamond white light while driving to a test site.",
+   "date_precision": "month",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "slowly moving",
+    "disappeared"
+   ],
+   "color": "metallic bronze",
+   "country": "United States",
+   "date": "2023-09",
+   "duration": "5 to 10 seconds",
+   "explanation_status": "unexplained",
+   "object_count": "1",
+   "page_refs": [
+    1,
+    2
+   ],
+   "quote": "cigar shaped object with an extremely bright light",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "cigar",
+   "size": "length of two or three Blackhawk helicopters",
+   "time_local": "07:15-07:30",
+   "witness_count": "2",
+   "witness_types": [
+    "government-civilian",
+    "contractor"
+   ]
+  }
+ ]
+}

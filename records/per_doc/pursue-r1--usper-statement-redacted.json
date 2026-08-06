@@ -1,0 +1,256 @@
+{
+ "doc_id": "usper-statement-redacted",
+ "file": "pursue-r1--usper-statement-redacted.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "USPER Statement about UAP Sighting",
+ "record_type": "other",
+ "index_date": "2025-12-15",
+ "index_location": "United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI 302 interview report detailing multiple UAP sightings by a helicopter crew and intelligence officials over a US military facility.",
+ "incidents": [
+  {
+   "summary": "Helicopter crew and intelligence officials observed a 'super-hot' orb hovering at ground level that split into two objects and traveled at high speed.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "high speed",
+    "split into two"
+   ],
+   "color": "unknown",
+   "country": "United States",
+   "date": "2025-12-15",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    1,
+    2
+   ],
+   "quote": "spotted an orb under FLIR and described as \"super-hot\" hovering at ground level",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "ir",
+    "nvg"
+   ],
+   "shape": "orb",
+   "witness_types": [
+    "military-pilot",
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "Helicopter crew and intelligence officials observed a swarm of lights moving in all directions.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "moving in all directions"
+   ],
+   "country": "United States",
+   "date": "2025-12-15",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    2
+   ],
+   "quote": "spotting a swarm of lights (too many to count) moving in all directions",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "nvg"
+   ],
+   "witness_types": [
+    "military-pilot",
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "Two large orbs appeared above the helicopter, followed by three more, flaring up and down in sequence.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "stationary",
+    "flaring up and down"
+   ],
+   "color": "orange with white or yellow center",
+   "country": "United States",
+   "date": "2025-12-15",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    2
+   ],
+   "quote": "They appeared to be oval shaped, orange in color with a white or yellow center",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "nvg"
+   ],
+   "shape": "oval",
+   "witness_types": [
+    "military-pilot",
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "Four or five orbs appeared over the mountains, flaring up and down in horizontal formation.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flaring up and down in horizontal formation"
+   ],
+   "country": "United States",
+   "date": "2025-12-15",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    2
+   ],
+   "quote": "The orbs flared up one at a time in a horizontal formation",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "nvg"
+   ],
+   "shape": "orb",
+   "witness_types": [
+    "military-pilot",
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "Orb formation observed to the east, flaring up and down in horizontal formation.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flaring up and down in horizontal formation"
+   ],
+   "country": "United States",
+   "date": "2025-12-15",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    2
+   ],
+   "quote": "The orbs flared up one at a time in a horizontal formation",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "nvg"
+   ],
+   "shape": "orb",
+   "witness_types": [
+    "military-pilot",
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "Single orb observed flaring up and down over the mountain.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flaring up and down"
+   ],
+   "country": "United States",
+   "date": "2025-12-15",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    2
+   ],
+   "quote": "spotted a similar orb flare up west of [SITE CODE NAME] over the mountain",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "nvg"
+   ],
+   "shape": "orb",
+   "witness_types": [
+    "military-pilot",
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "Swarm of lights observed with three distinct orbs in a triangle formation.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "moving in all directions",
+    "triangle formation"
+   ],
+   "country": "United States",
+   "date": "2025-12-15",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    3
+   ],
+   "quote": "spotted a swarm of lights moving in all directions with three distinct orbs in a triangle formation",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "nvg"
+   ],
+   "shape": "orb",
+   "witness_types": [
+    "military-pilot",
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "Five to six orbs observed flaring up and down in horizontal formation.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flaring up and down in horizontal formation"
+   ],
+   "country": "United States",
+   "date": "2025-12-15",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    3
+   ],
+   "quote": "five to six orbs flare up IVO [LOCAL TOWN]",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "nvg"
+   ],
+   "shape": "orb",
+   "witness_types": [
+    "military-pilot",
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "Four orbs observed flaring up and down over military aircraft.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flaring up and down in horizontal formation"
+   ],
+   "country": "United States",
+   "date": "2025-12-15",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    3
+   ],
+   "quote": "four orbs flare up over the [MILITARY AIRCRAFT]",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "nvg"
+   ],
+   "shape": "orb",
+   "witness_types": [
+    "military-pilot",
+    "government-civilian"
+   ]
+  }
+ ]
+}

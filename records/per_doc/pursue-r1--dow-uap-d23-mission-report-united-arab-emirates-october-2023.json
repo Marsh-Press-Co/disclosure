@@ -1,0 +1,79 @@
+{
+ "doc_id": "dow-uap-d23-mission-report-united-arab-emirates-october-2023",
+ "file": "pursue-r1--dow-uap-d23-mission-report-united-arab-emirates-october-2023.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-PR27, Unresolved UAP Report, United Arab Emirates, October 2023",
+ "record_type": "report",
+ "index_date": "2023-06-15",
+ "index_location": "United Arab Emirates",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a declassified USCENTCOM mission report (MISREP) detailing ISR operations and two UAP sightings in October 2023, heavily redacted under 1.4(a) and Privacy Act provisions.",
+ "incidents": [
+  {
+   "summary": "UAP observed by military aircraft during ISR mission.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [],
+   "color": "",
+   "country": "United Arab Emirates",
+   "date": "2023-10-24",
+   "duration": "",
+   "explanation": "",
+   "explanation_status": "not-assessed",
+   "location_name": "39RYJ74",
+   "object_count": "1",
+   "page_refs": [
+    1,
+    7,
+    8
+   ],
+   "quote": "AT 0241Z, 1.4a OBSERVED 1X UAP",
+   "recording_agency": "USCENTCOM",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "",
+   "size": "",
+   "time_local": "0241Z",
+   "witness_count": "",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Second UAP observed by military aircraft during ISR mission.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [],
+   "color": "",
+   "country": "United Arab Emirates",
+   "date": "2023-10-24",
+   "duration": "",
+   "explanation": "",
+   "explanation_status": "not-assessed",
+   "location_name": "39RXL60",
+   "object_count": "1",
+   "page_refs": [
+    1,
+    8,
+    9
+   ],
+   "quote": "AT 0322Z, OBSERVED 1X UAP",
+   "recording_agency": "USCENTCOM",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "",
+   "size": "",
+   "time_local": "0322Z",
+   "witness_count": "",
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

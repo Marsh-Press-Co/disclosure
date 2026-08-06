@@ -1,0 +1,26 @@
+{
+ "doc_id": "dow-uap-d14-mission-report-iraq-may-2022",
+ "file": "pursue-r1--dow-uap-d14-mission-report-iraq-may-2022.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-PR21, Unresolved UAP Report, Iraq, May 2022",
+ "record_type": "report",
+ "index_date": "2022-06-15",
+ "index_location": "Iraq",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a declassified mission report (MISREP) from the 50th Attack Squadron detailing an ISR mission over the Eastern Mediterranean and Syria in May 2022, containing heavy redactions under 1.4(a) and FOIA exemptions.",
+ "incidents": [
+  {
+   "summary": "An unidentified small UAP was observed flying north to north east by a military asset.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "date": "2022-05-30",
+   "time_local": "0117Z",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

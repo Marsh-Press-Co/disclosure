@@ -1,0 +1,45 @@
+{
+ "doc_id": "fbi-photo-b12",
+ "file": "pursue-r1--fbi-photo-b12.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "FBI Photo B12",
+ "record_type": "photo",
+ "index_date": "2025-12-15",
+ "index_location": "Western United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI report containing a single monochrome sensor still of a UAP, heavily redacted and featuring an unreliable system timestamp.",
+ "incidents": [
+  {
+   "summary": "A small, dark, circular object was captured in a monochrome infrared or thermal sensor still over mountainous terrain.",
+   "date_precision": "unknown",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [],
+   "color": "dark",
+   "country": "United States",
+   "date": "",
+   "duration": "",
+   "explanation": "The operator reported that they were unable to positively identify the UAP.",
+   "explanation_status": "unexplained",
+   "location_name": "Western United States",
+   "object_count": "1",
+   "page_refs": [
+    1
+   ],
+   "quote": "A small, distinct, dark anomalous object is visible in the upper-right quadrant of the reticle",
+   "recording_agency": "FBI",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "circular",
+   "size": "",
+   "time_local": "18:11:12",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

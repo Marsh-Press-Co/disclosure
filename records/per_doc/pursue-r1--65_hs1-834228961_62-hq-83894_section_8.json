@@ -1,0 +1,427 @@
+{
+ "doc_id": "65_hs1-834228961_62-hq-83894_section_8",
+ "file": "pursue-r1--65_hs1-834228961_62-hq-83894_section_8.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "65_HS1-834228961_62-HQ-83894_Section_8",
+ "record_type": "case_file",
+ "index_date": "1957-06-15",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This document is an FBI case file (62-HQ-83894) containing investigative records, correspondence, and reports regarding UFO sightings and organizations between 1954 and 1955, with some pages heavily redacted or containing mirrored bleed-through text. / This document is a collection of FBI case files (62-83894) regarding UAP/UFO reports, correspondence, and internal routing slips from 1955-1957, containing significant redactions and some bleed-through text.",
+ "incidents": [
+  {
+   "summary": "Carl R. Keyser and his wife observed a silver circular or spherical object in the sky southeast of their residence.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "hovering"
+   ],
+   "color": "silver",
+   "country": "United States",
+   "date": "1954-07-23",
+   "explanation_status": "not-assessed",
+   "location_name": "Milford, Ohio",
+   "page_refs": [
+    11
+   ],
+   "quote": "observed a silver circular or spherical shape in the sky",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular or spherical",
+   "time_local": "2:40 p.m.",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Mrs. Frances Swan reported receiving messages through thought transmission from outer space entities regarding flying saucers.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "telepathic communication"
+   ],
+   "country": "United States",
+   "date": "1954-05",
+   "explanation_status": "not-assessed",
+   "location_name": "South Berwick, Maine",
+   "page_refs": [
+    12,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+   ],
+   "quote": "receiving messages through thought transmission",
+   "recording_agency": "FBI",
+   "sensors": [
+    "other"
+   ],
+   "time_local": "unknown",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "A group of ham operators reported a saucer contact.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "radio contact"
+   ],
+   "country": "United States",
+   "date": "1954-09",
+   "explanation_status": "not-assessed",
+   "location_name": "Detroit, Michigan",
+   "page_refs": [
+    30
+   ],
+   "quote": "A group of \"HAM\" operators, started within our Club, have made what they are sure is a saucer contact.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "other"
+   ],
+   "witness_count": "unknown",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Residents reported a mysterious explosion and crater following a streak of light in the sky.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "explosion"
+   ],
+   "country": "United States",
+   "date": "1954-05-01",
+   "explanation_status": "not-assessed",
+   "location_name": "Logan, Utah",
+   "page_refs": [
+    43
+   ],
+   "quote": "A 'conventional meteorite fall' did not produce the crater found west of here",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "streak of light",
+   "time_local": "midnight",
+   "witness_count": "unknown",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "A jet fighter crashed while investigating an unidentified aircraft.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "medium",
+   "behavior": [
+    "intercept"
+   ],
+   "country": "United States",
+   "date": "1954-07-02",
+   "explanation_status": "not-assessed",
+   "location_name": "Utica, New York",
+   "page_refs": [
+    44
+   ],
+   "quote": "jet fighter returning from a \"scramble\" to investigate an \"unidentified aircraft\", plunged into tiny Walesville",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "time_local": "12:30 p.m.",
+   "witness_count": "unknown",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Residents reported a shower of white-hot metal pellets.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "medium",
+   "behavior": [
+    "explosion"
+   ],
+   "country": "United States",
+   "date": "1954-08-27",
+   "explanation_status": "not-assessed",
+   "location_name": "Woodside, California",
+   "page_refs": [
+    45
+   ],
+   "quote": "shower of white-hot metal pellets",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "4:15 p.m.",
+   "witness_count": "unknown",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Amateur astronomers observed a spherical object ascending near the moon.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "ascending"
+   ],
+   "country": "United States",
+   "date": "1954-09-05",
+   "explanation_status": "not-assessed",
+   "location_name": "Rockford, Illinois",
+   "page_refs": [
+    46,
+    47
+   ],
+   "quote": "We saw a spherical object ascending from the northern section off Mare Humboldtianum area.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "spherical",
+   "time_local": "10:35 p.m.",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "A cigar-shaped object was observed streaking over Rome and tracked by radar.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "hovering",
+    "ascending"
+   ],
+   "country": "Italy",
+   "date": "1954-09-18",
+   "explanation_status": "not-assessed",
+   "location_name": "Rome, Italy",
+   "page_refs": [
+    47
+   ],
+   "quote": "strange cigar-shaped object streaking over the capital",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "cigar",
+   "time_local": "unknown",
+   "witness_count": "unknown",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Villagers reported a silver disc landing in the marshes.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "landing",
+    "ascending"
+   ],
+   "country": "Italy",
+   "date": "1954-10-16",
+   "explanation_status": "not-assessed",
+   "location_name": "Rovigo, Italy",
+   "page_refs": [
+    61
+   ],
+   "quote": "silver disc approached at great speed and then landed gently in the marshes",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "time_local": "unknown",
+   "witness_count": "unknown",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Senator Richard B. Russell observed two greenish-yellow glowing balls rising rapidly while traveling by train from Baku to Tiflis.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "rising rapidly",
+    "rotating",
+    "whirling"
+   ],
+   "color": "greenish-yellow",
+   "country": "USSR",
+   "date": "1955-10-04",
+   "explanation_status": "partially-explained",
+   "location_name": "Between Baku and Tiflis",
+   "object_count": "2",
+   "page_refs": [
+    120,
+    121,
+    123,
+    125
+   ],
+   "quote": "small greenish-yellow glowing ball rising quite rapidly in sky",
+   "recording_agency": "CIA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "ball",
+   "witness_count": "4",
+   "witness_types": [
+    "government-civilian",
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Sylvia L. Richards and Joseph L. Morris, Jr. observed a low-flying oval object while driving on Route 1.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "spinning",
+    "zig-zagging",
+    "accelerating"
+   ],
+   "color": "light blue",
+   "country": "USA",
+   "date": "1956-04-06",
+   "explanation_status": "not-assessed",
+   "location_name": "Route 1, North of Henderson, North Carolina",
+   "object_count": "1",
+   "page_refs": [
+    132,
+    133,
+    134
+   ],
+   "quote": "oval-shaped, low-flying object coming directly towards their car",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "oval",
+   "size": "at least as wide as the highway",
+   "witness_count": "2",
+   "witness_types": [
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "Thomas Gamble observed a bright yellow light traveling toward Baltimore.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "traveling",
+    "speeding up"
+   ],
+   "color": "bright yellow",
+   "country": "USA",
+   "date": "1956-05-04",
+   "explanation_status": "not-assessed",
+   "location_name": "Oxford, Pennsylvania",
+   "object_count": "1",
+   "page_refs": [
+    137,
+    139,
+    141
+   ],
+   "quote": "solid, bright, yellow light visible from all directions",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "light",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Residents and police reported two red lights hovering and joining together.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "hovering",
+    "joining together"
+   ],
+   "color": "red",
+   "country": "USA",
+   "date": "1957-11-06",
+   "explanation_status": "not-assessed",
+   "location_name": "Old Brookville, Long Island, New York",
+   "object_count": "2",
+   "page_refs": [
+    195,
+    196
+   ],
+   "quote": "reported sighting two red lights hovering in air",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "light",
+   "witness_count": "multiple",
+   "witness_types": [
+    "civilian",
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Wladyslaw Krasuski observed a circular vehicle while a German POW.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "rising vertically",
+    "moving horizontally"
+   ],
+   "color": "dark gray",
+   "country": "Germany",
+   "date": "1944",
+   "explanation_status": "not-assessed",
+   "location_name": "Gut Alt Golssen, Germany",
+   "object_count": "1",
+   "page_refs": [
+    208,
+    213,
+    214
+   ],
+   "quote": "circular in shape, seventy-five to one hundred yards in diameter",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular",
+   "size": "75-100 yards diameter",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

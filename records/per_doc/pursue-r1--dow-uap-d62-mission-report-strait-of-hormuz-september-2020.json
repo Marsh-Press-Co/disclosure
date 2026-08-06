@@ -1,0 +1,28 @@
+{
+ "doc_id": "dow-uap-d62-mission-report-strait-of-hormuz-september-2020",
+ "file": "pursue-r1--dow-uap-d62-mission-report-strait-of-hormuz-september-2020.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D62, Mission Report, Strait of Hormuz, September 2020",
+ "record_type": "mission_report",
+ "index_date": "2020-09-16",
+ "index_location": "Strait of Hormuz",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a declassified Mission Report (MISREP) from the U.S. Air Force detailing operations in the Strait of Hormuz on September 16, 2020, which includes a brief mention of a UAP observation recorded via Full Motion Video (FMV).",
+ "incidents": [
+  {
+   "summary": "A U.S. military operator reported observing one UAP at an estimated altitude of 1,800 feet.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "sensors": [
+    "video"
+   ],
+   "size": "1,800 feet altitude",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

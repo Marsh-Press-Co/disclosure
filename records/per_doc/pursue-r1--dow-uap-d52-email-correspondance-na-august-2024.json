@@ -1,0 +1,28 @@
+{
+ "doc_id": "dow-uap-d52-email-correspondance-na-august-2024",
+ "file": "pursue-r1--dow-uap-d52-email-correspondance-na-august-2024.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D52, Email Correspondance, NA, August 2024",
+ "record_type": "other",
+ "index_date": "2024-10-31",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document consists of email correspondence between Department of War personnel regarding the classification and reporting details of a UAP sighting on October 31, 2024.",
+ "incidents": [
+  {
+   "summary": "U.S. aircraft observed a possible UAP described as oval/orb shaped moving at low speed.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "low speed"
+   ],
+   "shape": "oval/orb",
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

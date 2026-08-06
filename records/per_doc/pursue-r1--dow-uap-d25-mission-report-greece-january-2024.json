@@ -1,0 +1,47 @@
+{
+ "doc_id": "dow-uap-d25-mission-report-greece-january-2024",
+ "file": "pursue-r1--dow-uap-d25-mission-report-greece-january-2024.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D25, Mission Report, Greece, January 2024",
+ "record_type": "mission_report",
+ "index_date": "2024-01-25",
+ "index_location": "Mediterranean Sea",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a declassified Mission Report (MISREP) from USCENTCOM detailing a UAP sighting on January 25, 2024, characterized by heavy redactions of operational and personnel information.",
+ "incidents": [
+  {
+   "summary": "A UAP was observed by a military asset while in transit, appearing as a diamond shape with a non-maneuvering probe at the bottom, visible only via SWIR sensor.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "maintained steady flight path",
+    "increased and decreased altitude profile",
+    "did not change trajectory"
+   ],
+   "country": "unknown",
+   "date": "2024-01-25",
+   "duration": "2 minutes",
+   "explanation": "none",
+   "explanation_status": "not-assessed",
+   "object_count": "1",
+   "page_refs": [
+    1,
+    6,
+    7
+   ],
+   "quote": "THE UAP APPEARED DIAMOND IN SHAPE WITH A NON-MANUEVERING PROBE AT THE BOTTOM. THE UAP ONLY APPEARED ON THE SWIR CAMERA.",
+   "recording_agency": "USCENTCOM",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "round diamond shape with straight, non-maneuverable tail",
+   "time_local": "0509Z",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

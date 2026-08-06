@@ -1,0 +1,40 @@
+{
+ "doc_id": "dow-uap-d18-mission-report-iraq-december-2022",
+ "file": "pursue-r1--dow-uap-d18-mission-report-iraq-december-2022.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-PR23, Unresolved UAP Report, Iraq, December 2022",
+ "record_type": "report",
+ "index_date": "2022-06-15",
+ "index_location": "Iraq",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a declassified Mission Report (MISREP) from USCENTCOM detailing an ISR mission in Iraq on December 1, 2022, which includes a brief entry regarding a UAP observation.",
+ "incidents": [
+  {
+   "summary": "An unidentified aerial phenomenon or unmanned aerial vehicle was observed flying west to east in the vicinity of Baghdad, Iraq.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "flying west to east"
+   ],
+   "country": "Iraq",
+   "date": "2022-12-01",
+   "explanation_status": "unexplained",
+   "location_name": "Baghdad, Iraq",
+   "object_count": "1",
+   "page_refs": [
+    6
+   ],
+   "quote": "OBSERVED 1X POSSIBLE UAP/UAV FLYING WEST TO EAST",
+   "recording_agency": "USCENTCOM",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

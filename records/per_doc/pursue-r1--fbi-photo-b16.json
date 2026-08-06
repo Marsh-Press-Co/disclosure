@@ -1,0 +1,45 @@
+{
+ "doc_id": "fbi-photo-b16",
+ "file": "pursue-r1--fbi-photo-b16.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "FBI Photo B16",
+ "record_type": "photo",
+ "index_date": "2025-12-15",
+ "index_location": "Western United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI submission to AARO containing a grainy grayscale infrared-style photograph of two unidentified objects, noting that the timestamp on the image is incorrect.",
+ "incidents": [
+  {
+   "summary": "FBI submitted a still image of two dark, irregular-shaped objects captured by a U.S. military system.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [],
+   "color": "dark",
+   "country": "United States",
+   "date": "",
+   "duration": "",
+   "explanation": "The operator reported that they were unable to positively identify the UAP.",
+   "explanation_status": "unexplained",
+   "location_name": "Western United States",
+   "object_count": "2",
+   "page_refs": [
+    1
+   ],
+   "quote": "Two dark, irregular-shaped objects are visible just right of the center",
+   "recording_agency": "FBI",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "irregular",
+   "size": "",
+   "time_local": "",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,706 @@
+{
+ "doc_id": "65_hs1-834228961_62-hq-83894_sub_a",
+ "file": "pursue-r1--65_hs1-834228961_62-hq-83894_sub_a.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "65_HS1-834228961_62-HQ-83894_SUB_A",
+ "record_type": "case_file",
+ "index_date": "1957-06-15",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 3,
+ "doc_notes": "This document is an FBI case file (62-83894) containing investigative records, newspaper clippings, and administrative correspondence regarding UFO sightings between 1952 and 1960. / This document is an FBI case file (62-HQ-83894) containing newspaper clippings, telexes, and administrative routing slips regarding UFO/flying saucer reports from 1950-1951. / This document is an FBI case file (62-83894) containing newspaper clippings and internal routing slips regarding flying saucer reports from 1947 to 1949.",
+ "incidents": [
+  {
+   "summary": "Pilot reported three shining saucer-like objects accompanying his DC6 passenger plane for 45 minutes.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "accompanying aircraft",
+    "lost in haze"
+   ],
+   "color": "bright whitish",
+   "country": "USA",
+   "date": "1959-02-24",
+   "location_name": "Between Philipsburg and Bradford, PA",
+   "page_refs": [
+    3
+   ],
+   "quote": "I have never seen anything like it before.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "saucer",
+   "witness_count": "35 passengers plus crew",
+   "witness_types": [
+    "civilian",
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Reinhold O. Schmidt reported landing of a space ship and meeting occupants.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "landing",
+    "hovering",
+    "blending into sky"
+   ],
+   "color": "green",
+   "country": "USA",
+   "date": "1957-11-05",
+   "explanation_status": "unexplained",
+   "location_name": "Kearney, NE",
+   "page_refs": [
+    6,
+    7,
+    8,
+    9
+   ],
+   "quote": "It just blended into the sky",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "cigar-shaped",
+   "size": "100 feet long",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Coast Guard cutter Sebago tracked an unidentified object on radar.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "erratic flight"
+   ],
+   "color": "bright",
+   "country": "USA",
+   "date": "1957-11-05",
+   "explanation_status": "partially-explained",
+   "location_name": "Gulf of Mexico",
+   "page_refs": [
+    9,
+    10,
+    12
+   ],
+   "quote": "good, strong pip",
+   "recording_agency": "FBI",
+   "sensors": [
+    "radar",
+    "visual"
+   ],
+   "shape": "bright point of light",
+   "witness_count": "4",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Multiple witnesses reported an egg-shaped object that caused car engines and headlights to fail.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "landing",
+    "hovering",
+    "causing mechanical failure"
+   ],
+   "color": "blinding-red",
+   "country": "USA",
+   "date": "1957-11-02",
+   "explanation_status": "unexplained",
+   "location_name": "Levelland, TX",
+   "page_refs": [
+    14,
+    15
+   ],
+   "quote": "It killed his engine and knocked out his headlights",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "egg-shaped",
+   "size": "200 feet long",
+   "witness_count": "5",
+   "witness_types": [
+    "civilian",
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Pilot reported encountering a brilliant unidentified object that performed violent maneuvers.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "maneuvering",
+    "zooming"
+   ],
+   "color": "blue-white",
+   "country": "USA",
+   "date": "1956-11-14",
+   "explanation_status": "unexplained",
+   "location_name": "Mobile, AL",
+   "page_refs": [
+    16
+   ],
+   "quote": "sharper than any known aircraft",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "2",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Pilot reported seeing a small metallic disc-shaped object at close range.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "sweeping pass"
+   ],
+   "color": "shiny polished chromium",
+   "country": "Japan",
+   "date": "1952-03-29",
+   "explanation_status": "unexplained",
+   "location_name": "Northern Japan",
+   "page_refs": [
+    43
+   ],
+   "quote": "about eight inches in diameter",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "size": "8 inches",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Two pilots reported seeing eight glowing orange-red discs flying in formation.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "formation flight",
+    "maneuvering"
+   ],
+   "color": "orange-red",
+   "country": "USA",
+   "date": "1952-07-15",
+   "explanation_status": "unexplained",
+   "location_name": "Norfolk, VA",
+   "page_refs": [
+    59,
+    60
+   ],
+   "quote": "glowing orange-red like hot coals",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "size": "100 feet diameter",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Thousands of spectators at football matches in Britain saw a strange white flash darting across the sky at high speed.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "darting",
+    "disperse on horizon",
+    "melted into nothingness"
+   ],
+   "color": "white",
+   "country": "United Kingdom",
+   "date": "1950-12-02",
+   "explanation_status": "unexplained",
+   "location_name": "Chard, Somerset, England",
+   "page_refs": [
+    64
+   ],
+   "quote": "It was like a diamond flash; its shape was like a big peardrop",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "peardrop",
+   "witness_count": "thousands",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple witnesses in Devon reported circular objects with trails of fire moving at high speed.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "travelling at incalculable speed",
+    "disintegrate",
+    "collide"
+   ],
+   "color": "silvery blue",
+   "country": "United Kingdom",
+   "date": "1950-10-30",
+   "explanation_status": "not-assessed",
+   "location_name": "Devon, England",
+   "page_refs": [
+    66,
+    67
+   ],
+   "quote": "circular objects travelling at an incalculable speed and emitting a trail of fire",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular",
+   "witness_count": "multiple",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Four Philadelphia policemen reported seeing a saucer-like object land in a field, which then evaporated leaving a sticky residue.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "landed",
+    "evaporated"
+   ],
+   "country": "United States",
+   "date": "1950-10-14",
+   "explanation_status": "not-assessed",
+   "location_name": "Philadelphia, PA",
+   "page_refs": [
+    69
+   ],
+   "quote": "the six-foot gadget had evaporated",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "saucer-like",
+   "size": "six-foot",
+   "witness_count": "4",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Hundreds of persons saw a spherical object chased by four planes; pilots could not make contact.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "motionless",
+    "roaring across sky"
+   ],
+   "country": "United States",
+   "date": "1950-09-18",
+   "explanation_status": "not-assessed",
+   "location_name": "Poplar Bluff, MO",
+   "page_refs": [
+    70
+   ],
+   "quote": "IT'S STILL WAY ABOVE ME, APPARENTLY MOTIONLESS.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "spherical",
+   "witness_count": "hundreds",
+   "witness_types": [
+    "civilian",
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Pilot Jim Graham reported a collision with a sausage-shaped object that exploded.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "dived",
+    "exploded"
+   ],
+   "color": "blue",
+   "country": "United States",
+   "date": "1950-07-29",
+   "explanation_status": "partially-explained",
+   "location_name": "Williamsville, IL",
+   "page_refs": [
+    71
+   ],
+   "quote": "IT EXPLODED LIKE A BOMB WHEN IT STRUCK",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "sausage",
+   "size": "10 feet long",
+   "witness_count": "multiple",
+   "witness_types": [
+    "military-pilot",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Five moon-like objects observed in formation for 34 minutes.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "maneuvering"
+   ],
+   "color": "brightly-shining",
+   "country": "United States",
+   "date": "1950-07-14",
+   "explanation_status": "not-assessed",
+   "location_name": "Fargo, ND",
+   "page_refs": [
+    72
+   ],
+   "quote": "THEY LOOKED LIKE A WHITE FLAME MANEUVERING IN THE AIR.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "moon-like",
+   "witness_count": "4",
+   "witness_types": [
+    "government-civilian",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Two pilots and an electronics instructor tracked a helmet-shaped object on radar.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "whizzing",
+    "disappeared"
+   ],
+   "color": "shiny",
+   "country": "United States",
+   "date": "1950-07-12",
+   "explanation_status": "not-assessed",
+   "location_name": "Osceola, AR",
+   "page_refs": [
+    73
+   ],
+   "quote": "It was helmet-shaped.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "helmet-shaped",
+   "size": "25 to 45 feet across",
+   "witness_count": "3",
+   "witness_types": [
+    "military-pilot",
+    "military-other"
+   ]
+  },
+  {
+   "summary": "A newsreel cameraman photographed a luminous object in the sky.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "crossing the sky"
+   ],
+   "country": "Spain",
+   "date": "1950-04-03",
+   "explanation_status": "not-assessed",
+   "location_name": "Balearic Islands",
+   "page_refs": [
+    77
+   ],
+   "quote": "heard a loud noise and saw a luminous trail crossing the sky",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "photo"
+   ],
+   "shape": "disc",
+   "witness_count": "multiple",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Three girls observed an oval-shaped object moving against the wind.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "swinging movement",
+    "going against the wind"
+   ],
+   "color": "silver",
+   "country": "United Kingdom",
+   "date": "1950-04-10",
+   "explanation_status": "partially-explained",
+   "location_name": "Preston, England",
+   "page_refs": [
+    79
+   ],
+   "quote": "It was oval-shaped and resembled the wing of a silver plane",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "oval",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Nine persons saw two bright discs trailing orange flame over an Air Force base.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "shot straight up"
+   ],
+   "color": "bright",
+   "country": "United States",
+   "date": "1950-04-02",
+   "explanation_status": "not-assessed",
+   "location_name": "Tipp City, OH",
+   "page_refs": [
+    81
+   ],
+   "quote": "two bright lights in the sky which later were discerned as brilliant discs",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "witness_count": "9",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Reports of flying saucers over five different areas in Italy.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "streaking",
+    "suspended"
+   ],
+   "color": "silver",
+   "country": "Italy",
+   "date": "1950-03-29",
+   "explanation_status": "not-assessed",
+   "location_name": "Italy",
+   "page_refs": [
+    89
+   ],
+   "quote": "Disc 'like a moon with a wake of fire' speeding westwards.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "witness_count": "multiple",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Silver-colored flying saucer reported at 6,000 feet.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "medium",
+   "behavior": [
+    "travelling at great speed"
+   ],
+   "color": "silver",
+   "country": "Italy",
+   "date": "1950-02-27",
+   "explanation_status": "not-assessed",
+   "location_name": "Caoggia, Italy",
+   "page_refs": [
+    93
+   ],
+   "quote": "A silver-coloured ' flying saucer ' was reported",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "saucer",
+   "witness_count": "unknown",
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "Three or four flying saucers observed traveling north at high speed at night.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "traveling northward at rapid rate of speed"
+   ],
+   "color": "bluish",
+   "country": "USA",
+   "date": "1947-07-04",
+   "location_name": "Friendship Heights, MD",
+   "page_refs": [
+    106,
+    116,
+    121
+   ],
+   "quote": "three or four of the flying saucers traveling northward at a rapid rate of speed",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "saucer",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "A metallic disc crashed into a parish yard, described as a circular saw blade with wires.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "crashed"
+   ],
+   "color": "metallic",
+   "country": "USA",
+   "date": "1947-07-06",
+   "location_name": "Grafton, WI",
+   "page_refs": [
+    112,
+    113,
+    117,
+    118
+   ],
+   "quote": "sheet metal disc about 18 inches in diameter, resembling a circular saw blade",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "size": "18 inches",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Four teenagers created a hoax flying saucer from juke box parts.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "planted as hoax"
+   ],
+   "color": "gold and silver",
+   "country": "USA",
+   "date": "1947-07-11",
+   "location_name": "Twin Falls, ID",
+   "page_refs": [
+    109,
+    110
+   ],
+   "quote": "manufactured by four teenage boys from the parts of a run-down juke box",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "witness_count": "4",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "A saucer-shaped mechanical contraption found in a flower bed.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "belching smoke",
+    "emitting glare"
+   ],
+   "country": "USA",
+   "date": "1947-07-09",
+   "location_name": "North Hollywood, CA",
+   "page_refs": [
+    111
+   ],
+   "quote": "saucer-shaped mechanical contraption, resembling a chicken brooder top",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "saucer",
+   "size": "30 inches",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Three dish-shaped objects observed flying over Washington D.C.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "medium",
+   "behavior": [
+    "swished over horizon"
+   ],
+   "color": "golden",
+   "country": "USA",
+   "date": "1947-07-03",
+   "location_name": "Minnesota Ave NE, Washington, D.C.",
+   "page_refs": [
+    123
+   ],
+   "quote": "There were three of them, shaped like dishes and going fast as a jet plane.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "dish",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

@@ -60,7 +60,10 @@ def parse_date(s):
     if not m:
         return (None, None, None)
     y, mo, d = m.groups()
-    return (int(y), int(mo) if mo else None, int(d) if d else None)
+    y = int(y)
+    if y > 2026 or y < 1900:  # impossible for these records - treat as undated
+        return (None, None, None)
+    return (y, int(mo) if mo else None, int(d) if d else None)
 
 
 def loc_tokens(inc):

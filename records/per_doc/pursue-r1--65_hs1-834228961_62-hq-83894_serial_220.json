@@ -1,0 +1,44 @@
+{
+ "doc_id": "65_hs1-834228961_62-hq-83894_serial_220",
+ "file": "pursue-r1--65_hs1-834228961_62-hq-83894_serial_220.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "65_HS1-834228961_62-HQ-83894_Serial_220",
+ "record_type": "case_file",
+ "index_date": "1957-06-15",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI case file (62-HQ-83894) containing correspondence from an inventor proposing propulsion theories and newspaper clippings reporting UFO sightings in Mexico and Brazil.",
+ "incidents": [
+  {
+   "summary": "Student German Horacio Robles Jr. observed and photographed a flying saucer over Durango, Mexico, at an altitude of 8,000 to 9,000 feet.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "jet propulsion",
+    "changing position"
+   ],
+   "shape": "double truncated cone",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Student Osvaldo Rhodes Jr. observed and photographed a flying saucer from an airplane over Furnas at an altitude of 8,000 to 9,000 feet.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "jet propulsion",
+    "oscillating",
+    "changing position"
+   ],
+   "shape": "double truncated cone",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

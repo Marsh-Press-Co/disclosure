@@ -1,0 +1,1031 @@
+{
+ "doc_id": "pursue-r1-record-index",
+ "file": "pursue-r1--record-index.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "PURSUE Release 1 - official record index (all 161 records: documents, videos, images)",
+ "record_type": "index",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an official index of 161 records released by the Department of War in 2026, covering various UAP sightings and reports from 1944 to 2026.",
+ "incidents": [
+  {
+   "summary": "Apollo 12 astronauts reported observing particles and flashes of light sailing off in space.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "sailing off in space"
+   ],
+   "country": "Moon (off-Earth)",
+   "date": "1969-11",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "astronaut"
+   ]
+  },
+  {
+   "summary": "Apollo 12 mission commander observed floating debris outside the lunar module.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "floating"
+   ],
+   "country": "Moon (off-Earth)",
+   "date": "1969-11",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "astronaut"
+   ]
+  },
+  {
+   "summary": "Apollo 11 crew observed an object on the way to the Moon, light flashes in the cabin, and a bright light on the return trip.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "country": "location unlisted",
+   "date": "1969-07-31",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "3",
+   "witness_types": [
+    "astronaut"
+   ]
+  },
+  {
+   "summary": "Apollo 17 crew observed bright particles and fragments drifting and tumbling near the spacecraft.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "drifting",
+    "tumbling"
+   ],
+   "country": "Moon (off-Earth)",
+   "date": "1972-12",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "2",
+   "witness_types": [
+    "astronaut"
+   ]
+  },
+  {
+   "summary": "Apollo 17 commander observed intense light flashes and rotating phenomena.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "flashing",
+    "rotating"
+   ],
+   "country": "Moon (off-Earth)",
+   "date": "1972-12",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "2",
+   "witness_types": [
+    "astronaut"
+   ]
+  },
+  {
+   "summary": "Apollo 17 pilot observed a flash on the lunar surface.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "flashing"
+   ],
+   "country": "Moon (off-Earth)",
+   "date": "1972-12",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "astronaut"
+   ]
+  },
+  {
+   "summary": "Skylab 2 crew observed light flashes.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flashing"
+   ],
+   "country": "Low Earth Orbit (off-Earth)",
+   "date": "1973-06-30",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "3",
+   "witness_types": [
+    "astronaut"
+   ]
+  },
+  {
+   "summary": "Skylab 3 crew observed a bright reddish object identified as a satellite.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "color": "reddish",
+   "country": "Low Earth Orbit (off-Earth)",
+   "date": "1973-10-04",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "2",
+   "witness_types": [
+    "astronaut"
+   ]
+  },
+  {
+   "summary": "Skylab 4 crew observed flashing lights outside the station.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "flashing"
+   ],
+   "country": "Low Earth Orbit (off-Earth)",
+   "date": "1974-02-22",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "astronaut"
+   ]
+  },
+  {
+   "summary": "Reports of high-altitude, high-speed aircraft in Papua New Guinean airspace.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "medium",
+   "behavior": [
+    "high-speed"
+   ],
+   "country": "Papua New Guinea",
+   "date": "1985-01-24",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of State",
+   "sensors": [
+    "radar",
+    "visual"
+   ],
+   "witness_count": "unknown",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Pilot and passengers encountered a bright UAP over Kazakhstan.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "90 degree turns",
+    "corkscrews",
+    "maneuvering in circles"
+   ],
+   "color": "bright",
+   "country": "Kazakhstan",
+   "date": "1994-01-27",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of State",
+   "sensors": [
+    "visual",
+    "photo"
+   ],
+   "shape": "bullet",
+   "witness_count": "4",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "U.S. military pilot observed an object in sea skim mode near Syria.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "sea skim mode"
+   ],
+   "country": "Syria",
+   "date": "2016-11-18",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "U.S. military operator observed a solid white object making erratic movements.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "erratic movements"
+   ],
+   "color": "white",
+   "country": "Persian Gulf",
+   "date": "2020-05-14",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "U.S. military operator observed a line of dots followed by a trailing dot.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "country": "Arabian Gulf",
+   "date": "2020-06-15",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "U.S. military operator observed a UAP traveling at 321 knots.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "increased speed",
+    "changed direction"
+   ],
+   "country": "Arabian Gulf",
+   "date": "2020-06-15",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "U.S. military operator observed two UAP traveling at 278 knots.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "increased speed",
+    "changed direction"
+   ],
+   "country": "Arabian Gulf",
+   "date": "2020-06-15",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "U.S. military operator observed a UAP.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "country": "Arabian Gulf",
+   "date": "2020-06-15",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "U.S. military operator observed a balloon-like UAP.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "traveling with the winds"
+   ],
+   "country": "Arabian Gulf",
+   "date": "2020-06-15",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "balloon",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "U.S. military operator encountered three separate UAP.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "country": "Persian Gulf",
+   "date": "2020-07-16",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "U.S. military operator observed one UAP transiting.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "transiting"
+   ],
+   "country": "Persian Gulf",
+   "date": "2020-08-08",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "U.S. military operator encountered three unidentified small air contacts.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "maintain relative course, speed, and altitude"
+   ],
+   "country": "Arabian Sea",
+   "date": "2020-08-24",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "U.S. military operator observed a formation of unknown flying objects.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "traveling northeast to northwest"
+   ],
+   "country": "Persian Gulf",
+   "date": "2020-08-27",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "U.S. military operator observed three UAP moving amongst each other.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "moving amongst each other"
+   ],
+   "country": "Japan",
+   "date": "2020-08-31",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "U.S. military operator tracked a round, cold object.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "abrupt directional changes"
+   ],
+   "country": "Gulf of Aden",
+   "date": "2020-09-04",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "round",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "U.S. military operator observed one UAP at 1,800 feet.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "country": "Strait of Hormuz",
+   "date": "2020-09-16",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "U.S. military operator observed a UAP.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "country": "Strait of Hormuz",
+   "date": "2020-10-01",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "U.S. military operator observed a round, cold object.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "abrupt directional changes"
+   ],
+   "country": "Arabian Sea",
+   "date": "2020-10-15",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "round",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "U.S. military operator encountered two balloon-shaped, metallic UAP.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "circling"
+   ],
+   "country": "unknown",
+   "date": "2020-10-27",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "balloon",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "U.S. military operator observed two UAP.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "country": "Iran",
+   "date": "2020-11-02",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "U.S. military operator observed 5x UAP.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "country": "Iraq",
+   "date": "2022-05-06",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "U.S. military operator observed one UAP flying north to northeast.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "country": "Iraq",
+   "date": "2022-05-20",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "U.S. military operator observed one UAP flying north to northeast.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "country": "Syria",
+   "date": "2022-05-29",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "U.S. military operator observed one UAP moving north to south.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "country": "Syria",
+   "date": "2022-07-31",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "U.S. military operator observed one possible UAP flying west to east.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "country": "Iraq",
+   "date": "2022-12-01",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "U.S. military operator observed one possible balloon.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "country": "Syria",
+   "date": "2023-02-21",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "balloon",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "U.S. military operator observed several bright objects maneuvering quickly.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "maneuvering quickly"
+   ],
+   "country": "Iraq",
+   "date": "2023-03-31",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Seven federal employees reported observing orbs and transparent phenomena.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "launching other orbs",
+    "hovering"
+   ],
+   "country": "Western United States",
+   "date": "2023",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "witness_count": "7",
+   "witness_types": [
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "Ellipsoid bronze metallic object materialized out of a bright light.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "materializing",
+    "disappearing"
+   ],
+   "color": "bronze",
+   "country": "United States",
+   "date": "2023-09-01",
+   "explanation_status": "unexplained",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "ellipsoid",
+   "witness_count": "unknown",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "U.S. military operator observed a UAP flying just above the ocean.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "90-degree turns"
+   ],
+   "country": "Aegean Sea",
+   "date": "2023-10-27",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "U.S. military operator observed a UAP flying just above the ocean.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "country": "Aegean Sea",
+   "date": "2023-10-29",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "U.S. military operator observed one UAP.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "country": "Persian Gulf",
+   "date": "2023-10-31",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "U.S. military operator observed one UAP.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "country": "Persian Gulf",
+   "date": "2023-10-31",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "U.S. military operator observed a bouncy ball-shaped UAP.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "country": "Syria",
+   "date": "2023-11-09",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "bouncy ball",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "U.S. military operator observed a diamond-shaped UAP.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "country": "Mediterranean Sea",
+   "date": "2024-01-25",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "diamond",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "U.S. military operator observed one UAP at 24,000 feet.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "country": "Gulf of Oman",
+   "date": "2024-06-07",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "U.S. military operator observed one UAP.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "country": "Gulf of Aden",
+   "date": "2024-07-14",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "U.S. military operators observed a lens flare associated with a UAP.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "country": "Iraq",
+   "date": "2024-09-20",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "witness_count": "unknown",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "U.S. military operator observed a misshapen ball of white light.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "color": "white",
+   "country": "Syria",
+   "date": "2024-10-20",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "U.S. military operator observed two white hot UAPs.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "color": "white",
+   "country": "Djibouti",
+   "date": "2025",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Senior intelligence official reported a super-hot orb hovering over the ground.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "flaring up and down"
+   ],
+   "country": "United States",
+   "date": "2025-12-15",
+   "explanation_status": "unexplained",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "unknown",
+   "witness_types": [
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "German military compound sighting of a large, circular, vertically-rising vehicle.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "vertically-rising"
+   ],
+   "country": "Germany",
+   "date": "1944",
+   "explanation_status": "unexplained",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Detroit man reported a circular object with a crystal-type dome.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "Detroit, MI",
+   "date": "1958",
+   "explanation_status": "unexplained",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Gemini 7 crew reported a bogey and a debris field.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "country": "Low Earth Orbit (off-Earth)",
+   "date": "1965-12-05",
+   "explanation_status": "unexplained",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "2",
+   "witness_types": [
+    "astronaut"
+   ]
+  },
+  {
+   "summary": "U.S. military operator observed a triangular and metallic UAP.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "country": "Mediterranean Sea",
+   "date": "unknown",
+   "explanation_status": "unexplained",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "triangular",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

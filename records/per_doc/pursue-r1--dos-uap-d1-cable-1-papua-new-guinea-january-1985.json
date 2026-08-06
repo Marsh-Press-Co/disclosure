@@ -1,0 +1,46 @@
+{
+ "doc_id": "dos-uap-d1-cable-1-papua-new-guinea-january-1985",
+ "file": "pursue-r1--dos-uap-d1-cable-1-papua-new-guinea-january-1985.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of State",
+ "title": "State Department UAP Cable 1, Papua New Guinea, January 28, 1985",
+ "record_type": "cable",
+ "index_date": "1985-01-24",
+ "index_location": "Papua New Guinea",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a diplomatic cable from the U.S. Embassy in Port Moresby to USCINCPAC regarding reports of unidentified aerial phenomena over Papua New Guinea on January 24, 1985.",
+ "incidents": [
+  {
+   "summary": "Reports of high-altitude, high-speed aircraft over Papua New Guinea, including visual sightings of contrails and radar contacts.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "high-speed",
+    "high-altitude",
+    "flying south to north",
+    "moving north to south"
+   ],
+   "country": "Papua New Guinea",
+   "date": "1985-01-24",
+   "explanation_status": "unexplained",
+   "location_name": "Wewak, Angoram",
+   "object_count": "6-8",
+   "page_refs": [
+    1,
+    2
+   ],
+   "quote": "various reports of unidentified aerial phenomena the night of January 24, including fast-moving objects with lights, contrails, and noise.",
+   "recording_agency": "Department of State",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_types": [
+    "civilian",
+    "unknown"
+   ]
+  }
+ ]
+}

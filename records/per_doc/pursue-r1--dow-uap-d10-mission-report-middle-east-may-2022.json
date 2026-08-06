@@ -1,0 +1,42 @@
+{
+ "doc_id": "dow-uap-d10-mission-report-middle-east-may-2022",
+ "file": "pursue-r1--dow-uap-d10-mission-report-middle-east-may-2022.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-PR19, Unresolved UAP Report, Middle East, May 2022",
+ "record_type": "report",
+ "index_date": "2022-06-15",
+ "index_location": "Middle East",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a declassified USCENTCOM mission report (MISREP) detailing an ISR flight in May 2022 that recorded five UAP observations, with significant portions redacted under 1.4(a) and other exemptions.",
+ "incidents": [
+  {
+   "summary": "Observation of five unidentified objects during an ISR mission; one described as a possible missile and four as possible birds.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "flying across field of view"
+   ],
+   "country": "unknown",
+   "date": "2022-05-06",
+   "explanation_status": "unexplained",
+   "location_name": "38SMC53...96...",
+   "object_count": "5",
+   "page_refs": [
+    1,
+    5,
+    6
+   ],
+   "quote": "observed 5x UAP fly across the screen",
+   "recording_agency": "USCENTCOM",
+   "sensors": [
+    "video"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

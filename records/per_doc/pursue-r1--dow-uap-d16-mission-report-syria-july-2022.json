@@ -1,0 +1,36 @@
+{
+ "doc_id": "dow-uap-d16-mission-report-syria-july-2022",
+ "file": "pursue-r1--dow-uap-d16-mission-report-syria-july-2022.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-PR22, Unresolved UAP Report, Syria, July 2022",
+ "record_type": "report",
+ "index_date": "2022-06-15",
+ "index_location": "Syria",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a declassified Mission Report (MISREP) from the Department of War regarding a UAP sighting in Syria on July 31, 2022, containing heavy redactions under 1.4(a) and FOIA exemptions.",
+ "incidents": [
+  {
+   "summary": "An unidentified aerial phenomenon was observed moving from north to south in less than a minute.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "Syria",
+   "date": "2022-07-31",
+   "duration": "less than a minute",
+   "explanation_status": "unexplained",
+   "location_name": "37SFU2774",
+   "page_refs": [
+    1,
+    7
+   ],
+   "quote": "THE UAP OCCURED IN LESS THAN A MINUTE, WITH THE UAP MOVING FROM N TO S.",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "0239Z"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "doc_id": "dow-uap-d50-email-correspondence-indopacom-april-2025",
+ "file": "pursue-r1--dow-uap-d50-email-correspondence-indopacom-april-2025.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D50, Email Correspondence, INDOPACOM, April 2025",
+ "record_type": "other",
+ "index_date": "2025-04-10",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document consists of email correspondence regarding the classification level of UAP mission report tearlines, containing two specific UAP observation records from April 2025.",
+ "incidents": [
+  {
+   "summary": "US aircraft observed one possible UAP for 12 seconds.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "date": "2025-04-10",
+   "duration": "12 seconds",
+   "explanation_status": "not-assessed",
+   "object_count": "1",
+   "page_refs": [
+    2
+   ],
+   "quote": "US AIRCRAFT OBSERVED 1X POSS UAP FOR 12 SECONDS",
+   "recording_agency": "Office of the Undersecretary of Defense for Intelligence and Security",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "2353Z",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "US aircraft observed one possible UAP for 23 seconds.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "date": "2025-04-11",
+   "duration": "23 seconds",
+   "explanation_status": "not-assessed",
+   "object_count": "1",
+   "page_refs": [
+    2
+   ],
+   "quote": "US AIRCRAFT OBSERVED 1X POSS UAP FOR 23 SECONDS",
+   "recording_agency": "Office of the Undersecretary of Defense for Intelligence and Security",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "0007Z",
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "doc_id": "dow-uap-d64-mission-report-iran-november-2020",
+ "file": "pursue-r1--dow-uap-d64-mission-report-iran-november-2020.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D64, Mission Report, Iran, November 2020",
+ "record_type": "mission_report",
+ "index_date": "2020-11-02",
+ "index_location": "Iran",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a declassified U.S. military Mission Report (MISREP) detailing UAP observations in the Arabian Gulf region on November 2, 2020, featuring significant redactions under 1.4(a) and other FOIA exemptions.",
+ "incidents": [
+  {
+   "summary": "U.S. military operator observed an unidentified aerial phenomenon while on an ISR mission.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "date": "2020-11-02",
+   "time_local": "2143Z",
+   "witness_types": [
+    "military-other",
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "U.S. military operator observed a second unidentified aerial phenomenon traveling northwest.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "traveling northwest"
+   ],
+   "date": "2020-11-02",
+   "time_local": "2148Z",
+   "witness_types": [
+    "military-other",
+    "military-pilot"
+   ]
+  }
+ ]
+}

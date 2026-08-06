@@ -1,0 +1,45 @@
+{
+ "doc_id": "dow-uap-d57-mission-report-gulf-of-aden-september-2020",
+ "file": "pursue-r1--dow-uap-d57-mission-report-gulf-of-aden-september-2020.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D57, Range Fouler Reporting Form, Gulf of Aden, September 2020",
+ "record_type": "report",
+ "index_date": "2020-09-04",
+ "index_location": "Gulf of Aden",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a U.S. Navy Range Fouler Reporting Form detailing a UAP encounter in the Gulf of Aden, containing some redacted location information.",
+ "incidents": [
+  {
+   "summary": "A U.S. military operator tracked a round, cold object over the Gulf of Aden via IR sensor for eight minutes.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "traveling 168 degrees at 277 mph",
+    "made a few abrupt directional changes"
+   ],
+   "color": "bright white",
+   "country": "Gulf of Aden",
+   "date": "2020-09-04",
+   "duration": "8 minutes",
+   "explanation": "Not assessed",
+   "explanation_status": "not-assessed",
+   "object_count": "1",
+   "page_refs": [
+    1
+   ],
+   "quote": "we tracked a round, cold object in IR traveling 168 degrees at 277 mph",
+   "recording_agency": "USCENTCOM",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "round",
+   "time_local": "21:09:00",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

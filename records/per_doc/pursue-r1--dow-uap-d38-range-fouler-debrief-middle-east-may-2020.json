@@ -1,0 +1,44 @@
+{
+ "doc_id": "dow-uap-d38-range-fouler-debrief-middle-east-may-2020",
+ "file": "pursue-r1--dow-uap-d38-range-fouler-debrief-middle-east-may-2020.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-PR36, Unresolved UAP Report, Middle East, May 2020",
+ "record_type": "report",
+ "index_date": "2020-06-15",
+ "index_location": "Middle East",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a declassified Range Fouler Debrief Form from USCENTCOM regarding a UAP sighting in May 2020, containing redactions of personnel and specific location identifiers.",
+ "incidents": [
+  {
+   "summary": "A solid white object was observed during an ISR mission, exhibiting erratic movements above the water.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "erratic movements"
+   ],
+   "color": "white",
+   "country": "unknown",
+   "date": "2020-05-14",
+   "explanation_status": "not-assessed",
+   "location_name": "Middle East",
+   "object_count": "1",
+   "page_refs": [
+    1
+   ],
+   "quote": "a solid white object flew through the FOV. There was a temporarily lose of the object but re-acquired shortly there after.",
+   "recording_agency": "USCENTCOM",
+   "sensors": [
+    "ir",
+    "visual"
+   ],
+   "shape": "round",
+   "time_local": "20:40:00",
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

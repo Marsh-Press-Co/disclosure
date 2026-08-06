@@ -1,0 +1,45 @@
+{
+ "doc_id": "fbi-photo-b4",
+ "file": "pursue-r1--fbi-photo-b4.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "FBI Photo B4",
+ "record_type": "photo",
+ "index_date": "2025-12-15",
+ "index_location": "Western United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI report containing a single still image of a UAP submitted to AARO, characterized by significant redactions and an unreliable system timestamp.",
+ "incidents": [
+  {
+   "summary": "A grainy, monochrome still image captured by a U.S. military system showing a small, dark, circular object.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [],
+   "color": "dark",
+   "country": "United States",
+   "date": "",
+   "duration": "",
+   "explanation": "The operator was unable to positively identify the UAP.",
+   "explanation_status": "unexplained",
+   "location_name": "Western United States",
+   "object_count": "1",
+   "page_refs": [
+    1
+   ],
+   "quote": "A small, dark, circular object is visible in the center right quadrant",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular",
+   "size": "",
+   "time_local": "",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

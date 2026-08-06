@@ -1,0 +1,39 @@
+{
+ "doc_id": "dow-uap-pr20",
+ "file": "pursue-r1--dow-uap-pr20.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-PR20, Unresolved UAP Report, Kuwait, May 2022",
+ "record_type": "report",
+ "index_date": "2022-06-15",
+ "index_location": "Iraq",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a Department of War report regarding a UAP sighting in Iraq submitted by USCENTCOM to AARO, featuring a redacted sensor image.",
+ "incidents": [
+  {
+   "summary": "U.S. Central Command reported a UAP observed in Iraq, documented via a still image from a military system.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "moving from north to northeast"
+   ],
+   "country": "Iraq",
+   "date": "2022",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    1
+   ],
+   "quote": "The operator reported that they were unable to positively identify the UAP.",
+   "recording_agency": "USCENTCOM",
+   "sensors": [
+    "other"
+   ],
+   "shape": "elongated area of contrast",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

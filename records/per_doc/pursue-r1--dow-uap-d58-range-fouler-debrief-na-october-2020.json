@@ -1,0 +1,50 @@
+{
+ "doc_id": "dow-uap-d58-range-fouler-debrief-na-october-2020",
+ "file": "pursue-r1--dow-uap-d58-range-fouler-debrief-na-october-2020.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D58, Range Fouler Debrief, NA, October 2020",
+ "record_type": "other",
+ "index_date": "2020-10-27",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a U.S. Navy Range Fouler Debrief form detailing an encounter with two unidentified aerial phenomena, containing redactions under 1.4(a).",
+ "incidents": [
+  {
+   "summary": "U.S. Navy pilot reported two balloon-shaped, metallic, reflective UAP displaying red blinking strobes and noise jamming.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "circling",
+    "noise jamming",
+    "rapid disappearance"
+   ],
+   "color": "red",
+   "country": "United States",
+   "date": "2020-10-27",
+   "duration": "unknown",
+   "explanation": "unexplained",
+   "explanation_status": "unexplained",
+   "object_count": "2",
+   "page_refs": [
+    1
+   ],
+   "quote": "ONE RANGE FOULER WAS CIRCLING AROUND THE OTHER. IN 1/30TH OF A SECOND, THEY WERE GONE.",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "radar",
+    "video",
+    "ir",
+    "visual",
+    "ew"
+   ],
+   "shape": "balloon-shaped",
+   "time_local": "01:12:21",
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

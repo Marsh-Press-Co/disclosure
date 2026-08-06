@@ -1,0 +1,40 @@
+{
+ "doc_id": "fbi-photo-b9",
+ "file": "pursue-r1--fbi-photo-b9.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "FBI Photo B9",
+ "record_type": "photo",
+ "index_date": "2025-12-15",
+ "index_location": "Western United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI report submitted to AARO regarding a single UAP still image derived from U.S. military sensor data.",
+ "incidents": [
+  {
+   "summary": "A grainy monochrome image showing a small dark circular object against an indistinct mountain range background, captured by a U.S. military system.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [],
+   "color": "dark",
+   "country": "United States",
+   "date": "1999-12-31",
+   "explanation_status": "unexplained",
+   "location_name": "Western United States",
+   "page_refs": [
+    1
+   ],
+   "quote": "A small, dark, circular object is visible just below and to the left of the center of the reticle.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "circular",
+   "time_local": "18:10:26",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

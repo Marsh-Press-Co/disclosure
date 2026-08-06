@@ -1,0 +1,45 @@
+{
+ "doc_id": "fbi-photo-b20",
+ "file": "pursue-r1--fbi-photo-b20.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "FBI Photo B20",
+ "record_type": "photo",
+ "index_date": "2025-12-15",
+ "index_location": "Western United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI report to AARO containing a still image of a UAP from a U.S. military system, noting that the timestamp in the image is incorrect.",
+ "incidents": [
+  {
+   "summary": "A grainy monochrome image from a U.S. military system shows one to two small, dark objects near a central crosshair reticle.",
+   "date_precision": "unknown",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [],
+   "color": "dark",
+   "country": "United States",
+   "date": "",
+   "duration": "",
+   "explanation": "The operator reported that they were unable to positively identify the UAP.",
+   "explanation_status": "unexplained",
+   "location_name": "Western United States",
+   "object_count": "1-2",
+   "page_refs": [
+    1
+   ],
+   "quote": "The monochrome image displays a grainy texture with a central crosshair reticle.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "other"
+   ],
+   "shape": "small dark objects",
+   "size": "",
+   "time_local": "18:18:58",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

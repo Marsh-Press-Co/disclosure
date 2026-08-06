@@ -1,0 +1,46 @@
+{
+ "doc_id": "nasa-uap-d6-apollo-17-technical-crew-debriefing-1973",
+ "file": "pursue-r1--nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.md",
+ "source": "PURSUE-R1",
+ "agency": "NASA",
+ "title": "NASA-UAP-D6, Apollo 17 Technical Crew Debriefing, 1973",
+ "record_type": "other",
+ "index_date": "1973-06-15",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an excerpt from the Apollo 17 Technical Crew Debriefing held on January 4, 1973, containing reports of light flashes observed by astronauts during the mission.",
+ "incidents": [
+  {
+   "summary": "Astronaut Harrison Schmitt reported seeing light flashes continuously during the Apollo 17 flight while dark adapted.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "flashing"
+   ],
+   "recording_agency": "NASA",
+   "witness_types": [
+    "astronaut"
+   ]
+  },
+  {
+   "summary": "Astronaut Harrison Schmitt observed a potential light flash on the lunar surface.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "flashing"
+   ],
+   "location_name": "lunar surface",
+   "page_refs": [
+    2
+   ],
+   "quote": "I had one which I thought was a flash on the lunar surface.",
+   "recording_agency": "NASA",
+   "witness_types": [
+    "astronaut"
+   ]
+  }
+ ]
+}

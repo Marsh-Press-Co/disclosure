@@ -1,0 +1,44 @@
+{
+ "doc_id": "dow-uap-d27-mission-report-united-arab-emirates-october-2023",
+ "file": "pursue-r1--dow-uap-d27-mission-report-united-arab-emirates-october-2023.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D27, Mission Report, United Arab Emirates, October 2023",
+ "record_type": "mission_report",
+ "index_date": "2024-06-07",
+ "index_location": "Gulf of Oman",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a declassified U.S. Military Mission Report (MISREP) detailing an ISR mission in the Gulf of Oman, including a specific UAP observation report.",
+ "incidents": [
+  {
+   "summary": "A glowing hot spherical object with a vertical cylindrical pole attached to the bottom was observed moving at 140 knots over the water.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "flying straight",
+    "moving at 140 knots"
+   ],
+   "color": "glowing hot",
+   "date": "2024-06-07",
+   "explanation_status": "unexplained",
+   "object_count": "1",
+   "page_refs": [
+    5,
+    6,
+    7
+   ],
+   "quote": "GLOWING HOT SPHERICAL UNIDENTIFIED OBJECT WITH A VERTICAL UNWAVERING CYLINDRICAL POLE/BAR ATTACHED ON THE BOTTOM",
+   "recording_agency": "USCENTCOM",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "spherical with vertical cylindrical pole",
+   "time_local": "0457Z",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

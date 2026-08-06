@@ -1,0 +1,48 @@
+{
+ "doc_id": "dow-uap-d51-email-correspondence-pacific-time-zone-march-2023",
+ "file": "pursue-r1--dow-uap-d51-email-correspondence-pacific-time-zone-march-2023.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D51, Email Correspondence, Pacific Time Zone, March 2023",
+ "record_type": "other",
+ "index_date": "2026-03-23",
+ "index_location": "Pacific Time Zone",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document consists of email correspondence regarding the declassification review of an intelligence report (IIR) concerning a UAP sighting in the Pacific Time Zone in March 2023, with significant portions redacted.",
+ "incidents": [
+  {
+   "summary": "A civilian reported observing a large blue featureless triangular object hovering near a national security facility, emitting whitish-blue light and moving in a jerking manner.",
+   "date_precision": "month",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "jerking motion",
+    "jumping motion",
+    "emitting light"
+   ],
+   "color": "blue",
+   "country": "United States",
+   "date": "2023-03",
+   "duration": "8 minutes",
+   "explanation_status": "not-assessed",
+   "location_name": "Pacific Time Zone",
+   "page_refs": [
+    4,
+    5
+   ],
+   "quote": "large blue featureless triangular object with a solid, unwavering silhouette",
+   "recording_agency": "Office of the Undersecretary of Defense for Intelligence and Security",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "triangular",
+   "size": "large",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

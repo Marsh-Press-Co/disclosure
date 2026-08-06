@@ -1,0 +1,118 @@
+{
+ "doc_id": "nasa-uap-d4-apollo-11-technical-crew-debriefing-1969",
+ "file": "pursue-r1--nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.md",
+ "source": "PURSUE-R1",
+ "agency": "NASA",
+ "title": "NASA-UAP-D4, Apollo 11 Technical Crew Debriefing, 1969",
+ "record_type": "other",
+ "index_date": "1969-06-15",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is the declassified Apollo 11 Technical Crew Debriefing from 1969, containing reports of visual sightings and cabin phenomena.",
+ "incidents": [
+  {
+   "summary": "Apollo 11 crew observed an unidentified object while traveling to the Moon.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "tumbling"
+   ],
+   "color": "",
+   "country": "",
+   "date": "",
+   "duration": "",
+   "explanation": "Crew speculated it could be the S-IVB stage, a panel, or part of the high gain antenna.",
+   "explanation_status": "partially-explained",
+   "location_name": "Space (en route to Moon)",
+   "object_count": "1",
+   "page_refs": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "quote": "The first unusual thing that we saw I guess was 1 day out or something pretty close to the moon.",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "L-shaped, hollow cylinder, open-book",
+   "size": "sizeable",
+   "time_local": "",
+   "witness_count": "3",
+   "witness_types": [
+    "astronaut"
+   ]
+  },
+  {
+   "summary": "Astronaut Buzz Aldrin observed flashes of light inside the cabin while trying to sleep.",
+   "date_precision": "unknown",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flashing",
+    "zapping"
+   ],
+   "color": "",
+   "country": "",
+   "date": "",
+   "duration": "",
+   "explanation": "Crew speculated they were neutrons or atomic particles causing emissions upon entering the cabin.",
+   "explanation_status": "partially-explained",
+   "location_name": "Apollo 11 Command Module",
+   "object_count": "multiple",
+   "page_refs": [
+    6,
+    7,
+    8
+   ],
+   "quote": "I observed what I thought were little flashes inside the cabin, spaced a couple of minutes apart",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "flashes",
+   "size": "",
+   "time_local": "",
+   "witness_count": "2",
+   "witness_types": [
+    "astronaut"
+   ]
+  },
+  {
+   "summary": "Crew observed a bright light source while in lunar orbit.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "bright light"
+   ],
+   "color": "bright",
+   "country": "",
+   "date": "",
+   "duration": "",
+   "explanation": "Initially thought to be a laser, later concluded to be a reflection of the Sun off a lake on Earth.",
+   "explanation_status": "explained",
+   "location_name": "Lunar orbit",
+   "object_count": "1",
+   "page_refs": [
+    10,
+    11
+   ],
+   "quote": "I observed what appeared to be a fairly bright light source which we tentatively ascribed to a possible laser.",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "light source",
+   "size": "",
+   "time_local": "",
+   "witness_count": "2",
+   "witness_types": [
+    "astronaut"
+   ]
+  }
+ ]
+}

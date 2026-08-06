@@ -1,0 +1,47 @@
+{
+ "doc_id": "serial-4-redacted_redacted",
+ "file": "pursue-r1--serial-4-redacted_redacted.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "FBI September 2023 Sighting - Serial 5",
+ "record_type": "other",
+ "index_date": "2023-09-01",
+ "index_location": "United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI FD-302 interview report regarding a UAP sighting by a contractor in September 2023, featuring heavy redactions of names and specific locations.",
+ "incidents": [
+  {
+   "summary": "A contractor observed a metallic, linear object with a bright white light while traveling to a test site.",
+   "date_precision": "month",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "moved east to west parallel to the ground",
+    "vanished"
+   ],
+   "color": "metallic / gray",
+   "country": "United States",
+   "date": "2023-09",
+   "duration": "5 to 10 seconds",
+   "explanation_status": "not-assessed",
+   "object_count": "1",
+   "page_refs": [
+    1,
+    2
+   ],
+   "quote": "saw a linear object with a super bright light on the east side of the object.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "linear",
+   "size": "one to two Blackhawk helicopters in length",
+   "time_local": "07:30",
+   "witness_count": "1",
+   "witness_types": [
+    "contractor"
+   ]
+  }
+ ]
+}

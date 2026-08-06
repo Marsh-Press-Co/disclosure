@@ -1,0 +1,66 @@
+{
+ "doc_id": "nasa-uap-d1-apollo-12-transcript-1969",
+ "file": "pursue-r1--nasa-uap-d1-apollo-12-transcript-1969.md",
+ "source": "PURSUE-R1",
+ "agency": "NASA",
+ "title": "NASA-UAP-D1, Apollo 12 Transcript, 1969",
+ "record_type": "transcript",
+ "index_date": "1969-06-15",
+ "index_location": "Moon",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an excerpt from the Apollo 12 Technical Air-to-Ground Voice Transcription containing reports of unidentified visual phenomena by the flight crew.",
+ "incidents": [
+  {
+   "summary": "Astronaut Alan Bean observed particles and flashes of light sailing off in space while looking through the Alignment Optical Telescope.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "sailing off in space",
+    "escaping the Moon",
+    "haul out",
+    "press off at the stars"
+   ],
+   "country": "unknown",
+   "date": "1969-11-19",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    2
+   ],
+   "quote": "It's coming from behind me, the left, and they're just sailing off in space.",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "astronaut"
+   ]
+  },
+  {
+   "summary": "Astronauts observed floating debris outside the lunar module, initially thought to be illuminated by the tracking light, but later suspected the light had burned out.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "floating along"
+   ],
+   "country": "unknown",
+   "date": "1969-11-20",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    4
+   ],
+   "quote": "little bits and pieces floating along with us and we could tell that the tracking light was flashing on them.",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "2",
+   "witness_types": [
+    "astronaut"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "doc_id": "dow-uap-d5-mission-report-arabian-gulf-2020",
+ "file": "pursue-r1--dow-uap-d5-mission-report-arabian-gulf-2020.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D5, Mission Report, Arabian Gulf, 2020",
+ "record_type": "mission_report",
+ "index_date": "2020-06-15",
+ "index_location": "Arabian Gulf",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a heavily redacted Department of War mission report containing two UAP sighting descriptions from the GENTEXT section.",
+ "incidents": [
+  {
+   "summary": "UAP observed at 1354Z at FL160 to FL170 with a constant velocity of 40 knots.",
+   "date_precision": "unknown",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "constant speed"
+   ],
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "size": "FL160 to FL170",
+   "time_local": "1354Z",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Two UAPs observed at 2243Z traveling at 278 knots, increasing speed and changing direction to the south.",
+   "date_precision": "unknown",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "increased speed",
+    "changed direction"
+   ],
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "2243Z",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

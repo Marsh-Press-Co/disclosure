@@ -1,0 +1,45 @@
+{
+ "doc_id": "dow-uap-d74-mission-report-syria-november-2023",
+ "file": "pursue-r1--dow-uap-d74-mission-report-syria-november-2023.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D74, Mission Report, Syria, November 2023",
+ "record_type": "mission_report",
+ "index_date": "2023-11-09",
+ "index_location": "Syria",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a declassified USCENTCOM Mission Report (MISREP) detailing an ISR mission in Syria that included a UAP observation.",
+ "incidents": [
+  {
+   "summary": "A U.S. military aircraft observed an unidentified aerial phenomenon shaped like a bouncy ball traveling at 424 knots for at least 7 minutes.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "maintained constant speed",
+    "dropped altitude",
+    "passed aircraft"
+   ],
+   "country": "Syria",
+   "date": "2023-11-09",
+   "duration": "7 minutes",
+   "explanation_status": "unexplained",
+   "object_count": "1",
+   "page_refs": [
+    9,
+    10
+   ],
+   "quote": "observed 1x prob hc uap shaped as a bouncy ball come from the south",
+   "recording_agency": "USCENTCOM",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "bouncy ball",
+   "time_local": "2153Z",
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

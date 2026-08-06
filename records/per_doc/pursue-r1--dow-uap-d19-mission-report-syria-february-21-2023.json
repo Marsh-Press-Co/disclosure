@@ -1,0 +1,72 @@
+{
+ "doc_id": "dow-uap-d19-mission-report-syria-february-21-2023",
+ "file": "pursue-r1--dow-uap-d19-mission-report-syria-february-21-2023.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D19, Mission Report, Syria, February 21, 2023",
+ "record_type": "mission_report",
+ "index_date": "2023-02-21",
+ "index_location": "Syria",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a declassified Mission Report (MISREP) from the U.S. Department of War detailing flight operations over Syria on February 21, 2023, containing reports of UAP and radar jamming.",
+ "incidents": [
+  {
+   "summary": "Three unidentified objects observed by aircrew near Shaddadi, Syria.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "cruising"
+   ],
+   "color": "white",
+   "country": "Syria",
+   "date": "2023-02-21",
+   "explanation_status": "not-assessed",
+   "location_name": "Shaddadi",
+   "object_count": "3",
+   "page_refs": [
+    1,
+    9
+   ],
+   "quote": "OBS 3X POSS UAP IVO SHADDADI",
+   "recording_agency": "USCENTCOM",
+   "sensors": [
+    "visual",
+    "ir",
+    "video"
+   ],
+   "shape": "unknown",
+   "time_local": "0025Z",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "One possible balloon observed by aircrew near Shaddadi, Syria.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "Syria",
+   "date": "2023-02-21",
+   "explanation_status": "not-assessed",
+   "location_name": "Shaddadi",
+   "object_count": "1",
+   "page_refs": [
+    1,
+    10
+   ],
+   "quote": "OBS 1X POSS BALLOON IVO SHADDADI",
+   "recording_agency": "USCENTCOM",
+   "sensors": [
+    "visual",
+    "video"
+   ],
+   "shape": "balloon",
+   "time_local": "0135Z",
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

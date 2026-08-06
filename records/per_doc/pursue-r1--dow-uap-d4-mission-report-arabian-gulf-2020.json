@@ -1,0 +1,41 @@
+{
+ "doc_id": "dow-uap-d4-mission-report-arabian-gulf-2020",
+ "file": "pursue-r1--dow-uap-d4-mission-report-arabian-gulf-2020.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D4, Mission Report, Arabian Gulf, 2020",
+ "record_type": "mission_report",
+ "index_date": "2020-06-15",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a redacted Department of War Mission Report (MISREP) regarding a UAP sighting in the Arabian Gulf, with most pages heavily redacted under 1.4(a).",
+ "incidents": [
+  {
+   "summary": "A U.S. military pilot observed a UAP traveling at 321 knots that increased speed and changed direction to the east.",
+   "date_precision": "unknown",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "increased speed",
+    "changed direction"
+   ],
+   "country": "",
+   "date": "",
+   "explanation_status": "not-assessed",
+   "location_name": "34SDG9041417044",
+   "page_refs": [
+    5
+   ],
+   "quote": "UAP INCREASED SPEED AND CHANGED DIRECTION TOWARDS THE EAST.",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "1258Z",
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

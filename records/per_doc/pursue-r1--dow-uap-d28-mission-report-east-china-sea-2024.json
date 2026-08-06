@@ -1,0 +1,42 @@
+{
+ "doc_id": "dow-uap-d28-mission-report-east-china-sea-2024",
+ "file": "pursue-r1--dow-uap-d28-mission-report-east-china-sea-2024.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D28, Mission Report, Iraq, September 2024",
+ "record_type": "mission_report",
+ "index_date": "2024-09-20",
+ "index_location": "Iraq",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a declassified Mission Report (MISREP) from USCENTCOM detailing a UAP observation during a weapons calibration exercise in Iraq, featuring significant redactions under 1.4(a) and FOIA exemptions.",
+ "incidents": [
+  {
+   "summary": "During a weapons calibration test in Iraq, a U.S. military aircraft crew observed an unidentified object moving at a high rate of speed through their IR sensor field-of-view immediately following the release of an AGM-176 missile.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "high rate of speed",
+    "moved through sensor field-of-view"
+   ],
+   "country": "Iraq",
+   "date": "2024-09-20",
+   "explanation_status": "unexplained",
+   "location_name": "Ayn al Asad Airbase (AAAB) Restricted Operating Zone (ROZ) Raindrop",
+   "page_refs": [
+    1,
+    5,
+    6
+   ],
+   "quote": "observed an unidentified object \"fly\" through the aircraft sensors at a high rate of speed",
+   "recording_agency": "USCENTCOM",
+   "sensors": [
+    "ir"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

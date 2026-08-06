@@ -1,0 +1,48 @@
+{
+ "doc_id": "65_HS1-834228961_62-HQ-83894_Serial_153",
+ "file": "pursue-r1--65_HS1-834228961_62-HQ-83894_Serial_153.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "65_HS1-834228961_62-HQ-83894_Serial_153",
+ "record_type": "case_file",
+ "index_date": "1957-06-15",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI case file (62-HQ-83894) containing investigative records and photographic evidence regarding a 1947 UFO sighting in Oak Ridge, Tennessee.",
+ "incidents": [
+  {
+   "summary": "W. R. Presley photographed a flying saucer over Oak Ridge, Tennessee, while taking pictures of his house and the mountain.",
+   "date_precision": "month",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [],
+   "color": "",
+   "country": "United States",
+   "date": "1947-07",
+   "duration": "",
+   "explanation": "",
+   "explanation_status": "not-assessed",
+   "location_name": "218 Illinois Avenue, Oak Ridge, Tennessee",
+   "object_count": "1",
+   "page_refs": [
+    2,
+    4,
+    6,
+    8
+   ],
+   "quote": "This, however, is the first time that one has ever been photographed over Oak Ridge.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "photo"
+   ],
+   "shape": "flying saucer",
+   "size": "",
+   "time_local": "",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

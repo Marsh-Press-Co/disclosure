@@ -1,0 +1,42 @@
+{
+ "doc_id": "dow-uap-d12-mission-report-iraq-may-2022",
+ "file": "pursue-r1--dow-uap-d12-mission-report-iraq-may-2022.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D12, Mission Report, Iraq, May 2022",
+ "record_type": "mission_report",
+ "index_date": "2022-05-20",
+ "index_location": "Iraq",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a declassified U.S. military Mission Report (MISREP) from May 2022 detailing a UAP observation in Iraq, featuring heavy redactions under 1.4(a) and other exemptions.",
+ "incidents": [
+  {
+   "summary": "A U.S. military operator observed one UAP flying north to northeast and followed it as long as possible but could not identify it.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "flying north to northeast"
+   ],
+   "country": "Iraq",
+   "date": "2022-05-20",
+   "explanation_status": "unexplained",
+   "location_name": "38SMC79[1.4a]70[1.4a]",
+   "object_count": "1",
+   "page_refs": [
+    6
+   ],
+   "quote": "OBSERVED A UAP AT 2043Z FLY NORTH TO NORTH EAST AND FOLLOWED AS LONG AS POSSIBLE.",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "2043Z",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

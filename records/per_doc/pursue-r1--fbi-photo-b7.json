@@ -1,0 +1,45 @@
+{
+ "doc_id": "fbi-photo-b7",
+ "file": "pursue-r1--fbi-photo-b7.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "FBI Photo B7",
+ "record_type": "photo",
+ "index_date": "2025-12-15",
+ "index_location": "Western United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI submission to AARO containing a single still image of a UAP, noting that the timestamp on the image is incorrect.",
+ "incidents": [
+  {
+   "summary": "FBI submitted a still image of a UAP to AARO, featuring a helicopter and a smaller dark circular object.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [],
+   "color": "dark",
+   "country": "United States",
+   "date": "",
+   "duration": "",
+   "explanation": "The operator was unable to positively identify the UAP.",
+   "explanation_status": "unexplained",
+   "location_name": "Western United States",
+   "object_count": "2",
+   "page_refs": [
+    1
+   ],
+   "quote": "A second, smaller, dark circular object is visible below the reticle.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular",
+   "size": "",
+   "time_local": "",
+   "witness_count": "1",
+   "witness_types": [
+    "unknown"
+   ]
+  }
+ ]
+}

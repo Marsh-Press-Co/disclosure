@@ -1,0 +1,43 @@
+{
+ "doc_id": "fbi-photo-b8",
+ "file": "pursue-r1--fbi-photo-b8.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "FBI Photo B8",
+ "record_type": "photo",
+ "index_date": "2025-12-15",
+ "index_location": "Western United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI report containing an infrared sensor still image of a UAP, characterized by heavy redactions and a timestamp of 1999.",
+ "incidents": [
+  {
+   "summary": "Infrared sensor still image showing a small, dark, circular object against a uniform gray background.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [],
+   "color": "dark",
+   "country": "",
+   "date": "1999-12-31",
+   "duration": "",
+   "explanation": "",
+   "explanation_status": "not-assessed",
+   "location_name": "",
+   "object_count": "1",
+   "page_refs": [
+    1
+   ],
+   "quote": "A small, dark, circular object is visible just above the horizontal axis",
+   "recording_agency": "FBI",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "circular",
+   "size": "",
+   "time_local": "18:10:18",
+   "witness_count": "",
+   "witness_types": []
+  }
+ ]
+}

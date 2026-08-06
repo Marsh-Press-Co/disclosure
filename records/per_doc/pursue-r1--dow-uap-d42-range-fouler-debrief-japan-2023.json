@@ -1,0 +1,41 @@
+{
+ "doc_id": "dow-uap-d42-range-fouler-debrief-japan-2023",
+ "file": "pursue-r1--dow-uap-d42-range-fouler-debrief-japan-2023.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D42, Range Fouler Debrief, Japan, 2023",
+ "record_type": "other",
+ "index_date": "2020-08-31",
+ "index_location": "Japan",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a declassified U.S. Navy Range Fouler Debrief Form detailing a 2020 UAP sighting by a pilot, containing significant redactions under 1.4(a) and other privacy/security exemptions.",
+ "incidents": [
+  {
+   "summary": "A U.S. military pilot observed three unidentified objects moving amongst each other on a sensor screen during an ISR mission.",
+   "date_precision": "day",
+   "time_of_day": "dusk",
+   "confidence": "high",
+   "behavior": [
+    "moving amongst each other",
+    "high speed"
+   ],
+   "country": "Japan",
+   "date": "2020-08-31",
+   "explanation_status": "not-assessed",
+   "object_count": "3",
+   "page_refs": [
+    1
+   ],
+   "quote": "Saw the initial object fly through the screen and started tracking it.",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "other"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

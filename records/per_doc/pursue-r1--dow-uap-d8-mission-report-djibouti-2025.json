@@ -1,0 +1,43 @@
+{
+ "doc_id": "dow-uap-d8-mission-report-djibouti-2025",
+ "file": "pursue-r1--dow-uap-d8-mission-report-djibouti-2025.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D8, Mission Report, Djibouti, 2025",
+ "record_type": "mission_report",
+ "index_date": "2025-06-15",
+ "index_location": "Djibouti",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a heavily redacted Department of War Mission Report (MISREP) regarding a UAP sighting in Djibouti on June 15, 2025.",
+ "incidents": [
+  {
+   "summary": "U.S. military operator observed two round white hot UAPs moving south at 240 knots.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "dynamic south"
+   ],
+   "color": "white hot",
+   "country": "Djibouti",
+   "date": "2025-06-15",
+   "explanation_status": "not-assessed",
+   "location_name": "35SQT3423692957",
+   "object_count": "2",
+   "page_refs": [
+    7
+   ],
+   "quote": "OBS 2X ROUND WHITE HOT UAPS DYNAMIC SOUTH AT APPROX 240NM/HOUR",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "time_local": "1653Z",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

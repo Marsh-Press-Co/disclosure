@@ -1,0 +1,46 @@
+{
+ "doc_id": "dow-uap-d75-mission-report-gulf-of-aden-july-2024",
+ "file": "pursue-r1--dow-uap-d75-mission-report-gulf-of-aden-july-2024.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D75, Mission Report, Gulf of Aden, July 2024",
+ "record_type": "mission_report",
+ "index_date": "2024-07-14",
+ "index_location": "Gulf of Aden",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a declassified Mission Report (MISREP) from the U.S. Department of War regarding a UAP sighting in the Gulf of Aden on July 14, 2024, featuring significant redactions under 1.4(a) and 1.4(g).",
+ "incidents": [
+  {
+   "summary": "A U.S. military operator observed one UAP maintaining a straight flight path at the same altitude, with speed faster than the aircraft's flying speed.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "straight flight path at same altitude",
+    "speed faster than flying speed",
+    "followed the UAP till the distance became too far"
+   ],
+   "country": "unknown",
+   "date": "2024-07-14",
+   "explanation_status": "unexplained",
+   "location_name": "Gulf of Aden",
+   "object_count": "1",
+   "page_refs": [
+    1,
+    5,
+    7,
+    8
+   ],
+   "quote": "UAP's speed was faster than the flying speed",
+   "recording_agency": "USCENTCOM",
+   "sensors": [
+    "visual",
+    "video"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

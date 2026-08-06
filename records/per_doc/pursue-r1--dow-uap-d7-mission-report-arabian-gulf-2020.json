@@ -1,0 +1,40 @@
+{
+ "doc_id": "dow-uap-d7-mission-report-arabian-gulf-2020",
+ "file": "pursue-r1--dow-uap-d7-mission-report-arabian-gulf-2020.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D7, Mission Report, Arabian Gulf, 2020",
+ "record_type": "mission_report",
+ "index_date": "2020-06-15",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a heavily redacted Mission Report (MISREP) from the Department of War regarding a 2020 UAP sighting in the Arabian Gulf.",
+ "incidents": [
+  {
+   "summary": "U.S. military operator observed a UAP at 31,000 ft traveling with the winds, identified via TFLIR.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "traveling with the winds"
+   ],
+   "country": "unknown",
+   "date": "2020-06-15",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    6
+   ],
+   "quote": "LOOKS LIKE A BALLOON, SIMILAR TO PREVIOUSLY REPORTED UAP FROM 48FW.",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual",
+    "ir"
+   ],
+   "shape": "balloon",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

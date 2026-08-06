@@ -1,0 +1,36 @@
+{
+ "doc_id": "dow-uap-d3-mission-report-arabian-gulf-2020",
+ "file": "pursue-r1--dow-uap-d3-mission-report-arabian-gulf-2020.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D3, Mission Report, Arabian Gulf, 2020",
+ "record_type": "mission_report",
+ "index_date": "2020-06-15",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a declassified U.S. Air Force Mission Report (MISREP) detailing a UAP sighting in the Arabian Gulf, heavily redacted under 1.4(a).",
+ "incidents": [
+  {
+   "summary": "Four UAP observed flying in formation or sequence beneath an aircraft.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "flying"
+   ],
+   "date": "2020-06-15",
+   "explanation_status": "not-assessed",
+   "object_count": "4",
+   "page_refs": [
+    7
+   ],
+   "quote": "AT APPROX 1736Z 4 UAP WERE OBSERVED BENEATH",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "17:36Z"
+  }
+ ]
+}

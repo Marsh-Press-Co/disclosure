@@ -1,0 +1,951 @@
+{
+ "doc_id": "65_hs1-834228961_62-hq-83894_serial_130",
+ "file": "pursue-r1--65_hs1-834228961_62-hq-83894_serial_130.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "65_HS1-834228961_62-HQ-83894_Serial_130",
+ "record_type": "case_file",
+ "index_date": "1957-06-15",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FBI and Air Force investigative reports, correspondence, and newspaper clippings regarding UAP sightings between 1947 and 1948, containing various witness statements and internal evaluations.",
+ "incidents": [
+  {
+   "summary": "Pan American Airways pilot and navigator sighted a bright orange/gold cylindrical object while flying from Newfoundland to New York.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "traveling at 150-175 mph",
+    "banked to obtain better view"
+   ],
+   "color": "bright orange / deep gold",
+   "country": "USA",
+   "date": "1947-08-04",
+   "duration": "30 seconds",
+   "explanation_status": "unexplained",
+   "location_name": "10 miles NW of Boston, Massachusetts",
+   "object_count": "1",
+   "page_refs": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "quote": "bright orange object,, which was on the right side of the plane",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "cylindrical / elliptical",
+   "size": "length of P-40 fuselage / 15 feet",
+   "time_local": "1600",
+   "witness_count": "2",
+   "witness_types": [
+    "military-other",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Numerous reports of flying discs over Birmingham, Alabama, including a photograph taken by a newspaper copy reader.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "whirling",
+    "zig-zag",
+    "hovering",
+    "darting"
+   ],
+   "color": "white / silver / red",
+   "country": "USA",
+   "date": "1947-07-06",
+   "explanation_status": "unexplained",
+   "location_name": "Birmingham, Alabama",
+   "object_count": "multiple",
+   "page_refs": [
+    7,
+    9,
+    10,
+    12,
+    13,
+    14
+   ],
+   "quote": "they are round, saucer-like",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "photo"
+   ],
+   "shape": "round / saucer-like",
+   "size": "size of a dining room table / dishpan",
+   "time_local": "2000-2200",
+   "witness_count": "hundreds",
+   "witness_types": [
+    "military-other",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Intermittent reddish flashes observed by a government employee and a navigator at Harmon Field.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "abrupt darts",
+    "intermittent flashes"
+   ],
+   "color": "reddish",
+   "country": "Canada",
+   "date": "1947-07-23",
+   "duration": "3 minutes",
+   "explanation_status": "unexplained",
+   "location_name": "Harmon Field, Stephenville, Newfoundland",
+   "object_count": "1",
+   "page_refs": [
+    15,
+    16
+   ],
+   "quote": "intermittant flashes were seen for a period of approximately three (3) minutes",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "time_local": "0345Z",
+   "witness_count": "2",
+   "witness_types": [
+    "government-civilian",
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Circular object observed cutting through clouds, leaving a long trail.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "horizontal course",
+    "cut clouds open"
+   ],
+   "color": "silvery",
+   "country": "Canada",
+   "date": "1947-07-10",
+   "explanation_status": "unexplained",
+   "location_name": "6 miles SSW of Harmon Field, Newfoundland",
+   "object_count": "1",
+   "page_refs": [
+    18,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+   ],
+   "quote": "translucent disk like a wheel travelling at a terrific rate of speed",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual",
+    "photo"
+   ],
+   "shape": "circular / wheel",
+   "size": "size of a C-54",
+   "time_local": "2000Z",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Disc-shaped object observed at dusk with a cone-shaped trail.",
+   "date_precision": "day",
+   "time_of_day": "dusk",
+   "confidence": "high",
+   "behavior": [
+    "high velocity"
+   ],
+   "color": "flame colored",
+   "country": "Canada",
+   "date": "1947-07-11",
+   "explanation_status": "unexplained",
+   "location_name": "Codroy, Newfoundland",
+   "object_count": "1",
+   "page_refs": [
+    19,
+    20,
+    30,
+    31,
+    32,
+    33
+   ],
+   "quote": "disc shaped; was reported as being the size of a barrel-head",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc / cone",
+   "size": "barrel-head / dinner-plate",
+   "time_local": "0030Z",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Flashes observed by ship crew members.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "high velocity",
+    "abrupt course changes"
+   ],
+   "color": "silvery to reddish",
+   "country": "Canada",
+   "date": "1947-07-20",
+   "explanation_status": "unexplained",
+   "location_name": "Steamship Burgeo, near Sydney, Nova Scotia",
+   "object_count": "1",
+   "page_refs": [
+    21,
+    22
+   ],
+   "quote": "four (4) or five (5) flashes approximately one (1) second apart",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "time_local": "0015Z",
+   "witness_count": "5",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Constable observed four objects in formation followed by a jelly-fish shaped object.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "terrific speed",
+    "rocking motion"
+   ],
+   "color": "phosphorus glow",
+   "country": "Canada",
+   "date": "1947-07-09",
+   "explanation_status": "unexplained",
+   "location_name": "Grand Falls, Newfoundland",
+   "object_count": "5",
+   "page_refs": [
+    34,
+    35,
+    118
+   ],
+   "quote": "huge jelly-fish flash across the the sky",
+   "recording_agency": "Newfoundland Constabulary",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round / jelly-fish",
+   "size": "barrel head",
+   "time_local": "2315",
+   "witness_count": "4",
+   "witness_types": [
+    "federal-le",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Prospector observed objects near Mt. Adams.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "banking",
+    "standing on edge"
+   ],
+   "color": "bright top surface",
+   "country": "USA",
+   "date": "1947-06-24",
+   "explanation_status": "unexplained",
+   "location_name": "Mt. Adams district, Washington",
+   "object_count": "multiple",
+   "page_refs": [
+    37,
+    38
+   ],
+   "quote": "Round about 30 foot in dimater tapering sharply to a point",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round / oval",
+   "size": "30 foot diameter",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Pilot observed ten objects in V-formation.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "V-formation",
+    "flying north then south"
+   ],
+   "color": "silver",
+   "country": "USA",
+   "date": "1947-06-14",
+   "explanation_status": "unexplained",
+   "location_name": "Bakersfield, California",
+   "object_count": "10",
+   "page_refs": [
+    39,
+    40,
+    41
+   ],
+   "quote": "ten articles flying from the South to the North",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round / flapjack",
+   "time_local": "1200",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Farmer and sons observed a disc skimming through a canyon.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "skimming",
+    "following contours"
+   ],
+   "color": "sky blue with red glow",
+   "country": "USA",
+   "date": "1947-08-13",
+   "explanation_status": "unexplained",
+   "location_name": "Snake River Canyon, Idaho",
+   "object_count": "1",
+   "page_refs": [
+    42,
+    43,
+    44,
+    45
+   ],
+   "quote": "skimming along through Snake river canyon at a height of about 75 feet",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "oblong / inverted pie-plate",
+   "size": "20 feet long by 10 feet high",
+   "time_local": "1300",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Pilot observed five or six circular objects while flying.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "close formation"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "1947-06-28",
+   "explanation_status": "unexplained",
+   "location_name": "30 miles NW of Lake Mead, Nevada",
+   "object_count": "5-6",
+   "page_refs": [
+    46,
+    47
+   ],
+   "quote": "five or six white, circular objects",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular",
+   "size": "36 inches",
+   "time_local": "1515",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Pilot observed two round objects descending at high speed.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "descending straight down"
+   ],
+   "color": "light gray",
+   "country": "USA",
+   "date": "1947-06-30",
+   "explanation_status": "unexplained",
+   "location_name": "Grand Canyon, Arizona",
+   "object_count": "2",
+   "page_refs": [
+    48
+   ],
+   "quote": "two round objects going at inconceivable speeds, straight down",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular",
+   "size": "8 feet",
+   "time_local": "0910",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Observer saw objects followed by spinning red fragments.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "medium",
+   "behavior": [
+    "spinning",
+    "criss-crossing rays"
+   ],
+   "color": "red",
+   "country": "USA",
+   "date": "1947-07-06",
+   "explanation_status": "unexplained",
+   "location_name": "Tarzana, California",
+   "object_count": "multiple",
+   "page_refs": [
+    52,
+    53
+   ],
+   "quote": "spinning objects of some red substance",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Astronomer observed a group of light-colored objects.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "moving irregularly like a swarm of bees"
+   ],
+   "color": "light colored",
+   "country": "USA",
+   "date": "1947-07-03",
+   "explanation_status": "unexplained",
+   "location_name": "South Brooksville, Maine",
+   "object_count": "10",
+   "page_refs": [
+    63,
+    64
+   ],
+   "quote": "bunch of very light colored objects",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "time_local": "1430",
+   "witness_count": "1",
+   "witness_types": [
+    "scientist"
+   ]
+  },
+  {
+   "summary": "Light observed moving rapidly across the sky.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "straight course"
+   ],
+   "color": "cool bright white",
+   "country": "USA",
+   "date": "1947-07-07",
+   "explanation_status": "unexplained",
+   "location_name": "Arlington, Virginia",
+   "object_count": "1",
+   "page_refs": [
+    65,
+    66,
+    67,
+    68
+   ],
+   "quote": "light appeared at the right-hand edge of the extreme end window",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "blob",
+   "size": "30 feet",
+   "time_local": "2230",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Silvery sphere or disc observed moving at high velocity.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "horizontal motion"
+   ],
+   "color": "silvery",
+   "country": "USA",
+   "date": "1947-07-21",
+   "explanation_status": "unexplained",
+   "location_name": "New Mexico",
+   "object_count": "1",
+   "page_refs": [
+    69
+   ],
+   "quote": "silvery sphere or disc",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "sphere / disc",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Mosquito aircraft vectored onto unidentified aircraft.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "controlled evasive action"
+   ],
+   "country": "UK",
+   "date": "1947-01-16",
+   "explanation_status": "unexplained",
+   "location_name": "North Sea to Norfolk, UK",
+   "object_count": "1",
+   "page_refs": [
+    73
+   ],
+   "quote": "unidentified aircraft appeared to take efficient controlled evasive action",
+   "recording_agency": "RAF",
+   "sensors": [
+    "radar",
+    "visual"
+   ],
+   "time_local": "2230",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Silver object observed executing maneuvers.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "climbing",
+    "diving",
+    "reversal of direction"
+   ],
+   "color": "silver",
+   "country": "USA",
+   "date": "1947-05-19",
+   "explanation_status": "unexplained",
+   "location_name": "Manitou Springs, Colorado",
+   "object_count": "1",
+   "page_refs": [
+    80
+   ],
+   "quote": "silver object in the sky approaching from the North East",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "time_local": "1215",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Object observed moving in the south.",
+   "date_precision": "month",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "moving toward observer"
+   ],
+   "color": "frosty white",
+   "country": "USA",
+   "date": "1947-05",
+   "explanation_status": "unexplained",
+   "location_name": "Oklahoma City, Oklahoma",
+   "object_count": "1",
+   "page_refs": [
+    81,
+    82
+   ],
+   "quote": "appeared elliptical at first and as it moved closer it appeared perfectly round",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "elliptical / round",
+   "size": "bulk of six B-29s",
+   "time_local": "2030",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Silvery-white object observed moving fast.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "moving fast in straight line"
+   ],
+   "color": "silvery-white",
+   "country": "USA",
+   "date": "1947-06-22",
+   "explanation_status": "unexplained",
+   "location_name": "Greenfield, Massachusetts",
+   "object_count": "1",
+   "page_refs": [
+    83
+   ],
+   "quote": "speeding, brilliant, small, round-shaped, silvery-white object",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "size": "small",
+   "time_local": "1130",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Pilot observed black object performing maneuvers.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "erratic movement",
+    "barrel roll"
+   ],
+   "color": "black",
+   "country": "USA",
+   "date": "1947-07-09",
+   "explanation_status": "unexplained",
+   "location_name": "Boise, Idaho",
+   "object_count": "1",
+   "page_refs": [
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92
+   ],
+   "quote": "performed a maneuver which looked as if it had begun a slow roll",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual",
+    "photo"
+   ],
+   "shape": "round",
+   "time_local": "1217",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Pilot observed nine objects flying in formation.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "flying in chain-like line",
+    "dipping"
+   ],
+   "color": "bright",
+   "country": "USA",
+   "date": "1947-06-24",
+   "explanation_status": "unexplained",
+   "location_name": "Cascade Mountains, Washington",
+   "object_count": "9",
+   "page_refs": [
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103
+   ],
+   "quote": "chain of nine peculiar looking aircraft",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "saucer-like",
+   "time_local": "1500",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Light observed traveling in zig-zag course.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "zig-zag",
+    "bursts of speed"
+   ],
+   "color": "brilliant",
+   "country": "USA",
+   "date": "1947-06-28",
+   "explanation_status": "unexplained",
+   "location_name": "Maxwell Field, Alabama",
+   "object_count": "1",
+   "page_refs": [
+    104,
+    105
+   ],
+   "quote": "traveled in a zig zag course with frequent bursts of speed",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "time_local": "2120",
+   "witness_count": "4",
+   "witness_types": [
+    "military-pilot",
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Object observed moving at high velocity.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "horizontal flight"
+   ],
+   "color": "silvery",
+   "country": "USA",
+   "date": "1947-07-06",
+   "explanation_status": "unexplained",
+   "location_name": "Fairfield, California",
+   "object_count": "1",
+   "page_refs": [
+    114
+   ],
+   "quote": "excessive rate of speed estimated to be faster than any type of aircraft",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "time_local": "unknown",
+   "witness_count": "2",
+   "witness_types": [
+    "military-other",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Objects observed moving at high speed.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "descended vertically",
+    "horizontal flight"
+   ],
+   "country": "USA",
+   "date": "1947-07-07",
+   "explanation_status": "unexplained",
+   "location_name": "Koshkonong, Wisconsin",
+   "object_count": "multiple",
+   "page_refs": [
+    115
+   ],
+   "quote": "descended vertically edgewise through altocumulus clouds",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "saucer",
+   "time_local": "1145",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Flat object observed at high altitude.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "horizontal flight"
+   ],
+   "color": "light reflecting",
+   "country": "USA",
+   "date": "1947-07-08",
+   "explanation_status": "unexplained",
+   "location_name": "Mt. Baldy, California",
+   "object_count": "1",
+   "page_refs": [
+    116
+   ],
+   "quote": "flat object of light reflecting nature",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "flat",
+   "time_local": "1550",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Object observed following contours of mountains.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "following contours"
+   ],
+   "color": "grayish",
+   "country": "USA",
+   "date": "1947-07-12",
+   "explanation_status": "unexplained",
+   "location_name": "Elmendorf Field, Alaska",
+   "object_count": "1",
+   "page_refs": [
+    120
+   ],
+   "quote": "object resembling a grayish balloon",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "balloon",
+   "size": "10 feet",
+   "time_local": "1200",
+   "witness_count": "several",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Aluminum colored object observed moving at great speed.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "great speed"
+   ],
+   "color": "aluminum",
+   "country": "USA",
+   "date": "1947-07-11",
+   "explanation_status": "unexplained",
+   "location_name": "Elmendorf Field, Alaska",
+   "object_count": "1",
+   "page_refs": [
+    121
+   ],
+   "quote": "object resembling an aluminum colored balloon",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "balloon",
+   "size": "3 feet",
+   "time_local": "1121",
+   "witness_count": "2",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Circular object observed moving at high speed.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "high speed"
+   ],
+   "color": "silver white",
+   "country": "USA",
+   "date": "1947-07-20",
+   "explanation_status": "unexplained",
+   "location_name": "Cumberland, Maryland",
+   "object_count": "1",
+   "page_refs": [
+    122,
+    123,
+    124
+   ],
+   "quote": "circular or possibly round, light - almost white in color",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular",
+   "time_local": "0945",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

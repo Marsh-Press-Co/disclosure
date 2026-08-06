@@ -1,0 +1,102 @@
+{
+ "doc_id": "nasa-uap-d7-skylab-technical-crew-debriefing-1973",
+ "file": "pursue-r1--nasa-uap-d7-skylab-technical-crew-debriefing-1973.md",
+ "source": "PURSUE-R1",
+ "agency": "NASA",
+ "title": "NASA-UAP-D7, Skylab Techincal Crew Debriefing 1973",
+ "record_type": "other",
+ "index_date": "1973-06-15",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document contains technical crew debriefing excerpts from Skylab missions 1/2, 1/3, and 1/4, detailing various visual observations and operational anomalies.",
+ "incidents": [
+  {
+   "summary": "Skylab 2 crew observed light flashes while in the station.",
+   "date_precision": "month",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "wax and wane in frequency"
+   ],
+   "color": "unknown",
+   "country": "n/a",
+   "date": "1973-06",
+   "explanation_status": "not-assessed",
+   "location_name": "Skylab",
+   "page_refs": [
+    2,
+    3
+   ],
+   "quote": "We saw light flashes. I think all of us saw them.",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "3",
+   "witness_types": [
+    "astronaut"
+   ]
+  },
+  {
+   "summary": "Skylab 3 crew observed a bright reddish satellite in similar orbit.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "rotating",
+    "drifting"
+   ],
+   "color": "reddish",
+   "country": "n/a",
+   "date": "1973-09",
+   "duration": "10 minutes",
+   "explanation_status": "unexplained",
+   "location_name": "Skylab",
+   "page_refs": [
+    5,
+    7,
+    8
+   ],
+   "quote": "This bright reddish object was out there and we tracked it for about 5 or 10 minutes.",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "star-like",
+   "witness_count": "2",
+   "witness_types": [
+    "astronaut"
+   ]
+  },
+  {
+   "summary": "Skylab 4 crew observed flashing lights outside the station.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "flashing",
+    "tumbling",
+    "definite motion"
+   ],
+   "color": "unknown",
+   "country": "n/a",
+   "date": "1974-02",
+   "explanation_status": "partially-explained",
+   "location_name": "Skylab",
+   "page_refs": [
+    10,
+    11
+   ],
+   "quote": "on occasion we saw some lights flashing outside with very a definite motion relative to ours.",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "3",
+   "witness_types": [
+    "astronaut"
+   ]
+  }
+ ]
+}

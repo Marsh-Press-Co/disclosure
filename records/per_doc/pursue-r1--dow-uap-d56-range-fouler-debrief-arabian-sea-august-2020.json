@@ -1,0 +1,44 @@
+{
+ "doc_id": "dow-uap-d56-range-fouler-debrief-arabian-sea-august-2020",
+ "file": "pursue-r1--dow-uap-d56-range-fouler-debrief-arabian-sea-august-2020.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D56, Range Fouler Debrief, Arabian Sea, August 2020",
+ "record_type": "other",
+ "index_date": "2020-08-24",
+ "index_location": "Arabian Sea",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a U.S. Navy Range Fouler Debrief Form detailing an encounter with three unidentified air contacts in the North Arabian Sea, containing some redactions.",
+ "incidents": [
+  {
+   "summary": "A U.S. Navy pilot observed three unidentified small air contacts while conducting routine operations in the North Arabian Sea.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "westerly heading",
+    "maintain relative course, speed, and altitude"
+   ],
+   "country": "unknown",
+   "date": "2020-08-24",
+   "explanation_status": "unexplained",
+   "location_name": "North Arabian Sea",
+   "object_count": "3",
+   "page_refs": [
+    1
+   ],
+   "quote": "observed 3x possible unidentified small air contacts while conducting routine operations in the North Arabian Sea",
+   "recording_agency": "US Navy",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "wings/airframe",
+   "time_local": "00:04:30",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

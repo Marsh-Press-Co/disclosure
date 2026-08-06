@@ -1,0 +1,217 @@
+{
+ "doc_id": "65_hs1-834228961_62-hq-83894_serial_449",
+ "file": "pursue-r1--65_hs1-834228961_62-hq-83894_serial_449.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "65_HS1-834228961_62-HQ-83894_Serial_449",
+ "record_type": "case_file",
+ "index_date": "1957-06-15",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FBI case file records and newspaper clippings regarding UFO sightings and the Amalgamated Flying Saucer Clubs of America (AFSCA) from 1965-1966.",
+ "incidents": [
+  {
+   "summary": "Johnny Sparks, 11, reported seeing two saucer-shaped objects with legs that landed in his driveway.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "spinning",
+    "landing"
+   ],
+   "color": "purple, red, orange, green",
+   "country": "USA",
+   "date": "1966-03-25",
+   "location_name": "Wichita, Kansas",
+   "object_count": "2",
+   "page_refs": [
+    13
+   ],
+   "quote": "The top part spun, but the ring part didn't. It was like a big fat doughnut.",
+   "recording_agency": "Wichita Beacon",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "doughnut",
+   "size": "25 feet in diameter",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Two boys observed a hovering object with flashing lights over a swamp.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "flashing",
+    "vertical ascent"
+   ],
+   "color": "silvery, red, yellow",
+   "country": "USA",
+   "date": "1966-03-26",
+   "location_name": "Bloomingdale, New York",
+   "object_count": "1",
+   "page_refs": [
+    13
+   ],
+   "quote": "The object hovered about 100 to 200 yards from the boys, from 150 feet to 300 feet above the ground.",
+   "recording_agency": "The Sun-Bulletin",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "flat bottom, rounded top",
+   "size": "length of a car",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Louis S. Smith family observed a saucer-shaped object using binoculars and a telescope.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "moving",
+    "hovering",
+    "rapid maneuvers"
+   ],
+   "color": "blue-grayish, white",
+   "country": "USA",
+   "date": "1966-04-07",
+   "location_name": "North Bend, Washington",
+   "object_count": "1",
+   "page_refs": [
+    13
+   ],
+   "quote": "It appeared to be traveling from north to south",
+   "recording_agency": "unknown",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "saucer-like",
+   "witness_count": "4",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Charles Cozens reported touching the antenna of a glowing flying ship, resulting in a burn.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "landing",
+    "flickering"
+   ],
+   "color": "blue, green",
+   "country": "Canada",
+   "date": "1966-04-04",
+   "location_name": "Hamilton, Ontario",
+   "object_count": "2",
+   "page_refs": [
+    13
+   ],
+   "quote": "A 13-year-old Hamilton boy has a curved burn on his hand he claims came from touching the antenna",
+   "recording_agency": "The Montreal Star",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "eight feet long, four feet wide",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Police Constable Donald Cameron observed six glowing objects from his home.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "disappearing at speed"
+   ],
+   "color": "white",
+   "country": "UK",
+   "date": "1966-05-16",
+   "location_name": "St. Helens, Lancs.",
+   "object_count": "6",
+   "page_refs": [
+    17
+   ],
+   "quote": "One was bigger than the others with a cup-shaped dome—obviously the mothership",
+   "recording_agency": "Daily Sketch",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "oval, cup-shaped dome",
+   "witness_count": "2",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Two police officers observed a flaming, copper-colored object on a highway.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "landing",
+    "silent high-speed takeoff"
+   ],
+   "color": "copper, flaming",
+   "country": "South Africa",
+   "date": "1966-02-03",
+   "location_name": "Pretoria",
+   "object_count": "1",
+   "page_refs": [
+    17
+   ],
+   "quote": "One of them, Koos de Klerk, said that the shiny copper-colored object resembled a giant spinning top.",
+   "recording_agency": "Associated Press",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "spinning top",
+   "size": "30 feet in diameter",
+   "witness_count": "2",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Gary T. Wilcox reported an encounter with an egg-shaped craft and its occupants.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "landing",
+    "lifting off"
+   ],
+   "color": "metallic",
+   "country": "USA",
+   "date": "1964-04-24",
+   "location_name": "Newark Valley, New York",
+   "object_count": "1",
+   "page_refs": [
+    18
+   ],
+   "quote": "Mr. Wilcox touched the metallic, egg-shaped craft and heard its strange speech",
+   "recording_agency": "The Sunday Press",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "egg-shaped",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

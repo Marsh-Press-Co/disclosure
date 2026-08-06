@@ -1,0 +1,415 @@
+{
+ "doc_id": "65_hs1-834228961_62-hq-83894_section_7",
+ "file": "pursue-r1--65_hs1-834228961_62-hq-83894_section_7.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "65_HS1-834228961_62-HQ-83894_Section_7",
+ "record_type": "case_file",
+ "index_date": "1957-06-15",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This document is a collection of FBI case files (62-HQ-83894) regarding UFO/UAP investigations, correspondence, and inter-agency communications between 1952 and 1953. / This document is an FBI case file (62-HQ-83894) containing correspondence, reports, and teletypes regarding UAP sightings and related public inquiries between 1952 and 1954.",
+ "incidents": [
+  {
+   "summary": "Two employees of the E. I. Du Pont Company observed a saucer-shaped object with a blue light and orange fringe flying at high speed in a northeastern direction.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "high speed",
+    "flying"
+   ],
+   "color": "blue with orange fringe",
+   "country": "USA",
+   "date": "1952-08-08",
+   "location_name": "Savannah River Plant, 400 Area",
+   "object_count": "1",
+   "page_refs": [
+    3
+   ],
+   "quote": "SAW A BLUE LIGHT WITH AN ORANGE FRINGE SHAPED LIKE A SAUCER",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "saucer",
+   "witness_count": "2",
+   "witness_types": [
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "A steady white light was observed circling a farm, and tinsel-like material was found in a pasture in a triangular pattern of burned clover.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "circling"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "1952-08-03",
+   "location_name": "Jackson, Minnesota",
+   "page_refs": [
+    25,
+    27,
+    29
+   ],
+   "quote": "steady white Light circling their farm",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "A scoutmaster observed a 30-foot diameter object that hovered over his head and emitted a red blob, causing him to lose consciousness and leaving singe marks on his cap and arms.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "hovered",
+    "emitted red blob"
+   ],
+   "country": "USA",
+   "date": "1952-08-26",
+   "location_name": "West Palm Beach, Florida",
+   "page_refs": [
+    44
+   ],
+   "quote": "object 30 feet in diameter hovered over his head and shot a red blob",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "size": "30 feet",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "A strange white object streaked across the sky for approximately 100 miles.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "streaked across sky"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "1952-09-19",
+   "location_name": "Montana",
+   "page_refs": [
+    61
+   ],
+   "quote": "strange white object which reportedly streaked across the sky",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "unknown",
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "A New York State Trooper observed and photographed an unidentified object traveling horizontally across the sky.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "horizontal flight",
+    "circles",
+    "rapid acceleration"
+   ],
+   "country": "USA",
+   "date": "1952-10-06",
+   "location_name": "New York State",
+   "page_refs": [
+    64
+   ],
+   "quote": "observed and photographed an unidentified object",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "photo"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "A Navy photographer captured motion-picture film of 12 to 16 flying objects.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "flying"
+   ],
+   "country": "USA",
+   "date": "1952-10-23",
+   "page_refs": [
+    94
+   ],
+   "quote": "as many as twelve to sixteen flying objects recorded on this film",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "photo"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "A large explosion in central Africa was initially reported as potentially caused by a flying saucer, but later reports indicated it was a meteor.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "recording_agency": "FBI",
+   "sensors": [
+    "other"
+   ],
+   "shape": "unknown",
+   "size": "unknown",
+   "witness_count": "unknown",
+   "witness_types": [
+    "unknown",
+    "government-civilian",
+    "military-other",
+    "scientist"
+   ]
+  },
+  {
+   "summary": "Three strange objects were observed over Franklin, Indiana, by police and civilians, performing aerial maneuvers for over four hours.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "barrel rolls",
+    "loops",
+    "spins",
+    "dancing",
+    "formation flight"
+   ],
+   "color": "white, orange, red",
+   "country": "USA",
+   "date": "1952-07-28",
+   "duration": "4 hours 15 minutes",
+   "explanation_status": "not-assessed",
+   "location_name": "Franklin, Indiana",
+   "object_count": "3",
+   "page_refs": [
+    123
+   ],
+   "quote": "The objects made single sorties to the south completely out of sight, to return almost immediately into view again",
+   "recording_agency": "IFSB",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round and flat",
+   "size": "unknown",
+   "time_local": "06:00",
+   "witness_count": "many",
+   "witness_types": [
+    "federal-le",
+    "civilian",
+    "military-other"
+   ]
+  },
+  {
+   "summary": "A round object was observed northeast of Long Prairie, Minnesota, traveling east to west.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "medium",
+   "behavior": [
+    "ascended with a low hum"
+   ],
+   "color": "dull gray",
+   "country": "USA",
+   "date": "1953-04-20",
+   "duration": "45 seconds",
+   "explanation_status": "not-assessed",
+   "location_name": "Long Prairie, Minnesota",
+   "object_count": "1",
+   "page_refs": [
+    123
+   ],
+   "recording_agency": "IFSB",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "size": "unknown",
+   "time_local": "14:30",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "A disc-shaped object was observed in the east of Los Angeles, remaining stationary before moving north.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "color": "yellowish white",
+   "country": "USA",
+   "date": "1952-09-22",
+   "duration": "4 seconds",
+   "explanation_status": "not-assessed",
+   "location_name": "Los Angeles, California",
+   "object_count": "1",
+   "page_refs": [
+    123
+   ],
+   "recording_agency": "IFSB",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "size": "50 feet",
+   "time_local": "21:08",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "B-29 crew observed a bright, greenish-blue light approaching rapidly and executing a sharp turn over the Sea of Japan.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "sharp left turn",
+    "high speed"
+   ],
+   "color": "greenish-blue",
+   "country": "Japan",
+   "date": "1952-04-18",
+   "duration": "45 seconds",
+   "explanation_status": "not-assessed",
+   "location_name": "Sea of Japan",
+   "object_count": "1",
+   "page_refs": [
+    129
+   ],
+   "quote": "observed a bright, greenish-blue light of unusual intensity approaching rapidly",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "size": "unknown",
+   "time_local": "22:10",
+   "witness_count": "6",
+   "witness_types": [
+    "military-pilot",
+    "military-other"
+   ]
+  },
+  {
+   "summary": "An unidentified flying object was observed at Fort Buchanan, Puerto Rico, described as a bright star or ball of fire.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "medium",
+   "color": "bright",
+   "country": "Puerto Rico",
+   "date": "1953-04-08",
+   "duration": "unknown",
+   "explanation_status": "not-assessed",
+   "location_name": "Fort Buchanan, Puerto Rico",
+   "object_count": "1",
+   "page_refs": [
+    142
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "ball",
+   "size": "unknown",
+   "time_local": "11:30",
+   "witness_count": "5",
+   "witness_types": [
+    "military-other",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "A witness observed a round, orange-colored object in a parking lot in Watertown, Massachusetts.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "traveled horizontally at slow speed"
+   ],
+   "color": "orange",
+   "country": "USA",
+   "date": "1953-05-07",
+   "duration": "a few seconds",
+   "explanation_status": "not-assessed",
+   "location_name": "Watertown, Massachusetts",
+   "object_count": "1",
+   "page_refs": [
+    147,
+    148
+   ],
+   "quote": "It was round in shape & a rather orange color.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "size": "unknown",
+   "time_local": "21:25",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Three men encountered three small animals near a flying saucer on a highway near Mableton, Georgia; one animal was killed by their car.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "running toward saucer"
+   ],
+   "color": "pinkish",
+   "country": "USA",
+   "date": "1953-07-08",
+   "duration": "unknown",
+   "explanation_status": "not-assessed",
+   "location_name": "Mableton, Georgia",
+   "object_count": "1",
+   "page_refs": [
+    154,
+    156,
+    159,
+    160,
+    161,
+    163
+   ],
+   "quote": "encountered three small animals which they believed had landed from some place in flying saucer",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "saucer",
+   "size": "21 inches long",
+   "time_local": "00:00",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "doc_id": "dow-uap-d61-mission-report-persian-gulf-august-2020",
+ "file": "pursue-r1--dow-uap-d61-mission-report-persian-gulf-august-2020.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D61, Mission Report, Persian Gulf, August 2020",
+ "record_type": "mission_report",
+ "index_date": "2020-08-27",
+ "index_location": "Persian Gulf",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a declassified Mission Report (MISREP) from USCENTCOM detailing an aerial observation of unidentified objects in the Persian Gulf region on August 27, 2020, featuring significant redactions under 1.4(a) and other classification authorities.",
+ "incidents": [
+  {
+   "summary": "A U.S. military aircraft observed a formation of unknown flying objects traveling northeast to northwest along the coast for approximately two minutes before losing tracking due to cloud cover.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "traveling northeast to northwest along the coast"
+   ],
+   "country": "Iran",
+   "date": "2020-08-27",
+   "duration": "2 minutes",
+   "explanation_status": "unexplained",
+   "location_name": "Persian Gulf",
+   "page_refs": [
+    1,
+    5,
+    6,
+    7
+   ],
+   "quote": "observed a formation of unknown flying objects traveling northeast to northwest along the coast",
+   "recording_agency": "USCENTCOM",
+   "sensors": [
+    "other"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

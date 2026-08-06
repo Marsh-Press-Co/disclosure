@@ -1,0 +1,136 @@
+{
+ "doc_id": "western_us_event_slides_5.08.2026",
+ "file": "pursue-r1--western_us_event_slides_5.08.2026.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "Western US Event",
+ "record_type": "other",
+ "index_date": "2023-06-15",
+ "index_location": "Western United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a summary of reports from federal law enforcement agents regarding UAP sightings in the Western United States in 2023.",
+ "incidents": [
+  {
+   "summary": "Multiple teams of federal law enforcement agents observed orange orbs launching smaller red orbs.",
+   "date_precision": "year",
+   "time_of_day": "dusk",
+   "confidence": "high",
+   "behavior": [
+    "launching smaller objects",
+    "disappearing",
+    "moving horizontally",
+    "moving at an angle",
+    "swooping down"
+   ],
+   "color": "orange, red",
+   "country": "United States",
+   "date": "2023",
+   "explanation_status": "not-assessed",
+   "location_name": "Western U.S.",
+   "object_count": "multiple",
+   "page_refs": [
+    1
+   ],
+   "quote": "orange “orbs” in the sky emit/launch smaller red “orbs”",
+   "recording_agency": "AARO",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "orb",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Federal law enforcement agents observed a large glowing orange orb perched near a rock pinnacle.",
+   "date_precision": "year",
+   "time_of_day": "dusk",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "suspended"
+   ],
+   "color": "orange",
+   "country": "United States",
+   "date": "2023",
+   "duration": "about a minute",
+   "explanation_status": "not-assessed",
+   "location_name": "Western U.S.",
+   "object_count": "1",
+   "page_refs": [
+    2
+   ],
+   "quote": "seemed to be hovering with zero resistance or movement, or to be suspended",
+   "recording_agency": "AARO",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "orb",
+   "size": "12-18 meters",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Federal law enforcement agents pursued a dark kite-shaped object moving laterally over the desert.",
+   "date_precision": "year",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "moving laterally",
+    "moving at 15-20mph",
+    "zero resistance",
+    "moving up in height"
+   ],
+   "color": "dark",
+   "country": "United States",
+   "date": "2023",
+   "explanation_status": "not-assessed",
+   "location_name": "Western U.S.",
+   "object_count": "1",
+   "page_refs": [
+    3
+   ],
+   "quote": "it almost looked like an ill defined, dark kite shape",
+   "recording_agency": "AARO",
+   "sensors": [
+    "visual",
+    "nvg"
+   ],
+   "shape": "triangular",
+   "size": "4 feet wide",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Federal law enforcement agents observed a transparent kite-shaped object floating in the wind.",
+   "date_precision": "year",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "floating",
+    "blocking light"
+   ],
+   "country": "United States",
+   "date": "2023",
+   "explanation_status": "not-assessed",
+   "location_name": "Western U.S.",
+   "object_count": "1",
+   "page_refs": [
+    4
+   ],
+   "quote": "vaguely see a bright star or two in the distance through the object",
+   "recording_agency": "AARO",
+   "sensors": [
+    "visual",
+    "nvg"
+   ],
+   "shape": "kite",
+   "witness_types": [
+    "federal-le"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,253 @@
+{
+ "doc_id": "65_hs1-834228961_62-hq-83894_section_9",
+ "file": "pursue-r1--65_hs1-834228961_62-hq-83894_section_9.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "65_HS1-834228961_62-HQ-83894_Section_9",
+ "record_type": "case_file",
+ "index_date": "1957-06-15",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This document is an FBI case file (62-HQ-83894) containing correspondence, internal memoranda, and reports regarding UFO sightings and the activities of civilian UFO research organizations between 1957 and 1960. / This document is an FBI case file (62-HQ-83894) containing investigative records, correspondence, and teletypes regarding UFO sightings and public inquiries from 1947 to 1966.",
+ "incidents": [
+  {
+   "summary": "Two individuals reported seeing a flying disc in the shape of a man's hat hovering over Matahambre, Cuba, before it disappeared at high speed toward the sea.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "medium",
+   "behavior": [
+    "hovering",
+    "silent flight",
+    "high speed departure"
+   ],
+   "shape": "man's hat",
+   "size": "larger than ordinary airplanes",
+   "time_local": "17:30",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "An unknown object described as looking like the moon and trailing a pulsing blue flame was reported in Vernal, Utah.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "landed"
+   ],
+   "color": "blue",
+   "date": "1957-10-10",
+   "explanation_status": "explained",
+   "location_name": "Vernal, Utah",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "looked like the moon"
+  },
+  {
+   "summary": "A woman reported seeing a flying saucer hovering over her farm in Michigan, which she believed was piloted by outer space visitors who took newspapers and magazines.",
+   "date_precision": "year",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "motionless",
+    "noiseless",
+    "taking items"
+   ],
+   "shape": "dome shaped like an eskimo hut",
+   "witness_count": "5",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "A report of an unidentified flying object near Torrington, Connecticut.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "medium",
+   "date": "1957-12-05",
+   "explanation_status": "not-assessed",
+   "location_name": "Torrington, Connecticut",
+   "time_local": "20:05",
+   "witness_count": "unknown"
+  },
+  {
+   "summary": "Joseph Perry observed an unidentified flying object in a photograph he took of the moon.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "moving"
+   ],
+   "color": "fluorescent glow",
+   "date": "1960-02-21",
+   "explanation_status": "not-assessed",
+   "location_name": "Grand Blanc, Michigan",
+   "sensors": [
+    "photo"
+   ],
+   "shape": "oval",
+   "time_local": "01:00",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "George W. Van Tassel gave a lecture at Phipps Auditorium in Denver, Colorado, discussing UFOs, religious-economic theories, and claims of contact with space people.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "lecture",
+    "movie presentation"
+   ],
+   "country": "USA",
+   "date": "1960-04-17",
+   "location_name": "Phipps Auditorium, City Park, Denver, Colorado",
+   "page_refs": [
+    146,
+    148,
+    152,
+    156,
+    160
+   ],
+   "quote": "The program consisted of a 45 minute movie which included several shots of things purported to be flying saucers",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "250",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Joseph Perry of Grand Blanc, Michigan, claimed a photograph of the moon contained a flying object. The Air Force stated it was a development error.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "photographed"
+   ],
+   "country": "USA",
+   "date": "1960-05-03",
+   "explanation_status": "explained",
+   "location_name": "Grand Blanc, Michigan",
+   "page_refs": [
+    164,
+    166,
+    167
+   ],
+   "quote": "what appears to be a flying object in this slide is actually a part of the negative which was not properly developed",
+   "recording_agency": "FBI",
+   "sensors": [
+    "photo"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Leonard H. Stringfield received an anonymous phone call warning of a flurry of UFO sightings between October 15 and 19, 1961, linked to Russian nuclear tests.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "anonymous phone call"
+   ],
+   "country": "USA",
+   "date": "1961-09-25",
+   "explanation_status": "not-assessed",
+   "location_name": "Cincinnati, Ohio",
+   "page_refs": [
+    182,
+    183,
+    185,
+    186,
+    188,
+    189,
+    191,
+    192
+   ],
+   "quote": "Mark these dates, October 15 to October 19, during which will be the greatest incident in UFO (Unidentified Flying Objects) activity over the years",
+   "recording_agency": "FBI",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Lonnie Zamora, a Socorro police officer, observed a landed oval-shaped object with two occupants in white coveralls, which then took off with a roar and flames.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "landed",
+    "hovered",
+    "took off at high speed"
+   ],
+   "color": "whitish",
+   "country": "USA",
+   "date": "1964-04-24",
+   "explanation_status": "unexplained",
+   "location_name": "Socorro, New Mexico",
+   "page_refs": [
+    226,
+    228,
+    229,
+    231,
+    232,
+    233,
+    235,
+    236,
+    237
+   ],
+   "quote": "ZAMORA STATES OBJECT WAS OVAL SHAPED, SIMILAR TO FOOTBALL, POSSIBLY TWENTY FEET LONG",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "oval",
+   "size": "20 feet long",
+   "time_local": "17:50",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Orlando Gallegos observed a butane-tank-shaped object at La Maderia, New Mexico, surrounded by a blue-white flame.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "stationary",
+    "flaming"
+   ],
+   "country": "USA",
+   "date": "1964-04-26",
+   "explanation_status": "unexplained",
+   "location_name": "La Maderia, New Mexico",
+   "page_refs": [
+    221,
+    222,
+    223,
+    224
+   ],
+   "quote": "SOMETHING SHAPED LIKE A BUTANE TANK, POSSIBLY TWELVE TO FOURTEEN FEET HIGH",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "butane tank",
+   "size": "12-14 feet high",
+   "time_local": "01:00",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}
