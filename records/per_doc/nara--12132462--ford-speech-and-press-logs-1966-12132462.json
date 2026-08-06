@@ -1,0 +1,79 @@
+{
+ "doc_id": "nara--12132462--ford-speech-and-press-logs-1966-12132462",
+ "file": "nara--12132462--ford-speech-and-press-logs-1966-12132462.md",
+ "source": "NARA-RG615",
+ "agency": "White House (Ford)",
+ "title": "Ford speech and press logs 1966 - 12132462",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a log of speeches and press releases by Gerald R. Ford during 1966, containing brief mentions of UFO-related investigations and hearings.",
+ "incidents": [
+  {
+   "summary": "UFO Investigation",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "page_refs": [
+    3
+   ],
+   "quote": "UFO Investigation",
+   "recording_agency": "White House (Ford)",
+   "shape": "",
+   "size": "",
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "UFO Investigation Request",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "page_refs": [
+    3
+   ],
+   "quote": "UFO Investigation Request",
+   "recording_agency": "White House (Ford)",
+   "shape": "",
+   "size": "",
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "UFO - Karth, Rep. Jos. E., Hearings",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "page_refs": [
+    4
+   ],
+   "quote": "UFO - Karth, Rep. Jos. E., Hearings",
+   "recording_agency": "White House (Ford)",
+   "shape": "",
+   "size": "",
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "UFO Study",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "page_refs": [
+    4
+   ],
+   "quote": "UFO Study",
+   "recording_agency": "White House (Ford)",
+   "shape": "",
+   "size": "",
+   "witness_types": [
+    "unknown"
+   ]
+  }
+ ]
+}

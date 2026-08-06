@@ -1,0 +1,63 @@
+{
+ "doc_id": "nara--12130682--ford-press-releases-jan-apr-1966-12130682",
+ "file": "nara--12130682--ford-press-releases-jan-apr-1966-12130682.md",
+ "source": "NARA-RG615",
+ "agency": "White House (Ford)",
+ "title": "Ford press releases Jan-Apr 1966 - 12130682",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of press releases from Congressman Gerald R. Ford between January and April 1966, containing several references to UFO sightings in Michigan and his subsequent calls for a congressional investigation.",
+ "incidents": [
+  {
+   "summary": "At least 40 persons, including 12 policemen, reported seeing a strange flying object guarded by four sister ships land in a swamp near Ann Arbor, Michigan.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "landing",
+    "guarded by sister ships"
+   ],
+   "country": "United States",
+   "date": "1966-03-20",
+   "explanation_status": "unexplained",
+   "location_name": "Ann Arbor, Michigan",
+   "object_count": "5",
+   "page_refs": [
+    29
+   ],
+   "quote": "at least 40 persons, including 12 policemen, said today that they saw a strange flying object guarded by four sister ships land in a swamp",
+   "recording_agency": "UPI",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "40",
+   "witness_types": [
+    "federal-le",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "A recent UFO sighting by Emile Grenier, an aeronautical engineer employed by Ford Motor Company.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "United States",
+   "explanation_status": "not-assessed",
+   "location_name": "Ann Arbor, Michigan",
+   "page_refs": [
+    29
+   ],
+   "quote": "an eye witness account of a recent UFO sighting by Emile Grenier of Ann Arbor, an aeronautical engineer employed by Ford Motor Company",
+   "recording_agency": "WJR",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

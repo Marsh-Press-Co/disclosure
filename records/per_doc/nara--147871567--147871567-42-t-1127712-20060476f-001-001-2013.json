@@ -1,0 +1,53 @@
+{
+ "doc_id": "nara--147871567--147871567-42-t-1127712-20060476f-001-001-2013",
+ "file": "nara--147871567--147871567-42-t-1127712-20060476f-001-001-2013.md",
+ "source": "NARA-RG615",
+ "agency": "National Archives (RG 615)",
+ "title": "147871567 - 42-t-1127712-20060476F-001-001-2013",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of correspondence and articles related to the 'Roswell Declaration' petition, including a MUFON Journal issue that provides a detailed debunking of the Roswell incident as a crashed UFO.",
+ "incidents": [
+  {
+   "summary": "Recovery of material alleged to be of extraterrestrial origin in the southwestern desert of the United States.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "crash"
+   ],
+   "country": "United States",
+   "date": "1947-07-08",
+   "explanation": "The material was from an ML-307 radar reflector used in Project Mogul.",
+   "explanation_status": "explained",
+   "location_name": "Roswell, New Mexico",
+   "page_refs": [
+    10,
+    12,
+    14,
+    16,
+    18,
+    26,
+    33,
+    34,
+    35,
+    36
+   ],
+   "quote": "It involved the recovery by the U.S. Military of material alleged to be of extraterrestrial origin.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "balloon array",
+   "witness_count": "numerous",
+   "witness_types": [
+    "military-pilot",
+    "military-other",
+    "civilian"
+   ]
+  }
+ ]
+}

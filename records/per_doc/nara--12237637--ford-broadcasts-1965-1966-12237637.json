@@ -1,0 +1,40 @@
+{
+ "doc_id": "nara--12237637--ford-broadcasts-1965-1966-12237637",
+ "file": "nara--12237637--ford-broadcasts-1965-1966-12237637.md",
+ "source": "NARA-RG615",
+ "agency": "White House (Ford)",
+ "title": "Ford broadcasts 1965-1966 - 12237637",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of radio broadcast scripts and statements by Congressman Gerald R. Ford from 1965-1966, including a specific call for a congressional UFO investigation.",
+ "incidents": [
+  {
+   "summary": "Representative Gerald R. Ford calls for a congressional investigation into a rash of reported UFO sightings in Southern Michigan and other parts of the country.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "sightings"
+   ],
+   "country": "United States",
+   "date": "1966-03-25",
+   "explanation_status": "not-assessed",
+   "location_name": "Southern Michigan",
+   "page_refs": [
+    21,
+    23
+   ],
+   "quote": "I believe Congress should thoroughly investigate the rash of reported sightings of unidentified flying objects in Southern Michigan",
+   "recording_agency": "House of Representatives",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}
