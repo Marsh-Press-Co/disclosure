@@ -1,0 +1,67 @@
+---
+id: "nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973"
+title: "NASA-UAP-D5, Apollo 17 Crew Debriefing for Science, 1973"
+source: PURSUE-R1
+source_url: "https://www.war.gov/medialink/ufo/release_1/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.pdf"
+agency: "NASA"
+record_type: "other"
+incident_date: "1973-06-15"
+year_inferred: false
+incident_location: ""
+description: "Apollo 17 was the ninth crewed U.S. mission to the Moon, and the sixth to land Astronauts on the lunar surface. This document is an excerpt from the Apollo 17 Crew Debriefing for Science on January 8, 1973, in which Dick Henry, co-investigator on the ultraviolet experiment on Apollo 17, discusses seeing results that were unexpected.  •\tPages 119-120. “One of the most exciting results of X-ray astronomy was the fact that an X-ray background was observed over the sky that nobody had expected, and part of this is the gamma-ray background that Dr. Trombka talked about. In the UV, nobody knows, but you never know until you look. You do have to deal with this background of stars that we know is there. So, we did look at a large number of different points at high galactic latitudes, both north and south. The spectrum that we see is above this dark count. In other words, this abnormally high dark current did not, in fact, interfere with that experiment. The spectrum that we see looks like the spectrum of the hot star; however, we know that there were no hot stars within our field of view. Therefore, the most conservative interpretation, I think, is that what we're seeing is light from hot stars in the galactic plane going up out of the plane and reflecting off interstellar dust. There are certain characteristics of the spectrum, though, that don't fit that theory, and it's at least possible that this is extragalactic radiation. I'm looking forward very much to the detailed computer study of this, but it's going to take a long time.”"
+pages: 3
+source_sha256: "5d7db3870de8c01a1c39b7e8a4185dd026fe132f01d1cd5ded60f10866722f7e"
+provenance: "ufo-pursue-open-atlas v0.2 (CC0) VLM transcription (mimo-v2.5 + gpt-5.4-mini fallback); not verbatim OCR - verify quotes against source page images"
+---
+
+# NASA-UAP-D5, Apollo 17 Crew Debriefing for Science, 1973
+
+## Page 1
+
+*Image: NASA logo (vector graphic of a blue circle with a chevron and stars, though rendered in black and white) positioned next to the text "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION". A vertical textured strip runs down the left side of the page.*
+
+*Handwritten annotation at top right:* CB / R.A. PARKER
+
+### MSC-07632
+
+# * APOLLO 17 CREW DEBRIEFING FOR SCIENCE
+
+## JANUARY 8, 1973
+
+### PREPARED BY
+### SCIENCE REQUIREMENTS BRANCH
+### PLANETARY AND EARTH SCIENCES DIVISION
+
+### INDEXING DATA
+
+| DATE | OPR | # | T | PGM | SUBJECT | SIGNATOR | LOC |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-8-73 | MSC | MSC-07632 | B | APO | * | NS | 080-44F |
+
+*Image: Logo of the Manned Spacecraft Center, consisting of a stylized globe with an orbital ring and a star, positioned to the left of the center name.*
+
+### MANNED SPACECRAFT CENTER
+### HOUSTON, TEXAS
+
+*[Handwritten annotation at bottom left]:* HS1- 481238
+
+## Page 2
+
+119
+
+HENRY (CONT'D)
+grvitationally holding it together. We though it might be in the form of ionized hydrogen. We looked for Lyman-alpha radiation, red shifted from the ionized hydrogen, and we didn't see any. We set a lower limit, which certainly excludes the possibility that the Coma cluster is held together by this ionized hydrogen. I think that may leave a real mystery as to what is holding the thing together.
+
+The fourth point may turn out to be the most interesting thing of all. When you look in the Milky Way, you see a lot of UV coming from the stars, but the question is, what do you see when you look up to the North Galactic Pole or down to the South Galactic Pole. One of the most exciting results of X-ray astronomy was the fact that an X-ray background was observed over the sky that nobody had expected, and part of this is the gamma-ray background that Dr. Trombka talked about. In the UV, nobody knows, but you never know until you look. You do have to deal with this background of stars that we know is there. So we did look at a large number of different points at high galactic latitudes, both north and south. The spectrum that we see is above this dark count. In other words, this abnormally high dark current did not, in fact, interfere with that experiment. The spectrum that we see looks like the spectrum of the hot
+
+## Page 3
+
+120
+
+## HENRY (CONT'D)
+
+star; however, we know that there were no hot stars within our field of view. Therefore, the most conservative interpretation, I think, is that what we're seeing is light from hot stars in the galactic plane going up out of the plane and reflecting off interstellar dust. There are certain characteristics of the spectrum, though, that don't fit that theory, and it's at least possible that this is extragalactic radiation. I'm looking forward very much to the detailed computer study of this, but it's going to take a long time.
+
+Fifth point: Lyman-alpha hydrogen radiation is a completely separate problem, and Gary Thomas at the University of Colorado and Charles Barthum [?] observed this from OGO-5. We obtained just an enormous amount of data on the Apollo that's going to straighten out this picture and clarify it considerably. This is hydrogen that is inside our solar system. It's sunlight reflecting off this. The hydrogen, Gary Thomas thinks, is hydrogen from interstellar space streaming through the solar system, and he is looking forward with great anticipation to getting detailed analyses of that.
+
+One more thing: the spectrum of the Earth. I keep saying "we," but these were the guys that were there. We looked at the Earth from outside. A lot of people have observed

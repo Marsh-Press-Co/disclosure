@@ -1,0 +1,5 @@
+raw/
+.env
+__pycache__/
+*.pyc
+graphify-out/.graphify_*
