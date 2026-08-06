@@ -1,11 +1,18 @@
-# FINDINGS — what the government's own UAP paper trail shows (v1 corpus)
+# FINDINGS — what the government's own UAP paper trail shows (PURSUE R1–R4 corpus)
 
-*Built 2026-08-05/06. Corpus: PURSUE Release 1 (161 records, text inherited from the
-CC0 ufo-pursue-open-atlas VLM transcription) + AARO reports + ODNI assessments +
-congressional hearing transcripts = 126 documents, 1.37M words, 4,395 pages.
-Pipeline: per-document markdown → LLM incident extraction (754 records → 593
-canonical incidents after conservative cross-document dedup) → knowledge graph
-(1,781 nodes / 1,310 edges / 28 named communities). Total cash cost: $0.*
+*Built 2026-08-05/06, updated through the Release 2–4 ingests and the 2026-08-06
+review pass. Corpus: PURSUE Releases 1–4 (text inherited from the CC0
+ufo-pursue-open-atlas transcription for R1; direct war.gov acquisition +
+Gemini-vision transcription for R2–R4) + AARO reports + ODNI assessments +
+congressional hearing transcripts = **215 documents, 2.48M words, 8,591 pages**.
+Pipeline: per-document markdown → LLM incident extraction (1,176 records →
+**883 canonical incidents** after conservative cross-document dedup) → knowledge
+graph (3,184 nodes / 2,441 edges / 67 named communities). Total cash cost: $0.*
+
+*Sections 1–8 were written on the v1 corpus and their qualitative claims held
+through R2–R4 (the addenda at the bottom track what moved); §3, §8 and §9 carry
+current numbers, including the re-based corroboration counting (see the
+Revision note).*
 
 **Read the caveats first (§Honesty), then the findings. Every incident carries
 source doc + page references — nothing here is asserted without a citation path.**
@@ -39,17 +46,27 @@ it fades from the record decades before the modern releases. But the sphere/orb
 was already the most-reported 1940s shape and it dominates the 2020s CENTCOM
 sensor reports. Same descriptor, 75 years apart, different sensors.
 
-## 3. Cross-agency corroboration exists, and it's concentrated in summer 1947
+## 3. Cross-agency corroboration exists — and honest counting makes it rare
 
 The novel thing this pipeline does: resolve the same event across different
-agencies' files. **50 of 593 incidents are corroborated by 2+ independent
-agencies.** The most-corroborated incident in the entire release is the founding
-one — **Kenneth Arnold's June 24, 1947 Mt. Rainier sighting (★4: Department of War
-index, FBI case file, Army Air Forces, USAF)**. Close behind: Rockfield, WI
-(6/28/47, ★4) and a yellowish-white sphere over **Muroc Army Air Field** —
-the Air Force's own flight-test base — on 7/7/47 (★4), the day before Roswell's
-press release. The government's most multiply-documented UAP events are the ones
-that started the era.
+agencies' files. Counted strictly, **15 of 883 incidents are corroborated by 2+
+independent government institutions.** "Strictly" means: the modern Department
+of War — publisher of every record in these releases — never counts as a
+corroborating agency; the Army Air Forces and USAF are one institution across
+the September 1947 rename; and press clippings inside files are not agencies.
+These counts are floors, not ceilings — conservative merging leaves some true
+matches unmerged, and where an Air-Force-side record's originating agency
+wasn't stated, a real FBI+USAF pair can be undercounted.
+
+The most-corroborated incident in the corpus is **Tremonton, Utah, July 2, 1952
+(★3: CIA, USAF, US Navy)** — the famous film case, with all three institutions'
+paper represented. Behind it, the summer-1947 wave each carrying both FBI and
+Air Force records: Arnold's Mt. Rainier sighting, Rockfield, Oklahoma City,
+Bakersfield, and the sphere over **Muroc Army Air Field** — the Air Force's own
+flight-test base — the day before Roswell's press release. The green-fireball
+era adds two **AEC + military** pairs (Starvation Peak 1948, New Mexico 1949),
+and the modern era mirrors the pattern with two **FBI + AARO** events (Cheyenne
+Mountain 2022, Western US 2023).
 
 ## 4. The same *class* of location keeps recurring: nuclear and weapons sites
 
@@ -105,31 +122,31 @@ usually means *unassessed paper*, not *investigated mystery*.
 
 | Incident | Date | Agencies |
 |---|---|---|
-| Arnold, Mt. Rainier WA | 1947-06-24 | ★4 DoW, FBI, AAF, USAF |
-| Rockfield WI (7-10 saucers) | 1947-06-28 | ★4 DoW, AAF, USAF, FBI |
-| Muroc AAF sphere | 1947-07-07 | ★4 DoW, FBI, USAF, AAF |
-| Oklahoma City disc | 1947-05 | ★3 DoW, FBI, USAF |
-| Grand Canyon pair | 1947-06-30 | ★3 DoW, AAF, USAF |
-| Boise barrel-roll | 1947-07-09 | ★3 DoW, AAF, USAF |
-| Canyon Ferry MT nickel disc | 1947-07-29 | ★3 DoW, USAF, FBI |
-| Hamilton Field CA pair | 1947-07-29 | ★3 DoW, AAF, USAF |
-| Manitou Springs CO | 1947-05-19 | ★2 DoW, USAF |
+| Tremonton UT film case | 1952-07-02 | ★3 CIA, USAF, US Navy |
+| Oklahoma City disc | 1947-05 | ★2 FBI, USAF |
 | Bakersfield CA (10 discs) | 1947-06-14 | ★2 FBI, USAF |
+| Arnold, Mt. Rainier WA | 1947-06-24 | ★2 FBI, USAF |
+| Rockfield WI (7-10 saucers) | 1947-06-28 | ★2 USAF, FBI |
+| Muroc AAF sphere | 1947-07-07 | ★2 FBI, USAF |
+| Canyon Ferry MT nickel disc | 1947-07-29 | ★2 USAF, FBI |
+| Starvation Peak NM (green-fireball era) | 1948-12 | ★2 FBI, AEC/DOE |
+| Great Falls MT | 1950-08-15 | ★2 CIA, USAF |
+| Cheyenne Mountain CO | 2022-02 | ★2 FBI, AARO |
 
-Full list: `records/timeline.md` (★-flagged), `records/incidents.csv` (sortable).
+All 15: `records/timeline.md` (★-flagged), `records/incidents.csv` (sortable).
 
 ## 9. The encounter layer — beings, contact, and how the government filed it
 *(added 2026-08-06, dedicated extraction pass; full set in `records/encounters.csv`)*
 
-**217 encounter-class records** (anything beyond a distant sighting) across the
-corpus: 134 close approaches, 24 physical-trace claims, 7 landings, and a
-being/contact core of ~50 typed records — of which the reliable
-occupant/contact subset is roughly 20 (the extractor over-applied
-"entity-sighted" to some plural-craft sightings; counts here use the strict
-subset).
+**388 encounter-class records** (anything beyond a distant sighting) across the
+R1–R4 corpus: 269 close approaches, 37 physical-trace claims, 8 landings, and a
+being/contact core of 74 typed records — of which the reliable
+occupant/contact subset is 28 (the extractor over-applies "entity-sighted" to
+some plural-craft sightings; counts here use the strict subset). *(Numbers
+updated 2026-08-06 across all four releases.)*
 
-- **Claimant strata (the honest cut):** 115 civilian, 66 military, 14 civilian
-  pilots, 11 federal law enforcement, 3 known contactee-movement figures.
+- **Claimant strata (the honest cut):** 195 civilian, 138 military, 15 civilian
+  pilots, 27 federal law enforcement, 3 known contactee-movement figures.
   Similarity questions should be asked *within* strata — a sober military
   debrief and a lecture-circuit contact claim are different kinds of paper.
 - **The anchor case for official-witness occupant reports is in the FBI file:
@@ -143,10 +160,11 @@ subset).
   *small* beings; the few US official-witness descriptions run "small,"
   "white," "coveralls." Nobody in this corpus describes the pop-culture
   giant-headed grey.
-- **Claimed communication is genuinely rare:** 10 of 217 records (6 verbal,
-  2 telepathic, 1 written) — and none from military or federal-LE claimants.
-- **The government's dominant posture is archival, not investigative:** 115
-  records filed with no comment, 78 investigated, only 11 debunked and 9
+- **Claimed communication is genuinely rare:** 12 of 388 records (7 verbal,
+  2 telepathic, 2 written, 1 unstated) — exactly one from a military claimant
+  (verbal), none from federal law enforcement.
+- **The government's dominant posture is archival, not investigative:** 222
+  records filed with no comment, 137 investigated, only 12 debunked and 11
   dismissed. The files preserve claims; they rarely adjudicate them.
 - Color, not data: a 1948 Alton, Illinois witness reported "a huge fowl,
   bigger than an airplane." The record keeps what it was given.
@@ -181,7 +199,7 @@ subset).
 
 ## Files
 
-- `records/incidents.csv` / `incidents.json` — 879 canonical incidents, sortable
+- `records/incidents.csv` / `incidents.json` — 883 canonical incidents, sortable
 - `records/encounters.csv` — 388 encounter records with claimant strata + stances
 - `records/timeline.md` — the chronological record, ★ = multi-agency
 - `site/index.html` — the interactive globe (654 placed incidents, filters,
@@ -192,6 +210,19 @@ subset).
 - `manifest.json` — every source document with provenance and URLs
 
 ---
+
+## Revision note — corroboration counting re-based (2026-08-06 review pass)
+
+A verification pass over the R2–R4 ingests found three sources of corroboration
+inflation: the modern Department of War (publisher of every PURSUE record) was
+counted as an independent agency; the Army Air Forces and USAF were counted
+separately across the September 1947 rename; and in one case a press outlet in
+a file clipping counted as an "agency." Counting was re-based to independent
+government institutions only: **★ incidents went 72 → 15.** The addenda below
+quote pre-revision ★ figures in their narrative; §3 and §8 above are current.
+Also fixed in the same pass: document D094's extraction re-run and its agency
+corrected to USAF (its records had fallen back to the publisher), and
+`records/encounters.csv` rebuilt (was stale at the v1 count).
 
 ## Addendum — PURSUE Release 2 + 3 ingest (2026-08-06)
 

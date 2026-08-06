@@ -2229,5 +2229,15 @@
   "lat": 41.157557,
   "lon": -81.242047,
   "display": "Ravenna, Portage County, Ohio, 44266, United States"
+ },
+ "White Sands, New Mexico, United States": {
+  "lat": 32.3837754,
+  "lon": -106.4966154,
+  "display": "White Sands, Do\u00f1a Ana County, New Mexico, 88002, United States"
+ },
+ "South Bend, Indiana, United States": {
+  "lat": 41.6833813,
+  "lon": -86.2500066,
+  "display": "South Bend, Saint Joseph County, Indiana, United States"
  }
 }

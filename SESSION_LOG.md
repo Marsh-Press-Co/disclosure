@@ -4,6 +4,37 @@ Running project history, newest entries first. Current state lives in the vault 
 (`MindHive/10-Projects/Disclosure/_Disclosure-Hub.md`); this file records what
 happened when.
 
+## 2026-08-06 — Review pass over the R2-R4 ingests (Clyde verifying Sonnet's work) + fix batch
+
+**Verified clean:** corpus 215 == manifest == disk; all headline counts consistent
+across records/graph/site; sampled ★ merges mechanically sound (day-precision
+dates + specific locations); both claimed pipeline bug-fixes present in code;
+copper-powder thread confirmed in D017 source; strong-lead counts exact (31,
+0 from R4); `curl_cffi` acquisition + master-CSV discovery legitimately better
+than the handoff specified.
+
+**Found + fixed (the fix batch, Marsh's go):**
+1. **★ corroboration inflation → counting re-based 72 → 15.** Three causes:
+   publisher Department of War counted as an independent agency (7 incidents
+   were two volumes of ONE USAF study counted as USAF+DoW); AAF vs USAF counted
+   separately across the Sept-1947 rename; a press outlet ("The Sunday Press")
+   counted as an agency on Socorro. Dedup rules hardened (publisher exclusion
+   when a real agency present, AAF=USAF merge, press filter, AEC/DOE alias) —
+   future tranches inherit them. New leaderboard top: Tremonton 1952 ★3
+   (CIA+USAF+Navy). Counts are floors (agency-fallback masking can undercount).
+2. **D094 re-extracted** (28 records; recording_agency corrected to USAF per
+   the doc's own title — extraction consistently leaves it and page_refs empty
+   on this tabular study; page refs remain a known gap for that one doc).
+3. **`records/encounters.csv` was stale at 217 rows** → rebuilt (388).
+4. **FINDINGS.md contradicted itself** (v1 headline numbers above R2-R4
+   addenda) → header/§3/§8/§9 updated to current (215 docs / 2.48M words /
+   8,591 pages / 883 incidents / ★15 / 388 encounters), Revision note added.
+
+**Notes** — incidents 879 → 883 (D094 re-extract yielded +2 records, re-cluster
+shifted totals). Word-count reporting standardized on manifest (2.48M; the
+2.52M in earlier notes was a different counting pass). One military verbal
+communication claim now exists in the encounter set (was: none official).
+
 ## 2026-08-06 — PURSUE Release 4 ingested (same session, Marsh's go)
 
 **Shipped/Done**

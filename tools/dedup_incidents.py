@@ -27,9 +27,15 @@ AGENCY_ALIASES = {
     "fbi": "FBI", "federal bureau of investigation": "FBI",
     "usaf": "USAF", "u.s. air force": "USAF", "us air force": "USAF",
     "united states air force": "USAF", "department of the air force": "USAF",
-    "air force": "USAF", "army air forces": "USAAF", "usaaf": "USAAF",
+    # AAF -> USAF is the same institution across the Sept-1947 rename; counting
+    # both as independent agencies double-counts the Air Force.
+    "air force": "USAF", "army air forces": "USAF", "usaaf": "USAF",
+    "aaf": "USAF", "us army air forces": "USAF",
+    "u.s. army air forces": "USAF", "army air force": "USAF",
     "us navy": "US Navy", "u.s. navy": "US Navy", "navy": "US Navy",
-    "united states navy": "US Navy",
+    "united states navy": "US Navy", "oni": "US Navy",
+    "office of naval intelligence": "US Navy",
+    "cic": "US Army", "counter intelligence corps": "US Army",
     "centcom": "CENTCOM", "uscentcom": "CENTCOM", "us central command": "CENTCOM",
     "u.s. central command": "CENTCOM",
     "indopacom": "INDOPACOM", "usindopacom": "INDOPACOM", "africom": "AFRICOM",
@@ -38,6 +44,8 @@ AGENCY_ALIASES = {
     "dos": "Department of State",
     "cia": "CIA", "central intelligence agency": "CIA",
     "aaro": "AARO", "odni": "ODNI",
+    "aec": "AEC/DOE", "atomic energy commission": "AEC/DOE",
+    "department of energy": "AEC/DOE", "doe": "AEC/DOE",
     "department of war": "Department of War", "dow": "Department of War",
     "department of defense": "DoD", "dod": "DoD",
     "army": "US Army", "department of the army": "US Army", "dept army": "US Army",
@@ -145,6 +153,19 @@ def main():
             ag = norm_agency(i.get("recording_agency")) or norm_agency(i.get("_doc_agency"))
             if ag and ag not in agencies:
                 agencies.append(ag)
+        # "Department of War" on PURSUE docs is the modern PUBLISHER of the
+        # release (index blurbs, re-published studies), not an observing agency.
+        # It must not add independent corroboration when a real agency is
+        # present in the cluster. (2026-08-06 review: 7 false two-agency
+        # incidents came from two volumes of one USAF study counted as
+        # USAF + DoW.)
+        if len(agencies) > 1 and "Department of War" in agencies:
+            agencies = [a for a in agencies if a != "Department of War"]
+        # Press outlets appearing in file clippings are not corroborating
+        # government institutions.
+        PRESS = ("press", "newspaper", "times", "journal", "herald", "tribune",
+                 "gazette", "post", "news")
+        agencies = [a for a in agencies if not any(p in a.lower() for p in PRESS)] or agencies[:1]
         docs = []
         for i in cl:
             if i["_doc_id"] not in docs:

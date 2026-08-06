@@ -1806,7 +1806,7 @@
   "location": "Richmond, Virginia",
   "country": "USA",
   "shape": "ellipse",
-  "size": "large",
+  "size": "",
   "color": "metallic silver",
   "object_count": "1",
   "behavior": [
@@ -1821,13 +1821,13 @@
   "witness_count": "2",
   "witness_types": [
    "civilian",
-   "government-civilian"
+   "government-civilian",
+   "scientist"
   ],
   "agencies": [
-   "Department of War",
    "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 3,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -1897,11 +1897,10 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War",
    "FBI",
    "USAF"
   ],
-  "n_agencies": 3,
+  "n_agencies": 2,
   "n_source_docs": 3,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -1970,10 +1969,9 @@
    "civilian"
   ],
   "agencies": [
-   "USAF",
-   "Department of War"
+   "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "not-assessed",
   "explanation": "",
@@ -2081,10 +2079,9 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War",
    "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -2314,10 +2311,9 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War",
    "FBI"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -2448,12 +2444,10 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War",
    "FBI",
-   "US Army Air Forces",
    "USAF"
   ],
-  "n_agencies": 4,
+  "n_agencies": 2,
   "n_source_docs": 4,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -2648,12 +2642,10 @@
    "unknown"
   ],
   "agencies": [
-   "Department of War",
-   "US Army Air Forces",
    "USAF",
    "FBI"
   ],
-  "n_agencies": 4,
+  "n_agencies": 2,
   "n_source_docs": 6,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -2879,15 +2871,14 @@
   "date_precision": "day",
   "time_of_day": "unknown",
   "time_local": "",
-  "location": "White Sand, New Mexico",
+  "location": "White Sands, New Mexico",
   "country": "United States",
   "shape": "disk or sphere",
   "size": "",
   "color": "",
   "object_count": "",
   "behavior": [
-   "moving horizontally",
-   "high speed"
+   "horizontal flight"
   ],
   "duration": "",
   "sensors": [],
@@ -2897,13 +2888,13 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War"
+   "USAF"
   ],
   "n_agencies": 1,
   "n_source_docs": 1,
   "explanation_status": "not-assessed",
   "explanation": "",
-  "summary": "Three observers reported a large disk or sphere moving horizontally.",
+  "summary": "Three observers saw a large disk or sphere moving horizontally at high speed.",
   "confidence": "high",
   "sources": [
    {
@@ -2948,11 +2939,9 @@
    "military-pilot"
   ],
   "agencies": [
-   "Department of War",
-   "AAF",
    "USAF"
   ],
-  "n_agencies": 3,
+  "n_agencies": 1,
   "n_source_docs": 3,
   "explanation_status": "unexplained",
   "explanation": "None provided.",
@@ -3115,31 +3104,27 @@
   "date_precision": "day",
   "time_of_day": "unknown",
   "time_local": "",
-  "location": "Hokkaido",
-  "country": "Japan",
-  "shape": "",
+  "location": "",
+  "country": "",
+  "shape": "target",
   "size": "",
   "color": "",
   "object_count": "",
-  "behavior": [
-   "split into two targets"
-  ],
+  "behavior": [],
   "duration": "",
   "sensors": [
    "radar"
   ],
   "witness_count": "",
-  "witness_types": [
-   "military-other"
-  ],
+  "witness_types": [],
   "agencies": [
-   "Department of War"
+   "USAF"
   ],
   "n_agencies": 1,
   "n_source_docs": 1,
   "explanation_status": "not-assessed",
   "explanation": "",
-  "summary": "GCA radar picked up an unidentified target.",
+  "summary": "GCA radar picked up an unidentified target that split into two targets.",
   "confidence": "medium",
   "sources": [
    {
@@ -3182,10 +3167,9 @@
    "scientist"
   ],
   "agencies": [
-   "Department of War",
    "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -3308,10 +3292,9 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War",
-   "CIC"
+   "US Army"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "None provided.",
@@ -3451,10 +3434,9 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War",
    "FBI"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -3567,10 +3549,9 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War",
    "FBI"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -3804,10 +3785,9 @@
    "military-other"
   ],
   "agencies": [
-   "Department of War",
    "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -3982,10 +3962,9 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War",
    "FBI"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -4070,12 +4049,10 @@
    "federal-le"
   ],
   "agencies": [
-   "Department of War",
    "FBI",
-   "USAF",
-   "AAF"
+   "USAF"
   ],
-  "n_agencies": 4,
+  "n_agencies": 2,
   "n_source_docs": 7,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -4180,10 +4157,8 @@
     "doc_id": "pursue-r4--dow-uap-d094",
     "file": "pursue-r4--dow-uap-d094.md",
     "collection": "PURSUE-R4",
-    "page_refs": [
-     13
-    ],
-    "quote": "disk-like object with a round front and a square tail"
+    "page_refs": [],
+    "quote": ""
    },
    {
     "doc_id": "65_hs1-834228961_62-hq-83894_section_2",
@@ -4783,10 +4758,9 @@
    "military-pilot"
   ],
   "agencies": [
-   "Department of War",
    "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 3,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -5022,11 +4996,9 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War",
-   "US Army Air Forces",
    "USAF"
   ],
-  "n_agencies": 3,
+  "n_agencies": 1,
   "n_source_docs": 3,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -5156,10 +5128,9 @@
    "federal-le"
   ],
   "agencies": [
-   "Department of War",
    "Newfoundland Constabulary"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -5286,8 +5257,7 @@
    "shooting down",
    "horizontal course",
    "cut clouds open",
-   "high velocity",
-   "paralleling earth's surface"
+   "high velocity"
   ],
   "duration": "",
   "sensors": [
@@ -5299,10 +5269,9 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War",
    "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 3,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -5706,10 +5675,9 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War",
    "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -5812,13 +5780,13 @@
    "military-pilot"
   ],
   "agencies": [
-   "Department of War"
+   "USAF"
   ],
   "n_agencies": 1,
   "n_source_docs": 1,
   "explanation_status": "not-assessed",
   "explanation": "",
-  "summary": "Kenneth Arnold reported a formation of flying objects.",
+  "summary": "Kenneth Arnold observed a formation of flying objects.",
   "confidence": "high",
   "sources": [
    {
@@ -5921,10 +5889,9 @@
    "military-pilot"
   ],
   "agencies": [
-   "Department of War",
    "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -5986,11 +5953,10 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War",
    "USAF",
    "FBI"
   ],
-  "n_agencies": 3,
+  "n_agencies": 2,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -6064,11 +6030,9 @@
    "military-pilot"
   ],
   "agencies": [
-   "Department of War",
-   "US Army Air Forces",
    "USAF"
   ],
-  "n_agencies": 3,
+  "n_agencies": 1,
   "n_source_docs": 4,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -6249,10 +6213,9 @@
    "military-other"
   ],
   "agencies": [
-   "Department of War",
    "FBI"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -6316,10 +6279,9 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War",
    "FBI"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -6370,7 +6332,8 @@
   "object_count": "1",
   "behavior": [
    "flying",
-   "chased"
+   "chased",
+   "evasive"
   ],
   "duration": "",
   "sensors": [
@@ -6382,10 +6345,9 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War",
    "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 3,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -6505,10 +6467,9 @@
    "military-other"
   ],
   "agencies": [
-   "Department of War",
    "FBI"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -6801,10 +6762,9 @@
    "government-civilian"
   ],
   "agencies": [
-   "Department of War",
    "FBI"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 3,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -6998,10 +6958,9 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War",
    "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -7065,10 +7024,9 @@
    "federal-le"
   ],
   "agencies": [
-   "Department of War",
    "FBI"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -7175,10 +7133,9 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War",
    "FBI"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -7336,10 +7293,9 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War",
    "FBI"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -7506,14 +7462,11 @@
   "time_local": "",
   "location": "Midway to Honolulu",
   "country": "Pacific Ocean",
-  "shape": "",
+  "shape": "light",
   "size": "",
   "color": "blue-white, reddish",
   "object_count": "",
-  "behavior": [
-   "approaching",
-   "withdrawing"
-  ],
+  "behavior": [],
   "duration": "",
   "sensors": [
    "visual"
@@ -7523,10 +7476,9 @@
    "civilian"
   ],
   "agencies": [
-   "USAF",
-   "Department of War"
+   "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "not-assessed",
   "explanation": "",
@@ -7563,9 +7515,9 @@
   "date_precision": "day",
   "time_of_day": "unknown",
   "time_local": "",
-  "location": "Fukuoka",
-  "country": "Japan",
-  "shape": "",
+  "location": "",
+  "country": "",
+  "shape": "target",
   "size": "",
   "color": "",
   "object_count": "",
@@ -7575,17 +7527,15 @@
    "radar"
   ],
   "witness_count": "",
-  "witness_types": [
-   "military-other"
-  ],
+  "witness_types": [],
   "agencies": [
-   "Department of War"
+   "USAF"
   ],
   "n_agencies": 1,
   "n_source_docs": 1,
   "explanation_status": "not-assessed",
   "explanation": "",
-  "summary": "MEW radar picked up a target.",
+  "summary": "MEW radar tracked an unidentified target at high speed.",
   "confidence": "medium",
   "sources": [
    {
@@ -7853,52 +7803,6 @@
   "incident_id": "INC-0128"
  },
  {
-  "date": "1947-10-10",
-  "date_key": [
-   1947,
-   10,
-   10
-  ],
-  "date_precision": "day",
-  "time_of_day": "unknown",
-  "time_local": "",
-  "location": "Oregon coast",
-  "country": "United States",
-  "shape": "disk",
-  "size": "",
-  "color": "",
-  "object_count": "",
-  "behavior": [
-   "curving in a long, low arc"
-  ],
-  "duration": "",
-  "sensors": [],
-  "witness_count": "",
-  "witness_types": [
-   "civilian"
-  ],
-  "agencies": [
-   "Department of War"
-  ],
-  "n_agencies": 1,
-  "n_source_docs": 1,
-  "explanation_status": "not-assessed",
-  "explanation": "",
-  "summary": "Second officer of tanker reported two disks trailing fire.",
-  "confidence": "medium",
-  "sources": [
-   {
-    "doc_id": "pursue-r4--dow-uap-d094",
-    "file": "pursue-r4--dow-uap-d094.md",
-    "collection": "PURSUE-R4",
-    "page_refs": [],
-    "quote": ""
-   }
-  ],
-  "n_records_merged": 1,
-  "incident_id": "INC-0129"
- },
- {
   "date": "1947-10-14",
   "date_key": [
    1947,
@@ -7947,7 +7851,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0130"
+  "incident_id": "INC-0129"
  },
  {
   "date": "1947-10-20",
@@ -8007,7 +7911,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0131"
+  "incident_id": "INC-0130"
  },
  {
   "date": "1947-11-02",
@@ -8055,6 +7959,52 @@
      206
     ],
     "quote": "large round ball of fire about 26 to 30 inches in diameter"
+   }
+  ],
+  "n_records_merged": 1,
+  "incident_id": "INC-0131"
+ },
+ {
+  "date": "1947-11-10",
+  "date_key": [
+   1947,
+   11,
+   10
+  ],
+  "date_precision": "day",
+  "time_of_day": "unknown",
+  "time_local": "",
+  "location": "Oregon coast",
+  "country": "United States",
+  "shape": "disk",
+  "size": "",
+  "color": "",
+  "object_count": "",
+  "behavior": [
+   "curving in arc"
+  ],
+  "duration": "",
+  "sensors": [],
+  "witness_count": "",
+  "witness_types": [
+   "civilian"
+  ],
+  "agencies": [
+   "USAF"
+  ],
+  "n_agencies": 1,
+  "n_source_docs": 1,
+  "explanation_status": "not-assessed",
+  "explanation": "",
+  "summary": "Crew of the tanker Ticonderoga observed two disks trailing fire.",
+  "confidence": "medium",
+  "sources": [
+   {
+    "doc_id": "pursue-r4--dow-uap-d094",
+    "file": "pursue-r4--dow-uap-d094.md",
+    "collection": "PURSUE-R4",
+    "page_refs": [],
+    "quote": ""
    }
   ],
   "n_records_merged": 1,
@@ -8708,7 +8658,7 @@
   "location": "Kentucky",
   "country": "United States",
   "shape": "unknown",
-  "size": "tremendous",
+  "size": "",
   "color": "metallic",
   "object_count": "",
   "behavior": [
@@ -8723,10 +8673,9 @@
    "military-pilot"
   ],
   "agencies": [
-   "USAF",
-   "Department of War"
+   "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "not-assessed",
   "explanation": "",
@@ -8747,7 +8696,7 @@
     "file": "pursue-r4--dow-uap-d094.md",
     "collection": "PURSUE-R4",
     "page_refs": [],
-    "quote": ""
+    "quote": "it appears to be metallic object"
    }
   ],
   "n_records_merged": 2,
@@ -9582,10 +9531,9 @@
    "civilian"
   ],
   "agencies": [
-   "USAF",
-   "Department of War"
+   "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "not-assessed",
   "explanation": "",
@@ -10122,16 +10070,16 @@
   "sensors": [],
   "witness_count": "",
   "witness_types": [
-   "scientist"
+   "military-other"
   ],
   "agencies": [
-   "Department of War"
+   "USAF"
   ],
   "n_agencies": 1,
   "n_source_docs": 1,
   "explanation_status": "not-assessed",
   "explanation": "",
-  "summary": "Three balloon observers reported a round object executing violent maneuvers.",
+  "summary": "Three observers reported a round object executing violent maneuvers.",
   "confidence": "high",
   "sources": [
    {
@@ -10595,10 +10543,9 @@
    "military-other"
   ],
   "agencies": [
-   "USAF",
-   "Department of War"
+   "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 3,
   "explanation_status": "not-assessed",
   "explanation": "",
@@ -10862,10 +10809,9 @@
    "civilian"
   ],
   "agencies": [
-   "USAF",
-   "Department of War"
+   "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "not-assessed",
   "explanation": "",
@@ -11184,7 +11130,7 @@
   "time_local": "",
   "location": "Miles City, Montana",
   "country": "United States",
-  "shape": "",
+  "shape": "light",
   "size": "",
   "color": "reddish",
   "object_count": "",
@@ -11200,16 +11146,22 @@
    "civilian"
   ],
   "agencies": [
-   "USAF",
-   "Department of War"
+   "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "not-assessed",
   "explanation": "",
-  "summary": "Mr. Booneville observed a reddish glow with a jet exhaust.",
-  "confidence": "medium",
+  "summary": "Reddish glow with jet exhaust observed.",
+  "confidence": "high",
   "sources": [
+   {
+    "doc_id": "pursue-r4--dow-uap-d094",
+    "file": "pursue-r4--dow-uap-d094.md",
+    "collection": "PURSUE-R4",
+    "page_refs": [],
+    "quote": ""
+   },
    {
     "doc_id": "pursue-r4--dow-uap-d093",
     "file": "pursue-r4--dow-uap-d093.md",
@@ -11217,13 +11169,6 @@
     "page_refs": [
      30
     ],
-    "quote": ""
-   },
-   {
-    "doc_id": "pursue-r4--dow-uap-d094",
-    "file": "pursue-r4--dow-uap-d094.md",
-    "collection": "PURSUE-R4",
-    "page_refs": [],
     "quote": ""
    }
   ],
@@ -11552,7 +11497,7 @@
   "location": "Rapid City Air Base",
   "country": "United States",
   "shape": "oval",
-  "size": "100 feet long",
+  "size": "100 feet",
   "color": "",
   "object_count": "",
   "behavior": [
@@ -11568,10 +11513,9 @@
    "military-other"
   ],
   "agencies": [
-   "USAF",
-   "Department of War"
+   "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "not-assessed",
   "explanation": "",
@@ -11923,7 +11867,8 @@
   "object_count": "7",
   "behavior": [
    "formation varied from V to L to O",
-   "formation change"
+   "formation change",
+   "formation flight"
   ],
   "duration": "",
   "sensors": [
@@ -11931,14 +11876,12 @@
   ],
   "witness_count": "2",
   "witness_types": [
-   "military-other",
-   "unknown"
+   "military-other"
   ],
   "agencies": [
-   "USAF",
-   "Department of War"
+   "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 3,
   "explanation_status": "not-assessed",
   "explanation": "",
@@ -12031,7 +11974,7 @@
    22
   ],
   "date_precision": "day",
-  "time_of_day": "evening",
+  "time_of_day": "dusk",
   "time_local": "1900",
   "location": "Van Nuys, California",
   "country": "United States",
@@ -12040,7 +11983,6 @@
   "color": "bluish, orange",
   "object_count": "1",
   "behavior": [
-   "traveled through a vertical arc",
    "traveled a vertical arc"
   ],
   "duration": "",
@@ -12053,10 +11995,9 @@
    "civilian"
   ],
   "agencies": [
-   "USAF",
-   "Department of War"
+   "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 3,
   "explanation_status": "explained",
   "explanation": "balloon carrying cosmic ray equipment",
@@ -12345,13 +12286,14 @@
   "date_precision": "day",
   "time_of_day": "night",
   "time_local": "",
-  "location": "Atlanta, Georgia",
+  "location": "United States",
   "country": "United States",
-  "shape": "wingless aircraft",
+  "shape": "wingless",
   "size": "",
   "color": "red",
   "object_count": "",
   "behavior": [
+   "high speed",
    "banked",
    "rolled",
    "breathed fire"
@@ -12365,14 +12307,14 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War",
+   "USAF",
    "FBI"
   ],
   "n_agencies": 2,
   "n_source_docs": 2,
   "explanation_status": "not-assessed",
   "explanation": "",
-  "summary": "Two Eastern Airlines pilots reported a huge flying craft similar to a V-2.",
+  "summary": "Two pilots observed a huge wingless flying craft.",
   "confidence": "high",
   "sources": [
    {
@@ -12878,7 +12820,7 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War"
+   "USAF"
   ],
   "n_agencies": 1,
   "n_source_docs": 2,
@@ -13120,7 +13062,7 @@
   ],
   "date_precision": "day",
   "time_of_day": "morning",
-  "time_local": "1050",
+  "time_local": "",
   "location": "Godman Air Force Base, Kentucky",
   "country": "United States",
   "shape": "spherical",
@@ -13137,13 +13079,12 @@
    "military-other"
   ],
   "agencies": [
-   "USAF",
-   "Department of War"
+   "USAF"
   ],
-  "n_agencies": 2,
-  "n_source_docs": 2,
+  "n_agencies": 1,
+  "n_source_docs": 1,
   "explanation_status": "explained",
-  "explanation": "planet Venus",
+  "explanation": "",
   "summary": "Object observed at Godman Air Force Base determined to be Venus.",
   "confidence": "high",
   "sources": [
@@ -13155,7 +13096,45 @@
      40
     ],
     "quote": ""
-   },
+   }
+  ],
+  "n_records_merged": 1,
+  "incident_id": "INC-0223"
+ },
+ {
+  "date": "1948-08-19",
+  "date_key": [
+   1948,
+   8,
+   19
+  ],
+  "date_precision": "day",
+  "time_of_day": "morning",
+  "time_local": "1050",
+  "location": "",
+  "country": "",
+  "shape": "",
+  "size": "",
+  "color": "",
+  "object_count": "",
+  "behavior": [],
+  "duration": "",
+  "sensors": [],
+  "witness_count": "",
+  "witness_types": [
+   "military-pilot",
+   "military-other"
+  ],
+  "agencies": [
+   "USAF"
+  ],
+  "n_agencies": 1,
+  "n_source_docs": 1,
+  "explanation_status": "not-assessed",
+  "explanation": "",
+  "summary": "Unidentified flying object visible from the ground at Godman Air Force Base, later identified as the planet Venus.",
+  "confidence": "high",
+  "sources": [
    {
     "doc_id": "pursue-r4--dow-uap-d094",
     "file": "pursue-r4--dow-uap-d094.md",
@@ -13164,8 +13143,8 @@
     "quote": ""
    }
   ],
-  "n_records_merged": 2,
-  "incident_id": "INC-0223"
+  "n_records_merged": 1,
+  "incident_id": "INC-0224"
  },
  {
   "date": "1948-08-29",
@@ -13227,7 +13206,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0224"
+  "incident_id": "INC-0225"
  },
  {
   "date": "1948-08-30",
@@ -13276,7 +13255,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0225"
+  "incident_id": "INC-0226"
  },
  {
   "date": "1948-09-05",
@@ -13330,7 +13309,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0226"
+  "incident_id": "INC-0227"
  },
  {
   "date": "1948-09-05",
@@ -13381,7 +13360,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0227"
+  "incident_id": "INC-0228"
  },
  {
   "date": "1948-09-22",
@@ -13432,7 +13411,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0228"
+  "incident_id": "INC-0229"
  },
  {
   "date": "1948-09-23",
@@ -13494,7 +13473,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0229"
+  "incident_id": "INC-0230"
  },
  {
   "date": "1948-09-23",
@@ -13558,7 +13537,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0230"
+  "incident_id": "INC-0231"
  },
  {
   "date": "1948-09-26",
@@ -13608,7 +13587,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0231"
+  "incident_id": "INC-0232"
  },
  {
   "date": "1948-10",
@@ -13659,7 +13638,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0232"
+  "incident_id": "INC-0233"
  },
  {
   "date": "1948-10",
@@ -13709,7 +13688,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0233"
+  "incident_id": "INC-0234"
  },
  {
   "date": "1948-10-01",
@@ -13761,7 +13740,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0234"
+  "incident_id": "INC-0235"
  },
  {
   "date": "1948-10-01",
@@ -13793,10 +13772,9 @@
    "civilian"
   ],
   "agencies": [
-   "USAF",
-   "Department of War"
+   "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 3,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -13827,11 +13805,11 @@
     "file": "pursue-r4--dow-uap-d094.md",
     "collection": "PURSUE-R4",
     "page_refs": [],
-    "quote": "small round ball of clear white light"
+    "quote": ""
    }
   ],
   "n_records_merged": 3,
-  "incident_id": "INC-0235"
+  "incident_id": "INC-0236"
  },
  {
   "date": "1948-10-15",
@@ -13883,7 +13861,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0236"
+  "incident_id": "INC-0237"
  },
  {
   "date": "1948-10-15",
@@ -13936,7 +13914,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0237"
+  "incident_id": "INC-0238"
  },
  {
   "date": "1948-10-16",
@@ -13987,7 +13965,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0238"
+  "incident_id": "INC-0239"
  },
  {
   "date": "1948-10-17",
@@ -14069,7 +14047,7 @@
    }
   ],
   "n_records_merged": 4,
-  "incident_id": "INC-0239"
+  "incident_id": "INC-0240"
  },
  {
   "date": "1948-10-20",
@@ -14131,7 +14109,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0240"
+  "incident_id": "INC-0241"
  },
  {
   "date": "1948-10-24",
@@ -14182,7 +14160,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0241"
+  "incident_id": "INC-0242"
  },
  {
   "date": "1948-10-24",
@@ -14233,7 +14211,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0242"
+  "incident_id": "INC-0243"
  },
  {
   "date": "1948-10-29",
@@ -14284,7 +14262,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0243"
+  "incident_id": "INC-0244"
  },
  {
   "date": "1948-10-30",
@@ -14335,7 +14313,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0244"
+  "incident_id": "INC-0245"
  },
  {
   "date": "1948-10-31",
@@ -14386,7 +14364,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0245"
+  "incident_id": "INC-0246"
  },
  {
   "date": "1948-11",
@@ -14439,7 +14417,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0246"
+  "incident_id": "INC-0247"
  },
  {
   "date": "1948-11-01",
@@ -14490,7 +14468,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0247"
+  "incident_id": "INC-0248"
  },
  {
   "date": "1948-11-05",
@@ -14541,7 +14519,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0248"
+  "incident_id": "INC-0249"
  },
  {
   "date": "1948-11-06",
@@ -14592,7 +14570,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0249"
+  "incident_id": "INC-0250"
  },
  {
   "date": "1948-11-08",
@@ -14644,7 +14622,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0250"
+  "incident_id": "INC-0251"
  },
  {
   "date": "1948-11-10",
@@ -14694,7 +14672,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0251"
+  "incident_id": "INC-0252"
  },
  {
   "date": "1948-11-12",
@@ -14745,7 +14723,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0252"
+  "incident_id": "INC-0253"
  },
  {
   "date": "1948-11-14",
@@ -14796,7 +14774,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0253"
+  "incident_id": "INC-0254"
  },
  {
   "date": "1948-11-16",
@@ -14846,7 +14824,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0254"
+  "incident_id": "INC-0255"
  },
  {
   "date": "1948-11-17",
@@ -14877,10 +14855,9 @@
    "military-pilot"
   ],
   "agencies": [
-   "USAF",
-   "Department of War"
+   "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "not-assessed",
   "explanation": "",
@@ -14909,7 +14886,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0255"
+  "incident_id": "INC-0256"
  },
  {
   "date": "1948-11-18",
@@ -14967,7 +14944,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0256"
+  "incident_id": "INC-0257"
  },
  {
   "date": "1948-11-18",
@@ -14978,7 +14955,7 @@
   ],
   "date_precision": "day",
   "time_of_day": "night",
-  "time_local": "2145",
+  "time_local": "",
   "location": "Andrews Field, Maryland",
   "country": "United States",
   "shape": "oblong",
@@ -14987,8 +14964,7 @@
   "object_count": "",
   "behavior": [
    "vertical climb",
-   "circle",
-   "climb vertically"
+   "circle"
   ],
   "duration": "",
   "sensors": [
@@ -15000,11 +14976,10 @@
    "military-other"
   ],
   "agencies": [
-   "USAF",
-   "Department of War"
+   "USAF"
   ],
-  "n_agencies": 2,
-  "n_source_docs": 2,
+  "n_agencies": 1,
+  "n_source_docs": 1,
   "explanation_status": "unexplained",
   "explanation": "",
   "summary": "Three reserve pilots encountered an unidentifiable flying object.",
@@ -15018,17 +14993,55 @@
      32
     ],
     "quote": ""
-   },
+   }
+  ],
+  "n_records_merged": 1,
+  "incident_id": "INC-0258"
+ },
+ {
+  "date": "1948-11-18",
+  "date_key": [
+   1948,
+   11,
+   18
+  ],
+  "date_precision": "day",
+  "time_of_day": "night",
+  "time_local": "2145",
+  "location": "",
+  "country": "",
+  "shape": "",
+  "size": "",
+  "color": "",
+  "object_count": "",
+  "behavior": [],
+  "duration": "",
+  "sensors": [],
+  "witness_count": "4",
+  "witness_types": [
+   "military-pilot",
+   "military-other"
+  ],
+  "agencies": [
+   "USAF"
+  ],
+  "n_agencies": 1,
+  "n_source_docs": 1,
+  "explanation_status": "not-assessed",
+  "explanation": "",
+  "summary": "Three reserve pilots encountered an unidentified lighted object while flying near Andrews Field, Maryland.",
+  "confidence": "high",
+  "sources": [
    {
     "doc_id": "pursue-r4--dow-uap-d094",
     "file": "pursue-r4--dow-uap-d094.md",
     "collection": "PURSUE-R4",
     "page_refs": [],
-    "quote": "oblong ball with one light, no wings and no exhaust flame"
+    "quote": ""
    }
   ],
-  "n_records_merged": 2,
-  "incident_id": "INC-0257"
+  "n_records_merged": 1,
+  "incident_id": "INC-0259"
  },
  {
   "date": "1948-11-23",
@@ -15081,7 +15094,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0258"
+  "incident_id": "INC-0260"
  },
  {
   "date": "1948-11-29",
@@ -15132,7 +15145,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0259"
+  "incident_id": "INC-0261"
  },
  {
   "date": "1948-12",
@@ -15170,7 +15183,7 @@
   ],
   "agencies": [
    "FBI",
-   "Department of Energy"
+   "AEC/DOE"
   ],
   "n_agencies": 2,
   "n_source_docs": 2,
@@ -15215,7 +15228,7 @@
    }
   ],
   "n_records_merged": 3,
-  "incident_id": "INC-0260"
+  "incident_id": "INC-0262"
  },
  {
   "date": "1948-12-03",
@@ -15278,7 +15291,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0261"
+  "incident_id": "INC-0263"
  },
  {
   "date": "1948-12-03",
@@ -15311,10 +15324,9 @@
    "military-other"
   ],
   "agencies": [
-   "USAF",
-   "Department of War"
+   "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "not-assessed",
   "explanation": "",
@@ -15354,7 +15366,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0262"
+  "incident_id": "INC-0264"
  },
  {
   "date": "1948-12-05",
@@ -15416,7 +15428,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0263"
+  "incident_id": "INC-0265"
  },
  {
   "date": "1948-12-06",
@@ -15467,7 +15479,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0264"
+  "incident_id": "INC-0266"
  },
  {
   "date": "1948-12-07",
@@ -15526,7 +15538,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0265"
+  "incident_id": "INC-0267"
  },
  {
   "date": "1948-12-08",
@@ -15577,7 +15589,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0266"
+  "incident_id": "INC-0268"
  },
  {
   "date": "1948-12-08",
@@ -15628,7 +15640,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0267"
+  "incident_id": "INC-0269"
  },
  {
   "date": "1948-12-08",
@@ -15679,7 +15691,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0268"
+  "incident_id": "INC-0270"
  },
  {
   "date": "1948-12-09",
@@ -15730,7 +15742,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0269"
+  "incident_id": "INC-0271"
  },
  {
   "date": "1948-12-11",
@@ -15781,7 +15793,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0270"
+  "incident_id": "INC-0272"
  },
  {
   "date": "1948-12-13",
@@ -15829,7 +15841,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0271"
+  "incident_id": "INC-0273"
  },
  {
   "date": "1948-12-14",
@@ -15880,7 +15892,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0272"
+  "incident_id": "INC-0274"
  },
  {
   "date": "1948-12-24",
@@ -15931,7 +15943,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0273"
+  "incident_id": "INC-0275"
  },
  {
   "date": "1948-1951",
@@ -15959,7 +15971,7 @@
    "unknown"
   ],
   "agencies": [
-   "Department of Energy"
+   "AEC/DOE"
   ],
   "n_agencies": 1,
   "n_source_docs": 1,
@@ -15979,7 +15991,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0274"
+  "incident_id": "INC-0276"
  },
  {
   "date": "1948-1951",
@@ -16007,7 +16019,7 @@
    "unknown"
   ],
   "agencies": [
-   "Department of Energy"
+   "AEC/DOE"
   ],
   "n_agencies": 1,
   "n_source_docs": 1,
@@ -16027,7 +16039,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0275"
+  "incident_id": "INC-0277"
  },
  {
   "date": "1948-1950",
@@ -16078,7 +16090,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0276"
+  "incident_id": "INC-0278"
  },
  {
   "date": "1949",
@@ -16125,7 +16137,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0277"
+  "incident_id": "INC-0279"
  },
  {
   "date": "1949-01-01",
@@ -16157,10 +16169,9 @@
    "military-pilot"
   ],
   "agencies": [
-   "USAF",
-   "Department of War"
+   "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "not-assessed",
   "explanation": "",
@@ -16193,7 +16204,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0278"
+  "incident_id": "INC-0280"
  },
  {
   "date": "1949-01-04",
@@ -16248,7 +16259,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0279"
+  "incident_id": "INC-0281"
  },
  {
   "date": "1949-01-25",
@@ -16300,7 +16311,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0280"
+  "incident_id": "INC-0282"
  },
  {
   "date": "1949-01-30",
@@ -16334,11 +16345,10 @@
    "unknown"
   ],
   "agencies": [
-   "Department of War",
-   "Department of Energy",
+   "AEC/DOE",
    "USAF"
   ],
-  "n_agencies": 3,
+  "n_agencies": 2,
   "n_source_docs": 3,
   "explanation_status": "unexplained",
   "explanation": "Not a conventional meteorite fall.",
@@ -16380,7 +16390,7 @@
    }
   ],
   "n_records_merged": 3,
-  "incident_id": "INC-0281"
+  "incident_id": "INC-0283"
  },
  {
   "date": "1949-02-06",
@@ -16429,7 +16439,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0282"
+  "incident_id": "INC-0284"
  },
  {
   "date": "1949-02-07",
@@ -16481,7 +16491,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0283"
+  "incident_id": "INC-0285"
  },
  {
   "date": "1949-02-11",
@@ -16530,7 +16540,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0284"
+  "incident_id": "INC-0286"
  },
  {
   "date": "1949-02-28",
@@ -16578,7 +16588,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0285"
+  "incident_id": "INC-0287"
  },
  {
   "date": "1949-03-06",
@@ -16626,7 +16636,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0286"
+  "incident_id": "INC-0288"
  },
  {
   "date": "1949-03-17",
@@ -16672,7 +16682,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0287"
+  "incident_id": "INC-0289"
  },
  {
   "date": "1949-03-18",
@@ -16720,7 +16730,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0288"
+  "incident_id": "INC-0290"
  },
  {
   "date": "1949-03-31",
@@ -16771,7 +16781,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0289"
+  "incident_id": "INC-0291"
  },
  {
   "date": "1949-04-04",
@@ -16824,7 +16834,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0290"
+  "incident_id": "INC-0292"
  },
  {
   "date": "1949-04-05",
@@ -16877,7 +16887,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0291"
+  "incident_id": "INC-0293"
  },
  {
   "date": "1949-04-08",
@@ -16933,7 +16943,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0292"
+  "incident_id": "INC-0294"
  },
  {
   "date": "1949-04-13",
@@ -16983,7 +16993,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0293"
+  "incident_id": "INC-0295"
  },
  {
   "date": "1949-04-16",
@@ -17035,7 +17045,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0294"
+  "incident_id": "INC-0296"
  },
  {
   "date": "1949-05-02",
@@ -17098,7 +17108,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0295"
+  "incident_id": "INC-0297"
  },
  {
   "date": "1949-05-12",
@@ -17153,7 +17163,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0296"
+  "incident_id": "INC-0298"
  },
  {
   "date": "1949-05-14",
@@ -17209,7 +17219,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0297"
+  "incident_id": "INC-0299"
  },
  {
   "date": "1949-05-24",
@@ -17258,7 +17268,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0298"
+  "incident_id": "INC-0300"
  },
  {
   "date": "1949-05-27",
@@ -17307,7 +17317,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0299"
+  "incident_id": "INC-0301"
  },
  {
   "date": "1949-06-08",
@@ -17358,7 +17368,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0300"
+  "incident_id": "INC-0302"
  },
  {
   "date": "1949-06-10",
@@ -17410,7 +17420,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0301"
+  "incident_id": "INC-0303"
  },
  {
   "date": "1949-06-28",
@@ -17460,7 +17470,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0302"
+  "incident_id": "INC-0304"
  },
  {
   "date": "1949-07-19",
@@ -17511,7 +17521,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0303"
+  "incident_id": "INC-0305"
  },
  {
   "date": "1949-07-24",
@@ -17564,7 +17574,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0304"
+  "incident_id": "INC-0306"
  },
  {
   "date": "1949-07-24",
@@ -17610,7 +17620,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0305"
+  "incident_id": "INC-0307"
  },
  {
   "date": "1949-07-26",
@@ -17659,7 +17669,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0306"
+  "incident_id": "INC-0308"
  },
  {
   "date": "1949-07-30",
@@ -17712,7 +17722,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0307"
+  "incident_id": "INC-0309"
  },
  {
   "date": "1949-08-01",
@@ -17763,7 +17773,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0308"
+  "incident_id": "INC-0310"
  },
  {
   "date": "1949-08-06",
@@ -17809,7 +17819,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0309"
+  "incident_id": "INC-0311"
  },
  {
   "date": "1949-08-08",
@@ -17863,7 +17873,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0310"
+  "incident_id": "INC-0312"
  },
  {
   "date": "1949-08-15",
@@ -17913,7 +17923,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0311"
+  "incident_id": "INC-0313"
  },
  {
   "date": "1949-08-22",
@@ -17976,7 +17986,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0312"
+  "incident_id": "INC-0314"
  },
  {
   "date": "1949-09-20",
@@ -18030,7 +18040,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0313"
+  "incident_id": "INC-0315"
  },
  {
   "date": "1949-09-25",
@@ -18078,7 +18088,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0314"
+  "incident_id": "INC-0316"
  },
  {
   "date": "1949-10",
@@ -18126,7 +18136,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0315"
+  "incident_id": "INC-0317"
  },
  {
   "date": "1950-01-06",
@@ -18178,7 +18188,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0316"
+  "incident_id": "INC-0318"
  },
  {
   "date": "1950-01-22",
@@ -18233,7 +18243,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0317"
+  "incident_id": "INC-0319"
  },
  {
   "date": "1950-02-27",
@@ -18283,7 +18293,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0318"
+  "incident_id": "INC-0320"
  },
  {
   "date": "1950-03",
@@ -18327,7 +18337,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0319"
+  "incident_id": "INC-0321"
  },
  {
   "date": "1950-03-01",
@@ -18376,7 +18386,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0320"
+  "incident_id": "INC-0322"
  },
  {
   "date": "1950-03-02",
@@ -18422,7 +18432,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0321"
+  "incident_id": "INC-0323"
  },
  {
   "date": "1950-03-20",
@@ -18471,7 +18481,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0322"
+  "incident_id": "INC-0324"
  },
  {
   "date": "1950-03-29",
@@ -18522,7 +18532,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0323"
+  "incident_id": "INC-0325"
  },
  {
   "date": "1950-04-01",
@@ -18573,7 +18583,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0324"
+  "incident_id": "INC-0326"
  },
  {
   "date": "1950-04-02",
@@ -18624,7 +18634,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0325"
+  "incident_id": "INC-0327"
  },
  {
   "date": "1950-04-03",
@@ -18675,7 +18685,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0326"
+  "incident_id": "INC-0328"
  },
  {
   "date": "1950-04-08",
@@ -18725,7 +18735,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0327"
+  "incident_id": "INC-0329"
  },
  {
   "date": "1950-04-08",
@@ -18775,7 +18785,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0328"
+  "incident_id": "INC-0330"
  },
  {
   "date": "1950-04-10",
@@ -18826,7 +18836,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0329"
+  "incident_id": "INC-0331"
  },
  {
   "date": "1950-05-24",
@@ -18874,7 +18884,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0330"
+  "incident_id": "INC-0332"
  },
  {
   "date": "1950-06-25",
@@ -18925,7 +18935,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0331"
+  "incident_id": "INC-0333"
  },
  {
   "date": "1950-06-29",
@@ -18980,7 +18990,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0332"
+  "incident_id": "INC-0334"
  },
  {
   "date": "1950-07-01",
@@ -19030,7 +19040,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0333"
+  "incident_id": "INC-0335"
  },
  {
   "date": "1950-07-04",
@@ -19080,7 +19090,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0334"
+  "incident_id": "INC-0336"
  },
  {
   "date": "1950-07-12",
@@ -19133,7 +19143,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0335"
+  "incident_id": "INC-0337"
  },
  {
   "date": "1950-07-14",
@@ -19184,7 +19194,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0336"
+  "incident_id": "INC-0338"
  },
  {
   "date": "1950-07-19",
@@ -19235,7 +19245,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0337"
+  "incident_id": "INC-0339"
  },
  {
   "date": "1950-07-29",
@@ -19287,7 +19297,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0338"
+  "incident_id": "INC-0340"
  },
  {
   "date": "1950-08",
@@ -19335,7 +19345,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0339"
+  "incident_id": "INC-0341"
  },
  {
   "date": "1950-08-15",
@@ -19401,7 +19411,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0340"
+  "incident_id": "INC-0342"
  },
  {
   "date": "1950-09-18",
@@ -19454,7 +19464,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0341"
+  "incident_id": "INC-0343"
  },
  {
   "date": "1950-09-26",
@@ -19506,7 +19516,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0342"
+  "incident_id": "INC-0344"
  },
  {
   "date": "1950-10-02",
@@ -19557,7 +19567,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0343"
+  "incident_id": "INC-0345"
  },
  {
   "date": "1950-10-12",
@@ -19608,7 +19618,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0344"
+  "incident_id": "INC-0346"
  },
  {
   "date": "1950-10-14",
@@ -19659,7 +19669,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0345"
+  "incident_id": "INC-0347"
  },
  {
   "date": "1950-10-20",
@@ -19715,7 +19725,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0346"
+  "incident_id": "INC-0348"
  },
  {
   "date": "1950-10-30",
@@ -19768,7 +19778,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0347"
+  "incident_id": "INC-0349"
  },
  {
   "date": "1950-12-02",
@@ -19820,7 +19830,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0348"
+  "incident_id": "INC-0350"
  },
  {
   "date": "1951",
@@ -19872,7 +19882,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0349"
+  "incident_id": "INC-0351"
  },
  {
   "date": "1951",
@@ -19922,7 +19932,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0350"
+  "incident_id": "INC-0352"
  },
  {
   "date": "1951",
@@ -19973,7 +19983,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0351"
+  "incident_id": "INC-0353"
  },
  {
   "date": "1951-01-20",
@@ -20025,7 +20035,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0352"
+  "incident_id": "INC-0354"
  },
  {
   "date": "1951-09-10",
@@ -20076,7 +20086,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0353"
+  "incident_id": "INC-0355"
  },
  {
   "date": "1951-09-11",
@@ -20129,7 +20139,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0354"
+  "incident_id": "INC-0356"
  },
  {
   "date": "1952",
@@ -20181,7 +20191,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0355"
+  "incident_id": "INC-0357"
  },
  {
   "date": "1952",
@@ -20227,7 +20237,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0356"
+  "incident_id": "INC-0358"
  },
  {
   "date": "1952-03-06",
@@ -20278,7 +20288,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0357"
+  "incident_id": "INC-0359"
  },
  {
   "date": "1952-03-13",
@@ -20329,7 +20339,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0358"
+  "incident_id": "INC-0360"
  },
  {
   "date": "1952-03-29",
@@ -20380,7 +20390,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0359"
+  "incident_id": "INC-0361"
  },
  {
   "date": "1952-03-29",
@@ -20437,7 +20447,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0360"
+  "incident_id": "INC-0362"
  },
  {
   "date": "1952-04-18",
@@ -20489,7 +20499,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0361"
+  "incident_id": "INC-0363"
  },
  {
   "date": "1952-04-20",
@@ -20540,7 +20550,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0362"
+  "incident_id": "INC-0364"
  },
  {
   "date": "1952-05-10",
@@ -20596,7 +20606,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0363"
+  "incident_id": "INC-0365"
  },
  {
   "date": "1952-05-25",
@@ -20649,7 +20659,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0364"
+  "incident_id": "INC-0366"
  },
  {
   "date": "1952-06-06",
@@ -20700,7 +20710,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0365"
+  "incident_id": "INC-0367"
  },
  {
   "date": "1952-06-13",
@@ -20750,7 +20760,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0366"
+  "incident_id": "INC-0368"
  },
  {
   "date": "1952-07-02",
@@ -20842,7 +20852,7 @@
    }
   ],
   "n_records_merged": 3,
-  "incident_id": "INC-0367"
+  "incident_id": "INC-0369"
  },
  {
   "date": "1952-07-15",
@@ -20894,7 +20904,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0368"
+  "incident_id": "INC-0370"
  },
  {
   "date": "1952-07-19",
@@ -20944,7 +20954,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0369"
+  "incident_id": "INC-0371"
  },
  {
   "date": "1952-07-19",
@@ -20989,7 +20999,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0370"
+  "incident_id": "INC-0372"
  },
  {
   "date": "1952-07-27",
@@ -21043,7 +21053,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0371"
+  "incident_id": "INC-0373"
  },
  {
   "date": "1952-07-28",
@@ -21099,7 +21109,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0372"
+  "incident_id": "INC-0374"
  },
  {
   "date": "1952-07-31",
@@ -21158,7 +21168,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0373"
+  "incident_id": "INC-0375"
  },
  {
   "date": "1952-08-03",
@@ -21210,7 +21220,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0374"
+  "incident_id": "INC-0376"
  },
  {
   "date": "1952-08-08",
@@ -21261,7 +21271,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0375"
+  "incident_id": "INC-0377"
  },
  {
   "date": "1952-08-25",
@@ -21310,7 +21320,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0376"
+  "incident_id": "INC-0378"
  },
  {
   "date": "1952-08-26",
@@ -21361,7 +21371,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0377"
+  "incident_id": "INC-0379"
  },
  {
   "date": "1952-09-19",
@@ -21411,7 +21421,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0378"
+  "incident_id": "INC-0380"
  },
  {
   "date": "1952-09-22",
@@ -21459,7 +21469,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0379"
+  "incident_id": "INC-0381"
  },
  {
   "date": "1952-10-06",
@@ -21512,7 +21522,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0380"
+  "incident_id": "INC-0382"
  },
  {
   "date": "1952-10-07",
@@ -21562,7 +21572,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0381"
+  "incident_id": "INC-0383"
  },
  {
   "date": "1952-10-23",
@@ -21613,7 +21623,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0382"
+  "incident_id": "INC-0384"
  },
  {
   "date": "1952-12-03",
@@ -21664,7 +21674,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0383"
+  "incident_id": "INC-0385"
  },
  {
   "date": "1952-12-22",
@@ -21715,7 +21725,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0384"
+  "incident_id": "INC-0386"
  },
  {
   "date": "1953",
@@ -21767,7 +21777,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0385"
+  "incident_id": "INC-0387"
  },
  {
   "date": "1953-04",
@@ -21820,7 +21830,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0386"
+  "incident_id": "INC-0388"
  },
  {
   "date": "1953-04-08",
@@ -21869,7 +21879,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0387"
+  "incident_id": "INC-0389"
  },
  {
   "date": "1953-04-20",
@@ -21919,7 +21929,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0388"
+  "incident_id": "INC-0390"
  },
  {
   "date": "1953-05-07",
@@ -21970,7 +21980,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0389"
+  "incident_id": "INC-0391"
  },
  {
   "date": "1953-07-08",
@@ -22025,7 +22035,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0390"
+  "incident_id": "INC-0392"
  },
  {
   "date": "1953-08-06",
@@ -22073,7 +22083,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0391"
+  "incident_id": "INC-0393"
  },
  {
   "date": "1954-04-08",
@@ -22126,7 +22136,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0392"
+  "incident_id": "INC-0394"
  },
  {
   "date": "1954-05",
@@ -22183,7 +22193,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0393"
+  "incident_id": "INC-0395"
  },
  {
   "date": "1954-05-01",
@@ -22233,7 +22243,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0394"
+  "incident_id": "INC-0396"
  },
  {
   "date": "1954-05-14",
@@ -22281,7 +22291,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0395"
+  "incident_id": "INC-0397"
  },
  {
   "date": "1954-07-02",
@@ -22332,7 +22342,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0396"
+  "incident_id": "INC-0398"
  },
  {
   "date": "1954-07-23",
@@ -22382,7 +22392,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0397"
+  "incident_id": "INC-0399"
  },
  {
   "date": "1954-08-16",
@@ -22434,7 +22444,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0398"
+  "incident_id": "INC-0400"
  },
  {
   "date": "1954-08-27",
@@ -22484,7 +22494,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0399"
+  "incident_id": "INC-0401"
  },
  {
   "date": "1954-09",
@@ -22534,7 +22544,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0400"
+  "incident_id": "INC-0402"
  },
  {
   "date": "1954-09-05",
@@ -22585,7 +22595,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0401"
+  "incident_id": "INC-0403"
  },
  {
   "date": "1954-09-18",
@@ -22637,7 +22647,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0402"
+  "incident_id": "INC-0404"
  },
  {
   "date": "1954-10",
@@ -22686,7 +22696,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0403"
+  "incident_id": "INC-0405"
  },
  {
   "date": "1954-10-16",
@@ -22737,7 +22747,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0404"
+  "incident_id": "INC-0406"
  },
  {
   "date": "1954-11",
@@ -22787,7 +22797,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0405"
+  "incident_id": "INC-0407"
  },
  {
   "date": "1955",
@@ -22839,7 +22849,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0406"
+  "incident_id": "INC-0408"
  },
  {
   "date": "1955",
@@ -22888,7 +22898,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0407"
+  "incident_id": "INC-0409"
  },
  {
   "date": "1955-02-01",
@@ -22936,7 +22946,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0408"
+  "incident_id": "INC-0410"
  },
  {
   "date": "1955-03-04",
@@ -22987,7 +22997,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0409"
+  "incident_id": "INC-0411"
  },
  {
   "date": "1955-06-01",
@@ -23041,7 +23051,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0410"
+  "incident_id": "INC-0412"
  },
  {
   "date": "1955-07",
@@ -23090,7 +23100,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0411"
+  "incident_id": "INC-0413"
  },
  {
   "date": "1955-07-06",
@@ -23148,7 +23158,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0412"
+  "incident_id": "INC-0414"
  },
  {
   "date": "1955-07-27",
@@ -23200,7 +23210,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0413"
+  "incident_id": "INC-0415"
  },
  {
   "date": "1955-08-09",
@@ -23251,7 +23261,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0414"
+  "incident_id": "INC-0416"
  },
  {
   "date": "1955-09-06",
@@ -23305,7 +23315,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0415"
+  "incident_id": "INC-0417"
  },
  {
   "date": "1955-10-04",
@@ -23392,7 +23402,7 @@
    }
   ],
   "n_records_merged": 3,
-  "incident_id": "INC-0416"
+  "incident_id": "INC-0418"
  },
  {
   "date": "1955-11",
@@ -23454,7 +23464,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0417"
+  "incident_id": "INC-0419"
  },
  {
   "date": "1956",
@@ -23498,7 +23508,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0418"
+  "incident_id": "INC-0420"
  },
  {
   "date": "1956-04-06",
@@ -23552,7 +23562,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0419"
+  "incident_id": "INC-0421"
  },
  {
   "date": "1956-05-04",
@@ -23605,7 +23615,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0420"
+  "incident_id": "INC-0422"
  },
  {
   "date": "1956-05-18",
@@ -23656,7 +23666,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0421"
+  "incident_id": "INC-0423"
  },
  {
   "date": "1956-06-20",
@@ -23706,7 +23716,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0422"
+  "incident_id": "INC-0424"
  },
  {
   "date": "1956-07-04",
@@ -23756,7 +23766,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0423"
+  "incident_id": "INC-0425"
  },
  {
   "date": "1956-07-05",
@@ -23806,7 +23816,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0424"
+  "incident_id": "INC-0426"
  },
  {
   "date": "1956-08-13",
@@ -23861,7 +23871,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0425"
+  "incident_id": "INC-0427"
  },
  {
   "date": "1956-11-14",
@@ -23912,7 +23922,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0426"
+  "incident_id": "INC-0428"
  },
  {
   "date": "1956-11-20",
@@ -23962,7 +23972,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0427"
+  "incident_id": "INC-0429"
  },
  {
   "date": "1957",
@@ -24010,7 +24020,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0428"
+  "incident_id": "INC-0430"
  },
  {
   "date": "1957-06-11",
@@ -24060,7 +24070,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0429"
+  "incident_id": "INC-0431"
  },
  {
   "date": "1957-07-17",
@@ -24117,7 +24127,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0430"
+  "incident_id": "INC-0432"
  },
  {
   "date": "1957-08-27",
@@ -24167,7 +24177,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0431"
+  "incident_id": "INC-0433"
  },
  {
   "date": "1957-09-25",
@@ -24216,7 +24226,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0432"
+  "incident_id": "INC-0434"
  },
  {
   "date": "1957-10-10",
@@ -24262,7 +24272,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0433"
+  "incident_id": "INC-0435"
  },
  {
   "date": "1957-11-02",
@@ -24316,7 +24326,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0434"
+  "incident_id": "INC-0436"
  },
  {
   "date": "1957-11-05",
@@ -24370,7 +24380,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0435"
+  "incident_id": "INC-0437"
  },
  {
   "date": "1957-11-05",
@@ -24425,7 +24435,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0436"
+  "incident_id": "INC-0438"
  },
  {
   "date": "1957-11-05",
@@ -24477,7 +24487,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0437"
+  "incident_id": "INC-0439"
  },
  {
   "date": "1957-11-06",
@@ -24530,7 +24540,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0438"
+  "incident_id": "INC-0440"
  },
  {
   "date": "1957-11-12",
@@ -24581,7 +24591,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0439"
+  "incident_id": "INC-0441"
  },
  {
   "date": "1957-12-05",
@@ -24623,7 +24633,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0440"
+  "incident_id": "INC-0442"
  },
  {
   "date": "1958",
@@ -24669,7 +24679,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0441"
+  "incident_id": "INC-0443"
  },
  {
   "date": "1958-01-13",
@@ -24723,7 +24733,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0442"
+  "incident_id": "INC-0444"
  },
  {
   "date": "1958-02-07",
@@ -24773,7 +24783,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0443"
+  "incident_id": "INC-0445"
  },
  {
   "date": "1958-02-11",
@@ -24824,7 +24834,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0444"
+  "incident_id": "INC-0446"
  },
  {
   "date": "1958-02-20",
@@ -24873,7 +24883,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0445"
+  "incident_id": "INC-0447"
  },
  {
   "date": "1958-04-05",
@@ -24921,7 +24931,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0446"
+  "incident_id": "INC-0448"
  },
  {
   "date": "1958-04-12",
@@ -24972,7 +24982,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0447"
+  "incident_id": "INC-0449"
  },
  {
   "date": "1958-04-17",
@@ -25022,7 +25032,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0448"
+  "incident_id": "INC-0450"
  },
  {
   "date": "1958-12-14",
@@ -25075,7 +25085,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0449"
+  "incident_id": "INC-0451"
  },
  {
   "date": "1959-01-03",
@@ -25126,7 +25136,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0450"
+  "incident_id": "INC-0452"
  },
  {
   "date": "1959-02-24",
@@ -25178,7 +25188,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0451"
+  "incident_id": "INC-0453"
  },
  {
   "date": "1959-02-26",
@@ -25226,7 +25236,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0452"
+  "incident_id": "INC-0454"
  },
  {
   "date": "1959-04-22",
@@ -25277,7 +25287,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0453"
+  "incident_id": "INC-0455"
  },
  {
   "date": "1959-10-28",
@@ -25329,7 +25339,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0454"
+  "incident_id": "INC-0456"
  },
  {
   "date": "1960-01-16",
@@ -25380,7 +25390,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0455"
+  "incident_id": "INC-0457"
  },
  {
   "date": "1960-02-21",
@@ -25428,7 +25438,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0456"
+  "incident_id": "INC-0458"
  },
  {
   "date": "1960-04-09",
@@ -25478,7 +25488,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0457"
+  "incident_id": "INC-0459"
  },
  {
   "date": "1960-04-17",
@@ -25533,7 +25543,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0458"
+  "incident_id": "INC-0460"
  },
  {
   "date": "1960-05-01",
@@ -25607,7 +25617,7 @@
    }
   ],
   "n_records_merged": 3,
-  "incident_id": "INC-0459"
+  "incident_id": "INC-0461"
  },
  {
   "date": "1960-05-03",
@@ -25659,7 +25669,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0460"
+  "incident_id": "INC-0462"
  },
  {
   "date": "1961-01-24",
@@ -25706,7 +25716,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0461"
+  "incident_id": "INC-0463"
  },
  {
   "date": "1961-02-05",
@@ -25756,7 +25766,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0462"
+  "incident_id": "INC-0464"
  },
  {
   "date": "1961-07-21",
@@ -25804,7 +25814,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0463"
+  "incident_id": "INC-0465"
  },
  {
   "date": "1961-09-13",
@@ -25855,7 +25865,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0464"
+  "incident_id": "INC-0466"
  },
  {
   "date": "1961-09-25",
@@ -25910,7 +25920,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0465"
+  "incident_id": "INC-0467"
  },
  {
   "date": "1961-10-06",
@@ -25956,7 +25966,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0466"
+  "incident_id": "INC-0468"
  },
  {
   "date": "1962-02-20",
@@ -26028,7 +26038,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0467"
+  "incident_id": "INC-0469"
  },
  {
   "date": "1962-04",
@@ -26079,7 +26089,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0468"
+  "incident_id": "INC-0470"
  },
  {
   "date": "1962-05-22",
@@ -26132,7 +26142,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0469"
+  "incident_id": "INC-0471"
  },
  {
   "date": "1962-05-24",
@@ -26180,7 +26190,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0470"
+  "incident_id": "INC-0472"
  },
  {
   "date": "1962-05-24",
@@ -26233,7 +26243,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0471"
+  "incident_id": "INC-0473"
  },
  {
   "date": "1962-07-17",
@@ -26284,7 +26294,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0472"
+  "incident_id": "INC-0474"
  },
  {
   "date": "1962-07-22",
@@ -26331,7 +26341,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0473"
+  "incident_id": "INC-0475"
  },
  {
   "date": "1962-09-08",
@@ -26384,7 +26394,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0474"
+  "incident_id": "INC-0476"
  },
  {
   "date": "1962-10-03",
@@ -26432,7 +26442,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0475"
+  "incident_id": "INC-0477"
  },
  {
   "date": "1962-10-03",
@@ -26495,7 +26505,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0476"
+  "incident_id": "INC-0478"
  },
  {
   "date": "1962-10-27",
@@ -26546,7 +26556,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0477"
+  "incident_id": "INC-0479"
  },
  {
   "date": "1963-05-15",
@@ -26603,7 +26613,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0478"
+  "incident_id": "INC-0480"
  },
  {
   "date": "1963-05-15",
@@ -26654,7 +26664,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0479"
+  "incident_id": "INC-0481"
  },
  {
   "date": "1963-05-16",
@@ -26731,7 +26741,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0480"
+  "incident_id": "INC-0482"
  },
  {
   "date": "1963-05-24",
@@ -26781,7 +26791,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0481"
+  "incident_id": "INC-0483"
  },
  {
   "date": "1963-11-01",
@@ -26832,7 +26842,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0482"
+  "incident_id": "INC-0484"
  },
  {
   "date": "1963-12-07",
@@ -26884,7 +26894,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0483"
+  "incident_id": "INC-0485"
  },
  {
   "date": "1964-04-24",
@@ -26922,10 +26932,9 @@
    "civilian"
   ],
   "agencies": [
-   "FBI",
-   "The Sunday Press"
+   "FBI"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 3,
   "explanation_status": "unexplained",
   "explanation": "Not assessed in this document.",
@@ -27007,7 +27016,7 @@
    }
   ],
   "n_records_merged": 3,
-  "incident_id": "INC-0484"
+  "incident_id": "INC-0486"
  },
  {
   "date": "1964-04-26",
@@ -27061,7 +27070,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0485"
+  "incident_id": "INC-0487"
  },
  {
   "date": "1964-05-30",
@@ -27111,7 +27120,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0486"
+  "incident_id": "INC-0488"
  },
  {
   "date": "1964-07-07",
@@ -27163,7 +27172,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0487"
+  "incident_id": "INC-0489"
  },
  {
   "date": "1964-07-09",
@@ -27213,7 +27222,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0488"
+  "incident_id": "INC-0490"
  },
  {
   "date": "1964-07-18",
@@ -27262,7 +27271,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0489"
+  "incident_id": "INC-0491"
  },
  {
   "date": "1965",
@@ -27314,7 +27323,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0490"
+  "incident_id": "INC-0492"
  },
  {
   "date": "1965",
@@ -27365,7 +27374,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0491"
+  "incident_id": "INC-0493"
  },
  {
   "date": "1965-03-02",
@@ -27413,7 +27422,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0492"
+  "incident_id": "INC-0494"
  },
  {
   "date": "1965-05-27",
@@ -27461,7 +27470,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0493"
+  "incident_id": "INC-0495"
  },
  {
   "date": "1965-06",
@@ -27512,7 +27521,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0494"
+  "incident_id": "INC-0496"
  },
  {
   "date": "1965-06-03",
@@ -27581,7 +27590,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0495"
+  "incident_id": "INC-0497"
  },
  {
   "date": "1965-06-09",
@@ -27656,7 +27665,7 @@
    }
   ],
   "n_records_merged": 3,
-  "incident_id": "INC-0496"
+  "incident_id": "INC-0498"
  },
  {
   "date": "1965-06-09",
@@ -27720,7 +27729,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0497"
+  "incident_id": "INC-0499"
  },
  {
   "date": "1965-07-01",
@@ -27771,7 +27780,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0498"
+  "incident_id": "INC-0500"
  },
  {
   "date": "1965-07-12",
@@ -27818,7 +27827,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0499"
+  "incident_id": "INC-0501"
  },
  {
   "date": "1965-08-24",
@@ -27871,7 +27880,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0500"
+  "incident_id": "INC-0502"
  },
  {
   "date": "1965-08-24",
@@ -27921,7 +27930,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0501"
+  "incident_id": "INC-0503"
  },
  {
   "date": "1965-08-24",
@@ -27973,7 +27982,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0502"
+  "incident_id": "INC-0504"
  },
  {
   "date": "1965-08-25",
@@ -28023,7 +28032,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0503"
+  "incident_id": "INC-0505"
  },
  {
   "date": "1965-08-26",
@@ -28075,7 +28084,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0504"
+  "incident_id": "INC-0506"
  },
  {
   "date": "1965-08-30",
@@ -28149,7 +28158,7 @@
    }
   ],
   "n_records_merged": 3,
-  "incident_id": "INC-0505"
+  "incident_id": "INC-0507"
  },
  {
   "date": "1965-08-30",
@@ -28228,7 +28237,7 @@
    }
   ],
   "n_records_merged": 4,
-  "incident_id": "INC-0506"
+  "incident_id": "INC-0508"
  },
  {
   "date": "1965-08-31",
@@ -28279,7 +28288,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0507"
+  "incident_id": "INC-0509"
  },
  {
   "date": "1965-10-25",
@@ -28326,7 +28335,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0508"
+  "incident_id": "INC-0510"
  },
  {
   "date": "1965-12",
@@ -28376,7 +28385,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0509"
+  "incident_id": "INC-0511"
  },
  {
   "date": "1965-12-05",
@@ -28450,7 +28459,7 @@
    }
   ],
   "n_records_merged": 3,
-  "incident_id": "INC-0510"
+  "incident_id": "INC-0512"
  },
  {
   "date": "1965-12-20",
@@ -28500,7 +28509,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0511"
+  "incident_id": "INC-0513"
  },
  {
   "date": "1965-12-28",
@@ -28550,7 +28559,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0512"
+  "incident_id": "INC-0514"
  },
  {
   "date": "1966",
@@ -28598,7 +28607,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0513"
+  "incident_id": "INC-0515"
  },
  {
   "date": "1966",
@@ -28642,7 +28651,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0514"
+  "incident_id": "INC-0516"
  },
  {
   "date": "1966-02-03",
@@ -28693,7 +28702,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0515"
+  "incident_id": "INC-0517"
  },
  {
   "date": "1966-03-04",
@@ -28741,7 +28750,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0516"
+  "incident_id": "INC-0518"
  },
  {
   "date": "1966-03-19",
@@ -28787,7 +28796,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0517"
+  "incident_id": "INC-0519"
  },
  {
   "date": "1966-03-21",
@@ -28878,7 +28887,7 @@
    }
   ],
   "n_records_merged": 5,
-  "incident_id": "INC-0518"
+  "incident_id": "INC-0520"
  },
  {
   "date": "1966-03-25",
@@ -28930,7 +28939,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0519"
+  "incident_id": "INC-0521"
  },
  {
   "date": "1966-03-26",
@@ -28982,7 +28991,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0520"
+  "incident_id": "INC-0522"
  },
  {
   "date": "1966-04-04",
@@ -29033,7 +29042,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0521"
+  "incident_id": "INC-0523"
  },
  {
   "date": "1966-04-07",
@@ -29067,10 +29076,9 @@
    "civilian"
   ],
   "agencies": [
-   "unknown",
-   "Department of War"
+   "unknown"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "explained",
   "explanation": "thrust imbalance",
@@ -29098,7 +29106,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0522"
+  "incident_id": "INC-0524"
  },
  {
   "date": "1966-05-03",
@@ -29145,7 +29153,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0523"
+  "incident_id": "INC-0525"
  },
  {
   "date": "1966-05-16",
@@ -29196,7 +29204,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0524"
+  "incident_id": "INC-0526"
  },
  {
   "date": "1966-05-17",
@@ -29243,7 +29251,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0525"
+  "incident_id": "INC-0527"
  },
  {
   "date": "1966-05-17",
@@ -29290,7 +29298,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0526"
+  "incident_id": "INC-0528"
  },
  {
   "date": "1966-06-03",
@@ -29344,7 +29352,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0527"
+  "incident_id": "INC-0529"
  },
  {
   "date": "1966-06-10",
@@ -29390,7 +29398,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0528"
+  "incident_id": "INC-0530"
  },
  {
   "date": "1966-07-11",
@@ -29440,7 +29448,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0529"
+  "incident_id": "INC-0531"
  },
  {
   "date": "1966-09-07",
@@ -29494,7 +29502,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0530"
+  "incident_id": "INC-0532"
  },
  {
   "date": "1966-10-11",
@@ -29541,7 +29549,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0531"
+  "incident_id": "INC-0533"
  },
  {
   "date": "1967-01-05",
@@ -29591,7 +29599,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0532"
+  "incident_id": "INC-0534"
  },
  {
   "date": "1967-01-18",
@@ -29642,7 +29650,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0533"
+  "incident_id": "INC-0535"
  },
  {
   "date": "1967-01-21",
@@ -29693,7 +29701,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0534"
+  "incident_id": "INC-0536"
  },
  {
   "date": "1967-03-02",
@@ -29746,7 +29754,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0535"
+  "incident_id": "INC-0537"
  },
  {
   "date": "1967-04-14",
@@ -29796,7 +29804,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0536"
+  "incident_id": "INC-0538"
  },
  {
   "date": "1967-08-06",
@@ -29847,7 +29855,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0537"
+  "incident_id": "INC-0539"
  },
  {
   "date": "1967-08-20",
@@ -29898,7 +29906,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0538"
+  "incident_id": "INC-0540"
  },
  {
   "date": "1967-08-29",
@@ -29950,7 +29958,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0539"
+  "incident_id": "INC-0541"
  },
  {
   "date": "1967-09-08",
@@ -30001,7 +30009,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0540"
+  "incident_id": "INC-0542"
  },
  {
   "date": "1967-09-16",
@@ -30047,7 +30055,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0541"
+  "incident_id": "INC-0543"
  },
  {
   "date": "1967-10",
@@ -30100,7 +30108,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0542"
+  "incident_id": "INC-0544"
  },
  {
   "date": "1967-10-27",
@@ -30147,7 +30155,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0543"
+  "incident_id": "INC-0545"
  },
  {
   "date": "1968-02",
@@ -30191,7 +30199,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0544"
+  "incident_id": "INC-0546"
  },
  {
   "date": "1968-02-19",
@@ -30241,7 +30249,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0545"
+  "incident_id": "INC-0547"
  },
  {
   "date": "1968-02-19",
@@ -30290,7 +30298,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0546"
+  "incident_id": "INC-0548"
  },
  {
   "date": "1968-02-21",
@@ -30339,7 +30347,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0547"
+  "incident_id": "INC-0549"
  },
  {
   "date": "1968-03-04",
@@ -30398,7 +30406,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0548"
+  "incident_id": "INC-0550"
  },
  {
   "date": "1968-03-25",
@@ -30447,7 +30455,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0549"
+  "incident_id": "INC-0551"
  },
  {
   "date": "1968-03-25",
@@ -30497,7 +30505,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0550"
+  "incident_id": "INC-0552"
  },
  {
   "date": "1968-05-03",
@@ -30545,7 +30553,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0551"
+  "incident_id": "INC-0553"
  },
  {
   "date": "1968-05-03",
@@ -30594,7 +30602,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0552"
+  "incident_id": "INC-0554"
  },
  {
   "date": "1968-06-04",
@@ -30644,7 +30652,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0553"
+  "incident_id": "INC-0555"
  },
  {
   "date": "1968-09-18",
@@ -30691,7 +30699,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0554"
+  "incident_id": "INC-0556"
  },
  {
   "date": "1968-11-16",
@@ -30738,7 +30746,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0555"
+  "incident_id": "INC-0557"
  },
  {
   "date": "1969",
@@ -30786,7 +30794,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0556"
+  "incident_id": "INC-0558"
  },
  {
   "date": "1969-05-16",
@@ -30832,7 +30840,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0557"
+  "incident_id": "INC-0559"
  },
  {
   "date": "1969-07-21",
@@ -30882,7 +30890,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0558"
+  "incident_id": "INC-0560"
  },
  {
   "date": "1969-07-31",
@@ -30928,7 +30936,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0559"
+  "incident_id": "INC-0561"
  },
  {
   "date": "1969-08-27",
@@ -30975,7 +30983,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0560"
+  "incident_id": "INC-0562"
  },
  {
   "date": "1969-10-10",
@@ -31022,7 +31030,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0561"
+  "incident_id": "INC-0563"
  },
  {
   "date": "1969-11",
@@ -31070,7 +31078,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0562"
+  "incident_id": "INC-0564"
  },
  {
   "date": "1969-11",
@@ -31118,7 +31126,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0563"
+  "incident_id": "INC-0565"
  },
  {
   "date": "1969-11-19",
@@ -31171,7 +31179,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0564"
+  "incident_id": "INC-0566"
  },
  {
   "date": "1969-11-20",
@@ -31221,7 +31229,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0565"
+  "incident_id": "INC-0567"
  },
  {
   "date": "1971-05-08",
@@ -31267,7 +31275,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0566"
+  "incident_id": "INC-0568"
  },
  {
   "date": "1971-12-04",
@@ -31313,7 +31321,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0567"
+  "incident_id": "INC-0569"
  },
  {
   "date": "1972-12",
@@ -31362,7 +31370,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0568"
+  "incident_id": "INC-0570"
  },
  {
   "date": "1972-12-07",
@@ -31426,7 +31434,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0569"
+  "incident_id": "INC-0571"
  },
  {
   "date": "1972-12-09",
@@ -31484,7 +31492,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0570"
+  "incident_id": "INC-0572"
  },
  {
   "date": "1972-12-10",
@@ -31549,7 +31557,7 @@
    }
   ],
   "n_records_merged": 3,
-  "incident_id": "INC-0571"
+  "incident_id": "INC-0573"
  },
  {
   "date": "1973-06",
@@ -31600,7 +31608,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0572"
+  "incident_id": "INC-0574"
  },
  {
   "date": "1973-06",
@@ -31649,7 +31657,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0573"
+  "incident_id": "INC-0575"
  },
  {
   "date": "1973-06-30",
@@ -31697,7 +31705,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0574"
+  "incident_id": "INC-0576"
  },
  {
   "date": "1973-08",
@@ -31761,7 +31769,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0575"
+  "incident_id": "INC-0577"
  },
  {
   "date": "1973-09",
@@ -31814,7 +31822,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0576"
+  "incident_id": "INC-0578"
  },
  {
   "date": "1973-10-04",
@@ -31860,7 +31868,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0577"
+  "incident_id": "INC-0579"
  },
  {
   "date": "1974-02",
@@ -31913,7 +31921,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0578"
+  "incident_id": "INC-0580"
  },
  {
   "date": "1974-02-22",
@@ -31961,7 +31969,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0579"
+  "incident_id": "INC-0581"
  },
  {
   "date": "1974-08-21",
@@ -32011,7 +32019,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0580"
+  "incident_id": "INC-0582"
  },
  {
   "date": "1975-02-20",
@@ -32058,7 +32066,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0581"
+  "incident_id": "INC-0583"
  },
  {
   "date": "1975-04-12",
@@ -32105,7 +32113,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0582"
+  "incident_id": "INC-0584"
  },
  {
   "date": "1976-03-03",
@@ -32159,7 +32167,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0583"
+  "incident_id": "INC-0585"
  },
  {
   "date": "1976-09-18",
@@ -32214,7 +32222,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0584"
+  "incident_id": "INC-0586"
  },
  {
   "date": "1977-03-07",
@@ -32268,7 +32276,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0585"
+  "incident_id": "INC-0587"
  },
  {
   "date": "1977-09-29",
@@ -32316,7 +32324,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0586"
+  "incident_id": "INC-0588"
  },
  {
   "date": "1979-12-09",
@@ -32369,7 +32377,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0587"
+  "incident_id": "INC-0589"
  },
  {
   "date": "1980-12-08",
@@ -32416,7 +32424,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0588"
+  "incident_id": "INC-0590"
  },
  {
   "date": "1980-12-08",
@@ -32465,7 +32473,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0589"
+  "incident_id": "INC-0591"
  },
  {
   "date": "1981-01-08",
@@ -32517,7 +32525,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0590"
+  "incident_id": "INC-0592"
  },
  {
   "date": "1981-12-18",
@@ -32565,7 +32573,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0591"
+  "incident_id": "INC-0593"
  },
  {
   "date": "1982-10-21",
@@ -32617,7 +32625,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0592"
+  "incident_id": "INC-0594"
  },
  {
   "date": "1985-01-24",
@@ -32680,7 +32688,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0593"
+  "incident_id": "INC-0595"
  },
  {
   "date": "1987",
@@ -32733,7 +32741,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0594"
+  "incident_id": "INC-0596"
  },
  {
   "date": "1987-03-26",
@@ -32780,7 +32788,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0595"
+  "incident_id": "INC-0597"
  },
  {
   "date": "1989",
@@ -32832,7 +32840,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0596"
+  "incident_id": "INC-0598"
  },
  {
   "date": "1989-07-28",
@@ -32883,7 +32891,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0597"
+  "incident_id": "INC-0599"
  },
  {
   "date": "1990-03-21",
@@ -32937,7 +32945,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0598"
+  "incident_id": "INC-0600"
  },
  {
   "date": "1990-03-21",
@@ -32990,7 +32998,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0599"
+  "incident_id": "INC-0601"
  },
  {
   "date": "1991-04-18",
@@ -33037,7 +33045,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0600"
+  "incident_id": "INC-0602"
  },
  {
   "date": "1991-06",
@@ -33083,7 +33091,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0601"
+  "incident_id": "INC-0603"
  },
  {
   "date": "1991-08-20",
@@ -33129,7 +33137,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0602"
+  "incident_id": "INC-0604"
  },
  {
   "date": "1992-08-22",
@@ -33176,7 +33184,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0603"
+  "incident_id": "INC-0605"
  },
  {
   "date": "1994-01-27",
@@ -33241,7 +33249,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0604"
+  "incident_id": "INC-0606"
  },
  {
   "date": "1994-01-28",
@@ -33294,7 +33302,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0605"
+  "incident_id": "INC-0607"
  },
  {
   "date": "1995-07-31",
@@ -33347,7 +33355,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0606"
+  "incident_id": "INC-0608"
  },
  {
   "date": "1996",
@@ -33399,7 +33407,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0607"
+  "incident_id": "INC-0609"
  },
  {
   "date": "1996",
@@ -33445,7 +33453,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0608"
+  "incident_id": "INC-0610"
  },
  {
   "date": "1996-11",
@@ -33516,7 +33524,7 @@
    }
   ],
   "n_records_merged": 3,
-  "incident_id": "INC-0609"
+  "incident_id": "INC-0611"
  },
  {
   "date": "1997-08-10",
@@ -33568,7 +33576,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0610"
+  "incident_id": "INC-0612"
  },
  {
   "date": "1999-12-31",
@@ -33614,7 +33622,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0611"
+  "incident_id": "INC-0613"
  },
  {
   "date": "1999-12-31",
@@ -33662,7 +33670,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0612"
+  "incident_id": "INC-0614"
  },
  {
   "date": "2001-01-26",
@@ -33712,7 +33720,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0613"
+  "incident_id": "INC-0615"
  },
  {
   "date": "2001-10-28",
@@ -33761,7 +33769,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0614"
+  "incident_id": "INC-0616"
  },
  {
   "date": "2003",
@@ -33812,7 +33820,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0615"
+  "incident_id": "INC-0617"
  },
  {
   "date": "2004",
@@ -33864,7 +33872,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0616"
+  "incident_id": "INC-0618"
  },
  {
   "date": "2004-11-14",
@@ -33921,7 +33929,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0617"
+  "incident_id": "INC-0619"
  },
  {
   "date": "2008-07-02",
@@ -33974,7 +33982,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0618"
+  "incident_id": "INC-0620"
  },
  {
   "date": "2013",
@@ -34018,7 +34026,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0619"
+  "incident_id": "INC-0621"
  },
  {
   "date": "2014",
@@ -34072,7 +34080,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0620"
+  "incident_id": "INC-0622"
  },
  {
   "date": "2014",
@@ -34123,7 +34131,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0621"
+  "incident_id": "INC-0623"
  },
  {
   "date": "2014-2024",
@@ -34175,7 +34183,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0622"
+  "incident_id": "INC-0624"
  },
  {
   "date": "2015",
@@ -34221,7 +34229,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0623"
+  "incident_id": "INC-0625"
  },
  {
   "date": "2015-01",
@@ -34273,7 +34281,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0624"
+  "incident_id": "INC-0626"
  },
  {
   "date": "2015-09-01",
@@ -34310,7 +34318,7 @@
    "federal-le"
   ],
   "agencies": [
-   "Department of Energy"
+   "AEC/DOE"
   ],
   "n_agencies": 1,
   "n_source_docs": 2,
@@ -34340,7 +34348,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0625"
+  "incident_id": "INC-0627"
  },
  {
   "date": "2016",
@@ -34386,7 +34394,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0626"
+  "incident_id": "INC-0628"
  },
  {
   "date": "2016-11-18",
@@ -34418,10 +34426,9 @@
    "military-pilot"
   ],
   "agencies": [
-   "CENTCOM",
-   "Department of War"
+   "CENTCOM"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -34446,7 +34453,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0627"
+  "incident_id": "INC-0629"
  },
  {
   "date": "2018",
@@ -34494,7 +34501,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0628"
+  "incident_id": "INC-0630"
  },
  {
   "date": "2019",
@@ -34542,7 +34549,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0629"
+  "incident_id": "INC-0631"
  },
  {
   "date": "2019",
@@ -34595,7 +34602,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0630"
+  "incident_id": "INC-0632"
  },
  {
   "date": "2019",
@@ -34641,7 +34648,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0631"
+  "incident_id": "INC-0633"
  },
  {
   "date": "2019-09-25",
@@ -34698,7 +34705,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0632"
+  "incident_id": "INC-0634"
  },
  {
   "date": "2020",
@@ -34749,7 +34756,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0633"
+  "incident_id": "INC-0635"
  },
  {
   "date": "2020",
@@ -34800,7 +34807,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0634"
+  "incident_id": "INC-0636"
  },
  {
   "date": "2020",
@@ -34846,7 +34853,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0635"
+  "incident_id": "INC-0637"
  },
  {
   "date": "2020",
@@ -34892,7 +34899,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0636"
+  "incident_id": "INC-0638"
  },
  {
   "date": "2020",
@@ -34938,7 +34945,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0637"
+  "incident_id": "INC-0639"
  },
  {
   "date": "2020",
@@ -34984,7 +34991,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0638"
+  "incident_id": "INC-0640"
  },
  {
   "date": "2020-02-13",
@@ -35032,7 +35039,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0639"
+  "incident_id": "INC-0641"
  },
  {
   "date": "2020-05-05",
@@ -35089,7 +35096,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0640"
+  "incident_id": "INC-0642"
  },
  {
   "date": "2020-05-14",
@@ -35140,7 +35147,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0641"
+  "incident_id": "INC-0643"
  },
  {
   "date": "2020-05-14",
@@ -35188,7 +35195,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0642"
+  "incident_id": "INC-0644"
  },
  {
   "date": "2020-06-01",
@@ -35236,7 +35243,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0643"
+  "incident_id": "INC-0645"
  },
  {
   "date": "2020-06-15",
@@ -35284,7 +35291,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0644"
+  "incident_id": "INC-0646"
  },
  {
   "date": "2020-06-15",
@@ -35332,7 +35339,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0645"
+  "incident_id": "INC-0647"
  },
  {
   "date": "2020-06-15",
@@ -35383,7 +35390,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0646"
+  "incident_id": "INC-0648"
  },
  {
   "date": "2020-06-15",
@@ -35462,7 +35469,7 @@
    }
   ],
   "n_records_merged": 5,
-  "incident_id": "INC-0647"
+  "incident_id": "INC-0649"
  },
  {
   "date": "2020-07-16",
@@ -35492,10 +35499,9 @@
    "military-other"
   ],
   "agencies": [
-   "CENTCOM",
-   "Department of War"
+   "CENTCOM"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "not-assessed",
   "explanation": "",
@@ -35541,7 +35547,7 @@
    }
   ],
   "n_records_merged": 4,
-  "incident_id": "INC-0648"
+  "incident_id": "INC-0650"
  },
  {
   "date": "2020-08-08",
@@ -35574,10 +35580,9 @@
    "military-other"
   ],
   "agencies": [
-   "CENTCOM",
-   "Department of War"
+   "CENTCOM"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 3,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -35612,7 +35617,7 @@
    }
   ],
   "n_records_merged": 3,
-  "incident_id": "INC-0649"
+  "incident_id": "INC-0651"
  },
  {
   "date": "2020-08-21",
@@ -35660,7 +35665,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0650"
+  "incident_id": "INC-0652"
  },
  {
   "date": "2020-08-24",
@@ -35694,10 +35699,9 @@
    "military-other"
   ],
   "agencies": [
-   "US Navy",
-   "Department of War"
+   "US Navy"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 3,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -35731,7 +35735,7 @@
    }
   ],
   "n_records_merged": 3,
-  "incident_id": "INC-0651"
+  "incident_id": "INC-0653"
  },
  {
   "date": "2020-08-27",
@@ -35764,10 +35768,9 @@
    "military-other"
   ],
   "agencies": [
-   "CENTCOM",
-   "Department of War"
+   "CENTCOM"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -35795,7 +35798,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0652"
+  "incident_id": "INC-0654"
  },
  {
   "date": "2020-08-31",
@@ -35855,7 +35858,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0653"
+  "incident_id": "INC-0655"
  },
  {
   "date": "2020-08-31",
@@ -35912,7 +35915,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0654"
+  "incident_id": "INC-0656"
  },
  {
   "date": "2020-09-04",
@@ -35944,10 +35947,9 @@
    "military-other"
   ],
   "agencies": [
-   "CENTCOM",
-   "Department of War"
+   "CENTCOM"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "not-assessed",
   "explanation": "Not assessed",
@@ -35972,7 +35974,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0655"
+  "incident_id": "INC-0657"
  },
  {
   "date": "2020-09-05",
@@ -36020,7 +36022,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0656"
+  "incident_id": "INC-0658"
  },
  {
   "date": "2020-09-16",
@@ -36066,7 +36068,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0657"
+  "incident_id": "INC-0659"
  },
  {
   "date": "2020-09-16",
@@ -36114,7 +36116,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0658"
+  "incident_id": "INC-0660"
  },
  {
   "date": "2020-09-17",
@@ -36162,7 +36164,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0659"
+  "incident_id": "INC-0661"
  },
  {
   "date": "2020-10-01",
@@ -36208,7 +36210,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0660"
+  "incident_id": "INC-0662"
  },
  {
   "date": "2020-10-07",
@@ -36256,7 +36258,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0661"
+  "incident_id": "INC-0663"
  },
  {
   "date": "2020-10-15",
@@ -36306,7 +36308,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0662"
+  "incident_id": "INC-0664"
  },
  {
   "date": "2020-10-15",
@@ -36354,7 +36356,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0663"
+  "incident_id": "INC-0665"
  },
  {
   "date": "2020-10-16",
@@ -36402,7 +36404,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0664"
+  "incident_id": "INC-0666"
  },
  {
   "date": "2020-10-18",
@@ -36450,7 +36452,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0665"
+  "incident_id": "INC-0667"
  },
  {
   "date": "2020-10-20",
@@ -36498,7 +36500,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0666"
+  "incident_id": "INC-0668"
  },
  {
   "date": "2020-10-27",
@@ -36554,7 +36556,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0667"
+  "incident_id": "INC-0669"
  },
  {
   "date": "2020-10-27",
@@ -36602,7 +36604,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0668"
+  "incident_id": "INC-0670"
  },
  {
   "date": "2020-10-29",
@@ -36651,7 +36653,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0669"
+  "incident_id": "INC-0671"
  },
  {
   "date": "2020-11-02",
@@ -36696,7 +36698,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0670"
+  "incident_id": "INC-0672"
  },
  {
   "date": "2020-11-02",
@@ -36743,7 +36745,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0671"
+  "incident_id": "INC-0673"
  },
  {
   "date": "2020-11-02",
@@ -36789,7 +36791,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0672"
+  "incident_id": "INC-0674"
  },
  {
   "date": "2020-11-02",
@@ -36837,7 +36839,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0673"
+  "incident_id": "INC-0675"
  },
  {
   "date": "2020-11-23",
@@ -36885,7 +36887,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0674"
+  "incident_id": "INC-0676"
  },
  {
   "date": "2021",
@@ -36937,7 +36939,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0675"
+  "incident_id": "INC-0677"
  },
  {
   "date": "2021",
@@ -36985,7 +36987,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0676"
+  "incident_id": "INC-0678"
  },
  {
   "date": "2021-01-03",
@@ -37033,7 +37035,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0677"
+  "incident_id": "INC-0679"
  },
  {
   "date": "2021-04-12",
@@ -37110,7 +37112,7 @@
    }
   ],
   "n_records_merged": 4,
-  "incident_id": "INC-0678"
+  "incident_id": "INC-0680"
  },
  {
   "date": "2021-05",
@@ -37164,7 +37166,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0679"
+  "incident_id": "INC-0681"
  },
  {
   "date": "2021-06-09",
@@ -37212,7 +37214,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0680"
+  "incident_id": "INC-0682"
  },
  {
   "date": "2021-11",
@@ -37275,7 +37277,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0681"
+  "incident_id": "INC-0683"
  },
  {
   "date": "2021-2024",
@@ -37327,7 +37329,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0682"
+  "incident_id": "INC-0684"
  },
  {
   "date": "2022",
@@ -37377,7 +37379,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0683"
+  "incident_id": "INC-0685"
  },
  {
   "date": "2022",
@@ -37427,7 +37429,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0684"
+  "incident_id": "INC-0686"
  },
  {
   "date": "2022",
@@ -37475,7 +37477,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0685"
+  "incident_id": "INC-0687"
  },
  {
   "date": "2022-02",
@@ -37551,7 +37553,7 @@
    }
   ],
   "n_records_merged": 3,
-  "incident_id": "INC-0686"
+  "incident_id": "INC-0688"
  },
  {
   "date": "2022-02",
@@ -37599,7 +37601,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0687"
+  "incident_id": "INC-0689"
  },
  {
   "date": "2022-03",
@@ -37651,7 +37653,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0688"
+  "incident_id": "INC-0690"
  },
  {
   "date": "2022-03",
@@ -37703,7 +37705,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0689"
+  "incident_id": "INC-0691"
  },
  {
   "date": "2022-03-25",
@@ -37751,7 +37753,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0690"
+  "incident_id": "INC-0692"
  },
  {
   "date": "2022-05-06",
@@ -37803,7 +37805,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0691"
+  "incident_id": "INC-0693"
  },
  {
   "date": "2022-05-06",
@@ -37849,7 +37851,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0692"
+  "incident_id": "INC-0694"
  },
  {
   "date": "2022-05-20",
@@ -37906,7 +37908,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0693"
+  "incident_id": "INC-0695"
  },
  {
   "date": "2022-05-29",
@@ -37952,7 +37954,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0694"
+  "incident_id": "INC-0696"
  },
  {
   "date": "2022-05-30",
@@ -37996,7 +37998,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0695"
+  "incident_id": "INC-0697"
  },
  {
   "date": "2022-06-13",
@@ -38044,7 +38046,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0696"
+  "incident_id": "INC-0698"
  },
  {
   "date": "2022-07-31",
@@ -38100,7 +38102,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0697"
+  "incident_id": "INC-0699"
  },
  {
   "date": "2022-08",
@@ -38148,7 +38150,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0698"
+  "incident_id": "INC-0700"
  },
  {
   "date": "2022-08-26",
@@ -38196,7 +38198,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0699"
+  "incident_id": "INC-0701"
  },
  {
   "date": "2022-10-15",
@@ -38244,7 +38246,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0700"
+  "incident_id": "INC-0702"
  },
  {
   "date": "2022-11",
@@ -38292,7 +38294,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0701"
+  "incident_id": "INC-0703"
  },
  {
   "date": "2022-12-01",
@@ -38322,10 +38324,9 @@
    "military-other"
   ],
   "agencies": [
-   "CENTCOM",
-   "Department of War"
+   "CENTCOM"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -38350,7 +38351,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0702"
+  "incident_id": "INC-0704"
  },
  {
   "date": "2023",
@@ -38404,7 +38405,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0703"
+  "incident_id": "INC-0705"
  },
  {
   "date": "2023",
@@ -38455,7 +38456,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0704"
+  "incident_id": "INC-0706"
  },
  {
   "date": "2023",
@@ -38509,7 +38510,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0705"
+  "incident_id": "INC-0707"
  },
  {
   "date": "2023",
@@ -38561,7 +38562,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0706"
+  "incident_id": "INC-0708"
  },
  {
   "date": "2023",
@@ -38612,7 +38613,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0707"
+  "incident_id": "INC-0709"
  },
  {
   "date": "2023",
@@ -38659,7 +38660,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0708"
+  "incident_id": "INC-0710"
  },
  {
   "date": "2023",
@@ -38705,7 +38706,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0709"
+  "incident_id": "INC-0711"
  },
  {
   "date": "2023",
@@ -38751,7 +38752,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0710"
+  "incident_id": "INC-0712"
  },
  {
   "date": "2023",
@@ -38797,7 +38798,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0711"
+  "incident_id": "INC-0713"
  },
  {
   "date": "2023",
@@ -38844,7 +38845,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0712"
+  "incident_id": "INC-0714"
  },
  {
   "date": "2023-01-05",
@@ -38892,7 +38893,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0713"
+  "incident_id": "INC-0715"
  },
  {
   "date": "2023-01-20",
@@ -38940,7 +38941,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0714"
+  "incident_id": "INC-0716"
  },
  {
   "date": "2023-02-12",
@@ -38989,7 +38990,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0715"
+  "incident_id": "INC-0717"
  },
  {
   "date": "2023-02-13",
@@ -39037,7 +39038,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0716"
+  "incident_id": "INC-0718"
  },
  {
   "date": "2023-02-21",
@@ -39070,10 +39071,9 @@
    "military-other"
   ],
   "agencies": [
-   "CENTCOM",
-   "Department of War"
+   "CENTCOM"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "not-assessed",
   "explanation": "",
@@ -39109,7 +39109,7 @@
    }
   ],
   "n_records_merged": 3,
-  "incident_id": "INC-0717"
+  "incident_id": "INC-0719"
  },
  {
   "date": "2023-03",
@@ -39163,7 +39163,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0718"
+  "incident_id": "INC-0720"
  },
  {
   "date": "2023-03-31",
@@ -39196,10 +39196,9 @@
    "military-other"
   ],
   "agencies": [
-   "77 EFS",
-   "Department of War"
+   "77 EFS"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -39225,7 +39224,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0719"
+  "incident_id": "INC-0721"
  },
  {
   "date": "2023-09-01",
@@ -39311,7 +39310,7 @@
    }
   ],
   "n_records_merged": 4,
-  "incident_id": "INC-0720"
+  "incident_id": "INC-0722"
  },
  {
   "date": "2023-10",
@@ -39663,7 +39662,7 @@
    }
   ],
   "n_records_merged": 28,
-  "incident_id": "INC-0721"
+  "incident_id": "INC-0723"
  },
  {
   "date": "2023-10",
@@ -39713,7 +39712,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0722"
+  "incident_id": "INC-0724"
  },
  {
   "date": "2023-10",
@@ -39759,7 +39758,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0723"
+  "incident_id": "INC-0725"
  },
  {
   "date": "2023-10",
@@ -39812,7 +39811,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0724"
+  "incident_id": "INC-0726"
  },
  {
   "date": "2023-10-24",
@@ -39873,7 +39872,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0725"
+  "incident_id": "INC-0727"
  },
  {
   "date": "2023-10-27",
@@ -39927,7 +39926,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0726"
+  "incident_id": "INC-0728"
  },
  {
   "date": "2023-10-27",
@@ -39975,7 +39974,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0727"
+  "incident_id": "INC-0729"
  },
  {
   "date": "2023-10-29",
@@ -40027,7 +40026,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0728"
+  "incident_id": "INC-0730"
  },
  {
   "date": "2023-10-29",
@@ -40073,7 +40072,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0729"
+  "incident_id": "INC-0731"
  },
  {
   "date": "2023-10-31",
@@ -40126,7 +40125,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0730"
+  "incident_id": "INC-0732"
  },
  {
   "date": "2023-11-09",
@@ -40159,10 +40158,9 @@
    "military-other"
   ],
   "agencies": [
-   "CENTCOM",
-   "Department of War"
+   "CENTCOM"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -40188,7 +40186,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0731"
+  "incident_id": "INC-0733"
  },
  {
   "date": "2023-12",
@@ -40241,7 +40239,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0732"
+  "incident_id": "INC-0734"
  },
  {
   "date": "2024",
@@ -40287,99 +40285,99 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0733"
- },
- {
-  "date": "2024",
-  "date_key": [
-   2024,
-   0,
-   0
-  ],
-  "date_precision": "year",
-  "time_of_day": "unknown",
-  "time_local": "",
-  "location": "East China Sea",
-  "country": "International Waters",
-  "shape": "",
-  "size": "",
-  "color": "",
-  "object_count": "",
-  "behavior": [],
-  "duration": "",
-  "sensors": [
-   "ir"
-  ],
-  "witness_count": "",
-  "witness_types": [],
-  "agencies": [
-   "Department of War"
-  ],
-  "n_agencies": 1,
-  "n_source_docs": 1,
-  "explanation_status": "not-assessed",
-  "explanation": "",
-  "summary": "Infrared sensor tracked an object.",
-  "confidence": "medium",
-  "sources": [
-   {
-    "doc_id": "pursue-r4-record-index",
-    "file": "pursue-r4--record-index.md",
-    "collection": "PURSUE-R4",
-    "page_refs": [
-     1
-    ],
-    "quote": ""
-   }
-  ],
-  "n_records_merged": 1,
-  "incident_id": "INC-0734"
- },
- {
-  "date": "2024",
-  "date_key": [
-   2024,
-   0,
-   0
-  ],
-  "date_precision": "year",
-  "time_of_day": "unknown",
-  "time_local": "",
-  "location": "East China Sea",
-  "country": "International Waters",
-  "shape": "",
-  "size": "",
-  "color": "",
-  "object_count": "",
-  "behavior": [],
-  "duration": "",
-  "sensors": [
-   "ir"
-  ],
-  "witness_count": "",
-  "witness_types": [],
-  "agencies": [
-   "Department of War"
-  ],
-  "n_agencies": 1,
-  "n_source_docs": 1,
-  "explanation_status": "not-assessed",
-  "explanation": "",
-  "summary": "Infrared sensor tracked an object.",
-  "confidence": "medium",
-  "sources": [
-   {
-    "doc_id": "pursue-r4-record-index",
-    "file": "pursue-r4--record-index.md",
-    "collection": "PURSUE-R4",
-    "page_refs": [
-     1
-    ],
-    "quote": ""
-   }
-  ],
-  "n_records_merged": 1,
   "incident_id": "INC-0735"
+ },
+ {
+  "date": "2024",
+  "date_key": [
+   2024,
+   0,
+   0
+  ],
+  "date_precision": "year",
+  "time_of_day": "unknown",
+  "time_local": "",
+  "location": "East China Sea",
+  "country": "International Waters",
+  "shape": "",
+  "size": "",
+  "color": "",
+  "object_count": "",
+  "behavior": [],
+  "duration": "",
+  "sensors": [
+   "ir"
+  ],
+  "witness_count": "",
+  "witness_types": [],
+  "agencies": [
+   "Department of War"
+  ],
+  "n_agencies": 1,
+  "n_source_docs": 1,
+  "explanation_status": "not-assessed",
+  "explanation": "",
+  "summary": "Infrared sensor tracked an object.",
+  "confidence": "medium",
+  "sources": [
+   {
+    "doc_id": "pursue-r4-record-index",
+    "file": "pursue-r4--record-index.md",
+    "collection": "PURSUE-R4",
+    "page_refs": [
+     1
+    ],
+    "quote": ""
+   }
+  ],
+  "n_records_merged": 1,
+  "incident_id": "INC-0736"
+ },
+ {
+  "date": "2024",
+  "date_key": [
+   2024,
+   0,
+   0
+  ],
+  "date_precision": "year",
+  "time_of_day": "unknown",
+  "time_local": "",
+  "location": "East China Sea",
+  "country": "International Waters",
+  "shape": "",
+  "size": "",
+  "color": "",
+  "object_count": "",
+  "behavior": [],
+  "duration": "",
+  "sensors": [
+   "ir"
+  ],
+  "witness_count": "",
+  "witness_types": [],
+  "agencies": [
+   "Department of War"
+  ],
+  "n_agencies": 1,
+  "n_source_docs": 1,
+  "explanation_status": "not-assessed",
+  "explanation": "",
+  "summary": "Infrared sensor tracked an object.",
+  "confidence": "medium",
+  "sources": [
+   {
+    "doc_id": "pursue-r4-record-index",
+    "file": "pursue-r4--record-index.md",
+    "collection": "PURSUE-R4",
+    "page_refs": [
+     1
+    ],
+    "quote": ""
+   }
+  ],
+  "n_records_merged": 1,
+  "incident_id": "INC-0737"
  },
  {
   "date": "2024-01-25",
@@ -40433,7 +40431,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0736"
+  "incident_id": "INC-0738"
  },
  {
   "date": "2024-01-25",
@@ -40479,7 +40477,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0737"
+  "incident_id": "INC-0739"
  },
  {
   "date": "2024-04-24",
@@ -40537,7 +40535,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0738"
+  "incident_id": "INC-0740"
  },
  {
   "date": "2024-06-07",
@@ -40590,7 +40588,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0739"
+  "incident_id": "INC-0741"
  },
  {
   "date": "2024-06-07",
@@ -40636,7 +40634,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0740"
+  "incident_id": "INC-0742"
  },
  {
   "date": "2024-07-14",
@@ -40669,10 +40667,9 @@
    "military-other"
   ],
   "agencies": [
-   "CENTCOM",
-   "Department of War"
+   "CENTCOM"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -40700,7 +40697,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0741"
+  "incident_id": "INC-0743"
  },
  {
   "date": "2024-09-20",
@@ -40731,10 +40728,9 @@
    "military-other"
   ],
   "agencies": [
-   "CENTCOM",
-   "Department of War"
+   "CENTCOM"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -40761,7 +40757,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0742"
+  "incident_id": "INC-0744"
  },
  {
   "date": "2024-10",
@@ -40826,7 +40822,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0743"
+  "incident_id": "INC-0745"
  },
  {
   "date": "2024-10-20",
@@ -40858,10 +40854,9 @@
    "military-other"
   ],
   "agencies": [
-   "CENTCOM",
-   "Department of War"
+   "CENTCOM"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -40889,7 +40884,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0744"
+  "incident_id": "INC-0746"
  },
  {
   "date": "2024-11",
@@ -40965,7 +40960,7 @@
    }
   ],
   "n_records_merged": 3,
-  "incident_id": "INC-0745"
+  "incident_id": "INC-0747"
  },
  {
   "date": "2025",
@@ -41020,7 +41015,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0746"
+  "incident_id": "INC-0748"
  },
  {
   "date": "2025",
@@ -41076,7 +41071,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0747"
+  "incident_id": "INC-0749"
  },
  {
   "date": "2025",
@@ -41128,7 +41123,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0748"
+  "incident_id": "INC-0750"
  },
  {
   "date": "2025",
@@ -41182,7 +41177,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0749"
+  "incident_id": "INC-0751"
  },
  {
   "date": "2025",
@@ -41234,7 +41229,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0750"
+  "incident_id": "INC-0752"
  },
  {
   "date": "2025",
@@ -41286,7 +41281,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0751"
+  "incident_id": "INC-0753"
  },
  {
   "date": "2025",
@@ -41332,7 +41327,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0752"
+  "incident_id": "INC-0754"
  },
  {
   "date": "2025",
@@ -41385,7 +41380,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0753"
+  "incident_id": "INC-0755"
  },
  {
   "date": "2025",
@@ -41431,7 +41426,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0754"
+  "incident_id": "INC-0756"
  },
  {
   "date": "2025",
@@ -41477,7 +41472,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0755"
+  "incident_id": "INC-0757"
  },
  {
   "date": "2025-04-10",
@@ -41525,7 +41520,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0756"
+  "incident_id": "INC-0758"
  },
  {
   "date": "2025-04-11",
@@ -41573,7 +41568,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0757"
+  "incident_id": "INC-0759"
  },
  {
   "date": "2025-06-15",
@@ -41623,7 +41618,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0758"
+  "incident_id": "INC-0760"
  },
  {
   "date": "2025-07",
@@ -41676,7 +41671,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0759"
+  "incident_id": "INC-0761"
  },
  {
   "date": "2025-12-15",
@@ -41826,7 +41821,7 @@
    }
   ],
   "n_records_merged": 11,
-  "incident_id": "INC-0760"
+  "incident_id": "INC-0762"
  },
  {
   "date": "2026-02",
@@ -41883,7 +41878,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0761"
+  "incident_id": "INC-0763"
  },
  {
   "date": "2026-02",
@@ -41933,7 +41928,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0762"
+  "incident_id": "INC-0764"
  },
  {
   "date": "",
@@ -41979,7 +41974,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0763"
+  "incident_id": "INC-0765"
  },
  {
   "date": "",
@@ -42030,7 +42025,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0764"
+  "incident_id": "INC-0766"
  },
  {
   "date": "",
@@ -42078,7 +42073,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0765"
+  "incident_id": "INC-0767"
  },
  {
   "date": "",
@@ -42128,7 +42123,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0766"
+  "incident_id": "INC-0768"
  },
  {
   "date": "",
@@ -42176,7 +42171,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0767"
+  "incident_id": "INC-0769"
  },
  {
   "date": "",
@@ -42222,7 +42217,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0768"
+  "incident_id": "INC-0770"
  },
  {
   "date": "",
@@ -42268,7 +42263,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0769"
+  "incident_id": "INC-0771"
  },
  {
   "date": "",
@@ -42315,7 +42310,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0770"
+  "incident_id": "INC-0772"
  },
  {
   "date": "",
@@ -42367,7 +42362,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0771"
+  "incident_id": "INC-0773"
  },
  {
   "date": "",
@@ -42419,7 +42414,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0772"
+  "incident_id": "INC-0774"
  },
  {
   "date": "",
@@ -42463,7 +42458,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0773"
+  "incident_id": "INC-0775"
  },
  {
   "date": "",
@@ -42511,7 +42506,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0774"
+  "incident_id": "INC-0776"
  },
  {
   "date": "",
@@ -42559,7 +42554,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0775"
+  "incident_id": "INC-0777"
  },
  {
   "date": "",
@@ -42607,7 +42602,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0776"
+  "incident_id": "INC-0778"
  },
  {
   "date": "",
@@ -42655,7 +42650,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0777"
+  "incident_id": "INC-0779"
  },
  {
   "date": "",
@@ -42705,7 +42700,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0778"
+  "incident_id": "INC-0780"
  },
  {
   "date": "",
@@ -42755,7 +42750,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0779"
+  "incident_id": "INC-0781"
  },
  {
   "date": "",
@@ -42804,7 +42799,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0780"
+  "incident_id": "INC-0782"
  },
  {
   "date": "unknown",
@@ -42854,7 +42849,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0781"
+  "incident_id": "INC-0783"
  },
  {
   "date": "",
@@ -42906,7 +42901,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0782"
+  "incident_id": "INC-0784"
  },
  {
   "date": "",
@@ -42955,7 +42950,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0783"
+  "incident_id": "INC-0785"
  },
  {
   "date": "",
@@ -43004,7 +42999,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0784"
+  "incident_id": "INC-0786"
  },
  {
   "date": "",
@@ -43052,7 +43047,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0785"
+  "incident_id": "INC-0787"
  },
  {
   "date": "",
@@ -43100,7 +43095,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0786"
+  "incident_id": "INC-0788"
  },
  {
   "date": "",
@@ -43149,7 +43144,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0787"
+  "incident_id": "INC-0789"
  },
  {
   "date": "",
@@ -43197,7 +43192,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0788"
+  "incident_id": "INC-0790"
  },
  {
   "date": "",
@@ -43250,7 +43245,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0789"
+  "incident_id": "INC-0791"
  },
  {
   "date": "",
@@ -43297,7 +43292,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0790"
+  "incident_id": "INC-0792"
  },
  {
   "date": "",
@@ -43347,7 +43342,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0791"
+  "incident_id": "INC-0793"
  },
  {
   "date": "",
@@ -43393,7 +43388,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0792"
+  "incident_id": "INC-0794"
  },
  {
   "date": "",
@@ -43439,7 +43434,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0793"
+  "incident_id": "INC-0795"
  },
  {
   "date": "",
@@ -43487,7 +43482,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0794"
+  "incident_id": "INC-0796"
  },
  {
   "date": "",
@@ -43537,7 +43532,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0795"
+  "incident_id": "INC-0797"
  },
  {
   "date": "",
@@ -43587,7 +43582,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0796"
+  "incident_id": "INC-0798"
  },
  {
   "date": "",
@@ -43637,7 +43632,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0797"
+  "incident_id": "INC-0799"
  },
  {
   "date": "",
@@ -43684,7 +43679,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0798"
+  "incident_id": "INC-0800"
  },
  {
   "date": "",
@@ -43740,7 +43735,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0799"
+  "incident_id": "INC-0801"
  },
  {
   "date": "",
@@ -43785,7 +43780,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0800"
+  "incident_id": "INC-0802"
  },
  {
   "date": "",
@@ -43832,7 +43827,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0801"
+  "incident_id": "INC-0803"
  },
  {
   "date": "",
@@ -43877,7 +43872,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0802"
+  "incident_id": "INC-0804"
  },
  {
   "date": "",
@@ -43923,7 +43918,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0803"
+  "incident_id": "INC-0805"
  },
  {
   "date": "",
@@ -43970,7 +43965,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0804"
+  "incident_id": "INC-0806"
  },
  {
   "date": "",
@@ -44022,7 +44017,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0805"
+  "incident_id": "INC-0807"
  },
  {
   "date": "",
@@ -44073,7 +44068,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0806"
+  "incident_id": "INC-0808"
  },
  {
   "date": "",
@@ -44125,7 +44120,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0807"
+  "incident_id": "INC-0809"
  },
  {
   "date": "",
@@ -44170,7 +44165,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0808"
+  "incident_id": "INC-0810"
  },
  {
   "date": "",
@@ -44222,7 +44217,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0809"
+  "incident_id": "INC-0811"
  },
  {
   "date": "",
@@ -44268,7 +44263,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0810"
+  "incident_id": "INC-0812"
  },
  {
   "date": "",
@@ -44319,7 +44314,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0811"
+  "incident_id": "INC-0813"
  },
  {
   "date": "",
@@ -44363,7 +44358,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0812"
+  "incident_id": "INC-0814"
  },
  {
   "date": "",
@@ -44407,7 +44402,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0813"
+  "incident_id": "INC-0815"
  },
  {
   "date": "",
@@ -44451,7 +44446,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0814"
+  "incident_id": "INC-0816"
  },
  {
   "date": "",
@@ -44497,7 +44492,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0815"
+  "incident_id": "INC-0817"
  },
  {
   "date": "",
@@ -44549,7 +44544,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0816"
+  "incident_id": "INC-0818"
  },
  {
   "date": "",
@@ -44595,7 +44590,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0817"
+  "incident_id": "INC-0819"
  },
  {
   "date": "",
@@ -44644,7 +44639,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0818"
+  "incident_id": "INC-0820"
  },
  {
   "date": "",
@@ -44691,7 +44686,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0819"
+  "incident_id": "INC-0821"
  },
  {
   "date": "",
@@ -44739,7 +44734,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0820"
+  "incident_id": "INC-0822"
  },
  {
   "date": "",
@@ -44785,7 +44780,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0821"
+  "incident_id": "INC-0823"
  },
  {
   "date": "",
@@ -44833,7 +44828,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0822"
+  "incident_id": "INC-0824"
  },
  {
   "date": "",
@@ -44882,7 +44877,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0823"
+  "incident_id": "INC-0825"
  },
  {
   "date": "",
@@ -44930,7 +44925,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0824"
+  "incident_id": "INC-0826"
  },
  {
   "date": "",
@@ -44978,7 +44973,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0825"
+  "incident_id": "INC-0827"
  },
  {
   "date": "",
@@ -45026,7 +45021,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0826"
+  "incident_id": "INC-0828"
  },
  {
   "date": "",
@@ -45074,7 +45069,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0827"
+  "incident_id": "INC-0829"
  },
  {
   "date": "",
@@ -45122,7 +45117,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0828"
+  "incident_id": "INC-0830"
  },
  {
   "date": "",
@@ -45170,7 +45165,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0829"
+  "incident_id": "INC-0831"
  },
  {
   "date": "",
@@ -45218,7 +45213,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0830"
+  "incident_id": "INC-0832"
  },
  {
   "date": "",
@@ -45266,7 +45261,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0831"
+  "incident_id": "INC-0833"
  },
  {
   "date": "",
@@ -45314,7 +45309,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0832"
+  "incident_id": "INC-0834"
  },
  {
   "date": "",
@@ -45362,7 +45357,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0833"
+  "incident_id": "INC-0835"
  },
  {
   "date": "",
@@ -45410,7 +45405,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0834"
+  "incident_id": "INC-0836"
  },
  {
   "date": "",
@@ -45463,7 +45458,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0835"
+  "incident_id": "INC-0837"
  },
  {
   "date": "",
@@ -45514,7 +45509,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0836"
+  "incident_id": "INC-0838"
  },
  {
   "date": "",
@@ -45560,7 +45555,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0837"
+  "incident_id": "INC-0839"
  },
  {
   "date": "",
@@ -45608,7 +45603,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0838"
+  "incident_id": "INC-0840"
  },
  {
   "date": "unknown",
@@ -45654,7 +45649,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0839"
+  "incident_id": "INC-0841"
  },
  {
   "date": "",
@@ -45702,7 +45697,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0840"
+  "incident_id": "INC-0842"
  },
  {
   "date": "",
@@ -45730,7 +45725,7 @@
    "unknown"
   ],
   "agencies": [
-   "Department of Energy"
+   "AEC/DOE"
   ],
   "n_agencies": 1,
   "n_source_docs": 1,
@@ -45748,7 +45743,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0841"
+  "incident_id": "INC-0843"
  },
  {
   "date": "",
@@ -45796,7 +45791,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0842"
+  "incident_id": "INC-0844"
  },
  {
   "date": "",
@@ -45844,7 +45839,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0843"
+  "incident_id": "INC-0845"
  },
  {
   "date": "",
@@ -45892,7 +45887,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0844"
+  "incident_id": "INC-0846"
  },
  {
   "date": "",
@@ -45940,7 +45935,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0845"
+  "incident_id": "INC-0847"
  },
  {
   "date": "",
@@ -45988,7 +45983,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0846"
+  "incident_id": "INC-0848"
  },
  {
   "date": "",
@@ -46036,7 +46031,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0847"
+  "incident_id": "INC-0849"
  },
  {
   "date": "",
@@ -46080,7 +46075,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0848"
+  "incident_id": "INC-0850"
  },
  {
   "date": "",
@@ -46124,7 +46119,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0849"
+  "incident_id": "INC-0851"
  },
  {
   "date": "",
@@ -46168,7 +46163,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0850"
+  "incident_id": "INC-0852"
  },
  {
   "date": "",
@@ -46214,7 +46209,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0851"
+  "incident_id": "INC-0853"
  },
  {
   "date": "",
@@ -46260,7 +46255,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0852"
+  "incident_id": "INC-0854"
  },
  {
   "date": "",
@@ -46304,7 +46299,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0853"
+  "incident_id": "INC-0855"
  },
  {
   "date": "",
@@ -46348,7 +46343,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0854"
+  "incident_id": "INC-0856"
  },
  {
   "date": "",
@@ -46397,7 +46392,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0855"
+  "incident_id": "INC-0857"
  },
  {
   "date": "",
@@ -46444,7 +46439,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0856"
+  "incident_id": "INC-0858"
  },
  {
   "date": "",
@@ -46530,7 +46525,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0857"
+  "incident_id": "INC-0859"
  },
  {
   "date": "",
@@ -46576,7 +46571,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0858"
+  "incident_id": "INC-0860"
  },
  {
   "date": "",
@@ -46662,7 +46657,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0859"
+  "incident_id": "INC-0861"
  },
  {
   "date": "",
@@ -46710,7 +46705,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0860"
+  "incident_id": "INC-0862"
  },
  {
   "date": "",
@@ -46754,7 +46749,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0861"
+  "incident_id": "INC-0863"
  },
  {
   "date": "",
@@ -46806,7 +46801,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0862"
+  "incident_id": "INC-0864"
  },
  {
   "date": "",
@@ -46852,7 +46847,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0863"
+  "incident_id": "INC-0865"
  },
  {
   "date": "",
@@ -46902,7 +46897,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0864"
+  "incident_id": "INC-0866"
  },
  {
   "date": "",
@@ -46948,7 +46943,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0865"
+  "incident_id": "INC-0867"
  },
  {
   "date": "",
@@ -46995,7 +46990,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0866"
+  "incident_id": "INC-0868"
  },
  {
   "date": "",
@@ -47041,7 +47036,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0867"
+  "incident_id": "INC-0869"
  },
  {
   "date": "",
@@ -47087,7 +47082,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0868"
+  "incident_id": "INC-0870"
  },
  {
   "date": "",
@@ -47131,7 +47126,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0869"
+  "incident_id": "INC-0871"
  },
  {
   "date": "",
@@ -47182,7 +47177,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0870"
+  "incident_id": "INC-0872"
  },
  {
   "date": "",
@@ -47235,7 +47230,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0871"
+  "incident_id": "INC-0873"
  },
  {
   "date": "unknown",
@@ -47285,7 +47280,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0872"
+  "incident_id": "INC-0874"
  },
  {
   "date": "",
@@ -47315,7 +47310,7 @@
    "civilian"
   ],
   "agencies": [
-   "Department of Energy"
+   "AEC/DOE"
   ],
   "n_agencies": 1,
   "n_source_docs": 1,
@@ -47335,7 +47330,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0873"
+  "incident_id": "INC-0875"
  },
  {
   "date": "",
@@ -47385,7 +47380,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0874"
+  "incident_id": "INC-0876"
  },
  {
   "date": "",
@@ -47433,7 +47428,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0875"
+  "incident_id": "INC-0877"
  },
  {
   "date": "",
@@ -47481,7 +47476,104 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0876"
+  "incident_id": "INC-0878"
+ },
+ {
+  "date": "",
+  "date_key": [
+   9999,
+   0,
+   0
+  ],
+  "date_precision": "unknown",
+  "time_of_day": "unknown",
+  "time_local": "",
+  "location": "",
+  "country": "",
+  "shape": "round ball",
+  "size": "6 to 8 inches",
+  "color": "white",
+  "object_count": "",
+  "behavior": [
+   "evasive maneuvers",
+   "blinked off and on",
+   "continuous light at high performance"
+  ],
+  "duration": "",
+  "sensors": [],
+  "witness_count": "4",
+  "witness_types": [
+   "government-civilian"
+  ],
+  "agencies": [
+   "USAF"
+  ],
+  "n_agencies": 1,
+  "n_source_docs": 1,
+  "explanation_status": "not-assessed",
+  "explanation": "",
+  "summary": "A small round ball of clear white light observed by multiple witnesses, including air traffic controllers, performing evasive maneuvers.",
+  "confidence": "high",
+  "sources": [
+   {
+    "doc_id": "pursue-r4--dow-uap-d094",
+    "file": "pursue-r4--dow-uap-d094.md",
+    "collection": "PURSUE-R4",
+    "page_refs": [],
+    "quote": ""
+   }
+  ],
+  "n_records_merged": 1,
+  "incident_id": "INC-0879"
+ },
+ {
+  "date": "",
+  "date_key": [
+   9999,
+   0,
+   0
+  ],
+  "date_precision": "unknown",
+  "time_of_day": "unknown",
+  "time_local": "",
+  "location": "South Bend, Indiana",
+  "country": "United States",
+  "shape": "semi-circular",
+  "size": "",
+  "color": "",
+  "object_count": "",
+  "behavior": [
+   "in flight"
+  ],
+  "duration": "",
+  "sensors": [
+   "visual",
+   "photo"
+  ],
+  "witness_count": "",
+  "witness_types": [],
+  "agencies": [
+   "USAF"
+  ],
+  "n_agencies": 1,
+  "n_source_docs": 1,
+  "explanation_status": "partially-explained",
+  "explanation": "",
+  "summary": "Observation of an ARUP Tailless Monoplane in flight at South Bend, Indiana, as depicted in an Air Force film titled Aeronautical Oddities.",
+  "confidence": "medium",
+  "sources": [
+   {
+    "doc_id": "pursue-r4--dow-uap-d094",
+    "file": "pursue-r4--dow-uap-d094.md",
+    "collection": "PURSUE-R4",
+    "page_refs": [
+     31
+    ],
+    "quote": "An Air Force film, Aeronautical Oddities, shows this airplane in flight at South Bend, Indiana"
+   }
+  ],
+  "n_records_merged": 1,
+  "incident_id": "INC-0880"
  },
  {
   "date": "",
@@ -47527,7 +47619,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0877"
+  "incident_id": "INC-0881"
  },
  {
   "date": "",
@@ -47573,7 +47665,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0878"
+  "incident_id": "INC-0882"
  },
  {
   "date": "",
@@ -47621,6 +47713,6 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0879"
+  "incident_id": "INC-0883"
  }
 ]

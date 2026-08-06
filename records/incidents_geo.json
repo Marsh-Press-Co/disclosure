@@ -1889,7 +1889,7 @@
   "location": "Richmond, Virginia",
   "country": "USA",
   "shape": "ellipse",
-  "size": "large",
+  "size": "",
   "color": "metallic silver",
   "object_count": "1",
   "behavior": [
@@ -1904,13 +1904,13 @@
   "witness_count": "2",
   "witness_types": [
    "civilian",
-   "government-civilian"
+   "government-civilian",
+   "scientist"
   ],
   "agencies": [
-   "Department of War",
    "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 3,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -1983,11 +1983,10 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War",
    "FBI",
    "USAF"
   ],
-  "n_agencies": 3,
+  "n_agencies": 2,
   "n_source_docs": 3,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -2059,10 +2058,9 @@
    "civilian"
   ],
   "agencies": [
-   "USAF",
-   "Department of War"
+   "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "not-assessed",
   "explanation": "",
@@ -2174,10 +2172,9 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War",
    "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -2419,10 +2416,9 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War",
    "FBI"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -2559,12 +2555,10 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War",
    "FBI",
-   "US Army Air Forces",
    "USAF"
   ],
-  "n_agencies": 4,
+  "n_agencies": 2,
   "n_source_docs": 4,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -2763,12 +2757,10 @@
    "unknown"
   ],
   "agencies": [
-   "Department of War",
-   "US Army Air Forces",
    "USAF",
    "FBI"
   ],
-  "n_agencies": 4,
+  "n_agencies": 2,
   "n_source_docs": 6,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -3003,15 +2995,14 @@
   "date_precision": "day",
   "time_of_day": "unknown",
   "time_local": "",
-  "location": "White Sand, New Mexico",
+  "location": "White Sands, New Mexico",
   "country": "United States",
   "shape": "disk or sphere",
   "size": "",
   "color": "",
   "object_count": "",
   "behavior": [
-   "moving horizontally",
-   "high speed"
+   "horizontal flight"
   ],
   "duration": "",
   "sensors": [],
@@ -3021,13 +3012,13 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War"
+   "USAF"
   ],
   "n_agencies": 1,
   "n_source_docs": 1,
   "explanation_status": "not-assessed",
   "explanation": "",
-  "summary": "Three observers reported a large disk or sphere moving horizontally.",
+  "summary": "Three observers saw a large disk or sphere moving horizontally at high speed.",
   "confidence": "high",
   "sources": [
    {
@@ -3040,7 +3031,9 @@
   ],
   "n_records_merged": 1,
   "incident_id": "INC-0051",
-  "geo_precision": "none"
+  "lat": 32.3837754,
+  "lng": -106.4966154,
+  "geo_precision": "geocoded"
  },
  {
   "date": "1947-06-30",
@@ -3073,11 +3066,9 @@
    "military-pilot"
   ],
   "agencies": [
-   "Department of War",
-   "AAF",
    "USAF"
   ],
-  "n_agencies": 3,
+  "n_agencies": 1,
   "n_source_docs": 3,
   "explanation_status": "unexplained",
   "explanation": "None provided.",
@@ -3249,31 +3240,27 @@
   "date_precision": "day",
   "time_of_day": "unknown",
   "time_local": "",
-  "location": "Hokkaido",
-  "country": "Japan",
-  "shape": "",
+  "location": "",
+  "country": "",
+  "shape": "target",
   "size": "",
   "color": "",
   "object_count": "",
-  "behavior": [
-   "split into two targets"
-  ],
+  "behavior": [],
   "duration": "",
   "sensors": [
    "radar"
   ],
   "witness_count": "",
-  "witness_types": [
-   "military-other"
-  ],
+  "witness_types": [],
   "agencies": [
-   "Department of War"
+   "USAF"
   ],
   "n_agencies": 1,
   "n_source_docs": 1,
   "explanation_status": "not-assessed",
   "explanation": "",
-  "summary": "GCA radar picked up an unidentified target.",
+  "summary": "GCA radar picked up an unidentified target that split into two targets.",
   "confidence": "medium",
   "sources": [
    {
@@ -3286,9 +3273,7 @@
   ],
   "n_records_merged": 1,
   "incident_id": "INC-0055",
-  "lat": 43.4519831,
-  "lng": 142.8197834,
-  "geo_precision": "geocoded"
+  "geo_precision": "none"
  },
  {
   "date": "1947-07-03",
@@ -3319,10 +3304,9 @@
    "scientist"
   ],
   "agencies": [
-   "Department of War",
    "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -3451,10 +3435,9 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War",
-   "CIC"
+   "US Army"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "None provided.",
@@ -3597,10 +3580,9 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War",
    "FBI"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -3719,10 +3701,9 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War",
    "FBI"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -3968,10 +3949,9 @@
    "military-other"
   ],
   "agencies": [
-   "Department of War",
    "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -4155,10 +4135,9 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War",
    "FBI"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -4246,12 +4225,10 @@
    "federal-le"
   ],
   "agencies": [
-   "Department of War",
    "FBI",
-   "USAF",
-   "AAF"
+   "USAF"
   ],
-  "n_agencies": 4,
+  "n_agencies": 2,
   "n_source_docs": 7,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -4356,10 +4333,8 @@
     "doc_id": "pursue-r4--dow-uap-d094",
     "file": "pursue-r4--dow-uap-d094.md",
     "collection": "PURSUE-R4",
-    "page_refs": [
-     13
-    ],
-    "quote": "disk-like object with a round front and a square tail"
+    "page_refs": [],
+    "quote": ""
    },
    {
     "doc_id": "65_hs1-834228961_62-hq-83894_section_2",
@@ -4981,10 +4956,9 @@
    "military-pilot"
   ],
   "agencies": [
-   "Department of War",
    "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 3,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -5228,11 +5202,9 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War",
-   "US Army Air Forces",
    "USAF"
   ],
-  "n_agencies": 3,
+  "n_agencies": 1,
   "n_source_docs": 3,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -5368,10 +5340,9 @@
    "federal-le"
   ],
   "agencies": [
-   "Department of War",
    "Newfoundland Constabulary"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -5504,8 +5475,7 @@
    "shooting down",
    "horizontal course",
    "cut clouds open",
-   "high velocity",
-   "paralleling earth's surface"
+   "high velocity"
   ],
   "duration": "",
   "sensors": [
@@ -5517,10 +5487,9 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War",
    "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 3,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -5943,10 +5912,9 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War",
    "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -6053,13 +6021,13 @@
    "military-pilot"
   ],
   "agencies": [
-   "Department of War"
+   "USAF"
   ],
   "n_agencies": 1,
   "n_source_docs": 1,
   "explanation_status": "not-assessed",
   "explanation": "",
-  "summary": "Kenneth Arnold reported a formation of flying objects.",
+  "summary": "Kenneth Arnold observed a formation of flying objects.",
   "confidence": "high",
   "sources": [
    {
@@ -6168,10 +6136,9 @@
    "military-pilot"
   ],
   "agencies": [
-   "Department of War",
    "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -6234,11 +6201,10 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War",
    "USAF",
    "FBI"
   ],
-  "n_agencies": 3,
+  "n_agencies": 2,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -6315,11 +6281,9 @@
    "military-pilot"
   ],
   "agencies": [
-   "Department of War",
-   "US Army Air Forces",
    "USAF"
   ],
-  "n_agencies": 3,
+  "n_agencies": 1,
   "n_source_docs": 4,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -6509,10 +6473,9 @@
    "military-other"
   ],
   "agencies": [
-   "Department of War",
    "FBI"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -6579,10 +6542,9 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War",
    "FBI"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -6636,7 +6598,8 @@
   "object_count": "1",
   "behavior": [
    "flying",
-   "chased"
+   "chased",
+   "evasive"
   ],
   "duration": "",
   "sensors": [
@@ -6648,10 +6611,9 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War",
    "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 3,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -6777,10 +6739,9 @@
    "military-other"
   ],
   "agencies": [
-   "Department of War",
    "FBI"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -7088,10 +7049,9 @@
    "government-civilian"
   ],
   "agencies": [
-   "Department of War",
    "FBI"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 3,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -7292,10 +7252,9 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War",
    "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -7362,10 +7321,9 @@
    "federal-le"
   ],
   "agencies": [
-   "Department of War",
    "FBI"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -7478,10 +7436,9 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War",
    "FBI"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -7648,10 +7605,9 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War",
    "FBI"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -7827,14 +7783,11 @@
   "time_local": "",
   "location": "Midway to Honolulu",
   "country": "Pacific Ocean",
-  "shape": "",
+  "shape": "light",
   "size": "",
   "color": "blue-white, reddish",
   "object_count": "",
-  "behavior": [
-   "approaching",
-   "withdrawing"
-  ],
+  "behavior": [],
   "duration": "",
   "sensors": [
    "visual"
@@ -7844,10 +7797,9 @@
    "civilian"
   ],
   "agencies": [
-   "USAF",
-   "Department of War"
+   "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "not-assessed",
   "explanation": "",
@@ -7887,9 +7839,9 @@
   "date_precision": "day",
   "time_of_day": "unknown",
   "time_local": "",
-  "location": "Fukuoka",
-  "country": "Japan",
-  "shape": "",
+  "location": "",
+  "country": "",
+  "shape": "target",
   "size": "",
   "color": "",
   "object_count": "",
@@ -7899,17 +7851,15 @@
    "radar"
   ],
   "witness_count": "",
-  "witness_types": [
-   "military-other"
-  ],
+  "witness_types": [],
   "agencies": [
-   "Department of War"
+   "USAF"
   ],
   "n_agencies": 1,
   "n_source_docs": 1,
   "explanation_status": "not-assessed",
   "explanation": "",
-  "summary": "MEW radar picked up a target.",
+  "summary": "MEW radar tracked an unidentified target at high speed.",
   "confidence": "medium",
   "sources": [
    {
@@ -7922,9 +7872,7 @@
   ],
   "n_records_merged": 1,
   "incident_id": "INC-0123",
-  "lat": 33.6251241,
-  "lng": 130.6180016,
-  "geo_precision": "geocoded"
+  "geo_precision": "none"
  },
  {
   "date": "1947-09-17",
@@ -8193,55 +8141,6 @@
   "geo_precision": "geocoded"
  },
  {
-  "date": "1947-10-10",
-  "date_key": [
-   1947,
-   10,
-   10
-  ],
-  "date_precision": "day",
-  "time_of_day": "unknown",
-  "time_local": "",
-  "location": "Oregon coast",
-  "country": "United States",
-  "shape": "disk",
-  "size": "",
-  "color": "",
-  "object_count": "",
-  "behavior": [
-   "curving in a long, low arc"
-  ],
-  "duration": "",
-  "sensors": [],
-  "witness_count": "",
-  "witness_types": [
-   "civilian"
-  ],
-  "agencies": [
-   "Department of War"
-  ],
-  "n_agencies": 1,
-  "n_source_docs": 1,
-  "explanation_status": "not-assessed",
-  "explanation": "",
-  "summary": "Second officer of tanker reported two disks trailing fire.",
-  "confidence": "medium",
-  "sources": [
-   {
-    "doc_id": "pursue-r4--dow-uap-d094",
-    "file": "pursue-r4--dow-uap-d094.md",
-    "collection": "PURSUE-R4",
-    "page_refs": [],
-    "quote": ""
-   }
-  ],
-  "n_records_merged": 1,
-  "incident_id": "INC-0129",
-  "lat": 45.5584959,
-  "lng": -123.9200877,
-  "geo_precision": "geocoded"
- },
- {
   "date": "1947-10-14",
   "date_key": [
    1947,
@@ -8290,7 +8189,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0130",
+  "incident_id": "INC-0129",
   "lat": 33.4484367,
   "lng": -112.074141,
   "geo_precision": "geocoded"
@@ -8353,7 +8252,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0131",
+  "incident_id": "INC-0130",
   "lat": 39.7589478,
   "lng": -84.1916069,
   "geo_precision": "geocoded"
@@ -8407,9 +8306,58 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0132",
+  "incident_id": "INC-0131",
   "lat": 29.7589382,
   "lng": -95.3676974,
+  "geo_precision": "geocoded"
+ },
+ {
+  "date": "1947-11-10",
+  "date_key": [
+   1947,
+   11,
+   10
+  ],
+  "date_precision": "day",
+  "time_of_day": "unknown",
+  "time_local": "",
+  "location": "Oregon coast",
+  "country": "United States",
+  "shape": "disk",
+  "size": "",
+  "color": "",
+  "object_count": "",
+  "behavior": [
+   "curving in arc"
+  ],
+  "duration": "",
+  "sensors": [],
+  "witness_count": "",
+  "witness_types": [
+   "civilian"
+  ],
+  "agencies": [
+   "USAF"
+  ],
+  "n_agencies": 1,
+  "n_source_docs": 1,
+  "explanation_status": "not-assessed",
+  "explanation": "",
+  "summary": "Crew of the tanker Ticonderoga observed two disks trailing fire.",
+  "confidence": "medium",
+  "sources": [
+   {
+    "doc_id": "pursue-r4--dow-uap-d094",
+    "file": "pursue-r4--dow-uap-d094.md",
+    "collection": "PURSUE-R4",
+    "page_refs": [],
+    "quote": ""
+   }
+  ],
+  "n_records_merged": 1,
+  "incident_id": "INC-0132",
+  "lat": 45.5584959,
+  "lng": -123.9200877,
   "geo_precision": "geocoded"
  },
  {
@@ -9087,7 +9035,7 @@
   "location": "Kentucky",
   "country": "United States",
   "shape": "unknown",
-  "size": "tremendous",
+  "size": "",
   "color": "metallic",
   "object_count": "",
   "behavior": [
@@ -9102,10 +9050,9 @@
    "military-pilot"
   ],
   "agencies": [
-   "USAF",
-   "Department of War"
+   "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "not-assessed",
   "explanation": "",
@@ -9126,7 +9073,7 @@
     "file": "pursue-r4--dow-uap-d094.md",
     "collection": "PURSUE-R4",
     "page_refs": [],
-    "quote": ""
+    "quote": "it appears to be metallic object"
    }
   ],
   "n_records_merged": 2,
@@ -10004,10 +9951,9 @@
    "civilian"
   ],
   "agencies": [
-   "USAF",
-   "Department of War"
+   "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "not-assessed",
   "explanation": "",
@@ -10574,16 +10520,16 @@
   "sensors": [],
   "witness_count": "",
   "witness_types": [
-   "scientist"
+   "military-other"
   ],
   "agencies": [
-   "Department of War"
+   "USAF"
   ],
   "n_agencies": 1,
   "n_source_docs": 1,
   "explanation_status": "not-assessed",
   "explanation": "",
-  "summary": "Three balloon observers reported a round object executing violent maneuvers.",
+  "summary": "Three observers reported a round object executing violent maneuvers.",
   "confidence": "high",
   "sources": [
    {
@@ -11069,10 +11015,9 @@
    "military-other"
   ],
   "agencies": [
-   "USAF",
-   "Department of War"
+   "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 3,
   "explanation_status": "not-assessed",
   "explanation": "",
@@ -11349,10 +11294,9 @@
    "civilian"
   ],
   "agencies": [
-   "USAF",
-   "Department of War"
+   "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "not-assessed",
   "explanation": "",
@@ -11689,7 +11633,7 @@
   "time_local": "",
   "location": "Miles City, Montana",
   "country": "United States",
-  "shape": "",
+  "shape": "light",
   "size": "",
   "color": "reddish",
   "object_count": "",
@@ -11705,16 +11649,22 @@
    "civilian"
   ],
   "agencies": [
-   "USAF",
-   "Department of War"
+   "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "not-assessed",
   "explanation": "",
-  "summary": "Mr. Booneville observed a reddish glow with a jet exhaust.",
-  "confidence": "medium",
+  "summary": "Reddish glow with jet exhaust observed.",
+  "confidence": "high",
   "sources": [
+   {
+    "doc_id": "pursue-r4--dow-uap-d094",
+    "file": "pursue-r4--dow-uap-d094.md",
+    "collection": "PURSUE-R4",
+    "page_refs": [],
+    "quote": ""
+   },
    {
     "doc_id": "pursue-r4--dow-uap-d093",
     "file": "pursue-r4--dow-uap-d093.md",
@@ -11722,13 +11672,6 @@
     "page_refs": [
      30
     ],
-    "quote": ""
-   },
-   {
-    "doc_id": "pursue-r4--dow-uap-d094",
-    "file": "pursue-r4--dow-uap-d094.md",
-    "collection": "PURSUE-R4",
-    "page_refs": [],
     "quote": ""
    }
   ],
@@ -12078,7 +12021,7 @@
   "location": "Rapid City Air Base",
   "country": "United States",
   "shape": "oval",
-  "size": "100 feet long",
+  "size": "100 feet",
   "color": "",
   "object_count": "",
   "behavior": [
@@ -12094,10 +12037,9 @@
    "military-other"
   ],
   "agencies": [
-   "USAF",
-   "Department of War"
+   "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "not-assessed",
   "explanation": "",
@@ -12466,7 +12408,8 @@
   "object_count": "7",
   "behavior": [
    "formation varied from V to L to O",
-   "formation change"
+   "formation change",
+   "formation flight"
   ],
   "duration": "",
   "sensors": [
@@ -12474,14 +12417,12 @@
   ],
   "witness_count": "2",
   "witness_types": [
-   "military-other",
-   "unknown"
+   "military-other"
   ],
   "agencies": [
-   "USAF",
-   "Department of War"
+   "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 3,
   "explanation_status": "not-assessed",
   "explanation": "",
@@ -12578,7 +12519,7 @@
    22
   ],
   "date_precision": "day",
-  "time_of_day": "evening",
+  "time_of_day": "dusk",
   "time_local": "1900",
   "location": "Van Nuys, California",
   "country": "United States",
@@ -12587,7 +12528,6 @@
   "color": "bluish, orange",
   "object_count": "1",
   "behavior": [
-   "traveled through a vertical arc",
    "traveled a vertical arc"
   ],
   "duration": "",
@@ -12600,10 +12540,9 @@
    "civilian"
   ],
   "agencies": [
-   "USAF",
-   "Department of War"
+   "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 3,
   "explanation_status": "explained",
   "explanation": "balloon carrying cosmic ray equipment",
@@ -12907,13 +12846,14 @@
   "date_precision": "day",
   "time_of_day": "night",
   "time_local": "",
-  "location": "Atlanta, Georgia",
+  "location": "United States",
   "country": "United States",
-  "shape": "wingless aircraft",
+  "shape": "wingless",
   "size": "",
   "color": "red",
   "object_count": "",
   "behavior": [
+   "high speed",
    "banked",
    "rolled",
    "breathed fire"
@@ -12927,14 +12867,14 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War",
+   "USAF",
    "FBI"
   ],
   "n_agencies": 2,
   "n_source_docs": 2,
   "explanation_status": "not-assessed",
   "explanation": "",
-  "summary": "Two Eastern Airlines pilots reported a huge flying craft similar to a V-2.",
+  "summary": "Two pilots observed a huge wingless flying craft.",
   "confidence": "high",
   "sources": [
    {
@@ -12957,8 +12897,8 @@
   ],
   "n_records_merged": 2,
   "incident_id": "INC-0209",
-  "lat": 33.7544657,
-  "lng": -84.3898151,
+  "lat": 38.8939168,
+  "lng": -77.0426534,
   "geo_precision": "geocoded"
  },
  {
@@ -13467,7 +13407,7 @@
    "civilian"
   ],
   "agencies": [
-   "Department of War"
+   "USAF"
   ],
   "n_agencies": 1,
   "n_source_docs": 2,
@@ -13722,7 +13662,7 @@
   ],
   "date_precision": "day",
   "time_of_day": "morning",
-  "time_local": "1050",
+  "time_local": "",
   "location": "Godman Air Force Base, Kentucky",
   "country": "United States",
   "shape": "spherical",
@@ -13739,13 +13679,12 @@
    "military-other"
   ],
   "agencies": [
-   "USAF",
-   "Department of War"
+   "USAF"
   ],
-  "n_agencies": 2,
-  "n_source_docs": 2,
+  "n_agencies": 1,
+  "n_source_docs": 1,
   "explanation_status": "explained",
-  "explanation": "planet Venus",
+  "explanation": "",
   "summary": "Object observed at Godman Air Force Base determined to be Venus.",
   "confidence": "high",
   "sources": [
@@ -13757,7 +13696,46 @@
      40
     ],
     "quote": ""
-   },
+   }
+  ],
+  "n_records_merged": 1,
+  "incident_id": "INC-0223",
+  "geo_precision": "none"
+ },
+ {
+  "date": "1948-08-19",
+  "date_key": [
+   1948,
+   8,
+   19
+  ],
+  "date_precision": "day",
+  "time_of_day": "morning",
+  "time_local": "1050",
+  "location": "",
+  "country": "",
+  "shape": "",
+  "size": "",
+  "color": "",
+  "object_count": "",
+  "behavior": [],
+  "duration": "",
+  "sensors": [],
+  "witness_count": "",
+  "witness_types": [
+   "military-pilot",
+   "military-other"
+  ],
+  "agencies": [
+   "USAF"
+  ],
+  "n_agencies": 1,
+  "n_source_docs": 1,
+  "explanation_status": "not-assessed",
+  "explanation": "",
+  "summary": "Unidentified flying object visible from the ground at Godman Air Force Base, later identified as the planet Venus.",
+  "confidence": "high",
+  "sources": [
    {
     "doc_id": "pursue-r4--dow-uap-d094",
     "file": "pursue-r4--dow-uap-d094.md",
@@ -13766,8 +13744,8 @@
     "quote": ""
    }
   ],
-  "n_records_merged": 2,
-  "incident_id": "INC-0223",
+  "n_records_merged": 1,
+  "incident_id": "INC-0224",
   "geo_precision": "none"
  },
  {
@@ -13830,7 +13808,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0224",
+  "incident_id": "INC-0225",
   "lat": 40.376161,
   "lng": -84.0257744,
   "geo_precision": "geocoded"
@@ -13882,7 +13860,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0225",
+  "incident_id": "INC-0226",
   "lat": 34.0536909,
   "lng": -118.242766,
   "geo_precision": "geocoded"
@@ -13939,7 +13917,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0226",
+  "incident_id": "INC-0227",
   "geo_precision": "none"
  },
  {
@@ -13991,7 +13969,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0227",
+  "incident_id": "INC-0228",
   "lat": 30.9382358,
   "lng": -90.5089843,
   "geo_precision": "geocoded"
@@ -14045,7 +14023,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0228",
+  "incident_id": "INC-0229",
   "lat": 31.5782062,
   "lng": -84.1556809,
   "geo_precision": "geocoded"
@@ -14110,7 +14088,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0229",
+  "incident_id": "INC-0230",
   "lat": 35.6876096,
   "lng": -105.938456,
   "geo_precision": "geocoded"
@@ -14177,7 +14155,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0230",
+  "incident_id": "INC-0231",
   "lat": 37.9621457,
   "lng": -122.3455263,
   "geo_precision": "geocoded"
@@ -14230,7 +14208,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0231",
+  "incident_id": "INC-0232",
   "lat": 32.5135356,
   "lng": -93.7477839,
   "geo_precision": "geocoded"
@@ -14284,7 +14262,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0232",
+  "incident_id": "INC-0233",
   "lat": 48.0769935,
   "lng": 11.6615136,
   "geo_precision": "geocoded"
@@ -14337,7 +14315,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0233",
+  "incident_id": "INC-0234",
   "geo_precision": "none"
  },
  {
@@ -14390,7 +14368,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0234",
+  "incident_id": "INC-0235",
   "lat": 30.2116442,
   "lng": -90.9186104,
   "geo_precision": "geocoded"
@@ -14425,10 +14403,9 @@
    "civilian"
   ],
   "agencies": [
-   "USAF",
-   "Department of War"
+   "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 3,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -14459,11 +14436,11 @@
     "file": "pursue-r4--dow-uap-d094.md",
     "collection": "PURSUE-R4",
     "page_refs": [],
-    "quote": "small round ball of clear white light"
+    "quote": ""
    }
   ],
   "n_records_merged": 3,
-  "incident_id": "INC-0235",
+  "incident_id": "INC-0236",
   "lat": 46.877229,
   "lng": -96.789821,
   "geo_precision": "geocoded"
@@ -14518,7 +14495,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0236",
+  "incident_id": "INC-0237",
   "lat": 21.304547,
   "lng": -157.855676,
   "geo_precision": "geocoded"
@@ -14574,7 +14551,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0237",
+  "incident_id": "INC-0238",
   "lat": 33.5264205,
   "lng": 130.3736937,
   "geo_precision": "geocoded"
@@ -14628,7 +14605,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0238",
+  "incident_id": "INC-0239",
   "lat": 39.1935732,
   "lng": -111.69242,
   "geo_precision": "geocoded"
@@ -14713,7 +14690,7 @@
    }
   ],
   "n_records_merged": 4,
-  "incident_id": "INC-0239",
+  "incident_id": "INC-0240",
   "lat": 41.7522404,
   "lng": -124.1978539,
   "geo_precision": "geocoded"
@@ -14778,7 +14755,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0240",
+  "incident_id": "INC-0241",
   "lat": 44.9772995,
   "lng": -93.2654692,
   "geo_precision": "geocoded"
@@ -14832,7 +14809,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0241",
+  "incident_id": "INC-0242",
   "lat": 39.0286093,
   "lng": -96.8313978,
   "geo_precision": "geocoded"
@@ -14886,7 +14863,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0242",
+  "incident_id": "INC-0243",
   "geo_precision": "none"
  },
  {
@@ -14938,7 +14915,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0243",
+  "incident_id": "INC-0244",
   "lat": 53.333333,
   "lng": -60.416667,
   "geo_precision": "geocoded"
@@ -14992,7 +14969,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0244",
+  "incident_id": "INC-0245",
   "lat": 47.1744169,
   "lng": -123.8658829,
   "geo_precision": "geocoded"
@@ -15046,7 +15023,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0245",
+  "incident_id": "INC-0246",
   "lat": 37.8085565,
   "lng": -25.4731374,
   "geo_precision": "geocoded"
@@ -15102,7 +15079,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0246",
+  "incident_id": "INC-0247",
   "lat": 41.4086874,
   "lng": -75.6621294,
   "geo_precision": "geocoded"
@@ -15156,7 +15133,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0247",
+  "incident_id": "INC-0248",
   "geo_precision": "none"
  },
  {
@@ -15208,7 +15185,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0248",
+  "incident_id": "INC-0249",
   "lat": 39.8286897,
   "lng": -84.8898521,
   "geo_precision": "geocoded"
@@ -15262,7 +15239,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0249",
+  "incident_id": "INC-0250",
   "lat": 45.415737,
   "lng": 141.6739836,
   "geo_precision": "geocoded"
@@ -15317,7 +15294,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0250",
+  "incident_id": "INC-0251",
   "geo_precision": "none"
  },
  {
@@ -15368,7 +15345,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0251",
+  "incident_id": "INC-0252",
   "lat": 42.3588336,
   "lng": -71.0578303,
   "geo_precision": "geocoded"
@@ -15422,7 +15399,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0252",
+  "incident_id": "INC-0253",
   "lat": 36.2424115,
   "lng": -115.0429691,
   "geo_precision": "geocoded"
@@ -15476,7 +15453,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0253",
+  "incident_id": "INC-0254",
   "lat": 37.5358612,
   "lng": 127.0117095,
   "geo_precision": "geocoded"
@@ -15529,7 +15506,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0254",
+  "incident_id": "INC-0255",
   "geo_precision": "none"
  },
  {
@@ -15561,10 +15538,9 @@
    "military-pilot"
   ],
   "agencies": [
-   "USAF",
-   "Department of War"
+   "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "not-assessed",
   "explanation": "",
@@ -15593,7 +15569,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0255",
+  "incident_id": "INC-0256",
   "lat": 51.0631292,
   "lng": -114.0878809,
   "geo_precision": "geocoded"
@@ -15654,7 +15630,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0256",
+  "incident_id": "INC-0257",
   "geo_precision": "none"
  },
  {
@@ -15666,7 +15642,7 @@
   ],
   "date_precision": "day",
   "time_of_day": "night",
-  "time_local": "2145",
+  "time_local": "",
   "location": "Andrews Field, Maryland",
   "country": "United States",
   "shape": "oblong",
@@ -15675,8 +15651,7 @@
   "object_count": "",
   "behavior": [
    "vertical climb",
-   "circle",
-   "climb vertically"
+   "circle"
   ],
   "duration": "",
   "sensors": [
@@ -15688,11 +15663,10 @@
    "military-other"
   ],
   "agencies": [
-   "USAF",
-   "Department of War"
+   "USAF"
   ],
-  "n_agencies": 2,
-  "n_source_docs": 2,
+  "n_agencies": 1,
+  "n_source_docs": 1,
   "explanation_status": "unexplained",
   "explanation": "",
   "summary": "Three reserve pilots encountered an unidentifiable flying object.",
@@ -15706,17 +15680,56 @@
      32
     ],
     "quote": ""
-   },
+   }
+  ],
+  "n_records_merged": 1,
+  "incident_id": "INC-0258",
+  "geo_precision": "none"
+ },
+ {
+  "date": "1948-11-18",
+  "date_key": [
+   1948,
+   11,
+   18
+  ],
+  "date_precision": "day",
+  "time_of_day": "night",
+  "time_local": "2145",
+  "location": "",
+  "country": "",
+  "shape": "",
+  "size": "",
+  "color": "",
+  "object_count": "",
+  "behavior": [],
+  "duration": "",
+  "sensors": [],
+  "witness_count": "4",
+  "witness_types": [
+   "military-pilot",
+   "military-other"
+  ],
+  "agencies": [
+   "USAF"
+  ],
+  "n_agencies": 1,
+  "n_source_docs": 1,
+  "explanation_status": "not-assessed",
+  "explanation": "",
+  "summary": "Three reserve pilots encountered an unidentified lighted object while flying near Andrews Field, Maryland.",
+  "confidence": "high",
+  "sources": [
    {
     "doc_id": "pursue-r4--dow-uap-d094",
     "file": "pursue-r4--dow-uap-d094.md",
     "collection": "PURSUE-R4",
     "page_refs": [],
-    "quote": "oblong ball with one light, no wings and no exhaust flame"
+    "quote": ""
    }
   ],
-  "n_records_merged": 2,
-  "incident_id": "INC-0257",
+  "n_records_merged": 1,
+  "incident_id": "INC-0259",
   "geo_precision": "none"
  },
  {
@@ -15770,7 +15783,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0258",
+  "incident_id": "INC-0260",
   "lat": 48.1794705,
   "lng": 11.2547202,
   "geo_precision": "geocoded"
@@ -15824,7 +15837,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0259",
+  "incident_id": "INC-0261",
   "lat": 37.7879363,
   "lng": -122.4075201,
   "geo_precision": "geocoded"
@@ -15865,7 +15878,7 @@
   ],
   "agencies": [
    "FBI",
-   "Department of Energy"
+   "AEC/DOE"
   ],
   "n_agencies": 2,
   "n_source_docs": 2,
@@ -15910,7 +15923,7 @@
    }
   ],
   "n_records_merged": 3,
-  "incident_id": "INC-0260",
+  "incident_id": "INC-0262",
   "lat": 35.3769899,
   "lng": -105.3275089,
   "geo_precision": "geocoded"
@@ -15976,7 +15989,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0261",
+  "incident_id": "INC-0263",
   "lat": 39.7589478,
   "lng": -84.1916069,
   "geo_precision": "geocoded"
@@ -16012,10 +16025,9 @@
    "military-other"
   ],
   "agencies": [
-   "USAF",
-   "Department of War"
+   "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "not-assessed",
   "explanation": "",
@@ -16055,7 +16067,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0262",
+  "incident_id": "INC-0264",
   "geo_precision": "none"
  },
  {
@@ -16118,7 +16130,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0263",
+  "incident_id": "INC-0265",
   "lat": 35.5939325,
   "lng": -105.223896,
   "geo_precision": "geocoded"
@@ -16172,7 +16184,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0264",
+  "incident_id": "INC-0266",
   "lat": 35.0625012,
   "lng": -106.5498065,
   "geo_precision": "geocoded"
@@ -16234,7 +16246,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0265",
+  "incident_id": "INC-0267",
   "lat": 36.583176,
   "lng": -118.078327,
   "geo_precision": "geocoded"
@@ -16288,7 +16300,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0266",
+  "incident_id": "INC-0268",
   "lat": 40.2926418,
   "lng": -88.1413656,
   "geo_precision": "geocoded"
@@ -16342,7 +16354,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0267",
+  "incident_id": "INC-0269",
   "geo_precision": "none"
  },
  {
@@ -16394,7 +16406,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0268",
+  "incident_id": "INC-0270",
   "lat": 35.5939325,
   "lng": -105.223896,
   "geo_precision": "geocoded"
@@ -16448,7 +16460,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0269",
+  "incident_id": "INC-0271",
   "lat": 40.4406968,
   "lng": -80.0025666,
   "geo_precision": "geocoded"
@@ -16502,7 +16514,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0270",
+  "incident_id": "INC-0272",
   "lat": 39.4562528,
   "lng": -77.9639604,
   "geo_precision": "geocoded"
@@ -16553,7 +16565,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0271",
+  "incident_id": "INC-0273",
   "lat": 26.6639559,
   "lng": -80.7161701,
   "geo_precision": "geocoded"
@@ -16607,7 +16619,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0272",
+  "incident_id": "INC-0274",
   "lat": 26.784343,
   "lng": -80.0650293,
   "geo_precision": "geocoded"
@@ -16661,7 +16673,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0273",
+  "incident_id": "INC-0275",
   "lat": 46.8739081,
   "lng": -96.7538674,
   "geo_precision": "geocoded"
@@ -16692,7 +16704,7 @@
    "unknown"
   ],
   "agencies": [
-   "Department of Energy"
+   "AEC/DOE"
   ],
   "n_agencies": 1,
   "n_source_docs": 1,
@@ -16712,7 +16724,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0274",
+  "incident_id": "INC-0276",
   "lat": 35.88137,
   "lng": -106.298959,
   "geo_precision": "geocoded"
@@ -16743,7 +16755,7 @@
    "unknown"
   ],
   "agencies": [
-   "Department of Energy"
+   "AEC/DOE"
   ],
   "n_agencies": 1,
   "n_source_docs": 1,
@@ -16763,7 +16775,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0275",
+  "incident_id": "INC-0277",
   "geo_precision": "none"
  },
  {
@@ -16815,7 +16827,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0276",
+  "incident_id": "INC-0278",
   "lat": 34.8253316,
   "lng": -106.8386404,
   "geo_precision": "geocoded"
@@ -16865,7 +16877,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0277",
+  "incident_id": "INC-0279",
   "lat": 33.7227009,
   "lng": -117.1323197,
   "geo_precision": "geocoded"
@@ -16900,10 +16912,9 @@
    "military-pilot"
   ],
   "agencies": [
-   "USAF",
-   "Department of War"
+   "USAF"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "not-assessed",
   "explanation": "",
@@ -16936,7 +16947,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0278",
+  "incident_id": "INC-0280",
   "lat": 32.2998686,
   "lng": -90.1830408,
   "geo_precision": "geocoded"
@@ -16994,7 +17005,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0279",
+  "incident_id": "INC-0281",
   "lat": 21.3276152,
   "lng": -157.9528703,
   "geo_precision": "geocoded"
@@ -17049,7 +17060,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0280",
+  "incident_id": "INC-0282",
   "lat": 35.688795,
   "lng": 139.734537,
   "geo_precision": "geocoded"
@@ -17086,11 +17097,10 @@
    "unknown"
   ],
   "agencies": [
-   "Department of War",
-   "Department of Energy",
+   "AEC/DOE",
    "USAF"
   ],
-  "n_agencies": 3,
+  "n_agencies": 2,
   "n_source_docs": 3,
   "explanation_status": "unexplained",
   "explanation": "Not a conventional meteorite fall.",
@@ -17132,7 +17142,7 @@
    }
   ],
   "n_records_merged": 3,
-  "incident_id": "INC-0281",
+  "incident_id": "INC-0283",
   "lat": 34.5802074,
   "lng": -105.996047,
   "geo_precision": "geocoded"
@@ -17184,7 +17194,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0282",
+  "incident_id": "INC-0284",
   "geo_precision": "none"
  },
  {
@@ -17237,7 +17247,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0283",
+  "incident_id": "INC-0285",
   "lat": 37.8976552,
   "lng": -85.9038521,
   "geo_precision": "geocoded"
@@ -17289,7 +17299,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0284",
+  "incident_id": "INC-0286",
   "lat": 49.1211912,
   "lng": -56.6403402,
   "geo_precision": "geocoded"
@@ -17340,7 +17350,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0285",
+  "incident_id": "INC-0287",
   "geo_precision": "none"
  },
  {
@@ -17389,7 +17399,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0286",
+  "incident_id": "INC-0288",
   "lat": 31.0677835,
   "lng": -97.8318664,
   "geo_precision": "geocoded"
@@ -17438,7 +17448,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0287",
+  "incident_id": "INC-0289",
   "lat": 31.0677835,
   "lng": -97.8318664,
   "geo_precision": "geocoded"
@@ -17489,7 +17499,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0288",
+  "incident_id": "INC-0290",
   "lat": 58.1066864,
   "lng": -68.4038778,
   "geo_precision": "geocoded"
@@ -17543,7 +17553,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0289",
+  "incident_id": "INC-0291",
   "geo_precision": "none"
  },
  {
@@ -17597,7 +17607,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0290",
+  "incident_id": "INC-0292",
   "lat": 37.1641544,
   "lng": -120.7678602,
   "geo_precision": "geocoded"
@@ -17653,7 +17663,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0291",
+  "incident_id": "INC-0293",
   "geo_precision": "none"
  },
  {
@@ -17710,7 +17720,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0292",
+  "incident_id": "INC-0294",
   "lat": 57.7901661,
   "lng": -152.4067073,
   "geo_precision": "geocoded"
@@ -17763,7 +17773,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0293",
+  "incident_id": "INC-0295",
   "lat": 32.753177,
   "lng": -97.3327459,
   "geo_precision": "geocoded"
@@ -17818,7 +17828,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0294",
+  "incident_id": "INC-0296",
   "lat": 35.3880338,
   "lng": -94.4265011,
   "geo_precision": "geocoded"
@@ -17884,7 +17894,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0295",
+  "incident_id": "INC-0297",
   "lat": 13.4499943,
   "lng": 144.7651677,
   "geo_precision": "geocoded"
@@ -17942,7 +17952,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0296",
+  "incident_id": "INC-0298",
   "lat": 37.1343148,
   "lng": -80.5749169,
   "geo_precision": "geocoded"
@@ -18001,7 +18011,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0297",
+  "incident_id": "INC-0299",
   "lat": 44.079511,
   "lng": -69.4850753,
   "geo_precision": "geocoded"
@@ -18053,7 +18063,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0298",
+  "incident_id": "INC-0300",
   "lat": 51.1410065,
   "lng": 1.2748111,
   "geo_precision": "geocoded"
@@ -18105,7 +18115,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0299",
+  "incident_id": "INC-0301",
   "lat": 42.0988712,
   "lng": -78.44009,
   "geo_precision": "geocoded"
@@ -18159,7 +18169,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0300",
+  "incident_id": "INC-0302",
   "geo_precision": "none"
  },
  {
@@ -18212,7 +18222,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0301",
+  "incident_id": "INC-0303",
   "lat": 42.3588336,
   "lng": -71.0578303,
   "geo_precision": "geocoded"
@@ -18265,7 +18275,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0302",
+  "incident_id": "INC-0304",
   "lat": 39.7886111,
   "lng": -82.6418883,
   "geo_precision": "geocoded"
@@ -18319,7 +18329,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0303",
+  "incident_id": "INC-0305",
   "lat": 39.9622601,
   "lng": -83.0007065,
   "geo_precision": "geocoded"
@@ -18375,7 +18385,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0304",
+  "incident_id": "INC-0306",
   "lat": 43.1318937,
   "lng": -115.6939827,
   "geo_precision": "geocoded"
@@ -18424,7 +18434,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0305",
+  "incident_id": "INC-0307",
   "lat": 34.0572858,
   "lng": -106.8930799,
   "geo_precision": "geocoded"
@@ -18476,7 +18486,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0306",
+  "incident_id": "INC-0308",
   "lat": 47.6571934,
   "lng": -117.42351,
   "geo_precision": "geocoded"
@@ -18532,7 +18542,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0307",
+  "incident_id": "INC-0309",
   "lat": 45.5202471,
   "lng": -122.674194,
   "geo_precision": "geocoded"
@@ -18586,7 +18596,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0308",
+  "incident_id": "INC-0310",
   "lat": 39.9622601,
   "lng": -83.0007065,
   "geo_precision": "geocoded"
@@ -18635,7 +18645,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0309",
+  "incident_id": "INC-0311",
   "lat": 34.5802074,
   "lng": -105.996047,
   "geo_precision": "geocoded"
@@ -18692,7 +18702,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0310",
+  "incident_id": "INC-0312",
   "lat": 42.3264181,
   "lng": -122.8718605,
   "geo_precision": "geocoded"
@@ -18745,7 +18755,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0311",
+  "incident_id": "INC-0313",
   "lat": 34.851354,
   "lng": -82.3984882,
   "geo_precision": "geocoded"
@@ -18811,7 +18821,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0312",
+  "incident_id": "INC-0314",
   "lat": 47.6038321,
   "lng": -122.330062,
   "geo_precision": "geocoded"
@@ -18868,7 +18878,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0313",
+  "incident_id": "INC-0315",
   "geo_precision": "none"
  },
  {
@@ -18917,7 +18927,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0314",
+  "incident_id": "INC-0316",
   "lat": 39.224339,
   "lng": -81.6238752,
   "geo_precision": "geocoded"
@@ -18968,7 +18978,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0315",
+  "incident_id": "INC-0317",
   "lat": 33.3228128,
   "lng": -116.8786359,
   "geo_precision": "geocoded"
@@ -19023,7 +19033,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0316",
+  "incident_id": "INC-0318",
   "geo_precision": "none"
  },
  {
@@ -19079,7 +19089,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0317",
+  "incident_id": "INC-0319",
   "lat": 57.7901661,
   "lng": -152.4067073,
   "geo_precision": "geocoded"
@@ -19132,7 +19142,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0318",
+  "incident_id": "INC-0320",
   "geo_precision": "none"
  },
  {
@@ -19177,7 +19187,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0319",
+  "incident_id": "INC-0321",
   "geo_precision": "none"
  },
  {
@@ -19227,7 +19237,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0320",
+  "incident_id": "INC-0322",
   "lat": 36.0103562,
   "lng": -84.2696449,
   "geo_precision": "geocoded"
@@ -19276,7 +19286,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0321",
+  "incident_id": "INC-0323",
   "lat": 36.0103562,
   "lng": -84.2696449,
   "geo_precision": "geocoded"
@@ -19328,7 +19338,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0322",
+  "incident_id": "INC-0324",
   "lat": 25.029422,
   "lng": -77.361956,
   "geo_precision": "geocoded"
@@ -19382,7 +19392,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0323",
+  "incident_id": "INC-0325",
   "lat": 45.0249632,
   "lng": 7.6718367,
   "geo_precision": "geocoded"
@@ -19436,7 +19446,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0324",
+  "incident_id": "INC-0326",
   "geo_precision": "none"
  },
  {
@@ -19488,7 +19498,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0325",
+  "incident_id": "INC-0327",
   "lat": 39.961325,
   "lng": -84.1700609,
   "geo_precision": "geocoded"
@@ -19542,7 +19552,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0326",
+  "incident_id": "INC-0328",
   "lat": 39.613432,
   "lng": 2.8829185,
   "geo_precision": "geocoded"
@@ -19595,7 +19605,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0327",
+  "incident_id": "INC-0329",
   "lat": 42.0897965,
   "lng": -76.8077338,
   "geo_precision": "geocoded"
@@ -19648,7 +19658,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0328",
+  "incident_id": "INC-0330",
   "lat": 44.5666334,
   "lng": 27.359793,
   "geo_precision": "geocoded"
@@ -19702,7 +19712,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0329",
+  "incident_id": "INC-0331",
   "lat": 53.7593363,
   "lng": -2.6992717,
   "geo_precision": "geocoded"
@@ -19753,7 +19763,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0330",
+  "incident_id": "INC-0332",
   "lat": 34.6017226,
   "lng": -105.208319,
   "geo_precision": "geocoded"
@@ -19807,7 +19817,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0331",
+  "incident_id": "INC-0333",
   "lat": 38.8950982,
   "lng": -77.0363849,
   "geo_precision": "geocoded"
@@ -19865,7 +19875,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0332",
+  "incident_id": "INC-0334",
   "lat": 33.4484367,
   "lng": -112.074141,
   "geo_precision": "geocoded"
@@ -19918,7 +19928,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0333",
+  "incident_id": "INC-0335",
   "lat": 42.327724,
   "lng": -87.8394189,
   "geo_precision": "geocoded"
@@ -19971,7 +19981,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0334",
+  "incident_id": "INC-0336",
   "lat": 41.7936822,
   "lng": -88.0102281,
   "geo_precision": "geocoded"
@@ -20027,7 +20037,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0335",
+  "incident_id": "INC-0337",
   "lat": 35.7050778,
   "lng": -89.969532,
   "geo_precision": "geocoded"
@@ -20081,7 +20091,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0336",
+  "incident_id": "INC-0338",
   "geo_precision": "off-earth"
  },
  {
@@ -20133,7 +20143,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0337",
+  "incident_id": "INC-0339",
   "lat": 43.6534817,
   "lng": -79.3839347,
   "geo_precision": "geocoded"
@@ -20188,7 +20198,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0338",
+  "incident_id": "INC-0340",
   "lat": 39.9542161,
   "lng": -89.5487126,
   "geo_precision": "geocoded"
@@ -20239,7 +20249,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0339",
+  "incident_id": "INC-0341",
   "lat": 35.88137,
   "lng": -106.298959,
   "geo_precision": "geocoded"
@@ -20308,7 +20318,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0340",
+  "incident_id": "INC-0342",
   "lat": 47.5048851,
   "lng": -111.29189,
   "geo_precision": "geocoded"
@@ -20364,7 +20374,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0341",
+  "incident_id": "INC-0343",
   "lat": 36.7563166,
   "lng": -90.3944869,
   "geo_precision": "geocoded"
@@ -20419,7 +20429,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0342",
+  "incident_id": "INC-0344",
   "lat": 39.9527237,
   "lng": -75.1635262,
   "geo_precision": "geocoded"
@@ -20473,7 +20483,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0343",
+  "incident_id": "INC-0345",
   "geo_precision": "none"
  },
  {
@@ -20525,7 +20535,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0344",
+  "incident_id": "INC-0346",
   "lat": 36.0103562,
   "lng": -84.2696449,
   "geo_precision": "geocoded"
@@ -20579,7 +20589,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0345",
+  "incident_id": "INC-0347",
   "lat": 39.9527237,
   "lng": -75.1635262,
   "geo_precision": "geocoded"
@@ -20638,7 +20648,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0346",
+  "incident_id": "INC-0348",
   "lat": 41.3082138,
   "lng": -72.9250518,
   "geo_precision": "geocoded"
@@ -20694,7 +20704,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0347",
+  "incident_id": "INC-0349",
   "lat": 50.7241405,
   "lng": -3.6607788,
   "geo_precision": "geocoded"
@@ -20749,7 +20759,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0348",
+  "incident_id": "INC-0350",
   "lat": 50.8736728,
   "lng": -2.9597425,
   "geo_precision": "geocoded"
@@ -20804,7 +20814,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0349",
+  "incident_id": "INC-0351",
   "lat": 44.9772995,
   "lng": -93.2654692,
   "geo_precision": "geocoded"
@@ -20857,7 +20867,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0350",
+  "incident_id": "INC-0352",
   "lat": 44.5666334,
   "lng": 27.359793,
   "geo_precision": "geocoded"
@@ -20911,7 +20921,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0351",
+  "incident_id": "INC-0353",
   "lat": 51.1638175,
   "lng": 10.4478313,
   "geo_precision": "geocoded"
@@ -20966,7 +20976,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0352",
+  "incident_id": "INC-0354",
   "lat": 42.4021356,
   "lng": -83.0210546,
   "geo_precision": "geocoded"
@@ -21020,7 +21030,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0353",
+  "incident_id": "INC-0355",
   "lat": 40.3118633,
   "lng": -74.04508,
   "geo_precision": "geocoded"
@@ -21076,7 +21086,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0354",
+  "incident_id": "INC-0356",
   "lat": 40.4024745,
   "lng": -74.0395498,
   "geo_precision": "geocoded"
@@ -21131,7 +21141,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0355",
+  "incident_id": "INC-0357",
   "geo_precision": "none"
  },
  {
@@ -21178,7 +21188,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0356",
+  "incident_id": "INC-0358",
   "lat": 38.4758406,
   "lng": -80.8408415,
   "geo_precision": "geocoded"
@@ -21232,7 +21242,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0357",
+  "incident_id": "INC-0359",
   "lat": 41.8755616,
   "lng": -87.6244212,
   "geo_precision": "geocoded"
@@ -21286,7 +21296,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0358",
+  "incident_id": "INC-0360",
   "lat": 36.1622767,
   "lng": -86.7742984,
   "geo_precision": "geocoded"
@@ -21340,7 +21350,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0359",
+  "incident_id": "INC-0361",
   "lat": 36.6970435,
   "lng": 137.7986497,
   "geo_precision": "geocoded"
@@ -21400,7 +21410,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0360",
+  "incident_id": "INC-0362",
   "lat": 39.2346832,
   "lng": -76.6119605,
   "geo_precision": "geocoded"
@@ -21455,7 +21465,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0361",
+  "incident_id": "INC-0363",
   "lat": 35.5636159,
   "lng": 139.7151845,
   "geo_precision": "geocoded"
@@ -21509,7 +21519,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0362",
+  "incident_id": "INC-0364",
   "lat": 25.029422,
   "lng": -77.361956,
   "geo_precision": "geocoded"
@@ -21568,7 +21578,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0363",
+  "incident_id": "INC-0365",
   "geo_precision": "none"
  },
  {
@@ -21622,7 +21632,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0364",
+  "incident_id": "INC-0366",
   "lat": 38.4784144,
   "lng": -82.6379387,
   "geo_precision": "geocoded"
@@ -21676,7 +21686,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0365",
+  "incident_id": "INC-0367",
   "lat": 35.1992158,
   "lng": 129.1504231,
   "geo_precision": "geocoded"
@@ -21729,7 +21739,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0366",
+  "incident_id": "INC-0368",
   "lat": 44.5666334,
   "lng": 27.359793,
   "geo_precision": "geocoded"
@@ -21824,7 +21834,7 @@
    }
   ],
   "n_records_merged": 3,
-  "incident_id": "INC-0367",
+  "incident_id": "INC-0369",
   "lat": 41.7120775,
   "lng": -112.165779,
   "geo_precision": "geocoded"
@@ -21879,7 +21889,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0368",
+  "incident_id": "INC-0370",
   "lat": 36.8493695,
   "lng": -76.2899539,
   "geo_precision": "geocoded"
@@ -21932,7 +21942,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0369",
+  "incident_id": "INC-0371",
   "lat": 25.029422,
   "lng": -77.361956,
   "geo_precision": "geocoded"
@@ -21980,7 +21990,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0370",
+  "incident_id": "INC-0372",
   "geo_precision": "none"
  },
  {
@@ -22035,7 +22045,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0371",
+  "incident_id": "INC-0373",
   "lat": 46.451752,
   "lng": -83.7515582,
   "geo_precision": "geocoded"
@@ -22094,7 +22104,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0372",
+  "incident_id": "INC-0374",
   "lat": 39.4149034,
   "lng": -85.0563234,
   "geo_precision": "geocoded"
@@ -22156,7 +22166,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0373",
+  "incident_id": "INC-0375",
   "lat": 41.0461864,
   "lng": -74.3177933,
   "geo_precision": "geocoded"
@@ -22211,7 +22221,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0374",
+  "incident_id": "INC-0376",
   "lat": 43.670011,
   "lng": -95.1500626,
   "geo_precision": "geocoded"
@@ -22265,7 +22275,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0375",
+  "incident_id": "INC-0377",
   "geo_precision": "none"
  },
  {
@@ -22315,7 +22325,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0376",
+  "incident_id": "INC-0378",
   "lat": 41.8654436,
   "lng": -87.6487821,
   "geo_precision": "geocoded"
@@ -22369,7 +22379,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0377",
+  "incident_id": "INC-0379",
   "lat": 26.715364,
   "lng": -80.0532942,
   "geo_precision": "geocoded"
@@ -22422,7 +22432,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0378",
+  "incident_id": "INC-0380",
   "lat": 47.3752671,
   "lng": -109.638757,
   "geo_precision": "geocoded"
@@ -22473,7 +22483,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0379",
+  "incident_id": "INC-0381",
   "lat": 34.0536909,
   "lng": -118.242766,
   "geo_precision": "geocoded"
@@ -22529,7 +22539,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0380",
+  "incident_id": "INC-0382",
   "lat": 43.1561681,
   "lng": -75.8449946,
   "geo_precision": "geocoded"
@@ -22582,7 +22592,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0381",
+  "incident_id": "INC-0383",
   "lat": 36.5748441,
   "lng": 139.2394179,
   "geo_precision": "geocoded"
@@ -22636,7 +22646,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0382",
+  "incident_id": "INC-0384",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -22690,7 +22700,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0383",
+  "incident_id": "INC-0385",
   "lat": 53.9825271,
   "lng": -1.38525,
   "geo_precision": "geocoded"
@@ -22744,7 +22754,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0384",
+  "incident_id": "INC-0386",
   "lat": 25.029422,
   "lng": -77.361956,
   "geo_precision": "geocoded"
@@ -22799,7 +22809,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0385",
+  "incident_id": "INC-0387",
   "lat": 44.5666334,
   "lng": 27.359793,
   "geo_precision": "geocoded"
@@ -22855,7 +22865,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0386",
+  "incident_id": "INC-0388",
   "lat": 19.521935,
   "lng": -99.4791842,
   "geo_precision": "geocoded"
@@ -22907,7 +22917,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0387",
+  "incident_id": "INC-0389",
   "lat": 18.4133374,
   "lng": -66.1218175,
   "geo_precision": "geocoded"
@@ -22960,7 +22970,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0388",
+  "incident_id": "INC-0390",
   "lat": 45.9741126,
   "lng": -94.8652642,
   "geo_precision": "geocoded"
@@ -23014,7 +23024,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0389",
+  "incident_id": "INC-0391",
   "lat": 42.3652576,
   "lng": -71.1843234,
   "geo_precision": "geocoded"
@@ -23072,7 +23082,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0390",
+  "incident_id": "INC-0392",
   "lat": 33.8188333,
   "lng": -84.5822632,
   "geo_precision": "geocoded"
@@ -23123,7 +23133,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0391",
+  "incident_id": "INC-0393",
   "lat": 21.3224532,
   "lng": -158.0819979,
   "geo_precision": "geocoded"
@@ -23179,7 +23189,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0392",
+  "incident_id": "INC-0394",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -23239,7 +23249,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0393",
+  "incident_id": "INC-0395",
   "lat": 43.2409695,
   "lng": -70.7485677,
   "geo_precision": "geocoded"
@@ -23292,7 +23302,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0394",
+  "incident_id": "INC-0396",
   "lat": 41.7313063,
   "lng": -111.834914,
   "geo_precision": "geocoded"
@@ -23343,7 +23353,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0395",
+  "incident_id": "INC-0397",
   "lat": 32.7762719,
   "lng": -96.7968559,
   "geo_precision": "geocoded"
@@ -23397,7 +23407,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0396",
+  "incident_id": "INC-0398",
   "lat": 43.1009031,
   "lng": -75.2326641,
   "geo_precision": "geocoded"
@@ -23450,7 +23460,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0397",
+  "incident_id": "INC-0399",
   "lat": 39.174625,
   "lng": -84.2958988,
   "geo_precision": "geocoded"
@@ -23505,7 +23515,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0398",
+  "incident_id": "INC-0400",
   "lat": -18.9100122,
   "lng": 47.5255809,
   "geo_precision": "geocoded"
@@ -23558,7 +23568,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0399",
+  "incident_id": "INC-0401",
   "lat": 37.4280637,
   "lng": -122.2507435,
   "geo_precision": "geocoded"
@@ -23611,7 +23621,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0400",
+  "incident_id": "INC-0402",
   "lat": 42.3315509,
   "lng": -83.0466403,
   "geo_precision": "geocoded"
@@ -23665,7 +23675,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0401",
+  "incident_id": "INC-0403",
   "geo_precision": "off-earth"
  },
  {
@@ -23718,7 +23728,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0402",
+  "incident_id": "INC-0404",
   "lat": 41.8933203,
   "lng": 12.4829321,
   "geo_precision": "geocoded"
@@ -23770,7 +23780,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0403",
+  "incident_id": "INC-0405",
   "geo_precision": "none"
  },
  {
@@ -23822,7 +23832,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0404",
+  "incident_id": "INC-0406",
   "lat": 44.9776412,
   "lng": 12.2800599,
   "geo_precision": "geocoded"
@@ -23875,7 +23885,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0405",
+  "incident_id": "INC-0407",
   "lat": 33.170482,
   "lng": -86.2514099,
   "geo_precision": "geocoded"
@@ -23930,7 +23940,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0406",
+  "incident_id": "INC-0408",
   "geo_precision": "none"
  },
  {
@@ -23980,7 +23990,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0407",
+  "incident_id": "INC-0409",
   "lat": 40.3936294,
   "lng": 47.7872508,
   "geo_precision": "geocoded"
@@ -24031,7 +24041,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0408",
+  "incident_id": "INC-0410",
   "lat": 34.5802074,
   "lng": -105.996047,
   "geo_precision": "geocoded"
@@ -24085,7 +24095,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0409",
+  "incident_id": "INC-0411",
   "lat": 40.1664507,
   "lng": -83.1757466,
   "geo_precision": "geocoded"
@@ -24142,7 +24152,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0410",
+  "incident_id": "INC-0412",
   "lat": 74.0,
   "lng": -93.5,
   "geo_precision": "geocoded"
@@ -24194,7 +24204,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0411",
+  "incident_id": "INC-0413",
   "lat": 49.1211912,
   "lng": -56.6403402,
   "geo_precision": "geocoded"
@@ -24255,7 +24265,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0412",
+  "incident_id": "INC-0414",
   "geo_precision": "none"
  },
  {
@@ -24308,7 +24318,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0413",
+  "incident_id": "INC-0415",
   "lat": 36.5224651,
   "lng": -105.0478471,
   "geo_precision": "geocoded"
@@ -24362,7 +24372,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0414",
+  "incident_id": "INC-0416",
   "lat": 50.8193356,
   "lng": -119.6861773,
   "geo_precision": "geocoded"
@@ -24419,7 +24429,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0415",
+  "incident_id": "INC-0417",
   "lat": 41.7065539,
   "lng": -73.9283672,
   "geo_precision": "geocoded"
@@ -24509,7 +24519,7 @@
    }
   ],
   "n_records_merged": 3,
-  "incident_id": "INC-0416",
+  "incident_id": "INC-0418",
   "geo_precision": "none"
  },
  {
@@ -24572,7 +24582,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0417",
+  "incident_id": "INC-0419",
   "lat": 47.4978789,
   "lng": 19.0402383,
   "geo_precision": "geocoded"
@@ -24619,7 +24629,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0418",
+  "incident_id": "INC-0420",
   "lat": 47.4978789,
   "lng": 19.0402383,
   "geo_precision": "geocoded"
@@ -24676,7 +24686,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0419",
+  "incident_id": "INC-0421",
   "geo_precision": "none"
  },
  {
@@ -24730,7 +24740,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0420",
+  "incident_id": "INC-0422",
   "lat": 39.7852062,
   "lng": -75.9790215,
   "geo_precision": "geocoded"
@@ -24784,7 +24794,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0421",
+  "incident_id": "INC-0423",
   "lat": 52.4175635,
   "lng": 0.5180418,
   "geo_precision": "geocoded"
@@ -24837,7 +24847,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0422",
+  "incident_id": "INC-0424",
   "geo_precision": "none"
  },
  {
@@ -24888,7 +24898,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0423",
+  "incident_id": "INC-0425",
   "lat": 60.1969953,
   "lng": 29.6081811,
   "geo_precision": "geocoded"
@@ -24941,7 +24951,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0424",
+  "incident_id": "INC-0426",
   "lat": 55.625578,
   "lng": 37.6063916,
   "geo_precision": "geocoded"
@@ -24999,7 +25009,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0425",
+  "incident_id": "INC-0427",
   "lat": 52.4175635,
   "lng": 0.5180418,
   "geo_precision": "geocoded"
@@ -25053,7 +25063,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0426",
+  "incident_id": "INC-0428",
   "lat": 30.6913462,
   "lng": -88.0437509,
   "geo_precision": "geocoded"
@@ -25106,7 +25116,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0427",
+  "incident_id": "INC-0429",
   "lat": 40.1777112,
   "lng": 44.5126233,
   "geo_precision": "geocoded"
@@ -25157,7 +25167,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0428",
+  "incident_id": "INC-0430",
   "lat": 47.4978789,
   "lng": 19.0402383,
   "geo_precision": "geocoded"
@@ -25210,7 +25220,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0429",
+  "incident_id": "INC-0431",
   "lat": -23.2575745,
   "lng": 117.6700266,
   "geo_precision": "geocoded"
@@ -25270,7 +25280,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0430",
+  "incident_id": "INC-0432",
   "lat": 31.2638905,
   "lng": -98.5456116,
   "geo_precision": "geocoded"
@@ -25323,7 +25333,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0431",
+  "incident_id": "INC-0433",
   "lat": 40.8584328,
   "lng": -74.1637553,
   "geo_precision": "geocoded"
@@ -25375,7 +25385,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0432",
+  "incident_id": "INC-0434",
   "lat": -23.2575745,
   "lng": 117.6700266,
   "geo_precision": "geocoded"
@@ -25424,7 +25434,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0433",
+  "incident_id": "INC-0435",
   "geo_precision": "off-earth"
  },
  {
@@ -25479,7 +25489,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0434",
+  "incident_id": "INC-0436",
   "lat": 33.5871311,
   "lng": -102.377698,
   "geo_precision": "geocoded"
@@ -25536,7 +25546,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0435",
+  "incident_id": "INC-0437",
   "lat": 25.0,
   "lng": -90.0,
   "geo_precision": "approx-region"
@@ -25594,7 +25604,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0436",
+  "incident_id": "INC-0438",
   "lat": 40.4906216,
   "lng": -98.9472344,
   "geo_precision": "geocoded"
@@ -25649,7 +25659,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0437",
+  "incident_id": "INC-0439",
   "lat": 40.805378,
   "lng": -74.2037566,
   "geo_precision": "geocoded"
@@ -25705,7 +25715,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0438",
+  "incident_id": "INC-0440",
   "geo_precision": "none"
  },
  {
@@ -25757,7 +25767,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0439",
+  "incident_id": "INC-0441",
   "lat": 40.7127281,
   "lng": -74.0060152,
   "geo_precision": "geocoded"
@@ -25802,7 +25812,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0440",
+  "incident_id": "INC-0442",
   "lat": 41.8006523,
   "lng": -73.1212214,
   "geo_precision": "geocoded"
@@ -25851,7 +25861,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0441",
+  "incident_id": "INC-0443",
   "lat": 42.3315509,
   "lng": -83.0466403,
   "geo_precision": "geocoded"
@@ -25908,7 +25918,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0442",
+  "incident_id": "INC-0444",
   "geo_precision": "none"
  },
  {
@@ -25959,7 +25969,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0443",
+  "incident_id": "INC-0445",
   "lat": -23.2575745,
   "lng": 117.6700266,
   "geo_precision": "geocoded"
@@ -26013,7 +26023,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0444",
+  "incident_id": "INC-0446",
   "lat": 40.6652251,
   "lng": -74.3045277,
   "geo_precision": "geocoded"
@@ -26065,7 +26075,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0445",
+  "incident_id": "INC-0447",
   "lat": -23.2575745,
   "lng": 117.6700266,
   "geo_precision": "geocoded"
@@ -26116,7 +26126,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0446",
+  "incident_id": "INC-0448",
   "lat": -23.2575745,
   "lng": 117.6700266,
   "geo_precision": "geocoded"
@@ -26170,7 +26180,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0447",
+  "incident_id": "INC-0449",
   "lat": 40.5133218,
   "lng": -74.2724241,
   "geo_precision": "geocoded"
@@ -26223,7 +26233,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0448",
+  "incident_id": "INC-0450",
   "lat": 42.3315509,
   "lng": -83.0466403,
   "geo_precision": "geocoded"
@@ -26279,7 +26289,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0449",
+  "incident_id": "INC-0451",
   "geo_precision": "none"
  },
  {
@@ -26331,7 +26341,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0450",
+  "incident_id": "INC-0452",
   "lat": 40.399178,
   "lng": -74.3409036,
   "geo_precision": "geocoded"
@@ -26386,7 +26396,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0451",
+  "incident_id": "INC-0453",
   "geo_precision": "none"
  },
  {
@@ -26435,7 +26445,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0452",
+  "incident_id": "INC-0454",
   "geo_precision": "none"
  },
  {
@@ -26487,7 +26497,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0453",
+  "incident_id": "INC-0455",
   "lat": 40.6409555,
   "lng": -74.383846,
   "geo_precision": "geocoded"
@@ -26542,7 +26552,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0454",
+  "incident_id": "INC-0456",
   "lat": 40.0757384,
   "lng": -74.4041622,
   "geo_precision": "geocoded"
@@ -26596,7 +26606,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0455",
+  "incident_id": "INC-0457",
   "geo_precision": "none"
  },
  {
@@ -26645,7 +26655,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0456",
+  "incident_id": "INC-0458",
   "geo_precision": "off-earth"
  },
  {
@@ -26696,7 +26706,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0457",
+  "incident_id": "INC-0459",
   "geo_precision": "none"
  },
  {
@@ -26752,7 +26762,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0458",
+  "incident_id": "INC-0460",
   "geo_precision": "none"
  },
  {
@@ -26827,7 +26837,7 @@
    }
   ],
   "n_records_merged": 3,
-  "incident_id": "INC-0459",
+  "incident_id": "INC-0461",
   "lat": 56.8382071,
   "lng": 60.6007886,
   "geo_precision": "geocoded"
@@ -26882,7 +26892,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0460",
+  "incident_id": "INC-0462",
   "geo_precision": "off-earth"
  },
  {
@@ -26930,7 +26940,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0461",
+  "incident_id": "INC-0463",
   "geo_precision": "none"
  },
  {
@@ -26981,7 +26991,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0462",
+  "incident_id": "INC-0464",
   "lat": 40.651726,
   "lng": -74.3483059,
   "geo_precision": "geocoded"
@@ -27032,7 +27042,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0463",
+  "incident_id": "INC-0465",
   "lat": 35.0,
   "lng": -50.0,
   "geo_precision": "approx-region"
@@ -27086,7 +27096,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0464",
+  "incident_id": "INC-0466",
   "geo_precision": "none"
  },
  {
@@ -27142,7 +27152,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0465",
+  "incident_id": "INC-0467",
   "lat": 39.1012809,
   "lng": -84.5127405,
   "geo_precision": "geocoded"
@@ -27191,7 +27201,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0466",
+  "incident_id": "INC-0468",
   "geo_precision": "none"
  },
  {
@@ -27264,7 +27274,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0467",
+  "incident_id": "INC-0469",
   "geo_precision": "off-earth"
  },
  {
@@ -27316,7 +27326,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0468",
+  "incident_id": "INC-0470",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -27372,7 +27382,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0469",
+  "incident_id": "INC-0471",
   "lat": 11.5024338,
   "lng": 17.7578122,
   "geo_precision": "geocoded"
@@ -27423,7 +27433,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0470",
+  "incident_id": "INC-0472",
   "geo_precision": "off-earth"
  },
  {
@@ -27477,7 +27487,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0471",
+  "incident_id": "INC-0473",
   "geo_precision": "off-earth"
  },
  {
@@ -27529,7 +27539,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0472",
+  "incident_id": "INC-0474",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -27579,7 +27589,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0473",
+  "incident_id": "INC-0475",
   "geo_precision": "none"
  },
  {
@@ -27633,7 +27643,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0474",
+  "incident_id": "INC-0476",
   "lat": 34.5412252,
   "lng": 108.9237067,
   "geo_precision": "geocoded"
@@ -27684,7 +27694,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0475",
+  "incident_id": "INC-0477",
   "geo_precision": "off-earth"
  },
  {
@@ -27748,7 +27758,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0476",
+  "incident_id": "INC-0478",
   "geo_precision": "off-earth"
  },
  {
@@ -27800,7 +27810,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0477",
+  "incident_id": "INC-0479",
   "lat": 23.0131338,
   "lng": -80.8328748,
   "geo_precision": "geocoded"
@@ -27860,7 +27870,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0478",
+  "incident_id": "INC-0480",
   "geo_precision": "off-earth"
  },
  {
@@ -27912,7 +27922,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0479",
+  "incident_id": "INC-0481",
   "geo_precision": "off-earth"
  },
  {
@@ -27990,7 +28000,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0480",
+  "incident_id": "INC-0482",
   "geo_precision": "off-earth"
  },
  {
@@ -28041,7 +28051,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0481",
+  "incident_id": "INC-0483",
   "lat": 40.7375965,
   "lng": -114.0314197,
   "geo_precision": "geocoded"
@@ -28095,7 +28105,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0482",
+  "incident_id": "INC-0484",
   "lat": 34.5412252,
   "lng": 108.9237067,
   "geo_precision": "geocoded"
@@ -28150,7 +28160,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0483",
+  "incident_id": "INC-0485",
   "lat": 39.9670569,
   "lng": -74.9426677,
   "geo_precision": "geocoded"
@@ -28191,10 +28201,9 @@
    "civilian"
   ],
   "agencies": [
-   "FBI",
-   "The Sunday Press"
+   "FBI"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 3,
   "explanation_status": "unexplained",
   "explanation": "Not assessed in this document.",
@@ -28276,7 +28285,7 @@
    }
   ],
   "n_records_merged": 3,
-  "incident_id": "INC-0484",
+  "incident_id": "INC-0486",
   "lat": 34.0572858,
   "lng": -106.8930799,
   "geo_precision": "geocoded"
@@ -28333,7 +28342,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0485",
+  "incident_id": "INC-0487",
   "geo_precision": "none"
  },
  {
@@ -28384,7 +28393,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0486",
+  "incident_id": "INC-0488",
   "lat": 40.6687141,
   "lng": -74.1143091,
   "geo_precision": "geocoded"
@@ -28439,7 +28448,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0487",
+  "incident_id": "INC-0489",
   "lat": 34.5412252,
   "lng": 108.9237067,
   "geo_precision": "geocoded"
@@ -28492,7 +28501,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0488",
+  "incident_id": "INC-0490",
   "lat": 39.5158825,
   "lng": -116.853722,
   "geo_precision": "geocoded"
@@ -28544,7 +28553,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0489",
+  "incident_id": "INC-0491",
   "geo_precision": "none"
  },
  {
@@ -28597,7 +28606,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0490",
+  "incident_id": "INC-0492",
   "lat": 25.029422,
   "lng": -77.361956,
   "geo_precision": "geocoded"
@@ -28651,7 +28660,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0491",
+  "incident_id": "INC-0493",
   "lat": 25.029422,
   "lng": -77.361956,
   "geo_precision": "geocoded"
@@ -28702,7 +28711,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0492",
+  "incident_id": "INC-0494",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -28753,7 +28762,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0493",
+  "incident_id": "INC-0495",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -28807,7 +28816,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0494",
+  "incident_id": "INC-0496",
   "lat": 19.5938015,
   "lng": -155.4283701,
   "geo_precision": "geocoded"
@@ -28879,7 +28888,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0495",
+  "incident_id": "INC-0497",
   "geo_precision": "off-earth"
  },
  {
@@ -28955,7 +28964,7 @@
    }
   ],
   "n_records_merged": 3,
-  "incident_id": "INC-0496",
+  "incident_id": "INC-0498",
   "geo_precision": "off-earth"
  },
  {
@@ -29020,7 +29029,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0497",
+  "incident_id": "INC-0499",
   "lat": 35.0,
   "lng": -50.0,
   "geo_precision": "approx-region"
@@ -29074,7 +29083,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0498",
+  "incident_id": "INC-0500",
   "lat": 43.8379283,
   "lng": 5.9839867,
   "geo_precision": "geocoded"
@@ -29124,7 +29133,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0499",
+  "incident_id": "INC-0501",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -29180,7 +29189,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0500",
+  "incident_id": "INC-0502",
   "geo_precision": "off-earth"
  },
  {
@@ -29231,7 +29240,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0501",
+  "incident_id": "INC-0503",
   "geo_precision": "off-earth"
  },
  {
@@ -29284,7 +29293,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0502",
+  "incident_id": "INC-0504",
   "lat": 20.0,
   "lng": -150.0,
   "geo_precision": "approx-region"
@@ -29337,7 +29346,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0503",
+  "incident_id": "INC-0505",
   "geo_precision": "off-earth"
  },
  {
@@ -29390,7 +29399,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0504",
+  "incident_id": "INC-0506",
   "geo_precision": "off-earth"
  },
  {
@@ -29465,7 +29474,7 @@
    }
   ],
   "n_records_merged": 3,
-  "incident_id": "INC-0505",
+  "incident_id": "INC-0507",
   "geo_precision": "off-earth"
  },
  {
@@ -29545,7 +29554,7 @@
    }
   ],
   "n_records_merged": 4,
-  "incident_id": "INC-0506",
+  "incident_id": "INC-0508",
   "geo_precision": "off-earth"
  },
  {
@@ -29597,7 +29606,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0507",
+  "incident_id": "INC-0509",
   "geo_precision": "off-earth"
  },
  {
@@ -29645,7 +29654,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0508",
+  "incident_id": "INC-0510",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -29698,7 +29707,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0509",
+  "incident_id": "INC-0511",
   "geo_precision": "off-earth"
  },
  {
@@ -29773,7 +29782,7 @@
    }
   ],
   "n_records_merged": 3,
-  "incident_id": "INC-0510",
+  "incident_id": "INC-0512",
   "geo_precision": "off-earth"
  },
  {
@@ -29824,7 +29833,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0511",
+  "incident_id": "INC-0513",
   "geo_precision": "off-earth"
  },
  {
@@ -29875,7 +29884,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0512",
+  "incident_id": "INC-0514",
   "lat": 39.5158825,
   "lng": -116.853722,
   "geo_precision": "geocoded"
@@ -29926,7 +29935,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0513",
+  "incident_id": "INC-0515",
   "lat": 37.366328,
   "lng": -81.1026607,
   "geo_precision": "geocoded"
@@ -29973,7 +29982,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0514",
+  "incident_id": "INC-0516",
   "geo_precision": "none"
  },
  {
@@ -30025,7 +30034,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0515",
+  "incident_id": "INC-0517",
   "lat": -25.7459277,
   "lng": 28.1879101,
   "geo_precision": "geocoded"
@@ -30076,7 +30085,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0516",
+  "incident_id": "INC-0518",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -30125,7 +30134,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0517",
+  "incident_id": "INC-0519",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -30219,7 +30228,7 @@
    }
   ],
   "n_records_merged": 5,
-  "incident_id": "INC-0518",
+  "incident_id": "INC-0520",
   "lat": 42.3315509,
   "lng": -83.0466403,
   "geo_precision": "geocoded"
@@ -30274,7 +30283,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0519",
+  "incident_id": "INC-0521",
   "lat": 37.6922361,
   "lng": -97.3375448,
   "geo_precision": "geocoded"
@@ -30329,7 +30338,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0520",
+  "incident_id": "INC-0522",
   "lat": 40.7997764,
   "lng": -73.9677716,
   "geo_precision": "geocoded"
@@ -30383,7 +30392,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0521",
+  "incident_id": "INC-0523",
   "lat": 43.2560802,
   "lng": -79.8728583,
   "geo_precision": "geocoded"
@@ -30420,10 +30429,9 @@
    "civilian"
   ],
   "agencies": [
-   "unknown",
-   "Department of War"
+   "unknown"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "explained",
   "explanation": "thrust imbalance",
@@ -30451,7 +30459,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0522",
+  "incident_id": "INC-0524",
   "lat": 47.4957757,
   "lng": -121.784889,
   "geo_precision": "geocoded"
@@ -30501,7 +30509,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0523",
+  "incident_id": "INC-0525",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -30555,7 +30563,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0524",
+  "incident_id": "INC-0526",
   "lat": 53.7396851,
   "lng": -2.3808275,
   "geo_precision": "geocoded"
@@ -30605,7 +30613,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0525",
+  "incident_id": "INC-0527",
   "geo_precision": "none"
  },
  {
@@ -30653,7 +30661,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0526",
+  "incident_id": "INC-0528",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -30710,7 +30718,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0527",
+  "incident_id": "INC-0529",
   "geo_precision": "off-earth"
  },
  {
@@ -30757,7 +30765,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0528",
+  "incident_id": "INC-0530",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -30810,7 +30818,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0529",
+  "incident_id": "INC-0531",
   "lat": 40.7987113,
   "lng": -74.2390353,
   "geo_precision": "geocoded"
@@ -30867,7 +30875,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0530",
+  "incident_id": "INC-0532",
   "lat": 49.9645993,
   "lng": 8.6063916,
   "geo_precision": "geocoded"
@@ -30917,7 +30925,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0531",
+  "incident_id": "INC-0533",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -30970,7 +30978,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0532",
+  "incident_id": "INC-0534",
   "lat": 39.5158825,
   "lng": -116.853722,
   "geo_precision": "geocoded"
@@ -31024,7 +31032,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0533",
+  "incident_id": "INC-0535",
   "lat": 36.7168315,
   "lng": -76.2494453,
   "geo_precision": "geocoded"
@@ -31078,7 +31086,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0534",
+  "incident_id": "INC-0536",
   "lat": 40.7881643,
   "lng": -74.3891647,
   "geo_precision": "geocoded"
@@ -31134,7 +31142,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0535",
+  "incident_id": "INC-0537",
   "lat": 33.0658459,
   "lng": -106.545628,
   "geo_precision": "geocoded"
@@ -31187,7 +31195,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0536",
+  "incident_id": "INC-0538",
   "lat": 48.4283182,
   "lng": -123.364953,
   "geo_precision": "geocoded"
@@ -31241,7 +31249,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0537",
+  "incident_id": "INC-0539",
   "lat": 25.029422,
   "lng": -77.361956,
   "geo_precision": "geocoded"
@@ -31295,7 +31303,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0538",
+  "incident_id": "INC-0540",
   "lat": -72.8438691,
   "lng": 0.0,
   "geo_precision": "geocoded"
@@ -31350,7 +31358,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0539",
+  "incident_id": "INC-0541",
   "lat": 44.9834126,
   "lng": 2.9322284,
   "geo_precision": "geocoded"
@@ -31404,7 +31412,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0540",
+  "incident_id": "INC-0542",
   "lat": 34.5412252,
   "lng": 108.9237067,
   "geo_precision": "geocoded"
@@ -31453,7 +31461,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0541",
+  "incident_id": "INC-0543",
   "lat": 41.8755616,
   "lng": -87.6244212,
   "geo_precision": "geocoded"
@@ -31509,7 +31517,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0542",
+  "incident_id": "INC-0544",
   "lat": 25.029422,
   "lng": -77.361956,
   "geo_precision": "geocoded"
@@ -31559,7 +31567,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0543",
+  "incident_id": "INC-0545",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -31606,7 +31614,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0544",
+  "incident_id": "INC-0546",
   "geo_precision": "none"
  },
  {
@@ -31657,7 +31665,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0545",
+  "incident_id": "INC-0547",
   "geo_precision": "none"
  },
  {
@@ -31707,7 +31715,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0546",
+  "incident_id": "INC-0548",
   "geo_precision": "none"
  },
  {
@@ -31757,7 +31765,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0547",
+  "incident_id": "INC-0549",
   "lat": 27.4713546,
   "lng": 89.6336729,
   "geo_precision": "geocoded"
@@ -31819,7 +31827,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0548",
+  "incident_id": "INC-0550",
   "geo_precision": "none"
  },
  {
@@ -31869,7 +31877,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0549",
+  "incident_id": "INC-0551",
   "geo_precision": "none"
  },
  {
@@ -31920,7 +31928,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0550",
+  "incident_id": "INC-0552",
   "geo_precision": "none"
  },
  {
@@ -31969,7 +31977,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0551",
+  "incident_id": "INC-0553",
   "geo_precision": "none"
  },
  {
@@ -32019,7 +32027,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0552",
+  "incident_id": "INC-0554",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -32072,7 +32080,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0553",
+  "incident_id": "INC-0555",
   "geo_precision": "none"
  },
  {
@@ -32120,7 +32128,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0554",
+  "incident_id": "INC-0556",
   "geo_precision": "none"
  },
  {
@@ -32168,7 +32176,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0555",
+  "incident_id": "INC-0557",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -32219,7 +32227,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0556",
+  "incident_id": "INC-0558",
   "lat": 48.848139,
   "lng": 2.3043031,
   "geo_precision": "geocoded"
@@ -32268,7 +32276,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0557",
+  "incident_id": "INC-0559",
   "lat": 33.894927,
   "lng": -118.226624,
   "geo_precision": "geocoded"
@@ -32321,7 +32329,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0558",
+  "incident_id": "INC-0560",
   "geo_precision": "off-earth"
  },
  {
@@ -32368,7 +32376,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0559",
+  "incident_id": "INC-0561",
   "geo_precision": "off-earth"
  },
  {
@@ -32416,7 +32424,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0560",
+  "incident_id": "INC-0562",
   "geo_precision": "none"
  },
  {
@@ -32464,7 +32472,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0561",
+  "incident_id": "INC-0563",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -32515,7 +32523,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0562",
+  "incident_id": "INC-0564",
   "geo_precision": "off-earth"
  },
  {
@@ -32564,7 +32572,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0563",
+  "incident_id": "INC-0565",
   "geo_precision": "off-earth"
  },
  {
@@ -32618,7 +32626,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0564",
+  "incident_id": "INC-0566",
   "lat": 25.029422,
   "lng": -77.361956,
   "geo_precision": "geocoded"
@@ -32671,7 +32679,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0565",
+  "incident_id": "INC-0567",
   "geo_precision": "off-earth"
  },
  {
@@ -32718,7 +32726,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0566",
+  "incident_id": "INC-0568",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -32767,7 +32775,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0567",
+  "incident_id": "INC-0569",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -32819,7 +32827,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0568",
+  "incident_id": "INC-0570",
   "geo_precision": "off-earth"
  },
  {
@@ -32884,7 +32892,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0569",
+  "incident_id": "INC-0571",
   "lat": 48.848139,
   "lng": 2.3043031,
   "geo_precision": "geocoded"
@@ -32945,7 +32953,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0570",
+  "incident_id": "INC-0572",
   "lat": 48.848139,
   "lng": 2.3043031,
   "geo_precision": "geocoded"
@@ -33013,7 +33021,7 @@
    }
   ],
   "n_records_merged": 3,
-  "incident_id": "INC-0571",
+  "incident_id": "INC-0573",
   "geo_precision": "off-earth"
  },
  {
@@ -33065,7 +33073,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0572",
+  "incident_id": "INC-0574",
   "geo_precision": "off-earth"
  },
  {
@@ -33115,7 +33123,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0573",
+  "incident_id": "INC-0575",
   "lat": 46.3421653,
   "lng": 48.0254474,
   "geo_precision": "geocoded"
@@ -33166,7 +33174,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0574",
+  "incident_id": "INC-0576",
   "geo_precision": "off-earth"
  },
  {
@@ -33231,7 +33239,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0575",
+  "incident_id": "INC-0577",
   "geo_precision": "none"
  },
  {
@@ -33285,7 +33293,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0576",
+  "incident_id": "INC-0578",
   "geo_precision": "off-earth"
  },
  {
@@ -33332,7 +33340,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0577",
+  "incident_id": "INC-0579",
   "geo_precision": "off-earth"
  },
  {
@@ -33386,7 +33394,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0578",
+  "incident_id": "INC-0580",
   "geo_precision": "off-earth"
  },
  {
@@ -33435,7 +33443,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0579",
+  "incident_id": "INC-0581",
   "geo_precision": "off-earth"
  },
  {
@@ -33486,7 +33494,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0580",
+  "incident_id": "INC-0582",
   "lat": 43.0386475,
   "lng": -87.9090751,
   "geo_precision": "geocoded"
@@ -33536,7 +33544,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0581",
+  "incident_id": "INC-0583",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -33586,7 +33594,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0582",
+  "incident_id": "INC-0584",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -33643,7 +33651,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0583",
+  "incident_id": "INC-0585",
   "lat": 47.3900474,
   "lng": 0.6889268,
   "geo_precision": "geocoded"
@@ -33701,7 +33709,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0584",
+  "incident_id": "INC-0586",
   "lat": 35.6892523,
   "lng": 51.3896004,
   "geo_precision": "geocoded"
@@ -33758,7 +33766,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0585",
+  "incident_id": "INC-0587",
   "lat": 47.3215806,
   "lng": 5.0414701,
   "geo_precision": "geocoded"
@@ -33809,7 +33817,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0586",
+  "incident_id": "INC-0588",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -33865,7 +33873,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0587",
+  "incident_id": "INC-0589",
   "lat": 47.3215806,
   "lng": 5.0414701,
   "geo_precision": "geocoded"
@@ -33915,7 +33923,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0588",
+  "incident_id": "INC-0590",
   "geo_precision": "none"
  },
  {
@@ -33965,7 +33973,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0589",
+  "incident_id": "INC-0591",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -34020,7 +34028,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0590",
+  "incident_id": "INC-0592",
   "lat": 43.5039337,
   "lng": 6.4867321,
   "geo_precision": "geocoded"
@@ -34071,7 +34079,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0591",
+  "incident_id": "INC-0593",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -34126,7 +34134,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0592",
+  "incident_id": "INC-0594",
   "lat": 48.6937223,
   "lng": 6.1834097,
   "geo_precision": "geocoded"
@@ -34192,7 +34200,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0593",
+  "incident_id": "INC-0595",
   "lat": -3.9992443,
   "lng": 144.0468707,
   "geo_precision": "geocoded"
@@ -34248,7 +34256,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0594",
+  "incident_id": "INC-0596",
   "lat": 43.039163,
   "lng": -87.9030526,
   "geo_precision": "geocoded"
@@ -34298,7 +34306,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0595",
+  "incident_id": "INC-0597",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -34353,7 +34361,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0596",
+  "incident_id": "INC-0598",
   "lat": 46.3421653,
   "lng": 48.0254474,
   "geo_precision": "geocoded"
@@ -34407,7 +34415,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0597",
+  "incident_id": "INC-0599",
   "lat": 48.575634,
   "lng": 45.766895,
   "geo_precision": "geocoded"
@@ -34464,7 +34472,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0598",
+  "incident_id": "INC-0600",
   "lat": 56.7367178,
   "lng": 38.8462714,
   "geo_precision": "geocoded"
@@ -34520,7 +34528,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0599",
+  "incident_id": "INC-0601",
   "geo_precision": "none"
  },
  {
@@ -34568,7 +34576,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0600",
+  "incident_id": "INC-0602",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -34617,7 +34625,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0601",
+  "incident_id": "INC-0603",
   "geo_precision": "none"
  },
  {
@@ -34664,7 +34672,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0602",
+  "incident_id": "INC-0604",
   "geo_precision": "none"
  },
  {
@@ -34712,7 +34720,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0603",
+  "incident_id": "INC-0605",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -34780,7 +34788,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0604",
+  "incident_id": "INC-0606",
   "geo_precision": "none"
  },
  {
@@ -34834,7 +34842,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0605",
+  "incident_id": "INC-0607",
   "lat": 48.8121301,
   "lng": 3.0843818,
   "geo_precision": "geocoded"
@@ -34890,7 +34898,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0606",
+  "incident_id": "INC-0608",
   "lat": -41.1334781,
   "lng": -71.3101474,
   "geo_precision": "geocoded"
@@ -34945,7 +34953,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0607",
+  "incident_id": "INC-0609",
   "lat": 34.5802074,
   "lng": -105.996047,
   "geo_precision": "geocoded"
@@ -34994,7 +35002,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0608",
+  "incident_id": "INC-0610",
   "lat": 40.0,
   "lng": -112.0,
   "geo_precision": "approx-region"
@@ -35068,7 +35076,7 @@
    }
   ],
   "n_records_merged": 3,
-  "incident_id": "INC-0609",
+  "incident_id": "INC-0611",
   "geo_precision": "off-earth"
  },
  {
@@ -35121,7 +35129,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0610",
+  "incident_id": "INC-0612",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -35170,7 +35178,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0611",
+  "incident_id": "INC-0613",
   "geo_precision": "none"
  },
  {
@@ -35219,7 +35227,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0612",
+  "incident_id": "INC-0614",
   "lat": 40.0,
   "lng": -112.0,
   "geo_precision": "approx-region"
@@ -35272,7 +35280,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0613",
+  "incident_id": "INC-0615",
   "lat": 53.3635611,
   "lng": 83.5504536,
   "geo_precision": "geocoded"
@@ -35324,7 +35332,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0614",
+  "incident_id": "INC-0616",
   "geo_precision": "none"
  },
  {
@@ -35376,7 +35384,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0615",
+  "incident_id": "INC-0617",
   "lat": 34.7088437,
   "lng": -120.5447422,
   "geo_precision": "geocoded"
@@ -35431,7 +35439,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0616",
+  "incident_id": "INC-0618",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -35491,7 +35499,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0617",
+  "incident_id": "INC-0619",
   "lat": 32.2,
   "lng": -118.2,
   "geo_precision": "approx-region"
@@ -35547,7 +35555,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0618",
+  "incident_id": "INC-0620",
   "lat": -17.9332616,
   "lng": 31.090709,
   "geo_precision": "geocoded"
@@ -35594,7 +35602,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0619",
+  "incident_id": "INC-0621",
   "lat": 18.4496551,
   "lng": -67.1184764,
   "geo_precision": "geocoded"
@@ -35651,7 +35659,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0620",
+  "incident_id": "INC-0622",
   "lat": 36.8119877,
   "lng": -76.0279192,
   "geo_precision": "geocoded"
@@ -35705,7 +35713,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0621",
+  "incident_id": "INC-0623",
   "geo_precision": "none"
  },
  {
@@ -35758,7 +35766,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0622",
+  "incident_id": "INC-0624",
   "lat": 33.9510011,
   "lng": -118.2062682,
   "geo_precision": "geocoded"
@@ -35807,7 +35815,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0623",
+  "incident_id": "INC-0625",
   "lat": 39.0057931,
   "lng": -84.1404082,
   "geo_precision": "geocoded"
@@ -35862,7 +35870,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0624",
+  "incident_id": "INC-0626",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -35902,7 +35910,7 @@
    "federal-le"
   ],
   "agencies": [
-   "Department of Energy"
+   "AEC/DOE"
   ],
   "n_agencies": 1,
   "n_source_docs": 2,
@@ -35932,7 +35940,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0625",
+  "incident_id": "INC-0627",
   "geo_precision": "none"
  },
  {
@@ -35979,7 +35987,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0626",
+  "incident_id": "INC-0628",
   "lat": 35.0,
   "lng": -50.0,
   "geo_precision": "approx-region"
@@ -36014,10 +36022,9 @@
    "military-pilot"
   ],
   "agencies": [
-   "CENTCOM",
-   "Department of War"
+   "CENTCOM"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -36042,7 +36049,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0627",
+  "incident_id": "INC-0629",
   "geo_precision": "none"
  },
  {
@@ -36091,7 +36098,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0628",
+  "incident_id": "INC-0630",
   "lat": 10.3357315,
   "lng": 123.9011738,
   "geo_precision": "geocoded"
@@ -36142,7 +36149,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0629",
+  "incident_id": "INC-0631",
   "lat": 59.952788,
   "lng": 10.7648999,
   "geo_precision": "geocoded"
@@ -36198,7 +36205,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0630",
+  "incident_id": "INC-0632",
   "lat": 39.0057931,
   "lng": -84.1404082,
   "geo_precision": "geocoded"
@@ -36247,7 +36254,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0631",
+  "incident_id": "INC-0633",
   "lat": 26.5008451,
   "lng": -80.0675615,
   "geo_precision": "geocoded"
@@ -36307,7 +36314,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0632",
+  "incident_id": "INC-0634",
   "lat": 10.3357315,
   "lng": 123.9011738,
   "geo_precision": "geocoded"
@@ -36361,7 +36368,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0633",
+  "incident_id": "INC-0635",
   "lat": 39.0057931,
   "lng": -84.1404082,
   "geo_precision": "geocoded"
@@ -36415,7 +36422,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0634",
+  "incident_id": "INC-0636",
   "lat": 35.0,
   "lng": -50.0,
   "geo_precision": "approx-region"
@@ -36464,7 +36471,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0635",
+  "incident_id": "INC-0637",
   "lat": 39.0057931,
   "lng": -84.1404082,
   "geo_precision": "geocoded"
@@ -36513,7 +36520,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0636",
+  "incident_id": "INC-0638",
   "lat": 40.0,
   "lng": -112.0,
   "geo_precision": "approx-region"
@@ -36562,7 +36569,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0637",
+  "incident_id": "INC-0639",
   "lat": 39.0057931,
   "lng": -84.1404082,
   "geo_precision": "geocoded"
@@ -36611,7 +36618,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0638",
+  "incident_id": "INC-0640",
   "lat": 39.0057931,
   "lng": -84.1404082,
   "geo_precision": "geocoded"
@@ -36662,7 +36669,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0639",
+  "incident_id": "INC-0641",
   "lat": 10.3357315,
   "lng": 123.9011738,
   "geo_precision": "geocoded"
@@ -36722,7 +36729,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0640",
+  "incident_id": "INC-0642",
   "lat": 10.3357315,
   "lng": 123.9011738,
   "geo_precision": "geocoded"
@@ -36776,7 +36783,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0641",
+  "incident_id": "INC-0643",
   "lat": 29.0,
   "lng": 45.0,
   "geo_precision": "approx-region"
@@ -36827,7 +36834,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0642",
+  "incident_id": "INC-0644",
   "lat": 26.5,
   "lng": 52.0,
   "geo_precision": "approx-region"
@@ -36878,7 +36885,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0643",
+  "incident_id": "INC-0645",
   "lat": 10.3357315,
   "lng": 123.9011738,
   "geo_precision": "geocoded"
@@ -36929,7 +36936,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0644",
+  "incident_id": "INC-0646",
   "geo_precision": "none"
  },
  {
@@ -36978,7 +36985,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0645",
+  "incident_id": "INC-0647",
   "geo_precision": "none"
  },
  {
@@ -37030,7 +37037,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0646",
+  "incident_id": "INC-0648",
   "lat": 25.029422,
   "lng": -77.361956,
   "geo_precision": "geocoded"
@@ -37112,7 +37119,7 @@
    }
   ],
   "n_records_merged": 5,
-  "incident_id": "INC-0647",
+  "incident_id": "INC-0649",
   "lat": 26.5,
   "lng": 52.0,
   "geo_precision": "approx-region"
@@ -37145,10 +37152,9 @@
    "military-other"
   ],
   "agencies": [
-   "CENTCOM",
-   "Department of War"
+   "CENTCOM"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "not-assessed",
   "explanation": "",
@@ -37194,7 +37200,7 @@
    }
   ],
   "n_records_merged": 4,
-  "incident_id": "INC-0648",
+  "incident_id": "INC-0650",
   "lat": 26.5,
   "lng": 52.0,
   "geo_precision": "approx-region"
@@ -37230,10 +37236,9 @@
    "military-other"
   ],
   "agencies": [
-   "CENTCOM",
-   "Department of War"
+   "CENTCOM"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 3,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -37268,7 +37273,7 @@
    }
   ],
   "n_records_merged": 3,
-  "incident_id": "INC-0649",
+  "incident_id": "INC-0651",
   "lat": 26.5,
   "lng": 52.0,
   "geo_precision": "approx-region"
@@ -37319,7 +37324,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0650",
+  "incident_id": "INC-0652",
   "lat": 10.3357315,
   "lng": 123.9011738,
   "geo_precision": "geocoded"
@@ -37356,10 +37361,9 @@
    "military-other"
   ],
   "agencies": [
-   "US Navy",
-   "Department of War"
+   "US Navy"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 3,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -37393,7 +37397,7 @@
    }
   ],
   "n_records_merged": 3,
-  "incident_id": "INC-0651",
+  "incident_id": "INC-0653",
   "lat": 14.0,
   "lng": 65.0,
   "geo_precision": "approx-region"
@@ -37429,10 +37433,9 @@
    "military-other"
   ],
   "agencies": [
-   "CENTCOM",
-   "Department of War"
+   "CENTCOM"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -37460,7 +37463,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0652",
+  "incident_id": "INC-0654",
   "lat": 26.5,
   "lng": 52.0,
   "geo_precision": "approx-region"
@@ -37523,7 +37526,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0653",
+  "incident_id": "INC-0655",
   "lat": 36.5748441,
   "lng": 139.2394179,
   "geo_precision": "geocoded"
@@ -37583,7 +37586,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0654",
+  "incident_id": "INC-0656",
   "lat": 10.3357315,
   "lng": 123.9011738,
   "geo_precision": "geocoded"
@@ -37618,10 +37621,9 @@
    "military-other"
   ],
   "agencies": [
-   "CENTCOM",
-   "Department of War"
+   "CENTCOM"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "not-assessed",
   "explanation": "Not assessed",
@@ -37646,7 +37648,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0655",
+  "incident_id": "INC-0657",
   "lat": 12.5,
   "lng": 47.5,
   "geo_precision": "approx-region"
@@ -37697,7 +37699,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0656",
+  "incident_id": "INC-0658",
   "lat": 10.3357315,
   "lng": 123.9011738,
   "geo_precision": "geocoded"
@@ -37746,7 +37748,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0657",
+  "incident_id": "INC-0659",
   "lat": 26.6,
   "lng": 56.5,
   "geo_precision": "approx-region"
@@ -37797,7 +37799,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0658",
+  "incident_id": "INC-0660",
   "lat": 10.3357315,
   "lng": 123.9011738,
   "geo_precision": "geocoded"
@@ -37848,7 +37850,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0659",
+  "incident_id": "INC-0661",
   "lat": 10.3357315,
   "lng": 123.9011738,
   "geo_precision": "geocoded"
@@ -37897,7 +37899,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0660",
+  "incident_id": "INC-0662",
   "lat": 26.6,
   "lng": 56.5,
   "geo_precision": "approx-region"
@@ -37948,7 +37950,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0661",
+  "incident_id": "INC-0663",
   "lat": 10.3357315,
   "lng": 123.9011738,
   "geo_precision": "geocoded"
@@ -38001,7 +38003,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0662",
+  "incident_id": "INC-0664",
   "lat": 12.5,
   "lng": 47.5,
   "geo_precision": "approx-region"
@@ -38052,7 +38054,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0663",
+  "incident_id": "INC-0665",
   "lat": 14.0,
   "lng": 65.0,
   "geo_precision": "approx-region"
@@ -38103,7 +38105,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0664",
+  "incident_id": "INC-0666",
   "lat": -4.3026431,
   "lng": 15.3137038,
   "geo_precision": "geocoded"
@@ -38154,7 +38156,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0665",
+  "incident_id": "INC-0667",
   "lat": -4.3026431,
   "lng": 15.3137038,
   "geo_precision": "geocoded"
@@ -38205,7 +38207,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0666",
+  "incident_id": "INC-0668",
   "lat": 10.3357315,
   "lng": 123.9011738,
   "geo_precision": "geocoded"
@@ -38264,7 +38266,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0667",
+  "incident_id": "INC-0669",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -38315,7 +38317,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0668",
+  "incident_id": "INC-0670",
   "lat": 25.029422,
   "lng": -77.361956,
   "geo_precision": "geocoded"
@@ -38367,7 +38369,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0669",
+  "incident_id": "INC-0671",
   "lat": 10.3357315,
   "lng": 123.9011738,
   "geo_precision": "geocoded"
@@ -38415,7 +38417,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0670",
+  "incident_id": "INC-0672",
   "geo_precision": "none"
  },
  {
@@ -38463,7 +38465,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0671",
+  "incident_id": "INC-0673",
   "geo_precision": "none"
  },
  {
@@ -38510,7 +38512,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0672",
+  "incident_id": "INC-0674",
   "lat": 32.6475314,
   "lng": 54.5643516,
   "geo_precision": "geocoded"
@@ -38561,7 +38563,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0673",
+  "incident_id": "INC-0675",
   "lat": 10.3357315,
   "lng": 123.9011738,
   "geo_precision": "geocoded"
@@ -38612,7 +38614,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0674",
+  "incident_id": "INC-0676",
   "lat": 10.3357315,
   "lng": 123.9011738,
   "geo_precision": "geocoded"
@@ -38667,7 +38669,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0675",
+  "incident_id": "INC-0677",
   "lat": 42.3400544,
   "lng": -71.0896964,
   "geo_precision": "geocoded"
@@ -38718,7 +38720,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0676",
+  "incident_id": "INC-0678",
   "lat": 10.3357315,
   "lng": 123.9011738,
   "geo_precision": "geocoded"
@@ -38769,7 +38771,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0677",
+  "incident_id": "INC-0679",
   "lat": 10.3357315,
   "lng": 123.9011738,
   "geo_precision": "geocoded"
@@ -38849,7 +38851,7 @@
    }
   ],
   "n_records_merged": 4,
-  "incident_id": "INC-0678",
+  "incident_id": "INC-0680",
   "lat": 10.3357315,
   "lng": 123.9011738,
   "geo_precision": "geocoded"
@@ -38906,7 +38908,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0679",
+  "incident_id": "INC-0681",
   "lat": 42.3400544,
   "lng": -71.0896964,
   "geo_precision": "geocoded"
@@ -38957,7 +38959,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0680",
+  "incident_id": "INC-0682",
   "lat": 28.0,
   "lng": 125.0,
   "geo_precision": "approx-region"
@@ -39023,7 +39025,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0681",
+  "incident_id": "INC-0683",
   "lat": 43.039163,
   "lng": -87.9030526,
   "geo_precision": "geocoded"
@@ -39078,7 +39080,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0682",
+  "incident_id": "INC-0684",
   "lat": 43.039163,
   "lng": -87.9030526,
   "geo_precision": "geocoded"
@@ -39131,7 +39133,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0683",
+  "incident_id": "INC-0685",
   "lat": 38.8339578,
   "lng": -104.825348,
   "geo_precision": "geocoded"
@@ -39184,7 +39186,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0684",
+  "incident_id": "INC-0686",
   "lat": 33.0955793,
   "lng": 44.1749775,
   "geo_precision": "geocoded"
@@ -39235,7 +39237,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0685",
+  "incident_id": "INC-0687",
   "lat": 38.8339578,
   "lng": -104.825348,
   "geo_precision": "geocoded"
@@ -39314,7 +39316,7 @@
    }
   ],
   "n_records_merged": 3,
-  "incident_id": "INC-0686",
+  "incident_id": "INC-0688",
   "lat": 38.7675136,
   "lng": -104.8084541,
   "geo_precision": "geocoded"
@@ -39365,7 +39367,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0687",
+  "incident_id": "INC-0689",
   "geo_precision": "none"
  },
  {
@@ -39418,7 +39420,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0688",
+  "incident_id": "INC-0690",
   "lat": 43.039163,
   "lng": -87.9030526,
   "geo_precision": "geocoded"
@@ -39473,7 +39475,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0689",
+  "incident_id": "INC-0691",
   "geo_precision": "none"
  },
  {
@@ -39522,7 +39524,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0690",
+  "incident_id": "INC-0692",
   "lat": 25.029422,
   "lng": -77.361956,
   "geo_precision": "geocoded"
@@ -39577,7 +39579,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0691",
+  "incident_id": "INC-0693",
   "geo_precision": "none"
  },
  {
@@ -39624,7 +39626,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0692",
+  "incident_id": "INC-0694",
   "lat": 33.0955793,
   "lng": 44.1749775,
   "geo_precision": "geocoded"
@@ -39684,7 +39686,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0693",
+  "incident_id": "INC-0695",
   "geo_precision": "none"
  },
  {
@@ -39731,7 +39733,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0694",
+  "incident_id": "INC-0696",
   "lat": 34.6401861,
   "lng": 39.0494106,
   "geo_precision": "geocoded"
@@ -39778,7 +39780,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0695",
+  "incident_id": "INC-0697",
   "geo_precision": "none"
  },
  {
@@ -39827,7 +39829,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0696",
+  "incident_id": "INC-0698",
   "lat": 10.3357315,
   "lng": 123.9011738,
   "geo_precision": "geocoded"
@@ -39886,7 +39888,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0697",
+  "incident_id": "INC-0699",
   "geo_precision": "none"
  },
  {
@@ -39935,7 +39937,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0698",
+  "incident_id": "INC-0700",
   "lat": 48.7359417,
   "lng": 9.083829,
   "geo_precision": "geocoded"
@@ -39986,7 +39988,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0699",
+  "incident_id": "INC-0701",
   "lat": 10.3357315,
   "lng": 123.9011738,
   "geo_precision": "geocoded"
@@ -40037,7 +40039,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0700",
+  "incident_id": "INC-0702",
   "lat": 10.3357315,
   "lng": 123.9011738,
   "geo_precision": "geocoded"
@@ -40088,7 +40090,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0701",
+  "incident_id": "INC-0703",
   "lat": 40.0,
   "lng": -112.0,
   "geo_precision": "approx-region"
@@ -40121,10 +40123,9 @@
    "military-other"
   ],
   "agencies": [
-   "CENTCOM",
-   "Department of War"
+   "CENTCOM"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -40149,7 +40150,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0702",
+  "incident_id": "INC-0704",
   "lat": 33.3061701,
   "lng": 44.3872213,
   "geo_precision": "geocoded"
@@ -40206,7 +40207,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0703",
+  "incident_id": "INC-0705",
   "lat": 37.654421,
   "lng": -104.7930869,
   "geo_precision": "geocoded"
@@ -40260,7 +40261,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0704",
+  "incident_id": "INC-0706",
   "lat": 37.654421,
   "lng": -104.7930869,
   "geo_precision": "geocoded"
@@ -40317,7 +40318,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0705",
+  "incident_id": "INC-0707",
   "lat": 37.654421,
   "lng": -104.7930869,
   "geo_precision": "geocoded"
@@ -40372,7 +40373,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0706",
+  "incident_id": "INC-0708",
   "lat": 37.654421,
   "lng": -104.7930869,
   "geo_precision": "geocoded"
@@ -40426,7 +40427,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0707",
+  "incident_id": "INC-0709",
   "lat": 40.0,
   "lng": -112.0,
   "geo_precision": "approx-region"
@@ -40476,7 +40477,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0708",
+  "incident_id": "INC-0710",
   "lat": 40.0,
   "lng": -112.0,
   "geo_precision": "approx-region"
@@ -40525,7 +40526,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0709",
+  "incident_id": "INC-0711",
   "lat": 40.0,
   "lng": -112.0,
   "geo_precision": "approx-region"
@@ -40574,7 +40575,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0710",
+  "incident_id": "INC-0712",
   "lat": 29.0,
   "lng": 45.0,
   "geo_precision": "approx-region"
@@ -40623,7 +40624,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0711",
+  "incident_id": "INC-0713",
   "lat": 29.0,
   "lng": 45.0,
   "geo_precision": "approx-region"
@@ -40673,7 +40674,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0712",
+  "incident_id": "INC-0714",
   "lat": 36.0000002,
   "lng": 123.9999998,
   "geo_precision": "geocoded"
@@ -40724,7 +40725,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0713",
+  "incident_id": "INC-0715",
   "lat": 36.0000002,
   "lng": 123.9999998,
   "geo_precision": "geocoded"
@@ -40775,7 +40776,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0714",
+  "incident_id": "INC-0716",
   "lat": 59.952788,
   "lng": 10.7648999,
   "geo_precision": "geocoded"
@@ -40827,7 +40828,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0715",
+  "incident_id": "INC-0717",
   "lat": 44.1931507,
   "lng": -89.417434,
   "geo_precision": "geocoded"
@@ -40878,7 +40879,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0716",
+  "incident_id": "INC-0718",
   "lat": 31.5856126,
   "lng": -102.8826804,
   "geo_precision": "geocoded"
@@ -40914,10 +40915,9 @@
    "military-other"
   ],
   "agencies": [
-   "CENTCOM",
-   "Department of War"
+   "CENTCOM"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "not-assessed",
   "explanation": "",
@@ -40953,7 +40953,7 @@
    }
   ],
   "n_records_merged": 3,
-  "incident_id": "INC-0717",
+  "incident_id": "INC-0719",
   "lat": 36.0509404,
   "lng": 40.7832847,
   "geo_precision": "geocoded"
@@ -41010,7 +41010,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0718",
+  "incident_id": "INC-0720",
   "lat": 39.0,
   "lng": -120.0,
   "geo_precision": "approx-region"
@@ -41046,10 +41046,9 @@
    "military-other"
   ],
   "agencies": [
-   "77 EFS",
-   "Department of War"
+   "77 EFS"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -41075,7 +41074,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0719",
+  "incident_id": "INC-0721",
   "geo_precision": "none"
  },
  {
@@ -41162,7 +41161,7 @@
    }
   ],
   "n_records_merged": 4,
-  "incident_id": "INC-0720",
+  "incident_id": "INC-0722",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -41517,7 +41516,7 @@
    }
   ],
   "n_records_merged": 28,
-  "incident_id": "INC-0721",
+  "incident_id": "INC-0723",
   "lat": 40.0,
   "lng": -112.0,
   "geo_precision": "approx-region"
@@ -41570,7 +41569,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0722",
+  "incident_id": "INC-0724",
   "lat": 40.0,
   "lng": -112.0,
   "geo_precision": "approx-region"
@@ -41619,7 +41618,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0723",
+  "incident_id": "INC-0725",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -41675,7 +41674,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0724",
+  "incident_id": "INC-0726",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -41739,7 +41738,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0725",
+  "incident_id": "INC-0727",
   "geo_precision": "none"
  },
  {
@@ -41794,7 +41793,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0726",
+  "incident_id": "INC-0728",
   "geo_precision": "none"
  },
  {
@@ -41843,7 +41842,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0727",
+  "incident_id": "INC-0729",
   "lat": 38.0622276,
   "lng": 25.7205887,
   "geo_precision": "geocoded"
@@ -41898,7 +41897,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0728",
+  "incident_id": "INC-0730",
   "lat": 25.029422,
   "lng": -77.361956,
   "geo_precision": "geocoded"
@@ -41947,7 +41946,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0729",
+  "incident_id": "INC-0731",
   "lat": 38.0622276,
   "lng": 25.7205887,
   "geo_precision": "geocoded"
@@ -42003,7 +42002,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0730",
+  "incident_id": "INC-0732",
   "lat": 26.5,
   "lng": 52.0,
   "geo_precision": "approx-region"
@@ -42039,10 +42038,9 @@
    "military-other"
   ],
   "agencies": [
-   "CENTCOM",
-   "Department of War"
+   "CENTCOM"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -42068,7 +42066,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0731",
+  "incident_id": "INC-0733",
   "lat": 34.6401861,
   "lng": 39.0494106,
   "geo_precision": "geocoded"
@@ -42124,7 +42122,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0732",
+  "incident_id": "INC-0734",
   "lat": 37.0875143,
   "lng": -76.3572224,
   "geo_precision": "geocoded"
@@ -42173,7 +42171,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0733",
+  "incident_id": "INC-0735",
   "lat": 14.0,
   "lng": 114.0,
   "geo_precision": "approx-region"
@@ -42222,7 +42220,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0734",
+  "incident_id": "INC-0736",
   "lat": 28.0,
   "lng": 125.0,
   "geo_precision": "approx-region"
@@ -42271,7 +42269,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0735",
+  "incident_id": "INC-0737",
   "lat": 28.0,
   "lng": 125.0,
   "geo_precision": "approx-region"
@@ -42328,7 +42326,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0736",
+  "incident_id": "INC-0738",
   "lat": 25.029422,
   "lng": -77.361956,
   "geo_precision": "geocoded"
@@ -42377,7 +42375,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0737",
+  "incident_id": "INC-0739",
   "lat": 35.0,
   "lng": 18.0,
   "geo_precision": "approx-region"
@@ -42438,7 +42436,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0738",
+  "incident_id": "INC-0740",
   "lat": 31.5856126,
   "lng": -102.8826804,
   "geo_precision": "geocoded"
@@ -42494,7 +42492,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0739",
+  "incident_id": "INC-0741",
   "geo_precision": "none"
  },
  {
@@ -42541,7 +42539,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0740",
+  "incident_id": "INC-0742",
   "lat": 24.2138029,
   "lng": 58.9845823,
   "geo_precision": "geocoded"
@@ -42577,10 +42575,9 @@
    "military-other"
   ],
   "agencies": [
-   "CENTCOM",
-   "Department of War"
+   "CENTCOM"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -42608,7 +42605,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0741",
+  "incident_id": "INC-0743",
   "lat": 12.5,
   "lng": 47.5,
   "geo_precision": "approx-region"
@@ -42642,10 +42639,9 @@
    "military-other"
   ],
   "agencies": [
-   "CENTCOM",
-   "Department of War"
+   "CENTCOM"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -42672,7 +42668,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0742",
+  "incident_id": "INC-0744",
   "geo_precision": "none"
  },
  {
@@ -42738,7 +42734,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0743",
+  "incident_id": "INC-0745",
   "lat": 43.039163,
   "lng": -87.9030526,
   "geo_precision": "geocoded"
@@ -42773,10 +42769,9 @@
    "military-other"
   ],
   "agencies": [
-   "CENTCOM",
-   "Department of War"
+   "CENTCOM"
   ],
-  "n_agencies": 2,
+  "n_agencies": 1,
   "n_source_docs": 2,
   "explanation_status": "unexplained",
   "explanation": "",
@@ -42804,7 +42799,7 @@
    }
   ],
   "n_records_merged": 2,
-  "incident_id": "INC-0744",
+  "incident_id": "INC-0746",
   "lat": 34.6401861,
   "lng": 39.0494106,
   "geo_precision": "geocoded"
@@ -42883,7 +42878,7 @@
    }
   ],
   "n_records_merged": 3,
-  "incident_id": "INC-0745",
+  "incident_id": "INC-0747",
   "lat": 43.039163,
   "lng": -87.9030526,
   "geo_precision": "geocoded"
@@ -42941,7 +42936,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0746",
+  "incident_id": "INC-0748",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -43000,7 +42995,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0747",
+  "incident_id": "INC-0749",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -43055,7 +43050,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0748",
+  "incident_id": "INC-0750",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -43112,7 +43107,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0749",
+  "incident_id": "INC-0751",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -43167,7 +43162,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0750",
+  "incident_id": "INC-0752",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -43222,7 +43217,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0751",
+  "incident_id": "INC-0753",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -43271,7 +43266,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0752",
+  "incident_id": "INC-0754",
   "lat": 11.8145966,
   "lng": 42.8453061,
   "geo_precision": "geocoded"
@@ -43327,7 +43322,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0753",
+  "incident_id": "INC-0755",
   "lat": 40.0,
   "lng": -112.0,
   "geo_precision": "approx-region"
@@ -43376,7 +43371,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0754",
+  "incident_id": "INC-0756",
   "lat": 36.0000002,
   "lng": 123.9999998,
   "geo_precision": "geocoded"
@@ -43425,7 +43420,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0755",
+  "incident_id": "INC-0757",
   "lat": 28.0,
   "lng": 125.0,
   "geo_precision": "approx-region"
@@ -43476,7 +43471,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0756",
+  "incident_id": "INC-0758",
   "geo_precision": "none"
  },
  {
@@ -43525,7 +43520,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0757",
+  "incident_id": "INC-0759",
   "geo_precision": "none"
  },
  {
@@ -43576,7 +43571,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0758",
+  "incident_id": "INC-0760",
   "geo_precision": "none"
  },
  {
@@ -43630,7 +43625,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0759",
+  "incident_id": "INC-0761",
   "lat": 43.039163,
   "lng": -87.9030526,
   "geo_precision": "geocoded"
@@ -43783,7 +43778,7 @@
    }
   ],
   "n_records_merged": 11,
-  "incident_id": "INC-0760",
+  "incident_id": "INC-0762",
   "lat": 40.0,
   "lng": -112.0,
   "geo_precision": "approx-region"
@@ -43843,7 +43838,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0761",
+  "incident_id": "INC-0763",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -43896,7 +43891,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0762",
+  "incident_id": "INC-0764",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -43945,7 +43940,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0763",
+  "incident_id": "INC-0765",
   "geo_precision": "none"
  },
  {
@@ -43997,7 +43992,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0764",
+  "incident_id": "INC-0766",
   "geo_precision": "none"
  },
  {
@@ -44046,7 +44041,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0765",
+  "incident_id": "INC-0767",
   "geo_precision": "none"
  },
  {
@@ -44097,7 +44092,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0766",
+  "incident_id": "INC-0768",
   "geo_precision": "none"
  },
  {
@@ -44146,7 +44141,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0767",
+  "incident_id": "INC-0769",
   "geo_precision": "none"
  },
  {
@@ -44193,7 +44188,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0768",
+  "incident_id": "INC-0770",
   "geo_precision": "none"
  },
  {
@@ -44240,7 +44235,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0769",
+  "incident_id": "INC-0771",
   "geo_precision": "none"
  },
  {
@@ -44288,7 +44283,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0770",
+  "incident_id": "INC-0772",
   "geo_precision": "none"
  },
  {
@@ -44341,7 +44336,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0771",
+  "incident_id": "INC-0773",
   "lat": 35.0,
   "lng": -50.0,
   "geo_precision": "approx-region"
@@ -44396,7 +44391,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0772",
+  "incident_id": "INC-0774",
   "lat": 37.1765141,
   "lng": -94.3103412,
   "geo_precision": "geocoded"
@@ -44443,7 +44438,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0773",
+  "incident_id": "INC-0775",
   "geo_precision": "none"
  },
  {
@@ -44492,7 +44487,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0774",
+  "incident_id": "INC-0776",
   "lat": 40.0,
   "lng": -112.0,
   "geo_precision": "approx-region"
@@ -44543,7 +44538,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0775",
+  "incident_id": "INC-0777",
   "lat": 40.0,
   "lng": -112.0,
   "geo_precision": "approx-region"
@@ -44594,7 +44589,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0776",
+  "incident_id": "INC-0778",
   "lat": 40.0,
   "lng": -112.0,
   "geo_precision": "approx-region"
@@ -44645,7 +44640,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0777",
+  "incident_id": "INC-0779",
   "lat": 40.0,
   "lng": -112.0,
   "geo_precision": "approx-region"
@@ -44698,7 +44693,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0778",
+  "incident_id": "INC-0780",
   "geo_precision": "none"
  },
  {
@@ -44749,7 +44744,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0779",
+  "incident_id": "INC-0781",
   "geo_precision": "none"
  },
  {
@@ -44799,7 +44794,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0780",
+  "incident_id": "INC-0782",
   "lat": 20.0,
   "lng": -150.0,
   "geo_precision": "approx-region"
@@ -44852,7 +44847,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0781",
+  "incident_id": "INC-0783",
   "lat": 43.6166163,
   "lng": -116.200886,
   "geo_precision": "geocoded"
@@ -44907,7 +44902,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0782",
+  "incident_id": "INC-0784",
   "lat": 39.4562528,
   "lng": -77.9639604,
   "geo_precision": "geocoded"
@@ -44959,7 +44954,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0783",
+  "incident_id": "INC-0785",
   "geo_precision": "none"
  },
  {
@@ -45009,7 +45004,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0784",
+  "incident_id": "INC-0786",
   "geo_precision": "none"
  },
  {
@@ -45058,7 +45053,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0785",
+  "incident_id": "INC-0787",
   "lat": 40.0,
   "lng": -112.0,
   "geo_precision": "approx-region"
@@ -45109,7 +45104,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0786",
+  "incident_id": "INC-0788",
   "lat": 40.0,
   "lng": -112.0,
   "geo_precision": "approx-region"
@@ -45161,7 +45156,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0787",
+  "incident_id": "INC-0789",
   "lat": 40.0,
   "lng": -112.0,
   "geo_precision": "approx-region"
@@ -45212,7 +45207,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0788",
+  "incident_id": "INC-0790",
   "lat": 40.0,
   "lng": -112.0,
   "geo_precision": "approx-region"
@@ -45268,7 +45263,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0789",
+  "incident_id": "INC-0791",
   "geo_precision": "off-earth"
  },
  {
@@ -45316,7 +45311,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0790",
+  "incident_id": "INC-0792",
   "geo_precision": "none"
  },
  {
@@ -45367,7 +45362,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0791",
+  "incident_id": "INC-0793",
   "lat": 43.039163,
   "lng": -87.9030526,
   "geo_precision": "geocoded"
@@ -45416,7 +45411,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0792",
+  "incident_id": "INC-0794",
   "geo_precision": "none"
  },
  {
@@ -45463,7 +45458,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0793",
+  "incident_id": "INC-0795",
   "geo_precision": "off-earth"
  },
  {
@@ -45512,7 +45507,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0794",
+  "incident_id": "INC-0796",
   "geo_precision": "none"
  },
  {
@@ -45563,7 +45558,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0795",
+  "incident_id": "INC-0797",
   "lat": 35.0,
   "lng": -50.0,
   "geo_precision": "approx-region"
@@ -45616,7 +45611,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0796",
+  "incident_id": "INC-0798",
   "lat": 41.9757238,
   "lng": -86.5654636,
   "geo_precision": "geocoded"
@@ -45669,7 +45664,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0797",
+  "incident_id": "INC-0799",
   "lat": 37.4137536,
   "lng": -79.1422464,
   "geo_precision": "geocoded"
@@ -45719,7 +45714,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0798",
+  "incident_id": "INC-0800",
   "geo_precision": "none"
  },
  {
@@ -45776,7 +45771,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0799",
+  "incident_id": "INC-0801",
   "geo_precision": "none"
  },
  {
@@ -45822,7 +45817,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0800",
+  "incident_id": "INC-0802",
   "lat": 33.3943282,
   "lng": -104.5229518,
   "geo_precision": "geocoded"
@@ -45872,7 +45867,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0801",
+  "incident_id": "INC-0803",
   "geo_precision": "none"
  },
  {
@@ -45918,7 +45913,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0802",
+  "incident_id": "INC-0804",
   "geo_precision": "none"
  },
  {
@@ -45965,7 +45960,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0803",
+  "incident_id": "INC-0805",
   "geo_precision": "none"
  },
  {
@@ -46013,7 +46008,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0804",
+  "incident_id": "INC-0806",
   "geo_precision": "none"
  },
  {
@@ -46066,7 +46061,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0805",
+  "incident_id": "INC-0807",
   "lat": 25.0,
   "lng": -90.0,
   "geo_precision": "approx-region"
@@ -46120,7 +46115,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0806",
+  "incident_id": "INC-0808",
   "lat": 29.2733964,
   "lng": 47.4979476,
   "geo_precision": "geocoded"
@@ -46175,7 +46170,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0807",
+  "incident_id": "INC-0809",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -46223,7 +46218,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0808",
+  "incident_id": "INC-0810",
   "geo_precision": "none"
  },
  {
@@ -46276,7 +46271,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0809",
+  "incident_id": "INC-0811",
   "geo_precision": "none"
  },
  {
@@ -46323,7 +46318,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0810",
+  "incident_id": "INC-0812",
   "geo_precision": "none"
  },
  {
@@ -46375,7 +46370,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0811",
+  "incident_id": "INC-0813",
   "lat": 23.6585116,
   "lng": -102.0077097,
   "geo_precision": "geocoded"
@@ -46422,7 +46417,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0812",
+  "incident_id": "INC-0814",
   "geo_precision": "off-earth"
  },
  {
@@ -46467,7 +46462,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0813",
+  "incident_id": "INC-0815",
   "geo_precision": "off-earth"
  },
  {
@@ -46512,7 +46507,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0814",
+  "incident_id": "INC-0816",
   "geo_precision": "off-earth"
  },
  {
@@ -46559,7 +46554,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0815",
+  "incident_id": "INC-0817",
   "geo_precision": "none"
  },
  {
@@ -46612,7 +46607,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0816",
+  "incident_id": "INC-0818",
   "lat": 61.2349028,
   "lng": -149.5969223,
   "geo_precision": "geocoded"
@@ -46661,7 +46656,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0817",
+  "incident_id": "INC-0819",
   "geo_precision": "none"
  },
  {
@@ -46711,7 +46706,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0818",
+  "incident_id": "INC-0820",
   "geo_precision": "none"
  },
  {
@@ -46759,7 +46754,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0819",
+  "incident_id": "INC-0821",
   "geo_precision": "none"
  },
  {
@@ -46808,7 +46803,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0820",
+  "incident_id": "INC-0822",
   "geo_precision": "none"
  },
  {
@@ -46855,7 +46850,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0821",
+  "incident_id": "INC-0823",
   "geo_precision": "none"
  },
  {
@@ -46904,7 +46899,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0822",
+  "incident_id": "INC-0824",
   "lat": 40.0,
   "lng": -112.0,
   "geo_precision": "approx-region"
@@ -46956,7 +46951,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0823",
+  "incident_id": "INC-0825",
   "lat": 40.0,
   "lng": -112.0,
   "geo_precision": "approx-region"
@@ -47007,7 +47002,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0824",
+  "incident_id": "INC-0826",
   "lat": 40.0,
   "lng": -112.0,
   "geo_precision": "approx-region"
@@ -47058,7 +47053,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0825",
+  "incident_id": "INC-0827",
   "lat": 40.0,
   "lng": -112.0,
   "geo_precision": "approx-region"
@@ -47109,7 +47104,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0826",
+  "incident_id": "INC-0828",
   "lat": 40.0,
   "lng": -112.0,
   "geo_precision": "approx-region"
@@ -47160,7 +47155,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0827",
+  "incident_id": "INC-0829",
   "lat": 40.0,
   "lng": -112.0,
   "geo_precision": "approx-region"
@@ -47211,7 +47206,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0828",
+  "incident_id": "INC-0830",
   "lat": 40.0,
   "lng": -112.0,
   "geo_precision": "approx-region"
@@ -47262,7 +47257,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0829",
+  "incident_id": "INC-0831",
   "lat": 40.0,
   "lng": -112.0,
   "geo_precision": "approx-region"
@@ -47313,7 +47308,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0830",
+  "incident_id": "INC-0832",
   "lat": 40.0,
   "lng": -112.0,
   "geo_precision": "approx-region"
@@ -47364,7 +47359,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0831",
+  "incident_id": "INC-0833",
   "lat": 40.0,
   "lng": -112.0,
   "geo_precision": "approx-region"
@@ -47415,7 +47410,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0832",
+  "incident_id": "INC-0834",
   "lat": 40.0,
   "lng": -112.0,
   "geo_precision": "approx-region"
@@ -47466,7 +47461,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0833",
+  "incident_id": "INC-0835",
   "lat": 40.0,
   "lng": -112.0,
   "geo_precision": "approx-region"
@@ -47517,7 +47512,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0834",
+  "incident_id": "INC-0836",
   "lat": 40.0,
   "lng": -112.0,
   "geo_precision": "approx-region"
@@ -47573,7 +47568,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0835",
+  "incident_id": "INC-0837",
   "geo_precision": "off-earth"
  },
  {
@@ -47625,7 +47620,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0836",
+  "incident_id": "INC-0838",
   "geo_precision": "off-earth"
  },
  {
@@ -47672,7 +47667,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0837",
+  "incident_id": "INC-0839",
   "geo_precision": "off-earth"
  },
  {
@@ -47721,7 +47716,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0838",
+  "incident_id": "INC-0840",
   "geo_precision": "off-earth"
  },
  {
@@ -47768,7 +47763,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0839",
+  "incident_id": "INC-0841",
   "lat": 35.0,
   "lng": 18.0,
   "geo_precision": "approx-region"
@@ -47819,7 +47814,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0840",
+  "incident_id": "INC-0842",
   "geo_precision": "none"
  },
  {
@@ -47848,7 +47843,7 @@
    "unknown"
   ],
   "agencies": [
-   "Department of Energy"
+   "AEC/DOE"
   ],
   "n_agencies": 1,
   "n_source_docs": 1,
@@ -47866,7 +47861,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0841",
+  "incident_id": "INC-0843",
   "geo_precision": "none"
  },
  {
@@ -47915,7 +47910,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0842",
+  "incident_id": "INC-0844",
   "lat": 25.029422,
   "lng": -77.361956,
   "geo_precision": "geocoded"
@@ -47966,7 +47961,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0843",
+  "incident_id": "INC-0845",
   "lat": 25.029422,
   "lng": -77.361956,
   "geo_precision": "geocoded"
@@ -48017,7 +48012,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0844",
+  "incident_id": "INC-0846",
   "lat": 21.360808,
   "lng": -157.9356587,
   "geo_precision": "geocoded"
@@ -48068,7 +48063,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0845",
+  "incident_id": "INC-0847",
   "lat": 10.3357315,
   "lng": 123.9011738,
   "geo_precision": "geocoded"
@@ -48119,7 +48114,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0846",
+  "incident_id": "INC-0848",
   "lat": 59.952788,
   "lng": 10.7648999,
   "geo_precision": "geocoded"
@@ -48170,7 +48165,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0847",
+  "incident_id": "INC-0849",
   "lat": 10.3357315,
   "lng": 123.9011738,
   "geo_precision": "geocoded"
@@ -48217,7 +48212,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0848",
+  "incident_id": "INC-0850",
   "geo_precision": "none"
  },
  {
@@ -48262,7 +48257,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0849",
+  "incident_id": "INC-0851",
   "geo_precision": "none"
  },
  {
@@ -48307,7 +48302,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0850",
+  "incident_id": "INC-0852",
   "geo_precision": "none"
  },
  {
@@ -48354,7 +48349,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0851",
+  "incident_id": "INC-0853",
   "lat": 42.4913744,
   "lng": 44.9961252,
   "geo_precision": "geocoded"
@@ -48403,7 +48398,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0852",
+  "incident_id": "INC-0854",
   "geo_precision": "none"
  },
  {
@@ -48448,7 +48443,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0853",
+  "incident_id": "INC-0855",
   "geo_precision": "none"
  },
  {
@@ -48493,7 +48488,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0854",
+  "incident_id": "INC-0856",
   "geo_precision": "none"
  },
  {
@@ -48543,7 +48538,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0855",
+  "incident_id": "INC-0857",
   "lat": 41.7120775,
   "lng": -112.165779,
   "geo_precision": "geocoded"
@@ -48593,7 +48588,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0856",
+  "incident_id": "INC-0858",
   "geo_precision": "none"
  },
  {
@@ -48680,7 +48675,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0857",
+  "incident_id": "INC-0859",
   "geo_precision": "none"
  },
  {
@@ -48727,7 +48722,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0858",
+  "incident_id": "INC-0860",
   "geo_precision": "none"
  },
  {
@@ -48814,7 +48809,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0859",
+  "incident_id": "INC-0861",
   "geo_precision": "none"
  },
  {
@@ -48863,7 +48858,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0860",
+  "incident_id": "INC-0862",
   "geo_precision": "none"
  },
  {
@@ -48908,7 +48903,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0861",
+  "incident_id": "INC-0863",
   "geo_precision": "none"
  },
  {
@@ -48961,7 +48956,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0862",
+  "incident_id": "INC-0864",
   "lat": 38.737213,
   "lng": -104.8808063,
   "geo_precision": "geocoded"
@@ -49010,7 +49005,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0863",
+  "incident_id": "INC-0865",
   "geo_precision": "none"
  },
  {
@@ -49061,7 +49056,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0864",
+  "incident_id": "INC-0866",
   "lat": 43.039163,
   "lng": -87.9030526,
   "geo_precision": "geocoded"
@@ -49110,7 +49105,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0865",
+  "incident_id": "INC-0867",
   "geo_precision": "none"
  },
  {
@@ -49158,7 +49153,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0866",
+  "incident_id": "INC-0868",
   "geo_precision": "none"
  },
  {
@@ -49205,7 +49200,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0867",
+  "incident_id": "INC-0869",
   "geo_precision": "none"
  },
  {
@@ -49252,7 +49247,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0868",
+  "incident_id": "INC-0870",
   "geo_precision": "none"
  },
  {
@@ -49297,7 +49292,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0869",
+  "incident_id": "INC-0871",
   "geo_precision": "off-earth"
  },
  {
@@ -49349,7 +49344,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0870",
+  "incident_id": "INC-0872",
   "lat": 25.029422,
   "lng": -77.361956,
   "geo_precision": "geocoded"
@@ -49405,7 +49400,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0871",
+  "incident_id": "INC-0873",
   "geo_precision": "off-earth"
  },
  {
@@ -49456,7 +49451,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0872",
+  "incident_id": "INC-0874",
   "lat": 39.7837304,
   "lng": -100.445882,
   "geo_precision": "geocoded"
@@ -49489,7 +49484,7 @@
    "civilian"
   ],
   "agencies": [
-   "Department of Energy"
+   "AEC/DOE"
   ],
   "n_agencies": 1,
   "n_source_docs": 1,
@@ -49509,7 +49504,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0873",
+  "incident_id": "INC-0875",
   "lat": 33.3943282,
   "lng": -104.5229518,
   "geo_precision": "geocoded"
@@ -49562,7 +49557,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0874",
+  "incident_id": "INC-0876",
   "lat": 39.0057931,
   "lng": -84.1404082,
   "geo_precision": "geocoded"
@@ -49613,7 +49608,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0875",
+  "incident_id": "INC-0877",
   "geo_precision": "none"
  },
  {
@@ -49662,9 +49657,110 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0876",
+  "incident_id": "INC-0878",
   "lat": 41.157557,
   "lng": -81.242047,
+  "geo_precision": "geocoded"
+ },
+ {
+  "date": "",
+  "date_key": [
+   9999,
+   0,
+   0
+  ],
+  "date_precision": "unknown",
+  "time_of_day": "unknown",
+  "time_local": "",
+  "location": "",
+  "country": "",
+  "shape": "round ball",
+  "size": "6 to 8 inches",
+  "color": "white",
+  "object_count": "",
+  "behavior": [
+   "evasive maneuvers",
+   "blinked off and on",
+   "continuous light at high performance"
+  ],
+  "duration": "",
+  "sensors": [],
+  "witness_count": "4",
+  "witness_types": [
+   "government-civilian"
+  ],
+  "agencies": [
+   "USAF"
+  ],
+  "n_agencies": 1,
+  "n_source_docs": 1,
+  "explanation_status": "not-assessed",
+  "explanation": "",
+  "summary": "A small round ball of clear white light observed by multiple witnesses, including air traffic controllers, performing evasive maneuvers.",
+  "confidence": "high",
+  "sources": [
+   {
+    "doc_id": "pursue-r4--dow-uap-d094",
+    "file": "pursue-r4--dow-uap-d094.md",
+    "collection": "PURSUE-R4",
+    "page_refs": [],
+    "quote": ""
+   }
+  ],
+  "n_records_merged": 1,
+  "incident_id": "INC-0879",
+  "geo_precision": "none"
+ },
+ {
+  "date": "",
+  "date_key": [
+   9999,
+   0,
+   0
+  ],
+  "date_precision": "unknown",
+  "time_of_day": "unknown",
+  "time_local": "",
+  "location": "South Bend, Indiana",
+  "country": "United States",
+  "shape": "semi-circular",
+  "size": "",
+  "color": "",
+  "object_count": "",
+  "behavior": [
+   "in flight"
+  ],
+  "duration": "",
+  "sensors": [
+   "visual",
+   "photo"
+  ],
+  "witness_count": "",
+  "witness_types": [],
+  "agencies": [
+   "USAF"
+  ],
+  "n_agencies": 1,
+  "n_source_docs": 1,
+  "explanation_status": "partially-explained",
+  "explanation": "",
+  "summary": "Observation of an ARUP Tailless Monoplane in flight at South Bend, Indiana, as depicted in an Air Force film titled Aeronautical Oddities.",
+  "confidence": "medium",
+  "sources": [
+   {
+    "doc_id": "pursue-r4--dow-uap-d094",
+    "file": "pursue-r4--dow-uap-d094.md",
+    "collection": "PURSUE-R4",
+    "page_refs": [
+     31
+    ],
+    "quote": "An Air Force film, Aeronautical Oddities, shows this airplane in flight at South Bend, Indiana"
+   }
+  ],
+  "n_records_merged": 1,
+  "incident_id": "INC-0880",
+  "lat": 41.6833813,
+  "lng": -86.2500066,
   "geo_precision": "geocoded"
  },
  {
@@ -49711,7 +49807,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0877",
+  "incident_id": "INC-0881",
   "geo_precision": "none"
  },
  {
@@ -49758,7 +49854,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0878",
+  "incident_id": "INC-0882",
   "geo_precision": "none"
  },
  {
@@ -49807,7 +49903,7 @@
    }
   ],
   "n_records_merged": 1,
-  "incident_id": "INC-0879",
+  "incident_id": "INC-0883",
   "geo_precision": "off-earth"
  }
 ]

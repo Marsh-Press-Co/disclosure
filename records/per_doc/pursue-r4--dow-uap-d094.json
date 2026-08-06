@@ -8,8 +8,8 @@
  "index_date": "4/28/49",
  "index_location": "Virginia",
  "model": "gemini-3.1-flash-lite",
- "chunks": 1,
- "doc_notes": "This document is a 1948 Air Intelligence Division study analyzing UAP reports and potential Soviet technological threats, including appendices on flying wing aircraft and selected incident reports.",
+ "chunks": 3,
+ "doc_notes": "This document is a 1948 Air Intelligence Division study analyzing UAP reports and potential Soviet origins, containing a catalog of selected incidents. / This document is a 1949 USAF Air Intelligence Division study analyzing UAP reports and potential explanations, including experimental aircraft. / This document is a technical study by the USAF Air Intelligence Division (Study No. 203) analyzing various aircraft designs and their potential to be misidentified as UFOs, including a register of personnel handling the document.",
  "incidents": [
   {
    "summary": "Weather Bureau personnel observed metallic disks through a theodolite on three occasions.",
@@ -24,14 +24,14 @@
    "date": "1947-04",
    "location_name": "Richmond, Virginia",
    "shape": "disk",
-   "size": "large",
    "witness_types": [
     "government-civilian",
-    "government-civilian"
-   ]
+    "scientist"
+   ],
+   "recording_agency": "USAF"
   },
   {
-   "summary": "Field engineer reported a disk flying near his home.",
+   "summary": "Byron B. Savage observed a disk flying at high speed.",
    "date_precision": "month",
    "time_of_day": "unknown",
    "confidence": "medium",
@@ -44,10 +44,11 @@
    "shape": "disk",
    "witness_types": [
     "civilian"
-   ]
+   ],
+   "recording_agency": "USAF"
   },
   {
-   "summary": "Air Force lieutenant reported five or six white circular objects in formation.",
+   "summary": "Air Force lieutenant observed five or six white circular objects in formation.",
    "date_precision": "day",
    "time_of_day": "unknown",
    "confidence": "high",
@@ -61,26 +62,26 @@
    "shape": "circular",
    "witness_types": [
     "military-pilot"
-   ]
+   ],
+   "recording_agency": "USAF"
   },
   {
-   "summary": "Three observers reported a large disk or sphere moving horizontally.",
+   "summary": "Three observers saw a large disk or sphere moving horizontally at high speed.",
    "date_precision": "day",
    "time_of_day": "unknown",
    "confidence": "high",
    "behavior": [
-    "moving horizontally",
-    "high speed"
+    "horizontal flight"
    ],
    "country": "United States",
    "date": "1947-06-29",
-   "location_name": "White Sand, New Mexico",
+   "location_name": "White Sands, New Mexico",
    "shape": "disk or sphere",
    "witness_types": [
     "scientist",
-    "scientist",
     "civilian"
-   ]
+   ],
+   "recording_agency": "USAF"
   },
   {
    "summary": "Five police officers reported disks flying over the city.",
@@ -93,7 +94,8 @@
    "shape": "disk",
    "witness_types": [
     "federal-le"
-   ]
+   ],
+   "recording_agency": "USAF"
   },
   {
    "summary": "William Rhoads observed and photographed a disk-like object.",
@@ -106,26 +108,22 @@
    "country": "United States",
    "date": "1947-07-07",
    "location_name": "Phoenix, Arizona",
-   "page_refs": [
-    13
-   ],
-   "quote": "disk-like object with a round front and a square tail",
    "sensors": [
     "photo"
    ],
    "shape": "disk",
    "witness_types": [
     "civilian"
-   ]
+   ],
+   "recording_agency": "USAF"
   },
   {
-   "summary": "Mechanic reported a circular object leaving a trail.",
+   "summary": "Mechanic observed a circular object leaving a trail in the clouds.",
    "date_precision": "day",
    "time_of_day": "unknown",
-   "confidence": "medium",
+   "confidence": "high",
    "behavior": [
-    "high velocity",
-    "paralleling earth's surface"
+    "high velocity"
    ],
    "country": "Canada",
    "date": "1947-07-10",
@@ -136,10 +134,11 @@
    "shape": "circular",
    "witness_types": [
     "civilian"
-   ]
+   ],
+   "recording_agency": "USAF"
   },
   {
-   "summary": "Kenneth Arnold reported a formation of flying objects.",
+   "summary": "Kenneth Arnold observed a formation of flying objects.",
    "date_precision": "day",
    "time_of_day": "unknown",
    "confidence": "high",
@@ -149,12 +148,14 @@
    "country": "United States",
    "date": "1947-07-20",
    "location_name": "Tacoma, Washington",
+   "shape": "disk",
    "witness_types": [
     "civilian"
-   ]
+   ],
+   "recording_agency": "USAF"
   },
   {
-   "summary": "Two Air Force pilots reported two disks trailing a P-80.",
+   "summary": "Two Air Force pilots observed two disks trailing a P-80.",
    "date_precision": "day",
    "time_of_day": "unknown",
    "confidence": "high",
@@ -166,45 +167,46 @@
    "location_name": "Hamilton Field, California",
    "shape": "disk",
    "witness_types": [
-    "military-pilot",
     "military-pilot"
-   ]
+   ],
+   "recording_agency": "USAF"
   },
   {
-   "summary": "Pilot and co-pilot reported a disk larger than their aircraft.",
+   "summary": "Pilot and co-pilot observed a disk larger than their aircraft.",
    "date_precision": "day",
    "time_of_day": "unknown",
    "confidence": "high",
    "behavior": [
-    "chased"
+    "evasive"
    ],
    "country": "United States",
    "date": "1947-08-04",
    "location_name": "Bethel, Alaska",
    "shape": "disk",
    "witness_types": [
-    "civilian",
     "civilian"
-   ]
+   ],
+   "recording_agency": "USAF"
   },
   {
-   "summary": "Second officer of tanker reported two disks trailing fire.",
+   "summary": "Crew of the tanker Ticonderoga observed two disks trailing fire.",
    "date_precision": "day",
    "time_of_day": "unknown",
    "confidence": "medium",
    "behavior": [
-    "curving in a long, low arc"
+    "curving in arc"
    ],
    "country": "United States",
-   "date": "1947-10-10",
+   "date": "1947-11-10",
    "location_name": "Oregon coast",
    "shape": "disk",
    "witness_types": [
     "civilian"
-   ]
+   ],
+   "recording_agency": "USAF"
   },
   {
-   "summary": "National Guard pilot killed while attempting to intercept a large metallic object.",
+   "summary": "National Guard pilot killed while attempting to intercept a metallic object.",
    "date_precision": "day",
    "time_of_day": "unknown",
    "confidence": "high",
@@ -215,14 +217,15 @@
    "country": "United States",
    "date": "1948-01-07",
    "location_name": "Kentucky",
+   "quote": "it appears to be metallic object",
    "shape": "unknown",
-   "size": "tremendous",
    "witness_types": [
     "military-pilot"
-   ]
+   ],
+   "recording_agency": "USAF"
   },
   {
-   "summary": "Three balloon observers reported a round object executing violent maneuvers.",
+   "summary": "Three observers reported a round object executing violent maneuvers.",
    "date_precision": "day",
    "time_of_day": "unknown",
    "confidence": "high",
@@ -234,30 +237,31 @@
    "location_name": "Rollman Air Force Base, New Mexico",
    "shape": "round",
    "witness_types": [
-    "scientist",
-    "scientist",
-    "scientist"
-   ]
+    "military-other"
+   ],
+   "recording_agency": "USAF"
   },
   {
-   "summary": "Lt. Comdr. reported a yellow or light colored sphere.",
+   "summary": "Lt. Comdr. Marcus L. Lowe observed a yellow or light colored sphere.",
    "date_precision": "day",
    "time_of_day": "unknown",
    "confidence": "high",
+   "color": "yellow",
    "country": "United States",
    "date": "1948-04-30",
-   "location_name": "Anacostia Naval Air Station, D.C.",
+   "location_name": "Anacostia, D.C.",
    "shape": "sphere",
    "size": "25 to 40 feet",
    "witness_types": [
     "military-pilot"
-   ]
+   ],
+   "recording_agency": "USAF"
   },
   {
    "summary": "Major Hammer reported twelve oval-shaped disks.",
    "date_precision": "day",
    "time_of_day": "unknown",
-   "confidence": "medium",
+   "confidence": "high",
    "behavior": [
     "climbing turn",
     "accelerating"
@@ -266,48 +270,49 @@
    "date": "1948-07-01",
    "location_name": "Rapid City Air Base",
    "shape": "oval",
-   "size": "100 feet long",
+   "size": "100 feet",
    "witness_types": [
     "military-other"
-   ]
-  },
-  {
-   "summary": "Seven objects reported in J-formation.",
-   "date_precision": "day",
-   "time_of_day": "unknown",
-   "confidence": "medium",
-   "behavior": [
-    "formation change"
    ],
-   "country": "United States",
-   "date": "1948-07-17",
-   "location_name": "San Acacia, New Mexico",
-   "witness_types": [
-    "unknown"
-   ]
+   "recording_agency": "USAF"
   },
   {
-   "summary": "Pilot and co-pilot saw a blue-white light approaching.",
+   "summary": "Seven objects observed in J-formation.",
    "date_precision": "day",
    "time_of_day": "unknown",
    "confidence": "high",
    "behavior": [
-    "approaching",
-    "withdrawing"
+    "formation flight"
    ],
-   "color": "blue-white",
-   "country": "Pacific Ocean",
-   "date": "1947-09-12",
+   "country": "United States",
+   "date": "1948-07-17",
+   "location_name": "San Acacia, New Mexico",
+   "shape": "unknown",
    "witness_types": [
-    "civilian",
-    "civilian"
-   ]
+    "military-other"
+   ],
+   "recording_agency": "USAF"
   },
   {
-   "summary": "Mr. Booneville observed a reddish glow with jet exhaust.",
+   "summary": "Pilot and co-pilot observed blue-white light changing to twin reddish glows.",
    "date_precision": "day",
    "time_of_day": "unknown",
-   "confidence": "medium",
+   "confidence": "high",
+   "color": "blue-white, reddish",
+   "country": "Pacific Ocean",
+   "date": "1947-09-12",
+   "location_name": "Midway to Honolulu",
+   "shape": "light",
+   "witness_types": [
+    "civilian"
+   ],
+   "recording_agency": "USAF"
+  },
+  {
+   "summary": "Reddish glow with jet exhaust observed.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
    "behavior": [
     "wide arc"
    ],
@@ -315,39 +320,47 @@
    "country": "United States",
    "date": "1948-06-15",
    "location_name": "Miles City, Montana",
+   "shape": "light",
    "witness_types": [
     "civilian"
-   ]
+   ],
+   "recording_agency": "USAF"
   },
   {
-   "summary": "Two Eastern Airlines pilots reported a huge flying craft similar to a V-2.",
+   "summary": "Two pilots observed a huge wingless flying craft.",
    "date_precision": "day",
-   "time_of_day": "night",
+   "time_of_day": "unknown",
    "confidence": "high",
+   "behavior": [
+    "high speed"
+   ],
    "country": "United States",
    "date": "1948-07-26",
-   "shape": "wingless aircraft",
+   "location_name": "United States",
+   "shape": "wingless",
    "witness_types": [
-    "civilian",
     "civilian"
-   ]
+   ],
+   "recording_agency": "USAF"
   },
   {
-   "summary": "Reporter observed an object northeast of Moscow.",
+   "summary": "Reporter observed an object identified by a Russian acquaintance as a rigid airship.",
    "date_precision": "day",
    "time_of_day": "unknown",
    "confidence": "medium",
    "country": "Soviet Union",
    "date": "1948-08-03",
    "location_name": "Moscow",
+   "shape": "rigid airship",
    "witness_types": [
     "civilian"
-   ]
+   ],
+   "recording_agency": "USAF"
   },
   {
-   "summary": "Lt. Gorman pursued an intermittent white light.",
+   "summary": "Pilot George F. Gorman pursued an intermittent white light.",
    "date_precision": "day",
-   "time_of_day": "evening",
+   "time_of_day": "night",
    "confidence": "high",
    "behavior": [
     "evasive"
@@ -356,105 +369,120 @@
    "country": "United States",
    "date": "1948-10-01",
    "location_name": "Fargo, North Dakota",
-   "quote": "small round ball of clear white light",
-   "shape": "round",
-   "size": "6 to 8 inches",
+   "shape": "light",
    "time_local": "2030",
    "witness_types": [
     "military-pilot"
-   ]
+   ],
+   "recording_agency": "USAF"
   },
   {
-   "summary": "Three reserve pilots encountered an unidentified flying object.",
+   "summary": "A small round ball of clear white light observed by multiple witnesses, including air traffic controllers, performing evasive maneuvers.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "evasive maneuvers",
+    "blinked off and on",
+    "continuous light at high performance"
+   ],
+   "color": "white",
+   "shape": "round ball",
+   "size": "6 to 8 inches",
+   "witness_count": "4",
+   "witness_types": [
+    "government-civilian"
+   ],
+   "recording_agency": "USAF"
+  },
+  {
+   "summary": "Three reserve pilots encountered an unidentified lighted object while flying near Andrews Field, Maryland.",
    "date_precision": "day",
    "time_of_day": "night",
    "confidence": "high",
-   "behavior": [
-    "climb vertically",
-    "circle"
-   ],
-   "color": "dull gray",
-   "country": "United States",
    "date": "1948-11-18",
-   "location_name": "Andrews Field, Maryland",
-   "quote": "oblong ball with one light, no wings and no exhaust flame",
-   "shape": "oblong",
    "time_local": "2145",
+   "witness_count": "4",
    "witness_types": [
     "military-pilot",
-    "military-pilot",
-    "military-pilot"
-   ]
+    "military-other"
+   ],
+   "recording_agency": "USAF"
   },
   {
-   "summary": "GCA radar picked up an unidentified target.",
+   "summary": "GCA radar picked up an unidentified target that split into two targets.",
    "date_precision": "day",
    "time_of_day": "unknown",
    "confidence": "medium",
-   "behavior": [
-    "split into two targets"
-   ],
-   "country": "Japan",
    "date": "1947-07-01",
-   "location_name": "Hokkaido",
    "sensors": [
     "radar"
    ],
-   "witness_types": [
-    "military-other"
-   ]
+   "shape": "target",
+   "recording_agency": "USAF"
   },
   {
-   "summary": "MEW radar picked up a target.",
+   "summary": "MEW radar tracked an unidentified target at high speed.",
    "date_precision": "day",
    "time_of_day": "unknown",
    "confidence": "medium",
-   "country": "Japan",
    "date": "1947-09-16",
-   "location_name": "Fukuoka",
    "sensors": [
     "radar"
    ],
-   "witness_types": [
-    "military-other"
-   ]
+   "shape": "target",
+   "recording_agency": "USAF"
   },
   {
-   "summary": "Captain and wife observed an object identified as a balloon.",
+   "summary": "Captain Henry Glover and his wife observed an object in Van Nuys, California, which was later identified as a balloon.",
    "date_precision": "day",
-   "time_of_day": "unknown",
+   "time_of_day": "dusk",
    "confidence": "high",
-   "behavior": [
-    "traveled through a vertical arc"
-   ],
-   "color": "bluish luminescence",
-   "country": "United States",
    "date": "1948-07-22",
    "explanation": "balloon carrying cosmic ray equipment",
    "explanation_status": "explained",
    "location_name": "Van Nuys, California",
-   "shape": "round",
+   "witness_count": "2",
    "witness_types": [
     "military-other",
     "civilian"
-   ]
+   ],
+   "recording_agency": "USAF"
   },
   {
-   "summary": "Object observed at Godman Air Force Base identified as Venus.",
+   "summary": "Unidentified flying object visible from the ground at Godman Air Force Base, later identified as the planet Venus.",
    "date_precision": "day",
    "time_of_day": "morning",
    "confidence": "high",
-   "color": "silver",
-   "country": "United States",
    "date": "1948-08-19",
-   "explanation": "planet Venus",
-   "explanation_status": "explained",
-   "location_name": "Godman Air Force Base, Kentucky",
-   "shape": "spherical",
    "time_local": "1050",
    "witness_types": [
+    "military-pilot",
     "military-other"
-   ]
+   ],
+   "recording_agency": "USAF"
+  },
+  {
+   "summary": "Observation of an ARUP Tailless Monoplane in flight at South Bend, Indiana, as depicted in an Air Force film titled Aeronautical Oddities.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "in flight"
+   ],
+   "country": "United States",
+   "explanation_status": "partially-explained",
+   "location_name": "South Bend, Indiana",
+   "page_refs": [
+    31
+   ],
+   "quote": "An Air Force film, Aeronautical Oddities, shows this airplane in flight at South Bend, Indiana",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual",
+    "photo"
+   ],
+   "shape": "semi-circular"
   }
  ]
 }
