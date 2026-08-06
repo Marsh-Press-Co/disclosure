@@ -18,7 +18,7 @@ import pypdfium2
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 ROOT = Path(__file__).resolve().parents[1]
-SITE = ROOT / "site"
+SITE = ROOT / "docs"
 MEDIA = SITE / "media"
 INCS = json.loads((ROOT / "records" / "incidents.json").read_text(encoding="utf-8"))
 MANIFEST = json.loads((MEDIA / "manifest.json").read_text(encoding="utf-8"))

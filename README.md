@@ -1,4 +1,9 @@
-# Disclosure — UAP Document Knowledge Graph
+# DISCLOSURE — The Paper Trail
+
+**Live site: https://marsh-press-co.github.io/disclosure/** — the U.S.
+government's UAP releases as an explorable, cited archive. Every dot cites
+its paper. A Marsh-Press-Co group project; built by skeptics, with no agenda.
+
 
 Mining the U.S. government's declassified UAP/UFO document releases for non-obvious
 relationships: dates, times of day, locations, craft descriptions, behavior patterns,

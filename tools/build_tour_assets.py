@@ -21,7 +21,7 @@ sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 ROOT = Path(__file__).resolve().parents[1]
 SRC = ROOT / "raw" / "tour_src"
 SRC.mkdir(parents=True, exist_ok=True)
-MEDIA = ROOT / "site" / "media"
+MEDIA = ROOT / "docs" / "media"
 MEDIA.mkdir(exist_ok=True)
 
 ML = "https://www.war.gov/medialink/ufo/release_1/"
