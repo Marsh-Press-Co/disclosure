@@ -1,0 +1,625 @@
+{
+ "doc_id": "pursue-r3--cia-uap-003",
+ "file": "pursue-r3--cia-uap-003.md",
+ "source": "PURSUE-R3",
+ "agency": "CIA",
+ "title": "CIA-UAP-003, The Central Intelligence Agency and Overhead Reconnaissance; The U-2 and OXCART Programs, 1954-1974",
+ "record_type": "document",
+ "index_date": "1954-1974",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 4,
+ "doc_notes": "This document is a CIA History Staff monograph detailing the history of the U-2 and OXCART reconnaissance programs from 1954 to 1974. / This document is a history of the CIA's U-2 and OXCART reconnaissance programs from 1954 to 1974, detailing operational missions and the political context of the Cold War. / This document is a CIA history of the U-2 and OXCART reconnaissance programs from 1954 to 1974, detailing operations, organizational changes, and technical developments. / This document is a CIA History Staff account of the U-2 and OXCART reconnaissance programs from 1954 to 1974, detailing development, operational history, and program termination.",
+ "incidents": [
+  {
+   "summary": "Soviet fighters shot down a US Navy Privateer patrol aircraft over the Baltic Sea.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "aggressive air defense"
+   ],
+   "country": "Soviet Union",
+   "date": "1950-04-08",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    16
+   ],
+   "quote": "Soviet fighters shot down a US Navy Privateer patrol aircraft over the Baltic Sea.",
+   "recording_agency": "CIA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Soviet aircraft downed a US Navy Neptune bomber near Vladivostok.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "aggressive air defense"
+   ],
+   "country": "Soviet Union",
+   "date": "1951",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    16
+   ],
+   "quote": "Soviet aircraft downed a twin-engine US Navy Neptune bomber near Vladivostok.",
+   "recording_agency": "CIA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "US RB-29 lost in the Sea of Japan, likely shot down by Soviet fighters.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "aggressive air defense"
+   ],
+   "country": "Soviet Union",
+   "date": "1952-06-13",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    16
+   ],
+   "quote": "An RB-29 lost in the Sea of Japan on 13 June 1952 was probably also a victim of Soviet fighters.",
+   "recording_agency": "CIA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Soviet fighter aircraft shot down a US RB-29 flying over Hokkaido.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "aggressive air defense"
+   ],
+   "country": "Japan",
+   "date": "1952-10-07",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    17
+   ],
+   "quote": "Soviet fighter aircraft stalked and shot down a US RB-29 flying over Hokkaido.",
+   "recording_agency": "CIA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "RAF Canberra overflight of the Soviet missile test range at Kapustin Yar.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "overflight",
+    "evasive"
+   ],
+   "country": "Soviet Union",
+   "date": "1953",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    36
+   ],
+   "quote": "Soviet fighters damaged and nearly shot down the Canberra.",
+   "recording_agency": "CIA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Francis Gary Powers' U-2 shot down over the Soviet Union.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "shot down"
+   ],
+   "country": "Soviet Union",
+   "date": "1960-05-01",
+   "explanation_status": "explained",
+   "page_refs": [
+    9,
+    11
+   ],
+   "quote": "the Soviet Union shot down a CIA U-2 and publicly tried its pilot, Francis Gary Powers.",
+   "recording_agency": "CIA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "A U-2 on a training flight from Lakenheath inadvertently penetrated the British radar network, causing RAF fighters to scramble.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "inadvertent penetration of radar network"
+   ],
+   "country": "United Kingdom",
+   "date": "1956-05-18",
+   "explanation_status": "explained",
+   "location_name": "Lakenheath",
+   "page_refs": [
+    107
+   ],
+   "quote": "a U-2 on a training flight from Lakenheath inadvertently penetrated the British radar network",
+   "recording_agency": "CIA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "First operational use of a U-2 over Poland and East Germany.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "overflight"
+   ],
+   "country": "Poland",
+   "date": "1956-06-20",
+   "explanation_status": "explained",
+   "location_name": "Poland and East Germany",
+   "page_refs": [
+    113
+   ],
+   "quote": "The first operational use of a U-2 took place on Wednesday, 20 June 1956.",
+   "recording_agency": "CIA",
+   "sensors": [
+    "photo"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "First overflight of the Soviet Union by U-2 Article 347.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "overflight"
+   ],
+   "country": "Soviet Union",
+   "date": "1956-07-04",
+   "explanation_status": "explained",
+   "location_name": "Leningrad",
+   "page_refs": [
+    117
+   ],
+   "quote": "On Wednesday, 4 July 1956, the U-2 known as Article 347 began the first flight over the Soviet Union.",
+   "recording_agency": "CIA",
+   "sensors": [
+    "photo"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "U-2 overflight of Moscow and other targets.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "overflight"
+   ],
+   "country": "Soviet Union",
+   "date": "1956-07-05",
+   "explanation_status": "explained",
+   "location_name": "Moscow",
+   "page_refs": [
+    118
+   ],
+   "quote": "The second overflight, on the following day, continued the search for Bison bombers.",
+   "recording_agency": "CIA",
+   "sensors": [
+    "photo"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "U-2 mission 4016 over Soviet Armenia.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "overflight"
+   ],
+   "country": "Soviet Union",
+   "date": "1956-11-20",
+   "explanation_status": "explained",
+   "location_name": "Yerevan",
+   "page_refs": [
+    137
+   ],
+   "quote": "This mission left Adana and flew east over Iran, then reversed and flew west along the Soviet-Iranian border to Soviet Armenia",
+   "recording_agency": "CIA",
+   "sensors": [
+    "photo"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "U-2 mission 4155 over Saryshagan and Tyuratam.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "overflight"
+   ],
+   "country": "Soviet Union",
+   "date": "1960-04-09",
+   "explanation_status": "explained",
+   "location_name": "Saryshagan",
+   "page_refs": [
+    168
+   ],
+   "quote": "mission 4155 headed first for Saryshagan, where it obtained the first pictures of two new Soviet radars",
+   "recording_agency": "CIA",
+   "sensors": [
+    "photo"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Francis Gary Powers' U-2 downed by SA-2 missile near Sverdlovsk.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "shot down"
+   ],
+   "country": "Soviet Union",
+   "date": "1960-05-01",
+   "explanation_status": "explained",
+   "location_name": "Sverdlovsk",
+   "page_refs": [
+    176
+   ],
+   "quote": "an SA-2 surface-to-air missile detonated close to and just behind his aircraft and disabled it",
+   "recording_agency": "CIA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Francis Gary Powers' U-2 aircraft was shot down over the Soviet Union.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "overflight"
+   ],
+   "country": "Soviet Union",
+   "date": "1960-05-01",
+   "explanation": "Shot down by SA-2 missile.",
+   "explanation_status": "explained",
+   "page_refs": [
+    208,
+    210,
+    214,
+    223
+   ],
+   "quote": "The loss of Francis Gary Powers' U-2 over the Soviet Union on 1 May 1960",
+   "recording_agency": "CIA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "U-2 aircraft",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "A U-2 aircraft with a Nationalist Chinese pilot was shot down over the People's Republic of China.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "overflight"
+   ],
+   "country": "China",
+   "date": "1962-09-08",
+   "explanation": "Shot down by PRC interceptors.",
+   "explanation_status": "explained",
+   "page_refs": [
+    214,
+    218,
+    229
+   ],
+   "quote": "a U-2 with a Nationalist Chinese pilot was shot down over the People's Republic of China",
+   "recording_agency": "CIA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "U-2 aircraft",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "A U-2C aircraft was shot down over Cuba, killing the pilot, Maj. Rudolph Anderson.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "overflight"
+   ],
+   "country": "Cuba",
+   "date": "1962-10-27",
+   "explanation": "Shot down by SA-2 missile.",
+   "explanation_status": "explained",
+   "page_refs": [
+    223
+   ],
+   "quote": "one of the U-2Cs lent by the Agency to the Air Force was shot down over Cuba",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "U-2 aircraft",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "A Nationalist Chinese U-2 pilot was shot down over the PRC.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "overflight"
+   ],
+   "country": "China",
+   "date": "1963-11-01",
+   "explanation": "Shot down by SA-2 missile.",
+   "explanation_status": "explained",
+   "page_refs": [
+    248
+   ],
+   "quote": "a second Project TACKLE U-2 was lost near the Kiangsi-Chekiang border",
+   "recording_agency": "CIA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "U-2 aircraft",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "A Nationalist Chinese U-2 pilot was shot down over the PRC.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "overflight"
+   ],
+   "country": "China",
+   "date": "1964-07-07",
+   "explanation": "Shot down by SA-2 missile.",
+   "explanation_status": "explained",
+   "page_refs": [
+    248,
+    249
+   ],
+   "quote": "This loss came on 7 July 1964.",
+   "recording_agency": "CIA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "U-2 aircraft",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "A U-2C aircraft was shot down in the vicinity of Shanghai.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "overflight"
+   ],
+   "country": "China",
+   "date": "1967-09-08",
+   "explanation": "Shot down by SAM.",
+   "explanation_status": "explained",
+   "page_refs": [
+    255
+   ],
+   "quote": "The U-2C aircraft overflew central China and fell victim to a SAM in the vicinity of Shanghai",
+   "recording_agency": "CIA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "U-2 aircraft",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "A-12 crash near Wendover, Utah due to ice in pitot-static tube.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "crash"
+   ],
+   "country": "United States",
+   "date": "1963-05-24",
+   "explanation": "Ice plugged a pitot-static tube causing erroneous airspeed indication.",
+   "explanation_status": "explained",
+   "location_name": "Wendover, Utah",
+   "page_refs": [
+    308
+   ],
+   "quote": "The first A-12 crash occurred on 24 May 1963",
+   "recording_agency": "CIA",
+   "sensors": [
+    "other"
+   ],
+   "shape": "A-12",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "A-12 article 133 crash during landing due to frozen pitch-control servo.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "crash"
+   ],
+   "country": "United States",
+   "date": "1964-07-09",
+   "explanation": "Pitch-control servo device froze, rolling the plane into a wing-down position.",
+   "explanation_status": "explained",
+   "location_name": "Nevada",
+   "page_refs": [
+    309
+   ],
+   "quote": "On 9 July 1964, article 133 crashed while landing",
+   "recording_agency": "CIA",
+   "sensors": [
+    "other"
+   ],
+   "shape": "A-12",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "A-12 article 126 crash after takeoff due to wiring error.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "crash"
+   ],
+   "country": "United States",
+   "date": "1965-12-28",
+   "explanation": "Improperly wired stability augmentation system.",
+   "explanation_status": "explained",
+   "location_name": "Nevada",
+   "page_refs": [
+    309
+   ],
+   "quote": "on 28 December 1965, article 126 crashed immediately after takeoff",
+   "recording_agency": "CIA",
+   "sensors": [
+    "other"
+   ],
+   "shape": "A-12",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "A-12 crash due to fuel gauge malfunction.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "crash"
+   ],
+   "country": "United States",
+   "date": "1967-01-05",
+   "explanation": "Fuel gauge malfunctioned and the aircraft ran out of fuel.",
+   "explanation_status": "explained",
+   "location_name": "Nevada",
+   "page_refs": [
+    315
+   ],
+   "quote": "on 5 January 1967, an A-12 crashed after a fuel gauge malfunctioned",
+   "recording_agency": "CIA",
+   "sensors": [
+    "other"
+   ],
+   "shape": "A-12",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "A-12 disappearance during test flight.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "disappeared"
+   ],
+   "country": "Philippines",
+   "date": "1968-06-04",
+   "explanation": "Unknown.",
+   "explanation_status": "unexplained",
+   "location_name": "520 miles east of Manila",
+   "page_refs": [
+    324
+   ],
+   "quote": "On 4 June 1968 during a test flight from Kadena to check out a new engine, an A-12 disappeared",
+   "recording_agency": "CIA",
+   "sensors": [
+    "other"
+   ],
+   "shape": "A-12",
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

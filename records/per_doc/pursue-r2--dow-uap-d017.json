@@ -1,0 +1,83 @@
+{
+ "doc_id": "pursue-r2--dow-uap-d017",
+ "file": "pursue-r2--dow-uap-d017.md",
+ "source": "PURSUE-R2",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D017, UAP Reported at Sandia Base, 1948-1950",
+ "record_type": "document",
+ "index_date": "1948-1950",
+ "index_location": "New Mexico",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of reports and correspondence regarding UAP sightings, specifically green fireballs and unidentified lights, near Sandia Base and Camp Hood between 1948 and 1950.",
+ "incidents": [
+  {
+   "summary": "Fireball reported over Socorro, New Mexico.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "date": "1949-07-24",
+   "location_name": "Socorro, New Mexico",
+   "quote": "A fireball was reported to have passed over the general neighborhood of Socorro, New Mexico",
+   "recording_agency": "New Mexico School of Mines",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "fireball",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Green fireball reported over New Mexico.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "date": "1949-08-06",
+   "location_name": "New Mexico",
+   "quote": "the fireball of August 6th",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "fireball",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Green fireball reported over New Mexico.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "date": "1949-01-30",
+   "location_name": "New Mexico",
+   "quote": "green fireball of 1949, January 30th",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "fireball",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Unidentified lights reported near Camp Hood.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "date": "1949-03-17",
+   "location_name": "Camp Hood, Texas",
+   "quote": "four unidentified lights appeared in the vicinity of the Q area",
+   "recording_agency": "Fourth Army",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "light",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

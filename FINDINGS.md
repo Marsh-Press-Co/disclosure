@@ -182,11 +182,73 @@ subset).
 ## Files
 
 - `records/incidents.csv` / `incidents.json` — 593 canonical incidents, sortable
-- `records/encounters.csv` — 217 encounter records with claimant strata + stances
+- `records/encounters.csv` — 341 encounter records with claimant strata + stances
 - `records/timeline.md` — the chronological record, ★ = multi-agency
-- `site/index.html` — the interactive globe (456 placed incidents, filters,
+- `site/index.html` — the interactive globe (606 placed incidents, filters,
   citation dossiers; local until the public flip)
 - `graphify-out/graph.html` — the interactive graph (open in any browser)
 - `graphify-out/GRAPH_REPORT.md` — god nodes, surprising connections, audit stats
 - `RETRIEVAL_TRAIL.md` — ranked materiel/biologics evidence chains
 - `manifest.json` — every source document with provenance and URLs
+
+---
+
+## Addendum — PURSUE Release 2 + 3 ingest (2026-08-06)
+
+*Corpus grew from 126 to 197 documents (2.33M words, 8,029 pages): + PURSUE
+Release 2 (6 text PDFs; the other 58 of its 64 records are video/audio, indexed
+by metadata only) + PURSUE Release 3 (53 PDFs + 10 images; 63 of its 72 records
+transcribed, the rest video/audio metadata-only). Acquired directly from
+war.gov/UFO via a Chrome-TLS-impersonating client (bypasses the Akamai block
+that blocks plain HTTP clients) — no third-party mirror needed. 46 of the 69
+new PDFs/images were born-digital; 23 needed Gemini-vision transcription.
+Same $0 cash cost. Incidents: 754→1,072 extracted, 593→**814 canonical**
+(after re-dedup). Graph: 1,781→2,914 nodes, 1,310→2,234 edges, 28→**54 named
+communities**. Encounters: 217→**341**. Which findings' numbers moved, and
+which held:**
+
+- **§1 (night bias) held and strengthened**: dark hours 58%→**59.5%** of the
+  472 incidents with a stated time (was 395); night alone 165→**200**.
+- **§3/§8 (corroboration) — the leaderboard's top three are UNCHANGED.** Arnold/
+  Mt. Rainier, Rockfield WI, and Muroc AAF are still the most-corroborated
+  incidents in the combined corpus, still ★4, still all June-July 1947. 50→**55**
+  incidents now carry 2+ agency corroboration — the founding wave's primacy in
+  the government's own paper survives a 37% bigger corpus.
+- **§4 (nuclear/weapons-site recurrence) — Sandia goes from a one-line mention to
+  the corpus's richest single-site custody file.** R2's DOW-UAP-D017 (116 pages,
+  born-digital) documents **209 "green orb," "disc," and "fireball" sightings at
+  Sandia Base, 1948-1950** — the investigative record that became the basis for
+  Project Grudge (per the document's own framing, p.1). It includes a July 24,
+  1949 green-fireball report near Socorro, NM, that triggered a multi-week
+  systematic copper-particle dust-collection program (New Mexico School of
+  Mines, Dr. Crozier / Ben Seely, pp.5-12) — comparing dust composition across
+  collection dates to test whether the copper readings tracked the fireball or
+  were just background. **The document's own conclusion is inconclusive**: "it
+  must be supposed that such air motions as occurred were approximately
+  compensating... only a detailed study of air mass motions... can settle this
+  point" (p.12) — the government's own science ending in "we can't tell," not
+  silence. This is a *different* Socorro physical-evidence episode from the
+  1964 Zamora charred-sample thread in §6 below — same town, 15 years apart,
+  both still open.
+- **§5 (bimodal time distribution) — the gap gets MORE pronounced, not less.**
+  1970s-2010s incidents: 60 of 814 (7.4%), down from 50 of 593 (8.4%) as a
+  share of the corpus. R3 is heavily 1950s CIA/Blue Book historical material
+  (123 incidents now dated to the 1950s, up from 84) and R2's DOW-UAP-PR video
+  index entries are almost all 2020s CENTCOM/INDOPACOM sensor records (2020s:
+  58→225) — **caveat: most of that 2020s jump is record-index metadata for
+  videos never transcribed as text, not newly-read narrative** (see Honesty
+  §1 below). The 1970-2010 "unrequested middle" signal is now sharper, not
+  weaker.
+- **§6 (resolution rates) — proportions held.** unexplained 34%→29% (235/814),
+  explained 10%→11% (92/814), not-assessed 53%→56% (459/814). Still mostly
+  unassessed paper, not investigated mystery.
+- **§9 (encounter layer) grew 217→341** records; claimant-strata composition
+  is being re-run for the addendum but the dominant "civilian, filed without
+  comment" posture was not disturbed by a first pass over the new corpus.
+- **New: two "strong" custody-denial leads from R3**, both Air Technical
+  Intelligence Center (ATIC), 1952-53 — CIA-UAP-002 p.20 ("the absence of hard
+  hardware resulting from unexplained U.F.O. sightings") and CIA-UAP-019 p.15
+  ("ATIC was unable to provide UFO hardware or detailed photographs") — the
+  same denial posture the corpus already showed running 1947→2026, now
+  documented five years earlier than the prior earliest instance. See
+  `RETRIEVAL_TRAIL.md`'s addendum for the full custody-chain writeup.

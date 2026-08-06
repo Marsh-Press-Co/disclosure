@@ -1,0 +1,81 @@
+{
+ "doc_id": "pursue-r3--nasa-uap-d016",
+ "file": "pursue-r3--nasa-uap-d016.md",
+ "source": "PURSUE-R3",
+ "agency": "NASA",
+ "title": "NASA-UAP-D016, Preliminary Gemini 4 Crew Debriefing, Part I, 1965",
+ "record_type": "document",
+ "index_date": "6/9/65",
+ "index_location": "North Atlantic Ocean",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This document is a preliminary transcript of the Gemini 4 flight crew debriefing, focusing on mission operations and the EVA, with a specific mention of observed 'sparkles' in orbit. / This document is a preliminary transcript of the Gemini 4 crew debriefing aboard the USS Wasp, focusing on mission systems, EVA, and orbital observations.",
+ "incidents": [
+  {
+   "summary": "Astronaut Ed White observes 'sparkles' during the Gemini 4 flight.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "floating",
+    "sparkling"
+   ],
+   "color": "bright",
+   "country": "unknown",
+   "date": "1965-06-09",
+   "duration": "unknown",
+   "explanation": "The crew identified the particles as fuel vaporizing from the booster and spacecraft.",
+   "explanation_status": "explained",
+   "location_name": "Earth orbit",
+   "object_count": "thousands",
+   "page_refs": [
+    66
+   ],
+   "quote": "I could see little sparkles everywhere.",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "particles",
+   "size": "small",
+   "time_local": "unknown",
+   "witness_count": "2",
+   "witness_types": [
+    "astronaut"
+   ]
+  },
+  {
+   "summary": "Astronauts McDivitt and White observed a planet (likely Venus) during the Gemini 4 flight, which they initially mistook for the booster rocket.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "flickering",
+    "appearing low on the horizon"
+   ],
+   "color": "bright",
+   "country": "unknown",
+   "date": "1965-06-09",
+   "explanation": "The astronauts concluded the object was Venus, which appeared to flicker due to atmospheric effects when low on the horizon.",
+   "explanation_status": "explained",
+   "location_name": "North Atlantic Ocean",
+   "object_count": "1",
+   "page_refs": [
+    188,
+    189,
+    190,
+    191
+   ],
+   "quote": "I spent one whole sunset doing nothing but keeping my eye out for that planet. Sure enough it popped up and I saw it.",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "point of light",
+   "witness_count": "2",
+   "witness_types": [
+    "astronaut"
+   ]
+  }
+ ]
+}

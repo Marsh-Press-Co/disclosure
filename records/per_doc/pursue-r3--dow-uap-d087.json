@@ -1,0 +1,462 @@
+{
+ "doc_id": "pursue-r3--dow-uap-d087",
+ "file": "pursue-r3--dow-uap-d087.md",
+ "source": "PURSUE-R3",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D087, U.S. Air Force Analysis of Flying Objects in the United States, 1-100",
+ "record_type": "document",
+ "index_date": "",
+ "index_location": "United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of U.S. Air Force checklists and incident summaries regarding unidentified flying objects, containing numerous brief, repetitive, and partially redacted reports.",
+ "incidents": [
+  {
+   "summary": "Three objects observed over Muroc Air Field, California, performing circular maneuvers.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "circular maneuvers",
+    "horizontal flight"
+   ],
+   "color": "silver",
+   "country": "United States",
+   "date": "1947-07-07",
+   "location_name": "Muroc Air Field, Muroc, California",
+   "object_count": "3",
+   "page_refs": [
+    3,
+    7,
+    8,
+    10
+   ],
+   "quote": "all three stated that the objects were silver",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "spherical or disc-like",
+   "size": "5 to 10 feet in diameter",
+   "witness_count": "3",
+   "witness_types": [
+    "military-pilot",
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Test pilot observed an object that appeared to be a weather balloon but moved with a forward whirling motion.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "forward whirling motion",
+    "losing altitude"
+   ],
+   "color": "yellowish-amber",
+   "country": "United States",
+   "date": "1947-07-07",
+   "location_name": "Muroc Air Field, Muroc, California",
+   "object_count": "1",
+   "page_refs": [
+    15,
+    16,
+    17
+   ],
+   "quote": "noticed a forward whirling movement",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc-like",
+   "size": "5 to 10 feet in diameter",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Officer observed a disc-shaped object that flattened out in the air.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "flattened out in the air"
+   ],
+   "country": "United States",
+   "date": "1947-07-07",
+   "location_name": "Muroc Air Field, Muroc, California",
+   "object_count": "1",
+   "page_refs": [
+    19,
+    20
+   ],
+   "quote": "flattened in the air",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Three objects observed performing maneuvers over Muroc Air Field.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "maneuvering"
+   ],
+   "country": "United States",
+   "date": "1947-07-07",
+   "location_name": "Muroc Air Field, Muroc, California",
+   "object_count": "3",
+   "page_refs": [
+    23,
+    25
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Object observed over Muroc Air Field.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "United States",
+   "date": "1947-07-07",
+   "location_name": "Muroc Air Field, Muroc, California",
+   "object_count": "1",
+   "page_refs": [
+    27
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Object observed over Muroc Air Field.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "United States",
+   "date": "1947-07-07",
+   "location_name": "Muroc Air Field, Muroc, California",
+   "object_count": "1",
+   "page_refs": [
+    29
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Object observed over Muroc Air Field.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "United States",
+   "date": "1947-07-07",
+   "location_name": "Muroc Air Field, Muroc, California",
+   "object_count": "1",
+   "page_refs": [
+    34,
+    36
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Objects observed over Muroc Air Field.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "United States",
+   "date": "1947-07-07",
+   "location_name": "Muroc Air Field, Muroc, California",
+   "object_count": "2",
+   "page_refs": [
+    38,
+    40
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Object observed over Muroc Air Field.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "United States",
+   "date": "1947-07-07",
+   "location_name": "Muroc Air Field, Muroc, California",
+   "object_count": "1",
+   "page_refs": [
+    42,
+    43
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Object observed over Muroc Air Field.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "United States",
+   "date": "1947-07-07",
+   "location_name": "Muroc Air Field, Muroc, California",
+   "object_count": "1",
+   "page_refs": [
+    44,
+    45
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Two objects observed over Muroc Air Field.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "United States",
+   "date": "1947-07-07",
+   "location_name": "Muroc Air Field, Muroc, California",
+   "object_count": "2",
+   "page_refs": [
+    48,
+    50
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Object observed over Muroc Air Field.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "United States",
+   "date": "1947-07-07",
+   "location_name": "Muroc Air Field, Muroc, California",
+   "object_count": "1",
+   "page_refs": [
+    51,
+    52
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Object observed over Muroc Air Field.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "United States",
+   "date": "1947-07-07",
+   "location_name": "Muroc Air Field, Muroc, California",
+   "object_count": "1",
+   "page_refs": [
+    54,
+    56
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Object observed over Muroc Air Field.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "United States",
+   "date": "1947-07-07",
+   "location_name": "Muroc Air Field, Muroc, California",
+   "object_count": "1",
+   "page_refs": [
+    58,
+    62
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Object observed over Muroc Air Field.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "United States",
+   "date": "1947-07-07",
+   "location_name": "Muroc Air Field, Muroc, California",
+   "object_count": "1",
+   "page_refs": [
+    66,
+    68
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Object observed over Muroc Air Field.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "United States",
+   "date": "1947-07-07",
+   "location_name": "Muroc Air Field, Muroc, California",
+   "object_count": "1",
+   "page_refs": [
+    70,
+    72
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Object observed over Muroc Air Field.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "United States",
+   "date": "1947-07-07",
+   "location_name": "Muroc Air Field, Muroc, California",
+   "object_count": "1",
+   "page_refs": [
+    78,
+    81
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Object observed over Muroc Air Field.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "United States",
+   "date": "1947-07-07",
+   "location_name": "Muroc Air Field, Muroc, California",
+   "object_count": "1",
+   "page_refs": [
+    83,
+    85
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Object observed over Muroc Air Field.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "United States",
+   "date": "1947-07-07",
+   "location_name": "Muroc Air Field, Muroc, California",
+   "object_count": "1",
+   "page_refs": [
+    87,
+    89
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Object observed over Muroc Air Field.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "United States",
+   "date": "1947-07-07",
+   "location_name": "Muroc Air Field, Muroc, California",
+   "object_count": "1",
+   "page_refs": [
+    91,
+    93
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

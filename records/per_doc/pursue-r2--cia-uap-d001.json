@@ -1,0 +1,46 @@
+{
+ "doc_id": "pursue-r2--cia-uap-d001",
+ "file": "pursue-r2--cia-uap-d001.md",
+ "source": "PURSUE-R2",
+ "agency": "CIA",
+ "title": "CIA-UAP-D001, Intelligence Information Report, USSR, 1973",
+ "record_type": "document",
+ "index_date": "12/20/73",
+ "index_location": "USSR",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a CIA intelligence information report regarding the Sary Shagan Weapons Testing Range in the USSR, containing a single UAP sighting report in section 14.",
+ "incidents": [
+  {
+   "summary": "Source observed a bright green circular object that formed concentric circles before dissipating.",
+   "date_precision": "month",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "widened",
+    "formed concentric circles",
+    "dissipated"
+   ],
+   "color": "bright green",
+   "country": "USSR",
+   "date": "1973-08",
+   "duration": "several minutes",
+   "explanation_status": "unexplained",
+   "location_name": "Site 7, Sary Shagan Weapons Testing Range",
+   "page_refs": [
+    2,
+    3
+   ],
+   "quote": "observed an unidentified sharp (bright) green circular object or mass in the sky",
+   "recording_agency": "CIA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular",
+   "witness_count": "1",
+   "witness_types": [
+    "unknown"
+   ]
+  }
+ ]
+}

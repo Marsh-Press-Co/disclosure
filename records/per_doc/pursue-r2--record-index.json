@@ -1,0 +1,1332 @@
+{
+ "doc_id": "pursue-r2-record-index",
+ "file": "pursue-r2--record-index.md",
+ "source": "PURSUE-R2",
+ "agency": "Department of War",
+ "title": "PURSUE Release 2 - official record index (all 64 records: documents, videos, images, audio)",
+ "record_type": "index",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an official index of 64 UAP-related records released by the Department of War in 2026.",
+ "incidents": [
+  {
+   "summary": "Series of sightings of green orbs, discs, and fireballs near Sandia Base.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "maneuvering",
+    "flying out of sight",
+    "disappearing",
+    "exploding"
+   ],
+   "color": "green",
+   "country": "United States",
+   "date": "1948-1950",
+   "explanation_status": "not-assessed",
+   "location_name": "Sandia, New Mexico",
+   "page_refs": [
+    1
+   ],
+   "quote": "209 sightings of “green orbs,” “discs,” and “fireballs” reported near the military base.",
+   "recording_agency": "Department of War",
+   "shape": "orb, disc",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Senior intelligence official observes glowing orbs and high-speed object from helicopter.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "high-speed",
+    "split in two",
+    "accelerate"
+   ],
+   "country": "United States",
+   "date": "2025",
+   "explanation_status": "not-assessed",
+   "location_name": "Western United States",
+   "page_refs": [
+    1
+   ],
+   "quote": "recounts encountering unidentified “glowing orbs” both at close range and at a distance.",
+   "recording_agency": "Office of the Director of National Intelligence",
+   "sensors": [
+    "visual",
+    "ir"
+   ],
+   "shape": "orb",
+   "witness_types": [
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "Source observed airborne luminous green object forming concentric circles.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "forming concentric circles",
+    "dissipated"
+   ],
+   "color": "bright green",
+   "country": "USSR",
+   "date": "1973-06",
+   "explanation_status": "not-assessed",
+   "location_name": "USSR",
+   "page_refs": [
+    1
+   ],
+   "quote": "allegedly observed an airborne, luminous, bright green, unidentified object.",
+   "recording_agency": "CIA",
+   "shape": "unknown",
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "Infrared sensor tracks two areas of contrast.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "tracking"
+   ],
+   "country": "unknown",
+   "date": "2018",
+   "explanation_status": "not-assessed",
+   "location_name": "CENTCOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "Two areas of contrast enter the lower right side of the screen",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "Infrared sensor tracks area of contrast.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "tracking"
+   ],
+   "country": "United States",
+   "date": "2019",
+   "explanation_status": "not-assessed",
+   "location_name": "NORTHCOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "The sensor pans to track an area of contrast.",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "Infrared sensor tracks grouped areas of contrast.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "tracking"
+   ],
+   "country": "unknown",
+   "date": "2019-09-25",
+   "explanation_status": "not-assessed",
+   "location_name": "CENTCOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "the area of contrast appears as a several areas grouped together",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "Spherical UAP transits in and out of clouds.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "transiting"
+   ],
+   "country": "unknown",
+   "date": "2020-11-23",
+   "explanation_status": "not-assessed",
+   "location_name": "CENTCOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "Spherical UAP over AFG in and out of clouds",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "spherical"
+  },
+  {
+   "summary": "Infrared sensor tracks area of contrast.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "tracking"
+   ],
+   "country": "unknown",
+   "date": "2020-06-01",
+   "explanation_status": "not-assessed",
+   "location_name": "CENTCOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "An area of contrast appears in the sensor field-of-view.",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "Infrared sensor tracks two areas of contrast.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "tracking"
+   ],
+   "country": "unknown",
+   "date": "2020-11-02",
+   "explanation_status": "not-assessed",
+   "location_name": "CENTCOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "The sensor pans from the first area of contrast to the second",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "Infrared sensor tracks three fast moving UAPs.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "fast moving",
+    "tracking"
+   ],
+   "country": "unknown",
+   "date": "2020-10-29",
+   "explanation_status": "not-assessed",
+   "location_name": "CENTCOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "observes 3 fast moving UAP's",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "Infrared sensor tracks multiple transiting areas of contrast.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "transiting"
+   ],
+   "country": "unknown",
+   "date": "2020-10-20",
+   "explanation_status": "not-assessed",
+   "location_name": "CENTCOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "An area of contrast transits the sensor field-of-view",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "Infrared sensor tracks transiting area of contrast.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "transiting"
+   ],
+   "country": "unknown",
+   "date": "2020-10-18",
+   "explanation_status": "not-assessed",
+   "location_name": "AFRICOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "An area of contrast transits the sensor field-of-view",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "Infrared sensor tracks transiting area of contrast.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "transiting"
+   ],
+   "country": "unknown",
+   "date": "2020-10-16",
+   "explanation_status": "not-assessed",
+   "location_name": "AFRICOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "An area of contrast transits the frame",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "Infrared sensor tracks area of contrast.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "tracking"
+   ],
+   "country": "unknown",
+   "date": "2020-10-07",
+   "explanation_status": "not-assessed",
+   "location_name": "CENTCOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "The sensor pans to track the area of contrast",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "Full-motion video tracks transiting area of contrast.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "transiting"
+   ],
+   "country": "unknown",
+   "date": "2020-09-17",
+   "explanation_status": "not-assessed",
+   "location_name": "CENTCOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "An area of contrast enters from the lower right-hand side",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "video"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "Full-motion video tracks area of contrast.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "tracking"
+   ],
+   "country": "unknown",
+   "date": "2020-09-16",
+   "explanation_status": "not-assessed",
+   "location_name": "CENTCOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "An area of contrast enters the bottom of the screen",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "video"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "Infrared sensor tracks multiple transiting areas of contrast.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "transiting"
+   ],
+   "country": "unknown",
+   "date": "2020-09-05",
+   "explanation_status": "not-assessed",
+   "location_name": "CENTCOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "An area of contrast transits the screen",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "Infrared sensor tracks multiple areas of contrast.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "tracking"
+   ],
+   "country": "unknown",
+   "date": "2020-08-31",
+   "explanation_status": "not-assessed",
+   "location_name": "CENTCOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "Several areas of contrast enter and exit the field-of-view.",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "Infrared sensor tracks multiple areas of contrast.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "tracking"
+   ],
+   "country": "unknown",
+   "date": "2020-08-31",
+   "explanation_status": "not-assessed",
+   "location_name": "CENTCOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "Several areas of contrast enter and exit the frame.",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "Infrared sensor tracks area of contrast.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "tracking"
+   ],
+   "country": "unknown",
+   "date": "2020-08-24",
+   "explanation_status": "not-assessed",
+   "location_name": "CENTCOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "The sensor pans to track the area of contrast",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "Infrared sensor tracks transiting area of contrast.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "transiting"
+   ],
+   "country": "unknown",
+   "date": "2020-08-21",
+   "explanation_status": "not-assessed",
+   "location_name": "CENTCOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "An area of contrast transits from the top of the screen to the bottom",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "Infrared sensor tracks area of contrast.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "tracking"
+   ],
+   "country": "unknown",
+   "date": "2020-08-08",
+   "explanation_status": "not-assessed",
+   "location_name": "CENTCOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "The sensor pans to track the area of contrast",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "Infrared sensor tracks multiple areas of contrast.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "tracking"
+   ],
+   "country": "unknown",
+   "date": "2020-05-05",
+   "explanation_status": "not-assessed",
+   "location_name": "CENTCOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "Several areas of contrast enter and exit the field-of-view.",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "Infrared sensor tracks transiting area of contrast.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "transiting"
+   ],
+   "country": "unknown",
+   "date": "2020-02-13",
+   "explanation_status": "not-assessed",
+   "location_name": "CENTCOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "An area of contrast enters the frame in the upper right corner",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "Infrared sensor tracks multiple areas of contrast.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "tracking"
+   ],
+   "country": "unknown",
+   "date": "2020-05-05",
+   "explanation_status": "not-assessed",
+   "location_name": "CENTCOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "At higher magnification, the area appears as multiple distinct areas of contrast.",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "Infrared sensor tracks area of contrast with instant acceleration.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "instant acceleration"
+   ],
+   "country": "unknown",
+   "date": "2021",
+   "explanation_status": "not-assessed",
+   "location_name": "CENTCOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "Syrian UAP instant acceleration",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "Spherical UAP tracked by sensor.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "transiting"
+   ],
+   "country": "unknown",
+   "date": "2021-04-12",
+   "explanation_status": "not-assessed",
+   "location_name": "CENTCOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "Spherical UAP [CALLSIGN] 2021/04/12 obj 2",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "video",
+    "ir"
+   ],
+   "shape": "spherical"
+  },
+  {
+   "summary": "Spherical UAP tracked by sensor.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "transiting"
+   ],
+   "country": "unknown",
+   "date": "2021-04-12",
+   "explanation_status": "not-assessed",
+   "location_name": "CENTCOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "Spherical UAP [CALLSIGN] 2021/04/12 vid 0",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "video",
+    "ir"
+   ],
+   "shape": "spherical"
+  },
+  {
+   "summary": "Spherical UAP tracked by sensor.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "tracking"
+   ],
+   "country": "unknown",
+   "date": "2021-04-12",
+   "explanation_status": "not-assessed",
+   "location_name": "CENTCOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "Spherical UAP [CALLSIGN] 2021/04/12 vid 1",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "video",
+    "ir"
+   ],
+   "shape": "spherical"
+  },
+  {
+   "summary": "Spherical UAP tracked by sensor.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "tracking"
+   ],
+   "country": "unknown",
+   "date": "2021-04-12",
+   "explanation_status": "not-assessed",
+   "location_name": "CENTCOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "Spherical UAP [CALLSIGN] 2021/04/12 vid 2",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "video",
+    "ir"
+   ],
+   "shape": "spherical"
+  },
+  {
+   "summary": "Infrared sensor tracks area of contrast.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "tracking"
+   ],
+   "country": "unknown",
+   "date": "2021-06-09",
+   "explanation_status": "not-assessed",
+   "location_name": "East China Sea",
+   "page_refs": [
+    1
+   ],
+   "quote": "The sensor pans to track an area of contrast.",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "Infrared sensor tracks area of contrast.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "tracking"
+   ],
+   "country": "unknown",
+   "date": "2021-01-03",
+   "explanation_status": "not-assessed",
+   "location_name": "CENTCOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "The sensor pans to track the area of contrast",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "Four UAPs in formation over water.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "formation"
+   ],
+   "country": "Iran",
+   "date": "2022-08-26",
+   "explanation_status": "not-assessed",
+   "location_name": "CENTCOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "4 UAP Formation Iran 26 Aug 2022 over water",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "Cigar shaped or fast spherical UAP.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "transiting"
+   ],
+   "country": "unknown",
+   "date": "2022-10-15",
+   "explanation_status": "not-assessed",
+   "location_name": "CENTCOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "Cigar Shaped or Fast Spherical UAP clip 15 OCT 22",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "cigar, spherical"
+  },
+  {
+   "summary": "Spherical UAP with erratic movement.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "erratic movement"
+   ],
+   "country": "unknown",
+   "date": "2022-08",
+   "explanation_status": "not-assessed",
+   "location_name": "EUCOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "Spherical UAP Erratic movement",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "spherical"
+  },
+  {
+   "summary": "Luminous phenomenon with trails observed near airport.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "luminous"
+   ],
+   "country": "Kazakhstan",
+   "date": "2022-02",
+   "explanation_status": "not-assessed",
+   "location_name": "Karaganda International Airport",
+   "page_refs": [
+    1
+   ],
+   "quote": "show a luminous phenomenon with trails of diminishing brightness",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "other"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "Multiple UAPs encountered.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "rotating"
+   ],
+   "country": "United States",
+   "date": "2022-11",
+   "explanation_status": "not-assessed",
+   "location_name": "Midwestern United States",
+   "page_refs": [
+    1
+   ],
+   "quote": "Several Unidentified Aerial Phenomenon Encountered",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "Infrared sensor tracks multiple areas of contrast.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "tracking"
+   ],
+   "country": "unknown",
+   "date": "2022-06-13",
+   "explanation_status": "not-assessed",
+   "location_name": "CENTCOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "Several areas of contrast become visible",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "Spherical UAP in clouds.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "transiting"
+   ],
+   "country": "unknown",
+   "date": "2023-01-05",
+   "explanation_status": "not-assessed",
+   "location_name": "Yellow Sea",
+   "page_refs": [
+    1
+   ],
+   "quote": "Spherical UAP in clouds",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "spherical"
+  },
+  {
+   "summary": "Infrared sensor tracks multiple areas of contrast.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "tracking"
+   ],
+   "country": "United States",
+   "date": "2023-01-20",
+   "explanation_status": "not-assessed",
+   "location_name": "NORTHCOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "A second area of contrast becomes visible",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "Infrared sensor tracks area of contrast.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "tracking"
+   ],
+   "country": "United States",
+   "date": "2023-02-13",
+   "explanation_status": "not-assessed",
+   "location_name": "Southeastern United States",
+   "page_refs": [
+    1
+   ],
+   "quote": "Eglin AFB Aircrew Observed Unidentified Aerial Phenomena",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "Kinetic interaction between two areas of contrast.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "fragmenting",
+    "high-energy event"
+   ],
+   "country": "United States",
+   "date": "2023-02-12",
+   "explanation_status": "not-assessed",
+   "location_name": "Lake Huron",
+   "page_refs": [
+    1
+   ],
+   "quote": "kinetic interaction between two distinct areas of contrast",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "Infrared sensor tracks multiple areas of contrast.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "tracking"
+   ],
+   "country": "unknown",
+   "date": "2019-09-25",
+   "explanation_status": "not-assessed",
+   "location_name": "CENTCOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "Multiple areas of contrast enter and exit the field-of-view",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "Tic-tac shaped UAP observed by USCG.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "tracking"
+   ],
+   "country": "United States",
+   "date": "2024-04-24",
+   "explanation_status": "not-assessed",
+   "location_name": "Southeastern United States",
+   "page_refs": [
+    1
+   ],
+   "quote": "USCG C-144 Tyndall UAP 2 TIC TAC IR hot",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "tic-tac"
+  },
+  {
+   "summary": "Tic-tac shaped UAP observed by USCG.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "transiting"
+   ],
+   "country": "United States",
+   "date": "2024-04-24",
+   "explanation_status": "not-assessed",
+   "location_name": "Southeastern United States",
+   "page_refs": [
+    1
+   ],
+   "quote": "USCG C-144 Tyndall UAP 1 TIC TAC IR hot",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "tic-tac"
+  },
+  {
+   "summary": "Four areas of contrast in formation.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "formation"
+   ],
+   "country": "unknown",
+   "date": "",
+   "explanation_status": "not-assessed",
+   "location_name": "unknown",
+   "page_refs": [
+    1
+   ],
+   "quote": "UAP USO Formation",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "Spherical UAP pulsing over water.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "pulsing"
+   ],
+   "country": "unknown",
+   "date": "",
+   "explanation_status": "not-assessed",
+   "location_name": "unknown",
+   "page_refs": [
+    1
+   ],
+   "quote": "Spherical UAP pulsing over water",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "spherical"
+  },
+  {
+   "summary": "Infrared sensor tracks area of contrast.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "tracking"
+   ],
+   "country": "unknown",
+   "date": "",
+   "explanation_status": "not-assessed",
+   "location_name": "INDOPACOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "An area of contrast remains centered within the frame.",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "Area of contrast transits field of view.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "transiting"
+   ],
+   "country": "unknown",
+   "date": "",
+   "explanation_status": "not-assessed",
+   "location_name": "CENTCOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "An area of contrast moves into the sensor field-of-view",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "Multiple spherical UAP/USO near submarine.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "in and out of water"
+   ],
+   "country": "unknown",
+   "date": "2022-03-25",
+   "explanation_status": "not-assessed",
+   "location_name": "unknown",
+   "page_refs": [
+    1
+   ],
+   "quote": "Multiple Spherical UAP USO near Sub.",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "spherical"
+  },
+  {
+   "summary": "Infrared sensor tracks area of contrast.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "tracking"
+   ],
+   "country": "United States",
+   "date": "",
+   "explanation_status": "not-assessed",
+   "location_name": "NORTHCOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "A sensor pans to track an area of contrast.",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "UFOs in formation over Persian Gulf.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "formation"
+   ],
+   "country": "unknown",
+   "date": "",
+   "explanation_status": "not-assessed",
+   "location_name": "CENTCOM",
+   "page_refs": [
+    1
+   ],
+   "quote": "UFOs in formation over Persian Gulf?",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "unknown"
+  },
+  {
+   "summary": "Astronauts report streaks of light.",
+   "date_precision": "year",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flashing"
+   ],
+   "country": "unknown",
+   "date": "1969",
+   "explanation_status": "explained",
+   "location_name": "Space",
+   "page_refs": [
+    1
+   ],
+   "quote": "describe their observations of instances of light flashes or “streaks of lights.”",
+   "recording_agency": "NASA",
+   "shape": "unknown",
+   "witness_types": [
+    "astronaut"
+   ]
+  },
+  {
+   "summary": "Recovery team discusses dye pack failure.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "not activating"
+   ],
+   "country": "unknown",
+   "date": "1961-07-21",
+   "explanation_status": "not-assessed",
+   "location_name": "North Atlantic Ocean",
+   "page_refs": [
+    1
+   ],
+   "quote": "the recovery team discusses a dye pack in the water that did not activate.",
+   "recording_agency": "NASA",
+   "shape": "unknown",
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "Pilot describes white particles moving like snowflakes.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "moving at random"
+   ],
+   "country": "unknown",
+   "date": "1962-05-24",
+   "explanation_status": "not-assessed",
+   "location_name": "Low Earth Orbit",
+   "page_refs": [
+    1
+   ],
+   "quote": "describes white particles in view that appear to move at “random”",
+   "recording_agency": "NASA",
+   "shape": "unknown",
+   "witness_types": [
+    "astronaut"
+   ]
+  },
+  {
+   "summary": "Pilot describes white objects drifting from capsule.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "drifting"
+   ],
+   "country": "unknown",
+   "date": "1962-10-03",
+   "explanation_status": "not-assessed",
+   "location_name": "Low Earth Orbit",
+   "page_refs": [
+    1
+   ],
+   "quote": "describes observing “little white objects that tend to come from the capsule itself and drift off.”",
+   "recording_agency": "NASA",
+   "shape": "unknown",
+   "witness_types": [
+    "astronaut"
+   ]
+  },
+  {
+   "summary": "Pilot observes fireflies.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "drifting"
+   ],
+   "country": "unknown",
+   "date": "1963-05-15",
+   "explanation_status": "explained",
+   "location_name": "Low Earth Orbit",
+   "page_refs": [
+    1
+   ],
+   "quote": "notes that he sees “John’s fireflies,” referring to John Glenn’s term",
+   "recording_agency": "NASA",
+   "shape": "unknown",
+   "witness_types": [
+    "astronaut"
+   ]
+  },
+  {
+   "summary": "Pilot observes luminous white particles and fireflies.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "drifting"
+   ],
+   "country": "unknown",
+   "date": "1963-05-15",
+   "explanation_status": "not-assessed",
+   "location_name": "Low Earth Orbit",
+   "page_refs": [
+    1
+   ],
+   "quote": "describes small, luminous, brilliant white particles drifting away from the spacecraft.",
+   "recording_agency": "NASA",
+   "shape": "unknown",
+   "witness_types": [
+    "astronaut"
+   ]
+  },
+  {
+   "summary": "Crew reports jagged, angular lights outside spacecraft.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "twinkling",
+    "drifting"
+   ],
+   "country": "unknown",
+   "date": "1972-12-07",
+   "explanation_status": "not-assessed",
+   "location_name": "Cislunar Space",
+   "page_refs": [
+    1
+   ],
+   "quote": "report seeing small lights outside the Apollo spacecraft during transit to the moon.",
+   "recording_agency": "NASA",
+   "shape": "jagged, angular",
+   "witness_types": [
+    "astronaut"
+   ]
+  }
+ ]
+}

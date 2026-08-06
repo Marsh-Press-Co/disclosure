@@ -1,0 +1,115 @@
+{
+ "doc_id": "pursue-r3--dow-uap-d080",
+ "file": "pursue-r3--dow-uap-d080.md",
+ "source": "PURSUE-R3",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D080, Narrative Statement 2, Western United States Event, 2023",
+ "record_type": "document",
+ "index_date": "October, 2023",
+ "index_location": "Westen United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a memorandum for record containing first-hand narratives of three UAP incidents reported by a federal law enforcement agent to AARO in 2023.",
+ "incidents": [
+  {
+   "summary": "Witness observed a bright orb-like light that expelled smaller red lights which maneuvered in formation, followed by the red lights hovering over the southern horizon for several hours.",
+   "date_precision": "month",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "expelled smaller lights",
+    "maneuvered in formation",
+    "hovered",
+    "dipped below horizon"
+   ],
+   "color": "bright white, red",
+   "country": "United States",
+   "date": "2023-10",
+   "duration": "4 hours",
+   "explanation_status": "unexplained",
+   "location_name": "Western United States",
+   "object_count": "multiple",
+   "page_refs": [
+    1,
+    2
+   ],
+   "quote": "The bright orb-like light had a smaller red orb-like light within it.",
+   "recording_agency": "AARO",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "orb",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Witness observed two vehicles flashing lights and a triangular formation of red lights, followed by a pursuit of an object that morphed into a box-like shape and glided over rugged terrain.",
+   "date_precision": "month",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "hovered",
+    "flashed lights",
+    "morphed",
+    "accelerated instantly",
+    "glided"
+   ],
+   "color": "red, white, orange, purple",
+   "country": "United States",
+   "date": "2023-10",
+   "duration": "2 hours",
+   "explanation_status": "unexplained",
+   "location_name": "Western United States",
+   "object_count": "multiple",
+   "page_refs": [
+    2,
+    3
+   ],
+   "quote": "The object floated with an impossible, eerie stillness.",
+   "recording_agency": "AARO",
+   "sensors": [
+    "visual",
+    "nvg"
+   ],
+   "shape": "triangular, box, orb",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Witness observed a single bright orb-like light on a rural highway that mimicked a vehicle, transitioned between orb and taillight, and eventually disappeared near a semi-truck.",
+   "date_precision": "month",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "hovered",
+    "mimicked vehicle",
+    "glided",
+    "dimmed",
+    "disappeared"
+   ],
+   "color": "bright white, red, orange",
+   "country": "United States",
+   "date": "2023-10",
+   "duration": "2 hours",
+   "explanation_status": "unexplained",
+   "location_name": "Western United States",
+   "object_count": "1",
+   "page_refs": [
+    3,
+    4
+   ],
+   "quote": "The object appeared highly reactive to our interaction with it.",
+   "recording_agency": "AARO",
+   "sensors": [
+    "visual",
+    "video"
+   ],
+   "shape": "orb, disk",
+   "witness_types": [
+    "federal-le"
+   ]
+  }
+ ]
+}

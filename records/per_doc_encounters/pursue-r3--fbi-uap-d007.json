@@ -1,0 +1,11 @@
+{
+ "doc_id": "pursue-r3--fbi-uap-d007",
+ "file": "pursue-r3--fbi-uap-d007.md",
+ "source": "PURSUE-R3",
+ "agency": "FBI",
+ "title": "FBI-UAP-D007, FD-1057-06, Northeastern United States, 2024",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is an FBI electronic communication documenting a surveillance operation of reported UAP activity; no encounters involving entities, contact, or physical traces were recorded.",
+ "encounters": []
+}

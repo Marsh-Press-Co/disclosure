@@ -1,0 +1,79 @@
+{
+ "doc_id": "pursue-r3--fbi-uap-d009",
+ "file": "pursue-r3--fbi-uap-d009.md",
+ "source": "PURSUE-R3",
+ "agency": "FBI",
+ "title": "FBI-UAP-D009, FD-302-67, “Northeastern Orb Sighting,” 2026",
+ "record_type": "document",
+ "index_date": "2026",
+ "index_location": "Northeastern United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI FD-302 interview record regarding UAP sightings in the northeastern United States in February 2026, featuring heavy redactions of personal information.",
+ "incidents": [
+  {
+   "summary": "Witnesses observed two red spherical objects hovering in their backyard, which then moved in tandem and merged.",
+   "date_precision": "month",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "moved up and to the left",
+    "moved in tandem",
+    "smooth motion",
+    "silent",
+    "merged"
+   ],
+   "color": "red",
+   "country": "United States",
+   "date": "2026-02",
+   "explanation_status": "not-assessed",
+   "object_count": "2",
+   "page_refs": [
+    1,
+    2
+   ],
+   "quote": "described the light as a red sphere that was about one meter in diameter",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "video"
+   ],
+   "shape": "sphere",
+   "size": "one meter",
+   "time_local": "21:15",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Witness observed several white orbs traveling at high altitude over their house.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "traveling"
+   ],
+   "color": "white",
+   "country": "United States",
+   "date": "2026-02",
+   "explanation_status": "not-assessed",
+   "object_count": "several",
+   "page_refs": [
+    2
+   ],
+   "quote": "saw several white orbs travel over house from the west to the east",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "orb",
+   "size": "dime held at arm's length",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

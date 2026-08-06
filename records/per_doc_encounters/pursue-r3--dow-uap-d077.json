@@ -1,0 +1,34 @@
+{
+ "doc_id": "pursue-r3--dow-uap-d077",
+ "file": "pursue-r3--dow-uap-d077.md",
+ "source": "PURSUE-R3",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D077, AARO Unresolved Case Analysis Update: Western United States Event",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is an AARO memorandum for record analyzing a UAP incident reported by federal law enforcement agents, which remains unresolved.",
+ "encounters": [
+  {
+   "summary": "Six federal law enforcement agents observed luminous orange 'mother orbs' releasing smaller red 'orbs' over a two-day period near a sensitive national security site.",
+   "encounter_type": "close-approach",
+   "claimant_type": "federal-le",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "United States",
+   "date": "October 2023",
+   "date_precision": "month",
+   "entity_appearance": "Luminous orange 'mother orbs' and smaller red 'orbs'.",
+   "entity_behavior": "Mother orbs appeared for 1-2 seconds, released 2-4 red orbs, and disappeared; red orbs exhibited coordinated horizontal motion, altitude changes, and in one instance, remained stationary for several hours.",
+   "location_name": "Western United States",
+   "page_refs": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "quote": "orbs launching other orbs"
+  }
+ ]
+}

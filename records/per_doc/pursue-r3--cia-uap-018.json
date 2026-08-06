@@ -1,0 +1,42 @@
+{
+ "doc_id": "pursue-r3--cia-uap-018",
+ "file": "pursue-r3--cia-uap-018.md",
+ "source": "PURSUE-R3",
+ "agency": "CIA",
+ "title": "CIA-UAP-018, Report of Unusual Flying Object Sightings and Attendant Scientific Activity",
+ "record_type": "document",
+ "index_date": "1955",
+ "index_location": "Hungary",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a CIA intelligence report containing a translation of a letter from a Hungarian citizen describing UFO sightings in Budapest in November 1955, featuring heavy redactions.",
+ "incidents": [
+  {
+   "summary": "Multiple unidentified flying objects reported over Budapest, Hungary, described as fast-moving flyers traveling at 12,000 km/h.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "fast-moving"
+   ],
+   "country": "Hungary",
+   "date": "1955-11",
+   "explanation_status": "not-assessed",
+   "location_name": "Budapest",
+   "object_count": "12",
+   "page_refs": [
+    1,
+    2
+   ],
+   "quote": "these amazing fliers moved at a speed of 12,000 kilometers per hour",
+   "recording_agency": "CIA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circles",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

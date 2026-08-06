@@ -1,0 +1,54 @@
+{
+ "doc_id": "pursue-r3--cia-uap-002",
+ "file": "pursue-r3--cia-uap-002.md",
+ "source": "PURSUE-R3",
+ "agency": "CIA",
+ "title": "CIA-UAP-002, Scientific Advisory Panel on Unidentified Flying Objects, Report, 1952-1953",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a declassified CIA report from a scientific advisory panel evaluating UAP sightings, which concludes that most sightings are misidentifications and recommends de-emphasizing the subject.",
+ "encounters": [
+  {
+   "summary": "A sighting of objects in Tremonton, Utah, involving motion picture film analyzed by the USN Photo Interpretation Laboratory.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "dismissed",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "date": "1952-07-02",
+   "date_precision": "day",
+   "location_name": "Tremonton, Utah",
+   "page_refs": [
+    10,
+    17,
+    21,
+    22,
+    23,
+    24
+   ],
+   "physical_effects": [
+    "light intensity variation"
+   ],
+   "quote": "The Panel Members were impressed by the evident industry and extent of effort of the P.I.L. team, they could not accept the conclusions reached."
+  },
+  {
+   "summary": "Reports of 'Foo Fighters' by Allied pilots during World War II, described as balls of light flying near aircraft.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "dismissed",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "date": "1943-1945",
+   "date_precision": "decade",
+   "entity_appearance": "balls of light",
+   "entity_behavior": "fly near or with aircraft and maneuver rapidly",
+   "page_refs": [
+    18,
+    19
+   ],
+   "quote": "Instances of 'Foo Fighters' were cited. These were unexplained phenomena sighted by Allied pilots during World War II"
+  }
+ ]
+}

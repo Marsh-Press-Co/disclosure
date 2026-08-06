@@ -1,0 +1,32 @@
+{
+ "doc_id": "pursue-r3--nasa-uap-d019",
+ "file": "pursue-r3--nasa-uap-d019.md",
+ "source": "PURSUE-R3",
+ "agency": "NASA",
+ "title": "NASA-UAP-D019, Gemini 5 Technical Debriefing, Part I, 1965",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This is a technical debriefing transcript for the Gemini 5 mission, which contains a brief mention of an unexplained sound reported by the crew. / This document is a technical debriefing transcript for the Gemini 5 mission; it contains no reports of UAP or anomalous encounters.",
+ "encounters": [
+  {
+   "summary": "Astronauts reported hearing a 'ding' sound on the hatch twice, which they initially suspected was a micrometeorite impact, though they later considered it might be metal cooling.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "unknown",
+   "date": "1965",
+   "date_precision": "year",
+   "location_name": "Earth orbit",
+   "page_refs": [
+    92
+   ],
+   "physical_effects": [
+    "audible impact sound"
+   ],
+   "quote": "something dinged the hatch. Just bigger than heck - dinged."
+  }
+ ]
+}

@@ -1,0 +1,161 @@
+{
+ "doc_id": "pursue-r3--dow-uap-d079",
+ "file": "pursue-r3--dow-uap-d079.md",
+ "source": "PURSUE-R3",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D079, Narrative Statement 1, Western United States Event, 2023",
+ "record_type": "document",
+ "index_date": "October, 2023",
+ "index_location": "Westen United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a memorandum for record from the Department of War containing a first-hand narrative of UAP sightings reported to AARO by a federal law enforcement agent.",
+ "incidents": [
+  {
+   "summary": "Witness 1 and team member observed a large glowing ball with a swirly lava-like pattern near a hillside.",
+   "date_precision": "month",
+   "time_of_day": "dusk",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "stationary"
+   ],
+   "color": "bright lava",
+   "country": "United States",
+   "date": "2023-10",
+   "duration": "1-2 minutes",
+   "explanation_status": "not-assessed",
+   "location_name": "Western United States",
+   "object_count": "1",
+   "page_refs": [
+    1
+   ],
+   "quote": "It was just a circle of light that looked like a swirly pattern of bright lava.",
+   "recording_agency": "AARO",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circle",
+   "size": "20 feet or more",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Witness 1 observed an orange light in the sky that released three red lights, accompanied by a flash on the horizon.",
+   "date_precision": "month",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "releasing objects",
+    "fast movement"
+   ],
+   "color": "orange, red",
+   "country": "United States",
+   "date": "2023-10",
+   "duration": "a few seconds",
+   "explanation_status": "not-assessed",
+   "location_name": "Western United States",
+   "object_count": "4",
+   "page_refs": [
+    1,
+    2
+   ],
+   "quote": "While it was lit, it appeared three red lights flew out of and away from it.",
+   "recording_agency": "AARO",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "ball",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Witness 1 observed a second orange light event with red lights departing in a vertical alignment, accompanied by a flash.",
+   "date_precision": "month",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "releasing objects",
+    "vertical alignment"
+   ],
+   "color": "orange, red",
+   "country": "United States",
+   "date": "2023-10",
+   "duration": "unknown",
+   "explanation_status": "not-assessed",
+   "location_name": "Western United States",
+   "object_count": "4",
+   "page_refs": [
+    2
+   ],
+   "quote": "This time however, the red lights appeared to leave in a different pattern",
+   "recording_agency": "AARO",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "ball",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Witness 1 observed a vehicle-like object that hovered, moved off-road without kicking up dust, and then flew away as a dark object.",
+   "date_precision": "month",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "changing direction",
+    "flying away"
+   ],
+   "color": "red, white",
+   "country": "United States",
+   "date": "2023-10",
+   "duration": "unknown",
+   "explanation_status": "not-assessed",
+   "location_name": "Western United States",
+   "object_count": "1",
+   "page_refs": [
+    2
+   ],
+   "quote": "It did not bounce or move with the terrain, but seemed to hover.",
+   "recording_agency": "AARO",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "car-like",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Witness 1 observed a translucent, floating object with one round and one square light spot, appearing to have a vertical orientation.",
+   "date_precision": "month",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "floating"
+   ],
+   "country": "United States",
+   "date": "2023-10",
+   "duration": "unknown",
+   "explanation_status": "not-assessed",
+   "location_name": "Western United States",
+   "object_count": "1",
+   "page_refs": [
+    2
+   ],
+   "quote": "It was almost like looking at something through water where it was not completely clear.",
+   "recording_agency": "AARO",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "undefined",
+   "witness_types": [
+    "federal-le"
+   ]
+  }
+ ]
+}

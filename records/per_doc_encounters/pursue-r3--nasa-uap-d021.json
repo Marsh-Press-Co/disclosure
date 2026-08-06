@@ -1,0 +1,29 @@
+{
+ "doc_id": "pursue-r3--nasa-uap-d021",
+ "file": "pursue-r3--nasa-uap-d021.md",
+ "source": "PURSUE-R3",
+ "agency": "NASA",
+ "title": "NASA-UAP-D021, Gemini 7 Technical Debriefing, 1965",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This is a technical debriefing transcript for the Gemini 7 mission, which contains one brief mention of a satellite sighting. / This is a technical debriefing transcript for the Gemini 7 mission; no UAP or anomalous encounters are reported.",
+ "encounters": [
+  {
+   "summary": "Astronauts sighted a satellite passing underneath their spacecraft during orbital flight.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "unknown",
+   "date": "1965-12-23",
+   "date_precision": "day",
+   "location_name": "orbital space",
+   "page_refs": [
+    36
+   ],
+   "quote": "we sighted a satellite much lower and on a slightly higher inclination path than we were."
+  }
+ ]
+}

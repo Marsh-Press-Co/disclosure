@@ -1,0 +1,195 @@
+{
+ "doc_id": "pursue-r3--cia-uap-016",
+ "file": "pursue-r3--cia-uap-016.md",
+ "source": "PURSUE-R3",
+ "agency": "CIA",
+ "title": "CIA-UAP-016, Sightings of Unidentified Flying Objects in Ladakh, Nepal, Sikkim and Bhutan",
+ "record_type": "document",
+ "index_date": "1968",
+ "index_location": "Ladakh, Nepal | Sikkim, India | Bhutam",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a CIA information report detailing seven UFO sightings in the Ladakh, Nepal, Sikkim, and Bhutan regions during early 1968.",
+ "incidents": [
+  {
+   "summary": "Bright object seen over Chang La, Fukche, and Koyul with white light, blasting sounds, and reddish light with smoke.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "medium",
+   "behavior": [
+    "blasting sounds",
+    "emitting light"
+   ],
+   "color": "white, reddish",
+   "country": "India",
+   "date": "1968-03-04",
+   "location_name": "Chang La, Fukche, and Koyul, Ladakh",
+   "page_refs": [
+    3
+   ],
+   "quote": "One white light and simultaneously two blasting sounds were heard.",
+   "recording_agency": "CIA",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "1300"
+  },
+  {
+   "summary": "Fast-moving, long, thin object seen over Walungchung-Gola and Dhurisa, causing daylight-level brightness and thunderous sound.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "fast-moving",
+    "emitting light",
+    "sonic boom"
+   ],
+   "color": "red",
+   "country": "Nepal",
+   "date": "1968-02-19",
+   "location_name": "Walungchung-Gola and Dhurisa, North-East Nepal",
+   "page_refs": [
+    4
+   ],
+   "quote": "A fast-moving object, long and thin emitted red and risen bright, so bright as to cause daylight.",
+   "recording_agency": "CIA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "long and thin"
+  },
+  {
+   "summary": "Object seen over Lachung, Lachen, Thangu, Muguthang and Chholhamu, emitting light from a tail and producing thunderous sound.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "emitting light",
+    "sonic boom"
+   ],
+   "country": "India",
+   "date": "1968-02-19",
+   "location_name": "Lachung, Lachen, Thangu, Muguthang and Chholhamu, Sikkim",
+   "page_refs": [
+    4
+   ],
+   "quote": "An object giving light from tail. It was bright enough to light the entire area.",
+   "recording_agency": "CIA",
+   "sensors": [
+    "visual"
+   ]
+  },
+  {
+   "summary": "Object following a circular path leaving a smoke trail.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "circular path",
+    "smoke trail"
+   ],
+   "country": "Bhutan",
+   "date": "1968-02-21",
+   "location_name": "Thimpu",
+   "page_refs": [
+    5
+   ],
+   "quote": "Object was following a circular path. Left a trail of smoke behind it.",
+   "recording_agency": "CIA",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "2130"
+  },
+  {
+   "summary": "Rocket-like object leaving a white-yellow trail at high altitude.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "medium",
+   "behavior": [
+    "leaving trail"
+   ],
+   "color": "white-yellow",
+   "country": "India",
+   "date": "1968-03-04",
+   "location_name": "Ane La area, Ladakh",
+   "page_refs": [
+    5
+   ],
+   "quote": "Rocket-like object leaving white-yellow trail about 20 y long at a height of 20-25000 feet.",
+   "recording_agency": "CIA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "rocket-like",
+   "time_local": "1300"
+  },
+  {
+   "summary": "Bluish colored object moving at high speed without noise, bright enough to illuminate the area.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "high speed",
+    "silent"
+   ],
+   "color": "bluish",
+   "country": "India",
+   "date": "1968-03-25",
+   "location_name": "Fukche, Koyul, Demchok, Ladakh",
+   "page_refs": [
+    5
+   ],
+   "quote": "A bluish colored object moving at high speed without any noise.",
+   "recording_agency": "CIA",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "2150"
+  },
+  {
+   "summary": "Blazing object flashing intermittently, accompanied by thunder sound, disintegrated over the region.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "flashing",
+    "disintegrated",
+    "sonic boom"
+   ],
+   "country": "Nepal",
+   "date": "1968-03-25",
+   "location_name": "Kuki region, NW Nepal",
+   "page_refs": [
+    6
+   ],
+   "quote": "A blazing object, flashing intermittently, accompanied by thunder sound disintegrated over Kuki region.",
+   "recording_agency": "CIA",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "2150"
+  },
+  {
+   "summary": "Metallic disc-shaped object found in a crater.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "crashed"
+   ],
+   "country": "Nepal",
+   "date": "",
+   "location_name": "Baltichaur, NE of Pokhara",
+   "page_refs": [
+    6
+   ],
+   "quote": "A huge metallic disc-shaped object with a six-foot base and two feet in height was found in a crater",
+   "recording_agency": "CIA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc-shaped"
+  }
+ ]
+}

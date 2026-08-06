@@ -1,0 +1,72 @@
+{
+ "doc_id": "pursue-r3--nasa-uap-d020",
+ "file": "pursue-r3--nasa-uap-d020.md",
+ "source": "PURSUE-R3",
+ "agency": "NASA",
+ "title": "NASA-UAP-D020, Gemini 5 Technical Debriefing, Part II, 1965",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This is a declassified NASA Gemini 5 technical debriefing transcript; it contains reports of space debris and frozen waste, but no UAP or extraterrestrial encounters. / This is a technical debriefing transcript for the Gemini 5 mission; it contains one report of an unidentified object sighted during reentry.",
+ "encounters": [
+  {
+   "summary": "Astronauts observed floating debris, including a washer and a bolt, drifting outside the spacecraft during orbital flight.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "unknown",
+   "date": "1965-09",
+   "date_precision": "month",
+   "entity_appearance": "metallic washer and bolt",
+   "entity_behavior": "floating in zero gravity",
+   "location_name": "orbital space",
+   "page_refs": [
+    158
+   ],
+   "quote": "here's that washer floating right in front of my window"
+  },
+  {
+   "summary": "Astronauts observed a large, conical buildup of frozen urine that broke off the spacecraft and drifted away.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "unknown",
+   "date": "1965-09",
+   "date_precision": "month",
+   "entity_appearance": "conical, yellow, approximately 3 inches in diameter and 4 inches high",
+   "entity_behavior": "floating away from the spacecraft",
+   "location_name": "orbital space",
+   "page_refs": [
+    122
+   ],
+   "physical_effects": [
+    "ice buildup"
+   ],
+   "quote": "It looked like one of those sand castles you build"
+  },
+  {
+   "summary": "Astronauts observed a large object reentering behind their spacecraft during reentry.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "unknown",
+   "date": "1965",
+   "date_precision": "year",
+   "entity_appearance": "large object",
+   "entity_behavior": "reentering behind spacecraft",
+   "location_name": "upper atmosphere",
+   "page_refs": [
+    191
+   ],
+   "quote": "There was some object way behind."
+  }
+ ]
+}

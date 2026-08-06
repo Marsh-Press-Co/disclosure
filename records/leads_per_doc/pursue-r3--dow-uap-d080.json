@@ -1,0 +1,15 @@
+{
+ "doc": "pursue-r3--dow-uap-d080.md",
+ "leads": [
+  {
+   "page": 2,
+   "lead_type": "biological",
+   "claim": "The observer describes an object exhibiting characteristics that appear to be a hybrid of mechanical deployment and biological division.",
+   "strength": "noise",
+   "why": "The passage describes a visual observation of an object's movement and behavior rather than the recovery, custody, or physical analysis of biological material.",
+   "outcome_in_document": "unresolved",
+   "quote": "It looked like a mix of mechanical deployment and biological division"
+  }
+ ],
+ "doc_verdict": "The document contains no evidence of the government or contractors obtaining, holding, or analyzing physical UAP material; it only provides a subjective description of an aerial observation."
+}

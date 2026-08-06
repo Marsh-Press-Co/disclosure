@@ -1,0 +1,30 @@
+{
+ "doc_id": "pursue-r2--doe-uap-d001",
+ "file": "pursue-r2--doe-uap-d001.md",
+ "source": "PURSUE-R2",
+ "agency": "Department of Energy",
+ "title": "DOE-UAP-D001, Enhanced PANTEX Imagery",
+ "record_type": "document",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document consists of two pages from a Pantex Unidentified Object Incident Report, featuring references to ground surveillance radar and enhanced imagery from Sandia National Labs.",
+ "incidents": [
+  {
+   "summary": "Unidentified object incident at Pantex facility involving ground surveillance radar imagery.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "recording_agency": "Department of Energy",
+   "sensors": [
+    "radar"
+   ],
+   "shape": "unknown",
+   "size": "unknown",
+   "witness_types": [
+    "unknown"
+   ]
+  }
+ ]
+}

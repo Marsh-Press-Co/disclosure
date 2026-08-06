@@ -1,0 +1,11 @@
+{
+ "doc_id": "pursue-r2--doe-uap-d001",
+ "file": "pursue-r2--doe-uap-d001.md",
+ "source": "PURSUE-R2",
+ "agency": "Department of Energy",
+ "title": "DOE-UAP-D001, Enhanced PANTEX Imagery",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a Department of Energy UAP incident report regarding radar and imagery of an object, but it contains no descriptions of entities, contact, or close-range encounters.",
+ "encounters": []
+}

@@ -1,0 +1,789 @@
+{
+ "doc_id": "pursue-r3--dow-uap-d088",
+ "file": "pursue-r3--dow-uap-d088.md",
+ "source": "PURSUE-R3",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D088, U.S. Air Force Analysis of Flying Objects in the United States, 101-172",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of checklists and reports regarding unidentified flying objects, containing numerous encounter reports.",
+ "encounters": [
+  {
+   "summary": "Witnesses observed a ball of fire and dense smoke trail over Norcatur, Kansas, followed by a loud explosion.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1948-02-18",
+   "date_precision": "day",
+   "location_name": "Norcatur, Kansas",
+   "page_refs": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ],
+   "physical_effects": [
+    "explosion",
+    "smoke trail",
+    "ground traces",
+    "rattling windows",
+    "burned flashlight battery"
+   ],
+   "quote": "a ball of fire"
+  },
+  {
+   "summary": "Two B-29 aircraft crews sighted a multi-colored ball of fire with a dense smoke trail near Green River, Utah.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1948-02-18",
+   "date_precision": "day",
+   "location_name": "Green River, Utah",
+   "page_refs": [
+    15,
+    16,
+    17
+   ],
+   "physical_effects": [
+    "smoke trail"
+   ],
+   "quote": "multi-colored ball of fire"
+  },
+  {
+   "summary": "A yellow-orange flare-like object was observed moving slowly near Smyrna AAF.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1948-03-07",
+   "date_precision": "day",
+   "location_name": "Smyrna, Tennessee",
+   "page_refs": [
+    18,
+    19
+   ],
+   "quote": "yellow-orange object"
+  },
+  {
+   "summary": "A metallic, coin-sized object was observed moving rapidly in a straight line.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1948-03-08",
+   "date_precision": "day",
+   "location_name": "Belmont, North Carolina",
+   "page_refs": [
+    20,
+    21
+   ],
+   "quote": "looked metallic"
+  },
+  {
+   "summary": "Multiple sightings of burning objects with smoke trails reported near Bakersfield, California.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1948-03-05",
+   "date_precision": "day",
+   "location_name": "Bakersfield, California",
+   "page_refs": [
+    22,
+    23,
+    24,
+    26,
+    27,
+    28
+   ],
+   "physical_effects": [
+    "smoke trail"
+   ],
+   "quote": "consumed in fire"
+  },
+  {
+   "summary": "A pilot sighted a silver, half-moon shaped object that accelerated rapidly after a turn.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "debunked",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "Philippines",
+   "date": "1948-04-01",
+   "date_precision": "day",
+   "location_name": "Philippine Islands",
+   "page_refs": [
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "quote": "half moon closely resembling a flying wing"
+  },
+  {
+   "summary": "Witnesses observed a silver, oblong object moving slowly and steadily.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1948-04-09",
+   "date_precision": "day",
+   "location_name": "Ashley, Ohio",
+   "page_refs": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49
+   ],
+   "quote": "silver streak"
+  },
+  {
+   "summary": "A pilot observed a silver disc-like object with a canister suspended by a cable.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1948-04-09",
+   "date_precision": "day",
+   "location_name": "Montgomery, Alabama",
+   "page_refs": [
+    50,
+    51,
+    52
+   ],
+   "quote": "silver disc"
+  },
+  {
+   "summary": "A pilot observed a round, silver object oscillating rapidly.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1948-04-18",
+   "date_precision": "day",
+   "location_name": "Fairbanks, Alaska",
+   "page_refs": [
+    53,
+    54
+   ],
+   "quote": "silvery brilliant reflection"
+  },
+  {
+   "summary": "Two pilots observed objects in trail formation that accelerated rapidly.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1948-04-19",
+   "date_precision": "day",
+   "location_name": "Greenville, South Carolina",
+   "page_refs": [
+    55,
+    56,
+    57
+   ],
+   "quote": "trail formation"
+  },
+  {
+   "summary": "A ball of blue flame exploded near Moose Factory.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "Canada",
+   "date": "1948-02-18",
+   "date_precision": "day",
+   "location_name": "Moose Factory, Canada",
+   "page_refs": [
+    58,
+    59
+   ],
+   "quote": "big ball of blue flame"
+  },
+  {
+   "summary": "Fifty or more objects observed moving at high speed.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1948-05-07",
+   "date_precision": "day",
+   "location_name": "Memphis, Tennessee",
+   "page_refs": [
+    60,
+    61
+   ],
+   "quote": "shiny - like bright aluminum"
+  },
+  {
+   "summary": "A white point observed moving at high altitude.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": true,
+   "country": "Germany",
+   "date": "1948-03-26",
+   "date_precision": "day",
+   "location_name": "Berlin, Germany",
+   "page_refs": [
+    62,
+    63
+   ],
+   "quote": "white point"
+  },
+  {
+   "summary": "A green disc observed by ranchers.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "Paraguay",
+   "date": "1948-02-20",
+   "date_precision": "day",
+   "location_name": "Villa Hayes, Paraguay",
+   "page_refs": [
+    68,
+    69
+   ],
+   "quote": "disc giving off an intense green color"
+  },
+  {
+   "summary": "A shining object observed by field laborers.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": true,
+   "country": "Denmark",
+   "date": "1948-02-07",
+   "date_precision": "day",
+   "location_name": "Vejle, Denmark",
+   "page_refs": [
+    70,
+    71
+   ],
+   "quote": "shining object"
+  },
+  {
+   "summary": "A pilot observed a blue flame object that turned earthward.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1949-01-09",
+   "date_precision": "day",
+   "location_name": "Cartersville, Georgia",
+   "page_refs": [
+    72,
+    73
+   ],
+   "quote": "intense blue flame"
+  },
+  {
+   "summary": "Objects observed performing erratic maneuvers.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1948-04-05",
+   "date_precision": "day",
+   "location_name": "Holloman Air Force Base, New Mexico",
+   "page_refs": [
+    74,
+    75,
+    76,
+    77,
+    78,
+    79
+   ],
+   "quote": "rounded, indistinct form"
+  },
+  {
+   "summary": "Radar tracking of an unidentified target.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "North Atlantic",
+   "date": "1948-04-18",
+   "date_precision": "day",
+   "location_name": "North Atlantic",
+   "page_refs": [
+    82,
+    83
+   ],
+   "quote": "target strength was S5"
+  },
+  {
+   "summary": "A yellow balloon-like object observed by a pilot.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1948-04-30",
+   "date_precision": "day",
+   "location_name": "Anacostia, Washington D.C.",
+   "page_refs": [
+    85,
+    86
+   ],
+   "quote": "yellow (or light colored) balloon"
+  },
+  {
+   "summary": "Flying disc reported by residents.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "Greece/Yugoslavia",
+   "date": "1948-07-01",
+   "date_precision": "month",
+   "location_name": "Lake Doiran",
+   "page_refs": [
+    87,
+    88
+   ],
+   "quote": "flying disc"
+  },
+  {
+   "summary": "Disc-shaped objects observed traveling in succession.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1948-06-01",
+   "date_precision": "month",
+   "location_name": "Middletown, Ohio",
+   "page_refs": [
+    89,
+    90
+   ],
+   "quote": "disc - shaped objects"
+  },
+  {
+   "summary": "Mysterious sky object sighted by witnesses.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1948-01-09",
+   "date_precision": "day",
+   "location_name": "Wilmington, North Carolina",
+   "page_refs": [
+    91,
+    92
+   ],
+   "quote": "mysterious sky object"
+  },
+  {
+   "summary": "A ball of light observed performing maneuvers.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1948-05-17",
+   "date_precision": "day",
+   "location_name": "Plevna, Montana",
+   "page_refs": [
+    93,
+    94,
+    95,
+    96
+   ],
+   "quote": "ball of bright white light"
+  },
+  {
+   "summary": "A round object observed by a pilot.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1948-06-01",
+   "date_precision": "month",
+   "location_name": "Belleville, Illinois",
+   "page_refs": [
+    98
+   ],
+   "quote": "approx round"
+  },
+  {
+   "summary": "Two objects observed in formation.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1948-05-28",
+   "date_precision": "day",
+   "location_name": "Monroe, Michigan",
+   "page_refs": [
+    103
+   ],
+   "quote": "round"
+  },
+  {
+   "summary": "Twelve elliptical objects in diamond formation.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1948-08-15",
+   "date_precision": "month",
+   "location_name": "Rapid City, South Dakota",
+   "page_refs": [
+    104
+   ],
+   "quote": "elliptical"
+  },
+  {
+   "summary": "Orange ball observed.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1948-06-30",
+   "date_precision": "day",
+   "location_name": "Knoxville, Tennessee",
+   "page_refs": [
+    108,
+    110
+   ],
+   "quote": "orange ball"
+  },
+  {
+   "summary": "Three objects observed.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1948-07-07",
+   "date_precision": "day",
+   "location_name": "Chapel Hill, North Carolina",
+   "page_refs": [
+    111,
+    113
+   ],
+   "quote": "three objects"
+  },
+  {
+   "summary": "Two cigar-shaped objects observed.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1948-07-09",
+   "date_precision": "day",
+   "location_name": "Columbus, Ohio",
+   "page_refs": [
+    114,
+    115,
+    116
+   ],
+   "quote": "like a cigar or torpedo"
+  },
+  {
+   "summary": "Luminous object observed.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1948-07-09",
+   "date_precision": "day",
+   "location_name": "Columbus, Ohio",
+   "page_refs": [
+    117
+   ],
+   "quote": "luminous"
+  },
+  {
+   "summary": "Bright yellow-white object observed.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1948-06-30",
+   "date_precision": "day",
+   "location_name": "Gahanna, Ohio",
+   "page_refs": [
+    121,
+    122
+   ],
+   "quote": "bright yellow-white"
+  },
+  {
+   "summary": "Cluster of parts observed disintegrating.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1948-06-30",
+   "date_precision": "day",
+   "location_name": "Beola, South Dakota",
+   "page_refs": [
+    123,
+    124
+   ],
+   "quote": "cluster of parts"
+  },
+  {
+   "summary": "Jet or rocket trail observed.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1948-07-24",
+   "date_precision": "day",
+   "location_name": "Blackstone, Virginia",
+   "page_refs": [
+    128,
+    129
+   ],
+   "quote": "jet or rocket trail"
+  },
+  {
+   "summary": "Streak of flame observed by airline passenger.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1948-07-24",
+   "date_precision": "day",
+   "location_name": "Alabama",
+   "page_refs": [
+    130
+   ],
+   "quote": "streak of flame"
+  },
+  {
+   "summary": "Jet-type aircraft observed with no wings.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1948-07-24",
+   "date_precision": "day",
+   "location_name": "Alabama",
+   "page_refs": [
+    131,
+    134
+   ],
+   "quote": "jet type of aircraft"
+  },
+  {
+   "summary": "Meteor-like object observed.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1948-07-24",
+   "date_precision": "day",
+   "location_name": "Blackstone, Virginia",
+   "page_refs": [
+    132,
+    133
+   ],
+   "quote": "unusual meteor"
+  },
+  {
+   "summary": "Blue-white light observed.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1948-07-26",
+   "date_precision": "day",
+   "location_name": "Chamblee, Georgia",
+   "page_refs": [
+    189,
+    190
+   ],
+   "quote": "blue-white light"
+  },
+  {
+   "summary": "V-2 rocket-like object observed.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1948-08-30",
+   "date_precision": "day",
+   "location_name": "Los Angeles, California",
+   "page_refs": [
+    192,
+    193
+   ],
+   "quote": "V-2 rocket"
+  },
+  {
+   "summary": "White ball of fire exploded.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "Marshall Islands",
+   "date": "1948-09-06",
+   "date_precision": "day",
+   "location_name": "Kwajalein",
+   "page_refs": [
+    194,
+    195
+   ],
+   "quote": "white ball of fire"
+  },
+  {
+   "summary": "Wingless aircraft with two decks observed.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "Netherlands",
+   "date": "1948-07-20",
+   "date_precision": "day",
+   "location_name": "Arnhem, Netherlands",
+   "page_refs": [
+    196
+   ],
+   "quote": "aircraft with 2 decks and no wings"
+  },
+  {
+   "summary": "Silver sphere disintegrated in mid-air.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1948-07-01",
+   "date_precision": "month",
+   "location_name": "Maplewood, Ohio",
+   "page_refs": [
+    197,
+    198
+   ],
+   "quote": "silver-colored sphere"
+  },
+  {
+   "summary": "Shining object exploded.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "Turkey",
+   "date": "1948-05-05",
+   "date_precision": "day",
+   "location_name": "Adapazari, Turkey",
+   "page_refs": [
+    199,
+    200
+   ],
+   "quote": "shining"
+  },
+  {
+   "summary": "Long, narrow object observed.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": true,
+   "country": "USSR",
+   "date": "1948-08-03",
+   "date_precision": "day",
+   "location_name": "Moscow, USSR",
+   "page_refs": [
+    201,
+    202
+   ],
+   "quote": "long and narrow"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "doc": "pursue-r2--dow-uap-d017.md",
+ "leads": [
+  {
+   "page": 10,
+   "lead_type": "debris-material",
+   "claim": "No fragments of the green fireball of January 30th were recovered, with the possibility that it volatilized during flight.",
+   "strength": "noise",
+   "why": "The document explicitly states that no material was recovered and offers a prosaic explanation (volatilization) for the lack of physical evidence."
+  },
+  {
+   "page": 13,
+   "lead_type": "debris-material",
+   "claim": "Copper particles were found along an earth-trace, but were not present in collections made 50 miles away.",
+   "strength": "noise",
+   "why": "The mention of copper particles is in the context of investigating atmospheric phenomena or meteor-like events, and the document does not link these to UAP craft or anomalous material."
+  }
+ ],
+ "doc_verdict": "This document contains no evidence of obtained UAP material, as it focuses on administrative reports, sighting summaries, and investigations into atmospheric phenomena like 'green fireballs' which the document concludes left no physical debris."
+}

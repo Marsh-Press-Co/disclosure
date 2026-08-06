@@ -1,0 +1,47 @@
+{
+ "doc_id": "pursue-r3--nasa-uap-d018",
+ "file": "pursue-r3--nasa-uap-d018.md",
+ "source": "PURSUE-R3",
+ "agency": "NASA",
+ "title": "NASA-UAP-D018, Gemini 4 Experiment Debriefing, 1967",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This is a NASA Gemini 4 mission debriefing transcript containing reports of unusual visual observations by astronauts. / This document is a collection of NASA Gemini 4 and Gemini 5 mission debriefing transcripts, technical correspondence, and administrative records; no UAP or anomalous encounters are present.",
+ "encounters": [
+  {
+   "summary": "Astronauts McDivitt and White observed a structure within the airglow layer, a phenomenon never previously reported.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "unknown",
+   "date": "1965",
+   "date_precision": "year",
+   "entity_appearance": "structure within the airglow",
+   "page_refs": [
+    38
+   ],
+   "quote": "they saw a structure in the air glow and this is the first time this is reported"
+  },
+  {
+   "summary": "Astronauts observed a meteor entering the earth's atmosphere below them while in orbit.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "unknown",
+   "date": "1965",
+   "date_precision": "year",
+   "entity_appearance": "meteor",
+   "entity_behavior": "entering earth's atmosphere",
+   "page_refs": [
+    38
+   ],
+   "quote": "They observed meteor going into the earth's atmosphere down below them."
+  }
+ ]
+}

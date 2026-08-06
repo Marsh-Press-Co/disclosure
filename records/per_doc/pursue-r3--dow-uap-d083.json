@@ -1,0 +1,165 @@
+{
+ "doc_id": "pursue-r3--dow-uap-d083",
+ "file": "pursue-r3--dow-uap-d083.md",
+ "source": "PURSUE-R3",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D083, Narrative Statement 5, Western United States Event, 2023",
+ "record_type": "document",
+ "index_date": "October, 2023",
+ "index_location": "Westen United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a memorandum from the Office of the Under Secretary of War containing a first-hand narrative from a federal law enforcement agent regarding UAP sightings in October 2023.",
+ "incidents": [
+  {
+   "summary": "Witness observed a large orange light hovering over a ridge line at sunset.",
+   "date_precision": "month",
+   "time_of_day": "dusk",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "zero resistance"
+   ],
+   "color": "orange",
+   "country": "United States",
+   "date": "2023-10",
+   "duration": "about a minute",
+   "explanation_status": "not-assessed",
+   "location_name": "Western United States",
+   "object_count": "1",
+   "page_refs": [
+    1
+   ],
+   "quote": "It seemed to be hovering with zero resistance or movement, or to be suspended just over a distinctive peak in the ridge line.",
+   "recording_agency": "AARO",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "light",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Witness observed a large red orb release two smaller red orbs that moved away before all lights vanished.",
+   "date_precision": "month",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "release",
+    "moving away"
+   ],
+   "color": "red",
+   "country": "United States",
+   "date": "2023-10",
+   "duration": "10 seconds",
+   "explanation_status": "not-assessed",
+   "location_name": "Western United States",
+   "object_count": "3",
+   "page_refs": [
+    2
+   ],
+   "quote": "I am certain I saw two red, smaller orbs release from the larger one going west",
+   "recording_agency": "AARO",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "orb",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Witness observed a large red orb again, followed by a white flash of light in the sky.",
+   "date_precision": "month",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "hovering"
+   ],
+   "color": "red",
+   "country": "United States",
+   "date": "2023-10",
+   "duration": "10 seconds",
+   "explanation_status": "not-assessed",
+   "location_name": "Western United States",
+   "object_count": "1",
+   "page_refs": [
+    2
+   ],
+   "quote": "We continued to hike west up the road and saw the large orb again, at 1937",
+   "recording_agency": "AARO",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "orb",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Witness observed a red and white light pair hovering over bushes, which later appeared as a thin horizontal line in NVGs.",
+   "date_precision": "month",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "drifting",
+    "moving"
+   ],
+   "color": "red and white",
+   "country": "United States",
+   "date": "2023-10",
+   "duration": "unknown",
+   "explanation_status": "not-assessed",
+   "location_name": "Western United States",
+   "object_count": "2",
+   "page_refs": [
+    2,
+    3
+   ],
+   "quote": "the red and white light pair hovered, with zero resistance, or change in height, over the bushes",
+   "recording_agency": "AARO",
+   "sensors": [
+    "visual",
+    "nvg"
+   ],
+   "shape": "light pair / thin line",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Witness observed a formation of faint lights moving together in the air.",
+   "date_precision": "month",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "floating",
+    "moving up",
+    "side to side",
+    "evading"
+   ],
+   "color": "faint",
+   "country": "United States",
+   "date": "2023-10",
+   "duration": "unknown",
+   "explanation_status": "not-assessed",
+   "location_name": "Western United States",
+   "object_count": "multiple",
+   "page_refs": [
+    3
+   ],
+   "quote": "faint lights in a perfect formation that moved together",
+   "recording_agency": "AARO",
+   "sensors": [
+    "visual",
+    "nvg"
+   ],
+   "shape": "formation",
+   "witness_types": [
+    "federal-le"
+   ]
+  }
+ ]
+}

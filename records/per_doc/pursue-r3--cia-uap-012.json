@@ -1,0 +1,27 @@
+{
+ "doc_id": "pursue-r3--cia-uap-012",
+ "file": "pursue-r3--cia-uap-012.md",
+ "source": "PURSUE-R3",
+ "agency": "CIA",
+ "title": "CIA-UAP-012, Combating Fatigue In Crewmembers",
+ "record_type": "document",
+ "index_date": "November, 1976",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a CIA Foreign Intelligence Information Report from 1976 regarding Soviet Aeroflot aerospace medical research and includes a brief, abstract discussion on UFO phenomena.",
+ "incidents": [
+  {
+   "summary": "Dr. Akoyev discussed UFO phenomena with an individual, noting that 99 percent of occurrences are traceable to natural or man-made phenomena, while one percent remains unexplained.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    2
+   ],
+   "quote": "99 percent of these occurrences were traceable to either natural or man-made phenomena",
+   "recording_agency": "CIA"
+  }
+ ]
+}

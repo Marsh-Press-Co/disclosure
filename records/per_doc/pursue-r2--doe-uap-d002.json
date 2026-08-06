@@ -1,0 +1,60 @@
+{
+ "doc_id": "pursue-r2--doe-uap-d002",
+ "file": "pursue-r2--doe-uap-d002.md",
+ "source": "PURSUE-R2",
+ "agency": "Department of Energy",
+ "title": "DOE-UAP-D002, James Tuck Correspondence, 1970s",
+ "record_type": "document",
+ "index_date": "1970s",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document consists of personal correspondence to and from James Tuck regarding UAP sightings and scientific research, containing some redactions.",
+ "incidents": [
+  {
+   "summary": "Multiple sightings of green lights near Los Alamos, Jemez Mountains.",
+   "date_precision": "year",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "weaving in and out of mountain peaks"
+   ],
+   "color": "green",
+   "country": "USA",
+   "date": "1948-1951",
+   "explanation_status": "not-assessed",
+   "location_name": "Los Alamos, Jemez Mountains",
+   "page_refs": [
+    1
+   ],
+   "quote": "several sightings of green lights were made at Los Alamos",
+   "recording_agency": "Department of Energy",
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "Five objects flying in formation over Los Alamos.",
+   "date_precision": "year",
+   "time_of_day": "afternoon",
+   "confidence": "medium",
+   "behavior": [
+    "flying in formation"
+   ],
+   "country": "USA",
+   "date": "1948-1951",
+   "explanation_status": "not-assessed",
+   "location_name": "Los Alamos",
+   "object_count": "5",
+   "page_refs": [
+    1
+   ],
+   "quote": "one instance of five objects flying over Los Alamos in the afternoon",
+   "recording_agency": "Department of Energy",
+   "witness_count": "5-6",
+   "witness_types": [
+    "unknown"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "pursue-r3--fbi-uap-d022",
+ "file": "pursue-r3--fbi-uap-d022.md",
+ "source": "PURSUE-R3",
+ "agency": "FBI",
+ "title": "FBI-UAP-D022, Digital Rendering, Narrative Statement 2-6, Western United States Event, 2026",
+ "record_type": "image",
+ "index_date": "October, 2023",
+ "index_location": "Western United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a digital rendering and narrative statement created by the FBI in 2026 based on a 2023 sighting reported by a federal law enforcement agent.",
+ "incidents": [
+  {
+   "summary": "A federal law enforcement special agent reported observing a glowing yellow orb hovering above a road near a sensitive national security site in the western United States.",
+   "date_precision": "month",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "hovering"
+   ],
+   "color": "yellow",
+   "country": "United States",
+   "date": "2023-10",
+   "duration": "two days",
+   "explanation_status": "not-assessed",
+   "location_name": "Western United States",
+   "object_count": "1",
+   "page_refs": [
+    1
+   ],
+   "quote": "hovering above the road and slightly to the right, is a bright, glowing yellow orb",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "orb",
+   "witness_count": "2",
+   "witness_types": [
+    "federal-le"
+   ]
+  }
+ ]
+}

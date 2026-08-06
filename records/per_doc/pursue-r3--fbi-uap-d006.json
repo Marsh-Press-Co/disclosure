@@ -1,0 +1,41 @@
+{
+ "doc_id": "pursue-r3--fbi-uap-d006",
+ "file": "pursue-r3--fbi-uap-d006.md",
+ "source": "PURSUE-R3",
+ "agency": "FBI",
+ "title": "FBI-UAP-D006, FD-1057-05, Northeastern United States, 2024",
+ "record_type": "document",
+ "index_date": "November, 2024",
+ "index_location": "Northeastern United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI FD-1057 site survey report detailing an investigation into repeated UAP sightings reported by a civilian over a three-year period in the northeastern United States.",
+ "incidents": [
+  {
+   "summary": "Multiple UAP sightings reported by a resident on their property over a three-year period.",
+   "date_precision": "year",
+   "time_of_day": "evening",
+   "confidence": "medium",
+   "behavior": [
+    "repeated activity"
+   ],
+   "country": "United States",
+   "date": "2021-2024",
+   "explanation_status": "not-assessed",
+   "location_name": "Northeastern United States",
+   "page_refs": [
+    2,
+    3
+   ],
+   "quote": "UAP activity is often observed",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "photo"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

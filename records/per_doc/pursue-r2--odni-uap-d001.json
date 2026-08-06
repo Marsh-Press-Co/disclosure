@@ -1,0 +1,185 @@
+{
+ "doc_id": "pursue-r2--odni-uap-d001",
+ "file": "pursue-r2--odni-uap-d001.md",
+ "source": "PURSUE-R2",
+ "agency": "Office of the Director of National Intelligence",
+ "title": "ODNI-UAP-D001, USPER Narrative, Senior USIC Official",
+ "record_type": "document",
+ "index_date": "2025",
+ "index_location": "Western United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a first-hand narrative by a senior U.S. intelligence official describing multiple UAP encounters during a helicopter mission in late 2025.",
+ "incidents": [
+  {
+   "summary": "Ground team observed a super-hot object low to the ground that split in two and changed direction.",
+   "date_precision": "year",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "high speed",
+    "split in two",
+    "changed direction"
+   ],
+   "country": "United States",
+   "date": "2025",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    1,
+    2
+   ],
+   "quote": "super-hot, low to the ground, and moving east then south at high speed",
+   "recording_agency": "ODNI",
+   "sensors": [
+    "ir",
+    "visual"
+   ],
+   "witness_types": [
+    "government-civilian",
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Object rose from the ground, approached within ten feet of the helicopter, dropped below, and split in two before speeding away.",
+   "date_precision": "year",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "approached",
+    "split in two",
+    "high speed"
+   ],
+   "country": "United States",
+   "date": "2025",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    1,
+    2
+   ],
+   "quote": "approached within ten feet of the helicopter, dropped below us, and then sped away",
+   "recording_agency": "ODNI",
+   "sensors": [
+    "nvg",
+    "ir",
+    "visual"
+   ],
+   "witness_types": [
+    "government-civilian",
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Countless orange orbs swarming in all directions against the mountain backdrop.",
+   "date_precision": "year",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "swarming"
+   ],
+   "color": "orange",
+   "country": "United States",
+   "date": "2025",
+   "duration": "several minutes",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    2
+   ],
+   "quote": "countless orange orbs swarming in all directions",
+   "recording_agency": "ODNI",
+   "sensors": [
+    "radar",
+    "visual"
+   ],
+   "shape": "orb",
+   "witness_types": [
+    "government-civilian",
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Two large oval-shaped orbs flared up side-by-side near the helicopter, followed by others forming a T-formation.",
+   "date_precision": "year",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "stationary",
+    "flared up",
+    "formation"
+   ],
+   "color": "orange with white or yellow center",
+   "country": "United States",
+   "date": "2025",
+   "duration": "10-15 seconds",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    2
+   ],
+   "quote": "two large orbs flare up side-by-side, close to the helicopter",
+   "recording_agency": "ODNI",
+   "sensors": [
+    "nvg",
+    "visual"
+   ],
+   "shape": "oval",
+   "witness_types": [
+    "government-civilian",
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Orbs appeared above fighter jets, matching their speed and flight path in horizontal formation.",
+   "date_precision": "year",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "matching speed",
+    "formation"
+   ],
+   "country": "United States",
+   "date": "2025",
+   "duration": "10-15 seconds",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    2
+   ],
+   "quote": "same type of orbs appeared directly above the fighters",
+   "recording_agency": "ODNI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "orb",
+   "witness_types": [
+    "government-civilian",
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Orange orbs flared up and down around the helicopter, forming a triangle.",
+   "date_precision": "year",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flaring",
+    "formation"
+   ],
+   "color": "orange",
+   "country": "United States",
+   "date": "2025",
+   "duration": "several minutes",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    2
+   ],
+   "quote": "orange orbs flaring up and down around us for several minutes, forming a distinct triangle",
+   "recording_agency": "ODNI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "orb",
+   "witness_types": [
+    "government-civilian",
+    "military-pilot"
+   ]
+  }
+ ]
+}

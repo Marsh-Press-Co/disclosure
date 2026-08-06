@@ -1,0 +1,121 @@
+{
+ "doc_id": "pursue-r3--fbi-uap-d005",
+ "file": "pursue-r3--fbi-uap-d005.md",
+ "source": "PURSUE-R3",
+ "agency": "FBI",
+ "title": "FBI-UAP-D005, FD-1057-04, Northeastern United States, 2024",
+ "record_type": "document",
+ "index_date": "October, 2024",
+ "index_location": "Northeastern United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI FD-1057 interview record regarding multiple UAP sightings reported by a single witness in the northeastern United States.",
+ "incidents": [
+  {
+   "summary": "Witness observed lights outside their home that split into a triangular pattern.",
+   "date_precision": "month",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "split into two or three lights",
+    "formed a triangular pattern",
+    "remained for approximately ten minutes"
+   ],
+   "date": "2021-05",
+   "duration": "10 minutes",
+   "explanation_status": "not-assessed",
+   "location_name": "Northeastern United States",
+   "object_count": "1 to 3",
+   "page_refs": [
+    1,
+    2
+   ],
+   "quote": "observed a singular light that eventually split into two or three lights",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "photo"
+   ],
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Sighting of a UAP at a different location than the witness's primary residence.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "morph",
+    "move laterally"
+   ],
+   "date": "2022-03",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    2
+   ],
+   "quote": "the light observed appears to morph and move laterally",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "video"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Vehicle shutdown and light encounter while driving in New Mexico.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "vehicle shut down",
+    "large light shined on vehicle"
+   ],
+   "date": "1996",
+   "duration": "2 minutes",
+   "explanation_status": "not-assessed",
+   "location_name": "New Mexico",
+   "page_refs": [
+    2
+   ],
+   "quote": "the vehicle was driving shut down and a large light shined on",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "2",
+   "witness_types": [
+    "civilian",
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Witness reports seeing hundreds of lights from their property since 2021.",
+   "date_precision": "year",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "shorter bursts"
+   ],
+   "date": "2021",
+   "explanation_status": "not-assessed",
+   "location_name": "Northeastern United States",
+   "page_refs": [
+    2
+   ],
+   "quote": "has seen hundreds of these lights from property",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "video",
+    "photo"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

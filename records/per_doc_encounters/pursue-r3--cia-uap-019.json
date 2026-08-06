@@ -1,0 +1,32 @@
+{
+ "doc_id": "pursue-r3--cia-uap-019",
+ "file": "pursue-r3--cia-uap-019.md",
+ "source": "PURSUE-R3",
+ "agency": "CIA",
+ "title": "CIA-UAP-019, Australian Dept of Defense Scientific and Intel Aspects of the UFO Problem",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a CIA-sourced Australian Department of Defense intelligence document analyzing the history of U.S. UFO projects, which contains brief summaries of specific encounter reports.",
+ "encounters": [
+  {
+   "summary": "Tracking of a UFO by an official team led by Commander McLaughlin at the White Sands missile proving ground.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1950-03",
+   "date_precision": "month",
+   "location_name": "White Sands",
+   "page_refs": [
+    16
+   ],
+   "physical_effects": [
+    "tracking data"
+   ],
+   "quote": "tracking of a UFO by an official team led by Commander McLaughlin"
+  }
+ ]
+}

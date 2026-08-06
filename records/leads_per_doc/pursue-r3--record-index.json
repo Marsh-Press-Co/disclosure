@@ -1,0 +1,20 @@
+{
+ "doc": "pursue-r3--record-index.md",
+ "leads": [
+  {
+   "page": 1,
+   "lead_type": "debris-material",
+   "claim": "Astronauts reported observing debris and glittering particles during the Gemini 4 flight.",
+   "strength": "noise",
+   "why": "The report describes visual sightings of space debris or particles during a space mission, which is a conventional occurrence, not a recovery of anomalous material."
+  },
+  {
+   "page": 1,
+   "lead_type": "biological",
+   "claim": "Discussions regarding aerospace medical research and automated biological testing equipment.",
+   "strength": "noise",
+   "why": "The mention of biological testing equipment refers to standard medical monitoring of astronauts, not the recovery or analysis of anomalous biological material."
+  }
+ ],
+ "doc_verdict": "The document contains no evidence or suggestions of the government obtaining, holding, or analyzing anomalous UAP material; it describes standard astronaut debriefings and medical research."
+}

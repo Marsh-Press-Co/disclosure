@@ -1,0 +1,71 @@
+{
+ "doc_id": "pursue-r3--fbi-uap-d004",
+ "file": "pursue-r3--fbi-uap-d004.md",
+ "source": "PURSUE-R3",
+ "agency": "FBI",
+ "title": "FBI-UAP-D004, FD-1057-02, Northeastern United States, 2024",
+ "record_type": "document",
+ "index_date": "October, 2024",
+ "index_location": "Northeastern United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI FD-1057 form documenting an interview with a civilian witness regarding repeated UAP sightings near their residence in the northeastern United States.",
+ "incidents": [
+  {
+   "summary": "Repeated observations of plasma orbs near a residence in the northeastern United States.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "moving"
+   ],
+   "color": "unknown",
+   "country": "United States",
+   "date": "2024-10",
+   "explanation_status": "not-assessed",
+   "location_name": "Northeastern United States",
+   "page_refs": [
+    1,
+    2
+   ],
+   "quote": "repeated observations of UxS or UAP plasma orbs near residence",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "video",
+    "other"
+   ],
+   "shape": "orbs",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Initial observation of anomalous lights appearing as orbs.",
+   "date_precision": "month",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "moving"
+   ],
+   "country": "United States",
+   "date": "2021-11",
+   "explanation_status": "not-assessed",
+   "location_name": "Northeastern United States",
+   "page_refs": [
+    2
+   ],
+   "quote": "anomalous lights appearing to be orbs dating back to first observation in the early morning hours of November 2021",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "orbs",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

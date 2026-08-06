@@ -1,0 +1,66 @@
+{
+ "doc_id": "pursue-r3--dow-uap-d080",
+ "file": "pursue-r3--dow-uap-d080.md",
+ "source": "PURSUE-R3",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D080, Narrative Statement 2, Western United States Event, 2023",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a memorandum for record from the Office of the Under Secretary of War containing firsthand narratives of UAP encounters reported by federal law enforcement agents.",
+ "encounters": [
+  {
+   "summary": "Witness observed a bright orb-like light expelling smaller red lights that maneuvered in formation over a valley.",
+   "encounter_type": "close-approach",
+   "claimant_type": "federal-le",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "United States",
+   "date": "2023-10",
+   "date_precision": "month",
+   "location_name": "Western United States",
+   "page_refs": [
+    1,
+    2
+   ],
+   "quote": "The objects appeared to move with purpose in a coordinated fashion"
+  },
+  {
+   "summary": "Witness observed hovering red lights in a triangular formation and two vehicles that morphed into a single orb-like light and later a box-shaped light formation.",
+   "encounter_type": "close-approach",
+   "claimant_type": "federal-le",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "United States",
+   "date": "2023-10",
+   "date_precision": "month",
+   "location_name": "Western United States",
+   "page_refs": [
+    2,
+    3
+   ],
+   "quote": "The object appeared to “toy” with us"
+  },
+  {
+   "summary": "Witness observed an orb-like light on a highway that mimicked vehicle behavior, transitioned between light forms, and disappeared upon the approach of a semi-truck.",
+   "encounter_type": "close-approach",
+   "claimant_type": "federal-le",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "United States",
+   "date": "2023-10",
+   "date_precision": "month",
+   "location_name": "Western United States",
+   "page_refs": [
+    3,
+    4
+   ],
+   "quote": "It felt like it was drawing us in and had control to disappear instantly."
+  }
+ ]
+}

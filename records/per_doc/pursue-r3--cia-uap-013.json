@@ -1,0 +1,37 @@
+{
+ "doc_id": "pursue-r3--cia-uap-013",
+ "file": "pursue-r3--cia-uap-013.md",
+ "source": "PURSUE-R3",
+ "agency": "CIA",
+ "title": "CIA-UAP-013, Report of Unusual Flying Object Sightings and Attendant Scientific Activity",
+ "record_type": "document",
+ "index_date": "1956",
+ "index_location": "Budapest, Hungary",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a CIA Information Report containing a translated excerpt from a personal letter describing UAP sightings in Budapest, Hungary, in November 1955.",
+ "incidents": [
+  {
+   "summary": "Multiple fast-speed flying objects observed over Budapest, Hungary, reported by a civilian source.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "behavior": [
+    "fast speeding",
+    "scientific activity"
+   ],
+   "country": "Hungary",
+   "date": "1955-11",
+   "explanation_status": "not-assessed",
+   "location_name": "Budapest",
+   "page_refs": [
+    1
+   ],
+   "quote": "These very fast speeding flyers at scientific activity - very busy.",
+   "recording_agency": "CIA",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

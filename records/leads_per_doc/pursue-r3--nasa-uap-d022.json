@@ -1,0 +1,42 @@
+{
+ "doc": "pursue-r3--nasa-uap-d022.md",
+ "leads": [
+  {
+   "page": 12,
+   "lead_type": "biological",
+   "claim": "NASA is investigating biological contamination between experiments inside a spacecraft.",
+   "strength": "noise",
+   "why": "The text refers to standard laboratory contamination protocols for spaceflight experiments, not UAP-related biological material.",
+   "outcome_in_document": "confirmed-mundane",
+   "quote": "investigating possible contamination between experiments"
+  },
+  {
+   "page": 17,
+   "lead_type": "biological",
+   "claim": "Survival of Penicillium and T-4 bactericidal specimens during spaceflight.",
+   "strength": "noise",
+   "why": "This describes standard biological research experiments conducted on a spacecraft.",
+   "outcome_in_document": "confirmed-mundane",
+   "quote": "Penicillium and T- 4 bactericidal specimens survived the spaceflight"
+  },
+  {
+   "page": 54,
+   "lead_type": "debris-material",
+   "claim": "Debriefing regarding the recovery of a spacecraft.",
+   "strength": "noise",
+   "why": "The text refers to the standard recovery of a known NASA spacecraft (Gemini IX).",
+   "outcome_in_document": "confirmed-mundane",
+   "quote": "nine (9) days following recovery"
+  },
+  {
+   "page": 73,
+   "lead_type": "contractor-involvement",
+   "claim": "Contractor error regarding lubrication application on spacecraft equipment.",
+   "strength": "noise",
+   "why": "This is a routine administrative complaint regarding contractor performance on standard equipment.",
+   "outcome_in_document": "confirmed-mundane",
+   "quote": "contractor has applied it in 11 glops 11 instead of following instructions"
+  }
+ ],
+ "doc_verdict": "This document contains no information suggesting the recovery or analysis of UAP-related material; it consists entirely of routine NASA administrative and biological experiment reports."
+}

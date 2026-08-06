@@ -1,0 +1,60 @@
+{
+ "doc_id": "pursue-r3--dow-uap-d078",
+ "file": "pursue-r3--dow-uap-d078.md",
+ "source": "PURSUE-R3",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D078, Notional Map: Western United States Event",
+ "record_type": "document",
+ "index_date": "October, 2023",
+ "index_location": "Westen United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a notional map and summary of UAP incidents reported by federal law enforcement agents in October 2023, noting that the images are artificially generated for illustrative purposes.",
+ "incidents": [
+  {
+   "summary": "Agents reported observing a large fiery orb projected against a ridgeline.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "projected against a ridgeline"
+   ],
+   "color": "fiery",
+   "country": "United States",
+   "date": "2023-10",
+   "shape": "orb",
+   "size": "large",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Agents reported observing a dark kite-shaped object with red and white lights.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "hovering"
+   ],
+   "color": "red and white lights",
+   "country": "United States",
+   "date": "2023-10",
+   "shape": "kite-shaped",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Agents reported observing a translucent kite-shaped object.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "United States",
+   "date": "2023-10",
+   "shape": "kite-shaped",
+   "witness_types": [
+    "federal-le"
+   ]
+  }
+ ]
+}

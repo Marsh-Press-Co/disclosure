@@ -1,0 +1,226 @@
+{
+ "doc_id": "pursue-r3--nasa-uap-d019",
+ "file": "pursue-r3--nasa-uap-d019.md",
+ "source": "PURSUE-R3",
+ "agency": "NASA",
+ "title": "NASA-UAP-D019, Gemini 5 Technical Debriefing, Part I, 1965",
+ "record_type": "document",
+ "index_date": "August 2 - September 2, 1965",
+ "index_location": "Cape Kennedy, Florida",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This document is a preliminary transcript of the Gemini 5 flight crew technical debriefing conducted by NASA in 1965. / This document is a preliminary transcript of the Gemini 5 flight crew technical debriefing conducted by NASA in 1965; it contains detailed accounts of mission events, sensor operations, and observations.",
+ "incidents": [
+  {
+   "summary": "Gemini 5 crew reported window fogging and frozen condensation between the outer panes of glass during countdown.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "fogging",
+    "freezing"
+   ],
+   "color": "unknown",
+   "country": "USA",
+   "date": "1965-08-30",
+   "duration": "unknown",
+   "explanation": "unknown",
+   "explanation_status": "not-assessed",
+   "location_name": "Cape Kennedy, Florida",
+   "object_count": "unknown",
+   "page_refs": [
+    8,
+    9
+   ],
+   "quote": "Each window was filthy. Just fogged completely over, and it was on the inside of the outer pane of glass.",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "size": "unknown",
+   "time_local": "unknown",
+   "witness_count": "2",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Crew observed small debris, including a bee, a fly, and flecks of material, trapped between the outer sealed panes of the spacecraft window.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "stationary"
+   ],
+   "color": "unknown",
+   "country": "USA",
+   "date": "1965-08-30",
+   "duration": "entire flight",
+   "explanation": "unknown",
+   "explanation_status": "not-assessed",
+   "location_name": "Cape Kennedy, Florida",
+   "object_count": "multiple",
+   "page_refs": [
+    9
+   ],
+   "quote": "I had a small bee, and I had a fly, and I had several flecks of things",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "size": "small",
+   "time_local": "unknown",
+   "witness_count": "2",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Crew observed debris and gray spots on the windshield immediately following fairing jettison.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "flying",
+    "impacting"
+   ],
+   "color": "gray",
+   "country": "USA",
+   "date": "1965-08-30",
+   "duration": "seconds",
+   "explanation": "fairing jettison debris",
+   "explanation_status": "explained",
+   "location_name": "Cape Kennedy, Florida",
+   "object_count": "multiple",
+   "page_refs": [
+    22,
+    23
+   ],
+   "quote": "I noted about 5 or 6, I saw them hit , 5 or 6 gray splots, just small ones",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "size": "small",
+   "time_local": "unknown",
+   "witness_count": "2",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Crew reported hearing two distinct 'ding' sounds on the hatch, similar to a pellet or BB impact, while in orbit.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "impacting"
+   ],
+   "color": "unknown",
+   "country": "unknown",
+   "date": "1965-08-31",
+   "duration": "instantaneous",
+   "explanation": "unknown",
+   "explanation_status": "unexplained",
+   "location_name": "orbital",
+   "object_count": "2",
+   "page_refs": [
+    92,
+    93
+   ],
+   "quote": "right over my head something dinged the hatch. Just bigger than heck - dinged.",
+   "recording_agency": "NASA",
+   "sensors": [
+    "other"
+   ],
+   "shape": "unknown",
+   "size": "unknown",
+   "time_local": "unknown",
+   "witness_count": "2",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Gemini 5 crew observed a cyclone off Japan.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "stationary"
+   ],
+   "country": "Japan",
+   "date": "1965-08-24",
+   "explanation_status": "explained",
+   "location_name": "Japan",
+   "page_refs": [
+    114
+   ],
+   "quote": "cyclone off Japan which has been added into there",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "2",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Gemini 5 crew observed a recovery ship (Lake Champlain) visually.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "stationary"
+   ],
+   "date": "1965-08-24",
+   "explanation_status": "explained",
+   "location_name": "Pacific Ocean",
+   "page_refs": [
+    118,
+    123
+   ],
+   "quote": "We saw him visually - found him visually",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual",
+    "photo"
+   ],
+   "witness_count": "2",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Gemini 5 crew observed unidentified radar signals while over China/Tibet.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "jamming",
+    "pulsing"
+   ],
+   "country": "China",
+   "date": "1965-08-26",
+   "explanation_status": "partially-explained",
+   "location_name": "Tibet",
+   "page_refs": [
+    142,
+    143
+   ],
+   "quote": "I know darn well it must have been--Russian radar",
+   "recording_agency": "NASA",
+   "sensors": [
+    "ew"
+   ],
+   "witness_count": "2",
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

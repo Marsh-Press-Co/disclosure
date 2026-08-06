@@ -1,0 +1,142 @@
+{
+ "doc_id": "pursue-r3--dow-uap-d082",
+ "file": "pursue-r3--dow-uap-d082.md",
+ "source": "PURSUE-R3",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D082, Narrative Statement 4, Western United States Event, 2023",
+ "record_type": "document",
+ "index_date": "October, 2023",
+ "index_location": "Westen United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a memorandum for record containing a first-hand narrative from a federal law enforcement agent regarding UAP sightings in the Western United States in October 2023.",
+ "incidents": [
+  {
+   "summary": "Witness 4 observed a bright ball of light, followed by multiple orbs and lights exhibiting hatching behavior and formation flight over a 2-3 hour period.",
+   "date_precision": "month",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "beam across",
+    "hatching",
+    "falling",
+    "static",
+    "clustering"
+   ],
+   "color": "orange, yellow, white, amber",
+   "country": "United States",
+   "date": "2023-10",
+   "duration": "2-3 hours",
+   "explanation_status": "not-assessed",
+   "location_name": "Western United States",
+   "object_count": "multiple",
+   "page_refs": [
+    1
+   ],
+   "quote": "The hatching occurred multiple times, I lost track after five occurrences.",
+   "recording_agency": "AARO",
+   "sensors": [
+    "visual",
+    "nvg"
+   ],
+   "shape": "ball, orb",
+   "witness_count": "1",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Witness observed chemtrails, a string of lights, and light sources moving between mountains and appearing/disappearing at eye level.",
+   "date_precision": "month",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "moving",
+    "darting",
+    "appearing",
+    "disappearing"
+   ],
+   "color": "white, bright",
+   "country": "United States",
+   "date": "2023-10",
+   "duration": "several hours",
+   "explanation_status": "not-assessed",
+   "location_name": "Western United States",
+   "object_count": "multiple",
+   "page_refs": [
+    2
+   ],
+   "quote": "the light darted between the top and bottom of the mountain within seconds",
+   "recording_agency": "AARO",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "star-like",
+   "witness_count": "1",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Witness observed lights moving in patterns and a dark object with a red light hovering between mountain ridges.",
+   "date_precision": "month",
+   "time_of_day": "dusk",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "moving horizontally",
+    "clustering"
+   ],
+   "color": "red",
+   "country": "United States",
+   "date": "2023-10",
+   "duration": "15 minutes",
+   "explanation_status": "not-assessed",
+   "location_name": "Western United States",
+   "object_count": "multiple",
+   "page_refs": [
+    2,
+    3
+   ],
+   "quote": "This looked like an actual object and from my vantage point it seemed to be using the terrain to stay hidden.",
+   "recording_agency": "AARO",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "diamond, triangle",
+   "witness_count": "1",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Witness observed a yellow light that moved quickly from North to South.",
+   "date_precision": "month",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "static",
+    "moving"
+   ],
+   "color": "yellow",
+   "country": "United States",
+   "date": "2023",
+   "duration": "10 minutes",
+   "explanation_status": "not-assessed",
+   "location_name": "Western United States",
+   "object_count": "1",
+   "page_refs": [
+    3
+   ],
+   "quote": "I saw a yellow light appear at my eyeline; I was about 2k above ground.",
+   "recording_agency": "AARO",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "federal-le"
+   ]
+  }
+ ]
+}

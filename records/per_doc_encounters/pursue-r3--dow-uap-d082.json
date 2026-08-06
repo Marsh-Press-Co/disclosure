@@ -1,0 +1,32 @@
+{
+ "doc_id": "pursue-r3--dow-uap-d082",
+ "file": "pursue-r3--dow-uap-d082.md",
+ "source": "PURSUE-R3",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D082, Narrative Statement 4, Western United States Event, 2023",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a memorandum for record from the Department of War containing a first-hand narrative from a federal law enforcement agent regarding UAP observations, including one specific encounter with a physical object.",
+ "encounters": [
+  {
+   "summary": "Witness 4, a federal law enforcement agent, observed an object darker than the sky with a static red light hovering between two mountain ridges, appearing to use terrain for concealment.",
+   "encounter_type": "close-approach",
+   "claimant_type": "federal-le",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "United States",
+   "date": "2023-10",
+   "date_precision": "month",
+   "entity_appearance": "object darker than the sky with a faint static red light",
+   "entity_behavior": "hovering and using terrain to stay hidden",
+   "location_name": "Western United States",
+   "page_refs": [
+    2,
+    3
+   ],
+   "quote": "This looked like an actual object and from my vantage point it seemed to be using the terrain to stay hidden."
+  }
+ ]
+}

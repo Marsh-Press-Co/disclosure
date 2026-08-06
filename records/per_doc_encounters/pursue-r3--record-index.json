@@ -1,0 +1,44 @@
+{
+ "doc_id": "pursue-r3-record-index",
+ "file": "pursue-r3--record-index.md",
+ "source": "PURSUE-R3",
+ "agency": "Department of War",
+ "title": "PURSUE Release 3 - official record index (all 72 records: documents, videos, images, audio)",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an official index of 72 records released by the Department of War, containing several reports of close-range UAP encounters.",
+ "encounters": [
+  {
+   "summary": "A U.S. military service member reported a motionless, bean-shaped object with a surface of intersecting ridges near Colorado Springs.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "date": "2022-02",
+   "date_precision": "month",
+   "location_name": "Colorado Springs, Colorado, U.S.",
+   "page_refs": [
+    1
+   ],
+   "quote": "bean shaped, matte white or off-white in color"
+  },
+  {
+   "summary": "Two eyewitnesses observed two identical red spheres with white plasma centers hovering and moving in tandem before merging.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "endorsed",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "date": "2025-07",
+   "date_precision": "month",
+   "location_name": "Northeastern United States",
+   "page_refs": [
+    1
+   ],
+   "quote": "brilliant red sphere"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "doc_id": "pursue-r3--ica-uap-d001",
+ "file": "pursue-r3--ica-uap-d001.md",
+ "source": "PURSUE-R3",
+ "agency": "Intelligence Community Agency",
+ "title": "ICA-UAP-D001, Analysis: Colorado Springs UAP Incident, 2022",
+ "record_type": "document",
+ "index_date": "2022",
+ "index_location": "Colorado Springs, Colorado, U.S.",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an analysis by an AARO Intelligence Community partner regarding a 2022 UAP sighting near Cheyenne Mountain, Colorado.",
+ "incidents": [
+  {
+   "summary": "Five U.S. Army service members observed an airborne object over Cheyenne Mountain that appeared as an angular, non-symmetrical potato.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "stationary",
+    "changing shape",
+    "disappeared"
+   ],
+   "color": "shimmering white",
+   "country": "United States",
+   "date": "2022-02-15",
+   "duration": "30 - 180 seconds",
+   "explanation": "Possibly backscattering of sunlight reflecting off snow-covered ground onto low-level clouds.",
+   "explanation_status": "partially-explained",
+   "location_name": "Cheyenne Mountain, Colorado",
+   "object_count": "1",
+   "page_refs": [
+    3,
+    4
+   ],
+   "quote": "resembling an angular, non-symmetrical potato made of uneven panels",
+   "recording_agency": "AARO",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "angular, non-symmetrical potato",
+   "size": "large jet",
+   "time_local": "0935",
+   "witness_count": "5",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

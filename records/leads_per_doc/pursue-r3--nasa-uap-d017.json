@@ -1,0 +1,27 @@
+{
+ "doc": "pursue-r3--nasa-uap-d017.md",
+ "leads": [
+  {
+   "page": 139,
+   "lead_type": "biological",
+   "claim": "The crew mentions tissue bag holders and tissues tucked around the spacecraft.",
+   "strength": "noise",
+   "why": "The context clearly refers to biological experiments or medical supplies carried on the Gemini 4 mission, not extraterrestrial biological matter."
+  },
+  {
+   "page": 198,
+   "lead_type": "debris-material",
+   "claim": "Astronauts observed debris during spacecraft separation.",
+   "strength": "noise",
+   "why": "The debris is explicitly identified by the crew as pieces of the spacecraft adapter."
+  },
+  {
+   "page": 218,
+   "lead_type": "debris-material",
+   "claim": "Astronauts observed pump packages and debris.",
+   "strength": "noise",
+   "why": "The context describes standard spacecraft components and associated debris from the mission hardware."
+  }
+ ],
+ "doc_verdict": "This document is a transcript of a NASA Gemini 4 flight crew debriefing and contains no information suggesting the recovery or analysis of UAP-related material."
+}

@@ -1,0 +1,17 @@
+{
+ "doc": "pursue-r2--doe-uap-d001.md",
+ "leads": [
+  {
+   "page": 2,
+   "lead_type": "contractor-involvement",
+   "claim": "Sandia National Labs performed enhanced imaging on an unidentified object.",
+   "strength": "weak",
+   "why": "The document mentions imaging of an unidentified object by a contractor but provides no evidence of physical custody or material analysis beyond image processing.",
+   "claimant": "Sandia National Labs",
+   "material_description": "unidentified object",
+   "outcome_in_document": "unresolved",
+   "quote": "Sandia National Labs Enhanced Images of the Object"
+  }
+ ],
+ "doc_verdict": "The document mentions imaging of an unidentified object by a contractor but contains no evidence that the government or a contractor obtained, held, or analyzed physical material."
+}

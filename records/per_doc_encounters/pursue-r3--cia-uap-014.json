@@ -1,0 +1,24 @@
+{
+ "doc_id": "pursue-r3--cia-uap-014",
+ "file": "pursue-r3--cia-uap-014.md",
+ "source": "PURSUE-R3",
+ "agency": "CIA",
+ "title": "CIA-UAP-014, British activity in the Field of \"Unidentified Flying Objects\"",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a CIA memorandum regarding British activity in the field of UAPs, containing a summary of a specific sighting in Yorkshire.",
+ "encounters": [
+  {
+   "summary": "RAF officials and pilots observed a perfect flying saucer during a demonstration in Yorkshire.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "location_name": "Yorkshire",
+   "page_refs": [
+    1
+   ]
+  }
+ ]
+}

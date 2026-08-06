@@ -1,0 +1,83 @@
+{
+ "doc_id": "pursue-r3--cia-uap-010",
+ "file": "pursue-r3--cia-uap-010.md",
+ "source": "PURSUE-R3",
+ "agency": "CIA",
+ "title": "CIA-UAP-010, Report on Conversations with Soviet Scientists on Subject of Unidentified Flying Objects in the USSR",
+ "record_type": "document",
+ "index_date": "August, 1967",
+ "index_location": "USSR",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This CIA intelligence report summarizes conversations between a US astrophysicist and various Soviet astronomers regarding their knowledge and opinions on UFO sightings in the USSR during the spring of 1967.",
+ "incidents": [
+  {
+   "summary": "Astronomer at Pulkovo Observatory heard of sightings of unidentified objects near the Caucasus.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "country": "USSR",
+   "location_name": "Caucasus",
+   "page_refs": [
+    1
+   ],
+   "quote": "she had heard of some sightings of unidentified objects near the Caucasus",
+   "recording_agency": "CIA",
+   "witness_types": [
+    "scientist"
+   ]
+  },
+  {
+   "summary": "Sightings of unidentified objects reported in the northern part of the USSR.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "country": "USSR",
+   "location_name": "northern USSR",
+   "page_refs": [
+    1
+   ],
+   "quote": "Kozyrev knew of some sightings in the northern part of the USSR",
+   "recording_agency": "CIA",
+   "witness_types": [
+    "scientist"
+   ]
+  },
+  {
+   "summary": "Astronomers observed a reddish object flashing through the sky while in the countryside.",
+   "date_precision": "unknown",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "flashing"
+   ],
+   "color": "reddish",
+   "country": "USSR",
+   "location_name": "countryside near Kiev",
+   "page_refs": [
+    2
+   ],
+   "quote": "seen a curious, reddish object flashing through the sky",
+   "recording_agency": "CIA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "scientist"
+   ]
+  },
+  {
+   "summary": "Repeated sightings of ball lightning in northern Kazakhstan determined to be reflections of automobile headlights.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "explanation": "reflections of automobile headlights from an inversion layer",
+   "explanation_status": "explained",
+   "shape": "ball",
+   "size": "ball lightning",
+   "witness_types": [
+    "scientist"
+   ]
+  }
+ ]
+}

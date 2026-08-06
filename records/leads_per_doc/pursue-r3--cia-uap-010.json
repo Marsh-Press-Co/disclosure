@@ -1,0 +1,24 @@
+{
+ "doc": "pursue-r3--cia-uap-010.md",
+ "leads": [
+  {
+   "page": 2,
+   "lead_type": "debris-material",
+   "claim": "An object observed was suspected to be a fragment of a satellite or rocket returning from orbit.",
+   "strength": "noise",
+   "why": "The text explicitly identifies the object as a conventional man-made space debris candidate rather than anomalous material.",
+   "outcome_in_document": "confirmed-mundane",
+   "quote": "might have been a fragment of a satellite or rocket returning from orbit"
+  },
+  {
+   "page": 2,
+   "lead_type": "debris-material",
+   "claim": "Dr. FNU Kupo was interested in locating fragments from bolides (meteors).",
+   "strength": "noise",
+   "why": "The interest is in natural meteoritic material, which is not related to UAP or anomalous craft.",
+   "outcome_in_document": "confirmed-mundane",
+   "quote": "attempts to locate fragments from bolides"
+  }
+ ],
+ "doc_verdict": "This document contains no evidence of UAP-related material, as the mentions of fragments refer exclusively to conventional space debris or natural meteorites."
+}

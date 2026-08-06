@@ -1,0 +1,464 @@
+{
+ "doc_id": "pursue-r3--dow-uap-d088",
+ "file": "pursue-r3--dow-uap-d088.md",
+ "source": "PURSUE-R3",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D088, U.S. Air Force Analysis of Flying Objects in the United States, 101-172",
+ "record_type": "document",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of U.S. Air Force and Department of War reports and checklists regarding unidentified flying objects from 1948, containing various witness statements and investigative summaries.",
+ "incidents": [
+  {
+   "summary": "Explosion of a meteor or unknown object over Norcatur, Kansas.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "exploded",
+    "disintegrated"
+   ],
+   "color": "bluish-white",
+   "country": "USA",
+   "date": "1948-02-18",
+   "explanation_status": "partially-explained",
+   "location_name": "Norcatur, Kansas",
+   "page_refs": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ],
+   "quote": "One big explosion - afterwards a lot of little explosions",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "ball of fire",
+   "witness_count": "multiple",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multi-colored ball of fire sighted by B-29 pilots near Green River, Utah.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "traveling at very high speed"
+   ],
+   "color": "multi-colored",
+   "country": "USA",
+   "date": "1948-02-18",
+   "explanation_status": "not-assessed",
+   "location_name": "Green River, Utah",
+   "page_refs": [
+    15,
+    16,
+    17
+   ],
+   "quote": "A multi-colored ball of fire trailing a dense cloud of smoke",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "ball of fire",
+   "witness_count": "4",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Yellow-orange flare-like object observed near Smyrna AAF.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "faded away"
+   ],
+   "color": "yellow-orange",
+   "country": "USA",
+   "date": "1948-03-07",
+   "explanation_status": "not-assessed",
+   "location_name": "Smyrna, Tennessee",
+   "page_refs": [
+    18,
+    19
+   ],
+   "quote": "A yellow-orange object which had the appearance of a flare",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "flare",
+   "witness_count": "3",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Round metallic object observed moving rapidly over Belmont, North Carolina.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "moved in straight line at constant speed"
+   ],
+   "color": "bright or silver",
+   "country": "USA",
+   "date": "1948-03-08",
+   "explanation_status": "not-assessed",
+   "location_name": "Belmont, North Carolina",
+   "page_refs": [
+    20,
+    21
+   ],
+   "quote": "A round metallic-appearing object moving very rapidly",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round or sphere",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Two objects falling to earth observed near Bakersfield, California.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "falling",
+    "burning"
+   ],
+   "color": "red and black smoke",
+   "country": "USA",
+   "date": "1948-03-05",
+   "explanation_status": "not-assessed",
+   "location_name": "Bakersfield, California",
+   "page_refs": [
+    22,
+    23,
+    24,
+    25,
+    26
+   ],
+   "quote": "Description of objects similar to falling aircraft with smoke and debris trailing",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "falling aircraft",
+   "witness_count": "multiple",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Unidentified aerial sounds heard in Baltimore, Maryland.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "peculiar sounding noises"
+   ],
+   "country": "USA",
+   "date": "1948-03-23",
+   "explanation_status": "not-assessed",
+   "location_name": "Hamilton, Baltimore, Maryland",
+   "page_refs": [
+    29,
+    30
+   ],
+   "quote": "peculiar sounding noises in the sky",
+   "recording_agency": "FBI",
+   "sensors": [
+    "other"
+   ],
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "P-47 pilot sights unidentified flying wing object in the Philippines.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "accelerated rapidly"
+   ],
+   "color": "silver",
+   "country": "Philippines",
+   "date": "1948-04-01",
+   "explanation_status": "partially-explained",
+   "location_name": "Philippines",
+   "page_refs": [
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "quote": "The object appeared to be a flying wing type aircraft",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "half moon",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Silver oblong object observed in Ashley, Ohio.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "slow-moving"
+   ],
+   "color": "silver",
+   "country": "USA",
+   "date": "1948-04-09",
+   "explanation_status": "not-assessed",
+   "location_name": "Ashley, Ohio",
+   "page_refs": [
+    36,
+    37,
+    38,
+    39
+   ],
+   "quote": "oblong in shape and long end narrow which had the appearance of a silver streak",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "oblong",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Cylindrical object observed in Delaware, Ohio.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "drifting"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "1948-04-09",
+   "explanation_status": "not-assessed",
+   "location_name": "Delaware, Ohio",
+   "page_refs": [
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49
+   ],
+   "quote": "cylindrical, with vapor around the top",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "cylindrical",
+   "witness_count": "multiple",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Silver disc observed by Lt. Col. Hughes over Montgomery, Alabama.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "flying away"
+   ],
+   "color": "silver",
+   "country": "USA",
+   "date": "1948-04-09",
+   "explanation_status": "not-assessed",
+   "location_name": "Montgomery, Alabama",
+   "page_refs": [
+    50,
+    51,
+    52
+   ],
+   "quote": "Top part of the object approximately eight feet in diameter, silver in color",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Silvery object oscillating over Fairbanks, Alaska.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "oscillated"
+   ],
+   "color": "silvery",
+   "country": "USA",
+   "date": "1948-04-18",
+   "explanation_status": "not-assessed",
+   "location_name": "Fairbanks, Alaska",
+   "page_refs": [
+    53,
+    54
+   ],
+   "quote": "It oscillated from a horizontal plane to a vertical plane at a very rapid pace",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round and flat",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Objects in trail formation observed over Greenville, South Carolina.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "accelerating and climbing"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "1948-04-19",
+   "explanation_status": "not-assessed",
+   "location_name": "Greenville, South Carolina",
+   "page_refs": [
+    55,
+    56,
+    57
+   ],
+   "quote": "Objects began moving in a line direction and rapidly accelerating and climbing",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "elliptical",
+   "witness_count": "2",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Ball of blue flame exploded over Moose Factory, Canada.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "exploded"
+   ],
+   "color": "blue",
+   "country": "Canada",
+   "date": "1948-02-18",
+   "explanation_status": "not-assessed",
+   "location_name": "Moose Factory, Canada",
+   "page_refs": [
+    58,
+    59
+   ],
+   "quote": "A big ball of blue flame, seemingly the size of a football streaked out of the sky",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "ball",
+   "witness_count": "multiple",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Fifty or more objects observed over Memphis, Tennessee.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "zig-zagged"
+   ],
+   "color": "shiny aluminum",
+   "country": "USA",
+   "date": "1948-05-07",
+   "explanation_status": "not-assessed",
+   "location_name": "Memphis, Tennessee",
+   "page_refs": [
+    60,
+    61
+   ],
+   "quote": "Fifty or more objects were seen moving at a speed faster than any known aircraft",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "White point observed over Berlin, Germany.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "moving"
+   ],
+   "color": "white",
+   "country": "Germany",
+   "date": "1948-03-26",
+   "explanation_status": "not-assessed",
+   "location_name": "Berlin, Germany",
+   "page_refs": [
+    62,
+    63
+   ],
+   "quote": "sighted a white point moving from South to North",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

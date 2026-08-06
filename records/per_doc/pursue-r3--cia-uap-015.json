@@ -1,0 +1,491 @@
+{
+ "doc_id": "pursue-r3--cia-uap-015",
+ "file": "pursue-r3--cia-uap-015.md",
+ "source": "PURSUE-R3",
+ "agency": "CIA",
+ "title": "CIA-UAP-015, Project Blue Book Special Report No. 14 (Analysis of Reports of Unidentified Aerial Objects)",
+ "record_type": "document",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 7,
+ "doc_notes": "This document is the USAF Project Blue Book Special Report No. 14, which provides a statistical analysis of UAP reports from 1947 through 1952, including a CIA cover sheet. / This document is the USAF Project Blue Book Special Report No. 14, which provides a statistical analysis of UAP sightings from 1947 to 1952, including various charts, histograms, and Chi Square tests comparing known and unknown object reports. / This document is the USAF Project Blue Book Special Report No. 14, which provides a statistical analysis of UAP reports and includes a detailed examination of 12 'good' unknown sightings. / This document is the USAF Project Blue Book Special Report No. 14, containing statistical tables of UAP reports categorized by various factors, with a CIA cover sheet. / This document is a statistical analysis report from USAF Project Blue Book (Special Report No. 14) containing numerous tables categorizing UAP reports by evaluation, certainty, and various conditions, with a CIA 'Official Record Copy' cover sheet. / This document is the statistical appendix of USAF Project Blue Book Special Report No. 14, containing extensive tables categorizing UAP reports by year, evaluation, and various witness/object characteristics. / This document is the USAF Project Blue Book Special Report No. 14, which provides a statistical analysis of UAP reports, including various data tables and coding forms for data processing.",
+ "incidents": [
+  {
+   "summary": "Kenneth Arnold sighting of a chainlike formation of disc-shaped objects near Mount Rainier, Washington.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "chainlike formation"
+   ],
+   "shape": "disc-shaped",
+   "witness_types": [
+    "civilian",
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Two men in a rug-cleaning firm saw a shiny, metallic object glide across a road at low altitude.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "glide",
+    "turn"
+   ],
+   "color": "shiny, metallic",
+   "country": "USA",
+   "date": "1948-07-29",
+   "duration": "a few seconds",
+   "explanation_status": "unexplained",
+   "location_name": "unknown",
+   "object_count": "1",
+   "page_refs": [
+    88
+   ],
+   "quote": "It was shiny and metallic in construction, about 6 to 8 feet long and 2 feet wide.",
+   "recording_agency": "USAF",
+   "shape": "unknown",
+   "size": "6 to 8 feet long, 2 feet wide",
+   "time_local": "0955",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Naval aviation student and others at a drive-in movie observed multiple groups of objects flying over.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "fly in straight line",
+    "standard aircraft turn"
+   ],
+   "color": "red glow",
+   "country": "USA",
+   "date": "1952-04-20",
+   "duration": "1 hour 25 minutes",
+   "explanation_status": "unexplained",
+   "location_name": "unknown",
+   "object_count": "20 groups of 2-9 objects",
+   "page_refs": [
+    88,
+    89
+   ],
+   "quote": "The unaccountable feature of the objects was that each had a red glow surrounding it and was glowing itself",
+   "recording_agency": "USAF",
+   "shape": "conventional aircraft",
+   "time_local": "2115-2240",
+   "witness_count": "several",
+   "witness_types": [
+    "military-other",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Tower operators and commercial pilots observed a light that performed maneuvers near their aircraft.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "blinked lights",
+    "turn",
+    "flew across nose",
+    "slipped under plane"
+   ],
+   "country": "USA",
+   "date": "1951-01-20",
+   "explanation_status": "unexplained",
+   "location_name": "city airport",
+   "object_count": "1",
+   "page_refs": [
+    89
+   ],
+   "quote": "In appearance, it was like an airplane with a cigar-shaped body and straight wings, somewhat larger than a B-29.",
+   "recording_agency": "USAF",
+   "shape": "cigar-shaped body with straight wings",
+   "time_local": "2020",
+   "witness_count": "4",
+   "witness_types": [
+    "military-other",
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Farmer and hired hand observed two cigar-shaped objects hovering and moving.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "hover",
+    "move",
+    "ascend"
+   ],
+   "country": "USA",
+   "date": "1952-07-19",
+   "duration": "3 to 4 minutes",
+   "explanation_status": "unexplained",
+   "location_name": "unknown",
+   "object_count": "2",
+   "page_refs": [
+    90
+   ],
+   "quote": "It was stated that they appeared to be transparent and illuminated from the inside.",
+   "recording_agency": "USAF",
+   "shape": "cigar-shaped",
+   "time_local": "0000",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Pilot and copilot of a DC-3 observed an object with lighted windows passing them.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "steep climb"
+   ],
+   "country": "USA",
+   "date": "1948-07-24",
+   "duration": "10 seconds",
+   "explanation_status": "unexplained",
+   "location_name": "unknown",
+   "object_count": "1",
+   "page_refs": [
+    91
+   ],
+   "quote": "The object seemed powered by rocket or jet motors shooting a trail of fire some 50 feet to the rear",
+   "recording_agency": "USAF",
+   "shape": "no wings or protrusion",
+   "time_local": "0340",
+   "witness_count": "3",
+   "witness_types": [
+    "military-pilot",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Instrument technician observed an object moving in spurts and rolling.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "move in spurts",
+    "level flight",
+    "roll",
+    "dart back and forth"
+   ],
+   "color": "white, red",
+   "country": "USA",
+   "date": "1952-12-22",
+   "duration": "15 minutes",
+   "explanation_status": "unexplained",
+   "location_name": "unknown",
+   "object_count": "1",
+   "page_refs": [
+    92
+   ],
+   "quote": "It suddenly moved up toward the zenith in spurts from right to left at an angle of about 45°.",
+   "recording_agency": "USAF",
+   "time_local": "1930",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Flight Sergeant observed an object performing spinning and tumbling actions.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "spinning",
+    "tumbling",
+    "stopping",
+    "shooting straight up"
+   ],
+   "country": "Korea",
+   "date": "1952-06-06",
+   "explanation_status": "unexplained",
+   "location_name": "Air Force base",
+   "object_count": "1",
+   "page_refs": [
+    93
+   ],
+   "quote": "The object flew in a series of spinning and tumbling actions.",
+   "recording_agency": "USAF",
+   "shape": "disc-like",
+   "time_local": "0842",
+   "witness_count": "2",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Electrician observed an object flying straight and level.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "straight and level flight"
+   ],
+   "country": "USA",
+   "date": "1948-07-31",
+   "duration": "10 seconds",
+   "explanation_status": "unexplained",
+   "location_name": "unknown",
+   "object_count": "1",
+   "page_refs": [
+    94
+   ],
+   "quote": "Total time in sight was approximately 10 seconds, during which the object flew on a straight and level course",
+   "recording_agency": "USAF",
+   "shape": "unknown",
+   "time_local": "0825",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Farmer and sons observed a sky blue object hedge hopping.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "hedge hopping",
+    "flames shooting out"
+   ],
+   "color": "sky blue",
+   "country": "USA",
+   "date": "1947-08-13",
+   "duration": "few seconds",
+   "explanation_status": "unexplained",
+   "location_name": "fishing camp",
+   "object_count": "1",
+   "page_refs": [
+    95
+   ],
+   "quote": "It was hedge hopping, following the contour of the ground, was sky blue, about 20 feet in diameter",
+   "recording_agency": "USAF",
+   "shape": "20 feet in diameter, 10 feet thick",
+   "size": "20 feet diameter",
+   "time_local": "1300",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Laboratory employees observed a metallic object with a dirty skin.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "horizontal flight",
+    "increasing speed"
+   ],
+   "color": "metallic",
+   "country": "USA",
+   "date": "1949-05-24",
+   "duration": "2.5 to 3 minutes",
+   "explanation_status": "unexplained",
+   "location_name": "river",
+   "object_count": "1",
+   "page_refs": [
+    96
+   ],
+   "quote": "It was of metallic construction and was seen with good enough resolution to show that the skin was dirty.",
+   "recording_agency": "USAF",
+   "time_local": "1700",
+   "witness_count": "several",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Airliner crew observed a disc-shaped object with portholes and purple light.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "straight line flight"
+   ],
+   "country": "USA",
+   "date": "1950-03-20",
+   "duration": "35 seconds",
+   "explanation_status": "unexplained",
+   "location_name": "unknown",
+   "object_count": "1",
+   "page_refs": [
+    97
+   ],
+   "quote": "The object appeared to be circular, with a diameter of approximately 100 feet",
+   "recording_agency": "USAF",
+   "shape": "disc-like",
+   "size": "100 feet diameter",
+   "time_local": "2126",
+   "witness_count": "2",
+   "witness_types": [
+    "military-pilot",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Musician observed a hovering object with propellers and windows.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "vertical ascent"
+   ],
+   "color": "dull aluminum",
+   "country": "USA",
+   "date": "1952-08-25",
+   "explanation_status": "unexplained",
+   "location_name": "field near road",
+   "object_count": "1",
+   "page_refs": [
+    99
+   ],
+   "quote": "It was about 75 feet long, 45 feet wide, and 15 feet thick, shaped like two oval meat platters placed together.",
+   "recording_agency": "USAF",
+   "shape": "two oval meat platters",
+   "size": "75 feet long, 45 feet wide, 15 feet thick",
+   "time_local": "0535",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Statistical analysis of UAP reports by year, month, and evaluation category.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "page_refs": [
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "Statistical analysis of UAP reports by evaluation category (Balloon, Astronomical, Aircraft, Light Phenomena, Birds, Clouds/Dust, Insufficient Info, Psychological, Unknown, Other) across various years and conditions.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "size": "unknown",
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "Statistical analysis of UAP reports from 1947-1952, categorized by evaluation type (Balloon, Astronomical, Aircraft, etc.) and confidence levels.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "page_refs": [
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222,
+    223,
+    224,
+    225,
+    226,
+    227,
+    228,
+    229,
+    230,
+    231,
+    232,
+    233,
+    234
+   ],
+   "quote": "Analysis of Reports of Unidentified Aerial Objects",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "unknown"
+   ]
+  }
+ ]
+}

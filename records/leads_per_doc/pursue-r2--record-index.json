@@ -1,0 +1,20 @@
+{
+ "doc": "pursue-r2--record-index.md",
+ "leads": [
+  {
+   "page": 1,
+   "lead_type": "debris-material",
+   "claim": "Apollo 17 crew reported seeing jagged, angular particles or fragments drifting near the spacecraft.",
+   "strength": "noise",
+   "why": "The description refers to conventional space debris or ice particles associated with spacecraft transit, not UAP material."
+  },
+  {
+   "page": 1,
+   "lead_type": "debris-material",
+   "claim": "Recovery team for the Mercury-Redstone 4 mission discussed a dye pack that failed to activate during recovery.",
+   "strength": "noise",
+   "why": "This is a standard description of a conventional equipment failure during a known NASA mission recovery operation."
+  }
+ ],
+ "doc_verdict": "This document contains no evidence or suggestions of obtained UAP material; it consists entirely of records regarding conventional sightings, administrative correspondence, and standard space mission recovery operations."
+}

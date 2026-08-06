@@ -1,0 +1,51 @@
+{
+ "doc_id": "pursue-r2--odni-uap-d001",
+ "file": "pursue-r2--odni-uap-d001.md",
+ "source": "PURSUE-R2",
+ "agency": "Office of the Director of National Intelligence",
+ "title": "ODNI-UAP-D001, USPER Narrative, Senior USIC Official",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a narrative report from a senior U.S. intelligence officer detailing multiple close-range UAP encounters during a helicopter mission, and it contains direct encounter content.",
+ "encounters": [
+  {
+   "summary": "A UAP object rose from the ground, approached within ten feet of the helicopter, split into two, and sped away.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "United States",
+   "date": "2025",
+   "date_precision": "year",
+   "entity_appearance": "split into two",
+   "entity_behavior": "rose from ground, approached helicopter, sped away",
+   "location_name": "test range mountain area",
+   "page_refs": [
+    1
+   ],
+   "quote": "approached within ten feet of the helicopter"
+  },
+  {
+   "summary": "Two large oval-shaped orange orbs with white/yellow centers appeared stationary above the helicopter rotor disk, followed by others forming a T-formation.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "United States",
+   "date": "2025",
+   "date_precision": "year",
+   "entity_appearance": "oval-shaped, orange with white or yellow center",
+   "entity_behavior": "stationary, flared up, formed T-formation",
+   "entity_count": "4 or 5",
+   "location_name": "test range",
+   "page_refs": [
+    2
+   ],
+   "quote": "stationary and just above the rotor disk to our right"
+  }
+ ]
+}

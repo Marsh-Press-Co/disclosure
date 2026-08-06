@@ -1,0 +1,89 @@
+{
+ "doc_id": "pursue-r3--nasa-uap-d021",
+ "file": "pursue-r3--nasa-uap-d021.md",
+ "source": "PURSUE-R3",
+ "agency": "NASA",
+ "title": "NASA-UAP-D021, Gemini 7 Technical Debriefing, 1965",
+ "record_type": "document",
+ "index_date": "December 19-21, 1965",
+ "index_location": "Cape Kennedy, Florida",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This document is a preliminary transcript of the Gemini 7 flight crew debriefing conducted in December 1965, containing technical mission details and crew observations. / This document is a transcript of the Gemini 7 flight crew debriefing conducted in December 1965, covering various operational, experimental, and observational topics.",
+ "incidents": [
+  {
+   "summary": "Gemini 7 crew observed a satellite passing underneath them while in orbit.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "passing underneath"
+   ],
+   "country": "unknown",
+   "date": "1965-12-20",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    36
+   ],
+   "quote": "at 16,40 we sighted a satellite much lower and on a slightly higher inclination path than we were.",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "2",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Astronauts observed a Minuteman reentry vehicle which appeared as a brilliant object that broke up into several pieces.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "moving",
+    "breaking up"
+   ],
+   "country": "unknown",
+   "explanation_status": "explained",
+   "page_refs": [
+    143
+   ],
+   "quote": "It looked like a meteorite. Very brilliant. It broke up toward the end.",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "point of light",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Astronauts observed two satellites in polar orbits, one above and one below the spacecraft, crossing from left to right.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "moving"
+   ],
+   "country": "unknown",
+   "explanation_status": "explained",
+   "page_refs": [
+    143,
+    144
+   ],
+   "quote": "It was a definite satellite in a polar orbit.",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual",
+    "ir",
+    "photo"
+   ],
+   "shape": "point of light",
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

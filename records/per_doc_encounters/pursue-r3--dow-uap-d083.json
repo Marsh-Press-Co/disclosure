@@ -1,0 +1,88 @@
+{
+ "doc_id": "pursue-r3--dow-uap-d083",
+ "file": "pursue-r3--dow-uap-d083.md",
+ "source": "PURSUE-R3",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D083, Narrative Statement 5, Western United States Event, 2023",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a memorandum for record from the Department of War containing first-hand accounts of UAP sightings by federal law enforcement agents; the document records the claims without providing an official stance on their nature.",
+ "encounters": [
+  {
+   "summary": "Federal law enforcement agents observed a large orange light hovering over a ridge line at sunset.",
+   "encounter_type": "close-approach",
+   "claimant_type": "federal-le",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "United States",
+   "date": "October 2023",
+   "date_precision": "month",
+   "location_name": "Western United States",
+   "page_refs": [
+    1
+   ],
+   "quote": "The orange light appeared to be placed on something, although nothing could be identified to be holding it up."
+  },
+  {
+   "summary": "Agents observed a large red orb releasing smaller red orbs, followed by a white flash of light.",
+   "encounter_type": "close-approach",
+   "claimant_type": "federal-le",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "United States",
+   "date": "October 2023",
+   "date_precision": "month",
+   "location_name": "Western United States",
+   "page_refs": [
+    2
+   ],
+   "quote": "I am certain I saw two red, smaller orbs release from the larger one going west"
+  },
+  {
+   "summary": "Agents observed a red and white light pair hovering over bushes, which later appeared as a thin horizontal line in NVGs.",
+   "encounter_type": "close-approach",
+   "claimant_type": "federal-le",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "United States",
+   "date": "October 2023",
+   "date_precision": "month",
+   "location_name": "Western United States",
+   "page_refs": [
+    2,
+    3
+   ],
+   "physical_effects": [
+    "radio interference"
+   ],
+   "quote": "The red and white light pair hovered, with zero resistance, or change in height"
+  },
+  {
+   "summary": "Agents observed a formation of faint lights moving in a way that suggested evasion, accompanied by physical ground markings.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "federal-le",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "United States",
+   "date": "October 2023",
+   "date_precision": "month",
+   "location_name": "Western United States",
+   "page_refs": [
+    3,
+    4
+   ],
+   "physical_effects": [
+    "symmetrical and round sharp cuts in the dirt"
+   ],
+   "quote": "The sharp cut in the dirt was symmetrical and round, but did not always make a full circle."
+  }
+ ]
+}

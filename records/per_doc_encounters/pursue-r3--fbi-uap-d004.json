@@ -1,0 +1,34 @@
+{
+ "doc_id": "pursue-r3--fbi-uap-d004",
+ "file": "pursue-r3--fbi-uap-d004.md",
+ "source": "PURSUE-R3",
+ "agency": "FBI",
+ "title": "FBI-UAP-D004, FD-1057-02, Northeastern United States, 2024",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is an FBI FD-1057 communication document regarding a civilian's report of anomalous lights and associated physical effects; encounter content is present.",
+ "encounters": [
+  {
+   "summary": "A civilian reported repeated observations of anomalous lights or plasma orbs near their residence, accompanied by spikes in Gamma radiation and electronic/GPS interference.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "date": "2021-11",
+   "date_precision": "month",
+   "location_name": "Northeastern United States",
+   "page_refs": [
+    2,
+    3
+   ],
+   "physical_effects": [
+    "spikes in Gamma radiation",
+    "unusual effects on electronics",
+    "GPS data interference"
+   ],
+   "quote": "objects appearing to be unknown UxS or UAP near residence"
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "doc_id": "pursue-r2--dow-uap-d017",
+ "file": "pursue-r2--dow-uap-d017.md",
+ "source": "PURSUE-R2",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D017, UAP Reported at Sandia Base, 1948-1950",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of reports and correspondence regarding UAP sightings and fireball investigations in New Mexico and Texas, containing multiple encounter reports.",
+ "encounters": [
+  {
+   "summary": "A fireball was reported passing over Socorro, New Mexico, followed by the collection of airborne particles containing copper, nickel, and cobalt.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "country": "USA",
+   "date": "1949-07-24",
+   "date_precision": "day",
+   "location_name": "Socorro, New Mexico",
+   "page_refs": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "physical_effects": [
+    "airborne particles",
+    "copper indications",
+    "cobalt indications",
+    "nickel indications"
+   ],
+   "quote": "The results of the present investigation should be regarded as negative or inconclusive"
+  },
+  {
+   "summary": "A fireball was reported passing over the general neighborhood of Socorro, New Mexico, on August 6, 1949.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "USA",
+   "date": "1949-08-06",
+   "date_precision": "day",
+   "location_name": "Socorro, New Mexico",
+   "page_refs": [
+    9,
+    11,
+    12
+   ],
+   "physical_effects": [
+    "airborne particles"
+   ],
+   "quote": "an attempt was made at an airplane collection following the event of August 6"
+  },
+  {
+   "summary": "Security personnel at Camp Hood reported multiple unidentified lights in the vicinity of the 'Q' area.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1949-03-17",
+   "date_precision": "day",
+   "location_name": "Camp Hood, Texas",
+   "page_refs": [
+    97,
+    98,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108
+   ],
+   "physical_effects": [
+    "none"
+   ],
+   "quote": "physical characteristics of these 'lights' were reported as 'quite different' from those reported on 7-8 March 1949"
+  }
+ ]
+}

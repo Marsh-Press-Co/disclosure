@@ -1,0 +1,30 @@
+{
+ "doc_id": "pursue-r3--cia-uap-016",
+ "file": "pursue-r3--cia-uap-016.md",
+ "source": "PURSUE-R3",
+ "agency": "CIA",
+ "title": "CIA-UAP-016, Sightings of Unidentified Flying Objects in Ladakh, Nepal, Sikkim and Bhutan",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a CIA intelligence report summarizing various aerial sightings and one physical trace report in the Himalayan region; only the physical trace report meets the criteria for an encounter.",
+ "encounters": [
+  {
+   "summary": "A metallic disc-shaped object with a saw-tooth base and two feet in height was found in a crater at Baltichaur, with additional portions found at Okhaldhunga.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "unknown",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "Nepal",
+   "date": "1968",
+   "date_precision": "year",
+   "entity_appearance": "metallic disc-shaped object with a saw-tooth base",
+   "entity_height": "two feet",
+   "location_name": "Baltichaur, near Pokhara",
+   "page_refs": [
+    6
+   ]
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "doc_id": "pursue-r3--fbi-uap-d002",
+ "file": "pursue-r3--fbi-uap-d002.md",
+ "source": "PURSUE-R3",
+ "agency": "FBI",
+ "title": "FBI-UAP-D002, FD-1057, Unresolved UAP Report, Colorado Springs, 2022",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is an FBI FD-1057 forensic sketch interview document regarding a UAP observation, and it contains one encounter report.",
+ "encounters": [
+  {
+   "summary": "A former U.S. Army intelligence officer and four unit members observed a potato-shaped, opalescent UAP with shifting, scale-like panels over the Cheyenne Mountains.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "location_name": "Cheyenne Mountain",
+   "page_refs": [
+    2
+   ],
+   "quote": "The object was potato shaped with distinct edges and appeared to look painted in a creamy/whitish opalescent color."
+  }
+ ]
+}

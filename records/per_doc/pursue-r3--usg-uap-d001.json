@@ -1,0 +1,273 @@
+{
+ "doc_id": "pursue-r3--usg-uap-d001",
+ "file": "pursue-r3--usg-uap-d001.md",
+ "source": "PURSUE-R3",
+ "agency": "U.S. Government",
+ "title": "USG-UAP-D001, Congressional, White House, UFO-related Constituent Correspondence, 1998",
+ "record_type": "document",
+ "index_date": "1998",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of 1998 correspondence between the White House, members of Congress, and NASA regarding constituent inquiries about UFOs, astronaut sightings, and requests for congressional hearings.",
+ "incidents": [
+  {
+   "summary": "A constituent reported observing a light rising vertically from the bottom of the screen while watching a NASA shuttle mission broadcast, which was then tracked by the shuttle camera before the feed was cut.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "rising vertically",
+    "making 90-degree turn"
+   ],
+   "country": "USA",
+   "date": "1997-08-10",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    33
+   ],
+   "quote": "As I watched, I was surprised to see a light rising vertically from the bottom of the screen",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual",
+    "video"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Major Gordon Cooper reported seeing a glowing, greenish object approaching his Mercury capsule during his 22nd orbit.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "approaching capsule"
+   ],
+   "color": "greenish",
+   "country": "Australia",
+   "date": "1963-05-15",
+   "explanation_status": "unexplained",
+   "location_name": "Muchea",
+   "page_refs": [
+    35
+   ],
+   "quote": "I could see a glowing, greenish object ahead of him quickly approaching his capsule.",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Major Gordon Cooper observed multiple saucer-shaped discs flying in formation over Western Germany.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "flying in formation",
+    "out-maneuvering planes"
+   ],
+   "country": "Germany",
+   "date": "1951",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    35
+   ],
+   "quote": "They were metallic, saucer-shaped discs at considerable altitude and could out-maneuver all American fighter planes.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "saucer-shaped",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Astronauts Ed White and James McDivitt observed a metallic object with arms while passing over Hawaii.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "passing over"
+   ],
+   "country": "USA",
+   "date": "1965-06",
+   "explanation_status": "unexplained",
+   "location_name": "Hawaii",
+   "page_refs": [
+    36
+   ],
+   "quote": "they saw a weird-looking metallic object. The UFO had long arms sticking out of it.",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual",
+    "photo"
+   ],
+   "shape": "metallic object with arms",
+   "witness_count": "2",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Astronauts James Lovell and Frank Borman reported a bogey during their Gemini 7 flight.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "sighting"
+   ],
+   "country": "USA",
+   "date": "1965-12",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    36
+   ],
+   "quote": "GOT A BOGEY AT 10 O'CLOCK HIGH.",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "2",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Apollo 11 astronauts reported seeing spacecraft on the far side of a crater edge on the Moon.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "watching us"
+   ],
+   "country": "Moon",
+   "date": "1969-07-21",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    37
+   ],
+   "quote": "I'm telling you there are other spacecraft out there,. Lined up on the far side of the crater edge!",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "2",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Donald Slayton observed a gray, saucer-shaped disk while testing a P-51 fighter.",
+   "date_precision": "year",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "climbing turn",
+    "accelerated",
+    "disappeared"
+   ],
+   "color": "gray",
+   "country": "USA",
+   "date": "1951",
+   "explanation_status": "unexplained",
+   "location_name": "Minneapolis",
+   "page_refs": [
+    38
+   ],
+   "quote": "It looked like a saucer, a disk.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disk",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Major Robert White reported a grayish object during an X-15 flight.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "flying"
+   ],
+   "color": "grayish",
+   "country": "USA",
+   "date": "1962-07-17",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    38,
+    39
+   ],
+   "quote": "It was grayish in color and about thirty to forty feet away.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "NASA pilot Joseph Walker filmed five or six UFOs during an X-15 flight.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "flying"
+   ],
+   "country": "USA",
+   "date": "1962-04",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    39
+   ],
+   "quote": "He had filmed five or six UFOs during his record breaking fifty-mile-high flight",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual",
+    "photo"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Astronaut James F. Buchli reported observing an alien spacecraft during Shuttle Discovery mission 20.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "under observance"
+   ],
+   "country": "USA",
+   "date": "unknown",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    40
+   ],
+   "quote": "Houston, this is Riscovery, we still have the alien spacecraft under observance",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

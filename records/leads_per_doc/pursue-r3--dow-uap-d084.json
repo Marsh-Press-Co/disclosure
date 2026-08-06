@@ -1,0 +1,17 @@
+{
+ "doc": "pursue-r3--dow-uap-d084.md",
+ "leads": [
+  {
+   "page": 11,
+   "lead_type": "analysis-of-material",
+   "claim": "A special project group at Wright-Patterson AFB is tasked with identifying unusual objects reported in incidents.",
+   "strength": "weak",
+   "why": "The document mentions a project group tasked with identifying objects, but does not explicitly state that physical material from UAPs is in their custody.",
+   "claimant": "Official document text",
+   "government_response": "The project group conducts investigations to establish the identity of reported objects.",
+   "outcome_in_document": "unresolved",
+   "quote": "The continuing efforts of this project are directed toward establishing the identity of each unusual object"
+  }
+ ],
+ "doc_verdict": "The document contains no evidence of the government obtaining, holding, or analyzing physical UAP material; it only describes administrative procedures for investigating reported incidents."
+}

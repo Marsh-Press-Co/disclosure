@@ -1,0 +1,25 @@
+{
+ "doc_id": "pursue-r3--dow-uap-d084",
+ "file": "pursue-r3--dow-uap-d084.md",
+ "source": "PURSUE-R3",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D084, US Army-Flying-Saucer-Study_1949",
+ "record_type": "document",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an evaluation study prepared by the U.S. Army Plans & Operations Division in 1949 to determine if flying saucer reports were of foreign origin, concluding they were not, and includes routing slips and a radio digest containing a controversial claim by Walter Winchell regarding Soviet guided missiles.",
+ "incidents": [
+  {
+   "summary": "Evaluation of UAP phenomenon reports from June 1945 to 1949, noting that 20% of 210 incidents were explained as weather balloons, research equipment, meteors, or Venus.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "explanation_status": "partially-explained",
+   "page_refs": [
+    11
+   ]
+  }
+ ]
+}

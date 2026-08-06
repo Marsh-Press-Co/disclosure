@@ -1,0 +1,24 @@
+{
+ "doc": "pursue-r3--dow-uap-d085-transmission-of-cia-scientific-advisory-panel-rept-1953.md",
+ "leads": [
+  {
+   "page": 6,
+   "lead_type": "analysis-of-material",
+   "claim": "The CIA Scientific Advisory Panel reviewed evidence presented by the Air Technical Intelligence Center regarding documented UAP incidents.",
+   "strength": "noise",
+   "why": "The text refers to the review of incident reports and intelligence data rather than the physical possession or analysis of UAP material.",
+   "outcome_in_document": "unresolved",
+   "quote": "The Panel has received the evidence as presented by cognizant intelligence agencies"
+  },
+  {
+   "page": 7,
+   "lead_type": "contractor-involvement",
+   "claim": "Scientists from Brookhaven National Laboratories and other institutions served on a CIA advisory panel.",
+   "strength": "noise",
+   "why": "The document lists institutional affiliations of panel members without suggesting these laboratories were involved in the custody or analysis of UAP material.",
+   "outcome_in_document": "unknown",
+   "quote": "Brookhaven National Laboratories | | /s/ Luis W. Alvarez"
+  }
+ ],
+ "doc_verdict": "This document contains no evidence of the government or contractors obtaining, holding, or analyzing physical UAP material; it is strictly an administrative report on a scientific advisory panel's review of intelligence data."
+}

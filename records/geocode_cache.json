@@ -1745,5 +1745,346 @@
   "lat": 23.6585116,
   "lon": -102.0077097,
   "display": "M\u00e9xico"
+ },
+ "European and Far East theaters": null,
+ "Sweden": {
+  "lat": 59.6749712,
+  "lon": 14.5208584,
+  "display": "Sverige"
+ },
+ "fishing camp": {
+  "lat": 51.1358659,
+  "lon": -93.2534021,
+  "display": "Fishing Camp, Unorganized Kenora District, Kenora District, Northwestern Ontario, Ontario, Canada"
+ },
+ "Philippines, Philippines": {
+  "lat": 10.2905293,
+  "lon": 123.9721418,
+  "display": "Philippines, Vista Bella, Basak, Lapu-Lapu, Central Visayas, 6015, Philippines"
+ },
+ "Ashley, Ohio": {
+  "lat": 40.4089499,
+  "lon": -82.955461,
+  "display": "Ashley, Oxford Township, Delaware County, Ohio, United States"
+ },
+ "Cascade Mountains, United States": {
+  "lat": 33.7227009,
+  "lon": -117.1323197,
+  "display": "Cascade Range Street, Mountains Edge, Riverside County, California, 92548, United States"
+ },
+ "Los Alamos": {
+  "lat": 35.88137,
+  "lon": -106.298959,
+  "display": "Los Alamos, Los Alamos County, New Mexico, 87544, United States"
+ },
+ "Los Alamos, Jemez Mountains": null,
+ "Sandia, New Mexico, United States": {
+  "lat": 34.8253316,
+  "lon": -106.8386404,
+  "display": "Sandia, Valencia County, New Mexico, United States"
+ },
+ "Camp Hood, Texas": {
+  "lat": 31.0677835,
+  "lon": -97.8318664,
+  "display": "Robert Gray Army Airfield, Cobra Drive, Bell County, Texas, 76540, United States"
+ },
+ "river": {
+  "lat": 51.1410065,
+  "lon": 1.2748111,
+  "display": "River, Dover, Kent, England, United Kingdom"
+ },
+ "Palomar Mountain, California": {
+  "lat": 33.3228128,
+  "lon": -116.8786359,
+  "display": "Palomar Mountain, San Diego County, California, 92060, United States"
+ },
+ "Soviet Union": {
+  "lat": 44.5666334,
+  "lon": 27.359793,
+  "display": "Soviet Union, Strada Lacului, Slobozia, Ialomi\u021ba, 920012, Rom\u00e2nia"
+ },
+ "Great Falls, Montana": {
+  "lat": 47.5048851,
+  "lon": -111.29189,
+  "display": "Great Falls, Cascade County, Montana, United States"
+ },
+ "Minneapolis": {
+  "lat": 44.9772995,
+  "lon": -93.2654692,
+  "display": "Minneapolis, Hennepin County, Minnesota, United States"
+ },
+ "city airport": {
+  "lat": 42.4021356,
+  "lon": -83.0210546,
+  "display": "City Airport, Detroit, Wayne County, Michigan, 48282, United States"
+ },
+ "Air Force base, Korea": {
+  "lat": 35.1992158,
+  "lon": 129.1504231,
+  "display": "\uc7a5\uc0b0 \uacf5\uad70\uae30\uc9c0, \uc6b01\ub3d9, \ud574\uc6b4\ub300\uad6c, \ubd80\uc0b0\uad11\uc5ed\uc2dc, \ub300\ud55c\ubbfc\uad6d"
+ },
+ "Tremonton, Utah": {
+  "lat": 41.7120775,
+  "lon": -112.165779,
+  "display": "Tremonton, Box Elder County, Utah, United States"
+ },
+ "Passaic, New Jersey, United States": {
+  "lat": 41.0461864,
+  "lon": -74.3177933,
+  "display": "Passaic County, New Jersey, United States"
+ },
+ "field near road": {
+  "lat": 41.8654436,
+  "lon": -87.6487821,
+  "display": "Les Miller Field, 901, West Roosevelt Road, University Village, Little Italy, Near West Side, Chicago, West Chicago Township, Cook County, Illinois, 60608, United States"
+ },
+ "Yorkshire, United Kingdom": {
+  "lat": 53.9825271,
+  "lon": -1.38525,
+  "display": "Yorkshire, England, United Kingdom"
+ },
+ "Budapest, Hungary": {
+  "lat": 47.4978789,
+  "lon": 19.0402383,
+  "display": "Budapest, K\u00f6z\u00e9p-Magyarorsz\u00e1g, Magyarorsz\u00e1g"
+ },
+ "Poland and East Germany, Poland": null,
+ "Poland and East Germany": null,
+ "Leningrad, Soviet Union": {
+  "lat": 60.1969953,
+  "lon": 29.6081811,
+  "display": "\u0413\u0435\u0440\u043e\u044e \u0421\u043e\u0432\u0435\u0442\u0441\u043a\u043e\u0433\u043e \u0421\u043e\u044e\u0437\u0430 \u0423\u0448\u043a\u043e\u0432\u0443 \u0414. \u041a., \u041f\u043b\u044f\u0436\u0435\u0432\u0430\u044f \u0443\u043b\u0438\u0446\u0430, \u0423\u0448\u043a\u043e\u0432\u043e, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433, \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 189810, \u0420\u043e\u0441\u0441\u0438\u044f"
+ },
+ "Moscow, Soviet Union": null,
+ "Moscow": {
+  "lat": 55.625578,
+  "lon": 37.6063916,
+  "display": "\u041c\u043e\u0441\u043a\u0432\u0430, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f"
+ },
+ "Yerevan, Soviet Union": null,
+ "Yerevan": {
+  "lat": 40.1777112,
+  "lon": 44.5126233,
+  "display": "\u0535\u0580\u0587\u0561\u0576, \u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
+ },
+ "Clifton, New Jersey, United States": {
+  "lat": 40.8584328,
+  "lon": -74.1637553,
+  "display": "Clifton, Passaic County, New Jersey, United States"
+ },
+ "Glen Ridge, New Jersey, United States": {
+  "lat": 40.805378,
+  "lon": -74.2037566,
+  "display": "Glen Ridge, Essex County, New Jersey, 07028, United States"
+ },
+ "New York City, New York, United States": {
+  "lat": 40.7127281,
+  "lon": -74.0060152,
+  "display": "New York, United States"
+ },
+ "Union, New Jersey, United States": {
+  "lat": 40.6652251,
+  "lon": -74.3045277,
+  "display": "Union County, New Jersey, United States"
+ },
+ "Perth Amboy, New Jersey, United States": {
+  "lat": 40.5133218,
+  "lon": -74.2724241,
+  "display": "Perth Amboy, Middlesex County, New Jersey, 08861, United States"
+ },
+ "Jersey City and Woodbridge, New Jersey, United States": null,
+ "Jersey City and Woodbridge, New Jersey": null,
+ "Old Bridge, New Jersey, United States": {
+  "lat": 40.399178,
+  "lon": -74.3409036,
+  "display": "Old Bridge, Old Bridge Township, Middlesex County, New Jersey, 08857, United States"
+ },
+ "Levittown, New Jersey, United States": null,
+ "Levittown, New Jersey": null,
+ "Fanwood, New Jersey, United States": {
+  "lat": 40.6409555,
+  "lon": -74.383846,
+  "display": "Fanwood, Union County, New Jersey, 07023, United States"
+ },
+ "New Jersey, United States": {
+  "lat": 40.0757384,
+  "lon": -74.4041622,
+  "display": "New Jersey, United States"
+ },
+ "Bloomfield and Springfield, New Jersey, United States": null,
+ "Bloomfield and Springfield, New Jersey": null,
+ "Saryshagan, Soviet Union": null,
+ "Saryshagan": null,
+ "Sverdlovsk, Soviet Union": null,
+ "Sverdlovsk": {
+  "lat": 56.8382071,
+  "lon": 60.6007886,
+  "display": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433, \u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f"
+ },
+ "Westfield, New Jersey, United States": {
+  "lat": 40.651726,
+  "lon": -74.3483059,
+  "display": "Westfield, Union County, New Jersey, 07090, United States"
+ },
+ "Elizabeth and New Brunswick, New Jersey, United States": null,
+ "Elizabeth and New Brunswick, New Jersey": null,
+ "China": {
+  "lat": 34.5412252,
+  "lon": 108.9237067,
+  "display": "\u4e2d\u56fd"
+ },
+ "Cuba": {
+  "lat": 23.0131338,
+  "lon": -80.8328748,
+  "display": "Cuba"
+ },
+ "Wendover, Utah, United States": {
+  "lat": 40.7375965,
+  "lon": -114.0314197,
+  "display": "Wendover, Tooele County, Utah, 84083, United States"
+ },
+ "Bayonne, New Jersey, United States": {
+  "lat": 40.6687141,
+  "lon": -74.1143091,
+  "display": "Bayonne, Hudson County, New Jersey, 07002, United States"
+ },
+ "Nevada, United States": {
+  "lat": 39.5158825,
+  "lon": -116.853722,
+  "display": "Nevada, United States"
+ },
+ "Hawaii": {
+  "lat": 19.5938015,
+  "lon": -155.4283701,
+  "display": "Hawaii, United States"
+ },
+ "West Orange, New Jersey, United States": {
+  "lat": 40.7987113,
+  "lon": -74.2390353,
+  "display": "West Orange, Essex County, New Jersey, 07052, United States"
+ },
+ "Florham Park, New Jersey, United States": {
+  "lat": 40.7881643,
+  "lon": -74.3891647,
+  "display": "Florham Park, Morris County, New Jersey, 07932, United States"
+ },
+ "Ladakh, Nepal, Sikkim, Bhutan, Nepal, India, Bhutan": null,
+ "Ladakh, Nepal, Sikkim, Bhutan": null,
+ "Walungchung-Gola and Dhurisa, North-East Nepal, Nepal": null,
+ "Walungchung-Gola and Dhurisa, North-East Nepal": null,
+ "Lachung, Lachen, Thangu, Muguthang and Chholhamu, Sikkim, India": null,
+ "Lachung, Lachen, Thangu, Muguthang and Chholhamu, Sikkim": null,
+ "Thimpu, Bhutan": {
+  "lat": 27.4713546,
+  "lon": 89.6336729,
+  "display": "\u0f50\u0f72\u0f58\u0f0b\u0f55\u0f74\u0f42, Thimphu Dzongkhag, \u0f50\u0f72\u0f58\u0f0b\u0f55\u0f74\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0b\u0f41\u0f42\u0f0b, \u0f60\u0f56\u0fb2\u0f74\u0f42\u0f0b\u0f61\u0f74\u0f63\u0f0d"
+ },
+ "Chang La, Fukche, and Koyul, Ladakh, India": null,
+ "Chang La, Fukche, and Koyul, Ladakh": null,
+ "Fukche, Koyul, Demchok, Ladakh, India": null,
+ "Fukche, Koyul, Demchok, Ladakh": null,
+ "Kuki region, NW Nepal, Nepal": null,
+ "Kuki region, NW Nepal": null,
+ "520 miles east of Manila, Philippines": null,
+ "520 miles east of Manila": null,
+ "USSR, USSR": null,
+ "USSR": {
+  "lat": 46.3421653,
+  "lon": 48.0254474,
+  "display": "\u0421\u0421\u0421\u0420, 1/2/5, \u041a\u0430\u0437\u0430\u043d\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430, \u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u044c, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u044c, \u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u042e\u0436\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 414024, \u0420\u043e\u0441\u0441\u0438\u044f"
+ },
+ "Site 7, Sary Shagan Weapons Testing Range, USSR": null,
+ "Site 7, Sary Shagan Weapons Testing Range": null,
+ "Northeastern United States, United States": {
+  "lat": 43.039163,
+  "lon": -87.9030526,
+  "display": "United States Department of the Interior, Bureau of Land Management - Eastern States, Northeastern States District, 626, East Wisconsin Avenue, Historic Financial District, Juneautown, Downtown, Milwaukee, Milwaukee County, Wisconsin, 53202, United States"
+ },
+ "Harare International Airport, Zimbabwe": {
+  "lat": -17.9332616,
+  "lon": 31.090709,
+  "display": "Robert Gabriel Mugabe International Airport, Josiah Tungamirai Drive, Harare, Harare Province, Zimbabwe"
+ },
+ "CENTCOM": {
+  "lat": 10.3357315,
+  "lon": 123.9011738,
+  "display": "CENTCOM, Torralba Street, Sun-oc, Lahug, Cebu City, Central Visayas, 6000, Philippines"
+ },
+ "NORTHCOM, United States": null,
+ "NORTHCOM": {
+  "lat": 59.952788,
+  "lon": 10.7648999,
+  "display": "Northcom AS, Gjerdrums vei, Bakke, Nydalen, Nordre Aker, Oslo, 0872, Norge"
+ },
+ "AFRICOM": {
+  "lat": -4.3026431,
+  "lon": 15.3137038,
+  "display": "Africom, 1, Boulevard du 30 Juin, R\u00e9volution, Gombe, Kinshasa, R\u00e9publique d\u00e9mocratique du Congo"
+ },
+ "Northeastern United States": {
+  "lat": 42.3400544,
+  "lon": -71.0896964,
+  "display": "Northeastern, 360, Huntington Avenue, Fenway-Kenmore, Boston, Suffolk County, Massachusetts, 02115, United States"
+ },
+ "Colorado Springs, Colorado, United States": {
+  "lat": 38.8339578,
+  "lon": -104.825348,
+  "display": "Colorado Springs, El Paso County, Colorado, United States"
+ },
+ "Cheyenne Mountain, Fort Carson, Colorado, United States": {
+  "lat": 38.7675136,
+  "lon": -104.8084541,
+  "display": "Cheyenne Mountain Presbyterian Church, 4450, Westmeadow Drive, Colorado Springs, El Paso County, Colorado, 80906, United States"
+ },
+ "Karaganda International Airport, Kazakhstan": null,
+ "Karaganda International Airport": null,
+ "EUCOM": {
+  "lat": 48.7359417,
+  "lon": 9.083829,
+  "display": "US EUCOM Plans and Operations, 7, Texasstra\u00dfe, Lauch\u00e4cker, Vaihingen, Stuttgart, Baden-W\u00fcrttemberg, 70569, Deutschland"
+ },
+ "CENTCOM, Iran": null,
+ "Yellow Sea": {
+  "lat": 36.0000002,
+  "lon": 123.9999998,
+  "display": "\u9ec4\u6d77 / \ud669\ud574 / \uc870\uc120\uc11c\ud574"
+ },
+ "Lake Huron, United States": {
+  "lat": 44.1931507,
+  "lon": -89.417434,
+  "display": "Lake Huron, Town of Oasis, Waushara County, Wisconsin, United States"
+ },
+ "Southeastern United States, United States": null,
+ "Southeastern United States": {
+  "lat": 31.5856126,
+  "lon": -102.8826804,
+  "display": "Southeastern, Monahans, Ward County, Texas, 79756, United States"
+ },
+ "countryside near Kiev, USSR": null,
+ "countryside near Kiev": null,
+ "INDOPACOM": {
+  "lat": 21.360808,
+  "lon": -157.9356587,
+  "display": "INDOPACOM Guest House, Maklalapa Drive, Makalapa Housing, \u0100liamanu, Aiea, Honolulu County, Hawaii, 96860, United States"
+ },
+ "Caucasus, USSR": null,
+ "Caucasus": {
+  "lat": 42.4913744,
+  "lon": 44.9961252,
+  "display": "Caucasus Mountains, \u10ed\u10d0\u10da\u10d8\u10e1\u10dd\u10e4\u10d4\u10da\u10d8, \u10d3\u10e3\u10e8\u10d4\u10d7\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8, \u10db\u10ea\u10ee\u10d4\u10d7\u10d0-\u10db\u10d7\u10d8\u10d0\u10dc\u10d4\u10d7\u10d8, 1800, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd"
+ },
+ "northern USSR, USSR": null,
+ "northern USSR": null,
+ "Tremonton, Utah, United States": {
+  "lat": 41.7120775,
+  "lon": -112.165779,
+  "display": "Tremonton, Box Elder County, Utah, United States"
+ },
+ "Baltichaur, NE of Pokhara, Nepal": null,
+ "Baltichaur, NE of Pokhara": null,
+ "Cheyenne Mountain, Colorado, United States": {
+  "lat": 38.737213,
+  "lon": -104.8808063,
+  "display": "Cheyenne Mountain, El Paso County, Colorado, United States"
  }
 }

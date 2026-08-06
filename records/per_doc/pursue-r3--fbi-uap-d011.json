@@ -1,0 +1,43 @@
+{
+ "doc_id": "pursue-r3--fbi-uap-d011",
+ "file": "pursue-r3--fbi-uap-d011.md",
+ "source": "PURSUE-R3",
+ "agency": "FBI",
+ "title": "FBI-UAP-D011, D/FBI Correspondence Referral, 1949",
+ "record_type": "document",
+ "index_date": "1949",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document contains correspondence between FBI Director J. Edgar Hoover and Rev. Charles Barnes regarding a 1948 sighting of light beams and an explosion in the Cascade Mountains.",
+ "incidents": [
+  {
+   "summary": "Rev. Charles Barnes observed four beams of light converging in the Cascade Mountains with a visible explosion effect at the convergence point.",
+   "date_precision": "month",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "converging",
+    "explosion effect"
+   ],
+   "country": "United States",
+   "date": "1948-05",
+   "duration": "10 minutes or longer",
+   "explanation_status": "not-assessed",
+   "location_name": "Cascade Mountains",
+   "page_refs": [
+    2
+   ],
+   "quote": "a great explosion effect was to be seen",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "size": "10,000 feet altitude",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

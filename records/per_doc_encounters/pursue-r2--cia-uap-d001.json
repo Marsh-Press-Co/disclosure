@@ -1,0 +1,11 @@
+{
+ "doc_id": "pursue-r2--cia-uap-d001",
+ "file": "pursue-r2--cia-uap-d001.md",
+ "source": "PURSUE-R2",
+ "agency": "CIA",
+ "title": "CIA-UAP-D001, Intelligence Information Report, USSR, 1973",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a CIA intelligence information report regarding the Sary Shagan weapons testing range in the USSR; it contains no encounters as the reported aerial phenomenon is a distant sighting.",
+ "encounters": []
+}

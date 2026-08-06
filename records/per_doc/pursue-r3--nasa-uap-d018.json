@@ -1,0 +1,127 @@
+{
+ "doc_id": "pursue-r3--nasa-uap-d018",
+ "file": "pursue-r3--nasa-uap-d018.md",
+ "source": "PURSUE-R3",
+ "agency": "NASA",
+ "title": "NASA-UAP-D018, Gemini 4 Experiment Debriefing, 1967",
+ "record_type": "document",
+ "index_date": "June 3-7, 1965",
+ "index_location": "Low Earth Orbit",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This document is a transcript of the Gemini IV experiment debriefing held in 1967, detailing astronaut observations of particles and other phenomena in orbit. / This document is a collection of NASA Gemini mission debriefing transcripts and related correspondence regarding scientific experiments, including observations of meteors, planets, and missile tracking.",
+ "incidents": [
+  {
+   "summary": "Astronauts McDivitt and White observed bright particles outside the Gemini IV spacecraft.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "floating",
+    "moving away from spacecraft"
+   ],
+   "country": "unknown",
+   "date": "1965-06-03",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    78,
+    79,
+    80,
+    81,
+    101
+   ],
+   "quote": "You see a crystal or two go by very once in a while.",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "2",
+   "witness_types": [
+    "astronaut"
+   ]
+  },
+  {
+   "summary": "Astronauts McDivitt and White observed bright particles outside the Gemini IV spacecraft.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "bright particles"
+   ],
+   "country": "unknown",
+   "date": "1965-06-03",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    78,
+    79,
+    80,
+    81,
+    101
+   ],
+   "quote": "recounting their observations of bright particles outside the spacecraft",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "2",
+   "witness_types": [
+    "astronaut"
+   ]
+  },
+  {
+   "summary": "Astronauts Cooper and Conrad tracked a Minuteman ICBM launched from Vandenberg AFB while in orbit.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "streaked through space"
+   ],
+   "country": "United States",
+   "date": "1965-08-24",
+   "explanation_status": "explained",
+   "location_name": "Low Earth Orbit",
+   "page_refs": [
+    132,
+    133,
+    134
+   ],
+   "quote": "I see it, I see it!",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual",
+    "ir"
+   ],
+   "shape": "missile",
+   "witness_count": "2",
+   "witness_types": [
+    "astronaut"
+   ]
+  },
+  {
+   "summary": "Astronauts Cooper and Conrad tracked a second Minuteman ICBM launch from Vandenberg AFB.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "streaked through space"
+   ],
+   "country": "United States",
+   "date": "1965-08-25",
+   "explanation_status": "explained",
+   "location_name": "Low Earth Orbit",
+   "page_refs": [
+    133
+   ],
+   "quote": "they watched a second Minuteman missile launch",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "missile",
+   "witness_count": "2",
+   "witness_types": [
+    "astronaut"
+   ]
+  }
+ ]
+}

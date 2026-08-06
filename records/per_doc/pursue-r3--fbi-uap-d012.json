@@ -1,0 +1,516 @@
+{
+ "doc_id": "pursue-r3--fbi-uap-d012",
+ "file": "pursue-r3--fbi-uap-d012.md",
+ "source": "PURSUE-R3",
+ "agency": "FBI",
+ "title": "FBI-UAP-D012, Newark Field Office, 1952-1967",
+ "record_type": "document",
+ "index_date": "August 1952-1967",
+ "index_location": "New Jersey, United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FBI Newark Field Office records regarding UAP/UFO sightings in New Jersey between 1952 and 1967, including correspondence with the Air Force and public inquiries.",
+ "incidents": [
+  {
+   "summary": "John H. Riley and George J. Stock observed and photographed a grey, dome-topped, 30-foot diameter disc-shaped object hovering 200 feet above the ground.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "tilted",
+    "antenna extended and retracted",
+    "disappeared rapidly"
+   ],
+   "color": "greyish",
+   "country": "United States",
+   "date": "1952-07-31",
+   "duration": "7 minutes",
+   "explanation_status": "not-assessed",
+   "location_name": "Passaic, New Jersey",
+   "object_count": "1",
+   "page_refs": [
+    5,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "quote": "It was near enough to shoot at with a rifle.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "photo"
+   ],
+   "shape": "disc with dome",
+   "size": "30 feet",
+   "time_local": "10:15 a.m.",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "A family observed a long, cylindrical, dark silver object with fins moving northeast, then returning at dusk.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "moving",
+    "returned"
+   ],
+   "color": "dark silver",
+   "country": "United States",
+   "date": "1957-11-05",
+   "explanation_status": "not-assessed",
+   "location_name": "Glen Ridge, New Jersey",
+   "object_count": "1",
+   "page_refs": [
+    13,
+    19
+   ],
+   "quote": "long, cylindrical, dark silver object with no wings but fins on the rear",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "cylindrical",
+   "witness_count": "4",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "A US Air Force Reserve Captain observed an object resembling an underwater demolition bomb with diamond-shaped holes emitting light.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "emitting light"
+   ],
+   "country": "United States",
+   "date": "1957-08-27",
+   "explanation_status": "not-assessed",
+   "location_name": "Clifton, New Jersey",
+   "object_count": "1",
+   "page_refs": [
+    15
+   ],
+   "quote": "object had a shape resembling that of an underwater demolition bomb",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "underwater demolition bomb",
+   "time_local": "8:30 p.m.",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Witness observed a stationary object over New York City with fast fluctuating red and blue lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "stationary",
+    "fluctuating lights"
+   ],
+   "country": "United States",
+   "date": "1957-11-12",
+   "explanation_status": "not-assessed",
+   "location_name": "New York City, New York",
+   "object_count": "1",
+   "page_refs": [
+    18
+   ],
+   "quote": "fast fluctuating red and blue lights and remained in a stationary position",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "11:15 p.m.",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Witness observed a bullet-shaped, silver object flying at high altitude with a vapor trail.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "flying south",
+    "vapor trail"
+   ],
+   "color": "silver",
+   "country": "United States",
+   "date": "1958-02-11",
+   "explanation_status": "not-assessed",
+   "location_name": "Union, New Jersey",
+   "object_count": "1",
+   "page_refs": [
+    20
+   ],
+   "quote": "bullet-shaped, silver, no wings, flying south at a very high altitude",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "bullet",
+   "time_local": "12:25 p.m.",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Witnesses observed a flaming rocket-like object descending from the sky.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "flaming",
+    "descending"
+   ],
+   "country": "United States",
+   "date": "1958-04-12",
+   "explanation_status": "not-assessed",
+   "location_name": "Perth Amboy, New Jersey",
+   "object_count": "1",
+   "page_refs": [
+    21
+   ],
+   "quote": "appeared as a flaming rocket coming down from the sky",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "rocket",
+   "time_local": "3:30 p.m.",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple reports of bright objects with bluish-white flames, initially suspected to be meteors.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "flaming",
+    "high speed"
+   ],
+   "color": "bluish-white",
+   "country": "United States",
+   "date": "1958-12-14",
+   "explanation_status": "explained",
+   "location_name": "Jersey City and Woodbridge, New Jersey",
+   "object_count": "multiple",
+   "page_refs": [
+    22,
+    23
+   ],
+   "quote": "exhaust of a brillant bluish white flame about 40 feet long",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "meteorite or comet",
+   "time_local": "12:13 a.m.",
+   "witness_count": "10+",
+   "witness_types": [
+    "federal-le",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Witnesses observed two orange, six-foot long objects flying side by side.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "flying side by side",
+    "reversed course"
+   ],
+   "color": "orange",
+   "country": "United States",
+   "date": "1959-01-03",
+   "explanation_status": "not-assessed",
+   "location_name": "Old Bridge, New Jersey",
+   "object_count": "2",
+   "page_refs": [
+    24
+   ],
+   "quote": "appeared to be two objects flying side by side",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "size": "six foot long",
+   "time_local": "4:55 p.m.",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Witness observed a silver object at a considerable distance.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "color": "silver",
+   "country": "United States",
+   "date": "1959-02-26",
+   "explanation_status": "not-assessed",
+   "location_name": "Levittown, New Jersey",
+   "object_count": "1",
+   "page_refs": [
+    25
+   ],
+   "quote": "only could identify it as a silver object",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "6:37 p.m.",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Witness observed lights changing color and dividing/recombining in the air.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "changing color",
+    "dividing and recombining"
+   ],
+   "country": "United States",
+   "date": "1959-04-22",
+   "explanation_status": "not-assessed",
+   "location_name": "Fanwood, New Jersey",
+   "object_count": "multiple",
+   "page_refs": [
+    26
+   ],
+   "quote": "lights changed color, and also divided in the air and came together again",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "10:15 p.m.",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple reports of a bright object with twinkling lights surrounded by haze.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "medium",
+   "behavior": [
+    "twinkling",
+    "vapor trail"
+   ],
+   "country": "United States",
+   "date": "1959-10-28",
+   "explanation_status": "not-assessed",
+   "location_name": "New Jersey",
+   "object_count": "1",
+   "page_refs": [
+    28,
+    29
+   ],
+   "quote": "very bright object with a number of twinkling lights around it",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "5:40 p.m.",
+   "witness_count": "7+",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple reports of a bright object with a hazy outline, stationary in the sky.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "medium",
+   "behavior": [
+    "stationary",
+    "disappeared"
+   ],
+   "country": "United States",
+   "date": "1960-01-16",
+   "explanation_status": "not-assessed",
+   "location_name": "Bloomfield and Springfield, New Jersey",
+   "object_count": "1",
+   "page_refs": [
+    30
+   ],
+   "quote": "bright object in the sky with a hazy outline around it",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "5:45 p.m.",
+   "witness_count": "4+",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Witness reported seeing three objects that changed from round to lateral/spectral shapes.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "changed shape"
+   ],
+   "country": "United States",
+   "date": "1961-02-05",
+   "explanation_status": "not-assessed",
+   "location_name": "Westfield, New Jersey",
+   "object_count": "3",
+   "page_refs": [
+    33
+   ],
+   "quote": "these objects, however, had changed from a round shape to lateral shape and appeared to be much like a spectrum",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round to lateral",
+   "time_local": "7:00 p.m.",
+   "witness_count": "4",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Witnesses reported a very bright object with reddish/tangerine color that increased in size.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "medium",
+   "behavior": [
+    "increased in size"
+   ],
+   "color": "reddish or tangerine",
+   "country": "United States",
+   "date": "1961-09-13",
+   "explanation_status": "not-assessed",
+   "location_name": "Elizabeth and New Brunswick, New Jersey",
+   "object_count": "1",
+   "page_refs": [
+    37
+   ],
+   "quote": "very bright object about midway elevation above the horizon",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "8:00 p.m.",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian",
+    "scientist"
+   ]
+  },
+  {
+   "summary": "Witness observed five round, gray objects in a diamond formation.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flying north to south"
+   ],
+   "color": "gray",
+   "country": "United States",
+   "date": "1964-05-30",
+   "explanation_status": "not-assessed",
+   "location_name": "Bayonne, New Jersey",
+   "object_count": "5",
+   "page_refs": [
+    50
+   ],
+   "quote": "round and gray in color, flying north to south in a diamond-shaped formation",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "time_local": "9:50 p.m.",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Witnesses observed three white objects that disappeared when planes approached.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "disappeared"
+   ],
+   "color": "white",
+   "country": "United States",
+   "date": "1966-07-11",
+   "explanation_status": "not-assessed",
+   "location_name": "West Orange, New Jersey",
+   "object_count": "3",
+   "page_refs": [
+    51
+   ],
+   "quote": "saw three white objects in the sky",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "10:00 p.m.",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Witness observed an inverted saucer-shaped object with a turret.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "hovering"
+   ],
+   "country": "United States",
+   "date": "1967-01-21",
+   "explanation_status": "not-assessed",
+   "location_name": "Florham Park, New Jersey",
+   "object_count": "1",
+   "page_refs": [
+    64
+   ],
+   "quote": "shaped like an inverted saucer approximately twenty-five feet in diameter with a turret on the top surface",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "photo"
+   ],
+   "shape": "inverted saucer",
+   "size": "25 feet",
+   "time_local": "7:00 a.m.",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

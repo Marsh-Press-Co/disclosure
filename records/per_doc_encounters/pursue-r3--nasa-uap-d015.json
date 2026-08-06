@@ -1,0 +1,99 @@
+{
+ "doc_id": "pursue-r3--nasa-uap-d015",
+ "file": "pursue-r3--nasa-uap-d015.md",
+ "source": "PURSUE-R3",
+ "agency": "NASA",
+ "title": "NASA-UAP-D015, Astronaut Scientific Debriefings, 1962-1963",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This document contains scientific debriefings of astronauts John Glenn and Gordon Cooper regarding visual observations during Mercury missions, including reports of luminous particles and unidentified lights. / This document is a transcript of a scientific debriefing of astronaut Walter Schirra regarding his 1962 orbital flight, containing reports of anomalous visual phenomena.",
+ "encounters": [
+  {
+   "summary": "Astronaut John Glenn reported luminous particles traveling with the Friendship-7 spacecraft during sunrise, which were later identified as particles emanating from the capsule.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1962-02-20",
+   "date_precision": "day",
+   "entity_appearance": "luminous particles, yellow-green, fluorescent in sunlight",
+   "entity_behavior": "traveling with spacecraft, moving away from thruster firings",
+   "page_refs": [
+    34,
+    35,
+    51,
+    55,
+    60,
+    61,
+    62,
+    63,
+    107
+   ],
+   "physical_effects": [
+    "engine stall",
+    "ground traces"
+   ],
+   "quote": "thousands of luminous particles apparently travelling with the spacecraft"
+  },
+  {
+   "summary": "Astronaut Gordon Cooper reported seeing a flashing light in space during night orbits, which he initially could not identify but later attributed to sunlight reflecting off the retro pack.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_content": "none",
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1963-05-15",
+   "date_precision": "day",
+   "entity_appearance": "solid light, flashing, second magnitude star brightness",
+   "entity_behavior": "moving relative to spacecraft, flashing at regular intervals",
+   "page_refs": [
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77
+   ],
+   "quote": "It was solid light. My first thought on it was that it looked just like the missiles that I have seen launched at night"
+  },
+  {
+   "summary": "Astronaut Schirra observed a brownish, smog-like layer across his entire visible horizon while drifting over the Indian Ocean, which he initially misidentified as airglow.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "unknown",
+   "date": "1962-10-03",
+   "date_precision": "day",
+   "entity_appearance": "brownish, smog-like, fog effect, diffuse layer",
+   "entity_behavior": "stationary relative to star field",
+   "location_name": "Indian Ocean",
+   "page_refs": [
+    143,
+    145,
+    147,
+    149,
+    158
+   ],
+   "physical_effects": [
+    "dimming of stars"
+   ],
+   "quote": "It was definitely toward the brown smog thing."
+  }
+ ]
+}

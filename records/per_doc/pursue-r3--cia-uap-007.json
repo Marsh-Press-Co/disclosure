@@ -1,0 +1,39 @@
+{
+ "doc_id": "pursue-r3--cia-uap-007",
+ "file": "pursue-r3--cia-uap-007.md",
+ "source": "PURSUE-R3",
+ "agency": "CIA",
+ "title": "CIA-UAP-007, Current Status Of Unidentified Flying Objects (UFO) Project.",
+ "record_type": "document",
+ "index_date": "December, 1953",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a 1953 CIA memorandum summarizing the status of U.S. and foreign government UFO projects, containing several redacted sections.",
+ "incidents": [
+  {
+   "summary": "Canadian Department of Transport investigation into UFOs led by Wilbur B. Smith.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    3
+   ],
+   "quote": "Wilbur B. Smith of the Canadian Department of Transport had been conducting saucer investigations for three years before 1952",
+   "recording_agency": "CIA"
+  },
+  {
+   "summary": "Reports of flying saucer experiments being conducted at A. V. Roe, Ltd., Toronto.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    3
+   ],
+   "quote": "experiments on a flying saucer are actually being conducted at A. V. Roe, Ltd., Toronto",
+   "recording_agency": "CIA"
+  }
+ ]
+}

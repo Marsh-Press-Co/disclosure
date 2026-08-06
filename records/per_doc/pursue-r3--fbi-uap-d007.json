@@ -1,0 +1,101 @@
+{
+ "doc_id": "pursue-r3--fbi-uap-d007",
+ "file": "pursue-r3--fbi-uap-d007.md",
+ "source": "PURSUE-R3",
+ "agency": "FBI",
+ "title": "FBI-UAP-D007, FD-1057-06, Northeastern United States, 2024",
+ "record_type": "document",
+ "index_date": "November, 2024",
+ "index_location": "Northeastern United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI FD-1057 form detailing UAP surveillance conducted by two special agents in November 2024; the text contains significant redactions of names and specific locations.",
+ "incidents": [
+  {
+   "summary": "FBI agents observed a white pulsating light moving erratically at or below the tree line near a pond.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "erratic movement",
+    "pulsating"
+   ],
+   "color": "white",
+   "country": "United States",
+   "date": "2024-11",
+   "duration": "less than ten seconds",
+   "explanation_status": "not-assessed",
+   "location_name": "Northeastern United States",
+   "page_refs": [
+    3
+   ],
+   "quote": "The white light danced around less than ten seconds, moving side to side, and then disappeared.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "2",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "FBI agents observed white lights appearing at the tree line that pulsed with a white/blue hue, and plumes of light followed by red or white flashes.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "pulsing",
+    "flashing",
+    "erratic movement"
+   ],
+   "color": "white, blue, red",
+   "country": "United States",
+   "date": "2024-11",
+   "explanation_status": "not-assessed",
+   "location_name": "Northeastern United States",
+   "page_refs": [
+    3
+   ],
+   "quote": "These lights would pulse and flash it white/blue hue and then disappear.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "photo"
+   ],
+   "witness_count": "2",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "FBI agents observed a bright white light above a bright red light hovering at tree-top height, moving quickly from right to left, disappearing, and reappearing.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "quick movement",
+    "disappearing",
+    "reappearing"
+   ],
+   "color": "white, red",
+   "country": "United States",
+   "date": "2024-11",
+   "explanation_status": "not-assessed",
+   "location_name": "Northeastern United States",
+   "page_refs": [
+    4
+   ],
+   "quote": "The UAP appeared as a bright white light above a bright red light at the far end of the pond hovered at a approximately tree-top height",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "2",
+   "witness_types": [
+    "federal-le"
+   ]
+  }
+ ]
+}

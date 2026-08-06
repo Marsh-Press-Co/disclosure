@@ -1,0 +1,28 @@
+{
+ "doc_id": "pursue-r3--fbi-uap-d008",
+ "file": "pursue-r3--fbi-uap-d008.md",
+ "source": "PURSUE-R3",
+ "agency": "FBI",
+ "title": "FBI-UAP-D008, FD-1057-07, Northeastern United States, 2024",
+ "record_type": "document",
+ "index_date": "December, 2024",
+ "index_location": "Northeastern United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI FD-1057 form detailing a site survey conducted in December 2024 to investigate UAP activity previously observed by two special agents in November 2024.",
+ "incidents": [
+  {
+   "summary": "Two FBI Special Agents observed UAP activity during a site survey in the Northeastern United States.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "federal-le"
+   ]
+  }
+ ]
+}

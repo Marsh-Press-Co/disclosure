@@ -1,0 +1,30 @@
+{
+ "doc_id": "pursue-r3--cia-uap-003",
+ "file": "pursue-r3--cia-uap-003.md",
+ "source": "PURSUE-R3",
+ "agency": "CIA",
+ "title": "CIA-UAP-003, The Central Intelligence Agency and Overhead Reconnaissance; The U-2 and OXCART Programs, 1954-1974",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 4,
+ "doc_notes": "This document is a declassified history of the CIA's U-2 and OXCART overhead reconnaissance programs, which contains references to historical overflight incidents involving foreign aircraft. / This document is a historical account of the CIA's U-2 overhead reconnaissance program from 1954 to 1974 and contains no reports of UAP or alien encounters. / This document is a declassified CIA history of the U-2 and OXCART reconnaissance programs from 1954-1974 and contains no reports of UAP or extraterrestrial encounters. / This document is a historical account of the CIA's overhead reconnaissance programs (U-2 and OXCART) and contains no reports of UAP or alien encounters.",
+ "encounters": [
+  {
+   "summary": "A British Canberra aircraft conducted an overflight of the Soviet missile test range at Kapustin Yar in 1953 and was nearly shot down by Soviet fighters.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "Soviet Union",
+   "date": "1953",
+   "date_precision": "year",
+   "location_name": "Kapustin Yar",
+   "page_refs": [
+    23,
+    36
+   ],
+   "quote": "Soviet fighters damaged and nearly shot down the Canberra."
+  }
+ ]
+}

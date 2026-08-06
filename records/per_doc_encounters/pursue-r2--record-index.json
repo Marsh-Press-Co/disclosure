@@ -1,0 +1,28 @@
+{
+ "doc_id": "pursue-r2-record-index",
+ "file": "pursue-r2--record-index.md",
+ "source": "PURSUE-R2",
+ "agency": "Department of War",
+ "title": "PURSUE Release 2 - official record index (all 64 records: documents, videos, images, audio)",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is an official index of 64 declassified records from the PURSUE-R2 collection, containing one firsthand encounter report.",
+ "encounters": [
+  {
+   "summary": "A senior intelligence official recounts encountering unidentified glowing orbs at close range and at a distance while a passenger in a helicopter, including an object that split in two and accelerated away.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "United States",
+   "date": "2025",
+   "date_precision": "year",
+   "location_name": "Western United States",
+   "page_refs": [
+    1
+   ],
+   "quote": "recounts encountering unidentified “glowing orbs” both at close range and at a distance"
+  }
+ ]
+}

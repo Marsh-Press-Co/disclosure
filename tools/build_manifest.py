@@ -37,6 +37,29 @@ def main():
         }
     )
 
+    r2r3_report_path = ROOT / "raw" / "pursue-r2r3" / "extract_report.json"
+    if r2r3_report_path.exists():
+        r2r3 = json.loads(r2r3_report_path.read_text(encoding="utf-8"))
+        for f in r2r3["files"]:
+            docs.append({**f, "text_status": "extracted-digital-or-vision"})
+
+    for rel_num, rel_source, rel_count in (("2", "PURSUE-R2", 64), ("3", "PURSUE-R3", 72)):
+        idx_path = ROOT / "corpus" / f"pursue-r{rel_num}--record-index.md"
+        if idx_path.exists():
+            docs.append(
+                {
+                    "file": idx_path.name,
+                    "id": f"pursue-r{rel_num}-record-index",
+                    "title": f"PURSUE Release {rel_num} - official record index (all {rel_count} records)",
+                    "source": rel_source,
+                    "agency": "Department of War",
+                    "pages": 1,
+                    "words": len(idx_path.read_text(encoding="utf-8").split()),
+                    "source_url": "https://www.war.gov/UFO/",
+                    "text_status": "index-metadata",
+                }
+            )
+
     on_disk = sorted(p.name for p in (ROOT / "corpus").glob("*.md"))
     listed = sorted(d["file"] for d in docs)
     missing = [f for f in listed if f not in on_disk]

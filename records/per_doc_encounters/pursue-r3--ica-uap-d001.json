@@ -1,0 +1,11 @@
+{
+ "doc_id": "pursue-r3--ica-uap-d001",
+ "file": "pursue-r3--ica-uap-d001.md",
+ "source": "PURSUE-R3",
+ "agency": "Intelligence Community Agency",
+ "title": "ICA-UAP-D001, Analysis: Colorado Springs UAP Incident, 2022",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is an intelligence analysis document regarding a UAP sighting in Colorado; it contains no encounters as defined, as the event is described as a distant airborne object and ultimately attributed to atmospheric phenomena.",
+ "encounters": []
+}

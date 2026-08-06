@@ -1,0 +1,92 @@
+{
+ "doc_id": "pursue-r3--usg-uap-d001",
+ "file": "pursue-r3--usg-uap-d001.md",
+ "source": "PURSUE-R3",
+ "agency": "U.S. Government",
+ "title": "USG-UAP-D001, Congressional, White House, UFO-related Constituent Correspondence, 1998",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of congressional correspondence regarding UFO inquiries and NASA's responses, containing several anecdotal reports of encounters.",
+ "encounters": [
+  {
+   "summary": "A constituent reported a sighting of a light rising vertically from Earth on the NASA channel, which was tracked by a shuttle camera before the feed was cut.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "USA",
+   "date": "1997-08-10",
+   "date_precision": "day",
+   "location_name": "Space (via NASA channel)",
+   "page_refs": [
+    33
+   ],
+   "quote": "I was surprised to see a light rising vertically from the bottom of the screen"
+  },
+  {
+   "summary": "A constituent reported a 1963 sighting by Major Gordon Cooper of a glowing green object that was tracked by radar near Perth, Australia.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "Australia",
+   "date": "1963-05-15",
+   "date_precision": "day",
+   "location_name": "Muchea, Australia",
+   "page_refs": [
+    35
+   ],
+   "quote": "glowing, greenish object ahead of him quickly approaching his capsule"
+  },
+  {
+   "summary": "A constituent reported a 1951 sighting by Major Gordon Cooper of metallic, saucer-shaped discs over Western Germany.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "Germany",
+   "date": "1951",
+   "date_precision": "year",
+   "entity_appearance": "metallic, saucer-shaped discs",
+   "location_name": "Western Germany",
+   "page_refs": [
+    35
+   ],
+   "quote": "metallic, saucer-shaped discs at considerable altitude"
+  },
+  {
+   "summary": "A constituent reported a 1951 sighting by Donald Slayton of a gray, saucer-shaped object that accelerated and disappeared.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "USA",
+   "date": "1951",
+   "date_precision": "year",
+   "entity_appearance": "gray, saucer-shaped disk",
+   "location_name": "Minneapolis, MN",
+   "page_refs": [
+    38
+   ],
+   "quote": "It looked like a saucer, a disk"
+  },
+  {
+   "summary": "A constituent reported an abduction of three campers at Mt. Kidtardin, Maine.",
+   "encounter_type": "claimed-abduction",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "low",
+   "claimant_firsthand": false,
+   "country": "USA",
+   "location_name": "Mt. Kidtardin, Maine",
+   "page_refs": [
+    85
+   ],
+   "quote": "3 CAMPERS WERE ABDUCTED"
+  }
+ ]
+}

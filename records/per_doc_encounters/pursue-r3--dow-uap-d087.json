@@ -1,0 +1,123 @@
+{
+ "doc_id": "pursue-r3--dow-uap-d087",
+ "file": "pursue-r3--dow-uap-d087.md",
+ "source": "PURSUE-R3",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D087, U.S. Air Force Analysis of Flying Objects in the United States, 1-100",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a U.S. Air Force analysis of unidentified flying objects containing multiple reports of close-range encounters and physical observations.",
+ "encounters": [
+  {
+   "summary": "Three objects observed in formation, described as spherical or disc-like, performing maneuvers.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "location_name": "Muroc Air Field, California",
+   "page_refs": [
+    3,
+    7,
+    8,
+    10
+   ],
+   "physical_effects": [
+    "engine stall"
+   ],
+   "quote": "all three stated that the objects were not weather balloons"
+  },
+  {
+   "summary": "Test pilot observed a yellow-amber object, 5-10 feet in diameter, performing forward whirling movements.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "location_name": "Muroc Air Field, California",
+   "page_refs": [
+    15,
+    16,
+    17
+   ],
+   "quote": "noticed a disc-like object with a forward whirling movement"
+  },
+  {
+   "summary": "Witnesses observed a black metallic object, cigar-shaped, hovering and then moving.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "medium",
+   "claimant_firsthand": true,
+   "location_name": "Seattle, Washington",
+   "page_refs": [
+    31,
+    32
+   ],
+   "quote": "black metallic object"
+  },
+  {
+   "summary": "Control tower operator observed a glowing object with a tail that changed color from amber to red.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "location_name": "Lockbourne Army Air Field, Ohio",
+   "page_refs": [
+    72,
+    74,
+    75,
+    76
+   ],
+   "physical_effects": [
+    "radiation readings"
+   ],
+   "quote": "glowing object with a tail"
+  },
+  {
+   "summary": "Pilot and crew observed a bright object performing maneuvers, described as having no control surfaces.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "location_name": "Oklahoma City, Oklahoma",
+   "page_refs": [
+    82,
+    88,
+    90
+   ],
+   "quote": "radically built and power - possibly atomic"
+  },
+  {
+   "summary": "Witnesses observed a green, soccer-ball-shaped object that appeared to dip toward the ground.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "location_name": "Passais Lake, Manitoba, Canada",
+   "page_refs": [
+    102,
+    103,
+    104
+   ],
+   "quote": "green coloured object... shape and size of a soccer ball"
+  },
+  {
+   "summary": "Witnesses observed a fire-colored, round object with a tail that appeared to spin.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "location_name": "Houston, Texas",
+   "page_refs": [
+    250,
+    251
+   ],
+   "quote": "large round ball of fire"
+  }
+ ]
+}

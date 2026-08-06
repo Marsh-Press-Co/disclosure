@@ -1,0 +1,232 @@
+{
+ "doc_id": "pursue-r3-record-index",
+ "file": "pursue-r3--record-index.md",
+ "source": "PURSUE-R3",
+ "agency": "Department of War",
+ "title": "PURSUE Release 3 - official record index (all 72 records: documents, videos, images, audio)",
+ "record_type": "index",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an official index of 72 UAP-related records released by the Department of War in 2026.",
+ "incidents": [
+  {
+   "summary": "Rev. Charles Barnes observed four beams of light converging in the Cascade Mountains with a great explosion at the convergence point.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "converging",
+    "explosion"
+   ],
+   "color": "unknown",
+   "country": "United States",
+   "date": "1949",
+   "location_name": "Cascade Mountains",
+   "page_refs": [
+    1
+   ],
+   "quote": "four beams of light “converging in the Cascade Mountains,”",
+   "recording_agency": "FBI"
+  },
+  {
+   "summary": "UFO sightings reported in Hungary, including a sketch of formation and flight path between Budapest and Moscow.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "Hungary",
+   "date": "1956",
+   "location_name": "Budapest",
+   "page_refs": [
+    1
+   ],
+   "recording_agency": "CIA"
+  },
+  {
+   "summary": "Seven UFO sightings reported in Ladakh, Nepal, Sikkim, and Bhutan.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "Nepal, India, Bhutan",
+   "date": "1968-02",
+   "location_name": "Ladakh, Nepal, Sikkim, Bhutan",
+   "page_refs": [
+    1
+   ],
+   "recording_agency": "CIA"
+  },
+  {
+   "summary": "U.S. military service member reported a motionless, bean-shaped, matte white object with an abstract polygon pattern near Colorado Springs.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "motionless"
+   ],
+   "color": "matte white",
+   "country": "United States",
+   "date": "2022-02",
+   "explanation_status": "unexplained",
+   "location_name": "Colorado Springs, Colorado",
+   "page_refs": [
+    1
+   ],
+   "quote": "“bean shaped,” “matte white” or “off-white” in color",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "bean shaped",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "U.S. military service members reported an airborne object resembling an angular, non-symmetrical potato near Colorado Springs.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "United States",
+   "date": "2022",
+   "explanation": "Sunlight backscattering from mountain snow cover on low-altitude clouds.",
+   "explanation_status": "partially-explained",
+   "location_name": "Colorado Springs, Colorado",
+   "page_refs": [
+    1
+   ],
+   "quote": "resembling an “angular, non-symmetrical potato,”",
+   "recording_agency": "Intelligence Community Agency",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "angular, non-symmetrical potato",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Reported incident near a sensitive national security site in the western United States over two days.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "country": "United States",
+   "date": "2023",
+   "explanation_status": "unexplained",
+   "location_name": "Western United States",
+   "page_refs": [
+    1
+   ],
+   "recording_agency": "Department of War",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Eyewitnesses observed two red orbs with white plasma centers hovering and moving in tandem before merging.",
+   "date_precision": "month",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "moving in tandem",
+    "merging"
+   ],
+   "color": "red",
+   "country": "United States",
+   "date": "2025-07",
+   "location_name": "Northeastern United States",
+   "page_refs": [
+    1
+   ],
+   "quote": "“brilliant red sphere” about one meter in diameter",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "video"
+   ],
+   "shape": "sphere",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Eyewitness observed two bright red luminous light sources hovering near the horizon; the lower source rotated.",
+   "date_precision": "month",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "rotating"
+   ],
+   "color": "red",
+   "country": "United States",
+   "date": "2022-03",
+   "location_name": "Northeastern United States",
+   "page_refs": [
+    1
+   ],
+   "quote": "two bright red luminous light sources hovering near the horizon",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "video"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Eyewitness observed a bright light source that resolved into multiple lights exhibiting erratic rotational motion.",
+   "date_precision": "month",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "erratic rotational motion",
+    "moving laterally"
+   ],
+   "country": "United States",
+   "date": "2021-11",
+   "location_name": "Northeastern United States",
+   "page_refs": [
+    1
+   ],
+   "quote": "multiple lights exhibiting erratic rotational motion relative to one another",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "video"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Eyewitness observed a plasma-like sphere hovering above a pond that changed shape and luminosity.",
+   "date_precision": "month",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "changing shape",
+    "changing luminosity"
+   ],
+   "country": "United States",
+   "date": "2024-10",
+   "location_name": "Northeastern United States",
+   "page_refs": [
+    1
+   ],
+   "quote": "luminous object resembled a “plasma-like sphere” intermittently changing shape and luminosity",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "video"
+   ],
+   "shape": "sphere",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,148 @@
+{
+ "doc_id": "pursue-r3--fbi-uap-d013",
+ "file": "pursue-r3--fbi-uap-d013.md",
+ "source": "PURSUE-R3",
+ "agency": "FBI",
+ "title": "FBI-UAP-D013, Washington State ‘UFO’ Investigation, 1952-1960",
+ "record_type": "document",
+ "index_date": "July 1952-1960",
+ "index_location": "Washington State, United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FBI memoranda and correspondence regarding UAP/UFO sightings in Washington State between 1952 and 1960, containing significant redactions.",
+ "incidents": [
+  {
+   "summary": "Witness observed a disc-like object that appeared to have all control surfaces removed, hovering near Pasco, Washington.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "hovering"
+   ],
+   "shape": "disc",
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "Witness observed a very large object high in the sky directly above and west of Sand Point Naval Air Station.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "moving"
+   ],
+   "color": "silver",
+   "shape": "parachute",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Witness observed a bright object in the sky high over Sand Point Naval Air Station.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "moving"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Witness observed a bright shimmering object at extreme altitude that darted off to the west.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "shimmering",
+    "darting"
+   ],
+   "shape": "ring",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Witness observed a metallic object in the sky flying westerly.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "flying"
+   ],
+   "color": "metallic",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Ground observer group supervisor reported two half-moon shaped objects over Pasco, Washington.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "forming into fireballs"
+   ],
+   "color": "white",
+   "shape": "half-moon",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Witness observed two bright objects in the sky resembling falling stars.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "falling",
+    "traveling"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Police officer observed a large, shiny, spherical metal ball hovering over Kennewick, Washington.",
+   "date_precision": "year",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "chugging",
+    "taking off"
+   ],
+   "color": "shiny",
+   "shape": "spherical",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Witness observed small objects flying away from the Alaska Union Oil Company.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "flying"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Witness observed a man on a beach with a device and bright flashes.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "flashing"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "doc_id": "pursue-r3--cia-uap-005",
+ "file": "pursue-r3--cia-uap-005.md",
+ "source": "PURSUE-R3",
+ "agency": "CIA",
+ "title": "CIA-UAP-005, German Scientist's Article on 'Flying Discs'",
+ "record_type": "document",
+ "index_date": "1950",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a 1950 CIA Information Report from Chile containing an article by Dr. Eduard Ludwig, who theorizes that reported 'Flying Discs' are advanced aircraft based on German aerodynamic research from the WWI and WWII eras.",
+ "incidents": [
+  {
+   "summary": "Observations of shining discs or circles in the dark, interpreted by the author as potentially advanced aircraft using rotary gas-turbines.",
+   "date_precision": "unknown",
+   "time_of_day": "night",
+   "confidence": "low",
+   "behavior": [
+    "shining",
+    "appearing in the dark"
+   ],
+   "explanation": "The author theorizes these are advanced aircraft utilizing rotary gas-turbines and Flettner-Rotor technology developed in German research facilities.",
+   "explanation_status": "partially-explained",
+   "page_refs": [
+    2
+   ],
+   "quote": "every report brings the description of shining discs or circles",
+   "recording_agency": "CIA",
+   "shape": "discs or circles"
+  }
+ ]
+}

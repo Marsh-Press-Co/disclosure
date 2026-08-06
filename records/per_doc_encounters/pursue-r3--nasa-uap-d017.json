@@ -1,0 +1,52 @@
+{
+ "doc_id": "pursue-r3--nasa-uap-d017",
+ "file": "pursue-r3--nasa-uap-d017.md",
+ "source": "PURSUE-R3",
+ "agency": "NASA",
+ "title": "NASA-UAP-D017, Preliminary Gemini 4 Crew Debriefing, Part II, 1965",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This is a declassified NASA Gemini 4 flight crew debriefing transcript; it contains no UAP or extraterrestrial encounter reports. / This is a declassified NASA Gemini 4 crew debriefing transcript containing reports of anomalous visual sightings during the mission.",
+ "encounters": [
+  {
+   "summary": "During the countdown, the pilot observed a multitude of wasps crawling on the spacecraft windows and the R and R section, which he jokingly noted appeared confused by the RCS nozzle.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1965",
+   "date_precision": "year",
+   "entity_appearance": "wasps",
+   "entity_behavior": "crawling on windows and R and R section",
+   "entity_count": "multitude",
+   "location_name": "Cape Kennedy",
+   "page_refs": [
+    196
+   ],
+   "quote": "a multitude of wasps sitting on the Rand R section and crawling all over the windows"
+  },
+  {
+   "summary": "During orbital flight, the crew observed parallel running lines of lights radiating from the earth up toward them, appearing like a curtain or aurora, which moved in a wiggling motion.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "unknown",
+   "date": "1965",
+   "date_precision": "year",
+   "entity_appearance": "parallel running lines of lights",
+   "entity_behavior": "wiggling back and forth like neon signs",
+   "location_name": "near Australia",
+   "page_refs": [
+    209,
+    210
+   ],
+   "quote": "parallel running lines of lights radiating from the earth up toward us"
+  }
+ ]
+}

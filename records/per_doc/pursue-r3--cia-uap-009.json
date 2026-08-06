@@ -1,0 +1,34 @@
+{
+ "doc_id": "pursue-r3--cia-uap-009",
+ "file": "pursue-r3--cia-uap-009.md",
+ "source": "PURSUE-R3",
+ "agency": "CIA",
+ "title": "CIA-UAP-009, Unknown Flying Objects Observed Over Budapest",
+ "record_type": "document",
+ "index_date": "1957",
+ "index_location": "Budapest, Hungary",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a 1957 CIA Information Report regarding UFO sightings over Budapest, though the provided text is heavily redacted and largely illegible.",
+ "incidents": [
+  {
+   "summary": "UFO sightings over Budapest, Hungary.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "country": "Hungary",
+   "date": "1957",
+   "location_name": "Budapest",
+   "page_refs": [
+    1
+   ],
+   "recording_agency": "CIA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "unknown"
+   ]
+  }
+ ]
+}

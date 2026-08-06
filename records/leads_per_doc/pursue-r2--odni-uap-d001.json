@@ -1,0 +1,15 @@
+{
+ "doc": "pursue-r2--odni-uap-d001.md",
+ "leads": [
+  {
+   "page": 1,
+   "lead_type": "debris-material",
+   "claim": "The flight crew searched for debris related to UAP sightings but identified the objects as conventional rocket and projectile remnants.",
+   "strength": "noise",
+   "why": "The document explicitly identifies the debris as conventional remnants from rockets and projectiles, making it prosaic.",
+   "outcome_in_document": "confirmed-mundane",
+   "quote": "Each time, we determined it was remnants from rockets and other projectiles"
+  }
+ ],
+ "doc_verdict": "The document contains no evidence of UAP-related material, as all debris identified was explicitly attributed to conventional rockets and projectiles."
+}

@@ -1,0 +1,51 @@
+{
+ "doc_id": "pursue-r3--dow-uap-d079",
+ "file": "pursue-r3--dow-uap-d079.md",
+ "source": "PURSUE-R3",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D079, Narrative Statement 1, Western United States Event, 2023",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a Department of War memorandum containing firsthand narratives from federal law enforcement agents regarding UAP encounters in October 2023.",
+ "encounters": [
+  {
+   "summary": "Federal law enforcement agents observed multiple glowing objects, including a large ball of light with a swirly lava-like pattern and smaller objects emitting red lights, over the course of two nights in the western United States.",
+   "encounter_type": "close-approach",
+   "claimant_type": "federal-le",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "United States",
+   "date": "2023-10",
+   "date_precision": "month",
+   "location_name": "Western United States",
+   "page_refs": [
+    1,
+    2
+   ],
+   "quote": "It was just a circle of light that looked like a swirly pattern of bright lava."
+  },
+  {
+   "summary": "Witnesses observed a vehicle-like object that appeared to hover, move off-road without following terrain, and exhibit semi-transparency, later floating in the air with dust and web-like material.",
+   "encounter_type": "close-approach",
+   "claimant_type": "federal-le",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "United States",
+   "date": "2023-10",
+   "date_precision": "month",
+   "location_name": "Western United States",
+   "page_refs": [
+    2
+   ],
+   "physical_effects": [
+    "hovering",
+    "no dust kicked up"
+   ],
+   "quote": "It did not bounce or move with the terrain, but seemed to hover."
+  }
+ ]
+}

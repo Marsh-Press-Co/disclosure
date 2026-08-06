@@ -1,0 +1,92 @@
+{
+ "doc_id": "pursue-r3--fbi-uap-d012",
+ "file": "pursue-r3--fbi-uap-d012.md",
+ "source": "PURSUE-R3",
+ "agency": "FBI",
+ "title": "FBI-UAP-D012, Newark Field Office, 1952-1967",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FBI Newark Field Office reports regarding UAP sightings and investigations from 1952 to 1967, containing several specific encounter reports.",
+ "encounters": [
+  {
+   "summary": "John H. Riley and George J. Stock observed and photographed a grey, 30-foot diameter saucer with a dome and retractable antenna hovering 200 feet above the ground.",
+   "encounter_type": "occupant-report",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1952-07-31",
+   "date_precision": "day",
+   "entity_appearance": "greyish disk, 30 feet in diameter, large dome, antenna",
+   "entity_behavior": "hovered, tilted to observe ground, antenna darted out and was withdrawn",
+   "location_name": "Passaic, N.J.",
+   "page_refs": [
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "quote": "As it drew nearer it came to a complete stop and hovered overhead for several moments"
+  },
+  {
+   "summary": "Gary T. Wilcox reported an encounter with an egg-shaped craft and two small beings in silver uniforms in his pasture.",
+   "encounter_type": "occupant-report",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_content": "Requested organic compounds",
+   "communication_method": "verbal",
+   "country": "USA",
+   "date": "1965",
+   "date_precision": "year",
+   "entity_appearance": "two small men, 2 feet tall, silver uniforms and hoods",
+   "location_name": "Newark Valley, N.Y.",
+   "page_refs": [
+    58
+   ],
+   "quote": "I know what I saw for two hours. I was talking with them and even joking with them"
+  },
+  {
+   "summary": "Charles Cozens claimed to have touched the antenna of a glowing flying ship, resulting in a burn on his hand.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "USA",
+   "date": "1966-04-01",
+   "date_precision": "day",
+   "entity_appearance": "ship 8-9 feet high, 4 feet wide, 10 feet long, four legs, antenna",
+   "location_name": "Hamilton, Ont.",
+   "page_refs": [
+    61
+   ],
+   "physical_effects": [
+    "two-inch yellowish burn mark on hand"
+   ],
+   "quote": "When he touched the antenna, a flash of electricity occurred and the ship took off"
+  },
+  {
+   "summary": "Peter M. Mackevich, age 11, observed an inverted saucer-shaped object with a turret hovering 10-12 feet above the ground and took two photographs.",
+   "encounter_type": "occupant-report",
+   "claimant_type": "civilian",
+   "document_stance": "forwarded-no-action",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "USA",
+   "date": "1967-01-21",
+   "date_precision": "day",
+   "entity_appearance": "inverted saucer, 25 feet in diameter, turret on top",
+   "location_name": "Florham Park, N.J.",
+   "page_refs": [
+    64,
+    65,
+    66
+   ],
+   "quote": "shaped like an inverted saucer approximately twenty-five feet in diameter with a turret on the top surface"
+  }
+ ]
+}

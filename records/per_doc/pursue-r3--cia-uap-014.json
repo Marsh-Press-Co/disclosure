@@ -1,0 +1,76 @@
+{
+ "doc_id": "pursue-r3--cia-uap-014",
+ "file": "pursue-r3--cia-uap-014.md",
+ "source": "PURSUE-R3",
+ "agency": "CIA",
+ "title": "CIA-UAP-014, British activity in the Field of \"Unidentified Flying Objects\"",
+ "record_type": "document",
+ "index_date": "December, 1952",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a CIA memorandum from December 1952 regarding British activities and committees investigating UFOs, which also references several other historical sightings.",
+ "incidents": [
+  {
+   "summary": "A 'perfect flying saucer' was observed by high RAF officials and pilots during a demonstration at a Yorkshire airfield.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "demonstration"
+   ],
+   "country": "United Kingdom",
+   "date": "1952-12-03",
+   "explanation_status": "not-assessed",
+   "location_name": "Yorkshire",
+   "page_refs": [
+    1
+   ],
+   "quote": "a \"perfect flying saucer\" was seen by these officials as well as RAF pilots",
+   "recording_agency": "CIA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "flying saucer",
+   "witness_types": [
+    "military-other",
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Reference to a historical UFO sighting in Sweden.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "country": "Sweden",
+   "date": "1946",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    1
+   ],
+   "quote": "Jones reminded us of the Swedish incident",
+   "recording_agency": "CIA"
+  },
+  {
+   "summary": "Reference to the Tremonton, Utah UFO film incident.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "country": "United States",
+   "explanation_status": "not-assessed",
+   "location_name": "Tremonton, Utah",
+   "page_refs": [
+    1
+   ],
+   "quote": "the film which had been taken by the Naval non-commissioned officer (Tremonton incident)",
+   "recording_agency": "CIA",
+   "sensors": [
+    "photo",
+    "video"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

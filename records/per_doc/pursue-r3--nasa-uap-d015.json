@@ -1,0 +1,223 @@
+{
+ "doc_id": "pursue-r3--nasa-uap-d015",
+ "file": "pursue-r3--nasa-uap-d015.md",
+ "source": "PURSUE-R3",
+ "agency": "NASA",
+ "title": "NASA-UAP-D015, Astronaut Scientific Debriefings, 1962-1963",
+ "record_type": "document",
+ "index_date": "1962-1963",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This document contains transcripts and memoranda regarding astronaut observations of luminous phenomena and atmospheric layers during the Mercury program, specifically focusing on the 'Glenn effect' and scientific experiments conducted by astronauts. / This document is a transcript of a NASA scientific debriefing with astronaut Walter Schirra regarding his October 1962 orbital flight, focusing on atmospheric phenomena and visual observations.",
+ "incidents": [
+  {
+   "summary": "Astronaut John Glenn reported seeing thousands of luminous particles traveling with the Friendship-7 spacecraft at sunrise.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "traveling with spacecraft",
+    "moving at same speed and direction",
+    "repulsive charge effect near spacecraft"
+   ],
+   "color": "yellow-green",
+   "country": "n/a",
+   "date": "1962-02-20",
+   "explanation": "Particles associated with the spacecraft or booster, likely snowflakes from life-support steam or dust/insulation.",
+   "explanation_status": "explained",
+   "location_name": "orbital space",
+   "page_refs": [
+    34,
+    35,
+    51,
+    55,
+    60,
+    61,
+    62
+   ],
+   "quote": "thousands of luminous particles apparently travelling with the spacecraft",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "luminous particles",
+   "witness_count": "1",
+   "witness_types": [
+    "astronaut"
+   ]
+  },
+  {
+   "summary": "Astronaut John Glenn observed a luminous band 6-8 degrees above the horizon with a haze layer.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "luminous band",
+    "haze layer"
+   ],
+   "country": "n/a",
+   "date": "1962-02-20",
+   "explanation": "Likely airglow or MIE scattering from dust.",
+   "explanation_status": "partially-explained",
+   "location_name": "orbital space",
+   "page_refs": [
+    36,
+    51,
+    55,
+    56
+   ],
+   "quote": "band six to eight degrees above the horizon",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "astronaut"
+   ]
+  },
+  {
+   "summary": "Astronaut Scott Carpenter observed a luminous band around the horizon using an airglow filter.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "luminous band",
+    "continuous around horizon"
+   ],
+   "country": "n/a",
+   "date": "1962-05-24",
+   "explanation": "Identified as the 5577 Angstrom airglow layer.",
+   "explanation_status": "explained",
+   "location_name": "orbital space",
+   "page_refs": [
+    57,
+    58,
+    59
+   ],
+   "quote": "luminous band visible around the horizon",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "astronaut"
+   ]
+  },
+  {
+   "summary": "Astronaut Gordon Cooper observed a flashing light beacon ejected from the spacecraft.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flashing",
+    "drifting",
+    "glowing"
+   ],
+   "country": "n/a",
+   "date": "1963-05-16",
+   "explanation": "Ejected beacon experiment.",
+   "explanation_status": "explained",
+   "location_name": "orbital space",
+   "page_refs": [
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77
+   ],
+   "quote": "The light is flashing, now. It is the light.",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "astronaut"
+   ]
+  },
+  {
+   "summary": "Astronaut Gordon Cooper observed luminous particles streaming from the spacecraft after thruster firing.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "streaming",
+    "moving away from spacecraft"
+   ],
+   "country": "n/a",
+   "date": "1963-05-16",
+   "explanation": "Particles from thruster exhaust.",
+   "explanation_status": "explained",
+   "location_name": "orbital space",
+   "page_refs": [
+    107,
+    108
+   ],
+   "quote": "tremendous streams of luminous particles of fireflies",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "astronaut"
+   ]
+  },
+  {
+   "summary": "Astronaut Schirra observed a luminous brownish smog-like layer or belt while in orbit over the Indian Ocean/Africa region.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "stationary relative to stars",
+    "diffuse"
+   ],
+   "color": "brownish-gray",
+   "country": "unknown",
+   "date": "1962-10-03",
+   "duration": "1-3 minutes",
+   "explanation": "The phenomenon was discussed as a potential high-altitude smog or atmospheric layer, possibly related to magnetic anomalies or nitrogen effects, though Schirra expressed skepticism about nitrogen outgassing.",
+   "explanation_status": "partially-explained",
+   "location_name": "South Atlantic/Indian Ocean region",
+   "object_count": "1",
+   "page_refs": [
+    144,
+    145,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    158,
+    159,
+    160,
+    161,
+    162
+   ],
+   "quote": "It was definitely toward the brown smog thing. Sort of Brownish gray - rather it wasn't black or white.",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "layer",
+   "size": "10 degrees thick",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

@@ -139,12 +139,61 @@ The crash-and-bodies story is *in* the government's files — as recorded claims
 ## 6. Open threads worth pulling next (R2-R4 / NARA / FOIA)
 
 1. **The Socorro charred sample** — collected by Albuquerque FBI (Section 9,
-   p.235). Where did it go? No disposition in file.
+   p.235). Where did it go? No disposition in file. **Still open** — R2/R3 did
+   not touch this specific 1964-era sample (see the addendum below for a
+   *different* Socorro physical-evidence episode R2 did surface).
 2. **The Milwaukee object** (Section 10, p.172) — police-recovered metal,
-   inconclusive; any lab follow-up would be in FBI Lab or AMC files.
+   inconclusive; any lab follow-up would be in FBI Lab or AMC files. **Still
+   open** — not referenced in R2/R3.
 3. **The "Ia. case"** — find the underlying July 1947 field file naming the
-   object the Army seized.
+   object the Army seized. **Still open** — not referenced in R2/R3.
 4. **Serial 164** (air intelligence requirements) — the corpus's densest
-   custody-language file (120 sweep hits); worth a close manual read.
-5. **NSA's May 2026 "Top Secret Umbra" release and PURSUE R2-R4** — run this
-   same sweep the moment they're ingested; the pipeline is standing.
+   custody-language file (120 sweep hits); worth a close manual read. **Still
+   open** — not referenced in R2/R3.
+5. ~~NSA's May 2026 "Top Secret Umbra" release and PURSUE R2-R4~~ — **R2+R3
+   swept 2026-08-06** (see addendum). R4 (40 records, 2026-07-10) and the NSA
+   release remain unpulled.
+
+## Addendum — PURSUE Release 2 + 3 sweep (2026-08-06)
+
+*Corpus grew from 126 to 197 documents. Same lexicon-sweep-then-LLM-evaluate
+method rerun over the full (now larger) corpus: 60→**89 documents** carried a
+sweep hit, 56→**140 non-noise leads**, 29→**31 strong** — 2 new strong leads,
+both in R3 (the jump in total leads is mostly new R2/R3 docs' own hits, not
+re-evaluation of R1 - eval_leads.py is resumable and skips already-scored
+docs).*
+
+- **New custody-machinery entry: the Sandia/Socorro copper-dust program,
+  1949.** R2's DOW-UAP-D017 (116 pages, born-digital, Armed Forces Special
+  Weapons Program + USAF correspondence) documents 209 sightings at Sandia
+  Base, 1948-1950, and a distinct physical-evidence thread: a July 24, 1949
+  green fireball near Socorro, NM, triggered a multi-week systematic
+  copper-particle dust-collection effort run by the New Mexico School of
+  Mines (Dr. Crozier, Ben Seely) to test whether elevated copper readings in
+  local dust tracked the fireball (pp.5-12). Multiple follow-up collections
+  were compared across dates. **The document's own disposition is
+  inconclusive**, not silent: "it must be supposed that such air motions as
+  occurred were approximately compensating... only a detailed study of air
+  mass motions for the time interval involved can settle this point" (p.12).
+  This is a different Socorro from the 1964 Zamora charred-sample thread
+  (open thread #1 above) — same town, 15 years apart, both still
+  unresolved in the released paper, but this one shows the government's
+  *analysis actually running to a stated (negative) conclusion* rather than
+  trailing off.
+- **New denial-ledger entries, five years earlier than the prior earliest
+  instance.** Two ATIC (Air Technical Intelligence Center) statements from
+  R3, both "strong" leads:
+  - CIA-UAP-002 p.20 (1952-53 CIA Scientific Advisory Panel report): "the
+    absence of hard hardware resulting from unexplained u.f.o. sightings" —
+    outcome coded `denied-by-government`.
+  - CIA-UAP-019 p.15 (Australian DoD's own file on the US program): "ATIC was
+    unable to provide UFO hardware or detailed photographs" — outcome coded
+    `confirmed-mundane`.
+  The prior corpus's earliest same-posture denial was 1947 (Air Materiel
+  Command); these push the same "we have no hardware" institutional stance
+  back into ATIC's earliest years, and confirm it as ATIC's *own* stated
+  position, not just later agencies characterizing ATIC's era in hindsight.
+- **Nothing else in R2/R3 touches open threads #1-4** (checked by direct
+  text search: no "Socorro" hit tied to 1964/Zamora, no "Milwaukee" hit
+  besides an unrelated NASA astronaut-biography coincidence, no "Ia. case"
+  or "Serial 164" references).

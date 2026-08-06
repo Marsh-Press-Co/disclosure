@@ -1,0 +1,34 @@
+{
+ "doc": "pursue-r3--dow-uap-d088.md",
+ "leads": [
+  {
+   "page": 3,
+   "lead_type": "debris-material",
+   "claim": "Meteorites were recovered from a meteor event over northern Kansas.",
+   "strength": "noise",
+   "why": "The document explicitly identifies the recovered material as meteorites, which are natural phenomena."
+  },
+  {
+   "page": 5,
+   "lead_type": "biological",
+   "claim": "A 1913 meteor procession consisted of illuminated bodies moving in rigid formation.",
+   "strength": "noise",
+   "why": "The text describes a meteor shower or atmospheric phenomenon, not biological entities or physical craft."
+  },
+  {
+   "page": 22,
+   "lead_type": "debris-material",
+   "claim": "Observation of smoke and debris trailing an object.",
+   "strength": "noise",
+   "why": "The context refers to standard aircraft or missile observation checklists rather than recovered UAP material."
+  },
+  {
+   "page": 23,
+   "lead_type": "debris-material",
+   "claim": "Objects sighted near Bakersfield were described as falling aircraft with smoke and debris trailing.",
+   "strength": "noise",
+   "why": "The description explicitly compares the objects to falling aircraft, indicating conventional debris."
+  }
+ ],
+ "doc_verdict": "This document contains no evidence of recovered UAP material, as all references to debris or bodies pertain to meteorites, atmospheric phenomena, or conventional aircraft."
+}

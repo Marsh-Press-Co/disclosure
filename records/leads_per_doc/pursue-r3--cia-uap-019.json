@@ -1,0 +1,18 @@
+{
+ "doc": "pursue-r3--cia-uap-019.md",
+ "leads": [
+  {
+   "page": 15,
+   "lead_type": "analysis-of-material",
+   "claim": "ATIC was unable to provide physical hardware or detailed photographs regarding UFO reports.",
+   "strength": "strong",
+   "why": "The document explicitly addresses the lack of physical material (hardware) in the possession of the Air Technical Intelligence Centre.",
+   "claimant": "Air Technical Intelligence Centre (ATIC)",
+   "custody_chain": "ATIC",
+   "government_response": "ATIC reported an inability to provide evidence.",
+   "outcome_in_document": "confirmed-mundane",
+   "quote": "ATIC was unable to provide UFO hardware or detailed photographs."
+  }
+ ],
+ "doc_verdict": "The document explicitly states that the Air Technical Intelligence Centre (ATIC) was unable to provide any physical hardware or detailed photographs, confirming that no such material was in their possession."
+}

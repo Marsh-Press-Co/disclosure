@@ -1,0 +1,27 @@
+{
+ "doc_id": "pursue-r3--cia-uap-008",
+ "file": "pursue-r3--cia-uap-008.md",
+ "source": "PURSUE-R3",
+ "agency": "CIA",
+ "title": "CIA-UAP-008, Speculative Paper By N Kardashev and A Sakharov on Charged Mass in Space at Conference on Origins Of Life, Armenia, 6-8 September 1971/Low Scientific Level Of Other Soviet Papers",
+ "record_type": "document",
+ "index_date": "1972",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a 1972 CIA Intelligence Information Report summarizing a US attendee's observations of a scientific conference in Armenia held in 1971.",
+ "incidents": [
+  {
+   "summary": "A Soviet committee member gave a talk regarding the investigation of flying saucers at a conference in Armenia.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    2
+   ],
+   "quote": "Another Soviet, who was a member of a committee the USSR has established to investigate unusual phenomena, in other words, flying saucers",
+   "recording_agency": "CIA"
+  }
+ ]
+}
