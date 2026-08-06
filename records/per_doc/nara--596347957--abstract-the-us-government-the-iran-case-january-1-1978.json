@@ -1,0 +1,81 @@
+{
+ "doc_id": "nara--596347957--abstract-the-us-government-the-iran-case-january-1-1978",
+ "file": "nara--596347957--abstract-the-us-government-the-iran-case-january-1-1978.md",
+ "source": "NARA-RG615",
+ "agency": "NSA",
+ "title": "Abstract: The US Government & The Iran Case, January 1, 1978",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an abstract from the International UFO Reporter (IUR) discussing the 1976 Iran UAP case and a 1977 Guatemala videotape incident.",
+ "incidents": [
+  {
+   "summary": "Iranian Air Force F-4 jets encounter a UAP that causes instrumentation and communication failure, deploys smaller objects, and lands on a dry lake bed.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "cat and mouse",
+    "paralyzing electronics",
+    "radar lock",
+    "moving away",
+    "ejecting smaller objects",
+    "fast rate of speed",
+    "rejoin",
+    "landing",
+    "beeper signal"
+   ],
+   "color": "blue, green, red, orange",
+   "country": "Iran",
+   "date": "1976-09-19",
+   "explanation_status": "not-assessed",
+   "location_name": "Tehran",
+   "object_count": "multiple",
+   "page_refs": [
+    1,
+    2
+   ],
+   "quote": "The object and the pursuing F-4 continued on a course to the south of Tehran",
+   "recording_agency": "Pentagon",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "bird-like, helicopter, star-like, cylinder",
+   "size": "comparable to 707 tanker",
+   "time_local": "01:30",
+   "witness_count": "multiple",
+   "witness_types": [
+    "military-pilot",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "A camera crew filming a commercial in Guatemala City captures a UAP on color videotape.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "medium",
+   "behavior": [
+    "flying into field of view"
+   ],
+   "country": "Guatemala",
+   "date": "1977-10-05",
+   "explanation_status": "not-assessed",
+   "location_name": "Guatemala City",
+   "page_refs": [
+    2
+   ],
+   "quote": "the first incident, to our knowledge, of a color videotape recording a UFO",
+   "sensors": [
+    "video",
+    "visual"
+   ],
+   "time_local": "10:40",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

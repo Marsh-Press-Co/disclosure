@@ -1,0 +1,28 @@
+{
+ "doc_id": "nara--596347945--1-report-of-ufo-crash-in-47-called-false-by-science-panel-ne",
+ "file": "nara--596347945--1-report-of-ufo-crash-in-47-called-false-by-science-panel-ne.md",
+ "source": "NARA-RG615",
+ "agency": "NSA",
+ "title": "(1) \"Report of UFO Crash in '47 Called False by Science Panel.\" New York Times. August 26, 1987\n(2) Sangeorge, Robert. \"UFO Group Wants Secret Documents.\" UPI. August 26, 1987",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document consists of two news articles from 1987 discussing the debunking of the Majestic 12 (MJ-12) documents by the Committee for the Scientific Investigation of Claims of the Paranormal.",
+ "incidents": [
+  {
+   "summary": "Alleged crash of a flying saucer and recovery of four alien bodies in 1947.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "explanation": "Determined to be a clumsy counterfeit by the Committee for the Scientific Investigation of Claims of the Paranormal.",
+   "explanation_status": "explained",
+   "page_refs": [
+    1
+   ],
+   "quote": "the Pentagon recovered a crashed flying saucer and the bodies of four alien creatures in 1947",
+   "recording_agency": "NSA"
+  }
+ ]
+}

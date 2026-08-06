@@ -1,0 +1,48 @@
+{
+ "doc_id": "nara--47323287--community-relations-documentation-1970-47323287",
+ "file": "nara--47323287--community-relations-documentation-1970-47323287.md",
+ "source": "NARA-RG615",
+ "agency": "USAF",
+ "title": "Community relations documentation 1970 - 47323287",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of administrative correspondence, community relations records, and internal memoranda from the USAF 21st Air Division (ADC) at Hancock Field, Syracuse, NY, covering the year 1970.",
+ "incidents": [
+  {
+   "summary": "Enrico Grimaldi observed multiple unidentified objects moving in a uniform pattern across the night sky.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "moved in a straight line",
+    "moved in a uniform pattern"
+   ],
+   "color": "faint",
+   "country": "USA",
+   "date": "1970-11-21",
+   "duration": "2 or 3 seconds",
+   "explanation_status": "not-assessed",
+   "location_name": "Commack, Long Island, NY",
+   "object_count": "8",
+   "page_refs": [
+    2,
+    3,
+    4
+   ],
+   "quote": "The objects looked like faint stars, they moved in a straight line from north to south.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "dots",
+   "time_local": "9:50 P.M.",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

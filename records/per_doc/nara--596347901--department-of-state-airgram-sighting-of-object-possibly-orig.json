@@ -1,0 +1,45 @@
+{
+ "doc_id": "nara--596347901--department-of-state-airgram-sighting-of-object-possibly-orig",
+ "file": "nara--596347901--department-of-state-airgram-sighting-of-object-possibly-orig.md",
+ "source": "NARA-RG615",
+ "agency": "NSA",
+ "title": "Department of State AIRGRAM: Sighting of Object Possibly Originating from Space Vehicle, May 18, 1966",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a Department of State airgram from the American Embassy in Tokyo regarding a press report of a UAP sighting in Nemuro, Japan, and questioning the necessity of reporting such dubious events.",
+ "incidents": [
+  {
+   "summary": "Observation of an unidentified object near Nemuro, Japan, as reported in the Yomiuri newspaper.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "behavior": [],
+   "color": "",
+   "country": "Japan",
+   "date": "1966-05-10",
+   "duration": "",
+   "explanation": "The embassy notes the validity of the observations seems dubious.",
+   "explanation_status": "not-assessed",
+   "location_name": "Nemuro, Japan",
+   "object_count": "",
+   "page_refs": [
+    1
+   ],
+   "quote": "no other papers have discussed the Nemuro observations",
+   "recording_agency": "Department of State",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "",
+   "size": "",
+   "time_local": "",
+   "witness_count": "",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

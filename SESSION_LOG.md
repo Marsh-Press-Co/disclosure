@@ -4,6 +4,59 @@ Running project history, newest entries first. Current state lives in the vault 
 (`MindHive/10-Projects/Disclosure/_Disclosure-Hub.md`); this file records what
 happened when.
 
+## 2026-08-06 — NARA RG 615 ingested (tiers A+B + selected): the collection joins the corpus
+
+**Shipped/Done**
+- **Recon**: unauthenticated proxy API works (683 catalog records; 675 items =
+  FAA 575, NSA 40, OSD 30, State 11, NRC 9, FBI 6 incl. 2024 Guardian case
+  files + a Jan-2025 FD-302, ODNI 4). Bulk page mapped with real sizes; the
+  ~350 GB sanitized-Blue-Book set and other monsters expressly deferred
+  (Marsh's storage question answered: ~5.8 GB pulled, zips deleted after
+  extraction, project ≈ 8 GB total).
+- **Acquired**: 4 agency-transfer zips + all metadata JSONs + presidential
+  libraries + small textual units + Gemini VII transcript + Blue Book
+  sightings archive + **Roswell Report source files (2.91 GB)**; FBI/State/NSA
+  fetched per-object via catalog digitalObjects. 150/151 files (1 = NARA's own
+  malformed link).
+- **Built**: 168 net-new corpus docs (FAA's 575 one-pagers bundled into 23
+  batch docs; 61 scan PDFs = 845 pages vision-transcribed incl. the 341-page
+  Gemini VII transcript; ~2,084 loose exhibit images deferred). 5 NARA
+  re-publications of AARO/ODNI reports caught by new tools/sweep_twin_docs.py
+  and retired with their extraction outputs.
+- **Final state**: corpus **384 docs / 3.31M words / 12,258 pages** · **1,455
+  canonical incidents** (★19) · **516 encounters** · graph **4,268 nodes /
+  3,350 edges / 30 named communities** · globe **982 placed**. Lifetime
+  Gemini: 7.07M input tokens, **$0 cash**.
+- **Leaderboard now historic**: Arnold ★3 (FBI/USAF/NSA), Roswell-1947 ★3
+  (USAF/GAO/FBI), Tremonton ★3, Tehran-1976 ★3 (DIA/USDAO/Pentagon),
+  JAL 1628 ★2 (inquiry-response paper, noted as such).
+- **Retrieval trail moved both directions**: modern custody-machinery language
+  in OSD briefings (NASIC "exploitation and analysis of recovered UAP objects
+  and material"; AARO S&T "recovery planning and execution") + ORNL's
+  published specimen analysis = first complete custody→analysis→verdict chain
+  (mundane). Addenda written to FINDINGS + RETRIEVAL_TRAIL.
+
+**Verified** — every lead placed in an addendum was checked against source
+text first; catches: "Cutler-Twining memo" lead = 1987 Washington Times
+clipping about the alleged planted memo; JAL ★4 was inquiry-mailbag +
+ARTCC-alias + collection-context inflation → honest ★2 (rules hardened:
+ARTCC→FAA alias, PUBLISHERS exclusion set incl. archive-context labels).
+
+**Gotchas (promoted here)**
+- NARA catalog: API v2 URL serves an HTML shell but
+  `catalog.archives.gov/proxy/records/search?recordGroupNumber=615` works
+  unauthenticated; catalog listing contains duplicate hits (dedupe by naId).
+- The bulk page has at least one malformed link ("vhttps") — skip, don't retry.
+- Twin sweep title-gate must be loose (0.3) — body-token overlap is the
+  decisive test (NARA retitles the same reports).
+- Archive-context doc-agency labels (e.g. "USAF (Roswell Report)") corroborate
+  nothing — keep the PUBLISHERS exclusion set current when adding sources.
+
+**Deferred/next** — deferred NARA monsters (sanitized Blue Book ~350 GB,
+Condon 66 GB, OSI 34 GB, AIR 34 GB, 4602d 30 GB) with selective per-case pulls
+as the stated path; Roswell exhibit images (~2,084); NUFORC join; site public
+flip (Marsh's go); navaid geocoding for FAA VOR locations.
+
 ## 2026-08-06 — Review pass over the R2-R4 ingests (Clyde verifying Sonnet's work) + fix batch
 
 **Verified clean:** corpus 215 == manifest == disk; all headline counts consistent

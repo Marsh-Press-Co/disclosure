@@ -1,0 +1,37 @@
+{
+ "doc_id": "nara--596347943--report-bibliography-defense-documentation-center-dod-instruc",
+ "file": "nara--596347943--report-bibliography-defense-documentation-center-dod-instruc.md",
+ "source": "NARA-RG615",
+ "agency": "NSA",
+ "title": "Report Bibliography: Defense Documentation Center, DoD Instruction 5100.38, July 1, 1969",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a report bibliography from the Defense Documentation Center listing various technical reports and studies related to UAP/UFOs, including the Condon Committee reports.",
+ "incidents": [
+  {
+   "summary": "Study of observers reporting a light in the night sky as stationary when it was actually moving, a phenomenon termed autostasis.",
+   "date_precision": "year",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "moving continuously along a linear course"
+   ],
+   "explanation_status": "explained",
+   "page_refs": [
+    5
+   ],
+   "quote": "THREE OF FIVE OBSERVERS OF A LIGHT IN THE NIGHT SKY THAT WAS ACTUALLY MOVING CONTINUOUSLY ALONG A LINEAR COURSE REPORTED IT AS STATIONARY",
+   "recording_agency": "Colorado University Boulder",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "5",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

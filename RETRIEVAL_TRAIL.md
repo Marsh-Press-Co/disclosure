@@ -136,6 +136,44 @@ The crash-and-bodies story is *in* the government's files — as recorded claims
   testimony (2023-24) and flat "no evidence" findings (1947 AMC → 2026 AARO).
   The record, as released, holds both without resolving them.
 
+## Addendum — the NARA collection's contribution (2026-08-06)
+
+The trail's strongest movement yet, in both directions at once:
+
+- **The custody machinery has a modern org chart.** OSD briefing documents in
+  the NARA transfer describe — in present-tense official mission language —
+  the National Air and Space Intelligence Center's role in "exploitation and
+  analysis of recovered UAP objects and material" (OSD records, doc 015-2023,
+  p.2) and AARO's S&T directorate as "Leads UAP recovery planning and
+  execution... secure and safe handling, storage, transport, and transfer of
+  UAP Objects and Material" (doc 03-2024, p.4). Framing that matters: this
+  documents a *chartered function* — the mandate and pipeline exist today —
+  not confirmed exotic inventory. It is §1's 1947 machinery, alive in 2024.
+- **The first complete custody-and-analysis chain in the record**: Oak Ridge
+  National Laboratory's published analysis (plus supplement) of the layered
+  magnesium-zinc-bismuth specimen "publicly alleged to be a component
+  recovered from a crashed extraterrestrial vehicle" in 1947, tested for
+  claimed inertial-mass-reduction properties. Verdict in the government's own
+  paper: **mundane terrestrial manufacture** (NARA naIds 499915944-45). §1
+  said every traceable chain ends mundane, hoax, or unresolved — this one
+  ends *analyzed and mundane*, in public.
+- **KONA BLUE, doubly cited**: the FY24 report (NARA copy) records
+  interviewees claiming KONA BLUE was "a sensitive DHS compartment to cover
+  up the retrieval and exploitation of 'non-human biologics'" — investigated,
+  unsubstantiated per AARO. Claim and denial now carry page cites from two
+  independent copies of the record.
+- **Verification saves, logged for honesty**: an evaluator lead billed as a
+  "1954 Cutler-Twining memo discussing Roswell recovery" is in fact a **1987
+  Washington Times clipping** about that alleged memo — including the
+  accusation it was *planted in the National Archives* — preserved in a Blue
+  Book archive file (40027753, p.38). A Clinton-library document carries the
+  classic Area 51 lore set (photographs of "live aliens," "E.B." in captivity
+  1949-52, projects POUNCE/REDLIGHT) — recorded citizen-submitted claims of
+  known lineage, filed in White House correspondence, endorsed by no one.
+- **Threads #1-3 (Socorro sample, Milwaukee object, the "Ia. case") gained no
+  disposition** in NARA tiers A+B — their answers, if archived, sit in the
+  deferred OSI (34 GB) and Blue Book series. Noted for any selective pull.
+
 ## 6. Open threads worth pulling next (R2-R4 / NARA / FOIA)
 
 1. **The Socorro charred sample** — collected by Albuquerque FBI (Section 9,

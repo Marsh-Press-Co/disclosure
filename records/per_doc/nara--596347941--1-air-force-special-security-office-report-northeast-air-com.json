@@ -1,0 +1,262 @@
+{
+ "doc_id": "nara--596347941--1-air-force-special-security-office-report-northeast-air-com",
+ "file": "nara--596347941--1-air-force-special-security-office-report-northeast-air-com.md",
+ "source": "NARA-RG615",
+ "agency": "NSA",
+ "title": "(1) Air Force Special Security Office Report, Northeast Air Command: UFOB NEAC Area. July 18, 1955\n(2) Air Intelligence Information Report: Unidentified Flying Object Report, March 18, 1956",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This document is a collection of Air Force Special Security Office reports regarding UAP sightings in the Northeast Air Command area during June and July 1955. / This document contains two distinct reports: an Air Force Special Security Office report from 1956 regarding a sighting near Harmon Field, and an Air Intelligence Information Report from 1958 regarding radar tracks in the Panama Canal Zone, plus a 1969 OPREP-4 report.",
+ "incidents": [
+  {
+   "summary": "RB-47 electronic contact with unknown object near Devon Island.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "radar return",
+    "electronic interference"
+   ],
+   "country": "Canada",
+   "date": "1955-06-01",
+   "explanation_status": "unexplained",
+   "location_name": "Devon Island",
+   "page_refs": [
+    3
+   ],
+   "quote": "bright return was received on the APG-32 set for 20 minutes",
+   "recording_agency": "USAF",
+   "sensors": [
+    "radar",
+    "ew"
+   ]
+  },
+  {
+   "summary": "RB-47 electronic and visual contact with glistening silver metallic object.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "high speed departure"
+   ],
+   "color": "glistening silver metallic",
+   "country": "Canada",
+   "date": "1955-06-04",
+   "explanation_status": "unexplained",
+   "location_name": "Melville Sound",
+   "page_refs": [
+    4
+   ],
+   "quote": "crew chief, who describes aircraft as glistening silver metallic",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "metallic aircraft",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "RB-47 electronic contact with small rectangular object.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "jamming"
+   ],
+   "country": "Canada",
+   "date": "1955-06-07",
+   "explanation_status": "unexplained",
+   "location_name": "Banks Island",
+   "page_refs": [
+    5
+   ],
+   "quote": "The pilot interpreted it to be a form of jamming",
+   "recording_agency": "USAF",
+   "sensors": [
+    "radar"
+   ],
+   "shape": "rectangular"
+  },
+  {
+   "summary": "RB-47 electronic and visual contact with fighter-configured object.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "high speed",
+    "maneuvering"
+   ],
+   "country": "Canada",
+   "date": "1955-06-08",
+   "explanation_status": "unexplained",
+   "location_name": "Bathurst Island",
+   "page_refs": [
+    6
+   ],
+   "quote": "co-pilot of RB-47 states aircraft had fighter configuration",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual",
+    "radar",
+    "ew"
+   ],
+   "shape": "fighter configuration",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Multiple KC-97 crews and radar site observe hovering and high-speed objects.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "erratic zig-zag",
+    "high speed",
+    "climbing"
+   ],
+   "country": "Canada",
+   "date": "1955-07-07",
+   "explanation_status": "unexplained",
+   "location_name": "Harmon AFB, Newfoundland",
+   "page_refs": [
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "quote": "object was making a very irregular zig zag pattern",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_types": [
+    "military-pilot",
+    "military-other"
+   ]
+  },
+  {
+   "summary": "KC-97 crew observed a bright light moving erratically and appearing stationary at times.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "erratic movement",
+    "stationary"
+   ],
+   "color": "bright",
+   "country": "Canada",
+   "date": "1956-07-07",
+   "explanation_status": "not-assessed",
+   "location_name": "Near Harmon Field",
+   "page_refs": [
+    14
+   ],
+   "quote": "IT LOOKED LIKE A VERY BRIGHT LIGHT, LIKE A STAR.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "star",
+   "witness_count": "2",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Multiple radar tracks observed in the Canal Zone, some investigated by aircraft with negative results.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "triangular flight pattern",
+    "evasive action",
+    "hovering"
+   ],
+   "color": "red and green",
+   "country": "Panama",
+   "date": "1958-03-09",
+   "explanation_status": "unexplained",
+   "location_name": "Canal Zone",
+   "page_refs": [
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+   ],
+   "quote": "Generally the tracks were triangular with speed of movement very erratic.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "radar",
+    "visual"
+   ],
+   "shape": "triangular",
+   "witness_count": "multiple",
+   "witness_types": [
+    "military-other",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Pan American Airlines pilot observed a large unidentified object.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "country": "Panama",
+   "date": "1958-03-11",
+   "explanation_status": "not-assessed",
+   "location_name": "Fox Trot route",
+   "page_refs": [
+    18
+   ],
+   "quote": "The object appeared larger than the aircraft and was traveling in a Southeasterly direction.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "RC-135 crew observed a bright white light rising from the horizon.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "rising",
+    "growing brighter"
+   ],
+   "color": "white",
+   "date": "1969-08-22",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    25
+   ],
+   "quote": "A BRIGHT WHITE LIGHT APPEARED IN THE NORTH JUST ABOVE THE HORIZON.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "pinwheel",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

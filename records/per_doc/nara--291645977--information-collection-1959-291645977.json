@@ -1,0 +1,83 @@
+{
+ "doc_id": "nara--291645977--information-collection-1959-291645977",
+ "file": "nara--291645977--information-collection-1959-291645977.md",
+ "source": "NARA-RG615",
+ "agency": "USAF",
+ "title": "Information collection 1959 - 291645977",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document consists of two reports from the U.S. Naval Air Station at Point Mugu regarding sightings of unidentified flying objects by local police officers in June 1959.",
+ "incidents": [
+  {
+   "summary": "Police Officer Orville Clinton observed four round, silvery objects moving northward near San Cayetano Mountain.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "moving northward",
+    "two objects moved together and apart"
+   ],
+   "color": "silvery",
+   "country": "USA",
+   "date": "1959-06-11",
+   "duration": "1.5 minutes",
+   "explanation": "Possible cause of the sighting is undetermined.",
+   "explanation_status": "unexplained",
+   "location_name": "Fillmore, California",
+   "object_count": "4",
+   "page_refs": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "quote": "Objects disappeared by just fading away from sight.",
+   "recording_agency": "US Navy",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round ball",
+   "size": "two times the size of a basketball",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Police Sergeant D. A. Kelly and Officer Paul Lydick observed four round, white objects moving slowly toward the northwest over the foothills.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "moving slowly toward the northwest"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "1959-06-11",
+   "duration": "2 minutes",
+   "explanation": "Possible cause of the sighting is undetermined.",
+   "explanation_status": "unexplained",
+   "location_name": "Santa Paula, California",
+   "object_count": "4",
+   "page_refs": [
+    1,
+    5,
+    6
+   ],
+   "quote": "Objects appeared to be moving in a line slowly toward the northwest.",
+   "recording_agency": "US Navy",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "size": "twice as big as a basketball",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

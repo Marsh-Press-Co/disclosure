@@ -1,0 +1,30 @@
+{
+ "doc": "nara--596347955--huyghe-patrick-ufo-files-the-untold-story-january-1-1976.md",
+ "leads": [
+  {
+   "page": 3,
+   "lead_type": "craft-custody",
+   "claim": "J. Edgar Hoover requested full access to recovered discs, implying the existence of recovered craft.",
+   "strength": "strong",
+   "why": "The document explicitly links Hoover's demand for access to the existence of 'recovered' discs.",
+   "claimant": "J. Edgar Hoover (FBI Director)",
+   "custody_chain": "Implied to be held by the Air Force or military intelligence.",
+   "government_response": "The document notes the Air Force maintained a public stance of denial while showing behind-the-scenes interest.",
+   "outcome_in_document": "unresolved",
+   "quote": "insisted that the bureau have full access to discs recovered."
+  },
+  {
+   "page": 6,
+   "lead_type": "analysis-of-material",
+   "claim": "NASA considered an offer to examine physical evidence of UAPs but rejected it due to scientific and public relations concerns.",
+   "strength": "moderate",
+   "why": "The text confirms NASA discussed the potential for analyzing physical evidence, though no specific material was ever provided.",
+   "claimant": "NASA (Space Agency)",
+   "custody_chain": "None; the material was never provided to NASA.",
+   "government_response": "NASA rejected the project to avoid a public-relations nightmare.",
+   "outcome_in_document": "denied-by-government",
+   "quote": "NASA examined the offer, but saw no way to attack the problem on a scientific basis without physical evidence."
+  }
+ ],
+ "doc_verdict": "The document contains references to internal government discussions regarding the existence of recovered discs and the potential for scientific analysis of physical evidence, though it provides no proof that such material was successfully obtained or analyzed."
+}

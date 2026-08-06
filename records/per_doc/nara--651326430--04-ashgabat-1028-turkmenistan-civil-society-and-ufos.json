@@ -1,0 +1,27 @@
+{
+ "doc_id": "nara--651326430--04-ashgabat-1028-turkmenistan-civil-society-and-ufos",
+ "file": "nara--651326430--04-ashgabat-1028-turkmenistan-civil-society-and-ufos.md",
+ "source": "NARA-RG615",
+ "agency": "Department of State",
+ "title": "04 Ashgabat 1028: Turkmenistan, Civil Society and UFOs",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a Department of State diplomatic cable from the U.S. Embassy in Ashgabat discussing the activities of the Union of UFOlogists in Turkmenabat, noting that despite their name, they primarily function as a practical NGO for business and humanitarian assistance.",
+ "incidents": [
+  {
+   "summary": "The President of the Union of UFOlogists in Turkmenabat reported that Turkmen military and government authorities had consulted him regarding mysterious occurrences in Turkmen airspace, though he noted there had been no confirmed sightings of UFOs in the country.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    2
+   ],
+   "quote": "Turkmen military and government authorities had consulted him about mysterious occurrences in Turkmen airspace",
+   "recording_agency": "Department of State"
+  }
+ ]
+}

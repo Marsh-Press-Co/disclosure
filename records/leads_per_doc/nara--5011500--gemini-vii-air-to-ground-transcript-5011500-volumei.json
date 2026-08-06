@@ -1,0 +1,13 @@
+{
+ "doc": "nara--5011500--gemini-vii-air-to-ground-transcript-5011500-volumei.md",
+ "leads": [
+  {
+   "page": 168,
+   "lead_type": "debris-material",
+   "claim": "Astronauts mention small debris and a vacuum cube during the Gemini VII mission.",
+   "strength": "noise",
+   "why": "The context clearly refers to routine space mission operations, equipment, and orbital debris rather than UAP-related material."
+  }
+ ],
+ "doc_verdict": "This document is a transcript of the Gemini VII mission and contains no evidence or suggestions of UAP-related material."
+}

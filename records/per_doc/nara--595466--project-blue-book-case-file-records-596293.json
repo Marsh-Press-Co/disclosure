@@ -1,0 +1,27 @@
+{
+ "doc_id": "nara--595466--project-blue-book-case-file-records-596293",
+ "file": "nara--595466--project-blue-book-case-file-records-596293.md",
+ "source": "NARA-RG615",
+ "agency": "USAF",
+ "title": "Project Blue Book case-file records - 596293",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a memorandum for record detailing administrative meetings regarding Project Blue Book procedures and coordination, with a brief mention of a recent radar sighting over Washington Municipal Airport.",
+ "incidents": [
+  {
+   "summary": "Radar sighting of unidentified objects over Washington Municipal Airport.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "sensors": [
+    "radar"
+   ],
+   "witness_types": [
+    "unknown"
+   ]
+  }
+ ]
+}

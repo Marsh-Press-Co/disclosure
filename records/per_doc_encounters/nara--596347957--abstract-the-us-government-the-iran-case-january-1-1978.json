@@ -1,0 +1,38 @@
+{
+ "doc_id": "nara--596347957--abstract-the-us-government-the-iran-case-january-1-1978",
+ "file": "nara--596347957--abstract-the-us-government-the-iran-case-january-1-1978.md",
+ "source": "NARA-RG615",
+ "agency": "NSA",
+ "title": "Abstract: The US Government & The Iran Case, January 1, 1978",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is an archival record from the NARA UAP collection containing a verbatim wire message regarding a 1976 military encounter in Iran.",
+ "encounters": [
+  {
+   "summary": "Iranian Air Force F-4 jets intercepted a UFO that caused electronic and weapons system failure, released smaller objects, and appeared to land on a dry lake bed.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "Iran",
+   "date": "1976-09-19",
+   "date_precision": "day",
+   "entity_appearance": "Primary object had flashing strobe lights in rectangular pattern; secondary object was half to one third the size of the moon; third object was cylinder shaped.",
+   "entity_behavior": "Played cat and mouse, paralyzed electronics, released smaller objects, landed on earth.",
+   "page_refs": [
+    2
+   ],
+   "physical_effects": [
+    "instrumentation failure",
+    "communications failure",
+    "weapons control panel failure",
+    "instrument fluctuation",
+    "beeper signal",
+    "bright light over 2-3 kilometers"
+   ],
+   "quote": "The object and the pursuing F-4 continued on a course to the south of Tehran"
+  }
+ ]
+}

@@ -1,0 +1,148 @@
+{
+ "doc_id": "nara--596347955--huyghe-patrick-ufo-files-the-untold-story-january-1-1976",
+ "file": "nara--596347955--huyghe-patrick-ufo-files-the-untold-story-january-1-1976.md",
+ "source": "NARA-RG615",
+ "agency": "NSA",
+ "title": "Huyghe, Patrick. \"UFO Files: The Untold Story.\" January 1, 1976",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a historical overview of U.S. government involvement with UFOs, including declassified memos and reports from the NSA and CIA, with some redactions present.",
+ "incidents": [
+  {
+   "summary": "Metallic-like disk hovered over Santa Ana.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "date": "1965",
+   "location_name": "Santa Ana, Calif.",
+   "page_refs": [
+    1
+   ]
+  },
+  {
+   "summary": "Numerous reports of suspicious objects at multiple military bases including Loring AFB, Wurtsmith AFB, Malmstrom AFB, Minot AFB, and Canadian Forces Station Falconbridge.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "lights went out",
+    "increased to high speed",
+    "raised in altitude"
+   ],
+   "country": "USA/Canada",
+   "date": "1975-10-28",
+   "explanation_status": "unexplained",
+   "location_name": "Loring AFB, Wurtsmith AFB, Malmstrom AFB, Minot AFB, Falconbridge",
+   "page_refs": [
+    1
+   ],
+   "quote": "Since 28 Oct 75 numerous reports of suspicious objects have been received",
+   "recording_agency": "NORAD",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "helicopter-like",
+   "witness_types": [
+    "military-other",
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Nine disc-shaped objects observed making undulating motions.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "undulating motions"
+   ],
+   "country": "USA",
+   "date": "1947-06-24",
+   "location_name": "Mount Rainier, Washington",
+   "page_refs": [
+    3
+   ],
+   "quote": "nine disc-shaped objects making undulating motions",
+   "shape": "disc",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Allied bomber pilots observed balls of light following flights.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "followed flights"
+   ],
+   "country": "Japan/Germany",
+   "date": "1945",
+   "explanation_status": "explained",
+   "page_refs": [
+    3
+   ],
+   "quote": "balls of light that followed their flights",
+   "shape": "balls of light",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Scandinavians reported cigar-shaped objects.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "Sweden",
+   "date": "1946",
+   "page_refs": [
+    3
+   ],
+   "shape": "cigar",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "UFO sighting at Army Signal Corps radar center.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "USA",
+   "date": "1951",
+   "location_name": "Fort Monmouth, N.J.",
+   "page_refs": [
+    3
+   ],
+   "sensors": [
+    "radar"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "UFOs tracked on radar at Washington National Airport.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "country": "USA",
+   "date": "1952-07-20",
+   "location_name": "Washington National Airport",
+   "page_refs": [
+    4
+   ],
+   "quote": "U.F.O.'s had been tracked on radar at Washington National Airport",
+   "sensors": [
+    "radar"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

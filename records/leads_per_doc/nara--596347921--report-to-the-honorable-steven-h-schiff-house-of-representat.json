@@ -1,0 +1,18 @@
+{
+ "doc": "nara--596347921--report-to-the-honorable-steven-h-schiff-house-of-representat.md",
+ "leads": [
+  {
+   "page": 5,
+   "lead_type": "debris-material",
+   "claim": "A hexagonal-shaped disc suspended from a balloon was recovered near Roswell and transported to Wright Field for examination.",
+   "strength": "strong",
+   "why": "The document explicitly cites an FBI teletype detailing the recovery and transfer of specific physical debris to a military facility.",
+   "claimant": "Eighth Air Force headquarters official",
+   "custody_chain": "Recovered by RAAF personnel, then transported to Wright Field (now Wright-Patterson AFB) via special plane.",
+   "government_response": "The government later identified the material as a Project MOGUL balloon train and radar reflector.",
+   "outcome_in_document": "confirmed-mundane",
+   "quote": "disc and balloon were being sent to Wright Field... for examination"
+  }
+ ],
+ "doc_verdict": "The document discusses the recovery of physical debris near Roswell but concludes, based on its own investigation, that the material was part of a classified Project MOGUL balloon train."
+}

@@ -1,0 +1,29 @@
+{
+ "doc_id": "nara--608863162--state-243809-africa-bureau-friday-report-7-28-89-sent-august",
+ "file": "nara--608863162--state-243809-africa-bureau-friday-report-7-28-89-sent-august.md",
+ "source": "NARA-RG615",
+ "agency": "Department of State",
+ "title": "STATE 243809: Africa Bureau Friday Report 7/28/89, Sent August 1, 1989",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a Department of State Africa Bureau Friday Report containing one entry regarding the investigation of physical debris in Mali.",
+ "encounters": [
+  {
+   "summary": "Unidentified metal fragments found near Koro, Mali, were investigated as potential debris from a U.S. rocket launch.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "unknown",
+   "document_stance": "investigated",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "Mali",
+   "date": "1989-05-25",
+   "date_precision": "day",
+   "location_name": "Koro",
+   "page_refs": [
+    16
+   ],
+   "quote": "Unidentified metal fragments found near Koro in south-central Mali may be the remains of a U.S. rocket"
+  }
+ ]
+}

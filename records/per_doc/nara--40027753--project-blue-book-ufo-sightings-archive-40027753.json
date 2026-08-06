@@ -1,0 +1,71 @@
+{
+ "doc_id": "nara--40027753--project-blue-book-ufo-sightings-archive-40027753",
+ "file": "nara--40027753--project-blue-book-ufo-sightings-archive-40027753.md",
+ "source": "NARA-RG615",
+ "agency": "USAF",
+ "title": "Project Blue Book UFO sightings archive - 40027753",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of archival records, finding aids, and fact sheets related to the USAF Project Blue Book UFO sightings archive, including lists of microfilm rolls, artifact inventories, and photographic evidence.",
+ "incidents": [
+  {
+   "summary": "Multiple rapidly moving, glistening objects observed from the air near Mount Rainier, Washington.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "rapidly moving"
+   ],
+   "shape": "disc",
+   "witness_types": [
+    "civilian",
+    "military-pilot",
+    "unknown"
+   ]
+  },
+  {
+   "summary": "Visual and radar observations of unidentified flying objects over Washington, D.C.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "rapidly moving"
+   ],
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "Radar screen showing multiple signal blips tracked on June 18, 1953.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "sensors": [
+    "radar"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Four small, light-colored circular objects arranged in a horizontal line observed on July 16, 1952.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "unknown"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "doc_id": "nara--595466--project-blue-book-case-file-records-595553",
+ "file": "nara--595466--project-blue-book-case-file-records-595553.md",
+ "source": "NARA-RG615",
+ "agency": "USAF",
+ "title": "Project Blue Book case-file records - 595553",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a comic-style archival record from Project Blue Book detailing the July 1952 Washington D.C. radar sightings and the subsequent Air Force explanation.",
+ "incidents": [
+  {
+   "summary": "Multiple radar contacts and visual sightings of unidentified objects over Washington D.C. restricted airspace.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "accelerated from 130 to 500 mph in 4 seconds",
+    "right angle turns",
+    "complete reversals of flight"
+   ],
+   "color": "bright",
+   "country": "United States",
+   "date": "1952-07-19",
+   "duration": "6 hours",
+   "explanation": "Air Force attributed sightings to temperature inversion causing radar reflections of ground objects.",
+   "explanation_status": "explained",
+   "location_name": "Washington, D.C.",
+   "object_count": "10",
+   "page_refs": [
+    1,
+    2
+   ],
+   "quote": "THEY PERFORMED GYRATIONS WHICH NO KNOWN AIRCRAFT COULD PERFORM.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "radar",
+    "visual"
+   ],
+   "shape": "ring-shaped",
+   "witness_count": "4",
+   "witness_types": [
+    "government-civilian",
+    "military-pilot"
+   ]
+  }
+ ]
+}

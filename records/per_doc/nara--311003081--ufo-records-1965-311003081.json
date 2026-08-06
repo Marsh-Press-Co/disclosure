@@ -1,0 +1,99 @@
+{
+ "doc_id": "nara--311003081--ufo-records-1965-311003081",
+ "file": "nara--311003081--ufo-records-1965-311003081.md",
+ "source": "NARA-RG615",
+ "agency": "USAF",
+ "title": "UFO records 1965 - 311003081",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an Air Defense Command memorandum summarizing multiple UFO reports from the Exeter, New Hampshire area on September 3, 1965.",
+ "incidents": [
+  {
+   "summary": "An unidentified woman reported being chased by an unidentified object near Exeter, New Hampshire.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "chased"
+   ],
+   "country": "United States",
+   "date": "1965-09-03",
+   "location_name": "Exeter, New Hampshire",
+   "page_refs": [
+    1
+   ],
+   "quote": "an unidentified woman reported to Exeter police she was \"chased\" by an unidentified object",
+   "recording_agency": "USAF",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Police officer Eugene Bertrand witnessed a bright hovering object with flashing red lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "hovering"
+   ],
+   "color": "red",
+   "country": "United States",
+   "date": "1965-09-03",
+   "location_name": "Exeter, New Hampshire",
+   "page_refs": [
+    1
+   ],
+   "quote": "witnessed a bright hovering object, from a 1/4 mile distance, that hovered very close above a house",
+   "recording_agency": "USAF",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Norman J. Muscarello reported a silent object with flashing red lights that forced him to dodge to the ground.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "zig-zagging"
+   ],
+   "color": "red",
+   "country": "United States",
+   "date": "1965-09-03",
+   "location_name": "Route 101, Exeter, New Hampshire",
+   "page_refs": [
+    1
+   ],
+   "quote": "Object reportedly featured flashing and \"zig-zagging\" red lights without noise",
+   "recording_agency": "USAF",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Patrolmen David Hunt and Eugene Bertrand observed a bright, silent object that moved away at high speed.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "moved away at extremely fast speed"
+   ],
+   "color": "red",
+   "country": "United States",
+   "date": "1965-09-03",
+   "duration": "15 to 20 seconds",
+   "location_name": "Exeter, New Hampshire",
+   "page_refs": [
+    1
+   ],
+   "quote": "Both patrolmen were said to have simultaneously observed the UFOB for about 15 to 20 seconds",
+   "recording_agency": "USAF",
+   "witness_types": [
+    "federal-le"
+   ]
+  }
+ ]
+}

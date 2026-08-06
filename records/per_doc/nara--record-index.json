@@ -1,0 +1,47 @@
+{
+ "doc_id": "nara-record-index",
+ "file": "nara--record-index.md",
+ "source": "NARA-RG615",
+ "agency": "National Archives",
+ "title": "NARA UAP Records Collection (RG 615) - official catalog index",
+ "record_type": "index",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an official catalog index of the NARA UAP Records Collection (RG 615) as of August 2026, listing various records transferred by multiple federal agencies.",
+ "incidents": [
+  {
+   "summary": "UAP hovering near Rolling Meadows, IL",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "hovering"
+   ],
+   "location_name": "Rolling Meadows, IL",
+   "recording_agency": "FBI",
+   "sensors": [
+    "other"
+   ],
+   "witness_types": [
+    "federal-le",
+    "unknown"
+   ]
+  },
+  {
+   "summary": "UAP observation by Anoka Police Department personnel",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "location_name": "Anoka, MN",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "federal-le"
+   ]
+  }
+ ]
+}

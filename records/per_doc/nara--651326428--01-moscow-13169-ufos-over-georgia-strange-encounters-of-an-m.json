@@ -1,0 +1,34 @@
+{
+ "doc_id": "nara--651326428--01-moscow-13169-ufos-over-georgia-strange-encounters-of-an-m",
+ "file": "nara--651326428--01-moscow-13169-ufos-over-georgia-strange-encounters-of-an-m.md",
+ "source": "NARA-RG615",
+ "agency": "Department of State",
+ "title": "01 Moscow 13169: UFOs Over Georgia: Strange Encounters of an MFA Kind",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a diplomatic cable from the U.S. Embassy in Moscow regarding alleged airspace violations in Georgia, where the term 'UFO' is used dismissively by a Russian official to characterize unidentified aerial activity.",
+ "incidents": [
+  {
+   "summary": "Alleged violation of Georgian airspace and bombing of the Kodori Gorge by unidentified aircraft.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "explanation": "Russian officials denied involvement and suggested reports of planes might be 'UFOs' or potentially other unidentified aircraft.",
+   "explanation_status": "unexplained",
+   "location_name": "Kodori Gorge, Abkhazia",
+   "page_refs": [
+    2,
+    3,
+    4
+   ],
+   "quote": "REPORTS OF PLANES IN THE AREA MIGHT AS WELL HAVE BEEN ABOUT UFOS",
+   "recording_agency": "Department of State",
+   "witness_types": [
+    "government-civilian"
+   ]
+  }
+ ]
+}

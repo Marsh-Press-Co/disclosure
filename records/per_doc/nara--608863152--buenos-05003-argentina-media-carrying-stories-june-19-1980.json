@@ -1,0 +1,53 @@
+{
+ "doc_id": "nara--608863152--buenos-05003-argentina-media-carrying-stories-june-19-1980",
+ "file": "nara--608863152--buenos-05003-argentina-media-carrying-stories-june-19-1980.md",
+ "source": "NARA-RG615",
+ "agency": "Department of State",
+ "title": "BUENOS 05003: Argentina Media Carrying Stories, June 19, 1980",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a Department of State cable from the U.S. Embassy in Buenos Aires regarding media reports linking UFO sightings in Argentina to a NASA experiment called 'Firewheel'.",
+ "incidents": [
+  {
+   "summary": "Multiple UFO sightings reported across Argentina, speculated to be related to a NASA experiment called 'Firewheel'.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "behavior": [
+    "appearing as flying saucer shapes"
+   ],
+   "country": "Argentina",
+   "date": "1980-06",
+   "explanation": "Speculated to be an artificial cloud created by a NASA experiment called 'Firewheel'.",
+   "explanation_status": "partially-explained",
+   "page_refs": [
+    1,
+    2
+   ],
+   "quote": "RECENTLY, THERE HAVE BEEN MANY REPORTS OF UFO SIGHTINGS HERE.",
+   "recording_agency": "Department of State"
+  },
+  {
+   "summary": "Sightings of unidentified objects over Argentina on the Saturday prior to June 19, 1980.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "appearing as flying saucer shapes"
+   ],
+   "country": "Argentina",
+   "date": "1980-06-14",
+   "explanation": "Speculated to be the result of a NASA experiment called 'Firewheel'.",
+   "explanation_status": "partially-explained",
+   "location_name": "Cordoba",
+   "page_refs": [
+    2
+   ],
+   "quote": "THE UFOS THAT WERE SEEN OVER THE COUNTRY LAST SATURDAY",
+   "recording_agency": "Department of State"
+  }
+ ]
+}

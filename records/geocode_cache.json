@@ -2239,5 +2239,1374 @@
   "lat": 41.6833813,
   "lon": -86.2500066,
   "display": "South Bend, Saint Joseph County, Indiana, United States"
+ },
+ "Japan/Germany": {
+  "lat": 52.4542825,
+  "lon": 13.3063026,
+  "display": "Japan, Lichterfelde West, Lichterfelde, Steglitz-Zehlendorf, Berlin, Deutschland"
+ },
+ "Foster Ranch, Roswell, New Mexico, United States": null,
+ "Foster Ranch, Roswell, New Mexico": null,
+ "Muroc Air Field, Muroc, California, United States": null,
+ "Muroc Air Field, Muroc, California": null,
+ "Fort Monmouth, N.J.": {
+  "lat": 40.3118633,
+  "lon": -74.04508,
+  "display": "Fort Monmouth, Eatontown, Monmouth County, New Jersey, 07703, United States"
+ },
+ "Washington D.C., United States": {
+  "lat": 38.8950982,
+  "lon": -77.0363849,
+  "display": "Washington, District of Columbia, United States"
+ },
+ "Washington, D.C., United States": {
+  "lat": 38.8950982,
+  "lon": -77.0363849,
+  "display": "Washington, District of Columbia, United States"
+ },
+ "Washington National Airport": {
+  "lat": 38.8512894,
+  "lon": -77.0396889,
+  "display": "Ronald Reagan Washington National Airport, 2401, Smith Boulevard, Arlington, Arlington County, Virginia, 22202, United States"
+ },
+ "Devon Island, Canada": {
+  "lat": 75.7640925,
+  "lon": -90.6442579,
+  "display": "\u1455\u14ea\u14d7\u1548\u144e\u1466 - Devon Island - \u00cele Devon, Canada"
+ },
+ "Melville Sound, Canada": {
+  "lat": 44.9396419,
+  "lon": -81.0877554,
+  "display": "Melville Sound, Bruce County, Southwestern Ontario, Ontario, N0C 1W0, Canada"
+ },
+ "Banks Island, Canada": {
+  "lat": 72.8195244,
+  "lon": -121.7061163,
+  "display": "Banks Island, X0E 0Z0, Canada"
+ },
+ "Bathurst Island, Canada": {
+  "lat": 75.8310965,
+  "lon": -99.4638927,
+  "display": "Bathurst Island, Canada"
+ },
+ "Harmon AFB, Newfoundland, Canada": null,
+ "Harmon AFB, Newfoundland": null,
+ "East of Bermuda, Bermuda": null,
+ "East of Bermuda": {
+  "lat": 34.2663145,
+  "lon": -118.5306319,
+  "display": "Bermuda Street, Northridge East Neighborhood Council District, Los Angeles, Los Angeles County, California, 91325, United States"
+ },
+ "Trans-Caucasian region, Russia": {
+  "lat": 44.4071866,
+  "lon": 43.8492093,
+  "display": "\u041e\u041e\u041e \"\u0422\u0440\u0430\u043d\u0441\", \u0417\u0435\u043b\u0435\u043d\u043e\u043a\u0443\u043c\u0441\u043a, \u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0439 \u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439, \u0421\u0435\u0432\u0435\u0440\u043e-\u041a\u0430\u0432\u043a\u0430\u0437\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 357900, \u0420\u043e\u0441\u0441\u0438\u044f"
+ },
+ "Near Harmon Field, Canada": null,
+ "Near Harmon Field": null,
+ "Canal Zone, Panama": {
+  "lat": 8.9537012,
+  "lon": -79.5375595,
+  "display": "Canal Zone, Avenida B, San Felipe, Panam\u00e1, Distrito de Panam\u00e1, Provincia de Panam\u00e1, 0843, Panam\u00e1"
+ },
+ "Fox Trot route, Panama": null,
+ "Fox Trot route": {
+  "lat": 48.239966,
+  "lon": -122.433765,
+  "display": "SR 532 at Fox Trot Way, State Route 532, Island County, Washington, United States"
+ },
+ "Fillmore, California": {
+  "lat": 34.3985613,
+  "lon": -118.9125093,
+  "display": "Fillmore, Ventura County, California, 93016, United States"
+ },
+ "Santa Ana, Calif.": {
+  "lat": 33.7494951,
+  "lon": -117.873221,
+  "display": "Santa Ana, Orange County, California, United States"
+ },
+ "Mexicali, Mexico": {
+  "lat": 32.6245314,
+  "lon": -115.452604,
+  "display": "Mexicali, Municipio de Mexicali, Baja California, 21000, M\u00e9xico"
+ },
+ "Exeter, New Hampshire, United States": {
+  "lat": 42.981477,
+  "lon": -70.9478343,
+  "display": "Exeter, Rockingham County, New Hampshire, 03833, United States"
+ },
+ "Ann Arbor, Michigan, United States": {
+  "lat": 42.2813722,
+  "lon": -83.7484616,
+  "display": "Ann Arbor, Washtenaw County, Michigan, United States"
+ },
+ "Southern Michigan, United States": {
+  "lat": 42.5099171,
+  "lon": -83.8547212,
+  "display": "Southern Michigan State Forest Nursery, Hamburg Township, Livingston County, Michigan, United States"
+ },
+ "Nemuro, Japan, Japan": null,
+ "Nemuro, Japan": {
+  "lat": 43.3301518,
+  "lon": 145.5833876,
+  "display": "\u6839\u5ba4\u5e02, \u6839\u5ba4\u632f\u8208\u5c40, \u5317\u6d77\u9053, \u5317\u6d77\u9053\u5730\u65b9, \u65e5\u672c"
+ },
+ "Luanda, Angola, Angola": {
+  "lat": -8.9445232,
+  "lon": 13.3942358,
+  "display": "Fil-Tubos Angola Internal, PIV, Munic\u00edpio de Viana, Luanda, Angola"
+ },
+ "General Teran, N.L., Mexico": {
+  "lat": 25.2706582,
+  "lon": -99.4089871,
+  "display": "General Ter\u00e1n, Nuevo Le\u00f3n, M\u00e9xico"
+ },
+ "Tunis, Tunisia": {
+  "lat": 36.8002068,
+  "lon": 10.1857757,
+  "display": "\u062a\u0648\u0646\u0633, \u0648\u0644\u0627\u064a\u0629 \u062a\u0648\u0646\u0633, \u062a\u0648\u0646\u0633"
+ },
+ "Commack, Long Island, NY": null,
+ "Mogollon Rim, Arizona": {
+  "lat": 34.4197277,
+  "lon": -111.426841,
+  "display": "Mogollon Rim, Coconino County, Arizona, United States"
+ },
+ "Algeria": {
+  "lat": 36.7729333,
+  "lon": 3.0588445,
+  "display": "Alger \u2d37\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631, Da\u00efra Sidi M'Hamed, \u0627\u0644\u062c\u0632\u0627\u0626\u0631 \u2d37\u2d63\u2d30\u2d62\u2d3b\u2d54, 16000, \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
+ },
+ "Loring AFB, Wurtsmith AFB, Malstrom AFB, Minot AFB, Canadian Air Forces Station": null,
+ "Loring AFB, Wurtsmith AFB, Malmstrom AFB, Minot AFB, Falconbridge, USA/Canada": null,
+ "Loring AFB, Wurtsmith AFB, Malmstrom AFB, Minot AFB, Falconbridge": null,
+ "Cannon AFB, New Mexico": {
+  "lat": 34.3863913,
+  "lon": -103.316328,
+  "display": "Cannon AFB, Curry County, New Mexico, 88103, United States"
+ },
+ "Elgin AFB, Florida": null,
+ "Fort Richie, Maryland": null,
+ "Iran, Iran": {
+  "lat": 33.5858334,
+  "lon": 48.2395222,
+  "display": "\u0627\u0633\u062a\u0627\u0646 \u0644\u0631\u0633\u062a\u0627\u0646, \u0627\u06cc\u0631\u0627\u0646"
+ },
+ "France": {
+  "lat": 46.603354,
+  "lon": 1.8883335,
+  "display": "France"
+ },
+ "Guatemala City, Guatemala": {
+  "lat": 14.6416142,
+  "lon": -90.5132836,
+  "display": "Ciudad de Guatemala, Zona 2, Departamento de Guatemala, Guatemala"
+ },
+ "Cordoba, Argentina": {
+  "lat": -31.4166867,
+  "lon": -64.1834193,
+  "display": "C\u00f3rdoba, Municipio de C\u00f3rdoba, Pedan\u00eda Capital, Departamento Capital, C\u00f3rdoba, X5000, Argentina"
+ },
+ "Afghanistan": {
+  "lat": 33.7680065,
+  "lon": 66.2385139,
+  "display": "\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646"
+ },
+ "Pompano Beach, Florida": {
+  "lat": 26.2378597,
+  "lon": -80.1247667,
+  "display": "Pompano Beach, Broward County, Florida, United States"
+ },
+ "Ozona, Texas": {
+  "lat": 30.7127575,
+  "lon": -101.2118253,
+  "display": "Ozona, Crockett County, Texas, 76943, United States"
+ },
+ "Taiwan": {
+  "lat": 23.9739374,
+  "lon": 120.9820179,
+  "display": "\u81fa\u7063"
+ },
+ "Dove Creek, Colorado": {
+  "lat": 37.7661,
+  "lon": -108.905939,
+  "display": "Dove Creek, Dolores County, Colorado, United States"
+ },
+ "Dubuque, Iowa": {
+  "lat": 42.5006243,
+  "lon": -90.6647985,
+  "display": "Dubuque, Dubuque Township, Dubuque County, Iowa, United States"
+ },
+ "Saranac Lake, New York": {
+  "lat": 44.3296606,
+  "lon": -74.1311198,
+  "display": "Village of Saranac Lake, Town of Harrietstown, Franklin County, New York, United States"
+ },
+ "Charleston, West Virginia": {
+  "lat": 38.3505995,
+  "lon": -81.6332812,
+  "display": "Charleston, Kanawha County, West Virginia, United States"
+ },
+ "Allendale, South Carolina": {
+  "lat": 32.9635006,
+  "lon": -81.3400056,
+  "display": "Allendale County, South Carolina, United States"
+ },
+ "Minsk, USSR": null,
+ "Minsk": {
+  "lat": 53.9024716,
+  "lon": 27.5618225,
+  "display": "\u041c\u0456\u043d\u0441\u043a, \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c"
+ },
+ "Wewak, Angoram, Papua New Guinea, Papua New Guinea": null,
+ "Anchorage, Alaska": {
+  "lat": 61.2163129,
+  "lon": -149.894852,
+  "display": "Anchorage, Alaska, United States"
+ },
+ "Greensboro, North Carolina": {
+  "lat": 36.0726355,
+  "lon": -79.7919754,
+  "display": "Greensboro, Guilford County, North Carolina, United States"
+ },
+ "en route from Keflavik to Anchorage": null,
+ "Nenana, Alaska": {
+  "lat": 64.5635293,
+  "lon": -149.0959778,
+  "display": "Nenana, Unorganized Borough, Alaska, 99760, United States"
+ },
+ "McGrath, Alaska": {
+  "lat": 62.9563889,
+  "lon": -155.595833,
+  "display": "McGrath, Unorganized Borough, Alaska, 99627, United States"
+ },
+ "Lome, Togo": {
+  "lat": 6.130419,
+  "lon": 1.215829,
+  "display": "Lom\u00e9, R\u00e9gion Maritime, Togo"
+ },
+ "Grantley Adams International Airport, Barbados, Barbados": null,
+ "Grantley Adams International Airport, Barbados": {
+  "lat": 13.0772764,
+  "lon": -59.4874469,
+  "display": "Grantley Adams International Airport, Hopefield Development, Charnocks, Christ Church, BB18046, Barbados"
+ },
+ "Riverside, California": {
+  "lat": 33.9824949,
+  "lon": -117.374238,
+  "display": "Riverside, Riverside County, California, United States"
+ },
+ "Koro, Mali": {
+  "lat": 14.069845,
+  "lon": -3.080698,
+  "display": "Koro, Cercle de Koro, Mopti, Mali"
+ },
+ "Michigan": {
+  "lat": 43.6211955,
+  "lon": -84.6824346,
+  "display": "Michigan, United States"
+ },
+ "Winslow, Arizona": {
+  "lat": 35.0241984,
+  "lon": -110.6973463,
+  "display": "Winslow, Navajo County, Arizona, 86047, United States"
+ },
+ "Pinedale, Arizona": {
+  "lat": 34.3075397,
+  "lon": -110.2515054,
+  "display": "Pinedale, Navajo County, Arizona, 85934, United States"
+ },
+ "Hayden, CO": {
+  "lat": 40.4950011,
+  "lon": -107.2588464,
+  "display": "Hayden, Routt County, Colorado, 81639, United States"
+ },
+ "Maverick VOR": null,
+ "DRYER VOR": {
+  "lat": 41.3580981,
+  "lon": -82.1620043,
+  "display": "DRYER VOR, Martha Court, Washington Village, Elyria, Lorain County, Ohio, 44035, United States"
+ },
+ "ELY": {
+  "lat": 52.3990199,
+  "lon": 0.262039,
+  "display": "Ely, East Cambridgeshire, Cambridgeshire, Cambridgeshire and Peterborough, England, United Kingdom"
+ },
+ "BWI": {
+  "lat": 39.1747196,
+  "lon": -76.6707551,
+  "display": "Baltimore-Washington International/Thurgood Marshall Airport, 7050, Aviation Boulevard, Allwood, Glen Burnie, Anne Arundel County, Maryland, 21240, United States"
+ },
+ "IAH": {
+  "lat": 29.9841416,
+  "lon": -95.332986,
+  "display": "George Bush Intercontinental Airport - Houston, 2800, North Terminal Road, Houston, Harris County, Texas, 77066, United States"
+ },
+ "St. Louis, MO": {
+  "lat": 38.6254063,
+  "lon": -90.190009,
+  "display": "Saint Louis, Missouri, United States"
+ },
+ "Denver, CO": {
+  "lat": 39.7392364,
+  "lon": -104.984862,
+  "display": "Denver, Colorado, United States"
+ },
+ "CHS": {
+  "lat": 32.7884363,
+  "lon": -79.9399309,
+  "display": "Charleston, Charleston County, South Carolina, United States"
+ },
+ "AMG": {
+  "lat": 26.8415195,
+  "lon": 80.8682662,
+  "display": "Alamnagar, Station road, Rajaji Puram, Lucknow, Uttar Pradesh, 226017, India"
+ },
+ "WINK VOR": null,
+ "FWA": {
+  "lat": 40.9798288,
+  "lon": -85.1879116,
+  "display": "Fort Wayne International Airport, 3801, West Ferguson Road, Fort Wayne, Allen County, Indiana, 46809, United States"
+ },
+ "Elizabeth City, NC": {
+  "lat": 36.3010192,
+  "lon": -76.2203699,
+  "display": "Elizabeth City, Pasquotank County, North Carolina, United States"
+ },
+ "Flagstaff, AZ": {
+  "lat": 35.1987522,
+  "lon": -111.651822,
+  "display": "Flagstaff, Coconino County, Arizona, United States"
+ },
+ "GAI": {
+  "lat": 45.9679354,
+  "lon": 12.1717874,
+  "display": "Gai, Tovena, Cison di Valmarino, Treviso, Veneto, 31030, Italia"
+ },
+ "Rafael Hernandez Airport, Puerto Rico, United States": {
+  "lat": 18.4934606,
+  "lon": -67.1342159,
+  "display": "Aeropuerto Internacional Rafael Hern\u00e1ndez, Avenida Miguel \u00c1ngel Garc\u00eda M\u00e9ndez, Villas del Para\u00edso, Aguacate, Aguadilla, Puerto Rico, 00603, United States"
+ },
+ "Kessel, WV": {
+  "lat": 39.07483,
+  "lon": -79.0364197,
+  "display": "Kessel, Hardy County, West Virginia, 26818, United States"
+ },
+ "Parkersburg": {
+  "lat": 39.2667309,
+  "lon": -81.5620755,
+  "display": "Parkersburg, Wood County, West Virginia, United States"
+ },
+ "Eastern coast of Florida, United States": null,
+ "Eastern coast of Florida": null,
+ "SWL VORTAC": null,
+ "Pilgrim Nuclear Power Station, Massachusetts, United States": {
+  "lat": 41.9447397,
+  "lon": -70.5795948,
+  "display": "Pilgrim Nuclear Power Station, Plymouth, Plymouth County, Massachusetts, United States"
+ },
+ "Baltimore, MD": {
+  "lat": 39.2908816,
+  "lon": -76.610759,
+  "display": "Baltimore, Maryland, United States"
+ },
+ "FLO": {
+  "lat": 34.185129,
+  "lon": -79.7253999,
+  "display": "Florence Regional Airport, Becky's Parkway, Greenbriar, Florence County, South Carolina, 29506, United States"
+ },
+ "PHL": {
+  "lat": 39.875018,
+  "lon": -75.2352128,
+  "display": "Philadelphia International Airport, Delaware Expressway, Lester, Tinicum Township, Delaware County, Pennsylvania, 19113, United States"
+ },
+ "Southeast Asia": {
+  "lat": 49.1855798,
+  "lon": 16.6155415,
+  "display": "Asia Bistro Anh Tiep, Trnit\u00e1, Brno-st\u0159ed, Brno, okres Brno-m\u011bsto, Jihomoravsk\u00fd kraj, 656 70, \u010cesko"
+ },
+ "Mt. Etna, Italy": {
+  "lat": 37.7476765,
+  "lon": 14.9661442,
+  "display": "Parco dell'Etna, Catania, Sicilia, 95052, Italia"
+ },
+ "HOU": {
+  "lat": 29.6471491,
+  "lon": -95.2769303,
+  "display": "William P. Hobby Airport, Nelms Street, Houston, Harris County, Texas, 77061, United States"
+ },
+ "GLD": {
+  "lat": 39.684732,
+  "lon": -99.309819,
+  "display": "Glade, Phillips County, Kansas, United States"
+ },
+ "Amarillo, TX": {
+  "lat": 35.20729,
+  "lon": -101.8371192,
+  "display": "Amarillo, Potter County, Texas, United States"
+ },
+ "Patuxent VOR": null,
+ "Columbia City Hospital": {
+  "lat": 39.2807053,
+  "lon": -76.8667645,
+  "display": "Emergency Animal Hospital of Ellicott City, 10270, Baltimore National Pike, Pine Orchard, Gray Rock, Ellicott City, Howard County, Maryland, 21042, United States"
+ },
+ "CPN14010": null,
+ "Chiloquin, OR": {
+  "lat": 42.577636,
+  "lon": -121.866126,
+  "display": "Chiloquin, Klamath County, Oregon, United States"
+ },
+ "42:47N 121:42W": null,
+ "90NM SE of BOS": null,
+ "Robbinsville, NJ": {
+  "lat": 40.2162828,
+  "lon": -74.619833,
+  "display": "Robbinsville Township, Mercer County, New Jersey, United States"
+ },
+ "Talladega, AL": {
+  "lat": 33.3967079,
+  "lon": -86.1597137,
+  "display": "Talladega County, Alabama, United States"
+ },
+ "Bimini": {
+  "lat": 25.720065,
+  "lon": -79.2744573,
+  "display": "Bimini, The Bahamas"
+ },
+ "3615N 8047W": null,
+ "13 NM SW of RDU": null,
+ "ORF and RIC": null,
+ "IAD": {
+  "lat": 38.9522663,
+  "lon": -77.4534849,
+  "display": "Washington Dulles International Airport, 1, Saarinen Circle, Dulles, Loudoun County, Virginia, 20166, United States"
+ },
+ "Palm Springs, CA": {
+  "lat": 33.8246269,
+  "lon": -116.540303,
+  "display": "Palm Springs, Riverside County, California, United States"
+ },
+ "RIC": {
+  "lat": 40.776322,
+  "lon": -82.5302254,
+  "display": "Richland County, Ohio, United States"
+ },
+ "LFD": {
+  "lat": 30.8768573,
+  "lon": -96.0569003,
+  "display": "LFD Ranch Lake Dam, Madison County, Texas, 77872, United States"
+ },
+ "Fort Myer": {
+  "lat": 38.9188585,
+  "lon": -76.9903027,
+  "display": "Fort Myer Construction Asphalt Plant #2, Northeast, Ward 5, Washington, District of Columbia, United States"
+ },
+ "GCN": {
+  "lat": 22.2781335,
+  "lon": 88.4586126,
+  "display": "Gocharan, Gocharan-Dhosa Road, Neutala, Kolkata Metropolitan Area, Baruipur, South 24 Parganas, West Bengal, 743391, India"
+ },
+ "TEB": {
+  "lat": 40.84951,
+  "lon": -74.0635362,
+  "display": "Teterboro Airport, Moonachie Avenue, Moonachie, Bergen County, New Jersey, 07074, United States"
+ },
+ "40 NM ENE of PBI": null,
+ "10 NM E of HSV": null,
+ "over ACO": null,
+ "Long Beach": {
+  "lat": 33.7690164,
+  "lon": -118.191604,
+  "display": "Long Beach, Los Angeles County, California, United States"
+ },
+ "over BWZ": null,
+ "15 NM E of LAX": null,
+ "vicinity of PMM VOR": null,
+ "10 NM NE of ISO": null,
+ "over RIC": {
+  "lat": 51.4324264,
+  "lon": -0.3732482,
+  "display": "Footbridge over the Longford, Hampton, London Borough of Richmond upon Thames, Greater London, England, TW12 1AD, United Kingdom"
+ },
+ "6 NM E of OAK": null,
+ "15 NM N of FLL": null,
+ "65 NM E of ABQ": null,
+ "17 NM NW of LAX": null,
+ "Arlington Ridge Rd and Lynne St": null,
+ "3NM E of BUR": null,
+ "82 NM E of MEM": null,
+ "040 NM E of BGS": null,
+ "DCA0100027": null,
+ "10 NM S of MHK": null,
+ "5 NM E of LAX": null,
+ "VCNTY of ONL VOR": null,
+ "42 NM SW of SPI": null,
+ "Lynchburg, VA": {
+  "lat": 37.4137536,
+  "lon": -79.1422464,
+  "display": "Lynchburg, Virginia, United States"
+ },
+ "10 miles N of LYH": null,
+ "SOW Airport": {
+  "lat": 34.2650087,
+  "lon": -110.0104071,
+  "display": "Show Low Regional Airport, 3150, East Airport Loop, Show Low, Navajo County, Arizona, 85901, United States"
+ },
+ "SYA": {
+  "lat": 52.7227456,
+  "lon": 174.1003202,
+  "display": "Eareckson Air Station, Unorganized Borough, Alaska, United States"
+ },
+ "Stillwater, OK": {
+  "lat": 36.1156306,
+  "lon": -97.0585717,
+  "display": "Stillwater, Payne County, Oklahoma, United States"
+ },
+ "ESL VORTAC": null,
+ "35NM SE of LBL": null,
+ "CSN VORTAC": null,
+ "SDZ": {
+  "lat": 51.460699,
+  "lon": 13.5045576,
+  "display": "Soziales Dienstleistungszentrum, 82, August-Bebel-Stra\u00dfe, Kotschka, Elsterwerda, Elbe-Elster, Brandenburg, 04910, Deutschland"
+ },
+ "Greenville, MS": {
+  "lat": 33.4111051,
+  "lon": -91.0635857,
+  "display": "Greenville, Washington County, Mississippi, United States"
+ },
+ "35 NM N of GLH": null,
+ "35 miles SE of LBF": null,
+ "115 NM SE of ZQA": null,
+ "58 NM S LIT": null,
+ "Little Rock, AR": {
+  "lat": 34.7465071,
+  "lon": -92.2896267,
+  "display": "Little Rock, Big Rock Township, Pulaski County, Arkansas, United States"
+ },
+ "15 NM SE of LIT": null,
+ "1,050 miles off the E coast of the Carolinas": null,
+ "7 NM SE of NZY": null,
+ "37:49N/78:01W": null,
+ "50NM W of LAX": null,
+ "LIT": {
+  "lat": 44.0322982,
+  "lon": -1.256821,
+  "display": "Lit-et-Mixe, Dax, Landes, Nouvelle-Aquitaine, France m\u00e9tropolitaine, 40170, France"
+ },
+ "Anoka, MN": {
+  "lat": 45.2710195,
+  "lon": -93.2827625,
+  "display": "Anoka County, Minnesota, United States"
+ },
+ "4NM N of HCH": null,
+ "MMB": {
+  "lat": 48.1437932,
+  "lon": 17.1087497,
+  "display": "M\u00fazeum mesta Bratislavy, 1, Radni\u010dn\u00e1, Vn\u00fatorn\u00e9 mesto, Historick\u00e9 jadro, Bratislava, okres Bratislava I, Bratislava, Borinka, Bratislavsk\u00fd kraj, 815 18, Slovensko"
+ },
+ "40 NM W of LOZ": null,
+ "45 NM E of TUL": null,
+ "40 NM south of PGA": null,
+ "50NM WNW of LBL": null,
+ "Toledo and Detroit areas": null,
+ "5 NM S of LSE": null,
+ "50 NM E of FSD": null,
+ "29 NM SW of LGA": null,
+ "W of Chicago, IL": {
+  "lat": 41.7784513,
+  "lon": -87.6437453,
+  "display": "W, 6343, South Halsted Street, Englewood, Chicago, Lake Township, Cook County, Illinois, 60621, United States"
+ },
+ "Deweyville, TX": {
+  "lat": 30.2965285,
+  "lon": -93.7453704,
+  "display": "Deweyville, Newton County, Texas, 77614, United States"
+ },
+ "74NM W of ELY": null,
+ "HNK": {
+  "lat": 45.8094557,
+  "lon": 15.9700283,
+  "display": "Hrvatsko narodno kazali\u0161te u Zagrebu, 15, Trg Republike Hrvatske, Mjesni odbor \"Mimara\", Gradska \u010detvrt Donji grad, Zagreb, Grad Zagreb, 10000, Hrvatska"
+ },
+ "16 NM NW of GLD": null,
+ "DSM": {
+  "lat": 41.5345493,
+  "lon": -93.6592394,
+  "display": "Des Moines International Airport, Littell Avenue, Des Moines, Polk County, Iowa, 50321, United States"
+ },
+ "Winamac, IN": {
+  "lat": 41.0514299,
+  "lon": -86.6030648,
+  "display": "Winamac, Pulaski County, Indiana, United States"
+ },
+ "40NM WSW of BDF": null,
+ "St Joseph, MO": {
+  "lat": 39.7686055,
+  "lon": -94.8466322,
+  "display": "Saint Joseph, Buchanan County, Missouri, United States"
+ },
+ "10 NM WNW of LFD": null,
+ "South Asia, South Asia": {
+  "lat": 21.4201042,
+  "lon": 39.8930959,
+  "display": "Tawafa Establishments South Eastern Asia - Headquarter Mina, \u0637\u0631\u064a\u0642 \u0627\u0644\u0645\u0634\u0627\u0629 15, \u0627\u0644\u0645\u0634\u0627\u0639\u0631 \u0627\u0644\u0645\u0642\u062f\u0633\u0629, \u0645\u062e\u064a\u0645\u0627\u062a \u062d\u062c\u0627\u062c \u062c\u0646\u0648\u0628 \u0634\u0631\u0642 \u0622\u0633\u064a\u0627, \u0645\u0646\u0649, \u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629, \u0645\u0646\u0637\u0642\u0629 \u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629, 24211, \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+ },
+ "South Asia": {
+  "lat": 28.5604411,
+  "lon": 77.2022513,
+  "display": "Akvo South Asia Hub Office, Choudhary Hukum Chand Marg, Green Park Extension, Hauz Khas, South, Delhi, South Delhi, Delhi, 110029, India"
+ },
+ "RZC": {
+  "lat": 43.1526059,
+  "lon": -77.589892,
+  "display": "Rochester Zen Center, 7, Arnold Park, City of Rochester, Monroe County, New York, 14607, United States"
+ },
+ "40NM SW of PIE": null,
+ "St Petersburg-Clearwater, FL": {
+  "lat": 27.9099433,
+  "lon": -82.6877179,
+  "display": "Saint Petersburg-Clearwater International Airport, 14700, Terminal Boulevard, Clearwater, Pinellas County, Florida, 33762, United States"
+ },
+ "Eglin Air Force Base training range, Florida, United States": null,
+ "Eglin Air Force Base training range, Florida": null,
+ "ARG": {
+  "lat": 36.1246197,
+  "lon": -90.9264943,
+  "display": "Walnut Ridge Regional Airport, North Sky Watch, College City, Walnut Ridge, Lawrence County, Arkansas, United States"
+ },
+ "Merrill, IA": {
+  "lat": 42.7196653,
+  "lon": -96.2481127,
+  "display": "Merrill, Plymouth County, Iowa, United States"
+ },
+ "73 NM of BIL": null,
+ "Washington, DC": {
+  "lat": 38.8950982,
+  "lon": -77.0363849,
+  "display": "Washington, District of Columbia, United States"
+ },
+ "Nashville, TN": {
+  "lat": 36.1622767,
+  "lon": -86.7742984,
+  "display": "Nashville, Davidson County, Middle Tennessee, Tennessee, United States"
+ },
+ "10 NM SE of BIL": null,
+ "Sioux City, IA": {
+  "lat": 42.4966815,
+  "lon": -96.4058782,
+  "display": "Sioux City, Woodbury County, Iowa, United States"
+ },
+ "MCM": {
+  "lat": 32.4299432,
+  "lon": -99.74904,
+  "display": "McMurry University, 1, South 16th Street, Abilene, Taylor County, Texas, 79697, United States"
+ },
+ "Jackson, MS": {
+  "lat": 32.2998686,
+  "lon": -90.1830408,
+  "display": "Jackson, Hinds County, Mississippi, United States"
+ },
+ "35NM WNW of JAN": null,
+ "115 NM N of OTZ": null,
+ "184 NM W of MCI": null,
+ "Wolbach, NE": {
+  "lat": 41.3970137,
+  "lon": -98.3961172,
+  "display": "Wolbach, Greeley County, Nebraska, United States"
+ },
+ "Chanute, KS": {
+  "lat": 37.6816841,
+  "lon": -95.4517985,
+  "display": "Chanute, Neosho County, Kansas, 66720, United States"
+ },
+ "41.27N/76.25W": null,
+ "15 NM south of CNU": null,
+ "Wilkes-Barre, PA": {
+  "lat": 41.2464824,
+  "lon": -75.8817316,
+  "display": "Wilkes-Barre, Luzerne County, Pennsylvania, United States"
+ },
+ "25 NM south of FSD": null,
+ "Iowa City": {
+  "lat": 41.6612561,
+  "lon": -91.5299106,
+  "display": "Iowa City, Johnson County, Iowa, United States"
+ },
+ "Sioux Falls, SD": {
+  "lat": 43.5476008,
+  "lon": -96.7293629,
+  "display": "Sioux Falls, Sioux Falls Township, Minnehaha County, South Dakota, United States"
+ },
+ "43NM NW of BTV": null,
+ "Dowagiac, MI": {
+  "lat": 41.9824681,
+  "lon": -86.1088809,
+  "display": "Dowagiac, Cass County, Michigan, United States"
+ },
+ "Burlington, VT": {
+  "lat": 44.4761601,
+  "lon": -73.212906,
+  "display": "Burlington, Chittenden County, Vermont, United States"
+ },
+ "Massachusetts": {
+  "lat": 42.3788774,
+  "lon": -72.032366,
+  "display": "Massachusetts, United States"
+ },
+ "90 NM W of DBS": null,
+ "Billings, MT": {
+  "lat": 45.7874957,
+  "lon": -108.49607,
+  "display": "Billings, Yellowstone County, Montana, United States"
+ },
+ "El Paso, TX": {
+  "lat": 31.7601001,
+  "lon": -106.4870476,
+  "display": "El Paso, El Paso County, Texas, United States"
+ },
+ "Atlanta, GA": {
+  "lat": 33.7544657,
+  "lon": -84.3898151,
+  "display": "Atlanta, Fulton County, Georgia, United States"
+ },
+ "Seattle, WA": {
+  "lat": 47.6038321,
+  "lon": -122.330062,
+  "display": "Seattle, King County, Washington, United States"
+ },
+ "30 miles E of GRD": null,
+ "30NM S of AMN": null,
+ "Charleston, WV": {
+  "lat": 38.3505995,
+  "lon": -81.6332812,
+  "display": "Charleston, Kanawha County, West Virginia, United States"
+ },
+ "15NM W of SOT": null,
+ "Kenai, AK": {
+  "lat": 60.5544444,
+  "lon": -151.258333,
+  "display": "Kenai, Kenai Peninsula Borough, Alaska, 99511, United States"
+ },
+ "52 NM NW of ENA": null,
+ "Brownlee, ID": {
+  "lat": 44.008779,
+  "lon": -116.245407,
+  "display": "Brownlee, Boise County, Idaho, United States"
+ },
+ "BOI": {
+  "lat": 43.5600566,
+  "lon": -116.2080749,
+  "display": "Boise Airport, South T K Avenue, Broadway Place, Southeast Boise, Boise, Ada County, Idaho, 83706, United States"
+ },
+ "DCA": {
+  "lat": 38.8512894,
+  "lon": -77.0396889,
+  "display": "Ronald Reagan Washington National Airport, 2401, Smith Boulevard, Arlington, Arlington County, Virginia, 22202, United States"
+ },
+ "Glendale, AZ": {
+  "lat": 33.5386858,
+  "lon": -112.185994,
+  "display": "Glendale, Maricopa County, Arizona, United States"
+ },
+ "La Belle, FL": {
+  "lat": 26.7510655,
+  "lon": -81.3881892,
+  "display": "Port La Belle, Hendry County, Florida, United States"
+ },
+ "63 NM W of LBV": null,
+ "Chicago, IL": {
+  "lat": 41.8755616,
+  "lon": -87.6244212,
+  "display": "Chicago, South Chicago Township, Cook County, Illinois, United States"
+ },
+ "73 NM NNE of MCI": null,
+ "Excelsior Springs, MO": {
+  "lat": 39.3417244,
+  "lon": -94.2223507,
+  "display": "Excelsior Springs, Clay County, Missouri, 64024, United States"
+ },
+ "DFW": {
+  "lat": 32.8962506,
+  "lon": -97.0453389,
+  "display": "Dallas/Fort Worth International Airport, 2400, Aviation Drive, Dallas, Tarrant County, Texas, 75261, United States"
+ },
+ "20NM NW of FMG": null,
+ "Luke AFB, AZ": {
+  "lat": 33.5354345,
+  "lon": -112.3735227,
+  "display": "Luke Air Force Base, North Oro Vista Court, Dreaming Summit, Maricopa County, Arizona, 85309, United States"
+ },
+ "Pedro Bay, AK": {
+  "lat": 59.786763,
+  "lon": -154.1430408,
+  "display": "Pedro Bay, Lake and Peninsula Borough, Alaska, 99647, United States"
+ },
+ "Mt. Augustine": {
+  "lat": 39.2084406,
+  "lon": -76.7149703,
+  "display": "Mount Augustine, Augustine Avenue, Elkridge, Howard County, Maryland, 21075, United States"
+ },
+ "FOD": {
+  "lat": 42.5502432,
+  "lon": -94.1932798,
+  "display": "Fort Dodge Regional Airport, 170th Street, Fort Dodge, Cooper Township, Webster County, Iowa, 50532, United States"
+ },
+ "78NM NE of MEM": null,
+ "FAT and VIS": null,
+ "12NM NE of COS": null,
+ "10NM E of LVL": null,
+ "Lawrenceville, VA": {
+  "lat": 36.7576469,
+  "lon": -77.8469374,
+  "display": "Lawrenceville, Brunswick County, Virginia, United States"
+ },
+ "10NM NE of OMN": null,
+ "Dublin, GA": {
+  "lat": 32.5404447,
+  "lon": -82.903754,
+  "display": "Dublin, Laurens County, Georgia, United States"
+ },
+ "NW of DBN": null,
+ "148 NM NW of SPY": null,
+ "20NM S of MCN": null,
+ "Macon, GA": {
+  "lat": 32.8406946,
+  "lon": -83.6324022,
+  "display": "Macon, Bibb County, Georgia, United States"
+ },
+ "40NM E of SAV": null,
+ "Savannah, GA": {
+  "lat": 32.0790074,
+  "lon": -81.0921335,
+  "display": "Savannah, Chatham County, Georgia, United States"
+ },
+ "35NM S of EKN": null,
+ "Elkins, WV": {
+  "lat": 38.925927,
+  "lon": -79.8466552,
+  "display": "Elkins, Randolph County, West Virginia, 26241, United States"
+ },
+ "Mackall AAF": null,
+ "Southern Pines, NC": {
+  "lat": 35.1740471,
+  "lon": -79.3922539,
+  "display": "Southern Pines, Moore County, North Carolina, 28387, United States"
+ },
+ "50 NM SE of LFK": null,
+ "Lufkin, TX": {
+  "lat": 31.3386242,
+  "lon": -94.7288558,
+  "display": "Lufkin, Angelina County, Texas, United States"
+ },
+ "40 NM N of TXK": null,
+ "Texarkana, AR": {
+  "lat": 33.4254259,
+  "lon": -94.0430937,
+  "display": "Texarkana, Miller County, Arkansas, 71854, United States"
+ },
+ "Fort Stockton, TX": {
+  "lat": 30.891901,
+  "lon": -102.883662,
+  "display": "Fort Stockton, Pecos County, Texas, 79735, United States"
+ },
+ "24 NM NW of FST": null,
+ "Pensacola, FL": {
+  "lat": 30.421309,
+  "lon": -87.2169149,
+  "display": "Pensacola, Escambia County, Florida, United States"
+ },
+ "15 NM NW of PNS": null,
+ "Gila Bend, AZ": {
+  "lat": 32.9476184,
+  "lon": -112.7144993,
+  "display": "Gila Bend, Maricopa County, Arizona, 85337, United States"
+ },
+ "20NM W of GBN": null,
+ "235 NM 210 deg of SXC": null,
+ "BHM": {
+  "lat": 33.5646818,
+  "lon": -86.7504578,
+  "display": "Birmingham-Shuttlesworth International Airport, 5900, Messer Airport Highway, Eastwood, Birmingham, Jefferson County, Alabama, 35212, United States"
+ },
+ "FAY": {
+  "lat": 49.88527,
+  "lon": 2.80813,
+  "display": "Fay, P\u00e9ronne, Somme, Hauts-de-France, France m\u00e9tropolitaine, 80200, France"
+ },
+ "VCT": {
+  "lat": 41.6935131,
+  "lon": -8.828277,
+  "display": "Viana do Castelo, Portugal"
+ },
+ "TRK airport": {
+  "lat": 3.3270177,
+  "lon": 117.5682619,
+  "display": "Bandar Udara Juwata, Gang Kerapu, Karang Anyar Pantai, Tarakan, Kalimantan Utara, Kalimantan, 77111, Indonesia"
+ },
+ "JFK": {
+  "lat": 40.6429479,
+  "lon": -73.7793734,
+  "display": "John F. Kennedy International Airport, JFK Access Road, Queens, Queens County, New York, 11430, United States"
+ },
+ "McAllen, TX": {
+  "lat": 26.204114,
+  "lon": -98.2300605,
+  "display": "McAllen, Hidalgo County, Texas, United States"
+ },
+ "2442N/8106W": null,
+ "Marathon, FL": {
+  "lat": 24.7137524,
+  "lon": -81.0903512,
+  "display": "Marathon, Monroe County, Florida, United States"
+ },
+ "HGR": {
+  "lat": 39.7088329,
+  "lon": -77.7267564,
+  "display": "Hagerstown Regional Airport, Showalter Road, Maugansville, Washington County, Maryland, 21767, United States"
+ },
+ "24.05N, 74.57W": {
+  "lat": 24.032,
+  "lon": -74.4900167,
+  "display": "San Salvador, The Bahamas"
+ },
+ "Cockburn Town, Bahamas, Bahamas": null,
+ "Cockburn Town, Bahamas": {
+  "lat": 24.0515978,
+  "lon": -74.5282089,
+  "display": "Cockburn Town, San Salvador, The Bahamas"
+ },
+ "Albany, NY": {
+  "lat": 42.6511674,
+  "lon": -73.754968,
+  "display": "City of Albany, Albany County, New York, United States"
+ },
+ "ALB": {
+  "lat": 55.001251,
+  "lon": -115.002136,
+  "display": "Alberta, Canada"
+ },
+ "Memphis, TN": {
+  "lat": 35.146026,
+  "lon": -90.0517786,
+  "display": "Memphis, Shelby County, West Tennessee, Tennessee, United States"
+ },
+ "MEM": {
+  "lat": 35.0462565,
+  "lon": -89.9768947,
+  "display": "Memphis International Airport, Mustand Lane, Memphis, Shelby County, West Tennessee, Tennessee, 38116, United States"
+ },
+ "LAX": {
+  "lat": 33.9421675,
+  "lon": -118.4213591,
+  "display": "Los Angeles International Airport, Century Freeway, Los Angeles, Los Angeles County, California, 90245, United States"
+ },
+ "Freeport, Bahamas, Bahamas": {
+  "lat": 26.5289635,
+  "lon": -78.6964651,
+  "display": "University of The Bahamas North (UB-North), McKenzie Street, City of Freeport, The Bahamas"
+ },
+ "ZFP": {
+  "lat": 47.6722776,
+  "lon": 9.4296608,
+  "display": "Klinik f\u00fcr Psychiatrie und Psychotherapie Bodensee, 8, R\u00f6ntgenstra\u00dfe, Wohnanlage SWG, Fischbach, Friedrichshafen, VVG der Stadt Friedrichshafen, Bodenseekreis, Baden-W\u00fcrttemberg, 88048, Deutschland"
+ },
+ "FUZ": {
+  "lat": 48.8577505,
+  "lon": 2.4307801,
+  "display": "Fuz, Rue \u00c9tienne Marcel, \u00c9tienne-Marcel - Chanzy, Montreuil, Bobigny, Seine-Saint-Denis, \u00cele-de-France, France m\u00e9tropolitaine, 93100, France"
+ },
+ "Cleveland, OH": {
+  "lat": 41.4996574,
+  "lon": -81.6936772,
+  "display": "Cleveland, Cuyahoga County, Ohio, United States"
+ },
+ "LFK": {
+  "lat": 43.6528385,
+  "lon": -70.2669613,
+  "display": "LFK, Pine Street, Parkside, West End, Portland, Cumberland County, Maine, 04102, United States"
+ },
+ "DBN": {
+  "lat": -37.7747529,
+  "lon": 145.0386786,
+  "display": "Darebin, Heidelberg Road, Ivanhoe, Melbourne, Victoria, 3079, Australia"
+ },
+ "CRG": {
+  "lat": 30.3363325,
+  "lon": -81.515218,
+  "display": "Jacksonville Executive at Craig Airport, Oak Ridge Drive South, Monument Oaks, Jacksonville, Duval County, Florida, 32225, United States"
+ },
+ "2429N 7250W": null,
+ "Raleigh/Durham, NC": {
+  "lat": 35.8803614,
+  "lon": -78.7872382,
+  "display": "Raleigh-Durham International Airport, 1000, Trade Drive, Morrisville, Wake County, North Carolina, 27560, United States"
+ },
+ "Florence, SC": {
+  "lat": 34.1984435,
+  "lon": -79.7671658,
+  "display": "Florence, Florence County, South Carolina, United States"
+ },
+ "Birmingham, AL": {
+  "lat": 33.5206824,
+  "lon": -86.8024326,
+  "display": "Birmingham, Jefferson County, Alabama, United States"
+ },
+ "Huntsville, AL": {
+  "lat": 34.729847,
+  "lon": -86.5859011,
+  "display": "Huntsville, Madison County, Alabama, United States"
+ },
+ "Picayune, MS": {
+  "lat": 30.5254692,
+  "lon": -89.6795084,
+  "display": "Picayune, Pearl River County, Mississippi, United States"
+ },
+ "Yardley, PA": {
+  "lat": 40.242506,
+  "lon": -74.8389704,
+  "display": "Yardley, Bucks County, Pennsylvania, United States"
+ },
+ "Patuxent River, MD": {
+  "lat": 38.7916674,
+  "lon": -76.705225,
+  "display": "Patuxent River, Green Landing, Anne Arundel County, Maryland, United States"
+ },
+ "Liberal, KS": {
+  "lat": 37.0398062,
+  "lon": -100.9222517,
+  "display": "Liberal, Seward County, Kansas, United States"
+ },
+ "Louisville, KY": {
+  "lat": 38.2542376,
+  "lon": -85.759407,
+  "display": "Louisville, Jefferson County, Kentucky, United States"
+ },
+ "Scottsbluff, NE": {
+  "lat": 41.862302,
+  "lon": -103.6627088,
+  "display": "Scottsbluff, Scotts Bluff County, Nebraska, 69361, United States"
+ },
+ "Cape Canaveral, FL": {
+  "lat": 28.4513556,
+  "lon": -80.5283059,
+  "display": "Cape Canaveral, Brevard County, Florida, United States"
+ },
+ "Nantucket, MA": {
+  "lat": 41.2844408,
+  "lon": -70.09842,
+  "display": "Nantucket, Massachusetts, United States"
+ },
+ "Ukiah, CA": {
+  "lat": 39.1501662,
+  "lon": -123.2077861,
+  "display": "Ukiah, Mendocino County, California, 95482, United States"
+ },
+ "Buffalo, NY": {
+  "lat": 42.8864163,
+  "lon": -78.8781493,
+  "display": "Buffalo, Erie County, New York, United States"
+ },
+ "YELLO intersection": null,
+ "3 NM NW of ARD": null,
+ "SZW": {
+  "lat": 52.0799741,
+  "lon": 4.3206676,
+  "display": "Ministerie van Sociale Zaken en Werkgelegenheid, 5, Parnassusplein, Museumkwartier, Centrum, Den Haag, Zuid-Holland, Nederland, 2511 VX, Nederland"
+ },
+ "Walnut Ridge, AR": {
+  "lat": 36.0680241,
+  "lon": -90.9561004,
+  "display": "Walnut Ridge, Lawrence County, Arkansas, 72476, United States"
+ },
+ "ARG324080": null,
+ "Long Island Sound": {
+  "lat": 41.0508886,
+  "lon": -72.9479898,
+  "display": "Long Island Sound, New York, 06390, United States"
+ },
+ "New York, NY": {
+  "lat": 40.7127281,
+  "lon": -74.0060152,
+  "display": "New York, United States"
+ },
+ "110 NM SW of LAX": null,
+ "San Juan, Puerto Rico": {
+  "lat": 18.384239,
+  "lon": -66.05344,
+  "display": "San Juan, Puerto Rico, United States"
+ },
+ "Tampa, FL": {
+  "lat": 27.9449854,
+  "lon": -82.4583107,
+  "display": "Tampa, Hillsborough County, Florida, United States"
+ },
+ "off the left side": null,
+ "LAL306084, NW of TPA": null,
+ "Fort Myers, FL": {
+  "lat": 26.640628,
+  "lon": -81.8723084,
+  "display": "Fort Myers, Lee County, Florida, United States"
+ },
+ "36NM E of RSW": null,
+ "29NM SE of HCT": null,
+ "Melbourne, FL": {
+  "lat": 28.0785034,
+  "lon": -80.6077908,
+  "display": "Melbourne, Brevard County, Florida, United States"
+ },
+ "vicinity of SBJ": null,
+ "70 NM E of MLB": null,
+ "Rio Grande, NJ": {
+  "lat": 39.018694,
+  "lon": -74.879965,
+  "display": "Rio Grande, Middle Township, Cape May County, New Jersey, 08242, United States"
+ },
+ "Great Falls, MT": {
+  "lat": 47.5048851,
+  "lon": -111.29189,
+  "display": "Great Falls, Cascade County, Montana, United States"
+ },
+ "Meridian, MS": {
+  "lat": 32.3643098,
+  "lon": -88.703656,
+  "display": "Meridian, Lauderdale County, Mississippi, United States"
+ },
+ "Muscle Shoals, AL": {
+  "lat": 34.7436791,
+  "lon": -87.6532615,
+  "display": "Muscle Shoals, Colbert County, Alabama, United States"
+ },
+ "Pocatello, ID": {
+  "lat": 42.8620287,
+  "lon": -112.450627,
+  "display": "Pocatello, Bannock County, Idaho, United States"
+ },
+ "Springfield, IL": {
+  "lat": 39.7990175,
+  "lon": -89.6439575,
+  "display": "Springfield, Sangamon County, Illinois, United States"
+ },
+ "Salina, KS": {
+  "lat": 38.8402805,
+  "lon": -97.6114237,
+  "display": "Salina, Saline County, Kansas, 67401, United States"
+ },
+ "25NM SSW of ALB": null,
+ "San Antonio, TX": {
+  "lat": 29.4246002,
+  "lon": -98.4951405,
+  "display": "San Antonio, Bexar County, Texas, United States"
+ },
+ "16 NM SE of SAT": null,
+ "45NM ESE of ZUN": null,
+ "Thayer, MO": {
+  "lat": 36.5245064,
+  "lon": -91.5381967,
+  "display": "Thayer, Oregon County, Missouri, 65791, United States"
+ },
+ "Jackson, TN": {
+  "lat": 35.6144446,
+  "lon": -88.8177418,
+  "display": "Jackson, Madison County, West Tennessee, Tennessee, United States"
+ },
+ "Fort Smith, AR": {
+  "lat": 35.3880338,
+  "lon": -94.4265011,
+  "display": "Fort Smith, Sebastian County, Arkansas, United States"
+ },
+ "3654N 9151W": null,
+ "33 NM North of MKS": null,
+ "Orangeburg, SC": {
+  "lat": 33.4918203,
+  "lon": -80.8556476,
+  "display": "Orangeburg, Orangeburg County, South Carolina, 29115, United States"
+ },
+ "10NM NW of PSP": null,
+ "TPA to SAV": null,
+ "Denver ARTCC airspace": null,
+ "26 NM E of CKW": null,
+ "Goffs, CA": {
+  "lat": 34.9191646,
+  "lon": -115.0627541,
+  "display": "Goffs, San Bernardino County, California, United States"
+ },
+ "25 NM SW of GFS": null,
+ "Philipsburg, PA": {
+  "lat": 40.8964465,
+  "lon": -78.2205688,
+  "display": "Philipsburg, Centre County, Pennsylvania, United States"
+ },
+ "40 NM W of PSB": null,
+ "Valparaiso, FL": {
+  "lat": 30.5085309,
+  "lon": -86.5027282,
+  "display": "Valparaiso, Okaloosa County, Florida, 32580, United States"
+ },
+ "20NM NE of JAX": null,
+ "DSD107054": null,
+ "RZC VOR": null,
+ "Ardmore, OK": {
+  "lat": 34.1729273,
+  "lon": -97.1309119,
+  "display": "Ardmore, Carter County, Oklahoma, United States"
+ },
+ "PUB120050": null,
+ "20 NM ENE of MTU": null,
+ "Chicago-Rockford, IL": {
+  "lat": 42.1966203,
+  "lon": -89.1018595,
+  "display": "Chicago Rockford International Airport, 60, 2, Rockford, Rockford Township, Winnebago County, Illinois, 61109, United States"
+ },
+ "200 NM SSE of CEW": null,
+ "Crestview, FL": {
+  "lat": 30.7621326,
+  "lon": -86.5705084,
+  "display": "Crestview, Okaloosa County, Florida, United States"
+ },
+ "Wilmington, NC": {
+  "lat": 34.2352853,
+  "lon": -77.9487284,
+  "display": "Wilmington, New Hanover County, North Carolina, United States"
+ },
+ "140 NM S of ILM": null,
+ "Presque Isle, ME": {
+  "lat": 46.6812216,
+  "lon": -68.0154578,
+  "display": "Presque Isle, Aroostook County, Maine, 04769, United States"
+ },
+ "near MCK": null,
+ "49NM W of BFF": null,
+ "Oakland, CA": {
+  "lat": 37.8044557,
+  "lon": -122.271356,
+  "display": "Oakland, Alameda County, California, United States"
+ },
+ "Dallas, TX": {
+  "lat": 32.7762719,
+  "lon": -96.7968559,
+  "display": "Dallas, Dallas County, Texas, United States"
+ },
+ "Sidney, Nebraska, United States": {
+  "lat": 41.1448682,
+  "lon": -102.9767382,
+  "display": "Sidney, Cheyenne County, Nebraska, 69162, United States"
+ },
+ "Junction, TX": {
+  "lat": 30.4893555,
+  "lon": -99.7720109,
+  "display": "Junction, Kimble County, Texas, 76849, United States"
+ },
+ "40NM NW of IAH": null,
+ "JCT VOR": {
+  "lat": 32.1462579,
+  "lon": -81.1991353,
+  "display": "Savannah VOR, Gulfstream Road, Port Wentworth Junction, Savannah, Chatham County, Georgia, 31418, United States"
+ },
+ "NE of DBN": null,
+ "Victoria, TX": {
+  "lat": 28.8026443,
+  "lon": -96.9766308,
+  "display": "Victoria County, Texas, United States"
+ },
+ "22NM NE of VCT": null,
+ "Orlando, FL": {
+  "lat": 28.5421218,
+  "lon": -81.379045,
+  "display": "Orlando, Orange County, Florida, United States"
+ },
+ "10NM N of ORL": null,
+ "Rutledge, GA": {
+  "lat": 33.6259545,
+  "lon": -83.6123935,
+  "display": "Rutledge, Morgan County, Georgia, United States"
+ },
+ "Laramie Regional Airport, WY": {
+  "lat": 41.3134545,
+  "lon": -105.6728654,
+  "display": "Laramie Regional Airport, General Brees Road, Laramie, Albany County, Wyoming, United States"
+ },
+ "7NM SE of PSP": null,
+ "30NM W of AUS": null,
+ "Austin, TX": {
+  "lat": 30.2711286,
+  "lon": -97.7436995,
+  "display": "Austin, Travis County, Texas, United States"
+ },
+ "20 NM NNW of GTK": null,
+ "Grand Turk, Turks and Caicos": {
+  "lat": 21.4713343,
+  "lon": -71.1473985,
+  "display": "Turks and Caicos National Museum, Front Street, Cockburn Town, Grand Turk, Turks and Caicos Islands"
+ },
+ "4 NM SW of SWF": null,
+ "10 NM S of DEN": null,
+ "Topeka, KS": {
+  "lat": 39.049011,
+  "lon": -95.677556,
+  "display": "Topeka, Shawnee County, Kansas, United States"
+ },
+ "40 NM N of FOE": null,
+ "18NM E of PIH": null,
+ "20 NM NE of ILM": null,
+ "Thibodaux, LA": {
+  "lat": 29.7957633,
+  "lon": -90.822871,
+  "display": "Thibodaux, Lafourche Parish, Louisiana, United States"
+ },
+ "10 NM NW of TBD VOR": null,
+ "50NM E of VXV": null,
+ "Avenal, CA": {
+  "lat": 36.0041223,
+  "lon": -120.1290272,
+  "display": "Avenal, Kings County, California, United States"
+ },
+ "7NM SE of CHS": null,
+ "Lake Michigan": {
+  "lat": 43.8556466,
+  "lon": -87.0818686,
+  "display": "Lake Michigan, United States"
+ },
+ "125NM SE of ACY": null,
+ "over LDN": null,
+ "170 NM W of RSW": null,
+ "Rolling Meadows, IL, United States": {
+  "lat": 42.0841936,
+  "lon": -88.0131275,
+  "display": "Rolling Meadows, Palatine Township, Cook County, Illinois, 60008, United States"
+ },
+ "Anoka, near Monticello Nuclear Power Generation Plant": null,
+ "Johannesburg, South Africa, South Africa": {
+  "lat": 31.67998,
+  "lon": 34.570177,
+  "display": "\u05d3\u05e8\u05d5\u05dd \u05d0\u05e4\u05e8\u05d9\u05e7\u05d4/\u05d9\u05d5\u05d4\u05e0\u05e1\u05d1\u05d5\u05e8\u05d2, \u05d3\u05e8\u05d5\u05dd \u05d0\u05e4\u05e8\u05d9\u05e7\u05d4, \u05d0\u05e4\u05e8\u05d9\u05d3\u05e8, \u05d0\u05e9\u05e7\u05dc\u05d5\u05df, \u05e0\u05e4\u05ea \u05d0\u05e9\u05e7\u05dc\u05d5\u05df, \u05de\u05d7\u05d5\u05d6 \u05d4\u05d3\u05e8\u05d5\u05dd, 7861833, \u05d9\u05e9\u05e8\u05d0\u05dc"
+ },
+ "Camp Grafton, North Dakota, United States": {
+  "lat": 48.0527155,
+  "lon": -98.9096475,
+  "display": "Camp Grafton, Avenue B, Ramsey County, North Dakota, 58370, United States"
+ },
+ "Hava": {
+  "lat": 48.9985674,
+  "lon": 18.2307598,
+  "display": "Ilava, okres Ilava, Tren\u010diansky kraj, 019 01, Slovensko"
+ },
+ "Dulce, N. Mex.": {
+  "lat": 18.7398332,
+  "lon": -99.7199859,
+  "display": "Agua Dulce, Zacualpan, Estado de M\u00e9xico, 40380, M\u00e9xico"
+ },
+ "Kodori Gorge, Abkhazia": null,
+ "Champlin, MN": {
+  "lat": 45.1888539,
+  "lon": -93.3974538,
+  "display": "Champlin, Hennepin County, Minnesota, 55316, United States"
+ },
+ "Rolling Meadows, IL": {
+  "lat": 42.0841936,
+  "lon": -88.0131275,
+  "display": "Rolling Meadows, Palatine Township, Cook County, Illinois, 60008, United States"
  }
 }

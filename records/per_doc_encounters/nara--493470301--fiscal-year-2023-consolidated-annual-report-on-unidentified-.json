@@ -1,0 +1,32 @@
+{
+ "doc_id": "nara--493470301--fiscal-year-2023-consolidated-annual-report-on-unidentified-",
+ "file": "nara--493470301--fiscal-year-2023-consolidated-annual-report-on-unidentified-.md",
+ "source": "NARA-RG615",
+ "agency": "ODNI",
+ "title": "Fiscal Year 2023 Consolidated Annual Report on Unidentified Anomalous Phenomena October 2023",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a declassified annual report on UAP from the ODNI and DoD, which contains one specific case study of a resolved encounter.",
+ "encounters": [
+  {
+   "summary": "Military personnel reported five equidistant lights in restricted military airspace, which were later determined to be commercial aircraft.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "debunked",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "United States",
+   "date": "2021",
+   "date_precision": "year",
+   "entity_appearance": "equidistant lights, oblong dots",
+   "entity_behavior": "flew at a relatively constant pace",
+   "location_name": "Western United States military airspace",
+   "page_refs": [
+    13,
+    14
+   ],
+   "quote": "equidistant lights that they believed represented a potential incursion"
+  }
+ ]
+}

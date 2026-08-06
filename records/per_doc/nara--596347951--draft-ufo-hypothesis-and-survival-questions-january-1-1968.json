@@ -1,0 +1,44 @@
+{
+ "doc_id": "nara--596347951--draft-ufo-hypothesis-and-survival-questions-january-1-1968",
+ "file": "nara--596347951--draft-ufo-hypothesis-and-survival-questions-january-1-1968.md",
+ "source": "NARA-RG615",
+ "agency": "NSA",
+ "title": "Draft: UFO Hypothesis and Survival Questions, January 1, 1968",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a 1968 NSA draft monograph discussing the survival implications of various UFO hypotheses, including hoaxes, hallucinations, natural phenomena, secret projects, and extraterrestrial intelligence.",
+ "incidents": [
+  {
+   "summary": "Air Force records show 35 sightings of undetermined nature in a three-month period.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "country": "United States",
+   "date": "1953-06",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    1
+   ],
+   "quote": "Air Force records show 35 sightings whose nature could not be determined",
+   "recording_agency": "USAF"
+  },
+  {
+   "summary": "Sightings over Washington D.C. in 1952.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "country": "United States",
+   "date": "1952",
+   "explanation_status": "not-assessed",
+   "location_name": "Washington D.C.",
+   "page_refs": [
+    5
+   ],
+   "quote": "The well documented sightings over WASH. DC. IN 1952 strongly support this view",
+   "recording_agency": "NSA"
+  }
+ ]
+}

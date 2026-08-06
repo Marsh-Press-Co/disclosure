@@ -1,0 +1,32 @@
+{
+ "doc_id": "nara--596347919--abstract-presentation-to-the-scientific-counsel-of-gepan-of-",
+ "file": "nara--596347919--abstract-presentation-to-the-scientific-counsel-of-gepan-of-.md",
+ "source": "NARA-RG615",
+ "agency": "NSA",
+ "title": "Abstract, Presentation to the Scientific Counsel of GEPAN of Studies Undertaken During the First Semester of 1978: French Government UFO Study, June 1, 1978",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an abstract of a 1978 French GEPAN report on UFO investigations, submitted by Ron Westrum.",
+ "incidents": [
+  {
+   "summary": "Two nocturnal light cases investigated by GEPAN during 1977.",
+   "date_precision": "year",
+   "time_of_day": "night",
+   "confidence": "low",
+   "behavior": [
+    "nocturnal light"
+   ],
+   "country": "France",
+   "date": "1977",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    1
+   ],
+   "quote": "it did study two nocturnal light cases, both of which ended up labelled “unidentified”",
+   "recording_agency": "GEPAN"
+  }
+ ]
+}

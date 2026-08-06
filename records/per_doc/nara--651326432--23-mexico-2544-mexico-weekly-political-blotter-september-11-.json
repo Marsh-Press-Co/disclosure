@@ -1,0 +1,37 @@
+{
+ "doc_id": "nara--651326432--23-mexico-2544-mexico-weekly-political-blotter-september-11-",
+ "file": "nara--651326432--23-mexico-2544-mexico-weekly-political-blotter-september-11-.md",
+ "source": "NARA-RG615",
+ "agency": "Department of State",
+ "title": "23 Mexico 2544: Mexico: Weekly Political Blotter, September 11-15",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a weekly political blotter from the U.S. Embassy in Mexico, which includes a brief summary of a Mexican Congressional hearing regarding UAP and alleged alien remains.",
+ "incidents": [
+  {
+   "summary": "Mexican pilots' encounters with fast-moving flying objects during flight presented to Congress.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "fast-moving"
+   ],
+   "country": "Mexico",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    5
+   ],
+   "quote": "videos of Mexican pilots' encounters with fast-moving flying objects during flight",
+   "recording_agency": "Department of State",
+   "sensors": [
+    "video"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

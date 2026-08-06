@@ -1,0 +1,27 @@
+{
+ "doc_id": "nara--596347931--campaigne-h-key-to-the-extraterrestrial-messages-nsa-technic",
+ "file": "nara--596347931--campaigne-h-key-to-the-extraterrestrial-messages-nsa-technic.md",
+ "source": "NARA-RG615",
+ "agency": "NSA",
+ "title": "Campaigne, H. \"Key to the Extraterrestrial Messages.\" NSA Technical Journal Vol. XIV, no. 1, December 31, 1969",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an NSA Technical Journal article by H. Campaigne detailing the linguistic and mathematical analysis of a series of 31 coded messages purportedly from outer space.",
+ "incidents": [
+  {
+   "summary": "A series of 31 coded radio messages from outer space were analyzed to develop a key for translation.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "recording_agency": "NSA",
+   "shape": "unknown",
+   "size": "unknown",
+   "witness_types": [
+    "scientist"
+   ]
+  }
+ ]
+}

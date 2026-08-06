@@ -1,0 +1,55 @@
+{
+ "doc_id": "nara--596347939--report-air-force-research-regarding-the-roswell-incident-jul",
+ "file": "nara--596347939--report-air-force-research-regarding-the-roswell-incident-jul.md",
+ "source": "NARA-RG615",
+ "agency": "NSA",
+ "title": "Report: Air Force Research Regarding the \"Roswell Incident\", July 1, 1994",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is an official Air Force report regarding the Roswell Incident, concluding that the event was a result of a Project Mogul balloon recovery rather than an extraterrestrial crash.",
+ "encounters": [
+  {
+   "summary": "Major Jesse Marcel recovered debris from a ranch near Roswell, which he initially claimed was a flying disc, but was later identified by the Air Force as a Project Mogul balloon radar target.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "military",
+   "document_stance": "debunked",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1947-07",
+   "date_precision": "month",
+   "location_name": "Roswell, New Mexico",
+   "page_refs": [
+    4,
+    14,
+    15,
+    16
+   ],
+   "physical_effects": [
+    "ground traces"
+   ],
+   "quote": "The Intelligence Officer of the 509th Bomb Group... had recovered a flying disc"
+  },
+  {
+   "summary": "Rancher W.W. Brazel reported finding debris on his property in June 1947, which he later described as rubber, tinfoil, paper, and sticks.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "civilian",
+   "document_stance": "debunked",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1947-06",
+   "date_precision": "day",
+   "location_name": "Lincoln County, New Mexico",
+   "page_refs": [
+    4
+   ],
+   "physical_effects": [
+    "ground traces"
+   ],
+   "quote": "came upon a large area of bright wreckage made up of rubber strips, tinfoil, a rather tough paper, and sticks"
+  }
+ ]
+}

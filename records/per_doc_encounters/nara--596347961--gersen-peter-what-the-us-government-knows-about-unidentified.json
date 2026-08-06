@@ -1,0 +1,45 @@
+{
+ "doc_id": "nara--596347961--gersen-peter-what-the-us-government-knows-about-unidentified",
+ "file": "nara--596347961--gersen-peter-what-the-us-government-knows-about-unidentified.md",
+ "source": "NARA-RG615",
+ "agency": "NSA",
+ "title": "Gersen, Peter. \"What the US Government Knows About Unidentified Flying Objects.\" Frontiers of Science. June 30, 1981",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is an archival article by Peter Gersten discussing government knowledge of UFOs and referencing various declassified military and intelligence reports containing encounter data.",
+ "encounters": [
+  {
+   "summary": "A Cuban pilot reported an encounter between his MIG-21 and a UFO, which was intercepted by USAF Security.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "Cuba",
+   "date_precision": "unknown",
+   "page_refs": [
+    1
+   ]
+  },
+  {
+   "summary": "Military personnel reported unconventional aerial objects in the vicinity of nuclear-weapons storage and missile control facilities at multiple Air Force bases.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "United States",
+   "date": "1975-10",
+   "date_precision": "month",
+   "location_name": "Loring AFB, Wurtsmith AFB, Malstrom AFB, Minot AFB",
+   "page_refs": [
+    1
+   ],
+   "physical_effects": [
+    "radar confirmation"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "doc": "nara--608863162--state-243809-africa-bureau-friday-report-7-28-89-sent-august.md",
+ "leads": [
+  {
+   "page": 16,
+   "lead_type": "debris-material",
+   "claim": "Unidentified metal fragments found near Koro, Mali, were identified as debris from a U.S. rocket launch.",
+   "strength": "noise",
+   "why": "The document explicitly identifies the material as conventional debris from a known U.S. rocket launch.",
+   "material_description": "Unidentified metal fragments",
+   "outcome_in_document": "confirmed-mundane",
+   "quote": "UNIDENTIFIED METAL FRAGMENTS FOUND NEAR KORO IN SOUTH-CENTRAL MALI MAY BE THE REMAINS OF A U.S. ROCKET"
+  }
+ ],
+ "doc_verdict": "This document contains no evidence of UAP-related material, as the only mentioned fragments are explicitly identified as conventional rocket debris."
+}

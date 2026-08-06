@@ -1,0 +1,72 @@
+{
+ "doc_id": "nara--608863150--bridge-07428-unidentified-flying-objects-sighted-in-eastern-",
+ "file": "nara--608863150--bridge-07428-unidentified-flying-objects-sighted-in-eastern-.md",
+ "source": "NARA-RG615",
+ "agency": "Department of State",
+ "title": "BRIDGE 07428: Unidentified Flying Objects Sighted in Eastern Caribbean, September 9, 1987",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a Department of State cable from the U.S. Embassy in Bridgetown reporting on a multi-witness UAP sighting in the Eastern Caribbean on September 1, 1987.",
+ "incidents": [
+  {
+   "summary": "Hundreds of witnesses, including embassy employees, reported seeing up to seven objects moving at high speed in changing formations over the southeastern coast near Grantley Adams International Airport.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "high speed",
+    "changing formations",
+    "disappeared into the sea"
+   ],
+   "country": "Barbados",
+   "date": "1987-09-01",
+   "duration": "45 seconds",
+   "explanation_status": "not-assessed",
+   "location_name": "Grantley Adams International Airport, Barbados",
+   "object_count": "up to seven",
+   "page_refs": [
+    1,
+    2
+   ],
+   "quote": "REPORTED SEEING UP TO SEVEN OBJECTS MOVING AT HIGH SPEED IN CHANGING FORMATIONS",
+   "recording_agency": "Department of State",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "hundreds",
+   "witness_types": [
+    "government-civilian",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "A LIAT pilot observed the objects while flying at 8,000 feet and reported they were not man-made.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "high speed",
+    "changing formations"
+   ],
+   "country": "Barbados",
+   "date": "1987-09-01",
+   "explanation_status": "not-assessed",
+   "location_name": "Barbados",
+   "object_count": "up to seven",
+   "page_refs": [
+    2
+   ],
+   "quote": "A LIAT PILOT REPORTEDLY SAW THE OBJECTS WHILE FLYING HIS AIRCRAFT AT EIGHT THOUSAND FEET",
+   "recording_agency": "Department of State",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "doc_id": "nara--596347899--department-of-state-airgram-political-reports-for-august-196",
+ "file": "nara--596347899--department-of-state-airgram-political-reports-for-august-196.md",
+ "source": "NARA-RG615",
+ "agency": "NSA",
+ "title": "Department of State AIRGRAM: Political Reports for August 1965, September 14, 1965",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a Department of State airgram from the American Consulate in Mexicali summarizing political events for August 1965, which includes a brief mention of flying saucers.",
+ "incidents": [
+  {
+   "summary": "Mention of flying saucers in Mexicali as a political report topic.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "country": "Mexico",
+   "date": "1965-08",
+   "explanation_status": "not-assessed",
+   "location_name": "Mexicali",
+   "page_refs": [
+    1
+   ],
+   "quote": "Flying Saucers in Mexicali",
+   "recording_agency": "Department of State"
+  }
+ ]
+}

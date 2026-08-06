@@ -1,0 +1,15 @@
+{
+ "doc": "nara--493470301--fiscal-year-2023-consolidated-annual-report-on-unidentified-.md",
+ "leads": [
+  {
+   "page": 15,
+   "lead_type": "program-custody-language",
+   "claim": "The document defines 'UAP material' as samples, in whole or in part, of UAP objects, such as debris.",
+   "strength": "moderate",
+   "why": "The document provides a formal definition for UAP material, implying the existence of a category for such physical evidence, though it does not claim specific custody of any.",
+   "outcome_in_document": "unresolved",
+   "quote": "UAP material are samples, in whole or in part, of UAP objects (e.g., debris)."
+  }
+ ],
+ "doc_verdict": "The document provides administrative definitions for UAP material and data but does not report the actual possession, analysis, or recovery of any physical UAP material."
+}

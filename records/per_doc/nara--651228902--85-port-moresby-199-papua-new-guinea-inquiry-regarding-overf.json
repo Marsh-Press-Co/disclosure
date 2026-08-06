@@ -1,0 +1,46 @@
+{
+ "doc_id": "nara--651228902--85-port-moresby-199-papua-new-guinea-inquiry-regarding-overf",
+ "file": "nara--651228902--85-port-moresby-199-papua-new-guinea-inquiry-regarding-overf.md",
+ "source": "NARA-RG615",
+ "agency": "Department of State",
+ "title": "85 Port Moresby 199: Papua New Guinea Inquiry Regarding Overflights",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a Department of State cable from the U.S. Embassy in Port Moresby regarding an inquiry from the Papua New Guinea National Intelligence Organization about unidentified aerial phenomena observed on January 24, 1985.",
+ "incidents": [
+  {
+   "summary": "Multiple reports of high-altitude, high-speed aircraft over Papua New Guinea, including radar detection by an Air Niugini pilot and visual sightings of contrails.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "high-speed",
+    "high-altitude",
+    "moving north to south",
+    "moving south to north"
+   ],
+   "country": "Papua New Guinea",
+   "date": "1985-01-24",
+   "explanation_status": "unexplained",
+   "location_name": "Wewak, Angoram, Papua New Guinea",
+   "object_count": "6-8",
+   "page_refs": [
+    1,
+    2
+   ],
+   "quote": "NIO SAID THERE HAVE BEEN VARIOUS REPORTS OF UNIDENTIFIED AERIAL PHENOMENA THE NIGHT OF JANUARY 24",
+   "recording_agency": "Department of State",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_types": [
+    "civilian",
+    "government-civilian"
+   ]
+  }
+ ]
+}

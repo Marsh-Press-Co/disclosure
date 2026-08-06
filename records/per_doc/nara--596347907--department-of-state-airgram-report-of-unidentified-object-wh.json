@@ -1,0 +1,30 @@
+{
+ "doc_id": "nara--596347907--department-of-state-airgram-report-of-unidentified-object-wh",
+ "file": "nara--596347907--department-of-state-airgram-report-of-unidentified-object-wh.md",
+ "source": "NARA-RG615",
+ "agency": "NSA",
+ "title": "Department of State AIRGRAM: Report of Unidentified Object Which Fell Near Municipio of General Teran, N.L. February 17, 1967",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a Department of State Airgram from the American Consulate in Monterrey regarding a report of an unidentified object falling in Mexico, intended for forwarding to NASA.",
+ "incidents": [
+  {
+   "summary": "An unidentified object reportedly fell near the Municipio of General Teran, Nuevo Leon, Mexico.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "Mexico",
+   "date": "1967-02-17",
+   "explanation_status": "not-assessed",
+   "location_name": "General Teran, N.L.",
+   "page_refs": [
+    1
+   ],
+   "quote": "Report of unidentified object which fell near Municipio of General Teran, N.L.",
+   "recording_agency": "Department of State"
+  }
+ ]
+}

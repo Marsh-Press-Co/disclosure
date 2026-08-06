@@ -1,0 +1,49 @@
+{
+ "doc_id": "nara--595175--project-blue-book-administrative-files-595542",
+ "file": "nara--595175--project-blue-book-administrative-files-595542.md",
+ "source": "NARA-RG615",
+ "agency": "USAF",
+ "title": "Project Blue Book administrative files - 595542",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a single-page archival chart from Project Blue Book showing the frequency of UFO reports from June to September 1952, annotated with media events and specific Washington D.C. incidents.",
+ "incidents": [
+  {
+   "summary": "Publicized incident at Washington D.C. in July 1952",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "",
+   "size": "",
+   "time_local": "",
+   "witness_count": "",
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "Highly publicized incident at Washington D.C. in July 1952",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "",
+   "size": "",
+   "time_local": "",
+   "witness_count": "",
+   "witness_types": [
+    "unknown"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "doc": "nara--596347959--usaf-fact-sheet-95-03-unidentified-flying-objects-and-air-fo.md",
+ "leads": [
+  {
+   "page": 1,
+   "lead_type": "contractor-involvement",
+   "claim": "Project Blue Book was headquartered at Wright-Patterson Air Force Base to investigate UFO sightings.",
+   "strength": "noise",
+   "why": "The document mentions a base location for an investigation project but provides no evidence of material recovery, custody, or analysis of physical objects."
+  }
+ ],
+ "doc_verdict": "The document is a standard Air Force fact sheet regarding Project Blue Book and contains no information suggesting the government obtained or held physical UAP material."
+}

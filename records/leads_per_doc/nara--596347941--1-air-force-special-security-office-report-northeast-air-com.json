@@ -1,0 +1,24 @@
+{
+ "doc": "nara--596347941--1-air-force-special-security-office-report-northeast-air-com.md",
+ "leads": [
+  {
+   "page": 7,
+   "lead_type": "program-custody-language",
+   "claim": "The document lists the Air Technical Intelligence Center (ATIC) as a recipient of a report regarding an aerial event.",
+   "strength": "noise",
+   "why": "The mention of ATIC is standard administrative routing for military intelligence reports and does not imply the possession of physical UAP material.",
+   "outcome_in_document": "forwarded-no-followup",
+   "quote": "COMDR AIR TECHNICAL INTELLIGENCE CENTER WRIGHT PAT AFB OHIO"
+  },
+  {
+   "page": 9,
+   "lead_type": "program-custody-language",
+   "claim": "The document lists the Air Technical Intelligence Center (ATIC) as a recipient of a report regarding an aerial event.",
+   "strength": "noise",
+   "why": "The mention of ATIC is standard administrative routing for military intelligence reports and does not imply the possession of physical UAP material.",
+   "outcome_in_document": "forwarded-no-followup",
+   "quote": "CGDR ATIC WHITE PATTER PATT AFB OHIO"
+  }
+ ],
+ "doc_verdict": "The document contains no evidence or suggestions of obtained physical material; it is a standard military communication routing report."
+}

@@ -61,7 +61,31 @@ def main():
             )
 
     on_disk = sorted(p.name for p in (ROOT / "corpus").glob("*.md"))
-    listed = sorted(d["file"] for d in docs)
+    listed = set(d["file"] for d in docs)
+
+    # Frontmatter fallback: any corpus doc the source reports don't cover
+    # (e.g. all NARA docs) registers itself from its own frontmatter. This
+    # generalizes the manifest for every future source.
+    import re as _re
+    for name in on_disk:
+        if name in listed:
+            continue
+        text = (ROOT / "corpus" / name).read_text(encoding="utf-8")
+        fm = dict(_re.findall(r'^([a-z_]+): "?(.*?)"?$', text.split("---", 2)[1], _re.M)) if text.startswith("---") else {}
+        docs.append({
+            "file": name,
+            "id": fm.get("id") or name[:-3],
+            "title": fm.get("title") or name[:-3],
+            "source": fm.get("source") or "UNKNOWN",
+            "agency": fm.get("agency") or "",
+            "pages": int(fm.get("pages") or 0),
+            "words": len(text.split()),
+            "source_url": fm.get("source_url") or "",
+            "text_status": "frontmatter-registered",
+        })
+        listed.add(name)
+
+    listed = sorted(listed)
     missing = [f for f in listed if f not in on_disk]
     unlisted = [f for f in on_disk if f not in listed]
 

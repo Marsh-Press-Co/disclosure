@@ -1,0 +1,40 @@
+{
+ "doc_id": "nara--608863164--state-291027-decay-of-rocket-body-cosmos-1873-september-17-1",
+ "file": "nara--608863164--state-291027-decay-of-rocket-body-cosmos-1873-september-17-1.md",
+ "source": "NARA-RG615",
+ "agency": "Department of State",
+ "title": "STATE 291027: Decay of Rocket Body, Cosmos 1873, September 17, 1987",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a Department of State cable regarding the decay of the Soviet rocket body Cosmos 1873 and its likely correlation to reported sightings in Barbados.",
+ "incidents": [
+  {
+   "summary": "Sightings of up to seven unidentified objects moving at high speed near Grantley Adams International Airport and the surrounding region.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "moving at high speed"
+   ],
+   "country": "Barbados",
+   "date": "1987-09-01",
+   "explanation": "U.S. Space Command reported the decay of the spent rocket body of the USSR's satellite, Cosmos 1873, which likely accounts for the sightings.",
+   "explanation_status": "explained",
+   "location_name": "Grantley Adams International Airport",
+   "object_count": "up to seven",
+   "page_refs": [
+    1,
+    2
+   ],
+   "quote": "SIGHTINGS WERE MADE ON 1 SEPT., SHORTLY AFTER 8:30 P.M. LOCAL TIME.",
+   "recording_agency": "Department of State",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "20:30"
+  }
+ ]
+}

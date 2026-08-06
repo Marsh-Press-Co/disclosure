@@ -1,0 +1,25 @@
+{
+ "doc_id": "nara--5011500--gemini-vii-air-to-ground-transcript-5011500-volumei",
+ "file": "nara--5011500--gemini-vii-air-to-ground-transcript-5011500-volumei.md",
+ "source": "NARA-RG615",
+ "agency": "NASA",
+ "title": "Gemini VII air-to-ground transcript - 5011500_VolumeI",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 4,
+ "doc_notes": "This document is a transcript of Gemini VII air-to-ground voice communications, containing one report of an unidentified object and associated particles. / This document is a transcript of air-to-ground communications for the Gemini VII mission; it contains no reports of UFOs, extraterrestrial entities, or anomalous encounters. / This is a transcript of air-to-ground communications for the Gemini VII mission; no UAP or anomalous encounters are present. / This document is a transcript of air-to-ground communications for the Gemini VII mission; it contains no reports of UFOs, entities, or other anomalous encounters.",
+ "encounters": [
+  {
+   "summary": "Astronauts report a 'bogey' at 10:00 o'clock high, followed by a sighting of hundreds of particles.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "page_refs": [
+    33,
+    34
+   ],
+   "quote": "I have a bogey at 10:00 o'clock high."
+  }
+ ]
+}

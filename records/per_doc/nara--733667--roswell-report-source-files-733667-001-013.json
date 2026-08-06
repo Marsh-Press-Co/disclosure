@@ -1,0 +1,27 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-013",
+ "file": "nara--733667--roswell-report-source-files-733667-001-013.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-013",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document consists of a series of aeronautical charts and radar flight path plots documenting the radar returns associated with the Japan Airlines Flight 1628 incident over Alaska in 1986.",
+ "incidents": [
+  {
+   "summary": "Radar tracking and flight path analysis of Japan Airlines Flight 1628 encounter with unidentified objects over Alaska.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "sensors": [
+    "radar"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

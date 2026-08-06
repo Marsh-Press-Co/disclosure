@@ -1,0 +1,154 @@
+{
+ "doc_id": "nara--5011500--gemini-vii-air-to-ground-transcript-5011500-volumei",
+ "file": "nara--5011500--gemini-vii-air-to-ground-transcript-5011500-volumei.md",
+ "source": "NARA-RG615",
+ "agency": "NASA",
+ "title": "Gemini VII air-to-ground transcript - 5011500_VolumeI",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 4,
+ "doc_notes": "This document is a declassified air-to-ground voice communication transcript for the Gemini VII mission, containing routine flight operations, technical troubleshooting, and two specific reports of unidentified objects or phenomena. / This document is a transcript of air-to-ground communications for the Gemini VII mission, containing routine operational updates and one report of an unidentified object observed by the crew. / This document is a transcript of air-to-ground communications for the Gemini VII mission, containing routine flight operations, medical checks, and minor observations of objects in space. / This document is a transcript of air-to-ground communications from the Gemini VII mission, containing routine operational updates, medical checks, and observations of atmospheric phenomena; pages 339 and 340 are blank or illegible.",
+ "incidents": [
+  {
+   "summary": "Astronauts observe a 'bogey' at 10:00 o'clock high and numerous particles.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "tumbling",
+    "moving past"
+   ],
+   "country": "unknown",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    33,
+    34,
+    35
+   ],
+   "quote": "I have a bogey at 10:00 o'clock high.",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "2",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Astronauts observe a strap or piece of tape attached to the spacecraft during a burn.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "slapped on the front of the spacecraft",
+    "bounced off"
+   ],
+   "country": "unknown",
+   "explanation_status": "explained",
+   "page_refs": [
+    45,
+    46,
+    49,
+    78
+   ],
+   "quote": "It looked like a strap of some sort and I believe it was attached to the spacecraft.",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "2",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Astronauts observe a jagged, white, rubbery material drifting outside the Gemini VII window.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "drifted by the window"
+   ],
+   "color": "white",
+   "country": "unknown",
+   "date": "",
+   "duration": "brief",
+   "explanation": "The crew speculated it was a separation plane, while ground control suggested it might be radiator stripping.",
+   "explanation_status": "unexplained",
+   "location_name": "orbit",
+   "object_count": "1",
+   "page_refs": [
+    95,
+    96
+   ],
+   "quote": "It's some light - looks like white, rubbery material.",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "jagged",
+   "size": "thick",
+   "time_local": "",
+   "witness_count": "2",
+   "witness_types": [
+    "astronaut"
+   ]
+  },
+  {
+   "summary": "Gemini VII crew observed a satellite moving below the spacecraft during a urine dump.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "moving below spacecraft"
+   ],
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    195
+   ],
+   "quote": "I took a picture of a satellite moving below us.",
+   "recording_agency": "NASA"
+  },
+  {
+   "summary": "Gemini VII crew observes sunrise and airglow phenomena from orbit, noting color bands and cloud formations on the horizon.",
+   "date_precision": "unknown",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "orbital observation"
+   ],
+   "color": "blue, orange, red, yellow, green, purple",
+   "country": "unknown",
+   "date": "",
+   "duration": "several minutes",
+   "explanation": "Atmospheric refraction and scattering during sunrise.",
+   "explanation_status": "explained",
+   "location_name": "orbital",
+   "object_count": "1",
+   "page_refs": [
+    332,
+    333,
+    334,
+    335,
+    336,
+    337,
+    338
+   ],
+   "quote": "Fantastic sight! Isn't it?",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "spherical",
+   "size": "planetary",
+   "time_local": "116:03",
+   "witness_count": "2",
+   "witness_types": [
+    "astronaut"
+   ]
+  }
+ ]
+}

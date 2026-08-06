@@ -1,0 +1,49 @@
+{
+ "doc_id": "nara--493470301--fiscal-year-2023-consolidated-annual-report-on-unidentified-",
+ "file": "nara--493470301--fiscal-year-2023-consolidated-annual-report-on-unidentified-.md",
+ "source": "NARA-RG615",
+ "agency": "ODNI",
+ "title": "Fiscal Year 2023 Consolidated Annual Report on Unidentified Anomalous Phenomena October 2023",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is the Fiscal Year 2023 Consolidated Annual Report on Unidentified Anomalous Phenomena produced by the ODNI and DoD, providing an overview of AARO's reporting statistics and program updates.",
+ "incidents": [
+  {
+   "summary": "Military personnel reported five equidistant lights in restricted airspace, which were later identified as commercial aircraft.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "equidistant lights",
+    "flew at a relatively constant pace"
+   ],
+   "color": "unknown",
+   "country": "United States",
+   "date": "2021",
+   "duration": "unknown",
+   "explanation": "Commercial aircraft travelling on well-established air corridors up to 300 nautical miles from the platform.",
+   "explanation_status": "explained",
+   "location_name": "Western United States military airspace",
+   "object_count": "5",
+   "page_refs": [
+    13,
+    14
+   ],
+   "quote": "Military personnel reported seeing five equidistant lights that they believed represented a potential incursion into restricted military airspace.",
+   "recording_agency": "AARO",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "Oblong dots/lights",
+   "size": "unknown",
+   "time_local": "unknown",
+   "witness_count": "unknown",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

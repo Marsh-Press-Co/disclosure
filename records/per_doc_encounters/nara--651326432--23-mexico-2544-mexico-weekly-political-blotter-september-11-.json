@@ -1,0 +1,30 @@
+{
+ "doc_id": "nara--651326432--23-mexico-2544-mexico-weekly-political-blotter-september-11-",
+ "file": "nara--651326432--23-mexico-2544-mexico-weekly-political-blotter-september-11-.md",
+ "source": "NARA-RG615",
+ "agency": "Department of State",
+ "title": "23 Mexico 2544: Mexico: Weekly Political Blotter, September 11-15",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a weekly political blotter from the U.S. Embassy in Mexico that includes a brief report on a congressional hearing regarding alleged alien remains.",
+ "encounters": [
+  {
+   "summary": "Mexican journalist Jaime Maussan presented two alleged alien corpses to the Mexican Congress during a hearing on unidentified aerial phenomena.",
+   "encounter_type": "occupant-report",
+   "claimant_type": "contactee-figure",
+   "document_stance": "debunked",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "Mexico",
+   "date": "2023-09-12",
+   "date_precision": "day",
+   "entity_appearance": "small, desiccated humanoid figure with a large head and three-fingered hands",
+   "entity_count": "2",
+   "page_refs": [
+    5,
+    6
+   ],
+   "quote": "unsubstantiated stunt"
+  }
+ ]
+}

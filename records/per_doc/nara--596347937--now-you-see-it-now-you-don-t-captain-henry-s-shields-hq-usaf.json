@@ -1,0 +1,50 @@
+{
+ "doc_id": "nara--596347937--now-you-see-it-now-you-don-t-captain-henry-s-shields-hq-usaf",
+ "file": "nara--596347937--now-you-see-it-now-you-don-t-captain-henry-s-shields-hq-usaf.md",
+ "source": "NARA-RG615",
+ "agency": "NSA",
+ "title": "\"Now You See It, Now You Don't!\" Captain Henry S. Shields, HQ USAFE/INOMP, September 19, 1976",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a declassified USAF report detailing a 1976 UAP encounter involving Imperial Iranian Air Force F-4 pilots over Tehran, featuring significant redactions.",
+ "incidents": [
+  {
+   "summary": "Two Imperial Iranian Air Force F-4 Phantoms intercepted multiple unidentified objects over Tehran, experiencing instrumentation and communication failures.",
+   "date_precision": "year",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "rapid movement",
+    "maintaining separation",
+    "detaching objects",
+    "high speed",
+    "landing",
+    "emitting light"
+   ],
+   "color": "blue, green, red, orange",
+   "country": "Iran",
+   "date": "1976",
+   "explanation_status": "unexplained",
+   "location_name": "Tehran",
+   "page_refs": [
+    1,
+    2,
+    3
+   ],
+   "quote": "The following article recounts just such an episode as reported by two F-4 Phantom crews of the Imperial Iranian Air Force during late 1976.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "rectangular pattern, cylinder",
+   "witness_count": "4",
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

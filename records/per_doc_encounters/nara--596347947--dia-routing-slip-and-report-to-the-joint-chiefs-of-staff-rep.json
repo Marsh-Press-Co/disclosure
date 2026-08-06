@@ -1,0 +1,37 @@
+{
+ "doc_id": "nara--596347947--dia-routing-slip-and-report-to-the-joint-chiefs-of-staff-rep",
+ "file": "nara--596347947--dia-routing-slip-and-report-to-the-joint-chiefs-of-staff-rep.md",
+ "source": "NARA-RG615",
+ "agency": "NSA",
+ "title": "DIA Routing Slip and Report to the Joint Chiefs of Staff: Reported UFO Sighting, September 23, 1976",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a DIA routing slip and intelligence report regarding a 1976 UFO sighting in Iran, which contains detailed encounter information.",
+ "encounters": [
+  {
+   "summary": "Multiple witnesses in Tehran reported strange objects in the sky, leading to the scramble of two F-4 aircraft. One pilot reported loss of instrumentation and communication when approaching the object, while a second pilot reported a radar lock and observed a smaller object detach from the main craft.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "Iran",
+   "date": "1976-09-19",
+   "date_precision": "day",
+   "entity_appearance": "Bright star-like object with flashing strobe lights in a rectangular pattern, alternating blue, green, red, and orange.",
+   "location_name": "Tehran, Iran",
+   "page_refs": [
+    4,
+    5,
+    6
+   ],
+   "physical_effects": [
+    "loss of instrumentation",
+    "loss of communications",
+    "loss of night vision",
+    "electromagnetic effects"
+   ],
+   "quote": "The object and the pursuing F-4 continued on a course to the south of Tehran"
+  }
+ ]
+}

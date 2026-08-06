@@ -1,0 +1,27 @@
+{
+ "doc_id": "nara--596347945--1-report-of-ufo-crash-in-47-called-false-by-science-panel-ne",
+ "file": "nara--596347945--1-report-of-ufo-crash-in-47-called-false-by-science-panel-ne.md",
+ "source": "NARA-RG615",
+ "agency": "NSA",
+ "title": "(1) \"Report of UFO Crash in '47 Called False by Science Panel.\" New York Times. August 26, 1987\n(2) Sangeorge, Robert. \"UFO Group Wants Secret Documents.\" UPI. August 26, 1987",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document consists of news reports detailing the debunking of forged documents regarding a 1947 UFO crash and alien recovery.",
+ "encounters": [
+  {
+   "summary": "Alleged 1947 crash of a flying saucer and recovery of four alien bodies, presented in documents identified as fraudulent by a science panel.",
+   "encounter_type": "occupant-report",
+   "claimant_type": "contactee-figure",
+   "document_stance": "debunked",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "entity_appearance": "four alien creatures",
+   "entity_count": "4",
+   "page_refs": [
+    1
+   ],
+   "quote": "the Pentagon recovered a crashed flying saucer and the bodies of four alien creatures in 1947"
+  }
+ ]
+}

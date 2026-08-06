@@ -1,0 +1,146 @@
+{
+ "doc_id": "nara--596347891--hall-richard-is-the-cia-stonewalling-frontiers-of-science-ju",
+ "file": "nara--596347891--hall-richard-is-the-cia-stonewalling-frontiers-of-science-ju.md",
+ "source": "NARA-RG615",
+ "agency": "NSA",
+ "title": "Hall, Richard. \"Is the CIA Stonewalling?\" Frontiers of Science. June 30, 1981",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a magazine article by Richard Hall discussing government handling of UAP reports, citing various declassified documents and internal government memos.",
+ "incidents": [
+  {
+   "summary": "UFOs observed near the flight line of Cannon AFB, New Mexico.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "color": "gold or silver",
+   "date": "1976-01-21",
+   "explanation_status": "unexplained",
+   "location_name": "Cannon AFB, New Mexico",
+   "page_refs": [
+    2
+   ],
+   "quote": "25 yards in diameter, gold or silver in color with blue light on top, hole in middle, and red light on bottom",
+   "shape": "circular with hole in middle",
+   "size": "25 yards in diameter"
+  },
+  {
+   "summary": "UFO observed near a radar site at Elgin AFB, Florida.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "date": "1976-01-31",
+   "explanation_status": "unexplained",
+   "location_name": "Elgin AFB, Florida",
+   "page_refs": [
+    2
+   ],
+   "sensors": [
+    "radar"
+   ],
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "UFO observed over the ammo storage area at Fort Richie, Maryland.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "date": "1976-07-30",
+   "explanation_status": "unexplained",
+   "location_name": "Fort Richie, Maryland",
+   "page_refs": [
+    2
+   ],
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "Iranian F-4 jets encountered UFOs that caused instrumentation and communication failures.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "maneuverability",
+    "electromagnetic interference"
+   ],
+   "date": "1976-09-19",
+   "explanation_status": "unexplained",
+   "location_name": "Iran",
+   "page_refs": [
+    2
+   ],
+   "quote": "inordinate amount of maneuverability",
+   "recording_agency": "DIA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Strange machines seen near Algerian military installations.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "date": "1975-03",
+   "explanation_status": "unexplained",
+   "location_name": "Algeria",
+   "page_refs": [
+    2
+   ],
+   "recording_agency": "Department of State",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "strange machines"
+  },
+  {
+   "summary": "UFO sightings near Kuwaiti oil fields caused automatic pumping equipment to shut down and restart.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "electromagnetic interference"
+   ],
+   "date": "1978-11",
+   "explanation_status": "unexplained",
+   "location_name": "Kuwait",
+   "page_refs": [
+    2
+   ],
+   "quote": "seemingly did strange things",
+   "recording_agency": "Department of State",
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "Cuban MIG-21 pilot destroyed by a UFO during an intercept.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "attack"
+   ],
+   "date": "1967-03",
+   "explanation_status": "unexplained",
+   "location_name": "Cuba",
+   "page_refs": [
+    2
+   ],
+   "recording_agency": "USAF Security Service",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

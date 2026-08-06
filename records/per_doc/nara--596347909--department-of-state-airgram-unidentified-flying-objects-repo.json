@@ -1,0 +1,45 @@
+{
+ "doc_id": "nara--596347909--department-of-state-airgram-unidentified-flying-objects-repo",
+ "file": "nara--596347909--department-of-state-airgram-unidentified-flying-objects-repo.md",
+ "source": "NARA-RG615",
+ "agency": "NSA",
+ "title": "Department of State AIRGRAM: Unidentified Flying Objects Reported Over Angola, December 23, 1966",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a Department of State Airgram reporting on a press account of a UAP sighting near Luanda, Angola, in December 1966.",
+ "incidents": [
+  {
+   "summary": "Passengers and crew of a TAP flight from Beira to Luanda reported sighting two unidentified objects scouting their aircraft.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "scouting",
+    "swift dives",
+    "swift climbs",
+    "vanished"
+   ],
+   "color": "orange",
+   "country": "Angola",
+   "date": "1966-12-07",
+   "explanation_status": "partially-explained",
+   "location_name": "Luanda, Angola",
+   "object_count": "2",
+   "page_refs": [
+    1
+   ],
+   "quote": "two lights at the side of my aircraft",
+   "recording_agency": "Amconsul LUANDA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "lights",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

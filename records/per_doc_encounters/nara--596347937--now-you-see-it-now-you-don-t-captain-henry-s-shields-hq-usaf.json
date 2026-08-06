@@ -1,0 +1,38 @@
+{
+ "doc_id": "nara--596347937--now-you-see-it-now-you-don-t-captain-henry-s-shields-hq-usaf",
+ "file": "nara--596347937--now-you-see-it-now-you-don-t-captain-henry-s-shields-hq-usaf.md",
+ "source": "NARA-RG615",
+ "agency": "NSA",
+ "title": "\"Now You See It, Now You Don't!\" Captain Henry S. Shields, HQ USAFE/INOMP, September 19, 1976",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is an archival record from the USAF regarding the 1976 Tehran UFO incident, which contains detailed reports of multiple encounters including a landing.",
+ "encounters": [
+  {
+   "summary": "Two F-4 Phantom crews of the Imperial Iranian Air Force reported multiple UFOs, including a craft that detached a smaller object, caused weapons and communication failures, and landed on a dry lake bed.",
+   "encounter_type": "landing",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "Iran",
+   "date": "1976",
+   "date_precision": "year",
+   "location_name": "Tehran",
+   "page_refs": [
+    1,
+    2,
+    3
+   ],
+   "physical_effects": [
+    "instrumentation failure",
+    "UHF/Intercom communication loss",
+    "weapons control panel power loss",
+    "inertial navigation system fluctuation",
+    "beeper signal detected"
+   ],
+   "quote": "it landed gently and cast a bright light over a two-three kilometer area"
+  }
+ ]
+}

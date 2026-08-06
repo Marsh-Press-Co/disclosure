@@ -1,0 +1,72 @@
+{
+ "doc_id": "nara--596347961--gersen-peter-what-the-us-government-knows-about-unidentified",
+ "file": "nara--596347961--gersen-peter-what-the-us-government-knows-about-unidentified.md",
+ "source": "NARA-RG615",
+ "agency": "NSA",
+ "title": "Gersen, Peter. \"What the US Government Knows About Unidentified Flying Objects.\" Frontiers of Science. June 30, 1981",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a 1981 article by Peter Gersten discussing U.S. government knowledge of UFOs, citing various declassified records and FOIA releases.",
+ "incidents": [
+  {
+   "summary": "Cuban pilot reported an encounter with a UFO while flying a MIG-21.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "size": "unknown",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Repeated sightings of unconventional aerial objects near nuclear-weapons storage and missile facilities at multiple Air Force bases.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "demonstrated a clear intent on the weapons storage areas"
+   ],
+   "country": "USA",
+   "date": "1975-10",
+   "explanation_status": "unexplained",
+   "location_name": "Loring AFB, Wurtsmith AFB, Malstrom AFB, Minot AFB, Canadian Air Forces Station",
+   "page_refs": [
+    1
+   ],
+   "quote": "demonstrated a clear intent on the weapons storage areas",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Iranian jet encounter with a UFO.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "Iran",
+   "date": "1976",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    2
+   ],
+   "recording_agency": "CIA",
+   "sensors": [
+    "visual",
+    "radar"
+   ]
+  }
+ ]
+}

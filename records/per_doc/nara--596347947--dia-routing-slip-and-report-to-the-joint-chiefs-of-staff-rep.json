@@ -1,0 +1,86 @@
+{
+ "doc_id": "nara--596347947--dia-routing-slip-and-report-to-the-joint-chiefs-of-staff-rep",
+ "file": "nara--596347947--dia-routing-slip-and-report-to-the-joint-chiefs-of-staff-rep.md",
+ "source": "NARA-RG615",
+ "agency": "NSA",
+ "title": "DIA Routing Slip and Report to the Joint Chiefs of Staff: Reported UFO Sighting, September 23, 1976",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a declassified DIA routing slip and a JCS message report regarding a significant UAP sighting in Tehran in September 1976.",
+ "incidents": [
+  {
+   "summary": "Multiple citizens in the Shemiran area of Tehran reported strange objects in the sky, described as bird-like or a helicopter with a light.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "country": "Iran",
+   "date": "1976-09-19",
+   "location_name": "Shemiran, Tehran",
+   "page_refs": [
+    4
+   ],
+   "quote": "some reported a kind of bird-like object while others reported a helicopter with a light on",
+   "recording_agency": "USDAO Tehran",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "An F-4 interceptor was scrambled to investigate a bright object; the pilot experienced loss of instrumentation and communications upon approach.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "maneuverability"
+   ],
+   "country": "Iran",
+   "date": "1976-09-19",
+   "explanation_status": "unexplained",
+   "location_name": "Tehran, Iran",
+   "page_refs": [
+    4
+   ],
+   "quote": "as the f-4 approached a range of 25 nm he lost all instrumentation and communications",
+   "recording_agency": "USDAO Tehran",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "A second F-4 interceptor tracked a bright object on radar; the object moved away at high speed and released a second, smaller object that headed toward the F-4.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "maneuverability",
+    "ejection of secondary object"
+   ],
+   "color": "blue, green, red and orange",
+   "country": "Iran",
+   "date": "1976-09-19",
+   "explanation_status": "unexplained",
+   "location_name": "Tehran, Iran",
+   "page_refs": [
+    4,
+    5,
+    6
+   ],
+   "quote": "another brightly lighted object, estimated to be one half to one third the apparent size of the moon, came out of the original object",
+   "recording_agency": "USDAO Tehran",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

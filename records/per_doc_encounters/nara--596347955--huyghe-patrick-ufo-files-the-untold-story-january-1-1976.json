@@ -1,0 +1,34 @@
+{
+ "doc_id": "nara--596347955--huyghe-patrick-ufo-files-the-untold-story-january-1-1976",
+ "file": "nara--596347955--huyghe-patrick-ufo-files-the-untold-story-january-1-1976.md",
+ "source": "NARA-RG615",
+ "agency": "NSA",
+ "title": "Huyghe, Patrick. \"UFO Files: The Untold Story.\" January 1, 1976",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an archival article discussing the history of U.S. government involvement and investigations into UFOs; it contains summaries of specific military encounter reports.",
+ "encounters": [
+  {
+   "summary": "Military personnel at multiple Air Force bases and a Canadian station reported suspicious objects, including objects described as helicopters and jet-like craft, which exhibited maneuvers such as hovering, rapid altitude changes, and lights extinguishing upon interceptor approach.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "United States",
+   "date": "1975-10-28",
+   "date_precision": "day",
+   "location_name": "Loring AFB, Wurtsmith AFB, Malmstrom AFB, Minot AFB, and Falconbridge, Ontario",
+   "page_refs": [
+    1
+   ],
+   "physical_effects": [
+    "radar tracking",
+    "lights extinguishing",
+    "high speed maneuvers"
+   ],
+   "quote": "Reliable military personnel at Loring AFB, Maine, Wurtsmith AFB, Michigan, Malmstrom AFB, Montana, Minot AFB, North Dakota, and Canadian Forces Station, Falconbridge, Ontario, Canada, have visually sighted suspicious objects."
+  }
+ ]
+}

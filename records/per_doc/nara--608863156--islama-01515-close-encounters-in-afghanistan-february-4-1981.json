@@ -1,0 +1,35 @@
+{
+ "doc_id": "nara--608863156--islama-01515-close-encounters-in-afghanistan-february-4-1981",
+ "file": "nara--608863156--islama-01515-close-encounters-in-afghanistan-february-4-1981.md",
+ "source": "NARA-RG615",
+ "agency": "Department of State",
+ "title": "ISLAMA 01515: Close Encounters in Afghanistan, February 4, 1981",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a declassified Department of State cable from the U.S. Embassy in Islamabad regarding reports of unidentified high-intensity lights in Afghanistan.",
+ "incidents": [
+  {
+   "summary": "Reports of high-intensity light phenomena observed in Afghanistan, potentially linked to Soviet military perimeter defense or road security.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "high intensity illumination"
+   ],
+   "country": "Afghanistan",
+   "date": "1980-09",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    1
+   ],
+   "quote": "THE RED ARMY IS USING A TYPE OF VERY POWERFUL, HIGH INTENSITY LIGHT THERE.",
+   "recording_agency": "Department of State",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

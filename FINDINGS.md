@@ -224,6 +224,38 @@ Also fixed in the same pass: document D094's extraction re-run and its agency
 corrected to USAF (its records had fallen back to the publisher), and
 `records/encounters.csv` rebuilt (was stale at the v1 count).
 
+## Addendum — NARA UAP Records Collection ingest (2026-08-06)
+
+The National Archives' statutory collection (RG 615) is now in: corpus 215 →
+**384 documents / 3.31M words / 12,258 pages**; incidents 883 → **1,455**
+(★15 → **19** under the strict counting); encounters 388 → **516**. Highlights:
+
+- **The leaderboard went historic.** Arnold 1947 rises to ★3 (FBI + USAF +
+  **NSA** — the NSA historical file documents it independently); **Roswell
+  July 1947 enters at ★3 (USAF + GAO + FBI)**; the **1976 Tehran F-4
+  incident** arrives at ★3 (DIA + Defense Attaché Tehran + Pentagon) via the
+  NSA series' DIA report; **JAL 1628 (Alaska 1986)** lands at ★2 — with the
+  honest note that its FAA+USAF paper is largely inquiry-response
+  correspondence preserved in the Air Force's Roswell Report working files.
+- **The FAA's modern record reshapes the timeline**: 575 one-page pilot/ATC
+  reports with day-precision dates push the 2020s to 518 incidents — now the
+  largest decade in the corpus — and the graph grew a dedicated **"FAA Reports
+  & the Starlink Era" community**: a visible signature of satellite-train
+  misidentification in the modern reporting record. Two airliners reporting
+  the same objects over Shreveport, LA on 2023-12-27 (SWA1508, ENY3781) is
+  the flavor of intra-FAA cross-checking now possible.
+- **§5's bimodal claim, revised with better data**: the middle decades
+  1960–2009 rose from ~50 to 233 incidents (1960s: 124; 1970s: 36; 1980s: 38)
+  — the trough is real but narrower than v1 could see, and it is deepest in
+  the **1990s–2000s (19 + 16 incidents)**. That's now the sharpest
+  release-gap signal.
+- **Primary sources joined their incidents**: the full 341-page Gemini VII
+  air-to-ground transcript (the "bogey at 10:00 o'clock high" exchange,
+  timestamped 01:43:23) and the JAL 1628 witness statements/radar analysis
+  now sit under the incidents that previously cited only summaries.
+- Aviation-navaid locations (VORs) resist geocoding — those incidents live in
+  the browse list pending a navaid lookup table. 982 of 1,455 placed.
+
 ## Addendum — PURSUE Release 2 + 3 ingest (2026-08-06)
 
 *Corpus grew from 126 to 197 documents (2.33M words, 8,029 pages): + PURSUE

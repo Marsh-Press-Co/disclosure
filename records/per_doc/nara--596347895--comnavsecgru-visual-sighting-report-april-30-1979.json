@@ -1,0 +1,38 @@
+{
+ "doc_id": "nara--596347895--comnavsecgru-visual-sighting-report-april-30-1979",
+ "file": "nara--596347895--comnavsecgru-visual-sighting-report-april-30-1979.md",
+ "source": "NARA-RG615",
+ "agency": "NSA",
+ "title": "COMNAVSECGRU Visual Sighting Report, April 30, 1979",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document contains a description of a visual sighting on page 2, while page 1 is entirely unrelated text regarding a video game.",
+ "incidents": [
+  {
+   "summary": "A central core of light with a colored beam retracted into a nebulous cloud-shaped mass and drifted south.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "retracted",
+    "drifted"
+   ],
+   "color": "white",
+   "duration": "14 mins",
+   "explanation_status": "not-assessed",
+   "location_name": "Hava",
+   "page_refs": [
+    2
+   ],
+   "quote": "THE BEAM AND CORE SEEMED TO FORM INTO A NEBULOUS CLOUD-SHAPED MASS",
+   "recording_agency": "COMNAVSECGRU",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "nebulous cloud-shaped mass"
+  }
+ ]
+}

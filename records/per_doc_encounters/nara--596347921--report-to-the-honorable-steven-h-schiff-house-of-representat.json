@@ -1,0 +1,11 @@
+{
+ "doc_id": "nara--596347921--report-to-the-honorable-steven-h-schiff-house-of-representat",
+ "file": "nara--596347921--report-to-the-honorable-steven-h-schiff-house-of-representat.md",
+ "source": "NARA-RG615",
+ "agency": "NSA",
+ "title": "Report to the Honorable Steven H. Schiff, House of Representatives: Government Records, Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico, July 28, 1995",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a General Accounting Office (GAO) report investigating the availability of government records concerning the 1947 Roswell incident; it contains no reports of UAP encounters, only administrative documentation regarding the search for records and the military's explanation of the event as a weather balloon or Project Mogul balloon.",
+ "encounters": []
+}

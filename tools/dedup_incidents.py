@@ -46,6 +46,9 @@ AGENCY_ALIASES = {
     "aaro": "AARO", "odni": "ODNI",
     "aec": "AEC/DOE", "atomic energy commission": "AEC/DOE",
     "department of energy": "AEC/DOE", "doe": "AEC/DOE",
+    "faa": "FAA", "federal aviation administration": "FAA",
+    "zan artcc": "FAA", "artcc": "FAA", "air route traffic control center": "FAA",
+    "air traffic control": "FAA",
     "department of war": "Department of War", "dow": "Department of War",
     "department of defense": "DoD", "dod": "DoD",
     "army": "US Army", "department of the army": "US Army", "dept army": "US Army",
@@ -153,14 +156,16 @@ def main():
             ag = norm_agency(i.get("recording_agency")) or norm_agency(i.get("_doc_agency"))
             if ag and ag not in agencies:
                 agencies.append(ag)
-        # "Department of War" on PURSUE docs is the modern PUBLISHER of the
-        # release (index blurbs, re-published studies), not an observing agency.
-        # It must not add independent corroboration when a real agency is
-        # present in the cluster. (2026-08-06 review: 7 false two-agency
-        # incidents came from two volumes of one USAF study counted as
-        # USAF + DoW.)
-        if len(agencies) > 1 and "Department of War" in agencies:
-            agencies = [a for a in agencies if a != "Department of War"]
+        # Publisher/archive-context labels are not observing agencies and must
+        # not add independent corroboration when a real agency is present.
+        # (2026-08-06 review: two volumes of one USAF study counted as
+        # USAF + DoW; the Roswell Report collection context counted against
+        # FAA on JAL 1628.)
+        PUBLISHERS = {"Department of War", "National Archives", "National Archives (RG 615)",
+                      "USAF (Roswell Report)"}
+        if len(agencies) > 1 and any(a in PUBLISHERS for a in agencies):
+            kept = [a for a in agencies if a not in PUBLISHERS]
+            agencies = kept or agencies[:1]
         # Press outlets appearing in file clippings are not corroborating
         # government institutions.
         PRESS = ("press", "newspaper", "times", "journal", "herald", "tribune",

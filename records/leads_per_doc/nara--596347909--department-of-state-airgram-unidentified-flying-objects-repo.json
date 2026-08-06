@@ -1,0 +1,14 @@
+{
+ "doc": "nara--596347909--department-of-state-airgram-unidentified-flying-objects-repo.md",
+ "leads": [
+  {
+   "page": 1,
+   "lead_type": "biological",
+   "claim": "The occupants of an aircraft observed unidentified objects while in flight.",
+   "strength": "noise",
+   "why": "The text describes a sighting of objects by flight crew members, but contains no claim regarding the recovery, custody, or physical analysis of any material or biological entities.",
+   "quote": "the plane's occupants reportedly continued to watch the objects"
+  }
+ ],
+ "doc_verdict": "The document contains no information regarding the recovery, custody, or analysis of physical material or biological matter."
+}

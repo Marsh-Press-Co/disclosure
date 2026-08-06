@@ -1,0 +1,59 @@
+{
+ "doc_id": "nara--596347953--draft-ufos-and-the-intelligence-community-blind-spot-to-surp",
+ "file": "nara--596347953--draft-ufos-and-the-intelligence-community-blind-spot-to-surp.md",
+ "source": "NARA-RG615",
+ "agency": "NSA",
+ "title": "Draft: UFOs and the Intelligence Community Blind Spot to Surprise or Deceptive Data, January 1, 1968",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a draft NSA intelligence report discussing the psychological barriers within the intelligence community regarding the processing of unusual or deceptive data, including UFO sightings.",
+ "incidents": [
+  {
+   "summary": "An Air Force technician observed Soviet Bloc countries tracking a high-flying, fast-moving object with an erratic flight pattern that moved against the wind, which the Bloc nations officially designated as a balloon.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "erratic flight pattern",
+    "high speed",
+    "moved against the wind"
+   ],
+   "date": "1968",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    2
+   ],
+   "quote": "A bloc country began to report a radar track of a high flying fast moving object with an erratic flight pattern.",
+   "recording_agency": "NSA",
+   "sensors": [
+    "radar"
+   ],
+   "shape": "unknown",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Historical reference to Americans being destroyed by fast, erratic-moving oval guided missiles from Russia, which were dismissed as mental illusions.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "behavior": [
+    "fast erratic moving"
+   ],
+   "explanation_status": "unexplained",
+   "page_refs": [
+    4
+   ],
+   "quote": "Americans refused to believe that fast erratic moving oval objects were anything but mental illusions",
+   "recording_agency": "NSA",
+   "shape": "oval",
+   "witness_types": [
+    "unknown"
+   ]
+  }
+ ]
+}

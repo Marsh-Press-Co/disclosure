@@ -1,0 +1,44 @@
+{
+ "doc_id": "nara--596347927--janap-146-general-description-and-purpose-of-communication-i",
+ "file": "nara--596347927--janap-146-general-description-and-purpose-of-communication-i.md",
+ "source": "NARA-RG615",
+ "agency": "NSA",
+ "title": "JANAP 146: General Description and Purpose of Communication Instructions for Reporting Vital Intelligence Sightings (CIRVIS), January 1, 1970",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a declassified 1970 manual (JANAP 146) providing instructions for reporting vital intelligence sightings (CIRVIS) in the U.S. and Canada, containing procedural examples rather than historical incident logs.",
+ "incidents": [
+  {
+   "summary": "Example CIRVIS report of a formation of six jet bombers observed east of Bermuda.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "medium",
+   "behavior": [
+    "flying in formation"
+   ],
+   "country": "Bermuda",
+   "date": "1955-09-28",
+   "explanation_status": "explained",
+   "location_name": "East of Bermuda",
+   "object_count": "6",
+   "page_refs": [
+    6,
+    7,
+    8
+   ],
+   "quote": "AIR FORCE TWO FIVE NINE THREE SIGHTED FORMATION OF SIX JET BOMBERS",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "swept wing",
+   "time_local": "1350Z",
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "doc_id": "nara--596347919--abstract-presentation-to-the-scientific-counsel-of-gepan-of-",
+ "file": "nara--596347919--abstract-presentation-to-the-scientific-counsel-of-gepan-of-.md",
+ "source": "NARA-RG615",
+ "agency": "NSA",
+ "title": "Abstract, Presentation to the Scientific Counsel of GEPAN of Studies Undertaken During the First Semester of 1978: French Government UFO Study, June 1, 1978",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is an abstract of a French GEPAN report on UFO studies; it mentions the existence of humanoid encounter cases but does not provide specific details for them.",
+ "encounters": [
+  {
+   "summary": "GEPAN investigated 11 cases of high credibility and strangeness, two of which involved humanoid sightings.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "France",
+   "date_precision": "unknown",
+   "page_refs": [
+    1
+   ],
+   "quote": "Two of the cases were humanoid sightings."
+  }
+ ]
+}

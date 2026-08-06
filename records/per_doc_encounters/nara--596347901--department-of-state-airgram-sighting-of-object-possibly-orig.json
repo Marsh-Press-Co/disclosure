@@ -1,0 +1,11 @@
+{
+ "doc_id": "nara--596347901--department-of-state-airgram-sighting-of-object-possibly-orig",
+ "file": "nara--596347901--department-of-state-airgram-sighting-of-object-possibly-orig.md",
+ "source": "NARA-RG615",
+ "agency": "NSA",
+ "title": "Department of State AIRGRAM: Sighting of Object Possibly Originating from Space Vehicle, May 18, 1966",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a Department of State airgram regarding a press report of a sighting, but it contains no specific encounter details as defined in the instructions.",
+ "encounters": []
+}

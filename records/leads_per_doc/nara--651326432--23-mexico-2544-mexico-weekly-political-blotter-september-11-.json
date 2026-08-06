@@ -1,0 +1,17 @@
+{
+ "doc": "nara--651326432--23-mexico-2544-mexico-weekly-political-blotter-september-11-.md",
+ "leads": [
+  {
+   "page": 6,
+   "lead_type": "biological",
+   "claim": "Jaime Maussan presented alleged non-human remains to the Mexican Congress.",
+   "strength": "strong",
+   "why": "The document explicitly identifies the presentation of physical biological remains, even though it notes they have been discredited.",
+   "claimant": "Jaime Maussan (Mexican journalist)",
+   "material_description": "Small, desiccated humanoid figure with a large head and three-fingered hands.",
+   "outcome_in_document": "confirmed-mundane",
+   "quote": "scientists have discredited previous alleged alien corpses Maussan presented as evidence of alien life."
+  }
+ ],
+ "doc_verdict": "The document mentions the presentation of alleged non-human remains but explicitly states that scientists have discredited these claims as mundane."
+}

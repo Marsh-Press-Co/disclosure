@@ -1,0 +1,30 @@
+{
+ "doc": "nara--596347939--report-air-force-research-regarding-the-roswell-incident-jul.md",
+ "leads": [
+  {
+   "page": 1,
+   "lead_type": "craft-custody",
+   "claim": "The Army Air Forces allegedly recovered remains of a crashed flying disc near Roswell, New Mexico, in July 1947.",
+   "strength": "strong",
+   "why": "This is the central claim of the document, involving specific alleged recovery of physical craft material by military personnel.",
+   "claimant": "Various authors and popular literature cited by the Air Force report.",
+   "custody_chain": "Recovered by Army Air Forces at Roswell, then allegedly shipped to other locations for analysis.",
+   "government_response": "The Air Force conducted research and found no records of a cover-up or recovery of extraterrestrial materials, concluding the debris was from a Project Mogul balloon.",
+   "outcome_in_document": "confirmed-mundane",
+   "quote": "Army Air Forces (AAF) allegedly recovered remains of a crashed flying disc"
+  },
+  {
+   "page": 5,
+   "lead_type": "biological",
+   "claim": "At a second crash site, alleged bodies of extraterrestrial aliens were supposedly retrieved.",
+   "strength": "strong",
+   "why": "The claim specifies the recovery of biological entities in addition to craft debris, which is a core component of the Roswell narrative being investigated.",
+   "claimant": "Various authors and popular literature.",
+   "custody_chain": "Allegedly retrieved by the AAF and shipped to Wright Field for analysis.",
+   "government_response": "Air Force research did not disclose any records of the recovery of any alien bodies.",
+   "outcome_in_document": "confirmed-mundane",
+   "quote": "at the second site, alleged bodies of extraterrestrial aliens were supposedly retrieved."
+  }
+ ],
+ "doc_verdict": "The document concludes that the alleged recovery of extraterrestrial craft and biological material is a myth, identifying the physical debris as remnants of a Project Mogul balloon."
+}

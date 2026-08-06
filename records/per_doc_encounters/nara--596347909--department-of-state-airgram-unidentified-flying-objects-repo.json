@@ -1,0 +1,11 @@
+{
+ "doc_id": "nara--596347909--department-of-state-airgram-unidentified-flying-objects-repo",
+ "file": "nara--596347909--department-of-state-airgram-unidentified-flying-objects-repo.md",
+ "source": "NARA-RG615",
+ "agency": "NSA",
+ "title": "Department of State AIRGRAM: Unidentified Flying Objects Reported Over Angola, December 23, 1966",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a Department of State airgram reporting on a distant aerial sighting of lights by airline crew and passengers, which does not meet the criteria for an encounter.",
+ "encounters": []
+}

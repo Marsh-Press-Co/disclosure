@@ -1,0 +1,88 @@
+{
+ "doc_id": "nara--596347891--hall-richard-is-the-cia-stonewalling-frontiers-of-science-ju",
+ "file": "nara--596347891--hall-richard-is-the-cia-stonewalling-frontiers-of-science-ju.md",
+ "source": "NARA-RG615",
+ "agency": "NSA",
+ "title": "Hall, Richard. \"Is the CIA Stonewalling?\" Frontiers of Science. June 30, 1981",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an article by Richard Hall discussing government UFO records and potential national security threats, containing summaries of several specific encounter reports.",
+ "encounters": [
+  {
+   "summary": "UFOs observed near the flight line of Cannon AFB, New Mexico, described as 25 yards in diameter, gold or silver with a blue light on top, a hole in the middle, and a red light on the bottom.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1976-01-21",
+   "date_precision": "day",
+   "location_name": "Cannon AFB, New Mexico",
+   "page_refs": [
+    2
+   ]
+  },
+  {
+   "summary": "Iranian F-4 jets encountered UFOs that caused instrumentation and communication failure, and rendered weapons-control panels inoperable. The DIA noted radar confirmation and physiological effects on crew.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "Iran",
+   "date": "1976-09-19",
+   "date_precision": "day",
+   "location_name": "Iran",
+   "page_refs": [
+    2
+   ],
+   "physical_effects": [
+    "instrumentation failure",
+    "communication failure",
+    "weapons-control failure",
+    "physiological effects"
+   ]
+  },
+  {
+   "summary": "A UFO appeared over northern oil fields in Kuwait, causing automatic pumping equipment to shut down and then restart automatically when the object vanished.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "Kuwait",
+   "date": "1978-11",
+   "date_precision": "month",
+   "location_name": "Kuwait",
+   "page_refs": [
+    2
+   ],
+   "physical_effects": [
+    "automatic equipment shutdown"
+   ]
+  },
+  {
+   "summary": "A USAF Security Service intercept technician reported that a Cuban MIG-21 pilot attempted to fire at a UFO and was subsequently destroyed by the object.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "Cuba",
+   "date": "1967-03",
+   "date_precision": "month",
+   "location_name": "Cuba",
+   "page_refs": [
+    2
+   ],
+   "physical_effects": [
+    "destruction of aircraft"
+   ]
+  }
+ ]
+}

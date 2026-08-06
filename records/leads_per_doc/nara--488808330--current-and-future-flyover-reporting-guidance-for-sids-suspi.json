@@ -1,0 +1,18 @@
+{
+ "doc": "nara--488808330--current-and-future-flyover-reporting-guidance-for-sids-suspi.md",
+ "leads": [
+  {
+   "page": 5,
+   "lead_type": "program-custody-language",
+   "claim": "The document outlines reporting requirements for government agencies and contractors regarding UAP-related activities, specifically including material retrieval and reverse engineering.",
+   "strength": "moderate",
+   "why": "The text explicitly lists 'material retrieval' and 'reverse engineering' as categories for mandatory reporting, implying the existence or potential existence of such programs.",
+   "claimant": "U.S. Government Guidance Document",
+   "custody_chain": "Federal Government or contractors",
+   "government_response": "Mandating reporting of such activities.",
+   "outcome_in_document": "unresolved",
+   "quote": "any activity or program... relating to unidentified anomalous phenomena, including with respect to material retrieval, material analysis, reverse engineering"
+  }
+ ],
+ "doc_verdict": "The document does not confirm the possession of physical material but establishes formal reporting protocols for government and contractor activities involving UAP material retrieval and reverse engineering."
+}

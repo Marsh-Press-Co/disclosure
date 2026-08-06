@@ -1,0 +1,95 @@
+{
+ "doc_id": "nara--596347939--report-air-force-research-regarding-the-roswell-incident-jul",
+ "file": "nara--596347939--report-air-force-research-regarding-the-roswell-incident-jul.md",
+ "source": "NARA-RG615",
+ "agency": "NSA",
+ "title": "Report: Air Force Research Regarding the \"Roswell Incident\", July 1, 1994",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a 1994 Air Force report detailing the internal research and investigation into the 1947 Roswell incident, concluding it was a Project Mogul balloon.",
+ "incidents": [
+  {
+   "summary": "Recovery of debris from a crashed object near Roswell, New Mexico, initially reported as a flying disc and later identified by the military as a weather balloon/radar target.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "crashed"
+   ],
+   "color": "metallic gray, brownish-black, purple-violet markings",
+   "country": "United States",
+   "date": "1947-07-04",
+   "explanation": "Debris from a Project Mogul balloon train, specifically a service flight.",
+   "explanation_status": "explained",
+   "location_name": "Foster Ranch, Roswell, New Mexico",
+   "object_count": "1",
+   "page_refs": [
+    4,
+    14,
+    15,
+    16,
+    19
+   ],
+   "quote": "The object turned out to be a radar tracking balloon",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "flying disc",
+   "size": "12 feet long balloon, debris scattered over 200 yards",
+   "witness_count": "multiple",
+   "witness_types": [
+    "military-other",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "A Roswell couple claimed to have seen a large unidentified object fly by their home.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "behavior": [
+    "fly by"
+   ],
+   "country": "United States",
+   "date": "1947-07-02",
+   "explanation_status": "not-assessed",
+   "location_name": "Roswell, New Mexico",
+   "object_count": "1",
+   "page_refs": [
+    4
+   ],
+   "quote": "a Roswell couple claimed to have seen a large unidentified object fly by their home",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Report of a flying disc incident involving Ellington Field, Texas and the Spokane Depot, later determined to be a hoax.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "United States",
+   "date": "1947-07-07",
+   "explanation": "Determined to be a hoax.",
+   "explanation_status": "explained",
+   "location_name": "Ellington Field, Texas; Spokane, Washington",
+   "page_refs": [
+    13
+   ],
+   "quote": "this particular incident involved Ellington Field, Texas and the Spokane (Washington) Depot. After much discussion... it was learned to be a hoax.",
+   "recording_agency": "USAF",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

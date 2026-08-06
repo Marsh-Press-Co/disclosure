@@ -1,0 +1,122 @@
+{
+ "doc_id": "nara--596347941--1-air-force-special-security-office-report-northeast-air-com",
+ "file": "nara--596347941--1-air-force-special-security-office-report-northeast-air-com.md",
+ "source": "NARA-RG615",
+ "agency": "NSA",
+ "title": "(1) Air Force Special Security Office Report, Northeast Air Command: UFOB NEAC Area. July 18, 1955\n(2) Air Intelligence Information Report: Unidentified Flying Object Report, March 18, 1956",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This collection contains multiple archival reports from the Air Force and other agencies documenting radar and visual encounters with unidentified aerial objects.",
+ "encounters": [
+  {
+   "summary": "RB-47 crew reported visual contact with a glistening silver metallic aircraft low and to the rear of their position; radar contact also maintained for 9 minutes.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "Canada",
+   "date": "1955-06-04",
+   "date_precision": "day",
+   "entity_appearance": "glistening silver metallic",
+   "location_name": "Melville Sound",
+   "page_refs": [
+    4
+   ],
+   "quote": "glistening silver metallic"
+  },
+  {
+   "summary": "RB-47 crew reported visual contact with an aircraft of fighter configuration 5-10 miles behind them; radar contact also recorded.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "Canada",
+   "date": "1955-06-08",
+   "date_precision": "day",
+   "entity_appearance": "fighter configuration",
+   "location_name": "Bathurst Island",
+   "page_refs": [
+    6
+   ],
+   "quote": "aircraft had fighter configuration"
+  },
+  {
+   "summary": "KC-97 crews and radar site reported multiple objects, one hovering then accelerating to 1600 knots, others moving in circular patterns at high speeds.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "Canada",
+   "date": "1955-07-07",
+   "date_precision": "day",
+   "entity_behavior": "hovering, erratic zig-zag, high speed acceleration, circular patterns",
+   "location_name": "Harmon AFB, Newfoundland",
+   "page_refs": [
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ],
+   "physical_effects": [
+    "radar lock",
+    "fighter scramble"
+   ],
+   "quote": "making a very irregular zig zag pattern"
+  },
+  {
+   "summary": "Radar sites tracked unidentified objects exhibiting erratic, triangular flight patterns and evasive maneuvers; visual reports of red and green lights.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "Panama",
+   "date": "1958-03-09",
+   "date_precision": "day",
+   "entity_appearance": "red and green lights",
+   "entity_behavior": "erratic, triangular flight, evasive action",
+   "location_name": "Canal Zone",
+   "page_refs": [
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+   ],
+   "physical_effects": [
+    "radar lock",
+    "evasive maneuvers"
+   ],
+   "quote": "returns were strong and easily distinguished from cloud formations"
+  },
+  {
+   "summary": "RC-135 crew observed a bright white light appearing as a giant pinwheel that rose in altitude and grew brighter before disappearing.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "date": "1969-08-22",
+   "date_precision": "day",
+   "entity_appearance": "bright white light, giant pinwheel",
+   "entity_behavior": "rose in altitude, grew brighter, went out",
+   "page_refs": [
+    25
+   ],
+   "quote": "appeared as a giant pinwheel in a fireworks display"
+  }
+ ]
+}
