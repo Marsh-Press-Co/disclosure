@@ -1,0 +1,27 @@
+{
+ "doc": "pursue-r4--dow-uap-d094.md",
+ "leads": [
+  {
+   "page": 10,
+   "lead_type": "contractor-involvement",
+   "claim": "Sightings of flying objects occurred near sensitive government and contractor facilities including Oak Ridge, Las Cruces, and Hanford Works.",
+   "strength": "noise",
+   "why": "The document mentions sightings near these locations but provides no evidence of material recovery or custody of physical objects."
+  },
+  {
+   "page": 20,
+   "lead_type": "debris-material",
+   "claim": "Incidents were investigated and identified as celestial bodies, balloons, or experimental equipment.",
+   "strength": "noise",
+   "why": "The text explicitly identifies these objects as conventional phenomena or equipment, not UAP material."
+  },
+  {
+   "page": 20,
+   "lead_type": "craft-custody",
+   "claim": "A pilot observed an object performing vertical maneuvers at 1,700 feet.",
+   "strength": "noise",
+   "why": "This is a report of a sighting/maneuver and contains no claim of material recovery or custody."
+  }
+ ],
+ "doc_verdict": "The document contains no evidence or claims regarding the recovery, custody, or analysis of physical UAP material."
+}

@@ -1,0 +1,43 @@
+{
+ "doc_id": "pursue-r4--nasa-uap-d031",
+ "file": "pursue-r4--nasa-uap-d031.md",
+ "source": "PURSUE-R4",
+ "agency": "NASA",
+ "title": "NASA-UAP-D031, STS-80 Unidentified Object Image 2, 1996",
+ "record_type": "image",
+ "index_date": "1996",
+ "index_location": "Low-Earth Orbit",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a NASA record describing a photograph of an unidentified object captured during the STS-80 space shuttle mission in 1996.",
+ "incidents": [
+  {
+   "summary": "Astronauts aboard Space Shuttle Columbia captured an image of a small, bright, triangular unidentified object in low-Earth orbit during the STS-80 mission.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "rotated",
+    "tumbled"
+   ],
+   "color": "bright",
+   "country": "N/A",
+   "date": "1996-11",
+   "explanation_status": "not-assessed",
+   "location_name": "Low-Earth Orbit",
+   "page_refs": [
+    1
+   ],
+   "quote": "a small, bright, triangular object",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual",
+    "photo"
+   ],
+   "shape": "triangular",
+   "witness_types": [
+    "astronaut"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "doc_id": "pursue-r4--dow-uap-d096",
+ "file": "pursue-r4--dow-uap-d096.md",
+ "source": "PURSUE-R4",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D096, Correspondence Relating to Project Blue Book, 1955",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of correspondence and internal memoranda regarding the U.S. Air Force's handling of UFO reports and public inquiries between 1955 and 1956.",
+ "encounters": [
+  {
+   "summary": "A cigar-shaped silver object was observed by two teachers and 60 students, leaving behind a web-like substance ('angel's hair') that disintegrated upon touch and left a green residue on fingertips.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1955-03-04",
+   "date_precision": "day",
+   "entity_appearance": "cigar-shaped silver object",
+   "entity_behavior": "motionless then traveled horizontally at high speed",
+   "location_name": "Jerome Special School, Union County, Ohio",
+   "page_refs": [
+    64
+   ],
+   "physical_effects": [
+    "angel's hair substance",
+    "green residue on skin",
+    "cold sweat"
+   ],
+   "quote": "cigar-shaped silver object traveling at terrific speed that wafted a blanket of 'angel's hair'"
+  },
+  {
+   "summary": "A Mexican national claims to have seen a 12-foot diameter, 3-ton craft suspended 10 meters above Cerro Prieto, which he believes defies gravity.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "Mexico",
+   "date": "1953",
+   "date_precision": "year",
+   "entity_appearance": "12 feet in diameter, silver, saucer-shaped",
+   "entity_behavior": "suspended in mid-air",
+   "location_name": "Cerro Prieto, Mexicali",
+   "page_refs": [
+    103,
+    108,
+    109,
+    110,
+    111
+   ],
+   "quote": "It was about 12 feet in diameter and the weight about 3 tons, which defies gravity."
+  },
+  {
+   "summary": "Scouts at Philmont Scout Ranch observed 8 UFOs performing eccentric maneuvers and returning a mathematical signal (Pi) sent by the scouts.",
+   "encounter_type": "claimed-communication",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "communication_content": "The scouts sent the number Pi (3.1416) and the UFO returned the same signal.",
+   "communication_method": "written",
+   "country": "USA",
+   "date": "1955-07-27",
+   "date_precision": "day",
+   "entity_appearance": "UFOs with ground lights",
+   "entity_behavior": "eccentric maneuvers back and forth",
+   "location_name": "Philmont Scout Ranch, Cimarron, New Mexico",
+   "page_refs": [
+    147,
+    148,
+    149
+   ],
+   "quote": "they sent the number Pi (3.1416). Needless to say they were all astounded when the UFO returned the same signal."
+  },
+  {
+   "summary": "Mrs. Edith B. Burton observed a silver, saucer-shaped object with a stack on top, moving from east to west at 8,000-10,000 feet.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "Canada",
+   "date": "1955-08-09",
+   "date_precision": "day",
+   "entity_appearance": "saucer-shaped, silver, stack on top and bottom",
+   "entity_behavior": "passed from east to west without change in speed or altitude",
+   "location_name": "Chase, British Columbia, Canada",
+   "page_refs": [
+    179,
+    180
+   ],
+   "quote": "she saw an object, saucer in shape, both on top and bottom with something on top resembling a stack."
+  }
+ ]
+}

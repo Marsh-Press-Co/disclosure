@@ -1,0 +1,55 @@
+{
+ "doc": "pursue-r4--dow-uap-d093.md",
+ "leads": [
+  {
+   "page": 16,
+   "lead_type": "contractor-involvement",
+   "claim": "Sightings of unidentified objects occurred near sensitive government facilities including Oak Ridge and Hanford Works.",
+   "strength": "noise",
+   "why": "The document discusses sightings near these locations in the context of Soviet surveillance concerns, not physical material recovery."
+  },
+  {
+   "page": 20,
+   "lead_type": "debris-material",
+   "claim": "Adhesive or tape residue covers text on the page.",
+   "strength": "noise",
+   "why": "This is a physical artifact of the document's preservation or redaction process, not a description of UAP material."
+  },
+  {
+   "page": 32,
+   "lead_type": "biological",
+   "claim": "A pilot attempted to identify an object that performed vertical climbs.",
+   "strength": "noise",
+   "why": "This describes an aerial encounter and flight characteristics, with no mention of biological matter or material recovery."
+  },
+  {
+   "page": 39,
+   "lead_type": "biological",
+   "claim": "Objects identified as celestial bodies or balloons.",
+   "strength": "noise",
+   "why": "The text explicitly identifies these as conventional phenomena and balloons."
+  },
+  {
+   "page": 46,
+   "lead_type": "contractor-involvement",
+   "claim": "The Horten 229 flying wing jet fighter was at Wright Field.",
+   "strength": "noise",
+   "why": "This refers to a known German aircraft design being studied, not UAP material."
+  },
+  {
+   "page": 50,
+   "lead_type": "debris-material",
+   "claim": "Adhesive residue and staining exist where a photograph was previously attached.",
+   "strength": "noise",
+   "why": "This is a physical artifact of the document's archival state, not a description of UAP debris."
+  },
+  {
+   "page": 52,
+   "lead_type": "debris-material",
+   "claim": "Adhesive residue exists where a photograph was mounted.",
+   "strength": "noise",
+   "why": "This is a physical artifact of the document's archival state, not a description of UAP debris."
+  }
+ ],
+ "doc_verdict": "This document contains no information suggesting the government obtained, held, or analyzed physical material from a UAP; the references to 'residue' are clearly physical artifacts of the document's archival mounting process."
+}

@@ -1,0 +1,130 @@
+{
+ "doc_id": "pursue-r4--dow-uap-d093",
+ "file": "pursue-r4--dow-uap-d093.md",
+ "source": "PURSUE-R4",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D093, Analysis of Flying Object Incidents in the United States, 1948",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a declassified Air Intelligence Division study (Study No. 203) from 1948 analyzing UAP incidents, and it contains detailed summaries of multiple close-approach encounters.",
+ "encounters": [
+  {
+   "summary": "Two Weather Bureau employees observed a metallic disk through a theodolite on three occasions at 15,000 and 27,000 feet.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "country": "United States",
+   "date": "1947-04",
+   "date_precision": "month",
+   "entity_appearance": "metallic disk, ellipse with flat bottom and round top",
+   "location_name": "Richmond, Virginia",
+   "page_refs": [
+    6,
+    11,
+    20
+   ]
+  },
+  {
+   "summary": "An Air Force lieutenant reported seeing five or six white circular objects in close formation while flying at 10,000 feet.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "United States",
+   "date": "1947-06-28",
+   "date_precision": "day",
+   "entity_appearance": "white circular objects",
+   "location_name": "Lake Mead, Nevada",
+   "page_refs": [
+    20
+   ]
+  },
+  {
+   "summary": "Pilot and co-pilot of a DC-3 reported a flying disk larger than their aircraft crossing their path at 1,000 feet.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "United States",
+   "date": "1947-08-04",
+   "date_precision": "day",
+   "entity_appearance": "flying disk",
+   "location_name": "Bethel, Alaska",
+   "page_refs": [
+    29
+   ]
+  },
+  {
+   "summary": "National Guard pilot reported a metallic object of tremendous size directly ahead before crashing.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": true,
+   "country": "United States",
+   "date": "1948-01-07",
+   "date_precision": "day",
+   "entity_appearance": "metallic object of tremendous size",
+   "location_name": "United States",
+   "page_refs": [
+    29
+   ]
+  },
+  {
+   "summary": "Three balloon observers reported a round, indistinct object executing violent maneuvers at high speed.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "United States",
+   "date": "1948-04-05",
+   "date_precision": "day",
+   "entity_appearance": "round, indistinct object",
+   "entity_behavior": "violent maneuvers",
+   "location_name": "Hollman Air Force Base, New Mexico",
+   "page_refs": [
+    29
+   ]
+  },
+  {
+   "summary": "Pilot of a P-51 pursued an intermittent white light that performed evasive maneuvers.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "United States",
+   "date": "1948-10-01",
+   "date_precision": "day",
+   "entity_appearance": "small round ball of clear white light, 6-8 inches in diameter",
+   "entity_behavior": "evasive, out-turned, out-speeded, and out-climbed the P-51",
+   "location_name": "Fargo, North Dakota",
+   "page_refs": [
+    31,
+    32
+   ]
+  },
+  {
+   "summary": "Three reserve pilots encountered an unidentifiable flying object that performed vertical climbs and circled their aircraft.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "United States",
+   "date": "1948-11-18",
+   "date_precision": "day",
+   "entity_appearance": "oblong ball with one light, dull gray glow, no wings, no exhaust",
+   "entity_behavior": "climbed vertically, dropped below aircraft, circled, tight turn",
+   "location_name": "Andrews Field, Maryland",
+   "page_refs": [
+    32
+   ]
+  }
+ ]
+}

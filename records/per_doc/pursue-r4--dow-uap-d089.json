@@ -1,0 +1,47 @@
+{
+ "doc_id": "pursue-r4--dow-uap-d089",
+ "file": "pursue-r4--dow-uap-d089.md",
+ "source": "PURSUE-R4",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D089, Range Fouler Debrief, Eastern United States, 2020",
+ "record_type": "document",
+ "index_date": "2020",
+ "index_location": "Eastern United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a blank Range Fouler Debrief form template with a brief narrative description of a UAP sighting included as an example or record, released by the Department of the Navy.",
+ "incidents": [
+  {
+   "summary": "A U.S. military pilot observed a small, metallic object with a reflective underside moving in a constant direction.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "constant direction"
+   ],
+   "color": "",
+   "country": "United States",
+   "date": "",
+   "duration": "",
+   "explanation": "",
+   "explanation_status": "not-assessed",
+   "location_name": "Eastern United States",
+   "object_count": "1",
+   "page_refs": [
+    1
+   ],
+   "quote": "Appeared quite small. Speed appeared to be and continued in constant direction. Shape indiscernible but the bottom was reflective.",
+   "recording_agency": "Department of the Navy",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "indiscernible",
+   "size": "quite small",
+   "time_local": "",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

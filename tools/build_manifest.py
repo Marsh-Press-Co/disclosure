@@ -43,7 +43,7 @@ def main():
         for f in r2r3["files"]:
             docs.append({**f, "text_status": "extracted-digital-or-vision"})
 
-    for rel_num, rel_source, rel_count in (("2", "PURSUE-R2", 64), ("3", "PURSUE-R3", 72)):
+    for rel_num, rel_source, rel_count in (("2", "PURSUE-R2", 64), ("3", "PURSUE-R3", 72), ("4", "PURSUE-R4", 40)):
         idx_path = ROOT / "corpus" / f"pursue-r{rel_num}--record-index.md"
         if idx_path.exists():
             docs.append(

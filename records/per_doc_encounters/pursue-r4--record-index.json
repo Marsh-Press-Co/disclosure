@@ -1,0 +1,29 @@
+{
+ "doc_id": "pursue-r4-record-index",
+ "file": "pursue-r4--record-index.md",
+ "source": "PURSUE-R4",
+ "agency": "Department of War",
+ "title": "PURSUE Release 4 - official record index (all 40 records: documents, videos, images, audio)",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an official index of 40 declassified UAP records from the Department of War, containing one specific report of an occupant-like phenomenon.",
+ "encounters": [
+  {
+   "summary": "A U.S. military operator reported observing an object described as a maroonish, deformed balloon-like phenomenon, 12-15 feet in height, traveling with the wind.",
+   "encounter_type": "occupant-report",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "Atlantic Ocean",
+   "date": "2020",
+   "date_precision": "year",
+   "entity_appearance": "darker, maroonish color, somewhat deformed balloon",
+   "entity_height": "12-15 feet",
+   "page_refs": [
+    1
+   ],
+   "quote": "darker, maroonish color, approximately 12-15 feet in height"
+  }
+ ]
+}

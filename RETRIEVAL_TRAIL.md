@@ -197,3 +197,21 @@ docs).*
   text search: no "Socorro" hit tied to 1964/Zamora, no "Milwaukee" hit
   besides an unrelated NASA astronaut-biography coincidence, no "Ia. case"
   or "Serial 164" references).
+
+## Addendum — PURSUE Release 4 sweep (2026-08-06, same session)
+
+*Corpus grew from 197 to 215 documents. Sweep rerun: 98→**98** documents
+carried a hit (no new document from R4 tripped the lexicon this round), 140→
+**157 non-noise leads** total, **31 strong (unchanged from R2+R3)** — R4
+added weak/noise-tier leads only, none rose to strong.*
+
+- **No new custody-machinery or denial-ledger entries from R4.** Its 14 PDFs
+  are mostly USAF Air Intelligence analytical studies (DOW-D093/D094/D096/
+  D097, 1948-49) and a Los Alamos green-fireball conference transcript
+  (DOE-D004) — policy/theory documents, not incident or custody reports.
+- **Open threads #1-4 (Socorro/1964, Milwaukee, "Ia. case", Serial 164) —
+  still fully open.** Direct text search confirms zero references to any of
+  them in R4's corpus.
+- **R2-R4 are now fully swept.** The remaining named next step per §6's
+  original list is NARA RG 615 and the NSA's May 2026 "Top Secret Umbra"
+  release, both still outside authorized scope.

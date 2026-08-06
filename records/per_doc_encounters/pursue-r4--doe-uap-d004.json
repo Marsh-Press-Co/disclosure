@@ -1,0 +1,61 @@
+{
+ "doc_id": "pursue-r4--doe-uap-d004",
+ "file": "pursue-r4--doe-uap-d004.md",
+ "source": "PURSUE-R4",
+ "agency": "Department of Energy",
+ "title": "DOE-UAP-D004, Los Alamos Conference on Aerial Phenomena, 1949",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a transcript of a 1949 Los Alamos conference regarding 'green fireballs' and aerial phenomena, containing detailed investigative reports on specific sightings.",
+ "encounters": [
+  {
+   "summary": "Dr. LaPaz observed a green fireball on the night of December 12, 1948, which he claims was not a conventional meteorite due to its horizontal path, constant angular velocity, and lack of sound.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1948-12-12",
+   "date_precision": "day",
+   "entity_appearance": "green fireball",
+   "entity_behavior": "horizontal path, constant angular velocity, no sound",
+   "location_name": "Starvation Peak, New Mexico",
+   "page_refs": [
+    3,
+    4
+   ],
+   "physical_effects": [
+    "no sound",
+    "no animal alarm"
+   ],
+   "quote": "was most certainly not a conventional meteorite fall"
+  },
+  {
+   "summary": "A large green fireball observed on January 30, 1949, over New Mexico and Texas, which was investigated by Dr. LaPaz and military personnel; no fragments or sound were reported.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1949-01-30",
+   "date_precision": "day",
+   "entity_appearance": "green fireball",
+   "entity_behavior": "horizontal path, no sound",
+   "location_name": "New Mexico and Texas",
+   "page_refs": [
+    5,
+    6,
+    7
+   ],
+   "physical_effects": [
+    "no sound",
+    "no animal alarm"
+   ],
+   "quote": "we saw not one substantiated account of noise produced by the meteorite fall"
+  }
+ ]
+}

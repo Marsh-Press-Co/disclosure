@@ -1,0 +1,36 @@
+{
+ "doc_id": "pursue-r4--nasa-uap-d030",
+ "file": "pursue-r4--nasa-uap-d030.md",
+ "source": "PURSUE-R4",
+ "agency": "NASA",
+ "title": "NASA-UAP-D030, STS-80 Unidentified Object Image 1, 1996",
+ "record_type": "image",
+ "index_date": "1996",
+ "index_location": "Low-Earth Orbit",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a descriptive record of a single photographic image captured by NASA astronauts during the STS-80 mission in 1996.",
+ "incidents": [
+  {
+   "summary": "Astronauts aboard Space Shuttle Columbia captured an image of an unidentified elongated white object in low-Earth orbit during the STS-80 mission.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "color": "white",
+   "location_name": "Low-Earth Orbit",
+   "object_count": "1",
+   "page_refs": [
+    1
+   ],
+   "quote": "a small, bright, elongated white object",
+   "recording_agency": "NASA",
+   "sensors": [
+    "photo"
+   ],
+   "shape": "elongated",
+   "witness_types": [
+    "astronaut"
+   ]
+  }
+ ]
+}

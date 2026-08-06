@@ -1,0 +1,32 @@
+{
+ "doc_id": "pursue-r4--dow-uap-d090",
+ "file": "pursue-r4--dow-uap-d090.md",
+ "source": "PURSUE-R4",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D090, Range Fouler Debrief, Eastern United States, 2019",
+ "record_type": "document",
+ "index_date": "2019",
+ "index_location": "Eastern United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a blank U.S. Navy Range Fouler Reporting Form accompanied by a narrative description of a UAP encounter on page 2.",
+ "incidents": [
+  {
+   "summary": "A small, rectangular object was observed traveling at high speed in a straight line opposite the observer's platform during mission sorties.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "traveling in a straight line",
+    "high speed"
+   ],
+   "shape": "rectangular",
+   "size": "small",
+   "witness_count": "5",
+   "witness_types": [
+    "military-pilot",
+    "military-other"
+   ]
+  }
+ ]
+}

@@ -221,6 +221,11 @@ def main():
             })
             skipped += 1
             print(f"{i}/{len(records)} SKIP (exists) {rec['id']}")
+            # Persist here too - a run that ends on a run of skips (as opposed to a
+            # fresh extraction) must not silently drop those entries from the report.
+            (ROOT / "raw" / "pursue-r2r3" / "extract_report.json").write_text(
+                json.dumps(out_report, indent=2, ensure_ascii=False), encoding="utf-8"
+            )
             continue
 
         default_ext = ".pdf" if rec["record_type"] == "PDF" else (Path(rec["url"]).suffix or ".jpg")

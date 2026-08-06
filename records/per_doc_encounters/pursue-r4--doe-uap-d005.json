@@ -1,0 +1,32 @@
+{
+ "doc_id": "pursue-r4--doe-uap-d005",
+ "file": "pursue-r4--doe-uap-d005.md",
+ "source": "PURSUE-R4",
+ "agency": "Department of Energy",
+ "title": "DOE-UAP-D005, Pantex Unidentified Object Incident Report, 2015",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is an official Department of Energy incident report regarding an unidentified aerial object observed over the Pantex facility, and it contains detailed encounter descriptions from security personnel.",
+ "encounters": [
+  {
+   "summary": "Protective Force personnel observed and tracked an unidentified object over the Pantex plant, describing it as a diamond-shaped or small, thin object that moved silently at low altitude.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "2015-09-01",
+   "date_precision": "day",
+   "entity_appearance": "Diamond type shape, round at the top, or 4 ft tall and 2 ft wide at the bottom, thinner at the top; colors reported as black, or silver, red and blue.",
+   "entity_behavior": "Traveled at 10-15 mph, silent, increased speed and changed direction when followed.",
+   "location_name": "Pantex Plant, Amarillo, TX",
+   "page_refs": [
+    3,
+    4
+   ],
+   "quote": "Their perspective of the object was that it was a \"diamond\" type shape with it being more round at the top."
+  }
+ ]
+}

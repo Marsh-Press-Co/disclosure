@@ -1,0 +1,484 @@
+{
+ "doc_id": "pursue-r4--dow-uap-d093",
+ "file": "pursue-r4--dow-uap-d093.md",
+ "source": "PURSUE-R4",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D093, Analysis of Flying Object Incidents in the United States, 1948",
+ "record_type": "document",
+ "index_date": "12/10/48",
+ "index_location": "Virginia",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a 1948 Air Intelligence Division study analyzing UAP reports and potential foreign/domestic origins, featuring significant redactions and photographic evidence of experimental aircraft.",
+ "incidents": [
+  {
+   "summary": "Weather Bureau personnel observed strange metallic disks through a theodolite on three occasions.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "maneuvering"
+   ],
+   "color": "metallic",
+   "country": "United States",
+   "date": "1947-04",
+   "explanation_status": "unexplained",
+   "location_name": "Richmond, Virginia",
+   "page_refs": [
+    6,
+    11,
+    20
+   ],
+   "quote": "one well trained observer has sighted strange metallic disks on three occasions",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disk",
+   "witness_count": "2",
+   "witness_types": [
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "Field engineer reported a disk flying at high speed.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "United States",
+   "date": "1947-05",
+   "explanation_status": "not-assessed",
+   "location_name": "Oklahoma City, Oklahoma",
+   "page_refs": [
+    20
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disk",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Air Force lieutenant observed five or six white circular objects in formation.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "formation flight"
+   ],
+   "color": "white",
+   "country": "United States",
+   "date": "1947-06-28",
+   "explanation_status": "not-assessed",
+   "location_name": "Lake Mead, Nevada",
+   "page_refs": [
+    20
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Kenneth Arnold reported a formation of flying objects.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "formation flight"
+   ],
+   "country": "United States",
+   "date": "1947-07-29",
+   "explanation_status": "not-assessed",
+   "location_name": "Tacoma, Washington",
+   "page_refs": [
+    29
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Two USAF pilots reported two flying disks trailing a P-80.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "trailing"
+   ],
+   "country": "United States",
+   "date": "1947-07-29",
+   "explanation_status": "not-assessed",
+   "location_name": "Hamilton Field, California",
+   "page_refs": [
+    29
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disk",
+   "witness_count": "2",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Pilot and co-pilot of a DC-3 reported a disk larger than their aircraft.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "chased"
+   ],
+   "country": "United States",
+   "date": "1947-08-04",
+   "explanation_status": "not-assessed",
+   "location_name": "Bethel, Alaska",
+   "page_refs": [
+    29
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disk",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Pan American pilots saw a blue-white light approaching, changing to twin reddish glows.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "color": "blue-white, reddish",
+   "country": "Pacific Ocean",
+   "date": "1947-09-12",
+   "explanation_status": "not-assessed",
+   "location_name": "Midway to Honolulu",
+   "page_refs": [
+    30
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Two flying disks trailing jet-like streams of fire sighted from a tanker.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "curving"
+   ],
+   "country": "United States",
+   "date": "1947-11-12",
+   "explanation_status": "not-assessed",
+   "location_name": "Oregon coast",
+   "page_refs": [
+    29
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disk",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "National Guard pilot killed while attempting to intercept a large metallic object.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "color": "metallic",
+   "country": "United States",
+   "date": "1948-01-07",
+   "explanation_status": "not-assessed",
+   "location_name": "Kentucky",
+   "page_refs": [
+    29
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Three balloon observers reported a round, indistinct object executing violent maneuvers.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "violent maneuvers"
+   ],
+   "country": "United States",
+   "date": "1948-04-05",
+   "explanation_status": "not-assessed",
+   "location_name": "Hollman Air Force Base, New Mexico",
+   "page_refs": [
+    29
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "witness_count": "3",
+   "witness_types": [
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "Lt. Comdr. Lowe reported a yellow or light colored sphere.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "color": "yellow or light",
+   "country": "United States",
+   "date": "1948-04-30",
+   "explanation_status": "not-assessed",
+   "location_name": "Anacostia Naval Air Station, D.C.",
+   "page_refs": [
+    30
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "sphere",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Mr. Booneville observed a reddish glow with a jet exhaust.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "wide arc"
+   ],
+   "color": "reddish",
+   "country": "United States",
+   "date": "1948-06-15",
+   "explanation_status": "not-assessed",
+   "location_name": "Miles City, Montana",
+   "page_refs": [
+    30
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Major Hammer reported twelve oval-shaped disks.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "climbing turn"
+   ],
+   "country": "United States",
+   "date": "1948-07-01",
+   "explanation_status": "not-assessed",
+   "location_name": "Rapid City Air Base",
+   "page_refs": [
+    30
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "oval",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Seven unidentified objects in J-formation observed.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "formation change"
+   ],
+   "country": "United States",
+   "date": "1948-07-17",
+   "explanation_status": "not-assessed",
+   "location_name": "San Acacia, New Mexico",
+   "page_refs": [
+    30
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Two Eastern Airlines pilots reported a huge wingless flying craft.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "country": "United States",
+   "date": "1948-07-25",
+   "explanation_status": "not-assessed",
+   "location_name": "United States",
+   "page_refs": [
+    31
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "wingless",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Captain Henry Glover and wife observed a bluish luminescent object.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "color": "bluish, orange",
+   "country": "United States",
+   "date": "1948-07-22",
+   "explanation_status": "explained",
+   "location_name": "Van Nuys, California",
+   "page_refs": [
+    39
+   ],
+   "quote": "It had a bluish luminescence and as the sun set, the object's color gradually changed to orange",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "witness_count": "2",
+   "witness_types": [
+    "military-other",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Object observed at Godman Air Force Base determined to be Venus.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "color": "silver",
+   "country": "United States",
+   "date": "1948-08-19",
+   "explanation_status": "explained",
+   "location_name": "Godman Air Force Base, Kentucky",
+   "page_refs": [
+    40
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "spherical",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Lt. George Gorman pursued an intermittent white light.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "evasive"
+   ],
+   "color": "white",
+   "country": "United States",
+   "date": "1948-10-01",
+   "explanation_status": "unexplained",
+   "location_name": "Fargo, North Dakota",
+   "page_refs": [
+    31,
+    32
+   ],
+   "quote": "The object or light out-turned, out-speeded, and out-climbed the P-51",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "witness_count": "4",
+   "witness_types": [
+    "military-pilot",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Three reserve pilots encountered an unidentifiable flying object.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "vertical climb",
+    "circle"
+   ],
+   "color": "dull gray",
+   "country": "United States",
+   "date": "1948-11-18",
+   "explanation_status": "unexplained",
+   "location_name": "Andrews Field, Maryland",
+   "page_refs": [
+    32
+   ],
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "oblong",
+   "witness_count": "4",
+   "witness_types": [
+    "military-pilot",
+    "military-other"
+   ]
+  }
+ ]
+}

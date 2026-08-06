@@ -1,0 +1,27 @@
+{
+ "doc_id": "pursue-r4--dow-uap-d091",
+ "file": "pursue-r4--dow-uap-d091.md",
+ "source": "PURSUE-R4",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D091, Range Fouler Debrief, Atlantic Ocean, 2020",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a military range fouler debrief form containing a firsthand account of a close-approach encounter.",
+ "encounters": [
+  {
+   "summary": "Aircrew observed a dark, maroon-colored object approximately 12-15 feet in height that appeared as a deformed balloon while operating in restricted airspace.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "entity_appearance": "dark, maroonish color, somewhat deformed balloon",
+   "entity_height": "12-15ft",
+   "page_refs": [
+    2
+   ],
+   "quote": "The object itself was a darker, maroonish color, approximately 12-15ft in height."
+  }
+ ]
+}

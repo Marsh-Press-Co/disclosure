@@ -1,0 +1,58 @@
+{
+ "doc_id": "pursue-r4--fbi-uap-d014",
+ "file": "pursue-r4--fbi-uap-d014.md",
+ "source": "PURSUE-R4",
+ "agency": "FBI",
+ "title": "FBI-UAP-D014, Correspondence Relating to UFO Sightings, 1967, 1974",
+ "record_type": "document",
+ "index_date": "10/10/74",
+ "index_location": "Various",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document contains FBI correspondence regarding a 1967 civilian sighting report and an inquiry from 1974 about a 1954 UFO event.",
+ "incidents": [
+  {
+   "summary": "An eleven-year-old boy reported hearing a weird noise and seeing a flash of light moving north in the sky.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "moving north"
+   ],
+   "color": "light",
+   "country": "United States",
+   "date": "1967-09-16",
+   "location_name": "Chicago, Illinois",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Alleged sighting of an occupied unidentified flying object pursued by Coast Guard personnel, which landed on the ground and was observed by civilians.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "pursued",
+    "landed",
+    "discharging occupant",
+    "strolled about",
+    "departed"
+   ],
+   "country": "United States",
+   "date": "1954-04-08",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    4,
+    5
+   ],
+   "quote": "alleged April 8, 1954 sighting of an occupied Unidentified Flying Object",
+   "recording_agency": "FBI",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

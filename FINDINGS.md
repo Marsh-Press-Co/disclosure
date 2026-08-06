@@ -181,10 +181,10 @@ subset).
 
 ## Files
 
-- `records/incidents.csv` / `incidents.json` — 593 canonical incidents, sortable
-- `records/encounters.csv` — 341 encounter records with claimant strata + stances
+- `records/incidents.csv` / `incidents.json` — 879 canonical incidents, sortable
+- `records/encounters.csv` — 388 encounter records with claimant strata + stances
 - `records/timeline.md` — the chronological record, ★ = multi-agency
-- `site/index.html` — the interactive globe (606 placed incidents, filters,
+- `site/index.html` — the interactive globe (654 placed incidents, filters,
   citation dossiers; local until the public flip)
 - `graphify-out/graph.html` — the interactive graph (open in any browser)
 - `graphify-out/GRAPH_REPORT.md` — god nodes, surprising connections, audit stats
@@ -252,3 +252,38 @@ which held:**
   same denial posture the corpus already showed running 1947→2026, now
   documented five years earlier than the prior earliest instance. See
   `RETRIEVAL_TRAIL.md`'s addendum for the full custody-chain writeup.
+
+## Addendum — PURSUE Release 4 ingest (2026-08-06, same session)
+
+*Corpus grew from 197 to 215 documents (2.52M words, 8,591 pages): + PURSUE
+Release 4 (14 text PDFs + 3 images transcribed; the other 23 of its 40 records
+are video/audio, indexed by metadata only). Same acquisition method, same $0
+cash cost. 11 of 17 new PDFs/images were born-digital, 6 needed Gemini-vision
+transcription — one (DOW-UAP-D090, a 2-page Range Fouler Debrief with a
+garbled OCR'd fillable-form page) triggered a deterministic Gemini
+degenerate-generation loop on the incident-extraction pass; fixed by widening
+`extract_records.py`'s failure-driven page-split fallback below its normal
+`MIN_CHUNK_PAGES` floor (now promoted as a general robustness fix, not a
+one-off). Incidents: 1,072→1,174 extracted, 814→**879 canonical**. Graph:
+2,914→3,184 nodes, 2,234→2,441 edges, 54→**67 named communities**. Encounters:
+341→**388**. Globe: 606→**654 placed**.*
+
+- **§3/§8 (corroboration) — jumped more than the doc count would suggest.**
+  55→**72** incidents now carry 2+ agency corroboration (R2+R3 combined had
+  only pushed 50→55) — R4's older historical material (1940s-50s USAF Air
+  Intelligence studies, DOW-D093/D094/D096/D097) cross-references incidents
+  already in the corpus rather than introducing isolated new ones, so a
+  smaller release produced a disproportionate corroboration gain. Leaderboard
+  top-3 (Arnold/Rockfield/Muroc, all ★4) still unchanged.
+- **§5 (bimodal distribution) — the "thin middle" holds again.** 1970-2010s:
+  67 of 879 (7.6%), essentially flat as a share (was 7.4% after R2+R3). R4
+  contributed comparatively little to any single decade — its 1940s-50s
+  historical documents (DOW-D093/D094/D096/D097, USAF Air Intelligence
+  studies) spread across existing decades rather than concentrating.
+- **§6 (resolution rates) — proportions held.** unexplained 29%→28% (243/879),
+  explained 11% (95/879), not-assessed 56%→58% (509/879).
+- **§9 (encounters) grew 341→388.**
+- **RETRIEVAL_TRAIL: no new strong leads, no open threads touched.** R4's
+  sweep found 0 new "strong" custody/materiel leads (31 total, unchanged from
+  the R2+R3 addendum) and no text matches for Socorro/1964, Milwaukee, "Ia.
+  case", or Serial 164 — all four threads remain exactly as open as before.

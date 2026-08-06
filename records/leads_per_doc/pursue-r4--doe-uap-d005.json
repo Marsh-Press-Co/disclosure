@@ -1,0 +1,18 @@
+{
+ "doc": "pursue-r4--doe-uap-d005.md",
+ "leads": [
+  {
+   "page": 4,
+   "lead_type": "analysis-of-material",
+   "claim": "Video footage of an unidentified object was sent to Sandia National Labs for further study.",
+   "strength": "moderate",
+   "why": "The document confirms that video data of an unidentified object was transferred to a national laboratory for analysis, though it does not explicitly confirm the recovery of physical craft or biological material.",
+   "claimant": "Pantex Unidentified Object Incident Report",
+   "custody_chain": "GSR tower to Sandia National Labs",
+   "government_response": "The video was sent to Sandia National Labs for further study.",
+   "outcome_in_document": "unresolved",
+   "quote": "Video was obtained from the GSR tower that was closest to the object and subsequently sent to Sandia National labs for further study"
+  }
+ ],
+ "doc_verdict": "The document confirms the transfer of video data regarding an unidentified object to a national laboratory for analysis, but it contains no evidence of the recovery or custody of physical craft, debris, or biological material."
+}

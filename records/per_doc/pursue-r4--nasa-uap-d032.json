@@ -1,0 +1,42 @@
+{
+ "doc_id": "pursue-r4--nasa-uap-d032",
+ "file": "pursue-r4--nasa-uap-d032.md",
+ "source": "PURSUE-R4",
+ "agency": "NASA",
+ "title": "NASA-UAP-D032, STS-80 Unidentified Object Image 3, 1996",
+ "record_type": "image",
+ "index_date": "1996",
+ "index_location": "Low-Earth Orbit",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a descriptive record of a UAP image captured by NASA astronauts during the STS-80 mission in 1996.",
+ "incidents": [
+  {
+   "summary": "Astronauts aboard Space Shuttle Columbia captured an image of an unidentified object in low-Earth orbit during the STS-80 mission.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "continued along a trajectory passing between Columbia and the Earth"
+   ],
+   "color": "white",
+   "country": "none",
+   "date": "1996-11",
+   "explanation_status": "not-assessed",
+   "location_name": "Low-Earth Orbit",
+   "page_refs": [
+    1
+   ],
+   "quote": "A small, white, triangular or conical object is visible in the center of the sky.",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual",
+    "photo"
+   ],
+   "shape": "triangular or conical",
+   "witness_types": [
+    "astronaut"
+   ]
+  }
+ ]
+}

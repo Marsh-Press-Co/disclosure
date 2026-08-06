@@ -1,0 +1,135 @@
+{
+ "doc_id": "pursue-r4--dow-uap-d097",
+ "file": "pursue-r4--dow-uap-d097.md",
+ "source": "PURSUE-R4",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D097, Project Sign Progress Report, 1948",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a Project Sign progress report from 1948 containing a tabulation of UAP incident reports and technical evaluations of reported craft characteristics.",
+ "encounters": [
+  {
+   "summary": "A pilot reported a disc-shaped object that oscillated and performed maneuvers, including a high-speed climb.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1947-07-09",
+   "date_precision": "day",
+   "location_name": "Muroc Air Field, Muroc, Calif.",
+   "page_refs": [
+    3,
+    8,
+    14,
+    21
+   ],
+   "physical_effects": [
+    "engine stall"
+   ],
+   "quote": "Descended from an intermediate altitude in an oscillating fashion almost to the ground"
+  },
+  {
+   "summary": "A pilot reported a disc-shaped object that performed maneuvers and was observed to have a metallic appearance.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1947-07-09",
+   "date_precision": "day",
+   "location_name": "Muroc Air Field, Muroc, Calif.",
+   "page_refs": [
+    3,
+    8,
+    14,
+    21
+   ],
+   "quote": "Straight line formation; last disc fluttered very rapidly in side-way arc"
+  },
+  {
+   "summary": "A pilot reported a disc-shaped object that was observed to oscillate and change shape.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1947-07-09",
+   "date_precision": "day",
+   "location_name": "Muroc Air Field, Muroc, Calif.",
+   "page_refs": [
+    3,
+    8,
+    14,
+    21
+   ],
+   "quote": "Discs would oscillate and sometimes a full disc would be visible, then a half-moon shape"
+  },
+  {
+   "summary": "A pilot reported a disc-shaped object that performed maneuvers and was observed to have a metallic appearance.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1947-07-09",
+   "date_precision": "day",
+   "location_name": "Muroc Air Field, Muroc, Calif.",
+   "page_refs": [
+    3,
+    8,
+    14,
+    21
+   ],
+   "quote": "Thin and smooth on bottom, rough appearing on top"
+  },
+  {
+   "summary": "A pilot reported a disc-shaped object that performed maneuvers and was observed to have a metallic appearance.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1947-07-09",
+   "date_precision": "day",
+   "location_name": "Muroc Air Field, Muroc, Calif.",
+   "page_refs": [
+    3,
+    8,
+    14,
+    21
+   ],
+   "quote": "Thin and smooth on bottom, rough appearing on top"
+  },
+  {
+   "summary": "A pilot reported a disc-shaped object that performed maneuvers and was observed to have a metallic appearance.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1947-07-09",
+   "date_precision": "day",
+   "location_name": "Muroc Air Field, Muroc, Calif.",
+   "page_refs": [
+    3,
+    8,
+    14,
+    21
+   ],
+   "quote": "Thin and smooth on bottom, rough appearing on top"
+  }
+ ]
+}

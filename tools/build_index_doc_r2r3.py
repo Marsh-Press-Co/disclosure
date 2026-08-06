@@ -21,6 +21,7 @@ TYPE_NAMES = {"PDF": "Documents (PDF)", "IMG": "Images", "VID": "Videos", "AUD":
 RELEASES = [
     {"date": "5/22/26", "label": "PURSUE-R2", "id": "pursue-r2", "num": "2", "published": "2026-05-22"},
     {"date": "6/12/26", "label": "PURSUE-R3", "id": "pursue-r3", "num": "3", "published": "2026-06-12"},
+    {"date": "7/10/26", "label": "PURSUE-R4", "id": "pursue-r4", "num": "4", "published": "2026-07-10"},
 ]
 
 

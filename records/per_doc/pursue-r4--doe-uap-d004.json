@@ -1,0 +1,119 @@
+{
+ "doc_id": "pursue-r4--doe-uap-d004",
+ "file": "pursue-r4--doe-uap-d004.md",
+ "source": "PURSUE-R4",
+ "agency": "Department of Energy",
+ "title": "DOE-UAP-D004, Los Alamos Conference on Aerial Phenomena, 1949",
+ "record_type": "document",
+ "index_date": "3/22/49",
+ "index_location": "New Mexico",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a transcript of a 1949 conference held at Los Alamos Scientific Laboratory to discuss the nature of 'green fireballs' reported in the region, featuring input from scientists and military personnel.",
+ "incidents": [
+  {
+   "summary": "Green fireball observed near Starvation Peak, New Mexico, with horizontal trajectory and constant angular velocity.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "horizontal path",
+    "constant angular velocity",
+    "broke into fragments"
+   ],
+   "color": "yellow-green",
+   "country": "United States",
+   "date": "1948-12-12",
+   "duration": "2 seconds",
+   "explanation": "Not a conventional meteorite fall.",
+   "explanation_status": "unexplained",
+   "location_name": "Starvation Peak, New Mexico",
+   "page_refs": [
+    3,
+    4,
+    6,
+    7,
+    12,
+    13,
+    17
+   ],
+   "quote": "This fireball which I personally witnessed on the night of December 12, 1948, was not, in my opinion, a conventional meteor fall.",
+   "recording_agency": "Department of Energy",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "fireball",
+   "time_local": "21:02",
+   "witness_count": "1",
+   "witness_types": [
+    "scientist"
+   ]
+  },
+  {
+   "summary": "Large green fireball observed over New Mexico and Western Texas, with no associated sound or ground impact.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "horizontal path",
+    "no sound",
+    "no ground impact"
+   ],
+   "color": "green",
+   "country": "United States",
+   "date": "1949-01-30",
+   "duration": "5-14 seconds",
+   "explanation": "Not a conventional meteorite fall.",
+   "explanation_status": "unexplained",
+   "location_name": "New Mexico and Western Texas",
+   "page_refs": [
+    4,
+    5,
+    6,
+    7,
+    10,
+    11,
+    12,
+    13,
+    17
+   ],
+   "quote": "In the case of the January 30th fall, due to the fact that there had been a large number of military personnel alerted, we were able to obtain observations within a minute after the fall occurred",
+   "recording_agency": "Department of Energy",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "fireball",
+   "witness_count": "hundreds",
+   "witness_types": [
+    "military-other",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Green fireball observed near Roswell, New Mexico, by five men near a steel smokestack, accompanied by a sound like a gasoline blowtorch.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "anomalous sound"
+   ],
+   "color": "green",
+   "country": "United States",
+   "explanation_status": "unexplained",
+   "location_name": "Roswell, New Mexico",
+   "page_refs": [
+    7
+   ],
+   "quote": "every one of them swore that they heard at the same time they were watching the green fireball go by, a noise like, say, a gasoline blowtorch.",
+   "recording_agency": "Department of Energy",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "fireball",
+   "witness_count": "5",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

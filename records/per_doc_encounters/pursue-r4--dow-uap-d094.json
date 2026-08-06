@@ -1,0 +1,342 @@
+{
+ "doc_id": "pursue-r4--dow-uap-d094",
+ "file": "pursue-r4--dow-uap-d094.md",
+ "source": "PURSUE-R4",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D094, Analysis of Flying Object Incidents in the United States, 1949",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a declassified Air Intelligence Division study (1948) analyzing flying object incidents, containing numerous reports of close-range encounters.",
+ "encounters": [
+  {
+   "summary": "Weather Bureau employees observed a metallic disk through a theodolite on three occasions.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "country": "United States",
+   "date": "1947-04",
+   "date_precision": "month",
+   "entity_appearance": "metallic disk, ellipse with flat bottom and round top",
+   "location_name": "Richmond, Virginia",
+   "page_refs": [
+    8,
+    13
+   ]
+  },
+  {
+   "summary": "Field engineer reported a disk flying near his home.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "United States",
+   "date": "1947-05",
+   "date_precision": "month",
+   "entity_appearance": "disk",
+   "location_name": "Oklahoma City, Oklahoma",
+   "page_refs": [
+    13
+   ]
+  },
+  {
+   "summary": "Air Force lieutenant reported five or six white circular objects in close formation.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "United States",
+   "date": "1947-06-28",
+   "date_precision": "day",
+   "entity_appearance": "white circular objects",
+   "entity_count": "5-6",
+   "location_name": "Lake Meade, Nevada",
+   "page_refs": [
+    13
+   ]
+  },
+  {
+   "summary": "Three observers reported a large disk or sphere moving horizontally at high speed.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "United States",
+   "date": "1947-06-29",
+   "date_precision": "day",
+   "entity_appearance": "large disk or sphere, no protruding surfaces",
+   "location_name": "Highway 17, New Mexico",
+   "page_refs": [
+    13
+   ]
+  },
+  {
+   "summary": "Five police officers reported disks flying over the city.",
+   "encounter_type": "close-approach",
+   "claimant_type": "federal-le",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "United States",
+   "date": "1947-07-07",
+   "date_precision": "day",
+   "entity_appearance": "disks",
+   "location_name": "Portland, Oregon",
+   "page_refs": [
+    13
+   ]
+  },
+  {
+   "summary": "William Rhoads reported a disk circling and took two photographs.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "country": "United States",
+   "date": "1947-07-07",
+   "date_precision": "day",
+   "entity_appearance": "disk-like object with round front and square tail",
+   "location_name": "Phoenix, Arizona",
+   "page_refs": [
+    13,
+    14
+   ]
+  },
+  {
+   "summary": "Pan-American mechanic reported a circular object leaving a trail.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "country": "Canada",
+   "date": "1947-07-10",
+   "date_precision": "day",
+   "entity_appearance": "circular object",
+   "location_name": "Harmon Field, Newfoundland",
+   "page_refs": [
+    15
+   ]
+  },
+  {
+   "summary": "Kenneth Arnold reported a formation of flying objects.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "United States",
+   "date": "1947-07-20",
+   "date_precision": "day",
+   "location_name": "Tacoma, Washington",
+   "page_refs": [
+    16
+   ]
+  },
+  {
+   "summary": "Two Air Force pilots reported disks trailing a P-80.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "United States",
+   "date": "1947-07-20",
+   "date_precision": "day",
+   "entity_appearance": "disks",
+   "location_name": "Hamilton Field, California",
+   "page_refs": [
+    16
+   ]
+  },
+  {
+   "summary": "Pilot and co-pilot reported a flying disk larger than their aircraft.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "United States",
+   "date": "1947-08-04",
+   "date_precision": "day",
+   "entity_appearance": "flying disk",
+   "location_name": "Bethel, Alaska",
+   "page_refs": [
+    16
+   ],
+   "physical_effects": [
+    "engine stall"
+   ]
+  },
+  {
+   "summary": "Second officer of tanker reported two disks trailing jet-like streams of fire.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "United States",
+   "date": "1947-11-10",
+   "date_precision": "day",
+   "entity_appearance": "disks with jet-like streams of fire",
+   "location_name": "Oregon coast",
+   "page_refs": [
+    16
+   ]
+  },
+  {
+   "summary": "National Guard pilot reported a metallic object before crashing.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "United States",
+   "date": "1948-01-07",
+   "date_precision": "day",
+   "entity_appearance": "metallic object of tremendous size",
+   "location_name": "United States",
+   "page_refs": [
+    17
+   ],
+   "quote": "it appears to be metallic object .... of tremendous size"
+  },
+  {
+   "summary": "Three balloon observers reported a round, indistinct object executing violent maneuvers.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "United States",
+   "date": "1948-04-06",
+   "date_precision": "day",
+   "entity_appearance": "round, indistinct object",
+   "entity_behavior": "violent maneuvers",
+   "location_name": "Rollman Air Force Base, New Mexico",
+   "page_refs": [
+    17
+   ]
+  },
+  {
+   "summary": "Lt. Comdr. reported a yellow or light colored sphere.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "United States",
+   "date": "1948-04-30",
+   "date_precision": "day",
+   "entity_appearance": "yellow or light colored sphere, 25-40 feet diameter",
+   "location_name": "Anacostia Naval Air Station, D.C.",
+   "page_refs": [
+    17
+   ]
+  },
+  {
+   "summary": "Major reported twelve disks over the air base.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "United States",
+   "date": "1948-07-01",
+   "date_precision": "day",
+   "entity_appearance": "oval-shaped disks, 100 feet long",
+   "entity_count": "12",
+   "location_name": "Rapid City Air Base",
+   "page_refs": [
+    17
+   ]
+  },
+  {
+   "summary": "Seven objects reported in J-formation.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "United States",
+   "date": "1948-07-17",
+   "date_precision": "day",
+   "entity_count": "7",
+   "location_name": "San Acacia, New Mexico",
+   "page_refs": [
+    17
+   ]
+  },
+  {
+   "summary": "Two Eastern Airlines pilots reported a huge flying craft similar to a V-2.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "United States",
+   "date": "1948-07-26",
+   "date_precision": "day",
+   "entity_appearance": "huge flying craft, wingless, two decks",
+   "location_name": "United States",
+   "page_refs": [
+    17
+   ]
+  },
+  {
+   "summary": "Newspaper reporter sighted an object northeast of Moscow.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "Russia",
+   "date": "1948-08-03",
+   "date_precision": "day",
+   "location_name": "Moscow",
+   "page_refs": [
+    17
+   ]
+  },
+  {
+   "summary": "Pilot pursued an intermittent white light that performed evasive maneuvers.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "United States",
+   "date": "1948-10-01",
+   "date_precision": "day",
+   "entity_appearance": "small round ball of clear white light, 6-8 inches diameter",
+   "entity_behavior": "evasive, out-turned, out-speeded, out-climbed",
+   "location_name": "Fargo, North Dakota",
+   "page_refs": [
+    17,
+    20
+   ]
+  },
+  {
+   "summary": "Three reserve pilots encountered an unidentified flying object.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "United States",
+   "date": "1948-11-18",
+   "date_precision": "day",
+   "entity_appearance": "oblong ball, dull gray glow, no wings, no exhaust",
+   "entity_behavior": "climb vertically, circle, tight turn",
+   "location_name": "Andrews Field, Maryland",
+   "page_refs": [
+    20
+   ]
+  }
+ ]
+}

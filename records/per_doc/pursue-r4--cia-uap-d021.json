@@ -1,0 +1,36 @@
+{
+ "doc_id": "pursue-r4--cia-uap-d021",
+ "file": "pursue-r4--cia-uap-d021.md",
+ "source": "PURSUE-R4",
+ "agency": "CIA",
+ "title": "CIA-UAP-D021, Analysis of Unconventional Aircraft Sightings, 1955",
+ "record_type": "document",
+ "index_date": "1955",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a 1955 CIA memorandum discussing the analysis of unconventional aircraft sightings and referencing a specific 1954 incident, while also noting contemporary aerospace development programs.",
+ "incidents": [
+  {
+   "summary": "Two lights were observed rising vertically and passing above the observers at a high altitude.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "rising vertically",
+    "passing above"
+   ],
+   "date": "1954-10",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    3
+   ],
+   "quote": "two lights which initially appeared at the train and then rose at a high altitude",
+   "recording_agency": "CIA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "multiple"
+  }
+ ]
+}

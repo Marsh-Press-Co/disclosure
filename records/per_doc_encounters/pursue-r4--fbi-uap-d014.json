@@ -1,0 +1,28 @@
+{
+ "doc_id": "pursue-r4--fbi-uap-d014",
+ "file": "pursue-r4--fbi-uap-d014.md",
+ "source": "PURSUE-R4",
+ "agency": "FBI",
+ "title": "FBI-UAP-D014, Correspondence Relating to UFO Sightings, 1967, 1974",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document consists of FBI correspondence regarding UFO inquiries, including one mention of a historical occupant report from 1954.",
+ "encounters": [
+  {
+   "summary": "A researcher requests FBI files regarding a 1954 incident where a UFO allegedly landed, and an occupant exited the craft and walked around before departing, witnessed by three civilians and pursued by Coast Guard personnel.",
+   "encounter_type": "occupant-report",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "United States",
+   "date": "1954-04-08",
+   "date_precision": "day",
+   "entity_behavior": "strolled about",
+   "page_refs": [
+    4
+   ],
+   "quote": "landed briefly on the ground (discharging the occupant, who stroll about and returned to the object)"
+  }
+ ]
+}

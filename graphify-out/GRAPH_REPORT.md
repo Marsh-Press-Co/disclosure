@@ -1,22 +1,21 @@
 # Graph Report - D:\Projects\Disclosure\corpus  (2026-08-06)
 
 ## Corpus Check
-- Large corpus: 197 files · ~2,380,940 words. Semantic extraction will be expensive (many Claude tokens). Consider running on a subfolder.
+- Large corpus: 215 files · ~2,517,554 words. Semantic extraction will be expensive (many Claude tokens). Consider running on a subfolder.
 
 ## Summary
-- 2914 nodes · 2234 edges · 998 communities (252 shown, 746 thin omitted)
-- Extraction: 90% EXTRACTED · 10% INFERRED · 0% AMBIGUOUS · INFERRED: 224 edges (avg confidence: 0.85)
-- Token cost: 2,056,518 input · 269,151 output
+- 3184 nodes · 2441 edges · 1091 communities (278 shown, 813 thin omitted)
+- Extraction: 90% EXTRACTED · 10% INFERRED · 0% AMBIGUOUS · INFERRED: 240 edges (avg confidence: 0.85)
+- Token cost: 367,265 input · 58,296 output
 
 ## Community Hubs (Navigation)
 - [[_COMMUNITY_UAP Evaluation Taxonomy (CIA-015 Categories)|UAP Evaluation Taxonomy (CIA-015 Categories)]]
-- [[_COMMUNITY_Lincoln LaPaz & the Green Fireball Investigations|Lincoln LaPaz & the Green Fireball Investigations]]
+- [[_COMMUNITY_Oak Ridge UFO Incident & Army Air Forces Intelligence, 1947|Oak Ridge UFO Incident & Army Air Forces Intelligence, 1947]]
 - [[_COMMUNITY_Gemini 4 Mission Debrief (NASA-D017)|Gemini 4 Mission Debrief (NASA-D017)]]
-- [[_COMMUNITY_Air Intelligence Requirements Memo 4 (FBI Section 5)|Air Intelligence Requirements Memo 4 (FBI Section 5)]]
+- [[_COMMUNITY_AFSCA Contactee Movement|AFSCA Contactee Movement]]
 - [[_COMMUNITY_AtlasDelta Launch Failure Analysis (DOW-D48)|Atlas/Delta Launch Failure Analysis (DOW-D48)]]
 - [[_COMMUNITY_2023 Western US Orb Cluster (DOW-D077-083)|2023 Western US Orb Cluster (DOW-D077-083)]]
-- [[_COMMUNITY_AFSCA Contactee Movement|AFSCA Contactee Movement]]
-- [[_COMMUNITY_2023-24 Congressional UAP Hearings|2023-24 Congressional UAP Hearings]]
+- [[_COMMUNITY_2023-24 Congressional UAP Hearings (Grusch, Fravor, Elizondo)|2023-24 Congressional UAP Hearings (Grusch, Fravor, Elizondo)]]
 - [[_COMMUNITY_Minuteman Launch Summary, Feb 2000 (DOW-D49)|Minuteman Launch Summary, Feb 2000 (DOW-D49)]]
 - [[_COMMUNITY_J. Edgar Hoover's FBI Field-Office Network|J. Edgar Hoover's FBI Field-Office Network]]
 - [[_COMMUNITY_Muroc & Portland Incident Cluster (DOW-D087)|Muroc & Portland Incident Cluster (DOW-D087)]]
@@ -24,32 +23,38 @@
 - [[_COMMUNITY_French COMETA Committee & GEPANSEPRA|French COMETA Committee & GEPAN/SEPRA]]
 - [[_COMMUNITY_Mantell Incident & Skyhook Balloon|Mantell Incident & Skyhook Balloon]]
 - [[_COMMUNITY_DOW Middle East Mission Reports (SyriaGulf of Aden)|DOW Middle East Mission Reports (Syria/Gulf of Aden)]]
+- [[_COMMUNITY_1949 Los Alamos Green Fireball Conference & 1955 CIA Sightings (DOE-D004CIA-D020-21, R4)|1949 Los Alamos Green Fireball Conference & 1955 CIA Sightings (DOE-D004/CIA-D020-21, R4)]]
+- [[_COMMUNITY_Project Blue Book & Air Technical Intelligence Center|Project Blue Book & Air Technical Intelligence Center]]
 - [[_COMMUNITY_Gordon Cooper Mission - Zodiacal Light (NASA-D015)|Gordon Cooper Mission - Zodiacal Light (NASA-D015)]]
-- [[_COMMUNITY_Project Sign & Project Grudge|Project Sign & Project Grudge]]
+- [[_COMMUNITY_Gemini 67 Systems - RatePulse Command Modes (NASA-D020-21)|Gemini 6/7 Systems - Rate/Pulse Command Modes (NASA-D020-21)]]
 - [[_COMMUNITY_AARO Middle East Range-Fouler Reports|AARO Middle East Range-Fouler Reports]]
+- [[_COMMUNITY_Air Intelligence Requirements Memo 4 (FBI Section 5  Serial 164)|Air Intelligence Requirements Memo 4 (FBI Section 5 / Serial 164)]]
 - [[_COMMUNITY_U-2 Program Origins - CL-282 (CIA-D003)|U-2 Program Origins - CL-282 (CIA-D003)]]
-- [[_COMMUNITY_Gemini 67 Mission - Borman & Lovell (NASA-D021)|Gemini 6/7 Mission - Borman & Lovell (NASA-D021)]]
+- [[_COMMUNITY_Hoover 1949 UFO Memo Network|Hoover 1949 UFO Memo Network]]
+- [[_COMMUNITY_Serial 130 - Kenneth Arnold Optical-Reflection Analysis|Serial 130 - Kenneth Arnold Optical-Reflection Analysis]]
+- [[_COMMUNITY_Unidentified Aerial Object Witness Correspondence|Unidentified Aerial Object Witness Correspondence]]
 - [[_COMMUNITY_Eekhout Propulsion-Theory Correspondence|Eekhout Propulsion-Theory Correspondence]]
 - [[_COMMUNITY_Western US 2025 Incident & FBI Photo Series|Western US 2025 Incident & FBI Photo Series]]
-- [[_COMMUNITY_Serial 130 - Kenneth Arnold Optical-Reflection Analysis|Serial 130 - Kenneth Arnold Optical-Reflection Analysis]]
 - [[_COMMUNITY_CIA-015 UAP Evaluation Table|CIA-015 UAP Evaluation Table]]
-- [[_COMMUNITY_Project Blue Book & Air Technical Intelligence Center|Project Blue Book & Air Technical Intelligence Center]]
+- [[_COMMUNITY_Robertson Panel & NICAP|Robertson Panel & NICAP]]
+- [[_COMMUNITY_Project Sign|Project Sign]]
+- [[_COMMUNITY_SandiaSocorro Green-Fireball Copper-Dust Program (LaPaz, R2 DOW-D017 + R3 DOW-D088 + R4 DOE-D004)|Sandia/Socorro Green-Fireball Copper-Dust Program (LaPaz, R2 DOW-D017 + R3 DOW-D088 + R4 DOE-D004)]]
 - [[_COMMUNITY_Gemini 4 Extravehicular Activity Systems (NASA-D016)|Gemini 4 Extravehicular Activity Systems (NASA-D016)]]
 - [[_COMMUNITY_Gemini 4 Landing & Booster Systems (NASA-D016)|Gemini 4 Landing & Booster Systems (NASA-D016)]]
 - [[_COMMUNITY_Gemini 4 EVA & Air-Glow Observation (NASA-D018)|Gemini 4 EVA & Air-Glow Observation (NASA-D018)]]
-- [[_COMMUNITY_ApolloGemini Spacecraft Systems (NASA-D020)|Apollo/Gemini Spacecraft Systems (NASA-D020)]]
+- [[_COMMUNITY_Blue Book Correspondence Witnesses, Set 1 (DOW-D096, R4)|Blue Book Correspondence Witnesses, Set 1 (DOW-D096, R4)]]
+- [[_COMMUNITY_CENTCOM Mission Reports (GreeceSyria)|CENTCOM Mission Reports (Greece/Syria)]]
+- [[_COMMUNITY_AFOINATICCONAD Correspondence (DOW-D096, R4)|AFOIN/ATIC/CONAD Correspondence (DOW-D096, R4)]]
 - [[_COMMUNITY_Hoover-Air Force Memo Correspondence (FBI Section 7)|Hoover-Air Force Memo Correspondence (FBI Section 7)]]
 - [[_COMMUNITY_Project Aquatone - U-2 Origins Under Eisenhower|Project Aquatone - U-2 Origins Under Eisenhower]]
 - [[_COMMUNITY_Gemini 4 Egress & EVA Checklist (NASA-D017)|Gemini 4 Egress & EVA Checklist (NASA-D017)]]
-- [[_COMMUNITY_Delta Launch Failure Narratives (DOW-D48)|Delta Launch Failure Narratives (DOW-D48)]]
+- [[_COMMUNITY_Apollo Crew Light-Flash Phenomenon|Apollo Crew Light-Flash Phenomenon]]
 - [[_COMMUNITY_R2 Video Record Index (DOW-UAP-PR Series)|R2 Video Record Index (DOW-UAP-PR Series)]]
 - [[_COMMUNITY_ApolloGemini Mission Control Systems (NASA-D020)|Apollo/Gemini Mission Control Systems (NASA-D020)]]
-- [[_COMMUNITY_Hoover 1949 UFO Memo Network|Hoover 1949 UFO Memo Network]]
+- [[_COMMUNITY_DOW Middle East Mission Reports, 2022-23|DOW Middle East Mission Reports, 2022-23]]
 - [[_COMMUNITY_Kenneth Arnold & the Mt. Rainier Sighting|Kenneth Arnold & the Mt. Rainier Sighting]]
 - [[_COMMUNITY_AARO Historical Report - KONA BLUEAAWSAPAATIP|AARO Historical Report - KONA BLUE/AAWSAP/AATIP]]
-- [[_COMMUNITY_NICAP & Donald Keyhoe Network|NICAP & Donald Keyhoe Network]]
-- [[_COMMUNITY_CENTCOM Mission Reports (GreeceSyria)|CENTCOM Mission Reports (Greece/Syria)]]
-- [[_COMMUNITY_Apollo Crew Light-Flash Phenomenon|Apollo Crew Light-Flash Phenomenon]]
+- [[_COMMUNITY_CENTCOM Mission Reports, 2022-24|CENTCOM Mission Reports, 2022-24]]
 - [[_COMMUNITY_USAF UFO Program & the Levelland Incident|USAF UFO Program & the Levelland Incident]]
 - [[_COMMUNITY_Borderland Sciences Research Associates|Borderland Sciences Research Associates]]
 - [[_COMMUNITY_Maury Island Incident|Maury Island Incident]]
@@ -57,25 +62,20 @@
 - [[_COMMUNITY_William Albert Rhodes & Project Saucer|William Albert Rhodes & Project Saucer]]
 - [[_COMMUNITY_U-2 Program - Cold War Operations (CIA-D003)|U-2 Program - Cold War Operations (CIA-D003)]]
 - [[_COMMUNITY_U-2 Program - Cuban Missile Crisis Era (CIA-D003)|U-2 Program - Cuban Missile Crisis Era (CIA-D003)]]
-- [[_COMMUNITY_DOW Middle East Mission Reports, 2022-23|DOW Middle East Mission Reports, 2022-23]]
-- [[_COMMUNITY_Unidentified Aerial Object Witness Correspondence|Unidentified Aerial Object Witness Correspondence]]
+- [[_COMMUNITY_Blue Book Correspondence Witnesses, Set 2 - Challenge Magazine Circle (DOW-D096, R4)|Blue Book Correspondence Witnesses, Set 2 - Challenge Magazine Circle (DOW-D096, R4)]]
 - [[_COMMUNITY_Gemini IX & Apollo 17 Crew (NASA-D022)|Gemini IX & Apollo 17 Crew (NASA-D022)]]
 - [[_COMMUNITY_Area 51 & Bob Lazar|Area 51 & Bob Lazar]]
-- [[_COMMUNITY_Robertson Panel & the Condon Report|Robertson Panel & the Condon Report]]
 - [[_COMMUNITY_FBI Seattle Teletype - Maury Island Witnesses|FBI Seattle Teletype - Maury Island Witnesses]]
-- [[_COMMUNITY_Cluster 54|Cluster 54]]
-- [[_COMMUNITY_Cluster 55|Cluster 55]]
-- [[_COMMUNITY_Cluster 56|Cluster 56]]
-- [[_COMMUNITY_Cluster 57|Cluster 57]]
-- [[_COMMUNITY_Cluster 58|Cluster 58]]
-- [[_COMMUNITY_Cluster 59|Cluster 59]]
-- [[_COMMUNITY_Cluster 60|Cluster 60]]
-- [[_COMMUNITY_Cluster 61|Cluster 61]]
-- [[_COMMUNITY_Cluster 62|Cluster 62]]
-- [[_COMMUNITY_Cluster 63|Cluster 63]]
-- [[_COMMUNITY_Cluster 64|Cluster 64]]
-- [[_COMMUNITY_Cluster 65|Cluster 65]]
-- [[_COMMUNITY_Cluster 66|Cluster 66]]
+- [[_COMMUNITY_RichlandPasco Sightings, 1952-54 (FBI Seattle Field Office)|Richland/Pasco Sightings, 1952-54 (FBI Seattle Field Office)]]
+- [[_COMMUNITY_USAF Scientific Advisory Board Review of Project Blue Book (DOW-D092, R4 - Condon Report  NICAP)|USAF Scientific Advisory Board Review of Project Blue Book (DOW-D092, R4 - Condon Report / NICAP)]]
+- [[_COMMUNITY_Wilhelm Reich, Orgone Institute & CRIFO Newsletter|Wilhelm Reich, Orgone Institute & CRIFO Newsletter]]
+- [[_COMMUNITY_Mercury-Atlas 8 Observation Anomalies (NASA-D015)|Mercury-Atlas 8 Observation Anomalies (NASA-D015)]]
+- [[_COMMUNITY_DOW-D088 Incident Cluster (Holloman Geophysics Lab)|DOW-D088 Incident Cluster (Holloman Geophysics Lab)]]
+- [[_COMMUNITY_FBI Section 5 Witness Drawings & Kodiak Report|FBI Section 5 Witness Drawings & Kodiak Report]]
+- [[_COMMUNITY_CIA-003 Project OXCARTAQUILINE|CIA-003 Project OXCART/AQUILINE]]
+- [[_COMMUNITY_Gemini 57 Fuel Cell & Cryo Systems (NASA-D019-20)|Gemini 5/7 Fuel Cell & Cryo Systems (NASA-D019-20)]]
+- [[_COMMUNITY_FBI Section 4 Correspondence & Rev. Joseph Brasky|FBI Section 4 Correspondence & Rev. Joseph Brasky]]
+- [[_COMMUNITY_Gemini 7 Environmental Control Systems - Borman & Lovell (NASA-D021)|Gemini 7 Environmental Control Systems - Borman & Lovell (NASA-D021)]]
 - [[_COMMUNITY_Cluster 67|Cluster 67]]
 - [[_COMMUNITY_Cluster 68|Cluster 68]]
 - [[_COMMUNITY_Cluster 69|Cluster 69]]
@@ -1007,18 +1007,111 @@
 - [[_COMMUNITY_Cluster 995|Cluster 995]]
 - [[_COMMUNITY_Cluster 996|Cluster 996]]
 - [[_COMMUNITY_Cluster 997|Cluster 997]]
+- [[_COMMUNITY_Cluster 998|Cluster 998]]
+- [[_COMMUNITY_Cluster 999|Cluster 999]]
+- [[_COMMUNITY_Cluster 1000|Cluster 1000]]
+- [[_COMMUNITY_Cluster 1001|Cluster 1001]]
+- [[_COMMUNITY_Cluster 1002|Cluster 1002]]
+- [[_COMMUNITY_Cluster 1003|Cluster 1003]]
+- [[_COMMUNITY_Cluster 1004|Cluster 1004]]
+- [[_COMMUNITY_Cluster 1005|Cluster 1005]]
+- [[_COMMUNITY_Cluster 1006|Cluster 1006]]
+- [[_COMMUNITY_Cluster 1007|Cluster 1007]]
+- [[_COMMUNITY_Cluster 1008|Cluster 1008]]
+- [[_COMMUNITY_Cluster 1009|Cluster 1009]]
+- [[_COMMUNITY_Cluster 1010|Cluster 1010]]
+- [[_COMMUNITY_Cluster 1011|Cluster 1011]]
+- [[_COMMUNITY_Cluster 1012|Cluster 1012]]
+- [[_COMMUNITY_Cluster 1013|Cluster 1013]]
+- [[_COMMUNITY_Cluster 1014|Cluster 1014]]
+- [[_COMMUNITY_Cluster 1015|Cluster 1015]]
+- [[_COMMUNITY_Cluster 1016|Cluster 1016]]
+- [[_COMMUNITY_Cluster 1017|Cluster 1017]]
+- [[_COMMUNITY_Cluster 1018|Cluster 1018]]
+- [[_COMMUNITY_Cluster 1019|Cluster 1019]]
+- [[_COMMUNITY_Cluster 1020|Cluster 1020]]
+- [[_COMMUNITY_Cluster 1021|Cluster 1021]]
+- [[_COMMUNITY_Cluster 1022|Cluster 1022]]
+- [[_COMMUNITY_Cluster 1023|Cluster 1023]]
+- [[_COMMUNITY_Cluster 1024|Cluster 1024]]
+- [[_COMMUNITY_Cluster 1025|Cluster 1025]]
+- [[_COMMUNITY_Cluster 1026|Cluster 1026]]
+- [[_COMMUNITY_Cluster 1027|Cluster 1027]]
+- [[_COMMUNITY_Cluster 1028|Cluster 1028]]
+- [[_COMMUNITY_Cluster 1029|Cluster 1029]]
+- [[_COMMUNITY_Cluster 1030|Cluster 1030]]
+- [[_COMMUNITY_Cluster 1031|Cluster 1031]]
+- [[_COMMUNITY_Cluster 1032|Cluster 1032]]
+- [[_COMMUNITY_Cluster 1033|Cluster 1033]]
+- [[_COMMUNITY_Cluster 1034|Cluster 1034]]
+- [[_COMMUNITY_Cluster 1035|Cluster 1035]]
+- [[_COMMUNITY_Cluster 1036|Cluster 1036]]
+- [[_COMMUNITY_Cluster 1037|Cluster 1037]]
+- [[_COMMUNITY_Cluster 1038|Cluster 1038]]
+- [[_COMMUNITY_Cluster 1039|Cluster 1039]]
+- [[_COMMUNITY_Cluster 1040|Cluster 1040]]
+- [[_COMMUNITY_Cluster 1041|Cluster 1041]]
+- [[_COMMUNITY_Cluster 1042|Cluster 1042]]
+- [[_COMMUNITY_Cluster 1043|Cluster 1043]]
+- [[_COMMUNITY_Cluster 1044|Cluster 1044]]
+- [[_COMMUNITY_Cluster 1045|Cluster 1045]]
+- [[_COMMUNITY_Cluster 1046|Cluster 1046]]
+- [[_COMMUNITY_Cluster 1047|Cluster 1047]]
+- [[_COMMUNITY_Cluster 1048|Cluster 1048]]
+- [[_COMMUNITY_Cluster 1049|Cluster 1049]]
+- [[_COMMUNITY_Cluster 1050|Cluster 1050]]
+- [[_COMMUNITY_Cluster 1051|Cluster 1051]]
+- [[_COMMUNITY_Cluster 1052|Cluster 1052]]
+- [[_COMMUNITY_Cluster 1053|Cluster 1053]]
+- [[_COMMUNITY_Cluster 1054|Cluster 1054]]
+- [[_COMMUNITY_Cluster 1055|Cluster 1055]]
+- [[_COMMUNITY_Cluster 1056|Cluster 1056]]
+- [[_COMMUNITY_Cluster 1057|Cluster 1057]]
+- [[_COMMUNITY_Cluster 1058|Cluster 1058]]
+- [[_COMMUNITY_Cluster 1059|Cluster 1059]]
+- [[_COMMUNITY_Cluster 1060|Cluster 1060]]
+- [[_COMMUNITY_Cluster 1061|Cluster 1061]]
+- [[_COMMUNITY_Cluster 1062|Cluster 1062]]
+- [[_COMMUNITY_Cluster 1063|Cluster 1063]]
+- [[_COMMUNITY_Cluster 1064|Cluster 1064]]
+- [[_COMMUNITY_Cluster 1065|Cluster 1065]]
+- [[_COMMUNITY_Cluster 1066|Cluster 1066]]
+- [[_COMMUNITY_Cluster 1067|Cluster 1067]]
+- [[_COMMUNITY_Cluster 1068|Cluster 1068]]
+- [[_COMMUNITY_Cluster 1069|Cluster 1069]]
+- [[_COMMUNITY_Cluster 1070|Cluster 1070]]
+- [[_COMMUNITY_Cluster 1071|Cluster 1071]]
+- [[_COMMUNITY_Cluster 1072|Cluster 1072]]
+- [[_COMMUNITY_Cluster 1073|Cluster 1073]]
+- [[_COMMUNITY_Cluster 1074|Cluster 1074]]
+- [[_COMMUNITY_Cluster 1075|Cluster 1075]]
+- [[_COMMUNITY_Cluster 1076|Cluster 1076]]
+- [[_COMMUNITY_Cluster 1077|Cluster 1077]]
+- [[_COMMUNITY_Cluster 1078|Cluster 1078]]
+- [[_COMMUNITY_Cluster 1079|Cluster 1079]]
+- [[_COMMUNITY_Cluster 1080|Cluster 1080]]
+- [[_COMMUNITY_Cluster 1081|Cluster 1081]]
+- [[_COMMUNITY_Cluster 1082|Cluster 1082]]
+- [[_COMMUNITY_Cluster 1083|Cluster 1083]]
+- [[_COMMUNITY_Cluster 1084|Cluster 1084]]
+- [[_COMMUNITY_Cluster 1085|Cluster 1085]]
+- [[_COMMUNITY_Cluster 1086|Cluster 1086]]
+- [[_COMMUNITY_Cluster 1087|Cluster 1087]]
+- [[_COMMUNITY_Cluster 1088|Cluster 1088]]
+- [[_COMMUNITY_Cluster 1089|Cluster 1089]]
+- [[_COMMUNITY_Cluster 1090|Cluster 1090]]
 
 ## God Nodes (most connected - your core abstractions)
-1. `UAP Evaluation Categories` - 102 edges
+1. `UAP Evaluation Categories` - 100 edges
 2. `J. Edgar Hoover` - 39 edges
 3. `UAP Evaluation Classification System` - 31 edges
 4. `All-domain Anomaly Resolution Office` - 25 edges
-5. `Edward White` - 20 edges
-6. `James McDivitt` - 20 edges
-7. `Kenneth Arnold` - 19 edges
-8. `Project Blue Book` - 18 edges
+5. `Project Blue Book` - 25 edges
+6. `Edward White` - 20 edges
+7. `James McDivitt` - 20 edges
+8. `Kenneth Arnold` - 19 edges
 9. `Director, FBI (J. Edgar Hoover)` - 18 edges
-10. `James McDivitt` - 17 edges
+10. `Project Sign` - 17 edges
 
 ## Surprising Connections (you probably didn't know these)
 - `FBI Photo B10` --semantically_similar_to--> `FBI Photo B1`  [INFERRED] [semantically similar]
@@ -1263,14 +1356,13 @@
 - **Green Fireball Investigation Team** — osi_17th_district, pursue_r2_dow_uap_d017_crozier_william, pursue_r2_dow_uap_d017_lapaz_lincoln, pursue_r2_dow_uap_d017_seely_ben [EXTRACTED 0.90]
 - **Military UAP Reporting and Analysis Flow** — osi_17th_district, pursue_r2_dow_uap_d017_lapaz_lincoln, pursue_r2_dow_uap_d017_rees_doyle [INFERRED 0.80]
 - **Green Fireball/UAP Phenomena in New Mexico** — pursue_r2_doe_uap_d002_green_lights, pursue_r2_dow_uap_d017_copper_particles, pursue_r2_dow_uap_d017_sandia_base [EXTRACTED 0.95]
-- **Scientific and Policy Deliberation on Alien Intelligence** — pursue_r1_59_214434_sp_16_7_18_1963_memo, pursue_r2_doe_uap_d002_james_tuck, pursue_r2_doe_uap_d003_john_warren [INFERRED 0.70]
 - **1949 Green Fireball Investigation Group** — project_grudge, pursue_r2_dow_uap_d017_lapaz_lincoln, pursue_r2_dow_uap_d017_los_alamos_conference, pursue_r2_dow_uap_d017_teller_edward [EXTRACTED 1.00]
-- **UAP Investigation and Intelligence Framework** — atic, cia_osi, iac, robertson_panel [EXTRACTED 0.90]
-- **Overhead Reconnaissance Program Development** — cl_282, kelly_johnson, project_aquatone, project_oxcart, u2_aircraft [EXTRACTED 0.95]
 - **AARO Responsive Materials Collection** — pursue_r2_record_index_dow_uap_pr052, pursue_r2_record_index_dow_uap_pr056, pursue_r2_record_index_dow_uap_pr058, pursue_r2_record_index_dow_uap_pr064, pursue_r2_record_index_dow_uap_pr065, pursue_r2_record_index_dow_uap_pr066, pursue_r2_record_index_dow_uap_pr067, pursue_r2_record_index_dow_uap_pr069, pursue_r2_record_index_dow_uap_pr070, pursue_r2_record_index_dow_uap_pr071, pursue_r2_record_index_dow_uap_pr098, pursue_r2_record_index_dow_uap_pr099 [EXTRACTED 1.00]
 - **NASA UAP Audio Records** — pursue_r2_record_index_nasa_uap_d008, pursue_r2_record_index_nasa_uap_d009, pursue_r2_record_index_nasa_uap_d010, pursue_r2_record_index_nasa_uap_d011, pursue_r2_record_index_nasa_uap_d012, pursue_r2_record_index_nasa_uap_d013, pursue_r2_record_index_nasa_uap_d014 [EXTRACTED 1.00]
 - **AARO Classified Network Video Collection** — pursue_r2_record_index_dow_uap_pr050, pursue_r2_record_index_dow_uap_pr051, pursue_r2_record_index_dow_uap_pr053, pursue_r2_record_index_dow_uap_pr054, pursue_r2_record_index_dow_uap_pr055, pursue_r2_record_index_dow_uap_pr057a, pursue_r2_record_index_dow_uap_pr057b, pursue_r2_record_index_dow_uap_pr059, pursue_r2_record_index_dow_uap_pr060, pursue_r2_record_index_dow_uap_pr061, pursue_r2_record_index_dow_uap_pr062, pursue_r2_record_index_dow_uap_pr063, pursue_r2_record_index_dow_uap_pr068, pursue_r2_record_index_dow_uap_pr072, pursue_r2_record_index_dow_uap_pr073, pursue_r2_record_index_dow_uap_pr074, pursue_r2_record_index_dow_uap_pr075, pursue_r2_record_index_dow_uap_pr076, pursue_r2_record_index_dow_uap_pr077, pursue_r2_record_index_dow_uap_pr078, pursue_r2_record_index_dow_uap_pr079, pursue_r2_record_index_dow_uap_pr080, pursue_r2_record_index_dow_uap_pr081, pursue_r2_record_index_dow_uap_pr082, pursue_r2_record_index_dow_uap_pr083, pursue_r2_record_index_dow_uap_pr084, pursue_r2_record_index_dow_uap_pr085, pursue_r2_record_index_dow_uap_pr086, pursue_r2_record_index_dow_uap_pr087, pursue_r2_record_index_dow_uap_pr088, pursue_r2_record_index_dow_uap_pr089, pursue_r2_record_index_dow_uap_pr090, pursue_r2_record_index_dow_uap_pr091, pursue_r2_record_index_dow_uap_pr092, pursue_r2_record_index_dow_uap_pr093, pursue_r2_record_index_dow_uap_pr094, pursue_r2_record_index_dow_uap_pr095, pursue_r2_record_index_dow_uap_pr096, pursue_r2_record_index_dow_uap_pr097 [EXTRACTED 1.00]
 - **Department of Energy UAP Records** — pursue_r2_record_index_doe_uap_d001, pursue_r2_record_index_doe_uap_d002, pursue_r2_record_index_doe_uap_d003 [EXTRACTED 1.00]
+- **UAP Investigation and Intelligence Framework** — atic, cia_osi, iac, robertson_panel [EXTRACTED 0.90]
+- **Overhead Reconnaissance Program Development** — cl_282, kelly_johnson, project_aquatone, project_oxcart, u2_aircraft [EXTRACTED 0.95]
 - **U-2 Development Core Group** — kelly_johnson, pursue_r3__cia_uap_003_edwin_land, pursue_r3__cia_uap_003_james_killian, pursue_r3__cia_uap_003_richard_bissell [EXTRACTED 0.90]
 - **Scientific Reconnaissance Advisory Flow** — project_aquatone, pursue_r3__cia_uap_003_beacon_hill_report, pursue_r3__cia_uap_003_tcp [INFERRED 0.85]
 - **U-2 Development Consortium** — kelly_johnson, pursue_r3_cia_uap_003_james_baker, pursue_r3_cia_uap_003_richard_bissell, pursue_r3_cia_uap_003_skunk_works [EXTRACTED 0.95]
@@ -1292,10 +1384,10 @@
 - **Unmanned Reconnaissance Evolution** — pursue_r3_cia_uap_003_aquiline, pursue_r3_cia_uap_003_axillary, pursue_r3_cia_uap_003_pine_ridge [EXTRACTED 0.90]
 - **U-2 Development and Management** — pursue_r3_cia_uap_003_baker_james_g, pursue_r3_cia_uap_003_bissell_richard, pursue_r3_cia_uap_003_johnson_clarence, pursue_r3_cia_uap_003_land_edwin_h [EXTRACTED 0.90]
 - **OXCART Program Leadership** — pursue_r3_cia_uap_003_bissell_richard, pursue_r3_cia_uap_003_johnson_clarence, pursue_r3_cia_uap_003_land_edwin_h, pursue_r3_cia_uap_003_parangosky_john [EXTRACTED 0.90]
+- **US Intelligence UFO Investigation Framework** — pursue_r3_cia_uap_004_space_message, pursue_r3_cia_uap_007_bluebook, pursue_r3_cia_uap_007_stork [INFERRED 0.85]
+- **Soviet Scientific Discourse on UFOs** — pursue_r3_cia_uap_008_kardashev, pursue_r3_cia_uap_008_sakharov, pursue_r3_cia_uap_010_kozyrev [INFERRED 0.90]
 - **Soviet Aerospace and Weapons Research** — aeroflot, inal_georgiyevich_akoyev, sary_shagan_range, system_300_aldan [INFERRED 0.80]
 - **UFO Intelligence and Analysis Framework** — air_technical_intelligence_center, project_blue_book, pursue_r3_cia_uap_014, pursue_r3_cia_uap_015 [INFERRED 0.85]
-- **Soviet Scientific Discourse on UFOs** — pursue_r3_cia_uap_008_kardashev, pursue_r3_cia_uap_008_sakharov, pursue_r3_cia_uap_010_kozyrev [INFERRED 0.90]
-- **US Intelligence UFO Investigation Framework** — pursue_r3_cia_uap_004_space_message, pursue_r3_cia_uap_007_bluebook, pursue_r3_cia_uap_007_stork [INFERRED 0.85]
 - **UAP Statistical Analysis Workflow** — pursue_r3_cia_uap_015_chi_square_test, pursue_r3_cia_uap_015_graphical_presentation, pursue_r3_cia_uap_015_ibm_equipment [EXTRACTED 0.95]
 - **Physical Model Derivation Process** — pursue_r3_cia_uap_015_flying_saucer_model, pursue_r3_cia_uap_015_good_unknowns, pursue_r3_cia_uap_015_sun_position_calc [INFERRED 0.85]
 - **UAP Statistical Reporting Structure** — pursue_r3_cia_uap_015_page_120, pursue_r3_cia_uap_015_page_121, pursue_r3_cia_uap_015_page_122, pursue_r3_cia_uap_015_page_123 [EXTRACTED 0.90]
@@ -1307,8 +1399,6 @@
 - **UAP Classification System** — pursue_r3_cia_uap_015_aircraft, pursue_r3_cia_uap_015_astronomical, pursue_r3_cia_uap_015_balloon, pursue_r3_cia_uap_015_birds, pursue_r3_cia_uap_015_clouds_dust, pursue_r3_cia_uap_015_insufficient_info, pursue_r3_cia_uap_015_light_phenom, pursue_r3_cia_uap_015_other, pursue_r3_cia_uap_015_psychological, pursue_r3_cia_uap_015_unknown [EXTRACTED 1.00]
 - **UAP Statistical Analysis Flow** — pursue_r3_cia_uap_015_page_142, pursue_r3_cia_uap_015_page_143, pursue_r3_cia_uap_015_page_144, pursue_r3_cia_uap_015_page_145, pursue_r3_cia_uap_015_page_146, pursue_r3_cia_uap_015_page_147 [INFERRED 0.90]
 - **UAP Evaluation Categories** — pursue_r3_cia_uap_015_aircraft, pursue_r3_cia_uap_015_astronomical, pursue_r3_cia_uap_015_balloon, pursue_r3_cia_uap_015_birds, pursue_r3_cia_uap_015_clouds_dust, pursue_r3_cia_uap_015_insufficient_info, pursue_r3_cia_uap_015_light_phenomena, pursue_r3_cia_uap_015_other, pursue_r3_cia_uap_015_psychological, pursue_r3_cia_uap_015_unknown [EXTRACTED 1.00]
-- **UAP Investigation Projects** — project_blue_book, project_grudge, project_sign [EXTRACTED 0.90]
-- **UAP Data Aggregation Flow** — pursue_r3_cia_uap_015_page_153, pursue_r3_cia_uap_015_page_154, pursue_r3_cia_uap_015_page_155, pursue_r3_cia_uap_015_page_156, pursue_r3_cia_uap_015_page_157, pursue_r3_cia_uap_015_page_158, pursue_r3_cia_uap_015_page_159 [EXTRACTED 1.00]
 - **UAP Statistical Analysis by Duration and Category** — pursue_r3_cia_uap_015_page_160, pursue_r3_cia_uap_015_page_161, pursue_r3_cia_uap_015_page_162, pursue_r3_cia_uap_015_page_163, pursue_r3_cia_uap_015_page_164, pursue_r3_cia_uap_015_page_165 [EXTRACTED 0.90]
 - **UAP Statistical Analysis Data Flow** — pursue_r3_cia_uap_015_page_166, pursue_r3_cia_uap_015_page_167, pursue_r3_cia_uap_015_page_168, pursue_r3_cia_uap_015_page_169, pursue_r3_cia_uap_015_page_170, pursue_r3_cia_uap_015_page_171 [EXTRACTED 1.00]
 - **UAP Evaluation Classification System** — pursue_r3_cia_uap_015_aircraft, pursue_r3_cia_uap_015_astronomical, pursue_r3_cia_uap_015_balloon, pursue_r3_cia_uap_015_birds, pursue_r3_cia_uap_015_clouds_dust, pursue_r3_cia_uap_015_insufficient_info, pursue_r3_cia_uap_015_light_phenom, pursue_r3_cia_uap_015_other, pursue_r3_cia_uap_015_psychological, pursue_r3_cia_uap_015_unknown [EXTRACTED 1.00]
@@ -1328,45 +1418,45 @@
 - **UAP Investigation and Data Processing Workflow** — pursue_r3_cia_uap_015_exhibit_b1, pursue_r3_cia_uap_015_exhibit_b2, pursue_r3_cia_uap_015_exhibit_b5, pursue_r3_cia_uap_015_exhibit_b8 [INFERRED 0.85]
 - **UFO Data Processing Pipeline** — pursue_r3_cia_uap_015_card_bible, pursue_r3_cia_uap_015_codes_for_work_sheet, pursue_r3_cia_uap_015_ibm_card, pursue_r3_cia_uap_015_us_air_force_technical_information_sheet, pursue_r3_cia_uap_015_work_sheet [EXTRACTED 0.95]
 - **International UFO Intelligence Collection** — pursue_r3_cia_uap_015_us_air_force_technical_information_sheet, pursue_r3_cia_uap_016_report, pursue_r3_cia_uap_017_report [INFERRED 0.80]
-- **1949 Army UAP Evaluation Process** — amc_project_group, evaluation_study_of_phenomenon, gsusa_id, gsusa_po_division [EXTRACTED 0.95]
 - **US Government UFO Investigation Lineage** — project_blue_book, project_grudge, project_sign [EXTRACTED 1.00]
 - **UFO Information Control Policy** — cia, janap_146, robertson_panel, usaf [EXTRACTED 0.90]
 - **Advanced Propulsion and Gravity Research** — avro_saucer, cia, gravity_research, usaf [INFERRED 0.85]
 - **Western US UAP Investigation Dossier** — dow_uap_d077, dow_uap_d078, dow_uap_d079, dow_uap_d080, dow_uap_d081, pursue_r3_dow_uap_d082, pursue_r3_dow_uap_d083 [EXTRACTED 1.00]
 - **Orbs Launching Orbs Behavioral Pattern** — mother_orb_phenomenon, red_orb_phenomenon, western_us_event_2023 [EXTRACTED 0.95]
+- **1949 Army UAP Evaluation Process** — amc_project_group, evaluation_study_of_phenomenon, gsusa_id, gsusa_po_division [EXTRACTED 0.95]
 - **UAP Intelligence Reporting and Analysis Flow** — pursue_r3_dow_uap_d085_cia_scientific_panel_report, pursue_r3_dow_uap_d086_usnavy_flying_discs_memo, pursue_r3_dow_uap_d087_usaf_analysis_flying_objects [EXTRACTED 0.95]
 - **Portland Oregon Incident Group** — incident_7, pursue_r3_dow_uap_d087_incident_13, pursue_r3_dow_uap_d087_incident_15 [EXTRACTED 0.90]
 - **Godman AFB Response Team** — pursue_r3_dow_uap_d087_capt_gary_w_carter, pursue_r3_dow_uap_d087_col_hix, pursue_r3_dow_uap_d087_quinton_a_blackwell [EXTRACTED 0.95]
 - **UFO Reporting and Investigation Flow** — pursue_r3_dow_uap_d087_checklist_ufo, pursue_r3_dow_uap_d087_dauphin_incident, pursue_r3_dow_uap_d087_godman_incident, pursue_r3_dow_uap_d087_wilsonville_incident [INFERRED 0.85]
 - **Clinton County Air Base Sightings** — pursue_r3_dow_uap_d087_incident_43a, pursue_r3_dow_uap_d087_incident_44 [EXTRACTED 1.00]
 - **Newfoundland Incident Cluster** — pursue_r3_dow_uap_d087_p160, pursue_r3_dow_uap_d087_p164, pursue_r3_dow_uap_d087_p170 [EXTRACTED 0.95]
-- **1947-1948 UAP Incident Cluster** — maury_island_incident, pursue_r3_dow_uap_d088_boise_object, pursue_r3_dow_uap_d088_green_river_incident, pursue_r3_dow_uap_d088_mantell_incident, pursue_r3_dow_uap_d088_norcatur_incident [INFERRED 0.85]
-- **Markham Lunar Rocket Theory** — pursue_r3_dow_uap_d088_boise_object, pursue_r3_dow_uap_d088_norcatur_incident, pursue_r3_dow_uap_d088_norman_garrett_markham [EXTRACTED 0.90]
 - **December 30, 1947 Multi-State Event** — incident_94, incident_96, incident_97 [EXTRACTED 0.95]
 - **Early 1948 Finland Sightings** — incident_100, incident_99 [EXTRACTED 0.90]
+- **1947-1948 UAP Incident Cluster** — mantell_incident, maury_island_incident, pursue_r3_dow_uap_d088_boise_object, pursue_r3_dow_uap_d088_green_river_incident, pursue_r3_dow_uap_d088_norcatur_incident [INFERRED 0.85]
+- **Markham Lunar Rocket Theory** — pursue_r3_dow_uap_d088_boise_object, pursue_r3_dow_uap_d088_norcatur_incident, pursue_r3_dow_uap_d088_norman_garrett_markham [EXTRACTED 0.90]
 - **Bakersfield Incident Cluster (March 1948)** — pursue_r3_dow_uap_d088_incident_107, pursue_r3_dow_uap_d088_incident_108, pursue_r3_dow_uap_d088_incident_109 [EXTRACTED 1.00]
 - **Delaware/Ashley Ohio Incident Cluster (April 1948)** — incident_112e, incident_112f, pursue_r3_dow_uap_d088_incident_112, pursue_r3_dow_uap_d088_incident_112a, pursue_r3_dow_uap_d088_incident_112b, pursue_r3_dow_uap_d088_incident_112c, pursue_r3_dow_uap_d088_incident_112d [EXTRACTED 1.00]
 - **Holloman AFB Sighting Group (April 1948)** — incident_122, pursue_r3_dow_uap_d088_incident_122a, pursue_r3_dow_uap_d088_incident_122b [EXTRACTED 1.00]
 - **Reports by Trained Military/Scientific Observers** — incident_122, incident_126, incident_131, incident_135 [INFERRED 0.80]
 - **July 24 1948 Sighting Cluster** — pursue_r3_dow_uap_d088_incident_144a, pursue_r3_dow_uap_d088_incident_144b, pursue_r3_dow_uap_d088_mckelvie_c_l [EXTRACTED 0.95]
-- **Colorado Springs 2022 UAP Incident** — pursue_r3_fbi_uap_d001_fd302, pursue_r3_fbi_uap_d002_fd1057, pursue_r3_fbi_uap_d003_rendering [EXTRACTED 1.00]
 - **Columbus Ohio July 1948 Sightings** — pursue_r3_dow_uap_d088_page161_incident, pursue_r3_dow_uap_d088_page164_incident, pursue_r3_dow_uap_d088_page166_incident [EXTRACTED 0.90]
+- **Colorado Springs 2022 UAP Incident** — pursue_r3_fbi_uap_d001_fd302, pursue_r3_fbi_uap_d002_fd1057, pursue_r3_fbi_uap_d003_rendering [EXTRACTED 1.00]
 - **Northeastern US UAP Investigation (2024)** — fbi_uap_d005, fbi_uap_d006, fbi_uap_d007, fbi_uap_d008 [EXTRACTED 1.00]
 - **Northeastern Orb Sighting (2026)** — fbi_uap_d009, fbi_uap_d010, fbi_uap_pr004 [EXTRACTED 1.00]
 - **1952 Passaic UFO Investigation** — fbi_newark, george_j_stock, john_h_riley, pursue_r3_fbi_uap_d012_charles_gregg, pursue_r3_fbi_uap_d012_osi [EXTRACTED 0.90]
 - **UFO Contactee Movement** — gabriel_green, george_king, pursue_r3_fbi_uap_d012_afsca, wesley_bateman [EXTRACTED 0.95]
 - **UFO Investigation and Reporting Entities** — fbi_newark, project_blue_book, pursue_r3_fbi_uap_d012_nicap, pursue_r3_fbi_uap_d012_osi_newark [INFERRED 0.85]
+- **UFO Reporting and Investigation Flow** — pursue_r3_fbi_uap_d012_d_louis_barra_jr, pursue_r3_fbi_uap_d012_fred_v_crowley, pursue_r3_fbi_uap_d012_james_r_laughlin, pursue_r3_fbi_uap_d012_john_j_creamer_jr, pursue_r3_fbi_uap_d012_louis_f_hiban_jr, pursue_r3_fbi_uap_d012_ma_sroda, pursue_r3_fbi_uap_d012_r_w_bachman, pursue_r3_fbi_uap_d012_william_e_gagnon, pursue_r3_fbi_uap_d012_william_h_rockett, pursue_r3_fbi_uap_d012_william_p_nugent [EXTRACTED 0.90]
+- **Civilian UFO Research Organizations** — pursue_r3_fbi_uap_d012_afsca, pursue_r3_fbi_uap_d012_nicap, pursue_r3_fbi_uap_d012_nj_association_aerial_phenomena [EXTRACTED 0.95]
 - **FBI-USAF UAP Investigation Collaboration** — fbi_seattle_field_office, usaf_20th_osi, usaf_25th_air_division [EXTRACTED 0.95]
+- **FBI Historical UAP Investigation Flow** — pursue_r3_fbi_uap_d013_page_29_sa_la_thompson, pursue_r3_fbi_uap_d013_page_30_sa_j_francis_sullivan, pursue_r3_fbi_uap_d013_page_31_25th_air_division [INFERRED 0.80]
+- **Western US Event 2023 Digital Renderings** — pursue_r3_fbi_uap_d014_rendering, pursue_r3_fbi_uap_d015_rendering, pursue_r3_fbi_uap_d016_rendering, pursue_r3_fbi_uap_d017_rendering, pursue_r3_fbi_uap_d018_rendering, pursue_r3_fbi_uap_d019_rendering, pursue_r3_fbi_uap_d020_rendering, pursue_r3_fbi_uap_d021_rendering, pursue_r3_fbi_uap_d022_rendering, pursue_r3_fbi_uap_d023_rendering [EXTRACTED 1.00]
 - **Mercury Program Scientific Observations** — airglow_layer, gordon_cooper, john_h_glenn, luminous_particles, scott_carpenter [EXTRACTED 0.90]
 - **Atmospheric Phenomena Analysis** — airglow_layer, bob_e_watt, j_a_okeefe, maurice_dubin, nitrogen_peroxide_hypothesis [EXTRACTED 0.85]
-- **Western US Event 2023 Digital Renderings** — pursue_r3_fbi_uap_d014_rendering, pursue_r3_fbi_uap_d015_rendering, pursue_r3_fbi_uap_d016_rendering, pursue_r3_fbi_uap_d017_rendering, pursue_r3_fbi_uap_d018_rendering, pursue_r3_fbi_uap_d019_rendering, pursue_r3_fbi_uap_d020_rendering, pursue_r3_fbi_uap_d021_rendering, pursue_r3_fbi_uap_d022_rendering, pursue_r3_fbi_uap_d023_rendering [EXTRACTED 1.00]
-- **FBI Historical UAP Investigation Flow** — pursue_r3_fbi_uap_d013_page_29_sa_la_thompson, pursue_r3_fbi_uap_d013_page_30_sa_j_francis_sullivan, pursue_r3_fbi_uap_d013_page_31_25th_air_division [INFERRED 0.80]
 - **Scientific Debriefing Participants** — pursue_r3__nasa_uap_d015_armstrong, pursue_r3__nasa_uap_d015_cooper, pursue_r3__nasa_uap_d015_okeefe, pursue_r3__nasa_uap_d015_roach, pursue_r3__nasa_uap_d015_soules, pursue_r3__nasa_uap_d015_voas [EXTRACTED 1.00]
 - **Mercury-Atlas 9 Scientific Experiments** — pursue_r3__nasa_uap_d015_balloon_drag_experiment, pursue_r3__nasa_uap_d015_ground_light_experiment, pursue_r3__nasa_uap_d015_mit_horizon_photography, pursue_r3__nasa_uap_d015_weather_photography, radiation_experiment [EXTRACTED 1.00]
 - **Analysis of Orbital Atmospheric Phenomena** — airglow_phenomenon, smog_belt_africa, zodiacal_light [EXTRACTED 0.90]
 - **Factors Affecting Astronaut Visibility** — fireflies_frost_particles, walter_schirra, window_clouding_issue [EXTRACTED 0.85]
-- **UFO Reporting and Investigation Flow** — pursue_r3_fbi_uap_d012_d_louis_barra_jr, pursue_r3_fbi_uap_d012_fred_v_crowley, pursue_r3_fbi_uap_d012_james_r_laughlin, pursue_r3_fbi_uap_d012_john_j_creamer_jr, pursue_r3_fbi_uap_d012_louis_f_hiban_jr, pursue_r3_fbi_uap_d012_ma_sroda, pursue_r3_fbi_uap_d012_r_w_bachman, pursue_r3_fbi_uap_d012_william_e_gagnon, pursue_r3_fbi_uap_d012_william_h_rockett, pursue_r3_fbi_uap_d012_william_p_nugent [EXTRACTED 0.90]
-- **Civilian UFO Research Organizations** — pursue_r3_fbi_uap_d012_afsca, pursue_r3_fbi_uap_d012_nicap, pursue_r3_fbi_uap_d012_nj_association_aerial_phenomena [EXTRACTED 0.95]
 - **Planetarium Flight Reconstruction Plan** — pursue_r3_nasa_uap_d015_gill, pursue_r3_nasa_uap_d015_morehead_planetarium, pursue_r3_nasa_uap_d015_schirra, pursue_r3_nasa_uap_d015_shoemaker [EXTRACTED 0.90]
 - **Analysis of Orbital Visual Phenomena** — airglow_layer, pursue_r3_nasa_uap_d015_dunkelman, pursue_r3_nasa_uap_d015_o_keefe, pursue_r3_nasa_uap_d015_schirra [EXTRACTED 0.95]
 - **Comparison of Astronaut Observations and Satellite Data** — pursue_r3_nasa_uap_d015_nordberg, pursue_r3_nasa_uap_d015_schirra, pursue_r3_nasa_uap_d015_tennyson, pursue_r3_nasa_uap_d015_tiros_satellite [EXTRACTED 0.85]
@@ -1399,17 +1489,17 @@
 - **Post-Flight Hardware and Systems Analysis** — camera_malfunction_analysis, radiation_experiment, thruster_glow_phenomenon [INFERRED 0.85]
 - **Space-Based Visual Observations** — pursue_r3_nasa_uap_d018_airglow, pursue_r3_nasa_uap_d018_minuteman_icbm, zodiacal_light [EXTRACTED 0.90]
 - **Gemini Program Missions and Personnel** — pursue_r3_nasa_uap_d018_conrad, pursue_r3_nasa_uap_d018_cooper, pursue_r3_nasa_uap_d018_gemini_4, pursue_r3_nasa_uap_d018_gemini_5, pursue_r3_nasa_uap_d018_mcdivitt, pursue_r3_nasa_uap_d018_white [EXTRACTED 1.00]
+- **Gemini Program Photographic Data Management** — jocelyn_r_gill, pursue_r3_nasa_uap_d018_page_165, pursue_r3_nasa_uap_d018_page_171, s5_experiment, willis_b_foster [INFERRED 0.85]
 - **Launch and Ascent Sequence** — pursue_r3_nasa_uap_d019_beco, pursue_r3_nasa_uap_d019_engine_2_ignition, pursue_r3_nasa_uap_d019_seco, pursue_r3_nasa_uap_d019_staging [EXTRACTED 1.00]
 - **Guidance and Navigation Anomalies** — horizon_scanner, pursue_r3_nasa_uap_d019_platform_alignment, pursue_r3_nasa_uap_d019_rep_ejection [INFERRED 0.85]
 - **Gemini 5 Technical Debriefing Process** — charles_conrad_jr, l_gordon_cooper_jr, pursue_r3_nasa_uap_d019_page_1, pursue_r3_nasa_uap_d019_page_11, pursue_r3_nasa_uap_d019_page_6 [EXTRACTED 1.00]
-- **Gemini Program Photographic Data Management** — jocelyn_r_gill, pursue_r3_nasa_uap_d018_page_165, pursue_r3_nasa_uap_d018_page_171, s5_experiment, willis_b_foster [INFERRED 0.85]
 - **Gemini 5 Mission Operations** — pursue_r3_nasa_uap_d019_conrad, pursue_r3_nasa_uap_d019_cooper, pursue_r3_nasa_uap_d019_flight_plan, pursue_r3_nasa_uap_d019_mcc [EXTRACTED 1.00]
 - **Spacecraft Subsystem Management** — pursue_r3_nasa_uap_d019_fuel_cell, pursue_r3_nasa_uap_d019_oams, pursue_r3_nasa_uap_d019_platform, pursue_r3_nasa_uap_d019_rcs [EXTRACTED 0.95]
 - **Reentry Preparation and Execution** — pursue_r3_nasa_uap_d019_computer, pursue_r3_nasa_uap_d019_rcs, pursue_r3_nasa_uap_d019_retrofire, pursue_r3_nasa_uap_d019_stowage [EXTRACTED 0.95]
 - **Navigation and Control Systems Interaction** — pursue_r3_nasa_uap_d019_computer, pursue_r3_nasa_uap_d019_dcs, pursue_r3_nasa_uap_d019_platform [INFERRED 0.80]
+- **Reentry Guidance and Control Loop** — pursue_r3_nasa_uap_d019_8_ball, pursue_r3_nasa_uap_d019_computer, pursue_r3_nasa_uap_d019_rcs [EXTRACTED 0.95]
 - **Spacecraft Attitude Control Modes** — direct_mode, platform_mode, pulse_mode, rate_command [EXTRACTED 0.95]
 - **OAMS Thruster Degradation and Power Management** — cryo_fuel_cell, direct_mode, oams [INFERRED 0.85]
-- **Reentry Guidance and Control Loop** — pursue_r3_nasa_uap_d019_8_ball, pursue_r3_nasa_uap_d019_computer, pursue_r3_nasa_uap_d019_rcs [EXTRACTED 0.95]
 - **Navigation Platform Alignment Flow** — pursue_r3_nasa_uap_d019_8_ball, pursue_r3_nasa_uap_d020_oams, pursue_r3_nasa_uap_d020_platform [INFERRED 0.85]
 - **Gemini 5 Technical Debriefing** — pursue_r3_nasa_uap_d020_conrad, pursue_r3_nasa_uap_d020_cooper, pursue_r3_nasa_uap_d020_fuel_cells, pursue_r3_nasa_uap_d020_onboard_computer [EXTRACTED 1.00]
 - **Gemini 5 Mission Debriefing Topics** — pursue_r3_nasa_uap_d020_food_system, pursue_r3_nasa_uap_d020_sleep_cycle, pursue_r3_nasa_uap_d020_urine_system, pursue_r3_nasa_uap_d020_visual_sightings [EXTRACTED 0.95]
@@ -1428,34 +1518,65 @@
 - **Suit and ECS Evaluation** — pursue_r3_nasa_uap_d021_borman, pursue_r3_nasa_uap_d021_ecs, pursue_r3_nasa_uap_d021_g5c_suit, pursue_r3_nasa_uap_d021_lovell [INFERRED 0.85]
 - **Gemini 7 Scientific Experiments Suite** — pursue_r3_nasa_uap_d021_d4_7, pursue_r3_nasa_uap_d021_d5, pursue_r3_nasa_uap_d021_d9, pursue_r3_nasa_uap_d021_m1, pursue_r3_nasa_uap_d021_m5_7, pursue_r3_nasa_uap_d021_m8, pursue_r3_nasa_uap_d021_msc4 [EXTRACTED 1.00]
 - **Orbital Visual Observations and Anomalies** — pursue_r3_nasa_uap_d021_d5, pursue_r3_nasa_uap_d021_gemini_6, pursue_r3_nasa_uap_d021_visual_sightings [INFERRED 0.80]
-- **Gemini IX Scientific Experiments** — pursue_r3_nasa_uap_d022_amu, pursue_r3_nasa_uap_d022_s001, pursue_r3_nasa_uap_d022_s011, pursue_r3_nasa_uap_d022_s012 [EXTRACTED 0.95]
 - **Gemini VII Training and Systems Review** — pursue_r3_nasa_uap_d021_13_5, pursue_r3_nasa_uap_d021_14_0, pursue_r3_nasa_uap_d021_gms [INFERRED 0.85]
+- **Gemini IX Scientific Experiments** — pursue_r3_nasa_uap_d022_amu, pursue_r3_nasa_uap_d022_s001, pursue_r3_nasa_uap_d022_s011, pursue_r3_nasa_uap_d022_s012 [EXTRACTED 0.95]
 - **Gemini IX Scientific Experiments** — pursue_r3_nasa_uap_d022_s10, pursue_r3_nasa_uap_d022_s11, pursue_r3_nasa_uap_d022_s12, pursue_r3_nasa_uap_d022_s28 [EXTRACTED 1.00]
-- **Space Debris Misidentification Pattern** — pursue_r3_usg_uap_d001_apollo_12_ufo, pursue_r3_usg_uap_d001_mcdivitt_ufo, pursue_r3_usg_uap_d001_proton_3 [INFERRED 0.85]
 - **Western United States Event (October 2023)** — dow_uap_d077, dow_uap_d078, dow_uap_d079, dow_uap_d080, dow_uap_d081, dow_uap_d082, dow_uap_d083, fbi_uap_d014, fbi_uap_d015, fbi_uap_d016, fbi_uap_d017, fbi_uap_d018, fbi_uap_d019, fbi_uap_d020, fbi_uap_d021, fbi_uap_d022, fbi_uap_d023, fbi_uap_pr005, fbi_uap_pr006 [EXTRACTED 1.00]
 - **Northeastern United States Orb Sightings (2021-2026)** — fbi_uap_d004, fbi_uap_d005, fbi_uap_d006, fbi_uap_d007, fbi_uap_d008, fbi_uap_d009, fbi_uap_d010, fbi_uap_pr001, fbi_uap_pr002, fbi_uap_pr003, fbi_uap_pr004 [EXTRACTED 1.00]
 - **Colorado Springs UAP Incident (2022)** — fbi_uap_d001, fbi_uap_d002, fbi_uap_d003, ica_uap_d001 [EXTRACTED 1.00]
+- **Space Debris Misidentification Pattern** — pursue_r3_usg_uap_d001_apollo_12_ufo, pursue_r3_usg_uap_d001_mcdivitt_ufo, pursue_r3_usg_uap_d001_proton_3 [INFERRED 0.85]
 - **Astronaut UFO Sighting Claims and Denials** — buzz_aldrin, eugene_cernan, gordon_cooper, neil_armstrong, pursue_r3_usg_uap_d001_wally_schirra [EXTRACTED 0.90]
 - **Congressional Inquiries to NASA regarding UAPs** — pursue_r3_usg_uap_d001_charles_grassley, pursue_r3_usg_uap_d001_nasa_legislative_affairs, pursue_r3_usg_uap_d001_olympia_snowe [EXTRACTED 1.00]
 - **UFO Correspondence Referral Flow** — pursue_r3_usg_uap_d001_fact_sheet_017, pursue_r3_usg_uap_d001_nasa, pursue_r3_usg_uap_d001_white_house [EXTRACTED 0.90]
+- **Green Fireball Investigation Group** — pursue_r4_doe_uap_d004_captain_neef, pursue_r4_doe_uap_d004_comdr_mandelkorn, pursue_r4_doe_uap_d004_dr_bradbury, pursue_r4_doe_uap_d004_dr_lapaz, pursue_r4_doe_uap_d004_dr_teller [EXTRACTED 1.00]
+- **UFO Investigation and Public Relations Framework** — project_blue_book, pursue_r4_dow_uap_d092_sab_ad_hoc_committee, pursue_r4_dow_uap_d092_safoi, pursue_r4_dow_uap_d092_uoc_committee [EXTRACTED 0.90]
+- **Robertson Panel Scientific Review Group** — h_p_robertson, pursue_r4_dow_uap_d092_project_twinkle, pursue_r4_dow_uap_d092_tremonton_siting, robertson_panel [EXTRACTED 0.95]
+- **Cold War UAP Intelligence and Scientific Analysis** — lincoln_lapaz, pursue_r1_59_214434_sp_16_7_18_1963_maxwell_w_hunter_ii, pursue_r4_cia_uap_d021_h_scoville_jr [INFERRED 0.90]
+- **UAP Reporting and Investigation Framework** — pursue_r4_dow_uap_d089_range_fouler_debrief, pursue_r4_dow_uap_d090_range_fouler_debrief, pursue_r4_dow_uap_d091_range_fouler_debrief [EXTRACTED 1.00]
+- **Scientific Review and Methodology Flow** — condon_report, pursue_r4_dow_uap_d092_sab_ad_hoc_committee, pursue_r4_dow_uap_d092_university_of_colorado [EXTRACTED 0.95]
+- **UFO Configuration Categories** — pursue_r4_dow_uap_d093_appendix_a, pursue_r4_dow_uap_d093_appendix_c, pursue_r4_dow_uap_d093_study_203 [EXTRACTED 0.90]
+- **Soviet Origin and Tactics Theory** — guenther_bock, horten_229, soviet_union [EXTRACTED 0.85]
+- **Hypothesized Origins of Unidentified Flying Objects** — concept_flying_wing, entity_ussr, horten_229 [EXTRACTED 0.95]
+- **Experimental Aircraft as Explanations for Sightings** — aircraft_northrop_yb49, aircraft_vought_xf5u1, horten_229 [EXTRACTED 0.90]
+- **VTOL Circular Aircraft Development Program** — pursue_r4_dow_uap_d095_a_v_roe_canada, pursue_r4_dow_uap_d095_avro_project_y2, pursue_r4_dow_uap_d095_jack_frost, pursue_r4_dow_uap_d095_project_ladybird, pursue_r4_dow_uap_d095_project_silverbug [EXTRACTED 0.95]
+- **Investigation of German/Soviet Saucer Technology** — pursue_r4_dow_uap_d095_bruno_berberich, pursue_r4_dow_uap_d095_c_w_bollum, pursue_r4_dow_uap_d095_robert_miethe [EXTRACTED 0.90]
+- **1955 UAP Evaluation and Reporting Flow** — pursue_r4_dow_uap_d095_air_staff_summary_sheet_28_jul_55, pursue_r4_dow_uap_d095_memorandum_for_record_11_jul_55, pursue_r4_dow_uap_d095_transmittal_letter_rcaf [EXTRACTED 0.90]
+- **AN/FPS-17 Meteor Data Dissemination** — an_fps_17, atic, pursue_r4_dow_uap_d095_memorandum_meteor_data [EXTRACTED 0.90]
+- **UFO Public Inquiry Response Flow** — pursue_r4__dow_uap_d096_afoin, pursue_r4__dow_uap_d096_albert_d_fowler, pursue_r4__dow_uap_d096_joe_w_kelly, pursue_r4__dow_uap_d096_joseph_a_bloomer [EXTRACTED 0.90]
+- **Sardis Lake Object Recovery Coordination** — pursue_r4__dow_uap_d096_afoin, pursue_r4__dow_uap_d096_albert_d_fowler, pursue_r4__dow_uap_d096_j_e_windham [EXTRACTED 0.95]
+- **Public Requests for UFO Information** — pursue_r4_dow_uap_d096_george_tumarkin, pursue_r4_dow_uap_d096_john_henderson, pursue_r4_dow_uap_d096_laura_h_weiss, pursue_r4_dow_uap_d096_leon_davidson, pursue_r4_dow_uap_d096_lola_bergman, pursue_r4_dow_uap_d096_maurice_j_weiss, pursue_r4_dow_uap_d096_rose_b_de_novacek, pursue_r4_dow_uap_d096_thomas_a_russell [EXTRACTED 1.00]
+- **UFO Information Requests and Responses** — pursue_r4_dow_uap_d096_allen_martancik, pursue_r4_dow_uap_d096_frank_c_craighead, pursue_r4_dow_uap_d096_glenn_reynolds, pursue_r4_dow_uap_d096_michael_w_kruvant, pursue_r4_dow_uap_d096_ufo_summary [EXTRACTED 0.90]
+- **UFO Inquiry Response Flow** — pursue_r4_dow_uap_d096_atic, pursue_r4_dow_uap_d096_bloomer_joseph_a, pursue_r4_dow_uap_d096_ufo_program [EXTRACTED 0.90]
+- **UFO Public Inquiry Response Process** — pursue_r4_dow_uap_d096_afoin, pursue_r4_dow_uap_d096_safll, pursue_r4_dow_uap_d096_usaf_ufo_summary [EXTRACTED 0.90]
+- **CIRVIS Regulation Revision** — cirvis, pursue_r4_dow_uap_d096_afoin, pursue_r4_dow_uap_d096_conad [EXTRACTED 0.90]
+- **UAP Reporting and Analysis Workflow** — afcin_x, afoin_4, atic, project_blue_book [INFERRED 0.90]
+- **International UAP Intelligence Coordination** — afcin_x, conad, janap_146c [EXTRACTED 0.95]
+- **UFO Reporting and Response Flow** — project_bluebook, pursue_r4_dow_uap_d096_atic, pursue_r4_dow_uap_d096_directorate_of_intelligence, pursue_r4_dow_uap_d096_ufo_summary [EXTRACTED 0.95]
+- **Project Sign Investigation Components** — incident_40, project_sign, pursue_r4_biology_of_the_flying_saucer, pursue_r4_irving_langmuir [EXTRACTED 0.90]
+- **Colonial Airlines Sighting September 6, 1955** — pursue_r4_dow_uap_d096_f_w_cushing, pursue_r4_dow_uap_d096_g_m_darby, pursue_r4_dow_uap_d096_g_r_janas [EXTRACTED 1.00]
+- **Evolution of Low-Aspect-Ratio Aircraft** — pursue_r4_dow_uap_d097_annular_wing, pursue_r4_dow_uap_d097_delta_wing, pursue_r4_dow_uap_d097_disc_wing [EXTRACTED 0.95]
+- **UFO Incident Reporting and Inquiry** — pursue_r4_fbi_uap_d014_fbi, pursue_r4_fbi_uap_d014_larry_bryant, pursue_r4_fbi_uap_d014_tom_mitchell [EXTRACTED 0.90]
+- **STS-80 Unidentified Object Image Series** — pursue_r4_record_index_nasa_uap_d030, pursue_r4_record_index_nasa_uap_d031, pursue_r4_record_index_nasa_uap_d032 [EXTRACTED 1.00]
+- **Apollo 14 Post-Mission Debriefing** — pursue_r4_record_index_nasa_uap_d026, pursue_r4_record_index_nasa_uap_d027 [EXTRACTED 1.00]
+- **Apollo 17 Post-Mission Medical Debriefing** — pursue_r4_record_index_nasa_uap_d028, pursue_r4_record_index_nasa_uap_d029 [EXTRACTED 1.00]
 
-## Communities (998 total, 746 thin omitted)
+## Communities (1091 total, 813 thin omitted)
 
 ### Community 0 - "UAP Evaluation Taxonomy (CIA-015 Categories)"
 Cohesion: 0.03
 Nodes (73): 0-Balloon, 1-Astronomical, 2-Aircraft, 3-Light Phenom., 4-Birds, 5-Clouds, Dust, etc., 6-Insufficient Info., 7-Psychological (+65 more)
 
-### Community 1 - "Lincoln LaPaz & the Green Fireball Investigations"
+### Community 1 - "Oak Ridge UFO Incident & Army Air Forces Intelligence, 1947"
 Cohesion: 0.05
-Nodes (44): Green Fireball Phenomenon, Dr. Lincoln LaPaz, Los Alamos Scientific Laboratory / Reservation, 17th District Office of Special Investigations (OSI), Incident #101: Norcatur, Kansas (18 Feb 1948), Incident #102: Green River, Utah (18 Feb 1948), Incident #103: Green River, Utah (18 Feb 1948), Leland Sammons (+36 more)
+Nodes (44): A. H. Belmont, Army Air Forces Intelligence, Bureau Bulletin No. 42, Series 1947, E. G. Fitch Memorandum (July 10, 1947), Major General Joseph F. Carroll, D. M. Ladd, Colonel R. H. Smith, E. G. Fitch (+36 more)
 
 ### Community 2 - "Gemini 4 Mission Debrief (NASA-D017)"
 Cohesion: 0.05
 Nodes (41): Cryogenic Oxygen System, Horizon Scanner, Incremental Velocity Indicators (IVI), Platform Control Mode, Accutron 24-hour Clock, Apollo Yaw Orientation Test, Communications System, D-6: Target Acquisition (+33 more)
 
-### Community 3 - "Air Intelligence Requirements Memo 4 (FBI Section 5)"
+### Community 3 - "AFSCA Contactee Movement"
 Cohesion: 0.06
-Nodes (38): FBI Case File 62-HQ-83894 Serial 164, AF Form 112, Air Intelligence Requirements Memorandum Number 4: Unconventional Aircraft, Air Intelligence Requirements Memorandum Number 4, Air Materiel Command (AMC), Department of the Army Collection Memorandum Number 7, Major General C. P. Cabell, Department of the Air Force Directorate of Intelligence (+30 more)
+Nodes (40): AFSCA Convention (July 8-10, 1966), Amalgamated Flying Saucer Clubs of America, Inc., Dr. Daniel W. Fry, Dr. Frank E. Stranges, Gabriel Green, Amalgamated Flying Saucer Clubs of America (AFSCA), Understanding, Inc., Mollie Thompson (+32 more)
 
 ### Community 4 - "Atlas/Delta Launch Failure Analysis (DOW-D48)"
 Cohesion: 0.06
@@ -1465,989 +1586,1093 @@ Nodes (36): Atlas IIAS Launch Vehicle, Breakup Dynamic Pressure (qα), DAMP (Ris
 Cohesion: 0.06
 Nodes (35): All-domain Anomaly Resolution Office (AARO), U.S. Capability Deconfliction (Blue Force), DOW-UAP-D077: AARO Unresolved Case Analysis Update: Western United States Event, DOW-UAP-D079, DOW-UAP-D080, DOW-UAP-D081: Narrative Statement 3, Western United States Event, 2023, FBI-UAP-D014: Digital Rendering, Narrative Statement 1-1, Western United States Event, 2023, FBI-UAP-D015: Digital Rendering, Narrative Statement 1-2, Western United States Event, 2023 (+27 more)
 
-### Community 6 - "AFSCA Contactee Movement"
-Cohesion: 0.07
-Nodes (33): AFSCA Convention (July 8-10, 1966), Amalgamated Flying Saucer Clubs of America, Inc., Dr. Daniel W. Fry, Dr. Frank E. Stranges, Gabriel Green, Amalgamated Flying Saucer Clubs of America (AFSCA), Understanding, Inc., Mollie Thompson (+25 more)
-
-### Community 7 - "2023-24 Congressional UAP Hearings"
+### Community 6 - "2023-24 Congressional UAP Hearings (Grusch, Fravor, Elizondo)"
 Cohesion: 0.06
-Nodes (32): Advanced Aerospace Threat Identification Program (AATIP), All-Domain Anomaly Resolution Office (AARO), Americans for Safe Aerospace, Bigelow Aerospace, All-domain Anomaly Resolution Office (AARO), Tim Burchett, DoD Prepublication and Security Review (DODSR), David Fravor (+24 more)
+Nodes (32): Advanced Aerospace Threat Identification Program (AATIP), All-Domain Anomaly Resolution Office (AARO), Americans for Safe Aerospace, Bigelow Aerospace, David Fravor, David Grusch, All-domain Anomaly Resolution Office (AARO), Tim Burchett (+24 more)
 
-### Community 8 - "Minuteman Launch Summary, Feb 2000 (DOW-D49)"
+### Community 7 - "Minuteman Launch Summary, Feb 2000 (DOW-D49)"
 Cohesion: 0.09
 Nodes (27): Advanced Ballistic Re-entry System (ABRES), Air Force Systems Command (AFSC), Atlas Missile Program, Minuteman B, Minuteman F, Minuteman Missile Program, Operational Test (OT) Phase I, Advanced Ballistic Re-entry System (ABRES) (+19 more)
 
-### Community 9 - "J. Edgar Hoover's FBI Field-Office Network"
+### Community 8 - "J. Edgar Hoover's FBI Field-Office Network"
 Cohesion: 0.08
 Nodes (25): Alaska Air Command, J. Edgar Hoover, Major General George C. McDonald, SAC, Salt Lake City, T. H. Barkow, SAC, Butte, John E. Lang, Civil Aeronautics Board (+17 more)
 
-### Community 10 - "Muroc & Portland Incident Cluster (DOW-D087)"
+### Community 9 - "Muroc & Portland Incident Cluster (DOW-D087)"
 Cohesion: 0.09
 Nodes (22): Alpheas D. Powell, Incident #1: Muroc Air Field (1947-07-08), Incident #2: Muroc Army Air Field (1947-07-08), Incident #3: Muroc Army Air Field (1947-07-07), Incident #4: Rogers Dry Lake (1947-07-08), Incident #5: Portland, Oregon (1947-07-04), Incident 56: Birmingham, AL, Incident #7: Portland, Oregon (1947-07-04) (+14 more)
 
-### Community 11 - "UAP Category Taxonomy (Evaluation System)"
+### Community 10 - "UAP Category Taxonomy (Evaluation System)"
 Cohesion: 0.10
 Nodes (21): Page 137: Evaluation Tables, Page 138: Evaluation Tables (Continued), Page 139: Evaluation Tables (Continued), Page 140: Evaluation Tables (Continued), Page 141: Evaluation Tables (Continued), Evaluation of All Sightings (1947-1952) - Page 212, Evaluation of All Sightings (1947-1952) - Page 213, Evaluation of All Sightings (1947-1952) - Page 214 (+13 more)
 
-### Community 12 - "French COMETA Committee & GEPAN/SEPRA"
+### Community 11 - "French COMETA Committee & GEPAN/SEPRA"
 Cohesion: 0.10
 Nodes (20): Committee for the Study of Anomalous Aerial Phenomena (CEFAA), COMETA (Committee for In-Depth Studies), Extraterrestrial Hypothesis (ETH), GEPAN / SEPRA, Institut des Hautes Etudes de Défense Nationale (IHEDN), Leslie Kean, Andre Lebeau, General Denis Letty (+12 more)
 
-### Community 13 - "Mantell Incident & Skyhook Balloon"
+### Community 12 - "Mantell Incident & Skyhook Balloon"
 Cohesion: 0.10
 Nodes (20): Clinton County Air Force Base, Godman Field, Fort Knox, Incident #30 (7 January 1948), Incident #33 (7 January 1948 - Mantell Case), Incident #48 (7 January 1948), Lockbourne Army Air Base, Henry J. Taylor, Office of Naval Research (+12 more)
 
-### Community 14 - "DOW Middle East Mission Reports (Syria/Gulf of Aden)"
+### Community 13 - "DOW Middle East Mission Reports (Syria/Gulf of Aden)"
 Cohesion: 0.11
 Nodes (19): All-domain Anomaly Resolution Office (AARO), DOW-UAP-D12 Mission Report, MG Brandon R. Tegtmeier, Operation Inherent Resolve, DOW-UAP-D74 Mission Report, DOW-UAP-D75 Mission Report, DOW-UAP-D8 Mission Report, DOW-UAP-PR20 Unresolved UAP Report (+11 more)
 
-### Community 15 - "Gordon Cooper Mission - Zodiacal Light (NASA-D015)"
+### Community 14 - "1949 Los Alamos Green Fireball Conference & 1955 CIA Sightings (DOE-D004/CIA-D020-21, R4)"
+Cohesion: 0.12
+Nodes (19): Air Force Office of Special Investigation (AFOSI), Office of the Undersecretary of Defense for Intelligence and Security, Colonel Corso, UAP Incident INDOPACOM (2025), UAP Incident Pacific Time Zone (2023), UAP Incident Oval/Orb (2024), Azerbaijan Unconventional Aircraft Sighting 1955, Senator Richard Russell (+11 more)
+
+### Community 15 - "Project Blue Book & Air Technical Intelligence Center"
+Cohesion: 0.12
+Nodes (18): AFOIN-1B2, AFOIN-4, Air Material Command, Air Technical Intelligence Center (ATIC), Project Blue Book, 38_143685_box_Incident_Summaries_173-233, Fred Steckling, Paul L. Peyerl (+10 more)
+
+### Community 16 - "Gordon Cooper Mission - Zodiacal Light (NASA-D015)"
 Cohesion: 0.12
 Nodes (18): Bill Armstrong, Balloon Drag Experiment, Mr. Carmines, Gordon Cooper, Ground Light Observation Experiment, Mercury-Atlas 9 Mission (Faith 7), MIT Horizon Photography Experiment, Dr. John O'Keefe (+10 more)
 
-### Community 16 - "Project Sign & Project Grudge"
-Cohesion: 0.12
-Nodes (17): Pfc Bruce Earlin McFarland, Chance-Vought V-173 / XF5U-1, Sighting at Fairfield-Suisun AFB (3 Dec 1948), Incident 213, Incident 221: Midland, MI, Military Air Transport Service (MATS) Headquarters, Project Grudge, Project Sign (+9 more)
+### Community 17 - "Gemini 6/7 Systems - Rate/Pulse Command Modes (NASA-D020-21)"
+Cohesion: 0.13
+Nodes (17): Attitude Control and Maneuver Electronics (ACME), Direct Control Mode, Pulse Control Mode, Orbit Attitude and Maneuvering System (OAMS), Frank Borman, Celestial, Space, and Terrestrial Radiometry (D-4/7), Star Occultation Measurement (D-5), Drogue Chute Deployment (+9 more)
 
-### Community 17 - "AARO Middle East Range-Fouler Reports"
+### Community 18 - "AARO Middle East Range-Fouler Reports"
 Cohesion: 0.12
 Nodes (16): 50th Attack Squadron, All-domain Anomaly Resolution Office, AFCENT, DOW-UAP-D23 Mission Report (UAE), DOW-UAP-PR36, Unresolved UAP Report, Middle East, May 2020, DOW-UAP-D3 Mission Report, Arabian Gulf, 2020, DOW-UAP-D42, Range Fouler Debrief, Japan, 2023, DOW-UAP-D44, Range Fouler Reporting Form, Gulf of Aden, October 2020 (+8 more)
 
-### Community 18 - "U-2 Program Origins - CL-282 (CIA-D003)"
+### Community 19 - "Air Intelligence Requirements Memo 4 (FBI Section 5 / Serial 164)"
+Cohesion: 0.15
+Nodes (16): FBI Case File 62-HQ-83894 Serial 164, AF Form 112, Air Intelligence Requirements Memorandum Number 4: Unconventional Aircraft, Air Intelligence Requirements Memorandum Number 4, Air Materiel Command (AMC), Department of the Army Collection Memorandum Number 7, Major General C. P. Cabell, Department of the Air Force Directorate of Intelligence (+8 more)
+
+### Community 20 - "U-2 Program Origins - CL-282 (CIA-D003)"
 Cohesion: 0.14
-Nodes (16): Allen F. Donovan, Lockheed CL-282, Donald L. Putt, Edwin H. Land, James G. Baker, Lockheed Aircraft Corporation, Philip G. Strong, Technological Capabilities Panel (TCP) (+8 more)
+Nodes (16): Allen F. Donovan, Lockheed CL-282, Donald L. Putt, Lockheed Aircraft Corporation, Philip G. Strong, Technological Capabilities Panel (TCP), Trevor Gardner, AQUATONE (+8 more)
 
-### Community 19 - "Gemini 6/7 Mission - Borman & Lovell (NASA-D021)"
-Cohesion: 0.15
-Nodes (16): Frank Borman, Celestial, Space, and Terrestrial Radiometry (D-4/7), Star Occultation Measurement (D-5), Simple Navigation (D-9), Environmental Control System (ECS), Fuel Cells, G5C Suit (Lightweight), Gemini 6 Spacecraft (+8 more)
-
-### Community 20 - "Eekhout Propulsion-Theory Correspondence"
+### Community 21 - "Hoover 1949 UFO Memo Network"
 Cohesion: 0.13
-Nodes (15): Eekhout Ionospheric Propulsion Theory, Director, FBI (J. Edgar Hoover), Fred J. Eekhout, John S. Castles, Helen W. Gandy, General Schulgen, Mrs. Harold Ferguson, Glen Sprouse (+7 more)
-
-### Community 21 - "Western US 2025 Incident & FBI Photo Series"
-Cohesion: 0.15
-Nodes (15): FBI Photo B19, FBI Photo B2, FBI Photo B20, FBI Photo B21, FBI Photo B22, FBI Photo B23, FBI Photo B24, FBI Photo B3 (+7 more)
+Nodes (15): FBI Serial 62-83894-134, John Edgar Hoover, Carey L. Davis Letter to J. Edgar Hoover, Mrs. Frank Gardner Letter to J. Edgar Hoover, Memo for Mr. Hoover: Flying Discs (March 25, 1949), Unconventional Aircraft Memorandum (Feb 15, 1949), Benedicto Romero, Dewey T. Wilson (+7 more)
 
 ### Community 22 - "Serial 130 - Kenneth Arnold Optical-Reflection Analysis"
 Cohesion: 0.13
-Nodes (15): Lt. Eric B. Armstrong, Kenneth Arnold, Lt. Col. James O. Cobb, John F. Cole, M. Lenore Corey, Edward L. DeRose, L. W. Hawkins, David N. Johnson (+7 more)
+Nodes (15): A. C. Urie, Lt. Eric B. Armstrong, Kenneth Arnold, Lt. Col. James O. Cobb, John F. Cole, M. Lenore Corey, Edward L. DeRose, L. W. Hawkins (+7 more)
 
-### Community 23 - "CIA-015 UAP Evaluation Table"
+### Community 23 - "Unidentified Aerial Object Witness Correspondence"
+Cohesion: 0.14
+Nodes (15): 1st Lieut. Alvin E. Moorman, Archie B. Browning, C. H. Zohn, David N. Johnson, Capt E. J. Smith (UAL), George A. Wright, Howard A. Clemmer, Incident #10: Boise/Emmett, Idaho (1947-07-04) (+7 more)
+
+### Community 24 - "Eekhout Propulsion-Theory Correspondence"
+Cohesion: 0.13
+Nodes (15): Eekhout Ionospheric Propulsion Theory, Director, FBI (J. Edgar Hoover), Fred J. Eekhout, John S. Castles, Helen W. Gandy, General Schulgen, Mrs. Harold Ferguson, Glen Sprouse (+7 more)
+
+### Community 25 - "Western US 2025 Incident & FBI Photo Series"
+Cohesion: 0.15
+Nodes (15): FBI Photo B19, FBI Photo B2, FBI Photo B20, FBI Photo B21, FBI Photo B22, FBI Photo B23, FBI Photo B24, FBI Photo B3 (+7 more)
+
+### Community 26 - "CIA-015 UAP Evaluation Table"
 Cohesion: 0.22
 Nodes (15): Evaluation Category: Aircraft, Evaluation Category: Astronomical, Evaluation Category: Balloon, Evaluation Category: Birds, Evaluation Category: Clouds, Dust, etc., Sighting Duration Analysis, Evaluation Certain, UAP Evaluation Statistics Table (+7 more)
 
-### Community 24 - "Project Blue Book & Air Technical Intelligence Center"
-Cohesion: 0.15
-Nodes (14): Air Material Command, Air Technical Intelligence Center (ATIC), Project Blue Book, 38_143685_box_Incident_Summaries_173-233, Fred Steckling, Paul L. Peyerl, Lt. Col. George P. Freeman Jr., Lt Col H. A. McClanahan (USAF) (+6 more)
+### Community 27 - "Robertson Panel & NICAP"
+Cohesion: 0.14
+Nodes (14): Admiral Roscoe H. Hillenkoetter, Canadian Avro Saucer Project, Central Intelligence Agency, CIA-UAP-002: Scientific Advisory Panel on Unidentified Flying Objects, Report, 1952-1953, DOW-UAP-D085: Transmission of CIA Scientific Advisory Panel Rept, 1953, U.S. Anti-Gravity Research Program, H.P. Robertson, National Investigations Committee on Aerial Phenomena (+6 more)
 
-### Community 25 - "Gemini 4 Extravehicular Activity Systems (NASA-D016)"
+### Community 28 - "Project Sign"
+Cohesion: 0.14
+Nodes (14): Pfc Bruce Earlin McFarland, Chance-Vought V-173 / XF5U-1, Sighting at Fairfield-Suisun AFB (3 Dec 1948), Incident 213, Incident 221: Midland, MI, Military Air Transport Service (MATS) Headquarters, Project Sign, Major General L. C. Craigie (+6 more)
+
+### Community 29 - "Sandia/Socorro Green-Fireball Copper-Dust Program (LaPaz, R2 DOW-D017 + R3 DOW-D088 + R4 DOE-D004)"
+Cohesion: 0.15
+Nodes (14): Dr. Lincoln LaPaz, National Guard Pilot Incident (7 January 1948), Sighting No. 175 (Cpl Lertis E. Stanfield), W. D. Crozier, Boise (Idaho) Object (24 June 1947), Green River, Utah Incident (18 Feb 1948), Institute of Meteoritics, Leland Sammons (+6 more)
+
+### Community 30 - "Gemini 4 Extravehicular Activity Systems (NASA-D016)"
 Cohesion: 0.15
 Nodes (14): Spacecraft Adapter Section, Air-Bearing Table Training, Titan II Booster Tracking, Drogue Pin Design Flaw, Extravehicular Activity (EVA), Spacecraft Hatch, Hand-Held Maneuvering Unit (Gun), RGS Needle Saturation (+6 more)
 
-### Community 26 - "Gemini 4 Landing & Booster Systems (NASA-D016)"
+### Community 31 - "Gemini 4 Landing & Booster Systems (NASA-D016)"
 Cohesion: 0.14
 Nodes (14): Apollo Landmark No. 4 (El Paso), Booster Tumbling and Fuel Venting, Computer Malfunction, D-6 Experiment, D-8 Experiment (Radiation), D-9 Experiment (Sextant Navigation), Engine Gimbaling Noise/Vibration, Gemini 4 (GT-4) Mission (+6 more)
 
-### Community 27 - "Gemini 4 EVA & Air-Glow Observation (NASA-D018)"
+### Community 32 - "Gemini 4 EVA & Air-Glow Observation (NASA-D018)"
 Cohesion: 0.15
 Nodes (14): Air Glow Phenomenon, Scott Carpenter, Extra Vehicular Activity (EVA), G4C Space Suit, Gemini 4 Mission, John Glenn, Gemini Flight Number Four (GT-4), Image Converter Technology (+6 more)
 
-### Community 28 - "Apollo/Gemini Spacecraft Systems (NASA-D020)"
+### Community 33 - "Blue Book Correspondence Witnesses, Set 1 (DOW-D096, R4)"
 Cohesion: 0.14
-Nodes (14): Apollo Landmark Identification, Gordon Cooper, Crew Systems Division (CSD), Dynamic Crew Procedures Simulator (DCPS), Digital Command System (DCS), Drogue Chute Deployment, Food and Water Evaluation, McDonnell Aircraft Corporation (MAC) (+6 more)
+Nodes (14): Ellsworth H. Augustus, Lt Colonel Joseph A. Bloomer, Ralph Desiderio, Mike Frank, Zelda Gross, Ramon Guthrie, Kenneth Hansen, Harry D. Krauss (+6 more)
 
-### Community 29 - "Hoover-Air Force Memo Correspondence (FBI Section 7)"
+### Community 34 - "CENTCOM Mission Reports (Greece/Syria)"
+Cohesion: 0.18
+Nodes (13): 389th Expeditionary Fighter Squadron, 77th Expeditionary Fighter Squadron, DOW-UAP-PR22, Unresolved UAP Report, Syria, July 2022, DOW-UAP-D19 Mission Report (Syria), DOW-UAP-D20 Mission Report (Iraq), ESSA Killbox, KINGPIN (JTAC/C2), Operation Inherent Resolve (+5 more)
+
+### Community 35 - "AFOIN/ATIC/CONAD Correspondence (DOW-D096, R4)"
+Cohesion: 0.15
+Nodes (13): AFCIN-X (Directorate of Intelligence, HQ USAF), Project Blue Book Special Report No. 14, Headquarters, Caribbean Air Command, Letter from J.M. Chervenko, JANAP 146(C), Letter from T.M. Onverzaagt, Air Technical Intelligence Center (ATIC), Continental Air Defense Command (CONAD) (+5 more)
+
+### Community 36 - "Hoover-Air Force Memo Correspondence (FBI Section 7)"
 Cohesion: 0.17
 Nodes (13): Department of the Air Force, Subject: Flying Saucers (62-83894), Atlanta Field Office Teletype re: Tom McCrae (July 8, 1953), Cincinnati Field Office Memo re: Woodfill/Stevenson (July 15, 1953), Letter from Mrs. Robert H. Davisson to FBI (May 9, 1953), Letter from Adolf Dornig to Alois Pivec (Dec 21, 1953), FBI Interim Reply to Woodfill (July 9, 1953), FBI Memo to Air Force re: Davisson (May 14, 1953) (+5 more)
 
-### Community 30 - "Project Aquatone - U-2 Origins Under Eisenhower"
+### Community 37 - "Project Aquatone - U-2 Origins Under Eisenhower"
 Cohesion: 0.15
 Nodes (13): Detachment A (Germany), Detachment C (Japan), Project AQUATONE, Charles Pearre Cabell, Dwight D. Eisenhower, Richard M. Bissell, Jr., CIA-UAP-003 Page 4, Project GENETRIX (+5 more)
 
-### Community 31 - "Gemini 4 Egress & EVA Checklist (NASA-D017)"
+### Community 38 - "Gemini 4 Egress & EVA Checklist (NASA-D017)"
 Cohesion: 0.17
 Nodes (13): Egress Preparation Checklist, Extravehicular Activity (EVA), Gemini 4 Spacecraft, Gemini Spacecraft, Spacecraft Hatch Mechanism, Hand-Held Maneuvering Unit (GMMU), Horizon Scanner Mode, James McDivitt (+5 more)
 
-### Community 32 - "Delta Launch Failure Narratives (DOW-D48)"
+### Community 39 - "Apollo Crew Light-Flash Phenomenon"
 Cohesion: 0.15
 Nodes (13): Titan Failure Narratives, AC-6 (Mission 262), Delta 7925, Delta Echo I, Delta Intelsat III A, Delta Koreasat, Delta Launch and Performance History, Delta Pioneer E (+5 more)
 
-### Community 33 - "R2 Video Record Index (DOW-UAP-PR Series)"
+### Community 40 - "R2 Video Record Index (DOW-UAP-PR Series)"
+Cohesion: 0.15
+Nodes (13): Camp Hood Unusual Light Sightings (March 1949), Copper Dust Collection Analysis, Dr. William Crozier, Green Fireball Incident (Jan 30, 1949), Institute of Meteoritics, Dr. Lincoln LaPaz, New Mexico School of Mines, Office of Special Investigations (OSI) District No. 17 (+5 more)
+
+### Community 41 - "Apollo/Gemini Mission Control Systems (NASA-D020)"
 Cohesion: 0.15
 Nodes (13): DOW-UAP-PR052: UAP USO Formation [CALLSIGN], DOW-UAP-PR056: Spherical UAP pulsing over water, DOW-UAP-PR058: [CALLSIGN] (Mission) UAP, DOW-UAP-PR064: AFSOC Kabul UAP Jul 2017, DOW-UAP-PR065: USCG C-144 Tyndall UAP 2 TIC TAC, DOW-UAP-PR066: USCG C-144 Tyndall UAP 1 TIC TAC, DOW-UAP-PR067: Multiple Spherical UAP USO near Sub, DOW-UAP-PR069: F/A-18 FLIR UAP (+5 more)
 
-### Community 34 - "Apollo/Gemini Mission Control Systems (NASA-D020)"
+### Community 42 - "DOW Middle East Mission Reports, 2022-23"
 Cohesion: 0.17
-Nodes (13): Cockpit Lighting & Displays, Pete Conrad, Experiment D-1 (Celestial Objects), Fuel Cell System, Cardiovascular Reflex Conditioning (M-1), MAC Engineering Simulator, Mission Control, Onboard Computer / IGS (+5 more)
+Nodes (13): Apollo Landmark Identification, Gordon Cooper, Dynamic Crew Procedures Simulator (DCPS), Digital Command System (DCS), Drogue Chute Deployment, Food and Water Evaluation, Fuel Cell System, Main Parachute Deployment (+5 more)
 
-### Community 35 - "Hoover 1949 UFO Memo Network"
+### Community 43 - "Kenneth Arnold & the Mt. Rainier Sighting"
 Cohesion: 0.17
-Nodes (12): FBI Serial 62-83894-134, John Edgar Hoover, Carey L. Davis Letter to J. Edgar Hoover, Mrs. Frank Gardner Letter to J. Edgar Hoover, Memo for Mr. Hoover: Flying Discs (March 25, 1949), Unconventional Aircraft Memorandum (Feb 15, 1949), Benedicto Romero, Dewey T. Wilson (+4 more)
+Nodes (12): 172 ATKS, Airhandler, Blasphemy, Department of War, DOW-UAP-PR21, Unresolved UAP Report, Iraq, May 2022, DOW-UAP-PR23, Unresolved UAP Report, Iraq, December 2022, MG Richard A. Harrison, DOW-UAP-D57 Range Fouler Reporting Form (+4 more)
 
-### Community 36 - "Kenneth Arnold & the Mt. Rainier Sighting"
+### Community 44 - "AARO Historical Report - KONA BLUE/AAWSAP/AATIP"
 Cohesion: 0.17
 Nodes (12): F. M. Johnson, Richard Rankin, Emil Smith (United Airlines Pilot), FBI HQ Teletype to SAC Seattle (Aug 14, 1947), Incident #17: Mt. Rainier, Washington (1947-06-24), Kenneth Arnold, Mt. Rainier Sighting (June 24, 1947), R. A. Palmer (+4 more)
 
-### Community 37 - "AARO Historical Report - KONA BLUE/AAWSAP/AATIP"
+### Community 45 - "CENTCOM Mission Reports, 2022-24"
 Cohesion: 0.18
 Nodes (12): AAWSAP/AATIP, Department of Homeland Security (DHS), Defense Intelligence Agency (DIA), All-domain Anomaly Resolution Office (AARO), Advanced Aerospace Threat Identification Program (AATIP), Project Mogul, Project SAUCER, Roswell Investigations (+4 more)
 
-### Community 38 - "NICAP & Donald Keyhoe Network"
-Cohesion: 0.17
-Nodes (12): Admiral Roscoe H. Hillenkoetter, Canadian Avro Saucer Project, Central Intelligence Agency, Donald E. Keyhoe, U.S. Anti-Gravity Research Program, National Committee on Aerial Phenomena (NICAP), National Investigations Committee on Aerial Phenomena, National Investigations Committee on Aerial Phenomena (+4 more)
-
-### Community 39 - "CENTCOM Mission Reports (Greece/Syria)"
+### Community 46 - "USAF UFO Program & the Levelland Incident"
 Cohesion: 0.24
 Nodes (12): AFSOC, AN/DAS-1 Target Pod, AN/DAS-4 Target Pod, All-domain Anomaly Resolution Office (AARO), 196 ATKS, DOW-UAP-D25 Mission Report (Greece), DOW-UAP-D27 Mission Report (UAE), DOW-UAP-PR33, Unresolved UAP Report, Syria, October 2024 (+4 more)
 
-### Community 40 - "Apollo Crew Light-Flash Phenomenon"
+### Community 47 - "Borderland Sciences Research Associates"
 Cohesion: 0.21
 Nodes (12): ALFMED Experiment, Apollo 11 Crew, Buzz Aldrin, Light Flash Phenomenon (Phosphenes), Michael Collins, NASA-UAP-D4, Apollo 11 Technical Crew Debriefing, 1969, NASA-UAP-D6, Apollo 17 Technical Crew Debriefing, 1973, NASA-UAP-D7, Skylab Technical Crew Debriefing 1973 (+4 more)
 
-### Community 41 - "USAF UFO Program & the Levelland Incident"
+### Community 48 - "Maury Island Incident"
 Cohesion: 0.17
 Nodes (12): Air Technical Intelligence Center (ATIC), Dayton, Dr. Donald H. Menzel, FBI File 62-83894 (Flying Saucers), Georg Klein, James Stokes, Levelland, Texas Sighting, Project Bluebook, Anode Glow Theory (+4 more)
 
-### Community 42 - "Borderland Sciences Research Associates"
+### Community 49 - "OSI/Air Force Section 8 Correspondence"
 Cohesion: 0.17
 Nodes (12): Borderland Sciences Research Associates, Mrs. Nellie T. Dull, FBI Case File 62-83894, William Hoffmeyer, Edmond J. Kane, Dr. R. E. McIndoo, Francis Ohm, Mead Layne (+4 more)
 
-### Community 43 - "Maury Island Incident"
+### Community 50 - "William Albert Rhodes & Project Saucer"
 Cohesion: 0.20
 Nodes (12): Captain Davidson (4th Air Force), FBI Seattle Teletype (Aug 6, 1947), Fred Crisman, Harold A. Dahl, Lieutenant Brown (4th Air Force), Mauri Island Incident, Maury Island Incident, Lieutenant Brown (+4 more)
 
-### Community 44 - "OSI/Air Force Section 8 Correspondence"
+### Community 51 - "U-2 Program - Cold War Operations (CIA-D003)"
 Cohesion: 0.17
 Nodes (12): Donald Franklin Stewart, George S. Tyler III, Louis E. Corbin (WFBR), Office of Special Investigations (OSI), Billy Thomas Gambill, Catherine Aughenbaugh, Esther D. Fillion, Federal Bureau of Investigation (+4 more)
 
-### Community 45 - "William Albert Rhodes & Project Saucer"
+### Community 52 - "U-2 Program - Cuban Missile Crisis Era (CIA-D003)"
 Cohesion: 0.17
 Nodes (12): Drew Pearson, Office of Special Investigations (Air Force), FBI File 62-83894, Project Saucer, Office of Special Investigations (OSI), Young Men's Business Club (Alexandria, LA), Captain William Deegan (OSI), Dr. R. H. McIndoo (+4 more)
 
-### Community 46 - "U-2 Program - Cold War Operations (CIA-D003)"
+### Community 53 - "Blue Book Correspondence Witnesses, Set 2 - Challenge Magazine Circle (DOW-D096, R4)"
 Cohesion: 0.17
 Nodes (12): Committee on Overhead Reconnaissance (COMOR), Development Projects Division (DPD), Francis Gary Powers, Joint Reconnaissance Center (JRC), Missile Gap Controversy, NSC Special Group, Operation GRAND SLAM, Operation HIGH WIRE (+4 more)
 
-### Community 47 - "U-2 Program - Cuban Missile Crisis Era (CIA-D003)"
+### Community 54 - "Gemini IX & Apollo 17 Crew (NASA-D022)"
 Cohesion: 0.17
 Nodes (12): Cuban Missile Crisis, Directorate of Science and Technology (DS&T), Jacob Kratt, John A. McCone, Marshall S. Carter, National Photographic Interpretation Center (NPIC), OILSTONE Agreement, Operation ROBIN HOOD (+4 more)
 
-### Community 48 - "DOW Middle East Mission Reports, 2022-23"
-Cohesion: 0.18
-Nodes (11): 389th Expeditionary Fighter Squadron, Airhandler, Blasphemy, DOW-UAP-PR21, Unresolved UAP Report, Iraq, May 2022, DOW-UAP-PR22, Unresolved UAP Report, Syria, July 2022, DOW-UAP-PR23, Unresolved UAP Report, Iraq, December 2022, DOW-UAP-D19 Mission Report (Syria), Operation Inherent Resolve (+3 more)
+### Community 55 - "Area 51 & Bob Lazar"
+Cohesion: 0.17
+Nodes (12): Mr. Alan L. Drake, Mr. Bruno Kindermann, Challenge Magazine, Miss Dee Phillips, Lt Colonel Joseph A. Bloomer, Mrs. Priscilla Alden Draffone, George Tumarkin, Laura H. Weiss (+4 more)
 
-### Community 49 - "Unidentified Aerial Object Witness Correspondence"
-Cohesion: 0.18
-Nodes (11): 1st Lieut. Alvin E. Moorman, Archie B. Browning, C. H. Zohn, George A. Wright, Howard A. Clemmer, Incident 89, Iric Kearsey, Capt. James H. Burniston (+3 more)
-
-### Community 50 - "Gemini IX & Apollo 17 Crew (NASA-D022)"
+### Community 56 - "FBI Seattle Teletype - Maury Island Witnesses"
 Cohesion: 0.20
 Nodes (11): Apollo 17 Crew, Eugene Cernan, Harrison Schmitt, Augmented Target Docking Adapter (ATDA), Gemini IX Mission, Dr. Jocelyn R. Gill, Experiment S-10: Agena Micrometeorite Collection, Experiment S-11: Airglow Horizon Photography (+3 more)
 
-### Community 51 - "Area 51 & Bob Lazar"
+### Community 57 - "Richland/Pasco Sightings, 1952-54 (FBI Seattle Field Office)"
 Cohesion: 0.18
 Nodes (11): Area 51 (Groom Lake), Hycon Manufacturing Company, Operation BLUE BOOK, Operation FISH HAWK, Perkin-Elmer Company, Project WHALE TALE, Lockheed U-2R, Col. William F. Yancey (+3 more)
 
-### Community 52 - "Robertson Panel & the Condon Report"
-Cohesion: 0.18
-Nodes (11): Air Technical Intelligence Center (ATIC), CIA-UAP-002: Scientific Advisory Panel on Unidentified Flying Objects, Report, 1952-1953, Condon Report (Colorado Project), DOW-UAP-D085: Transmission of CIA Scientific Advisory Panel Rept, 1953, CIA-UAP-002 Page 31, CIA-UAP-002 Page 32, CIA-UAP-002 Page 33, CIA-UAP-002: Scientific Advisory Panel on UFOs Report (1952-1953) (+3 more)
-
-### Community 53 - "FBI Seattle Teletype - Maury Island Witnesses"
+### Community 58 - "USAF Scientific Advisory Board Review of Project Blue Book (DOW-D092, R4 - Condon Report / NICAP)"
 Cohesion: 0.20
 Nodes (11): Captain William L. Davidson, Captain Emil J. Smith, FBI Seattle Teletype (Aug 12, 1947), Lieutenant Frank M. Brown, Kenneth Arnold, Fred Chrisman, Harold Dahl, Ray Palmer (+3 more)
 
-### Community 54 - "Cluster 54"
+### Community 59 - "Wilhelm Reich, Orgone Institute & CRIFO Newsletter"
 Cohesion: 0.20
 Nodes (11): Columbia Basin News, FBI Seattle Field Office, FBI-UAP-D013: Washington State 'UFO' Investigation, 1952-1960, Gail P. Cook (Ground Observer Group Supervisor), P. V. Howell (Chief, Counter Intelligence, 20th OSI), Pasco, Washington Sighting (July 1952), Pasco, Washington Sighting (June 1954), Richland, Washington Sighting (July 1952) (+3 more)
 
-### Community 55 - "Cluster 55"
+### Community 60 - "Mercury-Atlas 8 Observation Anomalies (NASA-D015)"
+Cohesion: 0.18
+Nodes (11): Condon Report (Colorado Project), CIA-UAP-019: Australian Dept of Defense Scientific and Intel Aspects of the UFO Problem, Hall Hypothesis, NICAP (National Investigating Committee on Aerial Phenomena), Ravenna, Ohio UFO Siting (April 1966), SAB Ad Hoc Committee to Review Project Blue Book, SAFOI (Secretary of the Air Force Office of Information), University of Colorado UFO Study (+3 more)
+
+### Community 61 - "DOW-D088 Incident Cluster (Holloman Geophysics Lab)"
 Cohesion: 0.18
 Nodes (11): C.R.I.F.O. Newsletter, Leonard H. Stringfield, Civilian Research, Interplanetary Flying Objects (CRIFO), Eva Reich, M.D., Frank Edwards, Dr. Lincoln La Paz, The Orbit (Publication), The Orgone Institute Research Laboratories, Inc. (+3 more)
 
-### Community 56 - "Cluster 56"
+### Community 62 - "FBI Section 5 Witness Drawings & Kodiak Report"
 Cohesion: 0.20
 Nodes (11): Fireflies / Frost Particles, Mercury-Atlas 8 (Sigma 7) Flight, Project Apollo, Dark Adaptation, Hasselblad 70mm Camera, Mercury-Atlas 8 (Sigma 7), Morehead Planetarium, Walter Schirra (+3 more)
 
-### Community 57 - "Cluster 57"
-Cohesion: 0.18
-Nodes (11): E. G. Fitch Memorandum (July 10, 1947), D. M. Ladd, Colonel R. H. Smith, E. G. Fitch, Operation Mogul, Lt. Col. George Garrett, Colonel H. M. McCoy, S. W. Reynolds (+3 more)
-
-### Community 58 - "Cluster 58"
+### Community 63 - "CIA-003 Project OXCART/AQUILINE"
 Cohesion: 0.24
 Nodes (11): Incident 112e: Delaware, Ohio, Incident 112f: Delaware, Ohio, Incident 122: Holloman AFB, New Mexico, Geophysics Lab Section, Holloman AFB, Incident #112, Incident #112a, Incident #112b, Incident #112c (+3 more)
 
-### Community 59 - "Cluster 59"
+### Community 64 - "Gemini 5/7 Fuel Cell & Cryo Systems (NASA-D019-20)"
 Cohesion: 0.18
-Nodes (11): Central Intelligence Agency (CIA), Project AQUILINE, Project AXILLARY, James G. Baker, Beacon Hill Study Group, Bureau of the Budget, Index of CIA U-2 and A-12 History, Edwin H. Land (+3 more)
+Nodes (11): DeWayne B. Johnson, Drawing #1, Drawing #2, Drawing #3, Drawing #7, Federal Bureau of Investigation, Intelligence Report Serial No. 4-50 (Kodiak), Michael Halfery (+3 more)
 
-### Community 60 - "Cluster 60"
-Cohesion: 0.20
-Nodes (11): Flight Director Indicator (8-Ball), Onboard Computer, Drogue Chute, Inertial Guidance System (IGS) Platform, Reentry Control System (RCS), Reentry Phase, Retrofire Sequence, Experiment D-6 (Questar Photography) (+3 more)
+### Community 65 - "FBI Section 4 Correspondence & Rev. Joseph Brasky"
+Cohesion: 0.18
+Nodes (11): Central Intelligence Agency (CIA), Project AQUILINE, Project AXILLARY, James G. Baker, Beacon Hill Study Group, Bureau of the Budget, Edwin H. Land, Lockheed A-11 (+3 more)
 
-### Community 61 - "Cluster 61"
-Cohesion: 0.20
-Nodes (10): FBI Serial 62-83894-131, FBI Serial 62-83894-132, FBI Serial 62-83894-140, FBI Case File 62-HQ-83894 Section 4, Major Jack C. White, Air Defense Command (ADC), FBI Bulletin No. 57 (1947), Lt. Gen. George E. Stratemeyer (+2 more)
-
-### Community 62 - "Cluster 62"
-Cohesion: 0.20
-Nodes (10): Air Force Office of Special Investigation (AFOSI), JANAP 146, Office of the Undersecretary of Defense for Intelligence and Security, Colonel Corso, UFO Disinformation Strategies, UAP Incident INDOPACOM (2025), UAP Incident Pacific Time Zone (2023), UAP Incident Oval/Orb (2024) (+2 more)
-
-### Community 63 - "Cluster 63"
-Cohesion: 0.20
-Nodes (10): Charles Conrad Jr., Charles "Pete" Conrad, L. Gordon Cooper, Cryogenic Fuel Cell System, Gemini V Mission, L. Gordon Cooper Jr., Gemini V Debriefing: Powered Flight and POGO, Gemini V Debriefing: Countdown and Crew Insertion (+2 more)
-
-### Community 64 - "Cluster 64"
-Cohesion: 0.20
-Nodes (10): FBI Headquarters, Joseph Gunderson, Linda Butler, J. Patrick Coyne, H. B. Fletcher, Reverend Joseph Brasky, Office Memorandum: Flying Discs (3/1/48), Office Memorandum: Flying Discs (2/19/48) (+2 more)
-
-### Community 65 - "Cluster 65"
-Cohesion: 0.22
-Nodes (10): Jonathan E. Caldwell, Washington Times Herald: Flying Saucers On Secret List, United Press Article: Missing Inventor Hunted, Federal Bureau of Investigation, Mrs. Ora A. Tygrett, SAC, Cincinnati, SAC, Philadelphia, US Navy Flying Discs Reporting Memorandum (1948) (+2 more)
-
-### Community 66 - "Cluster 66"
-Cohesion: 0.22
-Nodes (10): Clarence L. (Kelly) Johnson, United States Air Force (USAF), Lockheed A-12, D-21 Drone (Project TAGBOARD), Pratt & Whitney J58 Engine, Convair KINGFISH, Flyoff NICE GIRL, Project BLACK SHIELD (+2 more)
+### Community 66 - "Gemini 7 Environmental Control Systems - Borman & Lovell (NASA-D021)"
+Cohesion: 0.18
+Nodes (11): Cockpit Lighting & Displays, Pete Conrad, Experiment D-1 (Celestial Objects), Cardiovascular Reflex Conditioning (M-1), MAC Engineering Simulator, Onboard Computer / IGS, Radar System / REP, Radar Evaluation (REP) (+3 more)
 
 ### Community 67 - "Cluster 67"
 Cohesion: 0.20
-Nodes (10): Dave T. Ozanne, Federal Bureau of Investigation, Forrest E. Wood, J. A. Hennessey, Jane F. Myg, Larry Stephens, Lon M. Cerame, National Investigations Committee on Unidentified Flying Objects (+2 more)
+Nodes (10): FBI Serial 62-83894-131, FBI Serial 62-83894-132, FBI Serial 62-83894-140, FBI Case File 62-HQ-83894 Section 4, Major Jack C. White, Air Defense Command (ADC), FBI Bulletin No. 57 (1947), Lt. Gen. George E. Stratemeyer (+2 more)
 
 ### Community 68 - "Cluster 68"
-Cohesion: 0.22
-Nodes (10): Charles E. Bilbo, Ronnie Fox, Steven G. Gray, Hayden Hewes, J. A. Hennessey, J. Edgar Hoover, Interplanetary Intelligence of Unidentified Flying Objects, James Maney (+2 more)
+Cohesion: 0.20
+Nodes (10): Charles Conrad Jr., Charles "Pete" Conrad, L. Gordon Cooper, Cryogenic Fuel Cell System, Gemini V Mission, L. Gordon Cooper Jr., Gemini V Debriefing: Powered Flight and POGO, Gemini V Debriefing: Countdown and Crew Insertion (+2 more)
 
 ### Community 69 - "Cluster 69"
-Cohesion: 0.22
-Nodes (10): Call Sign 1 (Helicopter), Listening Post/Observation Post (LP/OP), Super-hot Orb, Witness 1 (Senior US Intelligence Official), Dark Kite, Large, Fiery Orb, USPER5, USPER6 (+2 more)
+Cohesion: 0.20
+Nodes (10): FBI Headquarters, Joseph Gunderson, Linda Butler, J. Patrick Coyne, H. B. Fletcher, Reverend Joseph Brasky, Office Memorandum: Flying Discs (3/1/48), Office Memorandum: Flying Discs (2/19/48) (+2 more)
 
 ### Community 70 - "Cluster 70"
 Cohesion: 0.20
-Nodes (10): Airglow Phenomena Study, Dr. Grady, Exercise Protocol, Gemini Spacecraft, Mercury Spacecraft, Pilot, Spacecraft Stabilization Control, Suit Ventilation System (+2 more)
+Nodes (10): Gemini 7 Spacecraft, Simple Navigation (D-9), Environmental Control System (ECS), Environmental Control System (ECS), Fuel Cells, G5C Suit (Lightweight), Gemini 7 Mission, Jim Lovell (+2 more)
 
 ### Community 71 - "Cluster 71"
 Cohesion: 0.22
-Nodes (9): Attitude Control and Maneuver Electronics (ACME), Direct Control Mode, Pulse Control Mode, Orbit Attitude and Maneuvering System (OAMS), Drogue Chute Deployment, Main Chute Deployment, Reentry Phase, Rate Command Mode (+1 more)
+Nodes (10): Jonathan E. Caldwell, Washington Times Herald: Flying Saucers On Secret List, United Press Article: Missing Inventor Hunted, Federal Bureau of Investigation, Mrs. Ora A. Tygrett, SAC, Cincinnati, SAC, Philadelphia, US Navy Flying Discs Reporting Memorandum (1948) (+2 more)
 
 ### Community 72 - "Cluster 72"
 Cohesion: 0.22
-Nodes (9): Adolf Dornig, Alois Pivec, FBI Newark Office, Olga Pivec, Mary Jane Kaczynski, Mrs. Marino, Office of Special Investigations (OSI), Office of Special Investigations (OSI) Newark (+1 more)
+Nodes (10): Clarence L. (Kelly) Johnson, United States Air Force (USAF), Lockheed A-12, D-21 Drone (Project TAGBOARD), Pratt & Whitney J58 Engine, Convair KINGFISH, Flyoff NICE GIRL, Project BLACK SHIELD (+2 more)
 
 ### Community 73 - "Cluster 73"
-Cohesion: 0.25
-Nodes (9): Frank Borman, Celestial, Space, and Terrestrial Radiometry (D-4/D-7), Gemini 7 Flight Crew, Jim Lovell, NASA-UAP-D021: Gemini 7 Technical Debriefing (1965), Titan II Booster, Booster Rendezvous Attempt, Station Keeping with Booster (+1 more)
+Cohesion: 0.22
+Nodes (10): Call Sign 1 (Helicopter), Listening Post/Observation Post (LP/OP), Super-hot Orb, Witness 1 (Senior US Intelligence Official), Dark Kite, Large, Fiery Orb, USPER5, USPER6 (+2 more)
 
 ### Community 74 - "Cluster 74"
-Cohesion: 0.22
-Nodes (9): Detroit Flying Saucer Club, FBI Case File 62-HQ-83894 Section 8, Charles A. Yost, George Adamski, Henry Maday, Laura Marxer, Randall Cox, George Adamski (+1 more)
+Cohesion: 0.20
+Nodes (10): Airglow Phenomena Study, Dr. Grady, Exercise Protocol, Gemini Spacecraft, Mercury Spacecraft, Pilot, Spacecraft Stabilization Control, Suit Ventilation System (+2 more)
 
 ### Community 75 - "Cluster 75"
 Cohesion: 0.22
-Nodes (9): Environmental Control System (ECS), Gemini 7 Spacecraft, Drogue Chute Deployment, Guaymas Tracking Station, Orbit Attitude and Maneuvering System (OAMS), Reentry Control System (RCS), Reentry Phase, Retrofire Sequence (+1 more)
+Nodes (10): Flight Director Indicator (8-Ball), Onboard Computer, Drogue Chute, Reentry Control System (RCS), Reentry Phase, Retrofire Sequence, Experiment D-6 (Questar Photography), Inertial Platform (+2 more)
 
 ### Community 76 - "Cluster 76"
+Cohesion: 0.27
+Nodes (10): Pete Conrad, Gordon Cooper, Digital Command System (DCS), Gemini 5 Flight Plan, Fuel Cell System, Mission Control Center (MCC), Orbit Attitude and Maneuvering System (OAMS), Inertial Guidance System (IGS) Platform (+2 more)
+
+### Community 77 - "Cluster 77"
+Cohesion: 0.20
+Nodes (10): George S. Wells, Mrs. Americo D. Draffone, Mrs. Wayne H. Jens, Office of Legislative Liaison, R. B. Gillis, Robert Czachor, Robert J. Gribble, Stefan Chorvat (+2 more)
+
+### Community 78 - "Cluster 78"
+Cohesion: 0.22
+Nodes (9): Adolf Dornig, Alois Pivec, FBI Newark Office, Olga Pivec, Mary Jane Kaczynski, Mrs. Marino, Office of Special Investigations (OSI), Office of Special Investigations (OSI) Newark (+1 more)
+
+### Community 79 - "Cluster 79"
+Cohesion: 0.25
+Nodes (9): Frank Borman, Celestial, Space, and Terrestrial Radiometry (D-4/D-7), Gemini 7 Flight Crew, Jim Lovell, NASA-UAP-D021: Gemini 7 Technical Debriefing (1965), Titan II Booster, Booster Rendezvous Attempt, Station Keeping with Booster (+1 more)
+
+### Community 80 - "Cluster 80"
+Cohesion: 0.22
+Nodes (9): Detroit Flying Saucer Club, FBI Case File 62-HQ-83894 Section 8, Charles A. Yost, George Adamski, Henry Maday, Laura Marxer, Randall Cox, George Adamski (+1 more)
+
+### Community 81 - "Cluster 81"
 Cohesion: 0.22
 Nodes (9): Dr. J. Allen Hynek, Nikolai Kardashev, Reinhold O. Schmidt, FBI Case File 62-HQ-83894, Joseph Perry, Rep. Gerald R. Ford, Center for UFO Studies, Captain Lawrence Coyne (+1 more)
 
-### Community 77 - "Cluster 77"
+### Community 82 - "Cluster 82"
 Cohesion: 0.22
 Nodes (9): John Edgar Hoover, Mrs. J. H. Mixon, George F. Schulgen, Fugate, Madeline Gwynne Merchant, A. Courtney Parker, William Rhodes, Mrs. W. T. Williams (+1 more)
 
-### Community 78 - "Cluster 78"
+### Community 83 - "Cluster 83"
 Cohesion: 0.28
 Nodes (9): Kenneth Arnold, Fred Crisman, Harold A. Dahl, Paul Lantz, David A. MacCulloch, Maury Island Incident, Ted Morrello, Ray Palmer (+1 more)
 
-### Community 79 - "Cluster 79"
+### Community 84 - "Cluster 84"
+Cohesion: 0.28
+Nodes (9): Albert K. Bender, Claude Harold Marck, Jr., Gray Barker, Hayden Hewes, International Flying Saucer Bureau, Interplanetary Intelligence of Unidentified Flying Objects, James Maney, They Knew Too Much About Flying Saucers (Book) (+1 more)
+
+### Community 85 - "Cluster 85"
 Cohesion: 0.22
 Nodes (9): CIA Intelligence Information Report: Sary Shagan, Sary Shagan Weapons Testing Range, Green Circular UAP Incident (USSR, 1973), Los Alamos Green Light Sightings (1948-1951), James L. Tuck, Los Alamos National Laboratory, Copper-bearing Particle Investigation, Sandia Base (+1 more)
 
-### Community 80 - "Cluster 80"
-Cohesion: 0.31
-Nodes (9): Pete Conrad, Gordon Cooper, Digital Command System (DCS), Gemini 5 Flight Plan, Fuel Cell System, Mission Control Center (MCC), Orbit Attitude and Maneuvering System (OAMS), Radar Evaluation Pod (REP) (+1 more)
-
-### Community 81 - "Cluster 81"
+### Community 86 - "Cluster 86"
 Cohesion: 0.25
 Nodes (9): Bart Gordon, Charles E. Grassley, Edward Heffernan, NASA Fact Sheet: The US Government and Unidentified Flying Objects, National Aeronautics and Space Administration (NASA), NASA Office of Legislative Affairs, Olympia J. Snowe, SETI Institute (+1 more)
 
-### Community 82 - "Cluster 82"
-Cohesion: 0.25
-Nodes (8): 172 ATKS, 77th Expeditionary Fighter Squadron, Department of War, DOW-UAP-D20 Mission Report (Iraq), MG Richard A. Harrison, DOW-UAP-D57 Range Fouler Reporting Form, DOW-UAP-D58 Range Fouler Debrief, SPEAR
+### Community 87 - "Cluster 87"
+Cohesion: 0.22
+Nodes (9): A.V. Roe Canada, Limited, Air Research and Development Command (ARDC), Avro Project Y2, Coanda Effect, Jack Frost, KC-97 Newfoundland UFO Incident (July 1955), Project Ladybird, Project SILVERBUG (+1 more)
 
-### Community 83 - "Cluster 83"
+### Community 88 - "Cluster 88"
 Cohesion: 0.25
 Nodes (8): 432nd Air Expeditionary Wing (432 AEW), 482nd Attack Squadron (482 ATKS), Distributed Ground System 1 (DGS-1), U.S. Naval Forces Central Command (NAVCENT), OKAS (Airfield), DOW-UAP-D63 Mission Report (Oct 2020), DOW-UAP-D64 Mission Report (Nov 2020), DOW-UAP-D65 Mission Report (July 2020)
 
-### Community 84 - "Cluster 84"
+### Community 89 - "Cluster 89"
+Cohesion: 0.25
+Nodes (8): Radar Set AN/FPS-17, Air Technical Intelligence Center (ATIC), Lloyd Mallan, CIA-UAP-002 Page 31, CIA-UAP-002 Page 32, CIA-UAP-002 Page 33, Memorandum: Meteor Data Obtained by AN/FPS-17 (29 Sep 55), Memorandum: Alabama Meteorite (3 Jan 55)
+
+### Community 90 - "Cluster 90"
 Cohesion: 0.25
 Nodes (8): Centaur Upper Stage, NASA Gemini Program, Martin Company (Martin Marietta), Titan I ICBM, Titan II ICBM/SLV, Titan III Commercial, Titan IV Launch Vehicle, Transtage Upper Stage
 
-### Community 85 - "Cluster 85"
+### Community 91 - "Cluster 91"
 Cohesion: 0.25
-Nodes (8): David N. Johnson, Lt. Col. Donald L. Springer, Capt E. J. Smith (UAL), FBI San Francisco Field Office, Incident #10: Boise/Emmett, Idaho (1947-07-04), Incident 83, SAC San Francisco Memo (July 28, 1947), William Rhoads
+Nodes (8): Chiles-Whitted Incident (Eastern Airlines), Appendix A: Analysis of Flying Object Incidents in the U.S. and Hypothetical Tactics Employed, Appendix B: Reported Sightings of Flying Objects as of 1 August 1948, Appendix C: Selected Reports of Flying Object Incidents, Appendix D: Flying Wing Type Aircraft, Analysis of Flying Object Incidents in the United States, Study No. 203, DOW-UAP-D094, Richmond Weather Bureau Sighting (April 1947)
 
-### Community 86 - "Cluster 86"
+### Community 92 - "Cluster 92"
+Cohesion: 0.25
+Nodes (8): CIRVIS (Communications Instructions for Reporting Vital Intelligence Sightings), JANAP 146, UFO Disinformation Strategies, Memorandum: Importance of CIRVIS Program (10 Nov 55), J. H. O'Neill, Colonel Maurice A. Berry, Chief of Staff, USAF, United States Air Force
+
+### Community 93 - "Cluster 93"
+Cohesion: 0.25
+Nodes (8): Albert Holmberg, Director, FBI, Donald Keyhoe, FBI Houston, FBI San Antonio, Office of Special Investigations (USAF), SAC, Chicago, Walter D. Jones
+
+### Community 94 - "Cluster 94"
 Cohesion: 0.25
 Nodes (8): Albert K. Bender, Air Technical Intelligence Center (ATIC), Daniel Lang, Edward J. Ruppelt, Federal Bureau of Investigation (FBI), International Flying Saucer Bureau (IFSB), Major General John A. Samford, Project Saucer
 
-### Community 87 - "Cluster 87"
+### Community 95 - "Cluster 95"
 Cohesion: 0.25
 Nodes (8): Colonel C. D. Gasser (USAF), Charlton C. McSwain (FBI), E. L. Seagraves (CIC), Elmira Airport Hoax, Captain Robert Cross (USAF), Stuart E. Adcock, U.S. News & World Report: Flying Saucers - The Real Story, Radio Station WROL Knoxville
 
-### Community 88 - "Cluster 88"
-Cohesion: 0.33
-Nodes (7): 482 ATKS, AH_GMESH Avionics, ANDAS4 Target Pod, Iranian Air Defense, DOW-UAP-D60 Mission Report, DOW-UAP-D61 Mission Report, DOW-UAP-D62 Mission Report
-
-### Community 89 - "Cluster 89"
-Cohesion: 0.29
-Nodes (7): All-domain Anomaly Resolution Office (AARO), VZ-9AV Avrocar, F-117 Nighthawk, Manhattan Project, Project Mogul, Lockheed Martin Skunk Works, U-2 Dragon Lady
-
-### Community 90 - "Cluster 90"
-Cohesion: 0.29
-Nodes (7): Air Force Space Command (AFSPC), 30th Space Wing Office of History, Annual Launch Summary by Command, Glossary of Terms, Launch Facility Guide, Launch Sequence Log (1994-1996), Vandenberg Air Force Base
-
-### Community 91 - "Cluster 91"
-Cohesion: 0.33
-Nodes (7): Air Materiel Command Special Project Group (Wright-Patterson AFB), Evaluation Study of Phenomenon (Flying Saucers), Intelligence Division, General Staff United States Army (ID, GSUSA), Plans & Operations Division, General Staff United States Army (P&O, GSUSA), Kirtland Air Force Base, New Mexico, RAND Corporation (Project RAND), Walter Winchell Broadcast (3 April 1949)
-
-### Community 92 - "Cluster 92"
-Cohesion: 0.29
-Nodes (7): Atomic Energy Commission (AEC), Rev. Charles C. Barnes, FBI-UAP-D011: D/FBI Correspondence Referral, 1949, Mrs. Gwynne M. Merchant, F. Marquardt, Philadelphia Fire Marshal's Office, PURSUE Release 3 - official record index
-
-### Community 93 - "Cluster 93"
-Cohesion: 0.29
-Nodes (7): Dr. Lincoln La Paz, Incident 223: Las Vegas, NM, Incident 224: East of Las Vegas, NM, Incident 225: Vaughn, NM, Incident 226: Sandia Base, NM, Incident 227: Bernal, NM, Incident 230: North Powder, OR
-
-### Community 94 - "Cluster 94"
-Cohesion: 0.29
-Nodes (7): Ed White, Jim McDivitt, Gemini GT-4 Mission, Mission Control Center (MCC) Houston, Manned Space Flight Network (MSFN), Orbit Attitude and Maneuvering System (OAMS), Translational System Check (TSC)
-
-### Community 95 - "Cluster 95"
-Cohesion: 0.33
-Nodes (7): George Hunt Williamson, Lt. Col. John O'Mara, Soul Craft Chapels, Thomas Eickhoff, Truman Bethurum, Valor Magazine (Soul Craft Chapels), William Dudley Pelley
-
 ### Community 96 - "Cluster 96"
 Cohesion: 0.29
-Nodes (7): Major General Joseph F. Carroll, Green Fireball Phenomena, Major H. B. Eldridge, Dr. Lincoln LaPaz, Doyle Rees, Lt Colonel, USAF, Summary of Observations of Aerial Phenomena in the New Mexico Area (May 1950), Office of Special Investigations (OSI), USAF
+Nodes (8): The Biology of the Flying Saucer, DOW-UAP-D097, Project Sign Progress Report, 1948, F. W. Lanchester, General Electric Research Laboratories, Horten Parabola, Dr. Irving Langmuir, Low Aspect Ratio Aircraft, The Aeroplane
 
 ### Community 97 - "Cluster 97"
 Cohesion: 0.33
-Nodes (7): Atlas AC-17 (ATS-D), Atlas AC-21 (OAO-B), Atlas AC-24 (Mariner 8), Atlas AC-62 (Intelsat V), Atlas AC-70 (BS-3H COMSAT), Atlas AC-71 (Galaxy 1R), Centaur Upper Stage
+Nodes (7): 482 ATKS, AH_GMESH Avionics, ANDAS4 Target Pod, Iranian Air Defense, DOW-UAP-D60 Mission Report, DOW-UAP-D61 Mission Report, DOW-UAP-D62 Mission Report
 
 ### Community 98 - "Cluster 98"
 Cohesion: 0.29
-Nodes (7): Colonel C. D. Gasser, George Rathman, Howard Fletcher, NEPA Project, Oak Ridge UFO Incident (July 1947), W. R. Presley, Wright Field (Dayton, Ohio)
+Nodes (7): All-domain Anomaly Resolution Office (AARO), VZ-9AV Avrocar, F-117 Nighthawk, Manhattan Project, Project Mogul, Lockheed Martin Skunk Works, U-2 Dragon Lady
 
 ### Community 99 - "Cluster 99"
 Cohesion: 0.29
-Nodes (7): Director, FBI, Elisabethe C. Beston, James L. Kirkland, Madeline Gwynne Merchant, SAC, Los Angeles, SAC, New Orleans, SAC, Richmond
+Nodes (7): Air Force Space Command (AFSPC), 30th Space Wing Office of History, Annual Launch Summary by Command, Glossary of Terms, Launch Facility Guide, Launch Sequence Log (1994-1996), Vandenberg Air Force Base
 
 ### Community 100 - "Cluster 100"
 Cohesion: 0.29
-Nodes (7): Flyin-Saucer (Toy), Fred Morrison, Robert Ripley, V. P. Keay, Walter Winchell, Warren R. Francioni, Colonel William E. Carpenter
+Nodes (7): Northrop YB-49, Chance-Vought XF5U-1 (Flying Flapjack), Flying Wing / Tailless Aircraft, Gorman Dogfight (Fargo, ND), Richmond Weather Bureau Sighting (April 1947), DOW-UAP-D093: Flying Wing Type Aircraft Appendix, DOW-UAP-D094: Analysis of Flying Object Incidents in the United States, 1949
 
 ### Community 101 - "Cluster 101"
-Cohesion: 0.29
-Nodes (7): Capt. Clarence S. Chiles, Eastern Air Lines, Louis Feldwary, Incident #144a: Blackstone, VA, Incident #144b: Montgomery, AL (Chiles-Whitted), C. L. McKelvie, John B. Whitted
+Cohesion: 0.33
+Nodes (7): Air Materiel Command Special Project Group (Wright-Patterson AFB), Evaluation Study of Phenomenon (Flying Saucers), Intelligence Division, General Staff United States Army (ID, GSUSA), Plans & Operations Division, General Staff United States Army (P&O, GSUSA), Kirtland Air Force Base, New Mexico, RAND Corporation (Project RAND), Walter Winchell Broadcast (3 April 1949)
 
 ### Community 102 - "Cluster 102"
-Cohesion: 0.33
-Nodes (6): Affa (Commander from Uranus), Mrs. Frances Swan, Admiral Herbert B. Knowles, John Hutson, Ponnar (Commander from Hatann), Wilber B. Smith
+Cohesion: 0.29
+Nodes (7): Atomic Energy Commission (AEC), Rev. Charles C. Barnes, FBI-UAP-D011: D/FBI Correspondence Referral, 1949, Mrs. Gwynne M. Merchant, F. Marquardt, Philadelphia Fire Marshal's Office, PURSUE Release 3 - official record index
 
 ### Community 103 - "Cluster 103"
-Cohesion: 0.33
-Nodes (6): Luminous Band / Airglow Layer, Bob E. Watt, Dr. John A. O'Keefe, Nitrogen Peroxide (NO2) Absorption Hypothesis, Lawrence Dunkelman, Lt. Cdr. M. Scott Carpenter
+Cohesion: 0.29
+Nodes (7): Lt. Col. Donald L. Springer, FBI San Francisco Field Office, Incident #29 (14 June 1947), Incident #40 (7 July 1947), SAC San Francisco Memo (July 28, 1947), William Rhoads, XF5U-1 Flying Flapjack
 
 ### Community 104 - "Cluster 104"
-Cohesion: 0.33
-Nodes (6): Lt. Cmdr. D. Shepard, DIO-17ND Serial 13-49, Kodiak Alaska Luminous Energy Incident, Lawrence B. Shaw, Paul Herring, Paul Kreuger
+Cohesion: 0.29
+Nodes (7): Dr. Lincoln La Paz, Incident 223: Las Vegas, NM, Incident 224: East of Las Vegas, NM, Incident 225: Vaughn, NM, Incident 226: Sandia Base, NM, Incident 227: Bernal, NM, Incident 230: North Powder, OR
 
 ### Community 105 - "Cluster 105"
-Cohesion: 0.33
-Nodes (6): Detachment B (Turkey), Lebanon Intervention (1958), Operation SOFT TOUCH, Semipalatinsk Nuclear Proving Ground, Suez Crisis (1956), Tyuratam Missile Testing Range
+Cohesion: 0.29
+Nodes (7): Ed White, Jim McDivitt, Gemini GT-4 Mission, Mission Control Center (MCC) Houston, Manned Space Flight Network (MSFN), Orbit Attitude and Maneuvering System (OAMS), Translational System Check (TSC)
 
 ### Community 106 - "Cluster 106"
-Cohesion: 0.40
-Nodes (6): ESSA Killbox, KINGPIN (JTAC/C2), Shaddadi, Syria, Sniper Advanced Targeting Pod, UAP Incident (Syria, 21 Feb 2023), UAP Incident (Iraq/Syria, 31 Mar 2023)
+Cohesion: 0.33
+Nodes (7): George Hunt Williamson, Lt. Col. John O'Mara, Soul Craft Chapels, Thomas Eickhoff, Truman Bethurum, Valor Magazine (Soul Craft Chapels), William Dudley Pelley
 
 ### Community 107 - "Cluster 107"
 Cohesion: 0.33
-Nodes (6): Extravehicular Activity (EVA), Gemini IV Mission, Dr. Jocelyn R. Gill, Memorandum: Technical Analysis of Gemini (GT-4) Photography, Letter to Dr. F. Saiedy: Spectrophotography of Clouds Experiment, Willis B. Foster
+Nodes (7): Green Fireball Phenomenon, Los Alamos Scientific Laboratory / Reservation, 17th District Office of Special Investigations (OSI), Anomalous Luminous Phenomena (Seventh Report), Anomalous Luminous Phenomena (Third Report), OSI Summary of Information (19 April 1949), White Sands Proving Ground
 
 ### Community 108 - "Cluster 108"
 Cohesion: 0.33
-Nodes (6): FBI Form FD-1057, FBI-UAP-D005: FD-1057-04, Northeastern United States, 2024, FBI-UAP-D006: FD-1057-05, Northeastern United States, 2024, FBI-UAP-D007: FD-1057-06, Northeastern United States, 2024, FBI-UAP-D008: FD-1057-07, Northeastern United States, 2024, FBI-UAP-PR001 through FBI-UAP-PR003
+Nodes (7): Atlas AC-17 (ATS-D), Atlas AC-21 (OAO-B), Atlas AC-24 (Mariner 8), Atlas AC-62 (Intelsat V), Atlas AC-70 (BS-3H COMSAT), Atlas AC-71 (Galaxy 1R), Centaur Upper Stage
 
 ### Community 109 - "Cluster 109"
-Cohesion: 0.33
-Nodes (6): Lt. Frank M. Brown, Fred L. Crisman, Dean John M. Bunker, Capt. W. C. Davidson, FBI Portland Teletype (Aug 5, 1947), Captain William L. Davidson
+Cohesion: 0.29
+Nodes (7): Director, FBI, Elisabethe C. Beston, James L. Kirkland, Madeline Gwynne Merchant, SAC, Los Angeles, SAC, New Orleans, SAC, Richmond
 
 ### Community 110 - "Cluster 110"
-Cohesion: 0.33
-Nodes (6): Intelligence Authorization Act for Fiscal Year 2021, National Defense Authorization Act for Fiscal Year 2022, Preliminary Assessment: Unidentified Aerial Phenomena (2021), 2022 Annual Report on Unidentified Aerial Phenomena, UAP Explanatory Categories, Unidentified Aerial Phenomena Task Force
+Cohesion: 0.29
+Nodes (7): Flyin-Saucer (Toy), Fred Morrison, Robert Ripley, V. P. Keay, Walter Winchell, Warren R. Francioni, Colonel William E. Carpenter
 
 ### Community 111 - "Cluster 111"
-Cohesion: 0.33
-Nodes (6): Extraterrestrial Technology Theory, Swedish Air Intelligence Service, USAFE Intelligence Report (1948), Soviet Flying Disc, Senator Richard Russell, Trans-Caucasus Disc Sighting (1955)
+Cohesion: 0.29
+Nodes (7): Camp Hood / Killeen Base, Texas, Holloman AFB, New Mexico, Los Alamos, New Mexico, Memo: Radar Detection over Oak Ridge, 8th District OSI, Sandia Base / Kirtland AFB, New Mexico, Summary of Sightings of Unknown Aerial Phenomena
 
 ### Community 112 - "Cluster 112"
-Cohesion: 0.33
-Nodes (6): Albert K. Bender, Capt. Edgar L. Plunkett, George D. Fawcett, International Flying Saucer Bureau (IFSB), Max Krengel, Space Review (Quarterly Publication)
+Cohesion: 0.29
+Nodes (7): Capt. Clarence S. Chiles, Eastern Air Lines, Louis Feldwary, Incident #144a: Blackstone, VA, Incident #144b: Montgomery, AL (Chiles-Whitted), C. L. McKelvie, John B. Whitted
 
 ### Community 113 - "Cluster 113"
-Cohesion: 0.47
-Nodes (6): Albert K. Bender, Claude Harold Marck, Jr., Gray Barker, International Flying Saucer Bureau, They Knew Too Much About Flying Saucers (Book), University Books, Inc.
+Cohesion: 0.29
+Nodes (7): Drogue Chute Deployment, Guaymas Tracking Station, Orbit Attitude and Maneuvering System (OAMS), Reentry Control System (RCS), Reentry Phase, Retrofire Sequence, Retrofire and Reentry Sequence
 
 ### Community 114 - "Cluster 114"
-Cohesion: 0.33
-Nodes (6): Appendix A: Frequency and Percentage Distributions, Case I, Case II, Case XII (Serial 3601.00), Statistical Analysis of UAP Reports, UAP Model Derivation Criteria
+Cohesion: 0.29
+Nodes (7): Mr. Robert H. Redwine, Allen Martancik, Major General Joe W. Kelly, Master John Henderson, Colonel R. J. Clizbe, Roberta Klok, United States Air Force Summary of Events and Information Concerning the Unidentified Flying Object Program
 
 ### Community 115 - "Cluster 115"
 Cohesion: 0.33
-Nodes (6): Astronaut Maneuvering Unit (AMU), Memorandum to the File: Experiments Debriefing of Gemini IX, Experiment S001: Zodiacal Light Photography, Experiment S011: Airglow Horizon Photography, Experiment S012: Micrometeorite Collection, Letter to Dr. Homer E. Newell regarding Gemini XI S-9
+Nodes (6): Affa (Commander from Uranus), Mrs. Frances Swan, Admiral Herbert B. Knowles, John Hutson, Ponnar (Commander from Hatann), Wilber B. Smith
 
 ### Community 116 - "Cluster 116"
 Cohesion: 0.33
-Nodes (6): Gemini-4 Booster Rocket, Jim McDivitt, McDivitt UFO (Gemini-4), NORAD, Pegasus-2 Satellite, Richard Underwood
+Nodes (6): Luminous Band / Airglow Layer, Bob E. Watt, Dr. John A. O'Keefe, Nitrogen Peroxide (NO2) Absorption Hypothesis, Lawrence Dunkelman, Lt. Cdr. M. Scott Carpenter
 
 ### Community 117 - "Cluster 117"
 Cohesion: 0.40
-Nodes (5): 17th District OSI, Summary of Sightings Page 29, Sighting 35 (Arizona), Sighting 36 (Los Alamos), Sighting 37 (Los Alamos)
+Nodes (6): Canadian Archipelago RB-47 Sightings (1-8 Jun 1955), Colonel George E. Schneider, Newfoundland KC-97 Sighting (6 Jul 1955), Air Staff Summary Sheet (28 Jul 55), Memorandum for Record (11 Jul 55), Transmittal of USAF Reports of Evaluation to RCAF (9 Aug 55)
 
 ### Community 118 - "Cluster 118"
-Cohesion: 0.40
-Nodes (5): FBI Serial 62-83894-136, FBI Serial 62-83894-138, Amazing Stories Magazine, Rainbow City, Antarctica, The Shaver Mystery
+Cohesion: 0.33
+Nodes (6): Lt. Cmdr. D. Shepard, DIO-17ND Serial 13-49, Kodiak Alaska Luminous Energy Incident, Lawrence B. Shaw, Paul Herring, Paul Kreuger
 
 ### Community 119 - "Cluster 119"
-Cohesion: 0.40
-Nodes (5): Army Air Forces Intelligence, Bureau Bulletin No. 42, Series 1947, Office Memorandum: Flying Saucers (Aug 6, 1947), Hoover Teletype to SAC Detroit (Aug 7, 1947), FBI Oklahoma City Communication to Air Materiel Command
+Cohesion: 0.33
+Nodes (6): Detachment B (Turkey), Lebanon Intervention (1958), Operation SOFT TOUCH, Semipalatinsk Nuclear Proving Ground, Suez Crisis (1956), Tyuratam Missile Testing Range
 
 ### Community 120 - "Cluster 120"
-Cohesion: 0.40
-Nodes (5): CIA Photo-Intelligence Division (PIO), PARAMOUNT Committee, Project HTAUTOMAT, Arthur C. Lundahl, Photo-Intelligence Division (PID)
+Cohesion: 0.33
+Nodes (6): Donald E. Keyhoe, National Committee on Aerial Phenomena (NICAP), National Investigations Committee on Aerial Phenomena, Newspaper Clipping: Utah Film Analysis, True Magazine Article: Saucers Spies From Planets, Brig. Gen. Sory Smith
 
 ### Community 121 - "Cluster 121"
 Cohesion: 0.40
-Nodes (5): 1st Lt. Clarence Glasebrook, F-80 Shooting Star, Incident 138: Columbus, Ohio, Incident 139: Osborn, Ohio, Incident 140a: Gahanna, Ohio
+Nodes (6): U.S.S.R. (Soviet Union), Dr. Guenther Bock, Horten 229, N.Y. Journal-American: Soviet Still Wants Answer, N.Y. Journal-American: Report New Red Planes, Soviet Union (USSR)
 
 ### Community 122 - "Cluster 122"
-Cohesion: 0.40
-Nodes (5): Columbus, Ohio Sightings, Incident 154a: Jaymes Saunders, Incident 155: Mrs. Edward G. Watson, Incident 156: Mrs. Martin Price & Mrs. Mary Rippetoe, Incident 157: Robert C. Goshorn
+Cohesion: 0.33
+Nodes (6): Extravehicular Activity (EVA), Gemini IV Mission, Dr. Jocelyn R. Gill, Memorandum: Technical Analysis of Gemini (GT-4) Photography, Letter to Dr. F. Saiedy: Spectrophotography of Clouds Experiment, Willis B. Foster
 
 ### Community 123 - "Cluster 123"
-Cohesion: 0.50
-Nodes (5): George J. Stock, John H. Riley, FBI-UAP-D012, Newark Field Office, 1952-1967, Thomas Cavanaugh, UFO Sighting Passaic NJ 1952-07-31
+Cohesion: 0.33
+Nodes (6): FBI Form FD-1057, FBI-UAP-D005: FD-1057-04, Northeastern United States, 2024, FBI-UAP-D006: FD-1057-05, Northeastern United States, 2024, FBI-UAP-D007: FD-1057-06, Northeastern United States, 2024, FBI-UAP-D008: FD-1057-07, Northeastern United States, 2024, FBI-UAP-PR001 through FBI-UAP-PR003
 
 ### Community 124 - "Cluster 124"
-Cohesion: 0.40
-Nodes (5): Gerald P. Carr, Jack Lousma, Joseph Kerwin, Owen Garriott, Skylab Crews (1/2, 1/3, 1/4)
+Cohesion: 0.33
+Nodes (6): Lt. Frank M. Brown, Fred L. Crisman, Dean John M. Bunker, Capt. W. C. Davidson, FBI Portland Teletype (Aug 5, 1947), Captain William L. Davidson
 
 ### Community 125 - "Cluster 125"
-Cohesion: 0.40
-Nodes (5): Lt. Col. John H. Glenn, Luminous Particles (Glenn Effect), Mercury-Atlas 6 (Friendship 7), Mercury-Atlas 7 (Aurora 7), Maurice Dubin
+Cohesion: 0.33
+Nodes (6): Intelligence Authorization Act for Fiscal Year 2021, National Defense Authorization Act for Fiscal Year 2022, Preliminary Assessment: Unidentified Aerial Phenomena (2021), 2022 Annual Report on Unidentified Aerial Phenomena, UAP Explanatory Categories, Unidentified Aerial Phenomena Task Force
 
 ### Community 126 - "Cluster 126"
-Cohesion: 0.40
-Nodes (5): The COMETA Report, General Denis Letty, GEPAN/SEPRA, Lakenheath Incident (1956), Tehran Incident (1976)
+Cohesion: 0.33
+Nodes (6): Project Grudge, Green Fireball Phenomena (New Mexico), Dr. Lincoln La Paz, Los Alamos Conference (Feb 16, 1949), DOW-UAP-D017, UAP Reported at Sandia Base, 1948-1950, Captain Neef
 
 ### Community 127 - "Cluster 127"
-Cohesion: 0.50
-Nodes (5): Headquarters Fourth Air Force, Incident #106: Bakersfield, California (5 Mar 1948), Incident #107: Bakersfield, California (8 Mar 1948), Incident #108: Bakersfield, California (8 Mar 1948), Incident #109: Bakersfield, California (9 Mar 1948)
+Cohesion: 0.33
+Nodes (6): Extraterrestrial Technology Theory, Swedish Air Intelligence Service, USAFE Intelligence Report (1948), Soviet Flying Disc, Senator Richard Russell, Trans-Caucasus Disc Sighting (1955)
 
 ### Community 128 - "Cluster 128"
-Cohesion: 0.40
-Nodes (5): BNSP Task I, Maxwell W. Hunter II, Memorandum: Thoughts on the Space Alien Race Question, National Aeronautics and Space Council, Robert F. Packard
+Cohesion: 0.33
+Nodes (6): Albert K. Bender, Capt. Edgar L. Plunkett, George D. Fawcett, International Flying Saucer Bureau (IFSB), Max Krengel, Space Review (Quarterly Publication)
 
 ### Community 129 - "Cluster 129"
-Cohesion: 0.40
-Nodes (5): John L. Black, Foreign Technology Division, U.S. Air Force, John Edgar Hoover, R. Q. Mastroberte, Office of Special Investigations (OSI), Department of the Air Force
+Cohesion: 0.33
+Nodes (6): Appendix A: Frequency and Percentage Distributions, Case I, Case II, Case XII (Serial 3601.00), Statistical Analysis of UAP Reports, UAP Model Derivation Criteria
 
 ### Community 130 - "Cluster 130"
-Cohesion: 0.40
-Nodes (5): Dallas Anonymous Informant, Federal Bureau of Investigation, Glenn Evans, Jane Ferry, Ray Robinson
+Cohesion: 0.33
+Nodes (6): Astronaut Maneuvering Unit (AMU), Memorandum to the File: Experiments Debriefing of Gemini IX, Experiment S001: Zodiacal Light Photography, Experiment S011: Airglow Horizon Photography, Experiment S012: Micrometeorite Collection, Letter to Dr. Homer E. Newell regarding Gemini XI S-9
 
 ### Community 131 - "Cluster 131"
-Cohesion: 0.40
-Nodes (5): Dr. Edward U. Condon, J.J.A. Hennessy, National Investigating Committee on Aerial Phenomena (NICAP), Robert G. Edwards, University of Colorado UFO Investigation
+Cohesion: 0.33
+Nodes (6): Gemini-4 Booster Rocket, Jim McDivitt, McDivitt UFO (Gemini-4), NORAD, Pegasus-2 Satellite, Richard Underwood
 
 ### Community 132 - "Cluster 132"
 Cohesion: 0.40
-Nodes (5): CRIFO Orbit, Eva Reich Moise, Expedition Orop Desert Ea, Leonard H. Stringfield, Dr. Wilhelm Reich
+Nodes (5): 17th District OSI, Summary of Sightings Page 29, Sighting 35 (Arizona), Sighting 36 (Los Alamos), Sighting 37 (Los Alamos)
 
 ### Community 133 - "Cluster 133"
 Cohesion: 0.40
-Nodes (5): Anna Benys, Dr. C. L. Kenny, Flying Saucer Phenomenon, Fred R. Reibold, Woodson C. Cope
+Nodes (5): FBI Serial 62-83894-136, FBI Serial 62-83894-138, Amazing Stories Magazine, Rainbow City, Antarctica, The Shaver Mystery
 
 ### Community 134 - "Cluster 134"
 Cohesion: 0.40
-Nodes (5): Lonnie Edward Noack, FBI Report: Lonnie Edward Noack (Flying Discs), Ohlson and Rice Manufacturing Company, Henry T. Rice, Claude Leroy Wolford
+Nodes (5): CIA Photo-Intelligence Division (PIO), PARAMOUNT Committee, Project HTAUTOMAT, Arthur C. Lundahl, Photo-Intelligence Division (PID)
 
 ### Community 135 - "Cluster 135"
 Cohesion: 0.40
-Nodes (5): J. Edgar Hoover, Director FBI, D. M. Ladd, FBI, Project Grindle, Project Twinkle, Investigation of Frank Scully
+Nodes (5): 1st Lt. Clarence Glasebrook, F-80 Shooting Star, Incident 138: Columbus, Ohio, Incident 139: Osborn, Ohio, Incident 140a: Gahanna, Ohio
 
 ### Community 136 - "Cluster 136"
 Cohesion: 0.40
-Nodes (5): Asian Photographic Interpretation Center (ASPIC), BIRDWATCHER Telemetry System, Detachment H (TACKLE), Project TACKLE, System-XII SAM-warning unit
+Nodes (5): Columbus, Ohio Sightings, Incident 154a: Jaymes Saunders, Incident 155: Mrs. Edward G. Watson, Incident 156: Mrs. Martin Price & Mrs. Mary Rippetoe, Incident 157: Robert C. Goshorn
 
 ### Community 137 - "Cluster 137"
-Cohesion: 0.40
-Nodes (5): Card Bible, Codes for Work Sheet, Example of an IBM Card, U.S. Air Force Technical Information Sheet, Work Sheet
+Cohesion: 0.50
+Nodes (5): George J. Stock, John H. Riley, FBI-UAP-D012, Newark Field Office, 1952-1967, Thomas Cavanaugh, UFO Sighting Passaic NJ 1952-07-31
 
 ### Community 138 - "Cluster 138"
 Cohesion: 0.40
-Nodes (5): Charles Conrad Jr., Gordon Cooper, Fuel Cell Water Excess, Gemini 5 Mission, Minuteman ICBM
+Nodes (5): Gerald P. Carr, Jack Lousma, Joseph Kerwin, Owen Garriott, Skylab Crews (1/2, 1/3, 1/4)
 
 ### Community 139 - "Cluster 139"
-Cohesion: 0.83
-Nodes (4): John E. Woodruff, John N. Nehrman, Jr., Robert W. Leidy, Captain William H. Smith
+Cohesion: 0.40
+Nodes (5): Lt. Col. John H. Glenn, Luminous Particles (Glenn Effect), Mercury-Atlas 6 (Friendship 7), Mercury-Atlas 7 (Aurora 7), Maurice Dubin
 
 ### Community 140 - "Cluster 140"
-Cohesion: 0.50
-Nodes (4): A. H. Belmont, Lincoln La Paz, Project Twinkle, W. A. Branigan
+Cohesion: 0.40
+Nodes (5): The COMETA Report, General Denis Letty, GEPAN/SEPRA, Lakenheath Incident (1956), Tehran Incident (1976)
 
 ### Community 141 - "Cluster 141"
 Cohesion: 0.50
-Nodes (4): A. C. Urie, Incident 68: Cascade Mts, OR, Incident 75, Incident 76
+Nodes (5): Headquarters Fourth Air Force, Incident #106: Bakersfield, California (5 Mar 1948), Incident #107: Bakersfield, California (8 Mar 1948), Incident #108: Bakersfield, California (8 Mar 1948), Incident #109: Bakersfield, California (9 Mar 1948)
 
 ### Community 142 - "Cluster 142"
-Cohesion: 0.50
-Nodes (4): U.S. Atomic Energy Security Service, Los Alamos, Armex Construction Company, Lee Robinson, Report of Unidentified Aerial Objects Form
+Cohesion: 0.40
+Nodes (5): Incident #101: Norcatur, Kansas (18 Feb 1948), Incident #102: Green River, Utah (18 Feb 1948), Incident #103: Green River, Utah (18 Feb 1948), Leland Sammons, Norman G. Markham
 
 ### Community 143 - "Cluster 143"
-Cohesion: 0.83
-Nodes (4): Aeroflot, Dr. Akutin, Dr. Inal Georgiyevich Akoyev, CIA-UAP-012, Combating Fatigue In Crewmembers
+Cohesion: 0.40
+Nodes (5): John L. Black, Foreign Technology Division, U.S. Air Force, John Edgar Hoover, R. Q. Mastroberte, Office of Special Investigations (OSI), Department of the Air Force
 
 ### Community 144 - "Cluster 144"
-Cohesion: 0.50
-Nodes (4): AGM-176 Griffin Missile, DOW-UAP-D28 Mission Report (Iraq), MX-20 Sensor, MX-25 Sensor
+Cohesion: 0.40
+Nodes (5): Dallas Anonymous Informant, Federal Bureau of Investigation, Glenn Evans, Jane Ferry, Ray Robinson
 
 ### Community 145 - "Cluster 145"
-Cohesion: 0.50
-Nodes (4): Airglow and Twilight Layers, Mr. Larry Dunkelman, Dr. Nancy Roman, Dr. Winifred Cameron
+Cohesion: 0.40
+Nodes (5): Dr. Edward U. Condon, J.J.A. Hennessy, National Investigating Committee on Aerial Phenomena (NICAP), Robert G. Edwards, University of Colorado UFO Investigation
 
 ### Community 146 - "Cluster 146"
-Cohesion: 0.50
-Nodes (4): Air Materiel Command, Wright-Patterson AFB, Headquarters 13th Air Force, Headquarters Far East Air Forces, Incident #111
+Cohesion: 0.40
+Nodes (5): CRIFO Orbit, Eva Reich Moise, Expedition Orop Desert Ea, Leonard H. Stringfield, Dr. Wilhelm Reich
 
 ### Community 147 - "Cluster 147"
-Cohesion: 0.83
-Nodes (4): Andrews AF Base, Incident 207, Incident 207A, Incident 207-B
+Cohesion: 0.40
+Nodes (5): Anna Benys, Dr. C. L. Kenny, Flying Saucer Phenomenon, Fred R. Reibold, Woodson C. Cope
 
 ### Community 148 - "Cluster 148"
-Cohesion: 0.50
-Nodes (4): Byron B. Savage, Incident 82, A. C. Urie, Flying Discs Investigation
+Cohesion: 0.40
+Nodes (5): Lonnie Edward Noack, FBI Report: Lonnie Edward Noack (Flying Discs), Ohlson and Rice Manufacturing Company, Henry T. Rice, Claude Leroy Wolford
 
 ### Community 149 - "Cluster 149"
-Cohesion: 0.50
-Nodes (4): Department of Defense, Flying Saucers Guided Missile Theory, CIA Intelligence Advisory Committee, Report of the Scientific Panel on Unidentified Flying Objects (1953)
+Cohesion: 0.40
+Nodes (5): J. Edgar Hoover, Director FBI, D. M. Ladd, FBI, Project Grindle, Project Twinkle, Investigation of Frank Scully
 
 ### Community 150 - "Cluster 150"
-Cohesion: 0.50
-Nodes (4): Balloon, Unknown, Evaluation of Reports: All Years (Page 205), Evaluation of Reports: All Years (Page 206)
+Cohesion: 0.40
+Nodes (5): Asian Photographic Interpretation Center (ASPIC), BIRDWATCHER Telemetry System, Detachment H (TACKLE), Project TACKLE, System-XII SAM-warning unit
 
 ### Community 151 - "Cluster 151"
-Cohesion: 0.67
-Nodes (4): FBI Form FD-302, FBI-UAP-D009: FD-302-67, Northeastern Orb Sighting, 2026, FBI-UAP-D010: FD-302-71, Northeastern Orb Sighting, 2026, FBI-UAP-PR004
+Cohesion: 0.40
+Nodes (5): Card Bible, Codes for Work Sheet, Example of an IBM Card, U.S. Air Force Technical Information Sheet, Work Sheet
 
 ### Community 152 - "Cluster 152"
-Cohesion: 0.50
-Nodes (4): FBI Knoxville Field Office, McGhee Tyson Air Force Radar Station, NEPA Division, Fairchild Engine and Airplane Corporation, Oak Ridge Atomic Energy Installation
+Cohesion: 0.40
+Nodes (5): Charles Conrad Jr., Gordon Cooper, Fuel Cell Water Excess, Gemini 5 Mission, Minuteman ICBM
 
 ### Community 153 - "Cluster 153"
-Cohesion: 0.50
-Nodes (4): George Van Tassel, Denver Unidentified Flying Objects Investigative Societies, George W. Van Tassel, Phipps Auditorium, Denver
+Cohesion: 0.40
+Nodes (5): Albert M. Chop, Dr. Frank C. Craighead, Glenn Reynolds, Lt Colonel Joseph A. Bloomer, Jr., U.S. Air Force Summary of Events and Information Concerning the Unidentified Flying Object Program
 
 ### Community 154 - "Cluster 154"
-Cohesion: 0.50
-Nodes (4): Glenn Grothman, Langley Air Force Base Drone Swarm, Safe Airspace for Americans Act, Tic Tac Incident (2004)
+Cohesion: 0.40
+Nodes (5): Angel's Hair, Cigar-shaped silver object, Lt. Col. James C. McNamara, Mrs. George Dittmar, Rodney Warrick
 
 ### Community 155 - "Cluster 155"
-Cohesion: 0.50
-Nodes (4): Incident 70, Incident 70A, John J. Kelley, John Snyder
+Cohesion: 0.40
+Nodes (5): ATIC Special Report No. 14, Bernard M. Baruch, Jr., Maj. Gen. John A. Samford, Dr. Leon Davidson, Michael W. Kruvant
 
 ### Community 156 - "Cluster 156"
-Cohesion: 0.50
-Nodes (4): Incident 94, Incident 95, Incident 96, Incident 97
+Cohesion: 0.40
+Nodes (5): A. R. Weyl, Annular Wing Aeroplane, Cedric Lee, G. Tilghman Richards, Willoughby Delta
 
 ### Community 157 - "Cluster 157"
-Cohesion: 0.67
-Nodes (4): Olson and Rice Manufacturing Company, Teletype: Lonnie Edward Noack Complaint (12/28/48), Office Memorandum: Flying Discs (12/28/48), Teletype: Identification of Noack Object (12/29/48)
+Cohesion: 0.40
+Nodes (5): Light Flash Phenomena, NASA-UAP-D026: Apollo 14 Debriefing, 1971, NASA-UAP-D027: Apollo 14 Debriefing (Continued), 1971, NASA-UAP-D028: Apollo 17 Crew Medical Debriefing, 1972, NASA-UAP-D029: Apollo 17 Crew Medical Debriefing (Continued), 1972
 
 ### Community 158 - "Cluster 158"
-Cohesion: 0.50
-Nodes (4): Flying Saucers (UFOs), Operation Cloud Gap, W. R. Wannall, Lonnie Zamora
+Cohesion: 0.83
+Nodes (4): John E. Woodruff, John N. Nehrman, Jr., Robert W. Leidy, Captain William H. Smith
 
 ### Community 159 - "Cluster 159"
 Cohesion: 0.50
-Nodes (4): Officer Lonnie Zamora, Sergeant M. S. Chavez, Nep Lopez, Socorro UFO Incident
+Nodes (4): A. C. Urie, Incident 68: Cascade Mts, OR, Incident 75, Incident 76
 
 ### Community 160 - "Cluster 160"
 Cohesion: 0.50
-Nodes (4): Bob Renaud, Master Kalen-Li Retan, Planet Korendor, Universal Economics
+Nodes (4): U.S. Atomic Energy Security Service, Los Alamos, Armex Construction Company, Lee Robinson, Report of Unidentified Aerial Objects Form
 
 ### Community 161 - "Cluster 161"
-Cohesion: 0.50
-Nodes (4): George Adamski, International Get Acquainted Program (IGAP), Theodore Gray Hullett, UFO Contact (IGAP Journal)
+Cohesion: 0.83
+Nodes (4): Aeroflot, Dr. Akutin, Dr. Inal Georgiyevich Akoyev, CIA-UAP-012, Combating Fatigue In Crewmembers
 
 ### Community 162 - "Cluster 162"
 Cohesion: 0.50
-Nodes (4): B. B. Watson, Inter-Continental Aerial Research Foundation, Missouri Filter Center, Robert T. Stone
+Nodes (4): AGM-176 Griffin Missile, DOW-UAP-D28 Mission Report (Iraq), MX-20 Sensor, MX-25 Sensor
 
 ### Community 163 - "Cluster 163"
 Cohesion: 0.50
-Nodes (4): DOW-UAP-D32 Mission Report, DOW-UAP-PR31 (Syria, 2024), DOW-UAP-PR32 (Syria, 2024), DOW-UAP-PR33 (Syria, 2024)
+Nodes (4): Airglow and Twilight Layers, Mr. Larry Dunkelman, Dr. Nancy Roman, Dr. Winifred Cameron
 
 ### Community 164 - "Cluster 164"
 Cohesion: 0.50
-Nodes (4): Fred Steckling, National Aeronautics and Space Administration (NASA), Dr. Paul D. Lowman Jr., The Pentagon
+Nodes (4): Air Materiel Command, Wright-Patterson AFB, Headquarters 13th Air Force, Headquarters Far East Air Forces, Incident #111
 
 ### Community 165 - "Cluster 165"
-Cohesion: 0.50
-Nodes (4): Circular Saw with Wires and Tubes, Colonel W. H. Twining, Father Joseph Brasky, SAC Milwaukee
+Cohesion: 0.83
+Nodes (4): Andrews AF Base, Incident 207, Incident 207A, Incident 207-B
 
 ### Community 166 - "Cluster 166"
 Cohesion: 0.50
-Nodes (4): Thomas A. McMillan, Muroc AAF Sightings, Lt. Col. Donald L. Springer, Ray A. Switzer
+Nodes (4): Byron B. Savage, Incident 82, A. C. Urie, Flying Discs Investigation
 
 ### Community 167 - "Cluster 167"
 Cohesion: 0.50
-Nodes (4): C.A. Atkins, C.A. Atkins Letter to Walter Winchell, FBI San Antonio Memo: Protection of Vital Installations, Walter Winchell
+Nodes (4): Department of Defense, Flying Saucers Guided Missile Theory, CIA Intelligence Advisory Committee, Report of the Scientific Panel on Unidentified Flying Objects (1953)
 
 ### Community 168 - "Cluster 168"
 Cohesion: 0.50
-Nodes (4): Helendale/Las Vegas UFO Incident (Dec 1948), Lonnie Edward Noack, Nathan Smith, R. C. Person
+Nodes (4): Balloon, Unknown, Evaluation of Reports: All Years (Page 205), Evaluation of Reports: All Years (Page 206)
 
 ### Community 169 - "Cluster 169"
-Cohesion: 0.50
-Nodes (4): BIO-11ND Serial 33-49: Unidentified Flying Objects Report, Elbert W. Farris (OSI), Oregon UFO Sighting (May 27, 1949), Dr. Richard K. Parrish
+Cohesion: 0.67
+Nodes (4): FBI Form FD-302, FBI-UAP-D009: FD-302-67, Northeastern Orb Sighting, 2026, FBI-UAP-D010: FD-302-71, Northeastern Orb Sighting, 2026, FBI-UAP-PR004
 
 ### Community 170 - "Cluster 170"
 Cohesion: 0.50
-Nodes (4): COMGENARMYTHREE (Third Army), Department of the Army, Director of Intelligence, 14th Air Force, Lt Col Nunamaker (Tennessee Military District)
+Nodes (4): FBI Knoxville Field Office, McGhee Tyson Air Force Radar Station, NEPA Division, Fairchild Engine and Airplane Corporation, Oak Ridge Atomic Energy Installation
 
 ### Community 171 - "Cluster 171"
 Cohesion: 0.50
-Nodes (4): George Koehler, OSI District 13 (Offutt AFB), Rudy Fick, Silas Newton
+Nodes (4): George Van Tassel, Denver Unidentified Flying Objects Investigative Societies, George W. Van Tassel, Phipps Auditorium, Denver
 
 ### Community 172 - "Cluster 172"
 Cohesion: 0.50
-Nodes (4): Aerial Phenomena Research Group, M. A. Wolcott, Robert Gribble, Robert J. Gribble
+Nodes (4): Glenn Grothman, Langley Air Force Base Drone Swarm, Safe Airspace for Americans Act, Tic Tac Incident (2004)
 
 ### Community 173 - "Cluster 173"
-Cohesion: 0.67
-Nodes (4): SA D. Arthur Byrnes, Jr., Captain R. T. Holder, Socorro UFO Incident (April 24, 1964), Officer Lonnie Zamora
+Cohesion: 0.50
+Nodes (4): Incident 70, Incident 70A, John J. Kelley, John Snyder
 
 ### Community 174 - "Cluster 174"
 Cohesion: 0.50
-Nodes (4): CIA-UAP-011, The Sary Shagan Weapons Testing Range, Sary Shagan Weapons Testing Range, System-300/Aldan (ABM-1 GALOSH), System-75 (SA-2)
+Nodes (4): Incident 94, Incident 95, Incident 96, Incident 97
 
 ### Community 175 - "Cluster 175"
 Cohesion: 0.67
-Nodes (4): Appendix B: Working Paper Forms, Exhibit B1: Tentative Observers Data Sheet, Exhibit B2: Tentative Observers Questionnaire, UAP Sighting Data Collection
+Nodes (4): Olson and Rice Manufacturing Company, Teletype: Lonnie Edward Noack Complaint (12/28/48), Office Memorandum: Flying Discs (12/28/48), Teletype: Identification of Noack Object (12/29/48)
 
 ### Community 176 - "Cluster 176"
 Cohesion: 0.50
-Nodes (4): UAP Sightings Evaluation Table - Page 143, UAP Sightings Evaluation Table - Page 145, UAP Sightings Evaluation Table - Page 147, Sighting Reliability Metrics
+Nodes (4): Flying Saucers (UFOs), Operation Cloud Gap, W. R. Wannall, Lonnie Zamora
 
 ### Community 177 - "Cluster 177"
 Cohesion: 0.50
-Nodes (4): UAP Evaluation Statistics Page 166, UAP Evaluation Statistics Page 167, Certainty vs Doubtful Evaluation, UAP Duration Metrics
+Nodes (4): Officer Lonnie Zamora, Sergeant M. S. Chavez, Nep Lopez, Socorro UFO Incident
 
 ### Community 178 - "Cluster 178"
 Cohesion: 0.50
-Nodes (4): Checklist: 28 June 1947 (NW of Ft. Meade), Checklist: 16 July 1947 (Norfolk/North Sea), Checklist: 19 August 1947 (Stephenville, Newfoundland), UAP Incident Checklist Protocol
+Nodes (4): Bob Renaud, Master Kalen-Li Retan, Planet Korendor, Universal Economics
 
 ### Community 179 - "Cluster 179"
 Cohesion: 0.50
-Nodes (4): Incident #106, Incident #107, Incident #108, Incident #109
+Nodes (4): George Adamski, International Get Acquainted Program (IGAP), Theodore Gray Hullett, UFO Contact (IGAP Journal)
 
 ### Community 180 - "Cluster 180"
 Cohesion: 0.50
-Nodes (4): Maurice Dubin, Luminous Particles (Fireflies), John Glenn, Meteor Ionization in the E-region
+Nodes (4): B. B. Watson, Inter-Continental Aerial Research Foundation, Missouri Filter Center, Robert T. Stone
 
 ### Community 181 - "Cluster 181"
 Cohesion: 0.50
-Nodes (4): NASA UAP Interview Transcript Page 77, NASA UAP Interview Transcript Page 79, Spacecraft-Generated Particles (Junk), Thruster Flame/Glow Interference
+Nodes (4): DOW-UAP-D32 Mission Report, DOW-UAP-PR31 (Syria, 2024), DOW-UAP-PR32 (Syria, 2024), DOW-UAP-PR33 (Syria, 2024)
 
 ### Community 182 - "Cluster 182"
 Cohesion: 0.50
-Nodes (4): 13.3 Consumables, Horizon Scan Mode, Orbit Attitude and Maneuvering System (OAMS), Thrusters 3 and 4 Malfunction
+Nodes (4): Fred Steckling, National Aeronautics and Space Administration (NASA), Dr. Paul D. Lowman Jr., The Pentagon
 
 ### Community 183 - "Cluster 183"
 Cohesion: 0.50
-Nodes (4): Apollo-12 UFO Incident, Dr. James Harder, Moon Pigeons Report (NASA Contract NAS 9-5191), SLA Panels (Spacecraft Lunar Adapter)
+Nodes (4): Circular Saw with Wires and Tubes, Colonel W. H. Twining, Father Joseph Brasky, SAC Milwaukee
 
 ### Community 184 - "Cluster 184"
-Cohesion: 0.67
-Nodes (3): Alpheus O. Powell, Pan American Airways, Walter I. White
+Cohesion: 0.50
+Nodes (4): Thomas A. McMillan, Muroc AAF Sightings, Lt. Col. Donald L. Springer, Ray A. Switzer
 
 ### Community 185 - "Cluster 185"
-Cohesion: 0.67
-Nodes (3): Al W. Hawkins, FBI Butte Teletype (Aug 15, 1947), J. H. Brown
+Cohesion: 0.50
+Nodes (4): C.A. Atkins, C.A. Atkins Letter to Walter Winchell, FBI San Antonio Memo: Protection of Vital Installations, Walter Winchell
 
 ### Community 186 - "Cluster 186"
-Cohesion: 0.67
-Nodes (3): Cecelia Fine, Incident 69a, Miss Naddle
+Cohesion: 0.50
+Nodes (4): Helendale/Las Vegas UFO Incident (Dec 1948), Lonnie Edward Noack, Nathan Smith, R. C. Person
 
 ### Community 187 - "Cluster 187"
-Cohesion: 0.67
-Nodes (3): Clark AF Base, Incident 206, Incident 208
+Cohesion: 0.50
+Nodes (4): BIO-11ND Serial 33-49: Unidentified Flying Objects Report, Elbert W. Farris (OSI), Oregon UFO Sighting (May 27, 1949), Dr. Richard K. Parrish
 
 ### Community 188 - "Cluster 188"
-Cohesion: 0.67
-Nodes (3): Winifred G. Clark, John Edgar Hoover, Lt. William G. McGinty
+Cohesion: 0.50
+Nodes (4): COMGENARMYTHREE (Third Army), Department of the Army, Director of Intelligence, 14th Air Force, Lt Col Nunamaker (Tennessee Military District)
 
 ### Community 189 - "Cluster 189"
-Cohesion: 0.67
-Nodes (3): Detachment G (Edwards AFB), Operation KICK OFF, Project IDEALIST
+Cohesion: 0.50
+Nodes (4): George Koehler, OSI District 13 (Offutt AFB), Rudy Fick, Silas Newton
 
 ### Community 190 - "Cluster 190"
-Cohesion: 0.67
-Nodes (3): Dirty Bird (Radar-Deceptive U-2), Project RAINBOW, Scientific Engineering Institute (SEI)
+Cohesion: 0.50
+Nodes (4): Aerial Phenomena Research Group, M. A. Wolcott, Robert Gribble, Robert J. Gribble
 
 ### Community 191 - "Cluster 191"
 Cohesion: 0.67
-Nodes (3): Dr. Eugene M. Shoemaker, Scientific Debriefing of Walter Schirra (March 12, 1963), Memorandum: Scientific Debriefing of Lt. Cmdr. Walter Schirra
+Nodes (4): SA D. Arthur Byrnes, Jr., Captain R. T. Holder, Socorro UFO Incident (April 24, 1964), Officer Lonnie Zamora
 
 ### Community 192 - "Cluster 192"
-Cohesion: 0.67
-Nodes (3): Aircraft, Evaluation of Objects: All Years (Page 209), Evaluation of Objects: All Years (Page 210)
+Cohesion: 0.50
+Nodes (4): CIA-UAP-011, The Sary Shagan Weapons Testing Range, Sary Shagan Weapons Testing Range, System-300/Aldan (ABM-1 GALOSH), System-75 (SA-2)
 
 ### Community 193 - "Cluster 193"
 Cohesion: 0.67
-Nodes (3): FBI Butte Teletype: Twin Falls Sightings, FBI Memo: Soviet Espionage and Flying Discs, Lt. Col. George D. Garrett, Jr. (AAF)
+Nodes (4): Appendix B: Working Paper Forms, Exhibit B1: Tentative Observers Data Sheet, Exhibit B2: Tentative Observers Questionnaire, UAP Sighting Data Collection
 
 ### Community 194 - "Cluster 194"
-Cohesion: 0.67
-Nodes (3): FBI Laboratory Cryptanalysis Section, Martian Coded Message (Hoax), Mildred Sarbanis
+Cohesion: 0.50
+Nodes (4): UAP Sightings Evaluation Table - Page 143, UAP Sightings Evaluation Table - Page 145, UAP Sightings Evaluation Table - Page 147, Sighting Reliability Metrics
 
 ### Community 195 - "Cluster 195"
-Cohesion: 0.67
-Nodes (3): FBI New York Letter (Sep 4, 1947), Newsday Newspaper, Radio Ham Coded Message
+Cohesion: 0.50
+Nodes (4): UAP Evaluation Statistics Page 166, UAP Evaluation Statistics Page 167, Certainty vs Doubtful Evaluation, UAP Duration Metrics
 
 ### Community 196 - "Cluster 196"
-Cohesion: 0.67
-Nodes (3): FBI Seattle Teletype (July 16, 1947), Mrs. T. L. Kremmer, Office of Naval Intelligence (ONI) Seattle
+Cohesion: 0.50
+Nodes (4): Checklist: 28 June 1947 (NW of Ft. Meade), Checklist: 16 July 1947 (Norfolk/North Sea), Checklist: 19 August 1947 (Stephenville, Newfoundland), UAP Incident Checklist Protocol
 
 ### Community 197 - "Cluster 197"
-Cohesion: 0.67
-Nodes (3): FBI-UAP-D002: FD-1057, Unresolved UAP Report, Colorado Springs, 2022, FBI-UAP-D003: Digital Rendering, Unresolved UAP Report, Colorado Springs, 2022, ICA-UAP-D001: Analysis: Colorado Springs UAP Incident, 2022
+Cohesion: 0.50
+Nodes (4): Incident #106, Incident #107, Incident #108, Incident #109
 
 ### Community 198 - "Cluster 198"
-Cohesion: 0.67
-Nodes (3): Glenn Grothman, House Committee on Oversight and Accountability, Subcommittee on National Security, the Border, and Foreign Affairs
+Cohesion: 0.50
+Nodes (4): Maurice Dubin, Luminous Particles (Fireflies), John Glenn, Meteor Ionization in the E-region
 
 ### Community 199 - "Cluster 199"
-Cohesion: 0.67
-Nodes (3): Incident 151: Indianapolis, Indiana (Propeller), Incident 152: Indianapolis, Indiana (Cymbal), 1st Lt. Russell J. Carey, Jr.
+Cohesion: 0.50
+Nodes (4): NASA UAP Interview Transcript Page 77, NASA UAP Interview Transcript Page 79, Spacecraft-Generated Particles (Junk), Thruster Flame/Glow Interference
 
 ### Community 200 - "Cluster 200"
-Cohesion: 0.67
-Nodes (3): Incident #29 (14 June 1947), Incident #40 (7 July 1947), XF5U-1 Flying Flapjack
+Cohesion: 0.50
+Nodes (4): 13.3 Consumables, Horizon Scan Mode, Orbit Attitude and Maneuvering System (OAMS), Thrusters 3 and 4 Malfunction
 
 ### Community 201 - "Cluster 201"
-Cohesion: 0.67
-Nodes (3): Lubbock Lights, Dr. Donald Menzel, Nature Magazine
+Cohesion: 0.50
+Nodes (4): Apollo-12 UFO Incident, Dr. James Harder, Moon Pigeons Report (NASA Contract NAS 9-5191), SLA Panels (Spacecraft Lunar Adapter)
 
 ### Community 202 - "Cluster 202"
-Cohesion: 0.67
-Nodes (3): Horten Tailless Aircraft, Loedding Flying Disc (LD-2), Colonel H. M. McCoy
+Cohesion: 0.50
+Nodes (4): Air Technical Intelligence Center, Rear Admiral F. R. Furth, Office of Naval Research, Office of Naval Research (ONR)
 
 ### Community 203 - "Cluster 203"
-Cohesion: 0.67
-Nodes (3): Blue Book Project, MHD Propulsion, Category D UAP
+Cohesion: 0.50
+Nodes (4): Colonial Airlines, Inc., Captain F. W. Cushing, First Officer G. M. Darby, Captain G. R. Janas
 
 ### Community 204 - "Cluster 204"
 Cohesion: 0.67
-Nodes (3): Gemini 7 Bogey, Frank Borman, James Lovell
+Nodes (3): Alpheus O. Powell, Pan American Airways, Walter I. White
 
 ### Community 205 - "Cluster 205"
 Cohesion: 0.67
-Nodes (3): Cassius Rathbun, Robert Cutler, Wladyslaw Krasuski
+Nodes (3): Al W. Hawkins, FBI Butte Teletype (Aug 15, 1947), J. H. Brown
 
 ### Community 206 - "Cluster 206"
 Cohesion: 0.67
-Nodes (3): Colman VonKeviczky, Hermann Oberth, ICUFON (Intercontinental UFO Observer and Analytic Network)
+Nodes (3): Cecelia Fine, Incident 69a, Miss Naddle
 
 ### Community 207 - "Cluster 207"
 Cohesion: 0.67
-Nodes (3): Johan Kepler, Star of Bethlehem, The Tale About the Three Magi
+Nodes (3): Clark AF Base, Incident 206, Incident 208
 
 ### Community 208 - "Cluster 208"
 Cohesion: 0.67
-Nodes (3): J. Bailey Brower, George Fugate, Jr., William Albert Rhodes
+Nodes (3): Winifred G. Clark, John Edgar Hoover, Lt. William G. McGinty
 
 ### Community 209 - "Cluster 209"
 Cohesion: 0.67
-Nodes (3): Lieutenant Frank M. Brown, Captain William L. Davidson, B-25 Crash at Kelso
+Nodes (3): Detachment G (Edwards AFB), Operation KICK OFF, Project IDEALIST
 
 ### Community 210 - "Cluster 210"
 Cohesion: 0.67
-Nodes (3): Miguel Angel Garcia Macias, German Horacio Robles Jr., Stratospheric Aerostats Study
+Nodes (3): Dirty Bird (Radar-Deceptive U-2), Project RAINBOW, Scientific Engineering Institute (SEI)
 
 ### Community 211 - "Cluster 211"
-Cohesion: 1.00
-Nodes (3): D. Arthur Byrnes, Jr., Special Agent FBI, Socorro, New Mexico UFO Incident (April 24, 1964), Lonnie Zamora
+Cohesion: 0.67
+Nodes (3): Dr. Eugene M. Shoemaker, Scientific Debriefing of Walter Schirra (March 12, 1963), Memorandum: Scientific Debriefing of Lt. Cmdr. Walter Schirra
 
 ### Community 212 - "Cluster 212"
 Cohesion: 0.67
-Nodes (3): Chance-Vought XF5U-1, Charles H. Zimmerman, G. Tilghman Richards
+Nodes (3): Aircraft, Evaluation of Objects: All Years (Page 209), Evaluation of Objects: All Years (Page 210)
 
 ### Community 213 - "Cluster 213"
 Cohesion: 0.67
-Nodes (3): N.Y. Journal-American: Soviet Still Wants Answer, N.Y. Journal-American: Report New Red Planes, Soviet Union (USSR)
+Nodes (3): FBI Butte Teletype: Twin Falls Sightings, FBI Memo: Soviet Espionage and Flying Discs, Lt. Col. George D. Garrett, Jr. (AAF)
 
 ### Community 214 - "Cluster 214"
 Cohesion: 0.67
-Nodes (3): Booz•Allen & Hamilton Report (1992), Office of Technology Assessment Report, Parts-Analysis Approach
+Nodes (3): FBI Laboratory Cryptanalysis Section, Martian Coded Message (Hoax), Mildred Sarbanis
 
 ### Community 215 - "Cluster 215"
 Cohesion: 0.67
-Nodes (3): Annual Launch Summary by Booster, Athena Rocket, Minotaur Rocket
+Nodes (3): FBI New York Letter (Sep 4, 1947), Newsday Newspaper, Radio Ham Coded Message
 
 ### Community 216 - "Cluster 216"
 Cohesion: 0.67
-Nodes (3): All-domain Anomaly Resolution Office (AARO), United States Central Command (CENTCOM), DOW-UAP-PR38 (Middle East, 2013)
+Nodes (3): FBI Seattle Teletype (July 16, 1947), Mrs. T. L. Kremmer, Office of Naval Intelligence (ONI) Seattle
 
 ### Community 217 - "Cluster 217"
 Cohesion: 0.67
-Nodes (3): DOW-UAP-D23 Mission Report, DOW-UAP-PR26 (UAE, 2023), DOW-UAP-PR27 (UAE, 2023)
+Nodes (3): FBI-UAP-D002: FD-1057, Unresolved UAP Report, Colorado Springs, 2022, FBI-UAP-D003: Digital Rendering, Unresolved UAP Report, Colorado Springs, 2022, ICA-UAP-D001: Analysis: Colorado Springs UAP Incident, 2022
 
 ### Community 218 - "Cluster 218"
 Cohesion: 0.67
-Nodes (3): Clarence M. Kelley (Director, FBI), John S. Castles (Special Agent, FBI), Larry W. Bryant
+Nodes (3): Glenn Grothman, House Committee on Oversight and Accountability, Subcommittee on National Security, the Border, and Foreign Affairs
 
 ### Community 219 - "Cluster 219"
 Cohesion: 0.67
-Nodes (3): Colman VonKeviczky, Major Hans C. Petersen, International Get Acquainted Program (IGAP)
+Nodes (3): Headquarters, 1808th AACS Wing, Headquarters, 1810th AACS Group, Headquarters, Airways and Air Communications Service
 
 ### Community 220 - "Cluster 220"
 Cohesion: 0.67
-Nodes (3): Edward U. Condon, SAC, San Francisco, University of Colorado
+Nodes (3): Incident 151: Indianapolis, Indiana (Propeller), Incident 152: Indianapolis, Indiana (Cymbal), 1st Lt. Russell J. Carey, Jr.
 
 ### Community 221 - "Cluster 221"
 Cohesion: 0.67
-Nodes (3): George Adamski, Leonard G. Cramp, Queen Juliana of the Netherlands
+Nodes (3): Lubbock Lights, Dr. Donald Menzel, Nature Magazine
 
 ### Community 222 - "Cluster 222"
 Cohesion: 0.67
-Nodes (3): Dow Chemical Fused Sand Incident (1947), Raymond Edward Lane, Richard F. Shaver
+Nodes (3): Horten Tailless Aircraft, Loedding Flying Disc (LD-2), Colonel H. M. McCoy
 
 ### Community 223 - "Cluster 223"
 Cohesion: 0.67
-Nodes (3): E. G. Fitch, G. D. Garrett, Jr., D. M. Ladd
+Nodes (3): Blue Book Project, MHD Propulsion, Category D UAP
 
 ### Community 224 - "Cluster 224"
 Cohesion: 0.67
-Nodes (3): Kenneth Arnold, Major George Sanders, J. E. Smith
+Nodes (3): Gemini 7 Bogey, Frank Borman, James Lovell
 
 ### Community 225 - "Cluster 225"
 Cohesion: 0.67
-Nodes (3): Gravel Air Force Base, John B. Hodge, William B. Walker
+Nodes (3): BNSP Task I, Maxwell W. Hunter II, Robert F. Packard
 
 ### Community 226 - "Cluster 226"
 Cohesion: 0.67
-Nodes (3): Ernest Cuneo, Peter Cameron Jones, Walter Winchell
+Nodes (3): Cassius Rathbun, Robert Cutler, Wladyslaw Krasuski
 
 ### Community 227 - "Cluster 227"
 Cohesion: 0.67
-Nodes (3): 111th CIC Detachment, AEC Patrol Personnel, Oak Ridge Controlled Area
+Nodes (3): Colman VonKeviczky, Hermann Oberth, ICUFON (Intercontinental UFO Observer and Analytic Network)
 
 ### Community 228 - "Cluster 228"
 Cohesion: 0.67
-Nodes (3): 30th Air Division, 663rd AC & W Squadron, Lt. Robinson
+Nodes (3): Johan Kepler, Star of Bethlehem, The Tale About the Three Magi
 
 ### Community 229 - "Cluster 229"
 Cohesion: 0.67
-Nodes (3): Dr. Otto Hahn (Notary), Oskar Linke, Sunday Graphic (July 6, 1952)
+Nodes (3): J. Bailey Brower, George Fugate, Jr., William Albert Rhodes
 
 ### Community 230 - "Cluster 230"
 Cohesion: 0.67
-Nodes (3): Dr. Julius Linke, FBI File 62-83894-329, Francisco Troncoso Silva
+Nodes (3): Lieutenant Frank M. Brown, Captain William L. Davidson, B-25 Crash at Kelso
 
 ### Community 231 - "Cluster 231"
 Cohesion: 0.67
-Nodes (3): FBI File 62-83894-327, FBI File 62-83894-330, Major E. P. Walkers
+Nodes (3): Miguel Angel Garcia Macias, German Horacio Robles Jr., Stratospheric Aerostats Study
 
 ### Community 232 - "Cluster 232"
-Cohesion: 0.67
-Nodes (3): Dr. Hugh L. Dryden, Reverend John Miller, S.T.M., Whirling Wheels (Article)
+Cohesion: 1.00
+Nodes (3): D. Arthur Byrnes, Jr., Special Agent FBI, Socorro, New Mexico UFO Incident (April 24, 1964), Lonnie Zamora
 
 ### Community 233 - "Cluster 233"
 Cohesion: 0.67
-Nodes (3): Aerial Phenomenon Investigation Society, Dave Downey, Jerry Chiappetta
+Nodes (3): Chance-Vought XF5U-1, Charles H. Zimmerman, G. Tilghman Richards
 
 ### Community 234 - "Cluster 234"
 Cohesion: 0.67
-Nodes (3): Summary of Sightings Page 59, Sighting 201 (Sandia Base), Sighting 203 (Kirtland AFB)
+Nodes (3): Booz•Allen & Hamilton Report (1992), Office of Technology Assessment Report, Parts-Analysis Approach
 
 ### Community 235 - "Cluster 235"
 Cohesion: 0.67
-Nodes (3): All-domain Anomaly Resolution Office (AARO), DOW-UAP-PR096, HH11 03 July 2018 UAPs, ODNI-UAP-D001, USPER Narrative, Senior USIC Official
+Nodes (3): Annual Launch Summary by Booster, Athena Rocket, Minotaur Rocket
 
 ### Community 236 - "Cluster 236"
 Cohesion: 0.67
-Nodes (3): Project Bluebook, Project STORK, N.A. Kozyrev
+Nodes (3): All-domain Anomaly Resolution Office (AARO), United States Central Command (CENTCOM), DOW-UAP-PR38 (Middle East, 2013)
 
 ### Community 237 - "Cluster 237"
 Cohesion: 0.67
-Nodes (3): Statistical Chi Square Test, Graphical Presentation of Data, Strategic Areas Analysis
+Nodes (3): DOW-UAP-D23 Mission Report, DOW-UAP-PR26 (UAE, 2023), DOW-UAP-PR27 (UAE, 2023)
 
 ### Community 238 - "Cluster 238"
 Cohesion: 0.67
-Nodes (3): UAP Sighting Data Table - Page 149, UAP Evaluation Statistics - Page 150, UAP Visual Characteristics
+Nodes (3): Clarence M. Kelley (Director, FBI), John S. Castles (Special Agent, FBI), Larry W. Bryant
 
 ### Community 239 - "Cluster 239"
 Cohesion: 0.67
-Nodes (3): CIA UAP Evaluation Table Page 185, CIA UAP Evaluation Table Page 186, CIA UAP Evaluation Table Page 187
+Nodes (3): Colman VonKeviczky, Major Hans C. Petersen, International Get Acquainted Program (IGAP)
 
 ### Community 240 - "Cluster 240"
 Cohesion: 0.67
-Nodes (3): Statistical Tables: Sighting Locations and Months (Page 222), Statistical Tables: Sighting Locations and Months (Page 223), UAP Sighting Locations
+Nodes (3): Edward U. Condon, SAC, San Francisco, University of Colorado
 
 ### Community 241 - "Cluster 241"
 Cohesion: 0.67
-Nodes (3): Dr. Edward Condon, CIA-UAP-016: Sightings in Ladakh, Nepal, Sikkim and Bhutan, University of Colorado UFO Investigation
+Nodes (3): George Adamski, Leonard G. Cramp, Queen Juliana of the Netherlands
 
 ### Community 242 - "Cluster 242"
 Cohesion: 0.67
-Nodes (3): FBI FD-302: Colorado Springs Incident (2022), FBI FD-1057: Forensic Sketch Interview, Digital Rendering: Colorado Springs UAP
+Nodes (3): Dow Chemical Fused Sand Incident (1947), Raymond Edward Lane, Richard F. Shaver
 
 ### Community 243 - "Cluster 243"
 Cohesion: 0.67
-Nodes (3): Alethea Charney, IC D. Louis Barra Jr., Investigator Gray (FAA)
+Nodes (3): E. G. Fitch, G. D. Garrett, Jr., D. M. Ladd
 
 ### Community 244 - "Cluster 244"
 Cohesion: 0.67
-Nodes (3): Sgt. Ben Thompson (Wanaque PD), SAC R. W. Bachman, Theodore John Rubitz
+Nodes (3): Kenneth Arnold, Major George Sanders, J. E. Smith
 
 ### Community 245 - "Cluster 245"
 Cohesion: 0.67
-Nodes (3): SA Fred V. Crowley, Gordon Schacher (Rutgers), Duty Agent Peter Martin (OSI)
+Nodes (3): Gravel Air Force Base, John B. Hodge, William B. Walker
 
 ### Community 246 - "Cluster 246"
 Cohesion: 0.67
-Nodes (3): James W. Mosely, Richard Ogden, Major William T. Coleman, Jr. (USAF)
+Nodes (3): Ernest Cuneo, Peter Cameron Jones, Walter Winchell
 
 ### Community 247 - "Cluster 247"
 Cohesion: 0.67
-Nodes (3): John Grabach, Mrs. George Goarcke, SA Richard C. Lee
+Nodes (3): 111th CIC Detachment, AEC Patrol Personnel, Oak Ridge Controlled Area
 
 ### Community 248 - "Cluster 248"
 Cohesion: 0.67
-Nodes (3): Agent M.A. Sroda (OSI), Stephen Klyce, SA William H. Rockett
+Nodes (3): 30th Air Division, 663rd AC & W Squadron, Lt. Robinson
 
 ### Community 249 - "Cluster 249"
 Cohesion: 0.67
-Nodes (3): William Nordberg, Tennyson, TIROS Satellite
+Nodes (3): Dr. Otto Hahn (Notary), Oskar Linke, Sunday Graphic (July 6, 1952)
 
 ### Community 250 - "Cluster 250"
 Cohesion: 0.67
-Nodes (3): Booster Engine Cut-Off (BECO), Engine 2 Ignition, Staging
+Nodes (3): FBI File 62-83894-327, FBI File 62-83894-330, Major E. P. Walkers
 
 ### Community 251 - "Cluster 251"
 Cohesion: 0.67
+Nodes (3): Dr. Hugh L. Dryden, Reverend John Miller, S.T.M., Whirling Wheels (Article)
+
+### Community 252 - "Cluster 252"
+Cohesion: 0.67
+Nodes (3): Aerial Phenomenon Investigation Society, Dave Downey, Jerry Chiappetta
+
+### Community 253 - "Cluster 253"
+Cohesion: 0.67
+Nodes (3): Summary of Sightings Page 59, Sighting 201 (Sandia Base), Sighting 203 (Kirtland AFB)
+
+### Community 254 - "Cluster 254"
+Cohesion: 0.67
+Nodes (3): All-domain Anomaly Resolution Office (AARO), DOW-UAP-PR096, HH11 03 July 2018 UAPs, ODNI-UAP-D001, USPER Narrative, Senior USIC Official
+
+### Community 255 - "Cluster 255"
+Cohesion: 0.67
+Nodes (3): Project Bluebook, Project STORK, N.A. Kozyrev
+
+### Community 256 - "Cluster 256"
+Cohesion: 0.67
+Nodes (3): Statistical Chi Square Test, Graphical Presentation of Data, Strategic Areas Analysis
+
+### Community 257 - "Cluster 257"
+Cohesion: 0.67
+Nodes (3): UAP Sighting Data Table - Page 149, UAP Evaluation Statistics - Page 150, UAP Visual Characteristics
+
+### Community 258 - "Cluster 258"
+Cohesion: 0.67
+Nodes (3): CIA UAP Evaluation Table Page 185, CIA UAP Evaluation Table Page 186, CIA UAP Evaluation Table Page 187
+
+### Community 259 - "Cluster 259"
+Cohesion: 0.67
+Nodes (3): Statistical Tables: Sighting Locations and Months (Page 222), Statistical Tables: Sighting Locations and Months (Page 223), UAP Sighting Locations
+
+### Community 260 - "Cluster 260"
+Cohesion: 0.67
+Nodes (3): Dr. Edward Condon, CIA-UAP-016: Sightings in Ladakh, Nepal, Sikkim and Bhutan, University of Colorado UFO Investigation
+
+### Community 261 - "Cluster 261"
+Cohesion: 0.67
+Nodes (3): FBI FD-302: Colorado Springs Incident (2022), FBI FD-1057: Forensic Sketch Interview, Digital Rendering: Colorado Springs UAP
+
+### Community 262 - "Cluster 262"
+Cohesion: 0.67
+Nodes (3): Alethea Charney, IC D. Louis Barra Jr., Investigator Gray (FAA)
+
+### Community 263 - "Cluster 263"
+Cohesion: 0.67
+Nodes (3): Sgt. Ben Thompson (Wanaque PD), SAC R. W. Bachman, Theodore John Rubitz
+
+### Community 264 - "Cluster 264"
+Cohesion: 0.67
+Nodes (3): SA Fred V. Crowley, Gordon Schacher (Rutgers), Duty Agent Peter Martin (OSI)
+
+### Community 265 - "Cluster 265"
+Cohesion: 0.67
+Nodes (3): James W. Mosely, Richard Ogden, Major William T. Coleman, Jr. (USAF)
+
+### Community 266 - "Cluster 266"
+Cohesion: 0.67
+Nodes (3): John Grabach, Mrs. George Goarcke, SA Richard C. Lee
+
+### Community 267 - "Cluster 267"
+Cohesion: 0.67
+Nodes (3): Agent M.A. Sroda (OSI), Stephen Klyce, SA William H. Rockett
+
+### Community 268 - "Cluster 268"
+Cohesion: 0.67
+Nodes (3): William Nordberg, Tennyson, TIROS Satellite
+
+### Community 269 - "Cluster 269"
+Cohesion: 0.67
+Nodes (3): Booster Engine Cut-Off (BECO), Engine 2 Ignition, Staging
+
+### Community 270 - "Cluster 270"
+Cohesion: 0.67
 Nodes (3): Incremental Velocity Indicator (IVI), Second Stage Engine Cut-Off (SECO), Spacecraft Separation
+
+### Community 271 - "Cluster 271"
+Cohesion: 0.67
+Nodes (3): Crew Systems Division (CSD), McDonnell Aircraft Corporation (MAC), Urine Management System
+
+### Community 272 - "Cluster 272"
+Cohesion: 0.67
+Nodes (3): Major Albert D. Fowler, Lt Col J. E. Windham, Miss Patricia Mort
+
+### Community 273 - "Cluster 273"
+Cohesion: 1.00
+Nodes (3): Bruno Berberich, C. W. Bollum, Sr., Robert Miethe
+
+### Community 274 - "Cluster 274"
+Cohesion: 0.67
+Nodes (3): Honorable Winfield K. Denton, Major General Joe W. Kelly, Jim Lewis
+
+### Community 275 - "Cluster 275"
+Cohesion: 0.67
+Nodes (3): Paul W. Mathews, SAFLL-1, Senator John J. Sparkman
+
+### Community 276 - "Cluster 276"
+Cohesion: 0.67
+Nodes (3): Chance-Vought XF5U-1, Charles H. Zimmermann, Disc Wing Aeroplane
+
+### Community 277 - "Cluster 277"
+Cohesion: 0.67
+Nodes (3): Federal Bureau of Investigation (FBI), Larry W. Bryant, Tom Mitchell
 
 ## Ambiguous Edges - Review These
 - `Luis Elizondo` → `Immaculate Constellation`  [AMBIGUOUS]
@@ -2456,11 +2681,13 @@ Nodes (3): Incremental Velocity Indicator (IVI), Second Stage Engine Cut-Off (SE
   pursue-r1--65_hs1-834228961_62-hq-83894_section_2.md · relation: conceptually_related_to
 - `DOE-UAP-D003, Pajarito Astronomers Invitation, 1986` → `DOE-UAP-D001, Enhanced PANTEX Imagery`  [AMBIGUOUS]
   pursue-r2--record-index.md · relation: references
+- `Robert Miethe` → `Bruno Berberich`  [AMBIGUOUS]
+  pursue-r4--dow-uap-d095.md · relation: semantically_similar_to
 
 ## Knowledge Gaps
-- **1891 isolated node(s):** `FY 2023 Consolidated Annual Report on UAP`, `Office of the Director of National Intelligence`, `Department of Defense`, `Federal Aviation Administration`, `National Aeronautics and Space Administration` (+1886 more)
+- **2094 isolated node(s):** `FY 2023 Consolidated Annual Report on UAP`, `Office of the Director of National Intelligence`, `Department of Defense`, `Federal Aviation Administration`, `National Aeronautics and Space Administration` (+2089 more)
   These have ≤1 connection - possible missing edges or undocumented components.
-- **746 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+- **813 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
@@ -2471,11 +2698,11 @@ _Questions this graph is uniquely positioned to answer:_
   _Edge tagged AMBIGUOUS (relation: conceptually_related_to) - confidence is low._
 - **What is the exact relationship between `DOE-UAP-D003, Pajarito Astronomers Invitation, 1986` and `DOE-UAP-D001, Enhanced PANTEX Imagery`?**
   _Edge tagged AMBIGUOUS (relation: references) - confidence is low._
-- **Why does `J. Edgar Hoover` connect `J. Edgar Hoover's FBI Field-Office Network` to `Cluster 96`, `Cluster 130`, `Cluster 68`, `Cluster 357`, `AFSCA Contactee Movement`, `Cluster 363`, `OSI/Air Force Section 8 Correspondence`, `Cluster 172`, `Cluster 113`, `Eekhout Propulsion-Theory Correspondence`, `Cluster 343`, `Cluster 57`, `Cluster 92`, `Cluster 61`, `Cluster 319`?**
-  _High betweenness centrality (0.019) - this node is a cross-community bridge._
-- **Why does `Director, FBI (J. Edgar Hoover)` connect `Eekhout Propulsion-Theory Correspondence` to `NICAP & Donald Keyhoe Network`, `AFSCA Contactee Movement`, `OSI/Air Force Section 8 Correspondence`, `William Albert Rhodes & Project Saucer`, `Cluster 109`, `Cluster 148`, `Cluster 55`?**
-  _High betweenness centrality (0.019) - this node is a cross-community bridge._
-- **Why does `Project Sign` connect `Project Sign & Project Grudge` to `Cluster 64`, `Air Intelligence Requirements Memo 4 (FBI Section 5)`, `AARO Historical Report - KONA BLUE/AAWSAP/AATIP`?**
-  _High betweenness centrality (0.019) - this node is a cross-community bridge._
-- **Are the 5 inferred relationships involving `J. Edgar Hoover` (e.g. with `Jim Barden (University of New Mexico)` and `Karl Nyquist`) actually correct?**
-  _`J. Edgar Hoover` has 5 INFERRED edges - model-reasoned connections that need verification._
+- **What is the exact relationship between `Robert Miethe` and `Bruno Berberich`?**
+  _Edge tagged AMBIGUOUS (relation: semantically_similar_to) - confidence is low._
+- **Why does `Project Sign` connect `Project Sign` to `Cluster 96`, `Cluster 69`, `CENTCOM Mission Reports, 2022-24`, `Air Intelligence Requirements Memo 4 (FBI Section 5 / Serial 164)`, `Cluster 126`?**
+  _High betweenness centrality (0.030) - this node is a cross-community bridge._
+- **Why does `All-domain Anomaly Resolution Office (AARO)` connect `CENTCOM Mission Reports, 2022-24` to `Project Sign`, `Project Blue Book & Air Technical Intelligence Center`, `Robertson Panel & NICAP`, `Mercury-Atlas 8 Observation Anomalies (NASA-D015)`, `Cluster 126`?**
+  _High betweenness centrality (0.023) - this node is a cross-community bridge._
+- **Why does `Director, FBI (J. Edgar Hoover)` connect `Eekhout Propulsion-Theory Correspondence` to `AFSCA Contactee Movement`, `Cluster 166`, `U-2 Program - Cold War Operations (CIA-D003)`, `U-2 Program - Cuban Missile Crisis Era (CIA-D003)`, `Cluster 120`, `Cluster 124`, `DOW-D088 Incident Cluster (Holloman Geophysics Lab)`?**
+  _High betweenness centrality (0.021) - this node is a cross-community bridge._

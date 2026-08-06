@@ -1,9 +1,9 @@
-"""Download PURSUE Release 2 + Release 3 PDF/image documents into
-raw/pursue-r2r3/documents/.
+"""Download PURSUE Release 2 + Release 3 + Release 4 PDF/image documents into
+raw/pursue-r2r3/documents/ (dir name predates R4; kept to avoid path churn).
 
 Source of truth: raw/pursue-r2r3/uap-data-master.csv (the official war.gov
 uap-data.csv, saved 2026-08-06 - covers all 4 releases; this script filters
-to Release Date 5/22/26 (R2) and 6/12/26 (R3), Type in {PDF, IMG}).
+to Release Date 5/22/26 (R2), 6/12/26 (R3), 7/10/26 (R4), Type in {PDF, IMG}).
 
 war.gov/medialink blocks plain requests (Akamai) but accepts a real Chrome
 TLS fingerprint - curl_cffi's impersonate="chrome" clears it directly, no
@@ -32,8 +32,8 @@ DEST.mkdir(parents=True, exist_ok=True)
 PORTAL = "https://www.war.gov/UFO/"
 CHUNK_SIZE = 2 * 1024 * 1024  # 2 MB - stays under Akamai's ~3MB single-response cutoff
 
-RELEASE_BY_DATE = {"5/22/26": "PURSUE-R2", "6/12/26": "PURSUE-R3"}
-PREFIX_BY_RELEASE = {"PURSUE-R2": "pursue-r2", "PURSUE-R3": "pursue-r3"}
+RELEASE_BY_DATE = {"5/22/26": "PURSUE-R2", "6/12/26": "PURSUE-R3", "7/10/26": "PURSUE-R4"}
+PREFIX_BY_RELEASE = {"PURSUE-R2": "pursue-r2", "PURSUE-R3": "pursue-r3", "PURSUE-R4": "pursue-r4"}
 
 
 def slugify(title: str) -> str:

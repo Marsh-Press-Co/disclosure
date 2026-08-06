@@ -1,0 +1,44 @@
+{
+ "doc_id": "pursue-r4--cia-uap-d020",
+ "file": "pursue-r4--cia-uap-d020.md",
+ "source": "PURSUE-R4",
+ "agency": "CIA",
+ "title": "CIA-UAP-D020, Memorandum on Unconventional Aircraft Sightings, 1955",
+ "record_type": "document",
+ "index_date": "1955",
+ "index_location": "Azerbaijan",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a CIA memorandum summarizing a debriefing of four individuals, including Senator Richard Russell, regarding a 1955 UAP sighting in the Soviet Union.",
+ "incidents": [
+  {
+   "summary": "A group of four individuals, including U.S. Senator Richard Russell, observed a luminescent greenish-yellow object while traveling by train in the Soviet Union.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "luminescent"
+   ],
+   "color": "greenish-yellow",
+   "country": "Soviet Union",
+   "date": "1955",
+   "explanation": "Probably steep climbing aircraft or missiles.",
+   "explanation_status": "partially-explained",
+   "location_name": "Between Baku and Tiflis, Azerbaijan",
+   "page_refs": [
+    2,
+    3
+   ],
+   "quote": "luminescent greenish-yellow phenomenon",
+   "recording_agency": "CIA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "4",
+   "witness_types": [
+    "government-civilian",
+    "military-other"
+   ]
+  }
+ ]
+}

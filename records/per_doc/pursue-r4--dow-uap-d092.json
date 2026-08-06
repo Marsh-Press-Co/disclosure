@@ -1,0 +1,101 @@
+{
+ "doc_id": "pursue-r4--dow-uap-d092",
+ "file": "pursue-r4--dow-uap-d092.md",
+ "source": "PURSUE-R4",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D092, Department of the Air Force Committee to Review Project Bluebook, 1966-1967",
+ "record_type": "document",
+ "index_date": "4/17/67",
+ "index_location": "Various",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of memoranda and reports from the USAF Scientific Advisory Board regarding the review of Project Blue Book and the implementation of scientific investigations into UFO sightings.",
+ "incidents": [
+  {
+   "summary": "Tremonton, Utah sighting of multiple objects captured on 1600 frames of Kodachrome film.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "orbital paths",
+    "high speed"
+   ],
+   "color": "bluish-white",
+   "country": "USA",
+   "date": "1952-07-02",
+   "explanation": "Panel concluded objects were likely birds or reflections, not self-luminous.",
+   "explanation_status": "explained",
+   "location_name": "Tremonton, Utah",
+   "page_refs": [
+    51,
+    55,
+    59,
+    60,
+    61,
+    62,
+    70,
+    75
+   ],
+   "quote": "The Panel studied these films, the case history, ATIC's interpretation, and received a briefing by representatives of the USN Photo Interpretation Laboratory",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual",
+    "photo"
+   ],
+   "shape": "semi-spherical",
+   "witness_count": "unknown",
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "Great Falls, Montana sighting of objects.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "hovering"
+   ],
+   "country": "USA",
+   "date": "1950-08-15",
+   "explanation": "Objects strongly suspected of being reflections of aircraft.",
+   "explanation_status": "explained",
+   "location_name": "Great Falls, Montana",
+   "page_refs": [
+    51,
+    55,
+    61
+   ],
+   "quote": "The objects in the Great Falls sighting are strongly suspected of being reflections of aircraft known to have been in the area.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "unknown",
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "Ravenna, Ohio sighting.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "USA",
+   "explanation_status": "not-assessed",
+   "location_name": "Ravenna, Ohio",
+   "page_refs": [
+    36
+   ],
+   "quote": "Major Quintella did visit the scene of the Ravenna siting at a later date.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "unknown",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

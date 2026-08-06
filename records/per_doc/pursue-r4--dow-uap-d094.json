@@ -1,0 +1,460 @@
+{
+ "doc_id": "pursue-r4--dow-uap-d094",
+ "file": "pursue-r4--dow-uap-d094.md",
+ "source": "PURSUE-R4",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D094, Analysis of Flying Object Incidents in the United States, 1949",
+ "record_type": "document",
+ "index_date": "4/28/49",
+ "index_location": "Virginia",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a 1948 Air Intelligence Division study analyzing UAP reports and potential Soviet technological threats, including appendices on flying wing aircraft and selected incident reports.",
+ "incidents": [
+  {
+   "summary": "Weather Bureau personnel observed metallic disks through a theodolite on three occasions.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "moving rapidly"
+   ],
+   "color": "metallic",
+   "country": "United States",
+   "date": "1947-04",
+   "location_name": "Richmond, Virginia",
+   "shape": "disk",
+   "size": "large",
+   "witness_types": [
+    "government-civilian",
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "Field engineer reported a disk flying near his home.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "high speed"
+   ],
+   "country": "United States",
+   "date": "1947-05",
+   "location_name": "Oklahoma City, Oklahoma",
+   "shape": "disk",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Air Force lieutenant reported five or six white circular objects in formation.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "formation flight"
+   ],
+   "color": "white",
+   "country": "United States",
+   "date": "1947-06-28",
+   "location_name": "Lake Meade, Nevada",
+   "shape": "circular",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Three observers reported a large disk or sphere moving horizontally.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "moving horizontally",
+    "high speed"
+   ],
+   "country": "United States",
+   "date": "1947-06-29",
+   "location_name": "White Sand, New Mexico",
+   "shape": "disk or sphere",
+   "witness_types": [
+    "scientist",
+    "scientist",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Five police officers reported disks flying over the city.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "medium",
+   "country": "United States",
+   "date": "1947-07-07",
+   "location_name": "Portland, Oregon",
+   "shape": "disk",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "William Rhoads observed and photographed a disk-like object.",
+   "date_precision": "day",
+   "time_of_day": "dusk",
+   "confidence": "high",
+   "behavior": [
+    "circling"
+   ],
+   "country": "United States",
+   "date": "1947-07-07",
+   "location_name": "Phoenix, Arizona",
+   "page_refs": [
+    13
+   ],
+   "quote": "disk-like object with a round front and a square tail",
+   "sensors": [
+    "photo"
+   ],
+   "shape": "disk",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Mechanic reported a circular object leaving a trail.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "high velocity",
+    "paralleling earth's surface"
+   ],
+   "country": "Canada",
+   "date": "1947-07-10",
+   "location_name": "Harmon Field, Newfoundland",
+   "sensors": [
+    "photo"
+   ],
+   "shape": "circular",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Kenneth Arnold reported a formation of flying objects.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "formation flight"
+   ],
+   "country": "United States",
+   "date": "1947-07-20",
+   "location_name": "Tacoma, Washington",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Two Air Force pilots reported two disks trailing a P-80.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "trailing"
+   ],
+   "country": "United States",
+   "date": "1947-07-20",
+   "location_name": "Hamilton Field, California",
+   "shape": "disk",
+   "witness_types": [
+    "military-pilot",
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Pilot and co-pilot reported a disk larger than their aircraft.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "chased"
+   ],
+   "country": "United States",
+   "date": "1947-08-04",
+   "location_name": "Bethel, Alaska",
+   "shape": "disk",
+   "witness_types": [
+    "civilian",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Second officer of tanker reported two disks trailing fire.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "curving in a long, low arc"
+   ],
+   "country": "United States",
+   "date": "1947-10-10",
+   "location_name": "Oregon coast",
+   "shape": "disk",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "National Guard pilot killed while attempting to intercept a large metallic object.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "evasive"
+   ],
+   "color": "metallic",
+   "country": "United States",
+   "date": "1948-01-07",
+   "location_name": "Kentucky",
+   "shape": "unknown",
+   "size": "tremendous",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Three balloon observers reported a round object executing violent maneuvers.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "violent maneuvers"
+   ],
+   "country": "United States",
+   "date": "1948-04-06",
+   "location_name": "Rollman Air Force Base, New Mexico",
+   "shape": "round",
+   "witness_types": [
+    "scientist",
+    "scientist",
+    "scientist"
+   ]
+  },
+  {
+   "summary": "Lt. Comdr. reported a yellow or light colored sphere.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "country": "United States",
+   "date": "1948-04-30",
+   "location_name": "Anacostia Naval Air Station, D.C.",
+   "shape": "sphere",
+   "size": "25 to 40 feet",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Major Hammer reported twelve oval-shaped disks.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "climbing turn",
+    "accelerating"
+   ],
+   "country": "United States",
+   "date": "1948-07-01",
+   "location_name": "Rapid City Air Base",
+   "shape": "oval",
+   "size": "100 feet long",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Seven objects reported in J-formation.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "formation change"
+   ],
+   "country": "United States",
+   "date": "1948-07-17",
+   "location_name": "San Acacia, New Mexico",
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "Pilot and co-pilot saw a blue-white light approaching.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "approaching",
+    "withdrawing"
+   ],
+   "color": "blue-white",
+   "country": "Pacific Ocean",
+   "date": "1947-09-12",
+   "witness_types": [
+    "civilian",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Mr. Booneville observed a reddish glow with jet exhaust.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "wide arc"
+   ],
+   "color": "reddish",
+   "country": "United States",
+   "date": "1948-06-15",
+   "location_name": "Miles City, Montana",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Two Eastern Airlines pilots reported a huge flying craft similar to a V-2.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "United States",
+   "date": "1948-07-26",
+   "shape": "wingless aircraft",
+   "witness_types": [
+    "civilian",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Reporter observed an object northeast of Moscow.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "Soviet Union",
+   "date": "1948-08-03",
+   "location_name": "Moscow",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Lt. Gorman pursued an intermittent white light.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "evasive"
+   ],
+   "color": "white",
+   "country": "United States",
+   "date": "1948-10-01",
+   "location_name": "Fargo, North Dakota",
+   "quote": "small round ball of clear white light",
+   "shape": "round",
+   "size": "6 to 8 inches",
+   "time_local": "2030",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Three reserve pilots encountered an unidentified flying object.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "climb vertically",
+    "circle"
+   ],
+   "color": "dull gray",
+   "country": "United States",
+   "date": "1948-11-18",
+   "location_name": "Andrews Field, Maryland",
+   "quote": "oblong ball with one light, no wings and no exhaust flame",
+   "shape": "oblong",
+   "time_local": "2145",
+   "witness_types": [
+    "military-pilot",
+    "military-pilot",
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "GCA radar picked up an unidentified target.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "split into two targets"
+   ],
+   "country": "Japan",
+   "date": "1947-07-01",
+   "location_name": "Hokkaido",
+   "sensors": [
+    "radar"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "MEW radar picked up a target.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "Japan",
+   "date": "1947-09-16",
+   "location_name": "Fukuoka",
+   "sensors": [
+    "radar"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Captain and wife observed an object identified as a balloon.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "traveled through a vertical arc"
+   ],
+   "color": "bluish luminescence",
+   "country": "United States",
+   "date": "1948-07-22",
+   "explanation": "balloon carrying cosmic ray equipment",
+   "explanation_status": "explained",
+   "location_name": "Van Nuys, California",
+   "shape": "round",
+   "witness_types": [
+    "military-other",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Object observed at Godman Air Force Base identified as Venus.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "color": "silver",
+   "country": "United States",
+   "date": "1948-08-19",
+   "explanation": "planet Venus",
+   "explanation_status": "explained",
+   "location_name": "Godman Air Force Base, Kentucky",
+   "shape": "spherical",
+   "time_local": "1050",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

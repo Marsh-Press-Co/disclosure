@@ -1,0 +1,43 @@
+{
+ "doc_id": "pursue-r4--dow-uap-d091",
+ "file": "pursue-r4--dow-uap-d091.md",
+ "source": "PURSUE-R4",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D091, Range Fouler Debrief, Atlantic Ocean, 2020",
+ "record_type": "document",
+ "index_date": "2020",
+ "index_location": "Atlantic Ocean",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a U.S. Navy Range Fouler Debrief form describing an unidentified aerial phenomenon encounter in the Atlantic Ocean, featuring redactions of specific identifying information.",
+ "incidents": [
+  {
+   "summary": "U.S. military operator observed a dark, maroonish, balloon-shaped object in controlled airspace.",
+   "date_precision": "unknown",
+   "time_of_day": "dusk",
+   "confidence": "high",
+   "behavior": [
+    "traveling with the wind",
+    "did not maneuver or change direction"
+   ],
+   "color": "darker, maroonish",
+   "country": "United States",
+   "explanation_status": "not-assessed",
+   "location_name": "Atlantic Ocean",
+   "page_refs": [
+    1,
+    2
+   ],
+   "quote": "The object itself was a darker , maroonish color, approximately 12-lSft in height",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "large, somewhat deformed balloon",
+   "size": "12-15 feet in height",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

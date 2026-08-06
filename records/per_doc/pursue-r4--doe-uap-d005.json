@@ -1,0 +1,53 @@
+{
+ "doc_id": "pursue-r4--doe-uap-d005",
+ "file": "pursue-r4--doe-uap-d005.md",
+ "source": "PURSUE-R4",
+ "agency": "Department of Energy",
+ "title": "DOE-UAP-D005, Pantex Unidentified Object Incident Report, 2015",
+ "record_type": "document",
+ "index_date": "9/1/15",
+ "index_location": "Texas",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an incident report from the Department of Energy regarding an unidentified object over the Pantex Plant, containing redacted information and references to imagery.",
+ "incidents": [
+  {
+   "summary": "An unidentified object was detected by Ground Surveillance Radar and observed by Protective Force personnel flying over the Pantex Plant.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "flying",
+    "traversed plant",
+    "no sound",
+    "increase in speed",
+    "changed direction"
+   ],
+   "color": "black, silver, red, and blue",
+   "country": "United States",
+   "date": "2015-09-01",
+   "duration": "3-5 minutes",
+   "explanation_status": "not-assessed",
+   "location_name": "Pantex Plant, Amarillo, Texas",
+   "object_count": "1",
+   "page_refs": [
+    3,
+    4
+   ],
+   "quote": "The Lt. and SPO stated that they were unable to identify any type of propulsion system on the object",
+   "recording_agency": "Department of Energy",
+   "sensors": [
+    "radar",
+    "visual",
+    "video"
+   ],
+   "shape": "diamond type shape, round at the top",
+   "size": "approximately 4 ft. tall and 2 ft. wide",
+   "time_local": "0710",
+   "witness_count": "multiple",
+   "witness_types": [
+    "federal-le"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,282 @@
+{
+ "doc_id": "pursue-r4--dow-uap-d096",
+ "file": "pursue-r4--dow-uap-d096.md",
+ "source": "PURSUE-R4",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D096, Correspondence Relating to Project Blue Book, 1955",
+ "record_type": "document",
+ "index_date": "1955",
+ "index_location": "Various",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of correspondence and memoranda relating to the U.S. Air Force's Project Blue Book and the investigation of UAP/UFO sightings between 1955 and 1956.",
+ "incidents": [
+  {
+   "summary": "Meteorite fell through the roof of Mrs. Hodges' home in Sylacauga, Alabama.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "fell from the sky"
+   ],
+   "country": "United States",
+   "date": "1954-11",
+   "explanation": "Meteorite",
+   "explanation_status": "explained",
+   "location_name": "Sylacauga, Alabama",
+   "page_refs": [
+    2,
+    4,
+    43
+   ],
+   "quote": "the object which had fallen from the sky through the roof of Mrs. Hodges' home",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ]
+  },
+  {
+   "summary": "Navy Warrant Officer Delbert C. Newhouse filmed unidentified objects in Tremonton, Utah.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "elliptical or circular pattern",
+    "blinking"
+   ],
+   "color": "bluish-white",
+   "country": "United States",
+   "date": "1952-07-02",
+   "explanation": "unexplained",
+   "explanation_status": "unexplained",
+   "location_name": "Tremonton, Utah",
+   "page_refs": [
+    34,
+    35,
+    52
+   ],
+   "quote": "The Tremonton, Utah motion picutres, taken by Navy Warrant Officer Delbert C. Newhouse",
+   "recording_agency": "US Navy",
+   "sensors": [
+    "visual",
+    "photo"
+   ],
+   "shape": "circular",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Major Charles Scarborough reported sighting a group of 16 UFOs.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "United States",
+   "date": "1954-05-14",
+   "explanation": "not-assessed",
+   "explanation_status": "not-assessed",
+   "location_name": "Dallas, Texas",
+   "page_refs": [
+    36
+   ],
+   "quote": "Major Charles Scarborough, USMCR, reported sighting a group of 16 UFOs",
+   "recording_agency": "USMC",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "flying saucers",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Navy pilots reported UFOs at Barber's Point Naval Air Station.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "country": "United States",
+   "date": "1953-08-06",
+   "explanation": "not-assessed",
+   "explanation_status": "not-assessed",
+   "location_name": "Barber's Point, Hawaii",
+   "page_refs": [
+    36
+   ],
+   "quote": "UFOs were reported on the night of August 6-7, 1953, by one or more Navy pilots",
+   "recording_agency": "US Navy",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Bright light observed in the sky over an Air Force Base in New Mexico.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "moving at a high rate of speed"
+   ],
+   "color": "white",
+   "country": "United States",
+   "date": "1955-02-01",
+   "explanation": "unexplained",
+   "explanation_status": "unexplained",
+   "location_name": "New Mexico",
+   "page_refs": [
+    59
+   ],
+   "quote": "reported seeing a bright light in the sky over [Illegible] AFB",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ]
+  },
+  {
+   "summary": "Cigar-shaped object observed by teachers and students, leaving 'angel's hair' substance.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "traveled horizontally",
+    "wafted angel's hair"
+   ],
+   "color": "silver",
+   "country": "United States",
+   "date": "1955-03-04",
+   "explanation": "unexplained",
+   "explanation_status": "unexplained",
+   "location_name": "Jerome, Ohio",
+   "page_refs": [
+    64
+   ],
+   "quote": "A cigar-shaped silver object traveling at terrific speed that wafted a blanket of \"angel's hair\"",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "cigar-shaped",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Witness observed a flying saucer suspended near Cerro Prieto.",
+   "date_precision": "month",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "suspended in mid-air"
+   ],
+   "country": "Mexico",
+   "date": "1953-04",
+   "explanation": "not-assessed",
+   "explanation_status": "not-assessed",
+   "location_name": "Cerro Prieto, Mexico",
+   "page_refs": [
+    103,
+    108,
+    109,
+    111
+   ],
+   "quote": "I personally saw a flying saucer. It happened one day when I came from Mexicali",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "saucer",
+   "size": "12 feet in diameter",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Scouts observed 8 UFOs racing across Uracca Messa.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "eccentric maneuver",
+    "returned signal"
+   ],
+   "country": "United States",
+   "date": "1955-07-27",
+   "explanation": "not-assessed",
+   "explanation_status": "not-assessed",
+   "location_name": "Philmont Scout Ranch, New Mexico",
+   "page_refs": [
+    147,
+    148
+   ],
+   "quote": "amazed and startled to see approximatily 8 UFO's race across Uracca Messa",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Flight crews sighted an unidentified object with a blue-white exhaust flame.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "exploded with a blinding flash"
+   ],
+   "color": "blue-white",
+   "country": "United States",
+   "date": "1955-09-06",
+   "explanation": "not-assessed",
+   "explanation_status": "not-assessed",
+   "location_name": "Poughkeepsie, New York",
+   "page_refs": [
+    182,
+    184,
+    190,
+    191,
+    192
+   ],
+   "quote": "sighted an unidentified object with a blue-white exhaust flame",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "rocket ship",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Object observed near home, saucer-shaped with a stack on top.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "medium",
+   "behavior": [
+    "passed from east to west"
+   ],
+   "color": "silver",
+   "country": "Canada",
+   "date": "1955-08-09",
+   "explanation": "not-assessed",
+   "explanation_status": "not-assessed",
+   "location_name": "Chase, British Columbia",
+   "page_refs": [
+    179,
+    180
+   ],
+   "quote": "she saw an object, saucer in shape, both on top and bottom with something on top resembling a stack",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "saucer",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

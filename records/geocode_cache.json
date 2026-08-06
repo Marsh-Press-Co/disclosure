@@ -2086,5 +2086,148 @@
   "lat": 38.737213,
   "lon": -104.8808063,
   "display": "Cheyenne Mountain, El Paso County, Colorado, United States"
+ },
+ "Oklahoma City, Oklahoma, United States": {
+  "lat": 35.4729886,
+  "lon": -97.5170536,
+  "display": "Oklahoma City, Oklahoma County, Oklahoma, United States"
+ },
+ "White Sand, New Mexico, United States": null,
+ "White Sand, New Mexico": null,
+ "Hokkaido, Japan": {
+  "lat": 43.4519831,
+  "lon": 142.8197834,
+  "display": "\u5317\u6d77\u9053, \u5317\u6d77\u9053\u5730\u65b9, \u65e5\u672c"
+ },
+ "Tacoma, Washington, United States": {
+  "lat": 47.2455013,
+  "lon": -122.438329,
+  "display": "Tacoma, Pierce County, Washington, United States"
+ },
+ "Fukuoka, Japan": {
+  "lat": 33.6251241,
+  "lon": 130.6180016,
+  "display": "\u798f\u5ca1\u770c, \u65e5\u672c"
+ },
+ "Oregon coast, United States": {
+  "lat": 45.5584959,
+  "lon": -123.9200877,
+  "display": "United States Coast Guard Station Tillamook Bay, Garibaldi Avenue, Garibaldi, Tillamook County, Oregon, 97118, United States"
+ },
+ "Kentucky, United States": {
+  "lat": 37.5726028,
+  "lon": -85.1551411,
+  "display": "Kentucky, United States"
+ },
+ "Rollman Air Force Base, New Mexico, United States": null,
+ "Rollman Air Force Base, New Mexico": null,
+ "Miles City, Montana, United States": {
+  "lat": 46.4070219,
+  "lon": -105.847843,
+  "display": "Miles City, Custer County, Montana, 59301, United States"
+ },
+ "Rapid City Air Base, United States": null,
+ "Rapid City Air Base": null,
+ "Van Nuys, California, United States": {
+  "lat": 34.1866193,
+  "lon": -118.4486675,
+  "display": "Van Nuys Neighborhood Council District, Los Angeles, Los Angeles County, California, 91411, United States"
+ },
+ "United States, United States": {
+  "lat": 38.8939168,
+  "lon": -77.0426534,
+  "display": "United States National Park Service, 1849, C Street Northwest, Ward 2, Washington, District of Columbia, 20240, United States"
+ },
+ "Godman Air Force Base, Kentucky, United States": null,
+ "Godman Air Force Base, Kentucky": null,
+ "Andrews Field, Maryland, United States": null,
+ "Andrews Field, Maryland": null,
+ "New Mexico, United States": {
+  "lat": 34.5802074,
+  "lon": -105.996047,
+  "display": "New Mexico, United States"
+ },
+ "Cerro Prieto, Mexico, Mexico": {
+  "lat": 19.521935,
+  "lon": -99.4791842,
+  "display": "Cerro Prieto, Isidro Fabela, Estado de M\u00e9xico, M\u00e9xico"
+ },
+ "Barber's Point, Hawaii, United States": {
+  "lat": 21.3224532,
+  "lon": -158.0819979,
+  "display": "Barber's Point Elementary School, Tulagi Avenue, Kalaeloa, Kapolei, Honolulu County, Hawaii, 96707, United States"
+ },
+ "Dallas, Texas, United States": {
+  "lat": 32.7762719,
+  "lon": -96.7968559,
+  "display": "Dallas, Dallas County, Texas, United States"
+ },
+ "Sylacauga, Alabama, United States": {
+  "lat": 33.170482,
+  "lon": -86.2514099,
+  "display": "Sylacauga, Talladega County, Alabama, United States"
+ },
+ "Between Baku and Tiflis, Azerbaijan, Soviet Union": null,
+ "Between Baku and Tiflis, Azerbaijan": null,
+ "Azerbaijan, Soviet Union": null,
+ "Azerbaijan": {
+  "lat": 40.3936294,
+  "lon": 47.7872508,
+  "display": "Az\u0259rbaycan"
+ },
+ "Jerome, Ohio, United States": {
+  "lat": 40.1664507,
+  "lon": -83.1757466,
+  "display": "Jerome, Jerome Township, Union County, Ohio, United States"
+ },
+ "Canadian Archipelago, Canada": {
+  "lat": 74.0,
+  "lon": -93.5,
+  "display": "Canadian Arctic Archipelago, \u157f\u146d\u1585\u1456\u14d7\u1483 Qikiqtaaluk Region, \u14c4\u14c7\u1557\u1466 Nunavut, Canada"
+ },
+ "Newfoundland area (4910N/5950W), Canada": null,
+ "Newfoundland area (4910N/5950W)": null,
+ "Philmont Scout Ranch, New Mexico, United States": {
+  "lat": 36.5224651,
+  "lon": -105.0478471,
+  "display": "Philmont Scout Ranch, Cimarron, Colfax County, New Mexico, 87714, United States"
+ },
+ "Chase, British Columbia, Canada": {
+  "lat": 50.8193356,
+  "lon": -119.6861773,
+  "display": "Chase, Thompson-Nicola Regional District, British Columbia, V0E 1M0, Canada"
+ },
+ "Poughkeepsie, New York, United States": {
+  "lat": 41.7065539,
+  "lon": -73.9283672,
+  "display": "City of Poughkeepsie, Dutchess County, New York, 12601, United States"
+ },
+ "Chicago, Illinois, United States": {
+  "lat": 41.8755616,
+  "lon": -87.6244212,
+  "display": "Chicago, South Chicago Township, Cook County, Illinois, United States"
+ },
+ "Eastern United States, United States": {
+  "lat": 39.0057931,
+  "lon": -84.1404082,
+  "display": "Eastern United States, Perimeter Trail, Bantam, Tate Township, Clermont County, Ohio, United States"
+ },
+ "Pantex Plant, Amarillo, Texas, United States": null,
+ "Pantex Plant, Amarillo, Texas": null,
+ "Gulf of America, United States": {
+  "lat": 26.5008451,
+  "lon": -80.0675615,
+  "display": "Gulf of America LLC, 135 SE, Southeast 28th Court, Chapel Hill, Boynton Beach, Palm Beach County, Florida, 33435, United States"
+ },
+ "Yellow Sea, International Waters": null,
+ "Roswell, New Mexico, United States": {
+  "lat": 33.3943282,
+  "lon": -104.5229518,
+  "display": "Roswell, Chaves County, New Mexico, United States"
+ },
+ "Ravenna, Ohio": {
+  "lat": 41.157557,
+  "lon": -81.242047,
+  "display": "Ravenna, Portage County, Ohio, 44266, United States"
  }
 }

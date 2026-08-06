@@ -1,0 +1,463 @@
+{
+ "doc_id": "pursue-r4-record-index",
+ "file": "pursue-r4--record-index.md",
+ "source": "PURSUE-R4",
+ "agency": "Department of War",
+ "title": "PURSUE Release 4 - official record index (all 40 records: documents, videos, images, audio)",
+ "record_type": "index",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an official index of 40 UAP-related records released by the Department of War in 2026.",
+ "incidents": [
+  {
+   "summary": "Group of four individuals including Senator Richard Russell observed a greenish-yellow phenomenon from a train in Azerbaijan.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "color": "greenish-yellow",
+   "country": "Soviet Union",
+   "date": "1955",
+   "explanation": "Steep climbing aircraft or missiles",
+   "explanation_status": "partially-explained",
+   "location_name": "Azerbaijan",
+   "page_refs": [
+    1
+   ],
+   "quote": "reported observing a luminescent “greenish-yellow” phenomenon",
+   "recording_agency": "CIA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "flying saucer",
+   "witness_count": "4",
+   "witness_types": [
+    "government-civilian",
+    "military-other"
+   ]
+  },
+  {
+   "summary": "USAF KC-97 flying near Newfoundland reported simultaneous ground radar returns and aircrew visual sightings.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "country": "Canada",
+   "date": "1955-07",
+   "explanation_status": "unexplained",
+   "location_name": "Newfoundland",
+   "page_refs": [
+    1
+   ],
+   "quote": "unable to explain the simultaneous ground radar returns and aircrew visual sightings.",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Unidentified object intruded into the airspace above the Pantex Plant nuclear facility.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "country": "United States",
+   "date": "2015-09-01",
+   "explanation_status": "not-assessed",
+   "location_name": "Pantex Plant, Amarillo, Texas",
+   "page_refs": [
+    1
+   ],
+   "recording_agency": "Department of Energy",
+   "sensors": [
+    "visual",
+    "photo"
+   ]
+  },
+  {
+   "summary": "Five military personnel observed a small object traveling at high speed with unique flight characteristics.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "straight line",
+    "high speed"
+   ],
+   "country": "United States",
+   "date": "2019",
+   "explanation_status": "not-assessed",
+   "location_name": "Eastern United States",
+   "page_refs": [
+    1
+   ],
+   "quote": "flight characteristics unlike anything [the observer] had seen in 28 years",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual",
+    "ir"
+   ],
+   "size": "small",
+   "witness_count": "5",
+   "witness_types": [
+    "military-pilot",
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Military operator observed a small, metallic, reflective object moving in a constant direction.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "constant direction"
+   ],
+   "color": "metallic",
+   "country": "United States",
+   "date": "2020",
+   "explanation_status": "not-assessed",
+   "location_name": "Eastern United States",
+   "page_refs": [
+    1
+   ],
+   "quote": "quite small and as “continu[ing] in a constant direction.”",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual",
+    "ir"
+   ],
+   "shape": "indistinguishable",
+   "size": "quite small",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Military operator observed a maroonish, deformed balloon-like object traveling with the wind.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "travel with the wind"
+   ],
+   "color": "maroonish",
+   "country": "International Waters",
+   "date": "2020",
+   "explanation_status": "not-assessed",
+   "location_name": "Atlantic Ocean",
+   "page_refs": [
+    1
+   ],
+   "quote": "darker, maroonish color, approximately 12-15 feet in height.",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual",
+    "ir"
+   ],
+   "shape": "deformed balloon",
+   "size": "12-15 feet",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Astronauts aboard Space Shuttle Columbia captured images of an object in low-Earth orbit.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "tumbled"
+   ],
+   "country": "N/A",
+   "date": "1996-11",
+   "explanation_status": "not-assessed",
+   "location_name": "Low-Earth Orbit",
+   "page_refs": [
+    1
+   ],
+   "recording_agency": "NASA",
+   "sensors": [
+    "photo"
+   ],
+   "witness_types": [
+    "astronaut"
+   ]
+  },
+  {
+   "summary": "Infrared sensor captured an object transiting the field-of-view.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "United States",
+   "date": "1996",
+   "explanation_status": "not-assessed",
+   "location_name": "Western United States",
+   "page_refs": [
+    1
+   ],
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ]
+  },
+  {
+   "summary": "Infrared sensor captured an object transiting the field-of-view.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "United States",
+   "date": "2015",
+   "explanation_status": "not-assessed",
+   "location_name": "Eastern United States",
+   "page_refs": [
+    1
+   ],
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ]
+  },
+  {
+   "summary": "Infrared sensor tracked an object that repeatedly entered and exited the field-of-view.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "International Waters",
+   "date": "2016",
+   "explanation_status": "not-assessed",
+   "location_name": "Atlantic Ocean",
+   "page_refs": [
+    1
+   ],
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ]
+  },
+  {
+   "summary": "Infrared sensor captured an object flickering in the display.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "United States",
+   "date": "2019",
+   "explanation_status": "not-assessed",
+   "location_name": "Gulf of America",
+   "page_refs": [
+    1
+   ],
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ]
+  },
+  {
+   "summary": "Infrared sensor tracked an object that repeatedly entered and exited the field-of-view.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "United States",
+   "date": "2020",
+   "explanation_status": "not-assessed",
+   "location_name": "Eastern United States",
+   "page_refs": [
+    1
+   ],
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ]
+  },
+  {
+   "summary": "Infrared sensor tracked an object that left the field-of-view.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "United States",
+   "date": "2020",
+   "explanation_status": "not-assessed",
+   "location_name": "Western United States",
+   "page_refs": [
+    1
+   ],
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ]
+  },
+  {
+   "summary": "Infrared sensor tracked an object that increased in angular size.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "United States",
+   "date": "2020",
+   "explanation_status": "not-assessed",
+   "location_name": "Eastern United States",
+   "page_refs": [
+    1
+   ],
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ]
+  },
+  {
+   "summary": "Infrared sensor tracked multiple areas of contrast.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "United States",
+   "date": "2020",
+   "explanation_status": "not-assessed",
+   "location_name": "Eastern United States",
+   "page_refs": [
+    1
+   ],
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ]
+  },
+  {
+   "summary": "Infrared sensor tracked two bright objects.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "Middle East",
+   "date": "2023",
+   "explanation_status": "not-assessed",
+   "location_name": "Middle East",
+   "page_refs": [
+    1
+   ],
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ]
+  },
+  {
+   "summary": "Infrared sensor tracked two objects transiting the field-of-view.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "Middle East",
+   "date": "2023",
+   "explanation_status": "not-assessed",
+   "location_name": "Middle East",
+   "page_refs": [
+    1
+   ],
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ]
+  },
+  {
+   "summary": "Electro-optical and infrared sensor tracked an object.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "International Waters",
+   "date": "2023",
+   "explanation_status": "not-assessed",
+   "location_name": "Yellow Sea",
+   "page_refs": [
+    1
+   ],
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual",
+    "ir"
+   ]
+  },
+  {
+   "summary": "Infrared sensor tracked an elongated object appearing as a line of multiple objects.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "International Waters",
+   "date": "2024",
+   "explanation_status": "not-assessed",
+   "location_name": "South China Sea",
+   "page_refs": [
+    1
+   ],
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ]
+  },
+  {
+   "summary": "Infrared sensor tracked an object.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "International Waters",
+   "date": "2024",
+   "explanation_status": "not-assessed",
+   "location_name": "East China Sea",
+   "page_refs": [
+    1
+   ],
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ]
+  },
+  {
+   "summary": "Infrared sensor tracked an object.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "International Waters",
+   "date": "2024",
+   "explanation_status": "not-assessed",
+   "location_name": "East China Sea",
+   "page_refs": [
+    1
+   ],
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ]
+  },
+  {
+   "summary": "Infrared sensor tracked an object resembling a six-pointed star.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "International Waters",
+   "date": "2025",
+   "explanation_status": "not-assessed",
+   "location_name": "Yellow Sea",
+   "page_refs": [
+    1
+   ],
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "six-pointed star"
+  },
+  {
+   "summary": "Infrared sensor tracked an object.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "International Waters",
+   "date": "2025",
+   "explanation_status": "not-assessed",
+   "location_name": "East China Sea",
+   "page_refs": [
+    1
+   ],
+   "recording_agency": "Department of War",
+   "sensors": [
+    "ir"
+   ]
+  }
+ ]
+}

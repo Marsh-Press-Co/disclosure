@@ -1,0 +1,20 @@
+{
+ "doc": "pursue-r4--record-index.md",
+ "leads": [
+  {
+   "page": 1,
+   "lead_type": "contractor-involvement",
+   "claim": "A 1949 conference on aerial phenomena was held at Los Alamos Scientific Laboratory involving eminent scientists.",
+   "strength": "noise",
+   "why": "The document describes a scientific conference on aerial phenomena but provides no evidence of physical material recovery or custody."
+  },
+  {
+   "page": 1,
+   "lead_type": "biological",
+   "claim": "Astronauts discussed the 'light flash phenomena' caused by cosmic rays striking the retina.",
+   "strength": "noise",
+   "why": "This refers to a well-documented biological effect of cosmic radiation on the human eye, not biological material from a UAP."
+  }
+ ],
+ "doc_verdict": "This document contains no information suggesting the government or its contractors obtained, held, or analyzed physical material from a UAP."
+}

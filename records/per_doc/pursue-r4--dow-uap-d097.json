@@ -1,0 +1,83 @@
+{
+ "doc_id": "pursue-r4--dow-uap-d097",
+ "file": "pursue-r4--dow-uap-d097.md",
+ "source": "PURSUE-R4",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D097, Project Sign Progress Report, 1948",
+ "record_type": "document",
+ "index_date": "1948",
+ "index_location": "Various",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an initial progress report on Project Sign from the Air Materiel Command, detailing 100 UFO sightings and including technical articles on low aspect ratio aircraft.",
+ "incidents": [
+  {
+   "summary": "Project Sign report on 100 UFO sightings from 1947-1948.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "oval, disc, saucer",
+   "size": "26-cent piece to 260 feet",
+   "witness_count": "100",
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "Incident 40: Photograph of a UAP.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "photo"
+   ],
+   "shape": "elliptical",
+   "size": "20-30 ft",
+   "witness_count": "1",
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "Incident 1: Muroc Air Field sighting.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "date": "1947-07-09",
+   "time_local": "0930",
+   "witness_count": "5",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Incident 33d: Godman Field sighting.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "date": "1948-01-07",
+   "time_local": "1400",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Incident 57: Sighting at sea near Australia.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "date": "1947-07-20",
+   "time_local": "0015Z",
+   "witness_count": "1",
+   "witness_types": [
+    "unknown"
+   ]
+  }
+ ]
+}

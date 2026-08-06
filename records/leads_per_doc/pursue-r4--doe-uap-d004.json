@@ -1,0 +1,24 @@
+{
+ "doc": "pursue-r4--doe-uap-d004.md",
+ "leads": [
+  {
+   "page": 9,
+   "lead_type": "debris-material",
+   "claim": "A rumor circulated that a meteorite recovered in Northern Kansas was something other than an ordinary meteorite, but it was proven to be ordinary.",
+   "strength": "noise",
+   "why": "The document explicitly states the recovered object was proven to be an ordinary meteorite, dismissing the anomalous claim.",
+   "outcome_in_document": "confirmed-mundane",
+   "quote": "finally recovered meteorite up there and proved it was everything but an ordinary meteorite fall"
+  },
+  {
+   "page": 15,
+   "lead_type": "debris-material",
+   "claim": "Dr. LaPaz notes that while meteorites are usually recovered after sightings, no fragments have been found in the case of the green fireballs.",
+   "strength": "noise",
+   "why": "The claim is that no material was recovered, and the discussion centers on the absence of physical evidence for the observed phenomena.",
+   "outcome_in_document": "unresolved",
+   "quote": "Do you think it is unusual no fragments are found? Dr. LaPaz: I certainly do."
+  }
+ ],
+ "doc_verdict": "This document is a transcript of a 1949 scientific conference discussing aerial phenomena and meteorites; it contains no evidence of the government or contractors obtaining or holding UAP-related material."
+}

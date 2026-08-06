@@ -1,0 +1,77 @@
+{
+ "doc_id": "pursue-r4--dow-uap-d095",
+ "file": "pursue-r4--dow-uap-d095.md",
+ "source": "PURSUE-R4",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D095, Joint U.S.-Canadian Aviation Projects and UFO Sighting Reports, 1954-1955",
+ "record_type": "document",
+ "index_date": "1955",
+ "index_location": "Various",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of reports and correspondence regarding the Avro Project Y2 (a circular VTOL aircraft) and its potential confusion with UFO reports, as well as specific UFO sighting reports and the CIRVIS reporting program.",
+ "incidents": [
+  {
+   "summary": "KC-97 tanker crew reported sighting an unidentified airborne object in the Newfoundland area, with simultaneous GCI radar return.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "unidentified flight"
+   ],
+   "country": "Canada",
+   "date": "1955-07-06",
+   "explanation": "Tentatively attributed to electrical phenomenon and visual misinterpretation by aircrew members.",
+   "explanation_status": "partially-explained",
+   "location_name": "Newfoundland area (4910N/5950W)",
+   "page_refs": [
+    35,
+    36,
+    40,
+    41,
+    43,
+    45,
+    46
+   ],
+   "quote": "unable to explain the simultaneous ground radar returns and aircrew visual sightings",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_types": [
+    "military-pilot",
+    "military-other"
+   ]
+  },
+  {
+   "summary": "RB-47 aircraft crews reported sightings of unidentified objects over the Canadian Archipelago.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "unidentified flight"
+   ],
+   "country": "Canada",
+   "date": "1955-06-01",
+   "explanation": "Tentatively identified as aircraft of unknown nationality; radar data inconclusive.",
+   "explanation_status": "partially-explained",
+   "location_name": "Canadian Archipelago",
+   "page_refs": [
+    43,
+    44,
+    46
+   ],
+   "quote": "visual sightings on 3 and 8 June 1955 by RB-47 crew members over the Canadian Archipelago were aircraft of unknown nationality",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_types": [
+    "military-pilot",
+    "military-other"
+   ]
+  }
+ ]
+}

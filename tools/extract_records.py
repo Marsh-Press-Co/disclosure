@@ -195,8 +195,12 @@ def extract_doc(fm: dict, pages, depth=0):
         result["chunks"] = 1
         return result
     except (ValueError, json.JSONDecodeError) as e:
-        if len(pages) > MIN_CHUNK_PAGES and depth < 4:
-            print(f"    chunk too big ({e}); splitting {label}")
+        # On failure (unlike the pre-emptive size split above), split even below
+        # MIN_CHUNK_PAGES - a small garbled-OCR chunk can trigger degenerate
+        # generation deterministically; isolating it to single pages is the only
+        # way forward short of giving up (2026-08-06, DOW-UAP-D090).
+        if len(pages) > 1 and depth < 4:
+            print(f"    chunk failed ({e}); splitting {label}")
             mid = len(pages) // 2
             left = extract_doc(fm, pages[:mid], depth + 1)
             time.sleep(SLEEP_BETWEEN)

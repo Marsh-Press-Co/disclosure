@@ -1,0 +1,59 @@
+{
+ "doc_id": "pursue-r4--dow-uap-d092",
+ "file": "pursue-r4--dow-uap-d092.md",
+ "source": "PURSUE-R4",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D092, Department of the Air Force Committee to Review Project Bluebook, 1966-1967",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of memoranda and reports from the USAF Scientific Advisory Board regarding the review of Project Blue Book, containing summaries of historical UFO case investigations.",
+ "encounters": [
+  {
+   "summary": "A sighting of objects in Tremonton, Utah, involving motion picture film analysis by the USN Photo Interpretation Laboratory.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1952-07-02",
+   "date_precision": "day",
+   "entity_appearance": "circular, bluish-white objects",
+   "location_name": "Tremonton, Utah",
+   "page_refs": [
+    51,
+    55,
+    59,
+    60,
+    61,
+    62,
+    75
+   ],
+   "physical_effects": [
+    "self-luminous"
+   ],
+   "quote": "The objects sighted were not birds, balloons or aircraft"
+  },
+  {
+   "summary": "A sighting of objects in Great Falls, Montana, involving motion picture film.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1950-08-15",
+   "date_precision": "day",
+   "location_name": "Great Falls, Montana",
+   "page_refs": [
+    51,
+    55,
+    61,
+    75
+   ],
+   "quote": "The objects in the Great Falls sighting are strongly suspected of being reflections of aircraft"
+  }
+ ]
+}

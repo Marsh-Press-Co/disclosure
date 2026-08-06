@@ -1,8 +1,8 @@
 {
   "built": "2026-08-06",
-  "documents": 197,
-  "total_words": 2327738,
-  "total_pages": 8029,
+  "documents": 215,
+  "total_words": 2483433,
+  "total_pages": 8591,
   "by_source": {
     "PURSUE-R1": {
       "docs": 117,
@@ -20,13 +20,17 @@
       "docs": 3,
       "words": 50929
     },
+    "PURSUE-R4": {
+      "docs": 18,
+      "words": 136614
+    },
     "PURSUE-R3": {
       "docs": 64,
-      "words": 910346
+      "words": 928214
     },
     "PURSUE-R2": {
       "docs": 7,
-      "words": 51652
+      "words": 52865
     }
   },
   "docs": [
@@ -1909,7 +1913,7 @@
       "agency": "CIA",
       "record_type": "document",
       "pages": 3,
-      "words": 651,
+      "words": 820,
       "source_url": "https://www.war.gov/medialink/ufo/052226/release_02/documents/CIA-UAP-D001_Intelligence_Information_Report_USSR_1973.pdf",
       "sha256": "d3039ed486d8400be3263c0c438b199abfdb8ac030156baff1536f007349d315",
       "text_status": "extracted-digital-or-vision"
@@ -1922,7 +1926,7 @@
       "agency": "Department of Energy",
       "record_type": "document",
       "pages": 2,
-      "words": 57,
+      "words": 123,
       "source_url": "https://www.war.gov/medialink/ufo/052226/release_02/documents/DOE-UAP-D001_PANTEX_Image.pdf",
       "sha256": "4c007724fa7325d211123c153e1ed3eb989635302a6d2cd8757319d7f69358de",
       "text_status": "extracted-digital-or-vision"
@@ -1935,7 +1939,7 @@
       "agency": "Department of Energy",
       "record_type": "document",
       "pages": 4,
-      "words": 408,
+      "words": 487,
       "source_url": "https://www.war.gov/medialink/ufo/052226/release_02/documents/DOE-UAP-D002_JamesTuck_Correspondence.pdf",
       "sha256": "324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572c75f51ec",
       "text_status": "extracted-digital-or-vision"
@@ -1948,7 +1952,7 @@
       "agency": "Department of Energy",
       "record_type": "document",
       "pages": 1,
-      "words": 100,
+      "words": 209,
       "source_url": "https://www.war.gov/medialink/ufo/052226/release_02/documents/DOE-UAP-D003_Pajarito_Astronomers.pdf",
       "sha256": "89ecb1163e42d3e8a215033b88e87ae3befe82a8dad1db112fae7e760bb756f4",
       "text_status": "extracted-digital-or-vision"
@@ -1961,7 +1965,7 @@
       "agency": "Department of War",
       "record_type": "document",
       "pages": 116,
-      "words": 33973,
+      "words": 34500,
       "source_url": "https://www.war.gov/medialink/ufo/052226/release_02/documents/DOW-UAP-D017_General_Correspondence_Of_Sandia.pdf",
       "sha256": "ec72132902a2f50d2ab032031386710fef1d1ae1face0226a90243f61d9347b4",
       "text_status": "extracted-digital-or-vision"
@@ -1974,7 +1978,7 @@
       "agency": "Office of the Director of National Intelligence",
       "record_type": "document",
       "pages": 2,
-      "words": 944,
+      "words": 1207,
       "source_url": "https://www.war.gov/medialink/ufo/052226/release_02/documents/ODNI-UAP-D001_USPER_Narrative_Senior_USIC.pdf",
       "sha256": "bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64319dbffb",
       "text_status": "extracted-digital-or-vision"
@@ -1998,7 +2002,7 @@
       "agency": "CIA",
       "record_type": "document",
       "pages": 42,
-      "words": 8001,
+      "words": 8372,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-002_Scientific-Advisory-Panel-on-Unidentified-Flying-Objects_Report_1952-1953.pdf",
       "sha256": "a56e49ed5dd5fbb00b70101762b3eb9bb6148aeb380163ece648d377dfa5e5c7",
       "text_status": "extracted-digital-or-vision"
@@ -2011,7 +2015,7 @@
       "agency": "CIA",
       "record_type": "document",
       "pages": 406,
-      "words": 122476,
+      "words": 123831,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-003-THE_CENTRAL_INTELLIGENCE_AGENCY_AND_OVERHEAD_RECONNAISSANCE-THE_U-2_AND_OXCART_PROGRAMS_1954-1974.pdf",
       "sha256": "3a11822b45f559acc6063304bdbf16977a21dc86ca3a7a743c1a60e40f98b8d1",
       "text_status": "extracted-digital-or-vision"
@@ -2024,7 +2028,7 @@
       "agency": "CIA",
       "record_type": "document",
       "pages": 1,
-      "words": 383,
+      "words": 471,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-004-CASE_17708_CLOSED_AND_DR_LEON_DAVIDSON.pdf",
       "sha256": "3e03f61e60ce007256731bcb7119d15829cee3d532b21336c7c06177c19414c8",
       "text_status": "extracted-digital-or-vision"
@@ -2037,7 +2041,7 @@
       "agency": "CIA",
       "record_type": "document",
       "pages": 4,
-      "words": 1741,
+      "words": 1868,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-005-GERMAN_SCIENTISTS_ ARTICLE_ON_FLYING_DISCS.pdf",
       "sha256": "85e84eb491e2331aebecb0ea021eb64d67795dc4c25197ca293ddfcffc81dee9",
       "text_status": "extracted-digital-or-vision"
@@ -2050,7 +2054,7 @@
       "agency": "CIA",
       "record_type": "document",
       "pages": 2,
-      "words": 876,
+      "words": 975,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-006_Sighting_of_Unconventional_Aircraft.pdf",
       "sha256": "eaa9a2e8a96ab61bf2a4e1bac1a68b6a896f2fec16fb2b11a158072d9e9ba58e",
       "text_status": "extracted-digital-or-vision"
@@ -2063,7 +2067,7 @@
       "agency": "CIA",
       "record_type": "document",
       "pages": 3,
-      "words": 1015,
+      "words": 1124,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-007_Current_Status_of_Unidentified_Flying_Objects_UFO_Project.pdf",
       "sha256": "855a0d73d1e9c0fc1b8999aee6fd4186f1539c1b7f7f3d60c4ed60ea35dd35f8",
       "text_status": "extracted-digital-or-vision"
@@ -2076,7 +2080,7 @@
       "agency": "CIA",
       "record_type": "document",
       "pages": 2,
-      "words": 362,
+      "words": 510,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-008_SPECULATIVE_PAPER_BY_N_KARDASHEV_AND_A_SAKHAROV.pdf",
       "sha256": "3e8ee13c5fa8d61a646144adcf3469b728339c11d6303a1f1b98f1ef1827799e",
       "text_status": "extracted-digital-or-vision"
@@ -2089,7 +2093,7 @@
       "agency": "CIA",
       "record_type": "document",
       "pages": 1,
-      "words": 13,
+      "words": 91,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-009-UNKNOWN-FLYING_OBJECTS_OBERVED_OVER_BUDAPEST.pdf",
       "sha256": "d2ff89273ce8bf19a5e9962b210e3954d4e0153ac493a5c9d8c2c140af6a5c17",
       "text_status": "extracted-digital-or-vision"
@@ -2102,7 +2106,7 @@
       "agency": "CIA",
       "record_type": "document",
       "pages": 2,
-      "words": 1410,
+      "words": 1505,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-010_REPORT_ON_CONVERSATIONS_WITH_SOVIET_SCIENTISTS_ON_SUBJECT_OF_UNIDENTIFIED_FLYING_OBJECTS_IS_THE_USSR.pdf",
       "sha256": "3abdbd131944fb847ec6eda8bf7f3f12684812bec71ea27c22ab5c3bb2ed4eb9",
       "text_status": "extracted-digital-or-vision"
@@ -2115,7 +2119,7 @@
       "agency": "CIA",
       "record_type": "document",
       "pages": 3,
-      "words": 703,
+      "words": 816,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-011-The_Sary_Shagan_Weapons_Testing_Range.pdf",
       "sha256": "b5a4f68efde9027964d44f4b6f1d0c83a57d44a842c3030f2fd8a58e5f115baf",
       "text_status": "extracted-digital-or-vision"
@@ -2128,7 +2132,7 @@
       "agency": "CIA",
       "record_type": "document",
       "pages": 2,
-      "words": 683,
+      "words": 794,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-012-Combatting_Fatigue_in_Crewmembers.pdf",
       "sha256": "490841ebe7487b3e7386ca5fa22c256b678fafa58aa79fae925bf9fe72771c28",
       "text_status": "extracted-digital-or-vision"
@@ -2141,7 +2145,7 @@
       "agency": "CIA",
       "record_type": "document",
       "pages": 1,
-      "words": 420,
+      "words": 523,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-013-Report_of_Unusual_Flying_Object_Sightings_and_Attendant_Scientific_Activity.pdf",
       "sha256": "6004fb66d76ccf50c3f0729bd218efcd4485395e8491e88b1bf257fc2ea36733",
       "text_status": "extracted-digital-or-vision"
@@ -2154,7 +2158,7 @@
       "agency": "CIA",
       "record_type": "document",
       "pages": 2,
-      "words": 589,
+      "words": 695,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-014_British_Activity_in_the_Field_of_Unidentified_Flying_Objects.pdf",
       "sha256": "a1eefc277c9c98450d4d5cf6dde3e191184a38db541b82a767804ab503926a6c",
       "text_status": "extracted-digital-or-vision"
@@ -2167,7 +2171,7 @@
       "agency": "CIA",
       "record_type": "document",
       "pages": 312,
-      "words": 172578,
+      "words": 173620,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf",
       "sha256": "90e05e77fc088c29758c2ddda514c0c12f317e5686ee213d348db2f9da152ee3",
       "text_status": "extracted-digital-or-vision"
@@ -2180,7 +2184,7 @@
       "agency": "CIA",
       "record_type": "document",
       "pages": 6,
-      "words": 907,
+      "words": 1030,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-016-Sightings_of_Unidentified_Flying_Ojbects_in_Ladakh_Nepal_Sikkim_and_Bhutan.pdf",
       "sha256": "c6c33cf9f578f24210e3d6454139f20279d025f6d25b4bc6bf3cc3d27865e7fe",
       "text_status": "extracted-digital-or-vision"
@@ -2193,7 +2197,7 @@
       "agency": "CIA",
       "record_type": "document",
       "pages": 3,
-      "words": 551,
+      "words": 652,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-017_Placement_on_High_Alert_Due_to_Perceived_Aggressive_Foreign_Posturing.pdf",
       "sha256": "4332ebe48c3fcb1ef53e9186d90f38142e8465f553388a5d8dff277c87a92b16",
       "text_status": "extracted-digital-or-vision"
@@ -2206,7 +2210,7 @@
       "agency": "CIA",
       "record_type": "document",
       "pages": 3,
-      "words": 768,
+      "words": 870,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-018_Report_of_Unusual_Flying_Object_Sightings_and_Attendant_Scientific_Activity.pdf",
       "sha256": "1f6d1a95647dbd14d34534db4c71654e4b437c61a160df24fc142ef60790b730",
       "text_status": "extracted-digital-or-vision"
@@ -2219,7 +2223,7 @@
       "agency": "CIA",
       "record_type": "document",
       "pages": 19,
-      "words": 6038,
+      "words": 6177,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-019-Australian_Dept_of_Defense_Scientific_and_Intel_Aspects_of_the_UFO_Problem.pdf",
       "sha256": "a91a8665371816b5463dff7de2f1c4c02ac449ba122d088b2898592c82dba9dc",
       "text_status": "extracted-digital-or-vision"
@@ -2232,7 +2236,7 @@
       "agency": "Department of War",
       "record_type": "document",
       "pages": 4,
-      "words": 1564,
+      "words": 1681,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/DOW-UAP-D077_Unresolved-Case-Analysis-Update_Western-United-States-Event.pdf",
       "sha256": "5eb571dbfd4faa81c2b52266e0e0ea933cde481325f8548aefac5b9b09eb42d1",
       "text_status": "extracted-digital-or-vision"
@@ -2245,7 +2249,7 @@
       "agency": "Department of War",
       "record_type": "document",
       "pages": 1,
-      "words": 155,
+      "words": 256,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/DOW-UAP-D078_Notional-Map_Western-United-States-Event.pdf",
       "sha256": "284e470d213a798271fd7ade00d345cd17d4d5fca154db1e3ca5a04f34cc3bbe",
       "text_status": "extracted-digital-or-vision"
@@ -2258,7 +2262,7 @@
       "agency": "Department of War",
       "record_type": "document",
       "pages": 2,
-      "words": 1140,
+      "words": 1255,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/DoW-UAP-D079_Narrative-1_Western-US-Event.pdf",
       "sha256": "670dbdbe40e70fa5f46485273d8f2c0eef7e604a7487416343ebec8bfc5f30c1",
       "text_status": "extracted-digital-or-vision"
@@ -2271,7 +2275,7 @@
       "agency": "Department of War",
       "record_type": "document",
       "pages": 8,
-      "words": 2230,
+      "words": 2363,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/DoW-UAP-D080_Narrative-2_Western-US-Event.pdf",
       "sha256": "2b011f25bb6fed4870766506b5799374cb3589d747c29e4227bab99ee779665b",
       "text_status": "extracted-digital-or-vision"
@@ -2284,7 +2288,7 @@
       "agency": "Department of War",
       "record_type": "document",
       "pages": 2,
-      "words": 993,
+      "words": 1108,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/DoW-UAP-D081_Narrative-3_Western-US-Event.pdf",
       "sha256": "3c369f9660a3528455b6140d03dfef6bc94b1cf430b85ce26938e5adf1dd1e9d",
       "text_status": "extracted-digital-or-vision"
@@ -2297,7 +2301,7 @@
       "agency": "Department of War",
       "record_type": "document",
       "pages": 3,
-      "words": 1404,
+      "words": 1522,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/DoW-UAP-D082_Narrative-4_Western-US-Event.pdf",
       "sha256": "d522d9a289caaa7b2c9143bc1e80aa37764066791097824ffeb898b500200e1e",
       "text_status": "extracted-digital-or-vision"
@@ -2310,7 +2314,7 @@
       "agency": "Department of War",
       "record_type": "document",
       "pages": 5,
-      "words": 1630,
+      "words": 1754,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/DoW-UAP-D083_Narrative-5_Western-US-Event.pdf",
       "sha256": "ad70e6d8f9091d432dd89d9cd803734c0a297f16cb211311feb609fb435ff360",
       "text_status": "extracted-digital-or-vision"
@@ -2323,7 +2327,7 @@
       "agency": "Department of War",
       "record_type": "document",
       "pages": 25,
-      "words": 7334,
+      "words": 7497,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/DOW-UAP-D084_USArmy-Flying-Saucer-Study_1949.pdf",
       "sha256": "b2e4554e261e980c10251e927942300342081109a50b4ef61dc37946deade80f",
       "text_status": "extracted-digital-or-vision"
@@ -2336,7 +2340,7 @@
       "agency": "Department of War",
       "record_type": "document",
       "pages": 7,
-      "words": 2141,
+      "words": 2225,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/DOW-UAP-D085_Transmission-of-CIA-Scientific-Advisory-Panel-Rept_1953.pdf",
       "sha256": "43f3553b900cf8cceab5575edc33e14e6b6e980764ae78f979be664829efb089",
       "text_status": "extracted-digital-or-vision"
@@ -2349,7 +2353,7 @@
       "agency": "Department of War",
       "record_type": "document",
       "pages": 3,
-      "words": 544,
+      "words": 641,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/DOW-UAP-D086_USNavy-Report-of-Flying-Discs_1948.pdf",
       "sha256": "f96457d53f3cd65aec3fc539e7138cc42a5ea962654a83c75abbd0f13d54383c",
       "text_status": "extracted-digital-or-vision"
@@ -2362,7 +2366,7 @@
       "agency": "Department of War",
       "record_type": "document",
       "pages": 253,
-      "words": 26190,
+      "words": 27039,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/DOW-UAP-D087_US-AirForce_Analysis-of-Flying-Objects-in-the-US_1-100.pdf",
       "sha256": "8004ab172820cb1e35c195b32badf6ede8b5cf12d27c474e54c8788bc14815a9",
       "text_status": "extracted-digital-or-vision"
@@ -2375,7 +2379,7 @@
       "agency": "Department of War",
       "record_type": "document",
       "pages": 210,
-      "words": 39880,
+      "words": 40599,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/DOW-UAP-D088_US-AirForce_Analysis-of-Flying-Objects-in-the-US_101-172.pdf",
       "sha256": "0d53232bd0d23672c053bbdac4241e5693eae4d156b8c709e109de31191da117",
       "text_status": "extracted-digital-or-vision"
@@ -2388,7 +2392,7 @@
       "agency": "FBI",
       "record_type": "document",
       "pages": 2,
-      "words": 675,
+      "words": 850,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/FBI-UAP-D001_FD-302_Unresolved-UAP-Report_ColoradoSprings_2022.pdf",
       "sha256": "22528109268e1ed19d3a10f35d91b66077b674315c283e3ba6e3714743c41f4f",
       "text_status": "extracted-digital-or-vision"
@@ -2401,7 +2405,7 @@
       "agency": "FBI",
       "record_type": "document",
       "pages": 2,
-      "words": 426,
+      "words": 541,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/FBI-UAP-D002_FD-1057_Unresolved-UAP-Report_ColoradoSprings_2022.pdf",
       "sha256": "f73ffa1579ecc8916492166021bac801e421f058779127e8bb4bf1ded02cc3a1",
       "text_status": "extracted-digital-or-vision"
@@ -2414,7 +2418,7 @@
       "agency": "FBI",
       "record_type": "document",
       "pages": 1,
-      "words": 95,
+      "words": 192,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/FBI-UAP-D003_Digital-Rendering_Unresolved-UAP-Report_ColoradoSprings_2022.pdf",
       "sha256": "e067ec3753f24fbe26501a3932bce900124efea19ce5f949368f1b74d95fb53d",
       "text_status": "extracted-digital-or-vision"
@@ -2427,7 +2431,7 @@
       "agency": "FBI",
       "record_type": "document",
       "pages": 3,
-      "words": 587,
+      "words": 744,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/FBI-UAP-D004_FD-1057-02_Northeastern-US_2024.pdf",
       "sha256": "24438d15d989c8b1dc90087c6babd258981a3a1bc16d8fd17e0e44d366561da7",
       "text_status": "extracted-digital-or-vision"
@@ -2440,7 +2444,7 @@
       "agency": "FBI",
       "record_type": "document",
       "pages": 3,
-      "words": 675,
+      "words": 813,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/FBI-UAP-D005_FD-1057-04_Northeastern-US_2024.pdf",
       "sha256": "c33b63109ce1e9d53f700c00d05728cb53bd17d863b1e2e81a40486ceb9f978e",
       "text_status": "extracted-digital-or-vision"
@@ -2453,7 +2457,7 @@
       "agency": "FBI",
       "record_type": "document",
       "pages": 3,
-      "words": 652,
+      "words": 788,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/FBI-UAP-D006_FD-1057-05_Northeastern-US_2024.pdf",
       "sha256": "953c2aa10c0e560ea11b131cc64ef6962671649eec743cf3ab0f24698c0fc1b7",
       "text_status": "extracted-digital-or-vision"
@@ -2466,7 +2470,7 @@
       "agency": "FBI",
       "record_type": "document",
       "pages": 4,
-      "words": 722,
+      "words": 856,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/FBI-UAP-D007_FD-1057-06_Northeastern-US_2024.pdf",
       "sha256": "f5cfb310e3064e34c55c4b1a256285da71050915ff3559ea70529b101f248c5c",
       "text_status": "extracted-digital-or-vision"
@@ -2479,7 +2483,7 @@
       "agency": "FBI",
       "record_type": "document",
       "pages": 2,
-      "words": 449,
+      "words": 579,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/FBI-UAP-D008_FD-1057-07_Northeastern-US_2024.pdf",
       "sha256": "abcbc0042ec0f228c81cff200fb59f82f8b8b1374e8c4e5d0e8b2f32160bef8b",
       "text_status": "extracted-digital-or-vision"
@@ -2492,7 +2496,7 @@
       "agency": "FBI",
       "record_type": "document",
       "pages": 2,
-      "words": 579,
+      "words": 702,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/FBI-UAP-D009_FD-302-67_Northeastern-Orb-Sighting_2026.pdf",
       "sha256": "b5513dea063f469efff564cf92a72e088e325e03211f2fd85fbaee5d6ed7f4c4",
       "text_status": "extracted-digital-or-vision"
@@ -2505,7 +2509,7 @@
       "agency": "FBI",
       "record_type": "document",
       "pages": 2,
-      "words": 482,
+      "words": 605,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/FBI-UAP-D010_FD-302-71_Northeastern-Orb-Sighting_2026.pdf",
       "sha256": "b612cbe81c33546e3cea6f047ada247df054cbb294a84977d4600a0c72ffeb4d",
       "text_status": "extracted-digital-or-vision"
@@ -2518,7 +2522,7 @@
       "agency": "FBI",
       "record_type": "document",
       "pages": 4,
-      "words": 502,
+      "words": 680,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/FBI-UAP-D011_DFBI-Correspondence-Referral_1949.pdf",
       "sha256": "aaf14409fe2a6b8577345394b399e8ccfa36a0571c6205eb6b5da82b53e6876b",
       "text_status": "extracted-digital-or-vision"
@@ -2531,7 +2535,7 @@
       "agency": "FBI",
       "record_type": "document",
       "pages": 66,
-      "words": 32057,
+      "words": 32363,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/FBI-UAP-D012_Newark-Field-Office_1952-1967.pdf",
       "sha256": "04195d918cf49bc4d32b050060f12dbd16bac2cb79b83e2d70b63543a1b68630",
       "text_status": "extracted-digital-or-vision"
@@ -2544,7 +2548,7 @@
       "agency": "FBI",
       "record_type": "document",
       "pages": 55,
-      "words": 7277,
+      "words": 7534,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/FBI-UAP-D013_WA-UFO-Investigation_1952-1960.pdf",
       "sha256": "50f1e4af35a5c630f283e10be33e17935ee9e61672506571267248ed2f4583ce",
       "text_status": "extracted-digital-or-vision"
@@ -2557,7 +2561,7 @@
       "agency": "FBI",
       "record_type": "document",
       "pages": 1,
-      "words": 64,
+      "words": 199,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/FBI-UAP-D014_Digital-Rendering_Incident-1-1_Western-US-Event_2023.jpg",
       "sha256": "0d38bc499e9bd038abac04160b5480c24b08e9c7e27156b41b8128025fc02ccf",
       "text_status": "extracted-digital-or-vision"
@@ -2570,7 +2574,7 @@
       "agency": "FBI",
       "record_type": "document",
       "pages": 1,
-      "words": 68,
+      "words": 203,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/FBI-UAP-D015_Digital-Rendering_Incident-1-2_Western-US-Event_2023.jpg",
       "sha256": "1a963146cfb52cdfec75068f2996dec57125ed1e7af883a124ff9ee040d9abb7",
       "text_status": "extracted-digital-or-vision"
@@ -2583,7 +2587,7 @@
       "agency": "FBI",
       "record_type": "document",
       "pages": 1,
-      "words": 74,
+      "words": 209,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/FBI-UAP-D016_Digital-Rendering_Incident-2-1_Western-US-Event_2023.jpg",
       "sha256": "b1e7c92ade168f3fee8e9a29bd44a4adb9101f00660510ca97b03e2c89d17b79",
       "text_status": "extracted-digital-or-vision"
@@ -2596,7 +2600,7 @@
       "agency": "FBI",
       "record_type": "document",
       "pages": 1,
-      "words": 76,
+      "words": 211,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/FBI-UAP-D017_Digital-Rendering_Incident-2-2_Western-US-Event_2023.jpg",
       "sha256": "915709912f3612b41870ff6513dd3820d1f6f7b02cf09481f4128cd15b62b6f3",
       "text_status": "extracted-digital-or-vision"
@@ -2609,7 +2613,7 @@
       "agency": "FBI",
       "record_type": "document",
       "pages": 1,
-      "words": 77,
+      "words": 212,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/FBI-UAP-D018_Digital-Rendering_Incident-2-3_Western-US-Event_2023.jpg",
       "sha256": "8bd2f3385d375a75b20abd211bc3e2f232d5fe7c418b3cad457ec571cd1ec10b",
       "text_status": "extracted-digital-or-vision"
@@ -2622,7 +2626,7 @@
       "agency": "FBI",
       "record_type": "document",
       "pages": 1,
-      "words": 79,
+      "words": 214,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/FBI-UAP-D019_Digital-Rendering_Incident-2-4_Western-US-Event_2023.jpg",
       "sha256": "623e02b31165d3a59f50ac19169d381750f00f79fedb3a3f762f5e1fc23e4c3d",
       "text_status": "extracted-digital-or-vision"
@@ -2635,7 +2639,7 @@
       "agency": "FBI",
       "record_type": "document",
       "pages": 1,
-      "words": 105,
+      "words": 240,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/FBI-UAP-D020_Digital-Rendering_Incident-2-5_Western-US-Event_2023.jpg",
       "sha256": "124dc78af9a98b747074f7abcc01bdf6ebd0bf65afbe43a1b4ffa4a9dd175932",
       "text_status": "extracted-digital-or-vision"
@@ -2648,7 +2652,7 @@
       "agency": "FBI",
       "record_type": "document",
       "pages": 1,
-      "words": 68,
+      "words": 203,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/FBI-UAP-D021_Digital-Rendering_Incident-1-3_Western-US-Event_2023.jpg",
       "sha256": "d767f2f41f24abef90d3f10f858acb879b8c2d295afd9e7b31b6d5b8e42ba32d",
       "text_status": "extracted-digital-or-vision"
@@ -2661,7 +2665,7 @@
       "agency": "FBI",
       "record_type": "document",
       "pages": 1,
-      "words": 100,
+      "words": 235,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/FBI-UAP-D022_Digital-Rendering_Incident-2-6_Western-US-Event_2023.jpg",
       "sha256": "8bb0b7c69f8b7c2aa154c455b5918b871cf42bc96559fadda1433ba4d0d727bd",
       "text_status": "extracted-digital-or-vision"
@@ -2674,7 +2678,7 @@
       "agency": "FBI",
       "record_type": "document",
       "pages": 1,
-      "words": 136,
+      "words": 271,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/FBI-UAP-D023_Digital-Rendering_Incident-2-7_Western-US-Event_2023.jpg",
       "sha256": "b18ca8af0477d1c5c551abead71a795b15eb3f71f62b531bee869a00551e78dd",
       "text_status": "extracted-digital-or-vision"
@@ -2687,7 +2691,7 @@
       "agency": "Intelligence Community Agency",
       "record_type": "document",
       "pages": 4,
-      "words": 584,
+      "words": 744,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/ICA-UAP-D001_Analysis_Colorado-Springs-UAP-Incident.pdf",
       "sha256": "b98b58a326ea413b5fd332ba56e81869bf83e2606a744335882d0115f8d77158",
       "text_status": "extracted-digital-or-vision"
@@ -2700,7 +2704,7 @@
       "agency": "NASA",
       "record_type": "document",
       "pages": 216,
-      "words": 51308,
+      "words": 52092,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/NASA-UAP-D015_Astronaut-Scientific-Debriefings_1962-1963.pdf",
       "sha256": "35e904ddb6652ca72281ff13cf00f71d9563aab3672e399273335215bebb5184",
       "text_status": "extracted-digital-or-vision"
@@ -2713,7 +2717,7 @@
       "agency": "NASA",
       "record_type": "document",
       "pages": 340,
-      "words": 75696,
+      "words": 76809,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/NASA-UAP-D016_Preliminary-Gemini-4-Crew-Debriefing_Part1_1965.pdf",
       "sha256": "ca596a44820b275f3e3ba41ddabd9ed8f124b68f8c3207d4c34d8afb1a48a94c",
       "text_status": "extracted-digital-or-vision"
@@ -2726,7 +2730,7 @@
       "agency": "NASA",
       "record_type": "document",
       "pages": 290,
-      "words": 63028,
+      "words": 64011,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/NASA-UAP-D017_Preliminary-Gemini-4-Crew-Debriefing_Part2_1965.pdf",
       "sha256": "2be20f887d364078d11c7340380c21800348ac84beb5722c5932ef0be3e57c57",
       "text_status": "extracted-digital-or-vision"
@@ -2739,7 +2743,7 @@
       "agency": "NASA",
       "record_type": "document",
       "pages": 224,
-      "words": 51222,
+      "words": 52010,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/NASA-UAP-D018_Gemini-4_Experiment-Debriefing_1967.pdf",
       "sha256": "5f073d6c4ae822a8213d56fbccef9d14a82e6b75bc318dbe2ccfe9c5945ddeee",
       "text_status": "extracted-digital-or-vision"
@@ -2752,7 +2756,7 @@
       "agency": "NASA",
       "record_type": "document",
       "pages": 223,
-      "words": 48581,
+      "words": 49346,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/NASA-UAP-D019_Gemini-5-Technical-Debriefing_Part1_1965.pdf",
       "sha256": "fd3b139e6b9ad4e3b697561f1712541e54668617fe8be72f9214124e4325c793",
       "text_status": "extracted-digital-or-vision"
@@ -2765,7 +2769,7 @@
       "agency": "NASA",
       "record_type": "document",
       "pages": 325,
-      "words": 73580,
+      "words": 74687,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/NASA-UAP-D020_Gemini-5-Technical-Debriefing_Part2_1965.pdf",
       "sha256": "a54a4d12ac77b4f7ef5bbfc6ccd81f06c91168746c7bb176c554d23f6eb859b2",
       "text_status": "extracted-digital-or-vision"
@@ -2778,7 +2782,7 @@
       "agency": "NASA",
       "record_type": "document",
       "pages": 222,
-      "words": 50501,
+      "words": 51294,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/NASA-UAP-D021_Gemini-7-Technical-Debriefing_1965.pdf",
       "sha256": "e192e501e6be5c87ead3793856245b07d2749682a211b3bd977d58bb22cd60c7",
       "text_status": "extracted-digital-or-vision"
@@ -2791,7 +2795,7 @@
       "agency": "NASA",
       "record_type": "document",
       "pages": 78,
-      "words": 11528,
+      "words": 11882,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/NASA-UAP-D022_Gemini-9-Debriefing_1966.pdf",
       "sha256": "971d604c8a91acb14a05b818e07f1c6530faf73845dd98f3cdbe0ede6d85c4b8",
       "text_status": "extracted-digital-or-vision"
@@ -2815,10 +2819,242 @@
       "agency": "U.S. Government",
       "record_type": "document",
       "pages": 86,
-      "words": 26233,
+      "words": 26690,
       "source_url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/USG-UAP-D001_Congress-WhiteHouse-UFO-Correspondence_1998.pdf",
       "sha256": "3393d62c92d9a5ad76155535caddf39cf9e76f5f19716ebfc851ba2b86b0ae3a",
       "text_status": "extracted-digital-or-vision"
+    },
+    {
+      "file": "pursue-r4--cia-uap-d020.md",
+      "id": "pursue-r4--cia-uap-d020",
+      "title": "CIA-UAP-D020, Memorandum on Unconventional Aircraft Sightings, 1955",
+      "source": "PURSUE-R4",
+      "agency": "CIA",
+      "record_type": "document",
+      "pages": 3,
+      "words": 919,
+      "source_url": "https://www.war.gov/medialink/ufo/071026/release_04/documents/CIA-UAP-D020_Memorandum-on-Unconventional-Aircraft-Sightings_1955.pdf",
+      "sha256": "973be877f06b55373da6c7a1022ca25345fdeb7864414fe4ae29d83ef963b7e9",
+      "text_status": "extracted-digital-or-vision"
+    },
+    {
+      "file": "pursue-r4--cia-uap-d021.md",
+      "id": "pursue-r4--cia-uap-d021",
+      "title": "CIA-UAP-D021, Analysis of Unconventional Aircraft Sightings, 1955",
+      "source": "PURSUE-R4",
+      "agency": "CIA",
+      "record_type": "document",
+      "pages": 4,
+      "words": 1015,
+      "source_url": "https://www.war.gov/medialink/ufo/071026/release_04/documents/CIA-UAP-D021_Analysis-of-Unconventional-Aircraft-Sightings_1955.pdf",
+      "sha256": "e2640e79f3733d5ed3e8aebd510f130f5601555f306eefee5e1c08a24d002ad0",
+      "text_status": "extracted-digital-or-vision"
+    },
+    {
+      "file": "pursue-r4--doe-uap-d004.md",
+      "id": "pursue-r4--doe-uap-d004",
+      "title": "DOE-UAP-D004, Los Alamos Conference on Aerial Phenomena, 1949",
+      "source": "PURSUE-R4",
+      "agency": "Department of Energy",
+      "record_type": "document",
+      "pages": 25,
+      "words": 12790,
+      "source_url": "https://www.war.gov/medialink/ufo/071026/release_04/documents/DOE-UAP-D004_Los-Alamos-Conference-on-Aerial-Phenomena_1949.pdf",
+      "sha256": "64f70db72f3747cfdc512f78f16b0ac33a0876b39dbf7dddf07ab870ba1b1a47",
+      "text_status": "extracted-digital-or-vision"
+    },
+    {
+      "file": "pursue-r4--doe-uap-d005.md",
+      "id": "pursue-r4--doe-uap-d005",
+      "title": "DOE-UAP-D005, Pantex Unidentified Object Incident Report, 2015",
+      "source": "PURSUE-R4",
+      "agency": "Department of Energy",
+      "record_type": "document",
+      "pages": 7,
+      "words": 1283,
+      "source_url": "https://www.war.gov/medialink/ufo/071026/release_04/documents/DOE-UAP-D005_Pantex-Unidentified-Object-Incident-Report_2015.pdf",
+      "sha256": "249cd9f5b85c4a92dc819d65e1dad180744479d1c8a68ebbc202ade66facbcbb",
+      "text_status": "extracted-digital-or-vision"
+    },
+    {
+      "file": "pursue-r4--dow-uap-d089.md",
+      "id": "pursue-r4--dow-uap-d089",
+      "title": "DOW-UAP-D089, Range Fouler Debrief, Eastern United States, 2020",
+      "source": "PURSUE-R4",
+      "agency": "Department of War",
+      "record_type": "document",
+      "pages": 2,
+      "words": 617,
+      "source_url": "https://www.war.gov/medialink/ufo/071026/release_04/documents/DOW-UAP-D089_Range-Fouler-Debrief_Eastern-US_2020.pdf",
+      "sha256": "3ad2058e00a44e2bb5453648be0eac0dd1a2ff40deeeb2707a19cc59b11ee685",
+      "text_status": "extracted-digital-or-vision"
+    },
+    {
+      "file": "pursue-r4--dow-uap-d090.md",
+      "id": "pursue-r4--dow-uap-d090",
+      "title": "DOW-UAP-D090, Range Fouler Debrief, Eastern United States, 2019",
+      "source": "PURSUE-R4",
+      "agency": "Department of War",
+      "record_type": "document",
+      "pages": 2,
+      "words": 727,
+      "source_url": "https://www.war.gov/medialink/ufo/071026/release_04/documents/DOW-UAP-D090_Range-Fouler-Debrief_Eastern-US_2019.pdf",
+      "sha256": "1bd82107a638e44f4f6011aaf6fb323bcdd36334a59980a5c19a5aad9ff69b52",
+      "text_status": "extracted-digital-or-vision"
+    },
+    {
+      "file": "pursue-r4--dow-uap-d091.md",
+      "id": "pursue-r4--dow-uap-d091",
+      "title": "DOW-UAP-D091, Range Fouler Debrief, Atlantic Ocean, 2020",
+      "source": "PURSUE-R4",
+      "agency": "Department of War",
+      "record_type": "document",
+      "pages": 2,
+      "words": 595,
+      "source_url": "https://www.war.gov/medialink/ufo/071026/release_04/documents/DOW-UAP-D091_Range-Fouler-Debrief_Atlantic-Ocean_2020.pdf",
+      "sha256": "d13ab718a436af2d13d1e3060e49239528b174829ba4ea89003f27da3ea3d7be",
+      "text_status": "extracted-digital-or-vision"
+    },
+    {
+      "file": "pursue-r4--dow-uap-d092.md",
+      "id": "pursue-r4--dow-uap-d092",
+      "title": "DOW-UAP-D092, Department of the Air Force Committee to Review Project Bluebook, 1966-1967",
+      "source": "PURSUE-R4",
+      "agency": "Department of War",
+      "record_type": "document",
+      "pages": 85,
+      "words": 14578,
+      "source_url": "https://www.war.gov/medialink/ufo/071026/release_04/documents/DOW-UAP-D092_DAF-Committee-to-Review-Project-Bluebook_1966-1967.pdf",
+      "sha256": "9c774fcb34ca56cf1b8da8bfe0413f42c6014c096215966c0fd919be5d77ec52",
+      "text_status": "extracted-digital-or-vision"
+    },
+    {
+      "file": "pursue-r4--dow-uap-d093.md",
+      "id": "pursue-r4--dow-uap-d093",
+      "title": "DOW-UAP-D093, Analysis of Flying Object Incidents in the United States, 1948",
+      "source": "PURSUE-R4",
+      "agency": "Department of War",
+      "record_type": "document",
+      "pages": 67,
+      "words": 11085,
+      "source_url": "https://www.war.gov/medialink/ufo/071026/release_04/documents/DOW-UAP-D093_Analysis-of-Flying-Object-Incidents-in-the-US_1948.pdf",
+      "sha256": "6a94a4548eac7933948fad4706e161c6a251bf5eaa9d05d70981b40cb1e80745",
+      "text_status": "extracted-digital-or-vision"
+    },
+    {
+      "file": "pursue-r4--dow-uap-d094.md",
+      "id": "pursue-r4--dow-uap-d094",
+      "title": "DOW-UAP-D094, Analysis of Flying Object Incidents in the United States, 1949",
+      "source": "PURSUE-R4",
+      "agency": "Department of War",
+      "record_type": "document",
+      "pages": 34,
+      "words": 8001,
+      "source_url": "https://www.war.gov/medialink/ufo/071026/release_04/documents/DOW-UAP-D094_Analysis-of-Flying-Object-Incidents-in-the-US_1949.pdf",
+      "sha256": "59a30983288868000d7c82bf863a2af475834ad14b984fbe9e4b8bd521aaa1cb",
+      "text_status": "extracted-digital-or-vision"
+    },
+    {
+      "file": "pursue-r4--dow-uap-d095.md",
+      "id": "pursue-r4--dow-uap-d095",
+      "title": "DOW-UAP-D095, Joint U.S.-Canadian Aviation Projects and UFO Sighting Reports, 1954-1955",
+      "source": "PURSUE-R4",
+      "agency": "Department of War",
+      "record_type": "document",
+      "pages": 57,
+      "words": 17065,
+      "source_url": "https://www.war.gov/medialink/ufo/071026/release_04/documents/DOW-UAP-D095_Joint-US-Canadian-Aviation-Projects-and-UFO-Sighting-Reports_1954-1955.pdf",
+      "sha256": "9c7629703ed55608b29000e490ac91be260e6088587f9048d7412593233878f9",
+      "text_status": "extracted-digital-or-vision"
+    },
+    {
+      "file": "pursue-r4--dow-uap-d096.md",
+      "id": "pursue-r4--dow-uap-d096",
+      "title": "DOW-UAP-D096, Correspondence Relating to Project Blue Book, 1955",
+      "source": "PURSUE-R4",
+      "agency": "Department of War",
+      "record_type": "document",
+      "pages": 220,
+      "words": 41226,
+      "source_url": "https://www.war.gov/medialink/ufo/071026/release_04/documents/DOW-UAP-D096_Correspondence-Relating-to-Project-Blue-Book_1955.pdf",
+      "sha256": "2c64dc1cd88ac9717cad81ecee9518af9310bebf5fc51596b85737374e2bf4cf",
+      "text_status": "extracted-digital-or-vision"
+    },
+    {
+      "file": "pursue-r4--dow-uap-d097.md",
+      "id": "pursue-r4--dow-uap-d097",
+      "title": "DOW-UAP-D097, Project Sign Progress Report, 1948",
+      "source": "PURSUE-R4",
+      "agency": "Department of War",
+      "record_type": "document",
+      "pages": 45,
+      "words": 18360,
+      "source_url": "https://www.war.gov/medialink/ufo/071026/release_04/documents/DOW-UAP-D097_Project-Sign-Progress-Report_1948.pdf",
+      "sha256": "4e191615a53faf81a49721ec594aee5f8c909026348a830025329d847a857e60",
+      "text_status": "extracted-digital-or-vision"
+    },
+    {
+      "file": "pursue-r4--fbi-uap-d014.md",
+      "id": "pursue-r4--fbi-uap-d014",
+      "title": "FBI-UAP-D014, Correspondence Relating to UFO Sightings, 1967, 1974",
+      "source": "PURSUE-R4",
+      "agency": "FBI",
+      "record_type": "document",
+      "pages": 5,
+      "words": 996,
+      "source_url": "https://www.war.gov/medialink/ufo/071026/release_04/documents/FBI-UAP-D014_Correspondence-Relating-to-UFO-Sightings_1967_1974.pdf",
+      "sha256": "e91344aaa3cae8760bb695db30416048d94d333d3cf8e616dfd878ef60731379",
+      "text_status": "extracted-digital-or-vision"
+    },
+    {
+      "file": "pursue-r4--nasa-uap-d030.md",
+      "id": "pursue-r4--nasa-uap-d030",
+      "title": "NASA-UAP-D030, STS-80 Unidentified Object Image 1, 1996",
+      "source": "PURSUE-R4",
+      "agency": "NASA",
+      "record_type": "document",
+      "pages": 1,
+      "words": 197,
+      "source_url": "https://www.war.gov/medialink/ufo/071026/release_04/documents/NASA-UAP-D030_STS-80-Unidentified-Object-Image1_1996.jpg",
+      "sha256": "470fd8bd96a25532e57bb5d97c2ca64e81651970a179b0bec3d7aed625ae6a2f",
+      "text_status": "extracted-digital-or-vision"
+    },
+    {
+      "file": "pursue-r4--nasa-uap-d031.md",
+      "id": "pursue-r4--nasa-uap-d031",
+      "title": "NASA-UAP-D031, STS-80 Unidentified Object Image 2, 1996",
+      "source": "PURSUE-R4",
+      "agency": "NASA",
+      "record_type": "document",
+      "pages": 1,
+      "words": 215,
+      "source_url": "https://www.war.gov/medialink/ufo/071026/release_04/documents/NASA-UAP-D031_STS-80-Unidentified-Object-Image2_1996.jpg",
+      "sha256": "4733b16c778046f805e7d32a8a0f891b88e3e22fa32c7595ce3e0065f985e9bf",
+      "text_status": "extracted-digital-or-vision"
+    },
+    {
+      "file": "pursue-r4--nasa-uap-d032.md",
+      "id": "pursue-r4--nasa-uap-d032",
+      "title": "NASA-UAP-D032, STS-80 Unidentified Object Image 3, 1996",
+      "source": "PURSUE-R4",
+      "agency": "NASA",
+      "record_type": "document",
+      "pages": 1,
+      "words": 214,
+      "source_url": "https://www.war.gov/medialink/ufo/071026/release_04/documents/NASA-UAP-D032_STS-80-Unidentified-Object-Image3_1996.jpg",
+      "sha256": "ce516248f7256442dead32720b80481d0a39c2c167a95b0643295bcb7c5803e7",
+      "text_status": "extracted-digital-or-vision"
+    },
+    {
+      "file": "pursue-r4--record-index.md",
+      "id": "pursue-r4-record-index",
+      "title": "PURSUE Release 4 - official record index (all 40 records)",
+      "source": "PURSUE-R4",
+      "agency": "Department of War",
+      "pages": 1,
+      "words": 6731,
+      "source_url": "https://www.war.gov/UFO/",
+      "text_status": "index-metadata"
     },
     {
       "file": "sasc-2024-11-19-aaro-remarks.md",
