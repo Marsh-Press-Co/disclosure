@@ -1,0 +1,42 @@
+{
+ "doc": "pursue-r1--65_hs1-834228961_62-hq-83894_section_9.md",
+ "leads": [
+  {
+   "page": 235,
+   "lead_type": "analysis-of-material",
+   "claim": "A small sample of charred material from the Socorro scene was collected and retained by the Albuquerque FBI office.",
+   "strength": "strong",
+   "why": "The document explicitly states that a physical sample of material was taken and is being held by a government office.",
+   "claimant": "FBI internal documentation",
+   "custody_chain": "Albuquerque FBI Office",
+   "government_response": "The material was collected and a statement was taken as part of an investigation.",
+   "outcome_in_document": "unresolved",
+   "quote": "a small sample of charred material taken at the scene"
+  },
+  {
+   "page": 258,
+   "lead_type": "analysis-of-material",
+   "claim": "Indented steel was sent to a metallurgical chemist for analysis regarding the force required to create the indentation.",
+   "strength": "moderate",
+   "why": "It describes the analysis of physical material but does not explicitly link the material to a UAP/UFO origin.",
+   "claimant": "Unspecified source within the document",
+   "custody_chain": "Sent to a metallurgical chemist",
+   "government_response": "The chemist analyzed the force required to produce the indentation.",
+   "outcome_in_document": "unresolved",
+   "quote": "The indented steel was sent to a metallurgical chemist"
+  },
+  {
+   "page": 281,
+   "lead_type": "biological",
+   "claim": "The FBI denies having custody of an occupant from a foreign planet.",
+   "strength": "strong",
+   "why": "It is a direct government statement regarding the custody of biological material.",
+   "claimant": "J. Edgar Hoover",
+   "custody_chain": "FBI",
+   "government_response": "Denial of custody.",
+   "outcome_in_document": "denied-by-government",
+   "quote": "the FBI has never had custody of an occupant from a foreign planet"
+  }
+ ],
+ "doc_verdict": "This document contains a specific reference to the FBI retaining a physical sample of charred material from the Socorro incident, as well as a denial regarding the custody of biological occupants."
+}

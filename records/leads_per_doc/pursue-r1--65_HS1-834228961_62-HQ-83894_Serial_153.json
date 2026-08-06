@@ -1,0 +1,16 @@
+{
+ "doc": "pursue-r1--65_HS1-834228961_62-HQ-83894_Serial_153.md",
+ "leads": [
+  {
+   "page": 2,
+   "lead_type": "analysis-of-material",
+   "claim": "Photographs of alleged flying saucers seen over Oak Ridge, Tennessee, were submitted to the FBI.",
+   "strength": "noise",
+   "why": "The document describes photographs of sightings, not the recovery or analysis of physical material.",
+   "claimant": "Knoxville News-Sentinel / FBI file",
+   "outcome_in_document": "confirmed-mundane",
+   "quote": "Two photographs of reputedly 'flying saucers' seen at Oak Ridge, Tennessee"
+  }
+ ],
+ "doc_verdict": "This document contains no evidence of obtained physical material, as it only discusses photographs of aerial sightings."
+}

@@ -1,0 +1,24 @@
+{
+ "doc": "pursue-r1--65_hs1-834228961_62-hq-83894_serial_220.md",
+ "leads": [
+  {
+   "page": 1,
+   "lead_type": "contractor-involvement",
+   "claim": "The document mentions photographic evidence from Oak Ridge, TN, alongside technical proposals for propulsion systems.",
+   "strength": "noise",
+   "why": "The mention of Oak Ridge is generic and lacks any specific link to UAP material recovery or custody.",
+   "outcome_in_document": "unknown",
+   "quote": "photographic evidence from sites like Oak Ridge, TN, and technical proposals regarding potential propulsion systems"
+  },
+  {
+   "page": 3,
+   "lead_type": "biological",
+   "claim": "The text discusses the stability of bodies in air or space in the context of avoiding atomic explosions.",
+   "strength": "noise",
+   "why": "The text refers to theoretical physics or aerodynamic stability rather than biological entities or physical UAP remains.",
+   "outcome_in_document": "unknown",
+   "quote": "superior Stability or the SUPER-STABILITY of bodies in Air or space"
+  }
+ ],
+ "doc_verdict": "This document contains no evidence or credible suggestions of the government or contractors obtaining, holding, or analyzing physical UAP material."
+}

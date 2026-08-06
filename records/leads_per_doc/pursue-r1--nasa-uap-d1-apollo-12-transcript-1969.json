@@ -1,0 +1,22 @@
+{
+ "doc": "pursue-r1--nasa-uap-d1-apollo-12-transcript-1969.md",
+ "leads": [
+  {
+   "page": 1,
+   "lead_type": "debris-material",
+   "claim": "Astronaut Charles Conrad observed floating debris outside the Apollo 12 lunar module.",
+   "strength": "noise",
+   "why": "The debris is described in the context of standard space flight operations and is not linked to UAP or anomalous material recovery.",
+   "quote": "described observing floating debris outside the lunar module"
+  },
+  {
+   "page": 1,
+   "lead_type": "debris-material",
+   "claim": "Astronaut Alan L. Bean observed particles and flashes of light while in space.",
+   "strength": "noise",
+   "why": "These are common observations of space dust or light reflections during lunar missions, not evidence of recovered UAP material.",
+   "quote": "described observing particles and flashes of light sailing off in space"
+  }
+ ],
+ "doc_verdict": "This document contains no evidence of recovered UAP material, as the snippets refer exclusively to conventional observations made by astronauts during a standard lunar mission."
+}

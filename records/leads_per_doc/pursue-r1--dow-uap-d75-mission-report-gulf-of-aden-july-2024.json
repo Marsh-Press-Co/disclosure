@@ -1,0 +1,17 @@
+{
+ "doc": "pursue-r1--dow-uap-d75-mission-report-gulf-of-aden-july-2024.md",
+ "leads": [
+  {
+   "page": 8,
+   "lead_type": "craft-custody",
+   "claim": "The USCENTCOM Chief of Staff explicitly denied the recovery of any UAP objects or material during the mission.",
+   "strength": "noise",
+   "why": "The document explicitly states 'NO' regarding the recovery of UAP material, rendering the lead a negative confirmation.",
+   "claimant": "Don R. Tegtmeier, USCENTCOM Chief of Staff",
+   "material_description": "None",
+   "outcome_in_document": "denied-by-government",
+   "quote": "UAP Objects/Material Recovered (yes/no; if yes, describe): NO"
+  }
+ ],
+ "doc_verdict": "The document explicitly denies the recovery of any UAP material or objects."
+}

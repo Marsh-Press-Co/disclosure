@@ -1,0 +1,42 @@
+{
+ "doc": "pursue-r1--65_hs1-834228961_62-hq-83894_section_5.md",
+ "leads": [
+  {
+   "page": 44,
+   "lead_type": "biological",
+   "claim": "Two crashed craft were recovered, one containing charred bodies and the other containing perfectly preserved dead occupants.",
+   "strength": "strong",
+   "why": "The text provides a specific claim regarding the recovery of two distinct craft and the physical state of their occupants.",
+   "claimant": "Anonymous source cited in FBI records",
+   "custody_chain": "US Research Bureau in Los Angeles",
+   "government_response": "Documented as a record in FBI files.",
+   "outcome_in_document": "unresolved",
+   "quote": "The bodies in the damaged ship were charred, but the other ship's occupants were in a perfect state of preservation, although dead."
+  },
+  {
+   "page": 68,
+   "lead_type": "craft-custody",
+   "claim": "Three flying saucers were recovered in New Mexico, each containing three humanoid bodies.",
+   "strength": "strong",
+   "why": "The claim specifies the number of craft, their physical description, and the presence of biological occupants.",
+   "claimant": "Air Force investigator",
+   "custody_chain": "Air Force (implied recovery in New Mexico)",
+   "government_response": "Reported to the Metropolitan Police Department.",
+   "outcome_in_document": "unresolved",
+   "quote": "three so-called flying saucers had been recovered in New Mexico."
+  },
+  {
+   "page": 77,
+   "lead_type": "biological",
+   "claim": "A flying disc was found intact in the Mojave Desert containing eighteen dead human-like occupants.",
+   "strength": "strong",
+   "why": "The claim provides specific details about the location, the state of the craft, and the number of occupants.",
+   "claimant": "Koehler",
+   "custody_chain": "Not specified",
+   "government_response": "None mentioned.",
+   "outcome_in_document": "unresolved",
+   "quote": "a flying disc had been found intact, with eighteen three-foot tall human-like occupants, all dead"
+  }
+ ],
+ "doc_verdict": "The document contains multiple specific reports and allegations regarding the recovery of crashed craft and biological occupants, though these are presented as investigative leads or hearsay within FBI files rather than confirmed government actions."
+}

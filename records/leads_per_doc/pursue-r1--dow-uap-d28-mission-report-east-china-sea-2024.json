@@ -1,0 +1,15 @@
+{
+ "doc": "pursue-r1--dow-uap-d28-mission-report-east-china-sea-2024.md",
+ "leads": [
+  {
+   "page": 5,
+   "lead_type": "craft-custody",
+   "claim": "The document explicitly states that no UAP material was recovered during the East China Sea event.",
+   "strength": "noise",
+   "why": "The document explicitly denies the recovery of any material, making it a negative report rather than a lead.",
+   "outcome_in_document": "denied-by-government",
+   "quote": "UAP Objects/Material Recovered (yes/no; if yes, describe): NO"
+  }
+ ],
+ "doc_verdict": "The document contains no evidence of obtained material and explicitly denies any recovery occurred."
+}

@@ -1,0 +1,15 @@
+{
+ "doc": "pursue-r1--dow-uap-d27-mission-report-united-arab-emirates-october-2023.md",
+ "leads": [
+  {
+   "page": 6,
+   "lead_type": "debris-material",
+   "claim": "The document explicitly states that no UAP material was recovered during the event.",
+   "strength": "noise",
+   "why": "The document explicitly denies the recovery of any material, rendering the mention of the category irrelevant to a retrieval trail.",
+   "outcome_in_document": "denied-by-government",
+   "quote": "UAP Objects/Material Recovered (yes/no; if yes, describe): NO"
+  }
+ ],
+ "doc_verdict": "The document explicitly denies the recovery of any UAP-related material."
+}

@@ -1,0 +1,17 @@
+{
+ "doc": "pursue-r1--dow-uap-d74-mission-report-syria-november-2023.md",
+ "leads": [
+  {
+   "page": 9,
+   "lead_type": "craft-custody",
+   "claim": "The mission report explicitly states that no UAP material was recovered during the November 2023 event.",
+   "strength": "noise",
+   "why": "The document explicitly denies the recovery of any material, rendering the mention a negative confirmation.",
+   "claimant": "CENTCOM mission report",
+   "material_description": "None",
+   "outcome_in_document": "denied-by-government",
+   "quote": "UAP Objects/Material Recovered (yes/no; if yes, describe): NO"
+  }
+ ],
+ "doc_verdict": "The document explicitly denies the recovery of any UAP-related material or debris."
+}

@@ -1,0 +1,13 @@
+{
+ "doc": "pursue-r1--dow-uap-d25-mission-report-greece-january-2024.md",
+ "leads": [
+  {
+   "page": 6,
+   "lead_type": "craft-custody",
+   "claim": "The document explicitly states that no UAP material was recovered during the event.",
+   "strength": "noise",
+   "why": "The document explicitly denies the recovery of any material, making it a negative report rather than a lead."
+  }
+ ],
+ "doc_verdict": "The document explicitly states that no UAP material was recovered, providing no evidence of obtained material."
+}

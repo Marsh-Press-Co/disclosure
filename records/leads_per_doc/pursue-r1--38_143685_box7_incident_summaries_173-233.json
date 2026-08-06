@@ -1,0 +1,15 @@
+{
+ "doc": "pursue-r1--38_143685_box7_incident_summaries_173-233.md",
+ "leads": [
+  {
+   "page": 143,
+   "lead_type": "analysis-of-material",
+   "claim": "The document includes a standard operating procedure instruction to secure signed statements and obtain fragments or physical evidence from UAP incidents.",
+   "strength": "moderate",
+   "why": "This is an administrative instruction confirming that the government had a formal policy to attempt the recovery of physical material from UAP events.",
+   "outcome_in_document": "unresolved",
+   "quote": "Obtain fragments or physical evidence where possible."
+  }
+ ],
+ "doc_verdict": "The document contains no evidence that the government successfully obtained or held UAP material, only a procedural instruction to attempt such recovery if possible."
+}

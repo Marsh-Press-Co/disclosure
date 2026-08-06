@@ -1,0 +1,61 @@
+{
+ "doc": "pursue-r1--65_hs1-834228961_62-hq-83894_section_1.md",
+ "leads": [
+  {
+   "page": 70,
+   "lead_type": "craft-custody",
+   "claim": "A disc and balloon were being transported to Wright Field by special plane for examination.",
+   "strength": "strong",
+   "why": "The document explicitly describes the physical transport of a recovered object to a military facility for analysis.",
+   "custody_chain": "Transported to Wright Field by special plane.",
+   "government_response": "Telephonic conversation between FBI and Wright Field regarding the object.",
+   "outcome_in_document": "investigated-inconclusive",
+   "quote": "DISC AND BALLOON BEING TRANSPORTED TO WRIGHT FIELD BY SPECIAL PLANE FOR EXAMINATIC"
+  },
+  {
+   "page": 99,
+   "lead_type": "craft-custody",
+   "claim": "Agents recovered a disc and took it to ONI offices for examination by Navy bomb and electronics experts.",
+   "strength": "strong",
+   "why": "The text details the recovery and subsequent examination of a physical object by specific government experts.",
+   "custody_chain": "Recovered by agents and taken to ONI offices.",
+   "government_response": "Examined by Navy bomb and electronics experts.",
+   "outcome_in_document": "unresolved",
+   "quote": "AGENTS IMMEDIATELY DISPATCHED TO SCENE AND RECOVERED DISK TAKEN ONI OFFICES AND EXAMINED"
+  },
+  {
+   "page": 106,
+   "lead_type": "analysis-of-material",
+   "claim": "Metal fragments observed at West Rindge, N.H. were analyzed by an MIT metallurgist.",
+   "strength": "moderate",
+   "why": "The document describes the collection and scientific analysis of physical fragments, though the origin is debated.",
+   "custody_chain": "Collected by security officer and fire chief; analyzed by MIT metallurgist.",
+   "government_response": "MIT metallurgist analyzed fragments and suggested they were jet turbo plane lining.",
+   "outcome_in_document": "confirmed-mundane",
+   "quote": "METAL FRAGMENTS OBSERVED AT WEST RINDGE, N.H. ... ANALYZING TWO OF THE"
+  },
+  {
+   "page": 131,
+   "lead_type": "program-custody-language",
+   "claim": "The Army recovered discs and refused to allow the FBI access for examination.",
+   "strength": "strong",
+   "why": "The document records an internal dispute between the FBI and the Army regarding custody and access to recovered discs.",
+   "custody_chain": "Held by the Army.",
+   "government_response": "General Schulgen agreed to issue instructions to make recovered discs available to the FBI.",
+   "outcome_in_document": "unresolved",
+   "quote": "the Army grabbed it and would not let us have it for cursory examination"
+  },
+  {
+   "page": 141,
+   "lead_type": "analysis-of-material",
+   "claim": "Metal fragments furnished by a witness were analyzed and determined to be from a slag mill.",
+   "strength": "moderate",
+   "why": "The document confirms the analysis of physical material, even though the result identified it as industrial waste.",
+   "custody_chain": "Furnished by witness (Dahl) to authorities.",
+   "government_response": "Analysis performed on the fragments.",
+   "outcome_in_document": "confirmed-mundane",
+   "quote": "ANALYSIS OF THE FRAGMENTS SHOWS THEM TO BE FROM A TACOMA SLAG MILL"
+  }
+ ],
+ "doc_verdict": "The document contains multiple internal records confirming that the government, specifically the Army and Navy, recovered physical objects described as discs and fragments, and engaged in disputes regarding their custody and analysis."
+}

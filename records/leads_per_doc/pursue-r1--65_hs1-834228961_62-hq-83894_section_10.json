@@ -1,0 +1,26 @@
+{
+ "doc": "pursue-r1--65_hs1-834228961_62-hq-83894_section_10.md",
+ "leads": [
+  {
+   "page": 27,
+   "lead_type": "debris-material",
+   "claim": "Wreckage of crashed saucers has been reportedly recovered on at least three occasions, including magnesium alloys.",
+   "strength": "moderate",
+   "why": "The document explicitly mentions the recovery of saucer wreckage on three occasions, though it lacks specific custody details or government confirmation.",
+   "outcome_in_document": "unresolved",
+   "quote": "Wreckage of crashed saucers has been reportedly recovered on at least three occasions"
+  },
+  {
+   "page": 172,
+   "lead_type": "debris-material",
+   "claim": "An unidentified metallic object that fell from the sky was recovered by Milwaukee police and reported to the FBI.",
+   "strength": "strong",
+   "why": "This provides a specific incident, a physical description of the object, and a clear chain of custody involving local police and the FBI.",
+   "claimant": "Captain Wills of the Milwaukee Police Department",
+   "material_description": "Metallic, jagged object, 13 x 8 x 5 inches.",
+   "outcome_in_document": "investigated-inconclusive",
+   "quote": "unidentified object had been recovered by Milwaukee police... metallic in substance and color"
+  }
+ ],
+ "doc_verdict": "The document contains two specific claims regarding the recovery of physical material, one of which involves a reported hand-off to the FBI, though the document itself does not confirm the nature of these objects beyond their recovery."
+}

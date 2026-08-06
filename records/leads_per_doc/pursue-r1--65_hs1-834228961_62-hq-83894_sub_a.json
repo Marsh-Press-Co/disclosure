@@ -1,0 +1,49 @@
+{
+ "doc": "pursue-r1--65_hs1-834228961_62-hq-83894_sub_a.md",
+ "leads": [
+  {
+   "page": 37,
+   "lead_type": "analysis-of-material",
+   "claim": "The Air Force lacks authentic physical evidence to confirm the interplanetary theory regarding flying saucers.",
+   "strength": "strong",
+   "why": "A high-ranking Air Force official explicitly addresses the status of physical evidence in the context of UAP investigations.",
+   "claimant": "Brig. Gen. S. Smith",
+   "government_response": "The Air Force officially neither accepts nor rejects the interplanetary theory due to a lack of indisputable physical evidence.",
+   "outcome_in_document": "denied-by-government",
+   "quote": "we have no authen-tic physical evidence that they are interplanetary."
+  },
+  {
+   "page": 68,
+   "lead_type": "craft-custody",
+   "claim": "An Air Force official denied possessing any parts of flying saucers or having seen occupants.",
+   "strength": "strong",
+   "why": "The statement directly addresses the custody of physical material and biological entities.",
+   "claimant": "Unnamed Air Force official",
+   "government_response": "The official denied possession of any parts or sightings of occupants.",
+   "outcome_in_document": "denied-by-government",
+   "quote": "stated that he had no parts of flying saucers in his possession at present."
+  },
+  {
+   "page": 69,
+   "lead_type": "analysis-of-material",
+   "claim": "A substance touched by a policeman dissolved upon contact, leaving a sticky residue.",
+   "strength": "moderate",
+   "why": "Describes a specific physical interaction with an unidentified material, though the origin is not confirmed as UAP-related.",
+   "material_description": "A substance that dissolved and left a sticky odorless residue.",
+   "outcome_in_document": "unresolved",
+   "quote": "the portion he handled dissolved at once, leaving a sticky odorless residue."
+  },
+  {
+   "page": 91,
+   "lead_type": "biological",
+   "claim": "A saucer crashed near Denver, Colorado, with three little men discovered inside.",
+   "strength": "moderate",
+   "why": "Reports a specific recovery claim of biological entities, though the government explicitly denies the event.",
+   "claimant": "Unspecified report from Denver, Colorado",
+   "government_response": "The Defense Department repeated its denial of flying saucers.",
+   "outcome_in_document": "denied-by-government",
+   "quote": "three little men had been discovered inside it."
+  }
+ ],
+ "doc_verdict": "The document contains no evidence of obtained UAP material; it consists of press clippings and official statements where the Air Force consistently denies possessing physical evidence or biological entities."
+}

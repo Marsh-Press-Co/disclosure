@@ -1,0 +1,13 @@
+{
+ "doc": "pursue-r1--dow-uap-d33-mission-report-greece-october-2023.md",
+ "leads": [
+  {
+   "page": 7,
+   "lead_type": "debris-material",
+   "claim": "The mission report explicitly states that no UAP material was recovered during the event.",
+   "strength": "noise",
+   "why": "The document explicitly denies the recovery of any material, making it a negative report rather than a lead."
+  }
+ ],
+ "doc_verdict": "The document explicitly states that no UAP material was recovered, providing no evidence of obtained material."
+}

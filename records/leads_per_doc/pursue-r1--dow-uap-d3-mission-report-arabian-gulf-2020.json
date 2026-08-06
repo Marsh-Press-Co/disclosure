@@ -1,0 +1,15 @@
+{
+ "doc": "pursue-r1--dow-uap-d3-mission-report-arabian-gulf-2020.md",
+ "leads": [
+  {
+   "page": 7,
+   "lead_type": "craft-custody",
+   "claim": "The document contains a template field for reporting UAP material recovery.",
+   "strength": "weak",
+   "why": "The document includes a formal reporting template that explicitly asks for UAP material recovery status, suggesting a framework for such events exists.",
+   "outcome_in_document": "unresolved",
+   "quote": "UAP Objects/Material Recovered (yes/no; if yes, describe)"
+  }
+ ],
+ "doc_verdict": "The document does not contain evidence of recovered material, only a blank administrative template field for reporting such information."
+}

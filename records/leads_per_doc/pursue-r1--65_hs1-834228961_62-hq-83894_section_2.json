@@ -1,0 +1,28 @@
+{
+ "doc": "pursue-r1--65_hs1-834228961_62-hq-83894_section_2.md",
+ "leads": [
+  {
+   "page": 8,
+   "lead_type": "analysis-of-material",
+   "claim": "A citizen collected fused sand from a site where a fire occurred and submitted it to a physics laboratory for analysis.",
+   "strength": "moderate",
+   "why": "The document describes the physical collection and laboratory submission of material, though it is likely mundane debris.",
+   "claimant": "Raymond Edward Lane",
+   "material_description": "Fused sand, some of which was radioactive.",
+   "outcome_in_document": "unresolved",
+   "quote": "SCOOPED UP A THREE INCH AREA OF FUSED SAND INTO A CAN AND TOOK THIS TO THE PHYSICS LAB."
+  },
+  {
+   "page": 24,
+   "lead_type": "debris-material",
+   "claim": "Individuals claimed to possess fragments of a flying disc recovered from Maury Island.",
+   "strength": "strong",
+   "why": "The document details a specific claim of material recovery, custody by military officers, and a subsequent investigation into the veracity of the claim.",
+   "claimant": "Dahl and Crisman",
+   "material_description": "Fragments of a flying disc.",
+   "outcome_in_document": "judged-hoax",
+   "quote": "THEY OBTAINED SOME OF THE DISC FRAGMENTS."
+  }
+ ],
+ "doc_verdict": "The document contains reports of individuals claiming to possess physical material, but these claims are explicitly identified within the text as hoaxes or mundane substances."
+}

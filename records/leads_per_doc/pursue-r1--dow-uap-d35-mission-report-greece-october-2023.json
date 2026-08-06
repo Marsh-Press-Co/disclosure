@@ -1,0 +1,15 @@
+{
+ "doc": "pursue-r1--dow-uap-d35-mission-report-greece-october-2023.md",
+ "leads": [
+  {
+   "page": 6,
+   "lead_type": "craft-custody",
+   "claim": "The document explicitly states that no UAP material was recovered during the event.",
+   "strength": "noise",
+   "why": "The document explicitly denies the recovery of any material, making this a negative report rather than a lead.",
+   "outcome_in_document": "denied-by-government",
+   "quote": "UAP Objects/Material Recovered (yes/no; if yes, describe): NO"
+  }
+ ],
+ "doc_verdict": "The document explicitly denies the recovery of any UAP-related material and contains no evidence suggesting the government obtained or held such items."
+}

@@ -1,0 +1,24 @@
+{
+ "doc": "pursue-r1--331_120752_numeric_files_1944_1945_37153_german_armament_equipment_documents.md",
+ "leads": [
+  {
+   "page": 5,
+   "lead_type": "debris-material",
+   "claim": "The document discusses the recovery of German bomb torpedoes from Trippelwerke Moisheim.",
+   "strength": "noise",
+   "why": "The material described is conventional German armament (bomb torpedoes) rather than UAP-related material.",
+   "outcome_in_document": "confirmed-mundane",
+   "quote": "RECOVERING BULK STOCKS OF GERMAN BOMB TORPEDOES"
+  },
+  {
+   "page": 11,
+   "lead_type": "program-custody-language",
+   "claim": "The document references a report on 'Night Phenomena' being forwarded to the Chief Technical Intelligence Officer.",
+   "strength": "noise",
+   "why": "The document refers to 'Night Phenomena' (likely Foo Fighters) but only discusses administrative handling of reports and aircrew interviews, not the custody of physical material.",
+   "outcome_in_document": "unresolved",
+   "quote": "SUBJECT: Night Phenomena. TO: Headquarters, U.S.S.T.A.F."
+  }
+ ],
+ "doc_verdict": "This document contains no evidence of the recovery, custody, or analysis of physical UAP material, focusing instead on conventional German armaments and administrative procedures for reporting aerial phenomena."
+}

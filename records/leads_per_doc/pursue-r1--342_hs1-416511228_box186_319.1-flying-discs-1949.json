@@ -1,0 +1,27 @@
+{
+ "doc": "pursue-r1--342_hs1-416511228_box186_319.1-flying-discs-1949.md",
+ "leads": [
+  {
+   "page": 6,
+   "lead_type": "debris-material",
+   "claim": "The document explicitly notes that no fragments or physical evidence were found or applicable for a reported sighting.",
+   "strength": "noise",
+   "why": "The document confirms the absence of physical material rather than its recovery."
+  },
+  {
+   "page": 108,
+   "lead_type": "debris-material",
+   "claim": "The report for Project Sign states that no fragments or other physical evidence of the object could be found.",
+   "strength": "noise",
+   "why": "The text explicitly denies the existence of recovered material for the reported incident."
+  },
+  {
+   "page": 113,
+   "lead_type": "debris-material",
+   "claim": "The report states that no fragments or other physical evidence of the object were obtained.",
+   "strength": "noise",
+   "why": "The document confirms that no physical material was secured."
+  }
+ ],
+ "doc_verdict": "This document consists entirely of administrative reports, routing slips, and standard operating procedures for reporting unidentified flying objects to Wright-Patterson Air Force Base, and it contains no evidence that any physical material was ever recovered or held."
+}

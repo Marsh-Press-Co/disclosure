@@ -1,0 +1,28 @@
+{
+ "doc": "pursue-r1--65_hs1-834228961_62-hq-83894_section_6.md",
+ "leads": [
+  {
+   "page": 8,
+   "lead_type": "debris-material",
+   "claim": "An unidentified object disintegrated into an odorless residue after being touched by officers.",
+   "strength": "strong",
+   "why": "The text describes a specific physical interaction with an object that left behind a material residue before disappearing.",
+   "claimant": "Unnamed police officers",
+   "material_description": "An object that left a slight odorless residue upon disintegration.",
+   "outcome_in_document": "unresolved",
+   "quote": "The object broke, leaving a slight odorless residue."
+  },
+  {
+   "page": 12,
+   "lead_type": "program-custody-language",
+   "claim": "Official procedures exist for the forwarding of physical evidence of UAP sightings to the Air Materiel Command.",
+   "strength": "strong",
+   "why": "The document explicitly outlines a formal custody chain for physical evidence, including fragments, to be sent to the Air Materiel Command.",
+   "custody_chain": "Commanding General, Air Materiel Command, Attn: MCIS",
+   "material_description": "Fragments, photographs and the like.",
+   "outcome_in_document": "unresolved",
+   "quote": "Any physical evidence of the sighting will be forwarded by most expeditious means to Commanding General, Air Materiel Command"
+  }
+ ],
+ "doc_verdict": "The document contains explicit administrative procedures for the collection and transfer of physical evidence (fragments) to the Air Materiel Command, and describes a specific incident where an object left a physical residue upon disintegration."
+}

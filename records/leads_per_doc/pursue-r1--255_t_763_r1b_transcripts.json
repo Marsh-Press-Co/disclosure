@@ -1,0 +1,17 @@
+{
+ "doc": "pursue-r1--255_t_763_r1b_transcripts.md",
+ "leads": [
+  {
+   "page": 1,
+   "lead_type": "debris-material",
+   "claim": "Astronaut Frank Borman reported a debris field consisting of hundreds of small particles while in space.",
+   "strength": "noise",
+   "why": "The context clearly identifies the debris as associated with the spacecraft's own booster or conventional space flight operations.",
+   "claimant": "Frank Borman (Astronaut)",
+   "material_description": "Hundreds of little particles",
+   "outcome_in_document": "confirmed-mundane",
+   "quote": "WE HAVE DEBRIS UP HERE"
+  }
+ ],
+ "doc_verdict": "The document describes a routine communication between astronauts and Houston regarding debris associated with their own spacecraft or booster, containing no evidence of UAP-related material."
+}

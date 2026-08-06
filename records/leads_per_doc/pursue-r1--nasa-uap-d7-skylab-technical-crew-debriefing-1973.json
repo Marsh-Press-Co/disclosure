@@ -1,0 +1,17 @@
+{
+ "doc": "pursue-r1--nasa-uap-d7-skylab-technical-crew-debriefing-1973.md",
+ "leads": [
+  {
+   "page": 7,
+   "lead_type": "debris-material",
+   "claim": "Astronauts observed an unidentified object in orbit that did not resemble anything seen on Earth.",
+   "strength": "moderate",
+   "why": "The text explicitly describes an object that is not like anything seen on Earth, though it lacks specific details on physical recovery or custody.",
+   "claimant": "Jack (Astronaut) and Garriott (Astronaut)",
+   "material_description": "A rather large object observed in orbit.",
+   "outcome_in_document": "unresolved",
+   "quote": "one that was not like one you would see on Earth"
+  }
+ ],
+ "doc_verdict": "The document contains a brief mention of an unidentified object observed in orbit by astronauts, but provides no evidence of physical recovery, custody, or government analysis of such material."
+}

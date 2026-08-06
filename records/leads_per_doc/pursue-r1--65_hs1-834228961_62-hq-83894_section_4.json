@@ -1,0 +1,42 @@
+{
+ "doc": "pursue-r1--65_hs1-834228961_62-hq-83894_section_4.md",
+ "leads": [
+  {
+   "page": 56,
+   "lead_type": "analysis-of-material",
+   "claim": "A small sample of soil was collected from a depression allegedly caused by a flying saucer and submitted to the FBI Laboratory for analysis.",
+   "strength": "strong",
+   "why": "The document explicitly details the collection, submission, and laboratory examination of physical material (soil) linked to a UAP incident.",
+   "claimant": "Anonymous correspondent to the FBI Laboratory",
+   "custody_chain": "Collected at the site, sent to FBI Laboratory, examined, and returned to Air Materiel Command, Wright-Patterson AF Base.",
+   "government_response": "The FBI Laboratory performed a petrographic-geologic examination of the soil sample.",
+   "outcome_in_document": "investigated-inconclusive",
+   "quote": "Accompanying this letter is a small sample of soil. This soil was taken from a depression reputed to have been caused by a flying saucer"
+  },
+  {
+   "page": 160,
+   "lead_type": "craft-custody",
+   "claim": "Robert Ripley claimed to possess an authentic Japanese flying saucer recovered in the United States.",
+   "strength": "strong",
+   "why": "The document records a specific claim of recovered craft material and the subsequent government investigation into that claim.",
+   "claimant": "Robert Ripley",
+   "custody_chain": "Allegedly held by Robert Ripley.",
+   "government_response": "The FBI and OSI-USAF investigated the claim and concluded there was no information in any arm of the Air Force regarding such a recovery.",
+   "outcome_in_document": "denied-by-government",
+   "quote": "he, Ripley, had the only authentic Japanese flying saucer ever recovered in this country."
+  },
+  {
+   "page": 199,
+   "lead_type": "analysis-of-material",
+   "claim": "Ash residue from a fire was submitted for chemical analysis due to the complainant's suspicion that it was caused by a UAP-related flare.",
+   "strength": "moderate",
+   "why": "The document describes the submission of physical residue for analysis, though the context suggests a mundane fire investigation.",
+   "claimant": "Frederic Marquardt",
+   "custody_chain": "Collected by Marquardt, submitted to Fire Marshal's Office, then forwarded to FBI Laboratory.",
+   "government_response": "The FBI Laboratory received the residue for study.",
+   "outcome_in_document": "unresolved",
+   "quote": "FREDERIC MARQUARDT submitted ash residue to Fire Marshal's Office, Philadelphia, Pa., which made chemical analysis."
+  }
+ ],
+ "doc_verdict": "The document contains records of physical material (soil samples and ash) submitted for laboratory analysis in connection with UAP reports, as well as investigations into claims of recovered craft, all of which were either determined to be mundane or resulted in no evidence of UAP-origin material."
+}

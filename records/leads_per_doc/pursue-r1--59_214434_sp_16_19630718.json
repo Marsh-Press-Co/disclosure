@@ -1,0 +1,20 @@
+{
+ "doc": "pursue-r1--59_214434_sp_16_19630718.md",
+ "leads": [
+  {
+   "page": 2,
+   "lead_type": "biological",
+   "claim": "The author discusses the biological evolution from inanimate molecules to living organisms as a theoretical framework.",
+   "strength": "noise",
+   "why": "The text refers to general biological evolution theory rather than the recovery or custody of biological material."
+  },
+  {
+   "page": 5,
+   "lead_type": "debris-material",
+   "claim": "The author speculates on the potential discovery of debris from an intragalactic survey mission.",
+   "strength": "noise",
+   "why": "This is a hypothetical philosophical musing about potential future discoveries rather than a report of actual recovered material."
+  }
+ ],
+ "doc_verdict": "This document contains no evidence or claims regarding the actual recovery, custody, or analysis of physical UAP material."
+}

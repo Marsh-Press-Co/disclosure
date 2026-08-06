@@ -1,0 +1,32 @@
+{
+ "doc": "pursue-r1--65_hs1-834228961_62-hq-83894_section_3.md",
+ "leads": [
+  {
+   "page": 15,
+   "lead_type": "analysis-of-material",
+   "claim": "Lt. Brown obtained samples of an unidentified substance from Mr. Dahl and Mr. Crisman that were allegedly related to a flying disc.",
+   "strength": "strong",
+   "why": "The document explicitly links specific individuals (Dahl, Crisman, Brown) to the transfer of physical samples alleged to be from a UAP.",
+   "claimant": "Mr. Arnold (witness/investigator)",
+   "custody_chain": "Dahl/Crisman to Lt. Brown (AAF Intelligence)",
+   "government_response": "AAF Intelligence officers collected the samples; later, the government investigated the claims and concluded the material was a hoax.",
+   "material_description": "Samples of an unidentified substance/lava oxide metal.",
+   "outcome_in_document": "judged-hoax",
+   "quote": "Lt Brown obtained from Mr. Dahl and Mr. Crisman samples of an unidentified substance"
+  },
+  {
+   "page": 164,
+   "lead_type": "analysis-of-material",
+   "claim": "Specimens of an alleged flying saucer were brought to Wright Field for analysis by the Analysis Division (T-2).",
+   "strength": "strong",
+   "why": "The document confirms the physical transfer of alleged UAP material to a military laboratory for technical analysis.",
+   "claimant": "Colonel H. M. McCoy (Air Corps)",
+   "custody_chain": "FBI to Lt. Col. Garrett to T-2 Analysis Division at Wright Field",
+   "government_response": "Technicians at Wright Field analyzed the specimens and determined they were a hoax made of plaster of paris and electrical wire.",
+   "material_description": "Fragments of undeterminable shape made from plaster of paris or ceramic containing electrical resistance wire.",
+   "outcome_in_document": "judged-hoax",
+   "quote": "The specimens of an alleged Flying Saucer brought to this Command by Colonel H. M. McCoy"
+  }
+ ],
+ "doc_verdict": "The document contains detailed accounts of the government obtaining and analyzing physical material alleged to be from a UAP, though the government's own investigation concluded these specific instances were hoaxes."
+}

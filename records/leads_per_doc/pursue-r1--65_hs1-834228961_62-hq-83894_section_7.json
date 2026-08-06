@@ -1,0 +1,39 @@
+{
+ "doc": "pursue-r1--65_hs1-834228961_62-hq-83894_section_7.md",
+ "leads": [
+  {
+   "page": 25,
+   "lead_type": "analysis-of-material",
+   "claim": "A correspondent submitted a sample of shredded thin strips of tin foil to the FBI, claiming it was found in a pasture.",
+   "strength": "moderate",
+   "why": "The document confirms the receipt of a physical sample of material, though it does not provide an analysis result or link it to a UAP.",
+   "claimant": "Anonymous correspondent",
+   "material_description": "shredded thin strips of tin foil",
+   "outcome_in_document": "forwarded-no-followup",
+   "quote": "Correspondent's enclosure was a sample of what appeared to be shredded thin strips of tin foil."
+  },
+  {
+   "page": 80,
+   "lead_type": "analysis-of-material",
+   "claim": "A rancher forwarded a found object to Wright Field, which was identified as a remnant of a Japanese incendiary balloon.",
+   "strength": "strong",
+   "why": "This describes a specific physical object recovered by a civilian, sent to a military facility, and formally identified by that facility.",
+   "claimant": "Anonymous rancher",
+   "material_description": "remnant of one of the incendiary balloons",
+   "outcome_in_document": "confirmed-mundane",
+   "quote": "The rancher forwarded... find to Wright Field, where it was identified as a remnant of one of the incendiary balloons"
+  },
+  {
+   "page": 160,
+   "lead_type": "biological",
+   "claim": "Two barbers and a butcher produced a 21-inch long creature they claimed was an occupant of a flying saucer.",
+   "strength": "strong",
+   "why": "The document details the production of a physical biological specimen (a corpse) to authorities, which was subsequently examined by an anatomy professor.",
+   "claimant": "Edward Watters (barber) and associates",
+   "material_description": "21-inch long creature, described as looking like a member of the rhesus monkey family",
+   "outcome_in_document": "judged-hoax",
+   "quote": "AN ANATOMY PROFESSOR SAID, HOWEVER, THAT THE CORPSE THE EARTH MEN SUSPECTED WAS FROM OUTER SPACE... LOOKED LIKE A MEMBER OF THE RHESUS MONKEY FAMILY"
+  }
+ ],
+ "doc_verdict": "The document contains reports of physical materials and biological specimens submitted to government authorities, but in every instance where an identification was made, the material was determined to be mundane (incendiary balloons or animal remains)."
+}

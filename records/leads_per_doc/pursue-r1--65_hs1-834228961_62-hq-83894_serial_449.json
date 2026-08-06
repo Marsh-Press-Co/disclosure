@@ -1,0 +1,78 @@
+{
+ "doc": "pursue-r1--65_hs1-834228961_62-hq-83894_serial_449.md",
+ "leads": [
+  {
+   "page": 1,
+   "lead_type": "contractor-involvement",
+   "claim": "The document mentions photographic evidence from Oak Ridge, TN, in the context of high-profile incident accounts.",
+   "strength": "noise",
+   "why": "The mention of Oak Ridge is generic and lacks any specific connection to UAP material or custody of such items.",
+   "outcome_in_document": "unknown",
+   "quote": "photographic evidence from sites like Oak Ridge, TN"
+  },
+  {
+   "page": 6,
+   "lead_type": "biological",
+   "claim": "A convention advertisement mentions experiences with spacecraft and their occupants.",
+   "strength": "noise",
+   "why": "This is a promotional blurb for a contactee convention and does not describe physical material or government custody.",
+   "outcome_in_document": "unknown",
+   "quote": "Amazing experiences with spacecraft from other planets and their occupants"
+  },
+  {
+   "page": 7,
+   "lead_type": "biological",
+   "claim": "A text describes a technical process for recording and reproducing human atomic structures.",
+   "strength": "noise",
+   "why": "This appears to be a theoretical or science-fiction description of teleportation technology, not a report of recovered biological material.",
+   "outcome_in_document": "unknown",
+   "quote": "recording the atomic and molecular structures of our bodies"
+  },
+  {
+   "page": 7,
+   "lead_type": "biological",
+   "claim": "An anonymous source claims humanoid beings walk among us.",
+   "strength": "noise",
+   "why": "This is a narrative claim about extraterrestrial presence without any physical evidence or custody details.",
+   "outcome_in_document": "unknown",
+   "quote": "We are humanoid, indistinguishable from yourselves"
+  },
+  {
+   "page": 17,
+   "lead_type": "biological",
+   "claim": "A newspaper article mentions 'little men from outer space' causing police activity.",
+   "strength": "noise",
+   "why": "This is a report on public sightings and rumors, not a report of recovered biological material.",
+   "outcome_in_document": "unknown",
+   "quote": "If the little men from outer space had the up-county police on the run"
+  },
+  {
+   "page": 17,
+   "lead_type": "biological",
+   "claim": "A convention chairman describes interplanetary visitors as angelic creatures.",
+   "strength": "noise",
+   "why": "This is a philosophical or religious claim made at a convention, not a report of physical material.",
+   "outcome_in_document": "unknown",
+   "quote": "interplanetary visitors would turn out to be angelic creatures"
+  },
+  {
+   "page": 18,
+   "lead_type": "biological",
+   "claim": "An individual claims to have encountered a spaceship and its occupants.",
+   "strength": "noise",
+   "why": "This is a personal anecdote about a sighting and interaction, lacking any physical evidence or government custody.",
+   "outcome_in_document": "unknown",
+   "quote": "his encounter with a space ship complete with its eerie occupants"
+  },
+  {
+   "page": 18,
+   "lead_type": "biological",
+   "claim": "An individual claims to have seen two human-like creatures hidden under uniforms.",
+   "strength": "noise",
+   "why": "This is a personal sighting report with no evidence of physical material or government involvement.",
+   "outcome_in_document": "unknown",
+   "quote": "The two human-like creatures which were hid under uniforms and hoods"
+  }
+ ],
+ "doc_verdict": "This document contains no evidence of obtained material; it is a collection of newspaper clippings, convention advertisements, and anecdotal accounts of sightings and contactee claims."
+}

@@ -1,0 +1,14 @@
+{
+ "doc": "pursue-r1--dow-uap-d4-mission-report-arabian-gulf-2020.md",
+ "leads": [
+  {
+   "page": 5,
+   "lead_type": "debris-material",
+   "claim": "A UAP was observed in the vicinity of specific coordinates.",
+   "strength": "noise",
+   "why": "The snippet mentions a UAP observation but contains no information regarding physical material, debris, or custody of such items.",
+   "quote": "OBSERVED POSS UAP IVO 34SDG9041417"
+  }
+ ],
+ "doc_verdict": "This document contains no information suggesting the government or a contractor obtained, analyzed, or held physical material from a UAP."
+}

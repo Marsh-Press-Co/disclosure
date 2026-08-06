@@ -1,0 +1,14 @@
+{
+ "doc": "pursue-r1--nasa-uap-d2-apollo-17-transcript-1972.md",
+ "leads": [
+  {
+   "page": 1,
+   "lead_type": "debris-material",
+   "claim": "Astronauts observed bright, tumbling fragments drifting near the Apollo 17 spacecraft.",
+   "strength": "noise",
+   "why": "The astronauts and mission control explicitly identify these as conventional spacecraft debris, such as ice or paint fragments from the S-IVB component.",
+   "quote": "The astronauts speculated that the phenomenon may be attributable to ice or paint fragments dislodging from a separated component of the spacecraft"
+  }
+ ],
+ "doc_verdict": "This document contains no evidence of UAP-related material; it is a transcript of astronauts observing and discussing conventional spacecraft debris."
+}

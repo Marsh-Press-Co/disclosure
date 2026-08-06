@@ -1,0 +1,16 @@
+{
+ "doc": "pursue-r1--nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.md",
+ "leads": [
+  {
+   "page": 2,
+   "lead_type": "debris-material",
+   "claim": "The crew observed the superstructure of an aircraft carrier during the recovery phase of the Apollo 17 mission.",
+   "strength": "noise",
+   "why": "The mention of an aircraft carrier is a prosaic reference to the standard naval recovery vessel used for Apollo splashdowns, not a UAP-related material recovery.",
+   "claimant": "CMP (Command Module Pilot)",
+   "outcome_in_document": "confirmed-mundane",
+   "quote": "saw the superstructure of an aircraft carrier"
+  }
+ ],
+ "doc_verdict": "The document contains no information suggesting the recovery or custody of UAP-related material; the snippet refers to standard naval recovery operations."
+}

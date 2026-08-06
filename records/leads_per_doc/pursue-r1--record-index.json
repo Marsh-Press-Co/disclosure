@@ -1,0 +1,22 @@
+{
+ "doc": "pursue-r1--record-index.md",
+ "leads": [
+  {
+   "page": 1,
+   "lead_type": "debris-material",
+   "claim": "Astronauts observed debris fields and particles while in space, which they speculated could be ice or paint fragments.",
+   "strength": "noise",
+   "why": "The document explicitly identifies these as conventional spacecraft debris (ice or paint) and provides no evidence of UAP-related material.",
+   "quote": "speculated that the phenomenon may be attributable to ice or paint fragments"
+  },
+  {
+   "page": 1,
+   "lead_type": "analysis-of-material",
+   "claim": "Records include photographic evidence from Oak Ridge, TN, and technical proposals regarding propulsion systems.",
+   "strength": "noise",
+   "why": "The mention of Oak Ridge is generic and lacks any specific connection to recovered UAP material or custody of such items.",
+   "quote": "photographic evidence from sites like Oak Ridge, TN, and technical proposals"
+  }
+ ],
+ "doc_verdict": "This document contains no evidence of obtained UAP material, as the reported debris is attributed to conventional spacecraft components like ice or paint."
+}

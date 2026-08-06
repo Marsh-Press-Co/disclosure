@@ -1,0 +1,16 @@
+{
+ "doc": "pursue-r1--usper-statement-redacted.md",
+ "leads": [
+  {
+   "page": 1,
+   "lead_type": "debris-material",
+   "claim": "Personnel at a listening post spotted debris using FLIR and directed an aircraft to intercept it.",
+   "strength": "weak",
+   "why": "The text describes the tracking and interception of debris but does not explicitly confirm the recovery or physical possession of anomalous material.",
+   "material_description": "unidentified debris",
+   "outcome_in_document": "unresolved",
+   "quote": "headed toward debris spotted by the Listening Post/Observation Post"
+  }
+ ],
+ "doc_verdict": "The document describes an interception operation regarding debris but does not confirm the successful recovery or custody of anomalous material."
+}

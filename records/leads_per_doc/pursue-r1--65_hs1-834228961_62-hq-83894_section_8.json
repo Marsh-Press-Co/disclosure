@@ -1,0 +1,26 @@
+{
+ "doc": "pursue-r1--65_hs1-834228961_62-hq-83894_section_8.md",
+ "leads": [
+  {
+   "page": 50,
+   "lead_type": "biological",
+   "claim": "A movie projectionist reported seeing a landed flying saucer and four small creatures with oversized heads and delicate legs.",
+   "strength": "weak",
+   "why": "The claim is a secondhand report of a sighting and alleged encounter, lacking any evidence of government custody or physical material.",
+   "claimant": "Franz Hoge (movie projectionist)",
+   "outcome_in_document": "unknown",
+   "quote": "he suddenly sighted four creatures about three and one-half feet in height"
+  },
+  {
+   "page": 95,
+   "lead_type": "contractor-involvement",
+   "claim": "A technician assigned to Sandia Air Force Base allegedly flew in a saucer from the base to New York City in 30 minutes.",
+   "strength": "weak",
+   "why": "This is an unsubstantiated claim of an event involving a contractor employee, with no mention of physical material or government verification.",
+   "claimant": "Cox (unidentified individual)",
+   "outcome_in_document": "unknown",
+   "quote": "HE CLAIMS ONE JOHN FRY, A TECHNICIAN NOW ASSIGNED TO SANDIA AF BASE, NEW MEXICO, HAS ACTUALLY FLOWN IN A SAUCER"
+  }
+ ],
+ "doc_verdict": "This document contains no evidence of the government or contractors obtaining, holding, or analyzing physical UAP material; it consists entirely of administrative records, sighting reports, and unsubstantiated claims."
+}
