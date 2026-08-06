@@ -1,0 +1,525 @@
+{
+ "doc_id": "nara--faa-reports-batch-04",
+ "file": "nara--faa-reports-batch-04.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 04 (237UAP00082 - 237UAP00106)",
+ "record_type": "report-batch",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FAA Skywatch incident reports regarding UAP sightings by commercial and general aviation pilots between March and August 2022.",
+ "incidents": [
+  {
+   "summary": "Aircraft observed a line of stationary strobe lights far above their altitude.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "stationary"
+   ],
+   "country": "USA",
+   "date": "2022-03-10",
+   "explanation_status": "not-assessed",
+   "location_name": "10 miles N of LYH",
+   "page_refs": [
+    1
+   ],
+   "quote": "observing a possible UFO with a line of stationary strobe lights far above his aircraft",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Unidentified aircraft broadcasted presence of UAP; pilot reported rapid vertical and lateral movement.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "rapidly moving vertically",
+    "rapidly moving laterally"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2022-03-23",
+   "explanation_status": "not-assessed",
+   "location_name": "SOW Airport",
+   "page_refs": [
+    2
+   ],
+   "quote": "The unknown phenomenon was rapidly moving vertically and laterally up to 8,000 feet.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Two aircraft reported an object resembling a rocket with a flash.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "traveling"
+   ],
+   "country": "USA",
+   "date": "2022-03-29",
+   "explanation_status": "not-assessed",
+   "location_name": "SYA",
+   "page_refs": [
+    3
+   ],
+   "quote": "reported an unidentified aerial phenomenon that appeared to be rocket with a flash traveling NW.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Two aircraft reported an unidentified phenomenon; authorities concluded it was likely space debris.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2022-03-29",
+   "explanation_status": "partially-explained",
+   "location_name": "Eugene, OR",
+   "page_refs": [
+    4
+   ],
+   "quote": "concluded that the unknown phenomenon given the pilots description was probably space debris.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Pilot reported lights orbiting at high altitude; radar showed no activity.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "orbiting"
+   ],
+   "country": "USA",
+   "date": "2022-04-08",
+   "explanation_status": "unexplained",
+   "location_name": "70 miles W of Louisville",
+   "page_refs": [
+    5
+   ],
+   "quote": "reporting observing 60-80 miles ahead and altitude very high above them several lights doing an orbit.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Two aircraft reported lights maneuvering at high altitude.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "maneuvering"
+   ],
+   "country": "USA",
+   "date": "2022-04-09",
+   "explanation_status": "not-assessed",
+   "location_name": "Stillwater, OK",
+   "page_refs": [
+    6
+   ],
+   "quote": "observing a set of lights very high in the distance maneuvering",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "String of lights observed; aircraft experienced multiple system failures while underneath.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "stationary"
+   ],
+   "country": "USA",
+   "date": "2022-04-22",
+   "explanation_status": "not-assessed",
+   "location_name": "ESL VORTAC",
+   "page_refs": [
+    7
+   ],
+   "quote": "LXJ359 experienced a double Attitude Reference System failure and a double Autopilot System failure while directly underneath of the UFO lights.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Lights observed maneuvering between FL300 and FL400.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "maneuvering"
+   ],
+   "country": "USA",
+   "date": "2022-04-26",
+   "explanation_status": "not-assessed",
+   "location_name": "35NM SE of LBL",
+   "page_refs": [
+    8
+   ],
+   "quote": "The unknown phenomenon was lights maneuvering between approximately FL300 and FL400.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Two aircraft reported an equally spaced line of bright lights moving eastward.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "moving eastward"
+   ],
+   "country": "USA",
+   "date": "2022-05-12",
+   "explanation_status": "not-assessed",
+   "location_name": "CSN VORTAC",
+   "page_refs": [
+    9,
+    10
+   ],
+   "quote": "an equally spaced line of very bright lights moving Eastward away from their aircraft",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Object observed traveling at altitude; no traffic on radar or TCAS.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "traveling"
+   ],
+   "country": "USA",
+   "date": "2022-05-23",
+   "explanation_status": "not-assessed",
+   "location_name": "SDZ",
+   "page_refs": [
+    11
+   ],
+   "quote": "The unknown phenomenon was described as an object traveling E to W bound at approximately same altitude.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Lights observed at high altitude with no contrail.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "traveling"
+   ],
+   "country": "USA",
+   "date": "2022-07-18",
+   "explanation_status": "not-assessed",
+   "location_name": "35 NM N of GLH",
+   "page_refs": [
+    12
+   ],
+   "quote": "The unknown phenomenon was described as lights with no contrail traveling at approximately FL 600 or above.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Stationary, untethered object observed passing underneath aircraft.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "stationary"
+   ],
+   "country": "USA",
+   "date": "2022-07-28",
+   "explanation_status": "not-assessed",
+   "location_name": "35 miles SE of LBF",
+   "page_refs": [
+    13
+   ],
+   "quote": "The unknown phenomenon was stationary and untethered with no lights.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Three lights observed turning on and off, stationary above the horizon.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "stationary"
+   ],
+   "country": "USA",
+   "date": "2022-08-06",
+   "explanation_status": "not-assessed",
+   "location_name": "115 NM SE of ZQA",
+   "page_refs": [
+    14,
+    15,
+    16
+   ],
+   "quote": "The unknown phenomenon was 3 lights turning on and off, above the horizon stationary.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Two to three stationary lights appearing and disappearing.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "stationary"
+   ],
+   "country": "USA",
+   "date": "2022-08-07",
+   "explanation_status": "not-assessed",
+   "location_name": "58 NM S LIT",
+   "page_refs": [
+    17
+   ],
+   "quote": "The unknown phenomenon was 2 to 3 stationary lights appearing and disappearing.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Flashing lights observed in a diamond pattern traveling west to east.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "traveling"
+   ],
+   "country": "USA",
+   "date": "2022-08-08",
+   "explanation_status": "not-assessed",
+   "location_name": "15 NM SE of LIT",
+   "page_refs": [
+    18
+   ],
+   "quote": "The unknown phenomenon was described as flashing lights traveling west to east in a diamond pattern",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Lights observed making 360-degree turns; possibly Starlink satellites.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "making 360's"
+   ],
+   "country": "USA",
+   "date": "2022-08-08",
+   "explanation_status": "partially-explained",
+   "location_name": "over RDU",
+   "page_refs": [
+    19
+   ],
+   "quote": "observed the lights and believes they are Starlink satellites.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Lights observed in racetrack pattern; possibly Starlink satellites.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "racetrack pattern"
+   ],
+   "country": "USA",
+   "date": "2022-08-10",
+   "explanation_status": "partially-explained",
+   "location_name": "1,050 miles off the E coast of the Carolinas",
+   "page_refs": [
+    20,
+    22
+   ],
+   "quote": "They report this sighting to possibly be Starlink Satellites.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Green light observed traveling at low altitude.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "traveling"
+   ],
+   "color": "green",
+   "country": "USA",
+   "date": "2022-08-10",
+   "explanation_status": "not-assessed",
+   "location_name": "7 NM SE of NZY",
+   "page_refs": [
+    21
+   ],
+   "quote": "The unknown phenomenon was a green light traveling W bound at approximately 50 feet.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Three lights in a row observed in geosynchronous orbit.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "geosynchronous orbit"
+   ],
+   "country": "USA",
+   "date": "2022-08-14",
+   "explanation_status": "not-assessed",
+   "location_name": "195NM S of ILM",
+   "page_refs": [
+    23
+   ],
+   "quote": "The unknown phenomenon was described as 3 lights in a row and above them in a geosynchronous orbit.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Bright light observed in a holding pattern; possibly Starlink satellites.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "holding pattern"
+   ],
+   "country": "USA",
+   "date": "2022-08-17",
+   "explanation_status": "partially-explained",
+   "location_name": "37:49N/78:01W",
+   "page_refs": [
+    24
+   ],
+   "quote": "PIC indicated they though phenomenon was star link satellites reflecting sunlight.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Bright light observed in a holding pattern.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "holding pattern"
+   ],
+   "country": "USA",
+   "date": "2022-08-18",
+   "explanation_status": "not-assessed",
+   "location_name": "50NM W of LAX",
+   "page_refs": [
+    25
+   ],
+   "quote": "The unknown phenomenon was a bright light in a holding pattern approximately 5,000 feet above.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

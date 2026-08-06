@@ -1,0 +1,64 @@
+{
+ "doc_id": "nara--12132462--ford-speech-and-press-logs-1966-12132462",
+ "file": "nara--12132462--ford-speech-and-press-logs-1966-12132462.md",
+ "source": "NARA-RG615",
+ "agency": "White House (Ford)",
+ "title": "Ford speech and press logs 1966 - 12132462",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a log of speeches and press releases by Gerald R. Ford in 1966, which contains brief mentions of UFO-related activities and investigation requests.",
+ "encounters": [
+  {
+   "summary": "Request for UFO investigation by Gerald R. Ford.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "low",
+   "claimant_firsthand": false,
+   "date": "3/25/1966",
+   "date_precision": "day",
+   "page_refs": [
+    3
+   ]
+  },
+  {
+   "summary": "UFO investigation request.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "low",
+   "claimant_firsthand": false,
+   "date": "3/29/1966",
+   "date_precision": "day",
+   "page_refs": [
+    3
+   ]
+  },
+  {
+   "summary": "UFO hearings with Representative Joseph E. Karth.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "low",
+   "claimant_firsthand": false,
+   "date": "4/3/1966",
+   "date_precision": "day",
+   "page_refs": [
+    4
+   ]
+  },
+  {
+   "summary": "UFO study mentioned in speech logs.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "low",
+   "claimant_firsthand": false,
+   "date": "4/20/1966",
+   "date_precision": "day",
+   "page_refs": [
+    4
+   ]
+  }
+ ]
+}

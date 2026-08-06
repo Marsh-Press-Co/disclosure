@@ -1,0 +1,56 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-009",
+ "file": "nara--733667--roswell-report-source-files-733667-001-009.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-009",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a transcript of a FAA/AAL interview with a JAL First Officer regarding a UFO sighting; encounter content is present.",
+ "encounters": [
+  {
+   "summary": "JAL First Officer Takanori Tamefuji reports sighting unidentified lights while in flight, which he initially mistook for an oncoming aircraft.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1986-11-17",
+   "date_precision": "day",
+   "entity_appearance": "Multiple lights, described as salmon, red, orange, white, and weak green blinking lights.",
+   "entity_behavior": "Moving in a swinging motion, maintaining a formation, and appearing to travel with the aircraft.",
+   "location_name": "Alaska",
+   "page_refs": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "physical_effects": [
+    "radar echo",
+    "radio garbling"
+   ],
+   "quote": "I am certain that I saw something."
+  }
+ ]
+}

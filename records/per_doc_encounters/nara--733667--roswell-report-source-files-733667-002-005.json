@@ -1,0 +1,51 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-002-005",
+ "file": "nara--733667--roswell-report-source-files-733667-002-005.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-002-005",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of correspondence from the public requesting information from the FAA regarding a widely reported 1986 Japan Air Lines UFO sighting; it contains no firsthand encounter reports, only references to the JAL incident.",
+ "encounters": [
+  {
+   "summary": "Japan Air Lines flight crew reported a UFO sighting in Alaska airspace on November 17, 1986.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1986-11-17",
+   "date_precision": "day",
+   "location_name": "Alaska",
+   "page_refs": [
+    3,
+    7,
+    9,
+    14,
+    35,
+    40,
+    41,
+    42,
+    45,
+    47,
+    48,
+    51,
+    52,
+    53,
+    57,
+    58,
+    63,
+    64,
+    69,
+    72,
+    73,
+    77,
+    78,
+    79
+   ]
+  }
+ ]
+}

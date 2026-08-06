@@ -1,0 +1,44 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-021",
+ "file": "nara--733667--roswell-report-source-files-733667-001-021.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-021",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document consists of five pages of simulation data logs related to the Japan Air Lines 1628 incident.",
+ "incidents": [
+  {
+   "summary": "Japan Air Lines flight 1628 encounter with unidentified object near Fort Yukon and Fairbanks.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "descending in formation"
+   ],
+   "country": "USA",
+   "date": "1986-11-18",
+   "location_name": "Fort Yukon and Fairbanks, Alaska",
+   "page_refs": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "quote": "The pilot stated the other object was descending in formation with him.",
+   "recording_agency": "USAF",
+   "sensors": [
+    "radar",
+    "visual"
+   ],
+   "time_local": "0224Z",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

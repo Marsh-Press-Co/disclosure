@@ -1,0 +1,51 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-002-003",
+ "file": "nara--733667--roswell-report-source-files-733667-002-003.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-002-003",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document consists of correspondence and administrative records from the FAA regarding public requests for information about the JAL Flight 1628 UFO sighting.",
+ "incidents": [
+  {
+   "summary": "Japan Air Lines Flight 1628 crew reported sighting an unidentified object while flying over Alaska.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "shadowed by two belts of light",
+    "third aircraft observed",
+    "huge spaceship"
+   ],
+   "color": "light",
+   "country": "USA",
+   "date": "1986-11-17",
+   "explanation": "Investigator Philip J. Klass concluded the pilot was seeing an unusually bright image of the planet Jupiter and possibly Mars.",
+   "explanation_status": "explained",
+   "location_name": "Alaska airspace",
+   "object_count": "3",
+   "page_refs": [
+    5,
+    8,
+    11,
+    13,
+    38
+   ],
+   "quote": "JAL Captain Kenjyu Terauchi reported on November 17 that his Boeing 747 cargo jet was shadowed by two belts of light",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "spaceship",
+   "size": "size of two aircraft carriers",
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

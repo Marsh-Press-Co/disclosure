@@ -1,0 +1,465 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-002-002",
+ "file": "nara--733667--roswell-report-source-files-733667-002-002.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-002-002",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of administrative records and reports regarding UFO sightings, including a specific case involving Japan Airlines flight 1628 and various other pilot reports compiled by Phenomena Research.",
+ "incidents": [
+  {
+   "summary": "Japan Airlines flight 1628 crew observed two belts of amber light and a large walnut-shaped object over Alaska.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "hovered",
+    "pulsed",
+    "shifted side-to-side",
+    "descended in formation",
+    "circled"
+   ],
+   "color": "amber, white",
+   "country": "USA",
+   "date": "1986-11-17",
+   "explanation_status": "partially-explained",
+   "location_name": "Alaska",
+   "object_count": "3",
+   "page_refs": [
+    3,
+    5,
+    8,
+    9
+   ],
+   "quote": "The objects, Terauchi believes were not made by human kind.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "cylinders, walnut-shaped",
+   "size": "twice the size of an aircraft carrier",
+   "witness_types": [
+    "military-pilot",
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Senator Richard B. Russell Jr. and his aides observed two disc-shaped objects while traveling by train in Russia.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "ascended vertically",
+    "gliding"
+   ],
+   "color": "pinkish-white",
+   "country": "Russia",
+   "date": "1955-10-04",
+   "explanation_status": "unexplained",
+   "location_name": "Trans-Caucasian region",
+   "object_count": "2",
+   "page_refs": [
+    10,
+    11
+   ],
+   "quote": "The three observers were firmly convinced that they saw a genuine UFO",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "witness_types": [
+    "government-civilian",
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Pilot and co-pilot observed a large delta-shaped object accompanied by small objects flying under their plane.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "flew under plane"
+   ],
+   "country": "USA",
+   "date": "1986-10-12",
+   "explanation_status": "not-assessed",
+   "location_name": "Greensboro, North Carolina",
+   "object_count": "several",
+   "page_refs": [
+    11
+   ],
+   "sensors": [
+    "visual"
+   ],
+   "shape": "delta-shaped",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Pilot observed a bright silver oscillating sphere flying southbound.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "oscillating"
+   ],
+   "color": "silver",
+   "country": "USA",
+   "date": "1986-10-12",
+   "explanation_status": "not-assessed",
+   "location_name": "Greensboro, North Carolina",
+   "object_count": "1",
+   "page_refs": [
+    11
+   ],
+   "sensors": [
+    "visual"
+   ],
+   "shape": "sphere",
+   "size": "16 feet in diameter",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Pilot of a Cessna observed a torpedo-shaped object flash by his aircraft.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "flash by"
+   ],
+   "country": "USA",
+   "date": "1988-01-27",
+   "explanation_status": "not-assessed",
+   "location_name": "Riverside, California",
+   "object_count": "1",
+   "page_refs": [
+    12
+   ],
+   "sensors": [
+    "visual"
+   ],
+   "shape": "torpedo-shaped",
+   "size": "size of his plane",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Crew and passengers of an Aeroflot airliner observed a large glowing object that directed a ray of light to the ground.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "directed ray of light",
+    "accompanied aircraft"
+   ],
+   "country": "USSR",
+   "date": "1985-01",
+   "explanation_status": "not-assessed",
+   "location_name": "Minsk",
+   "object_count": "1",
+   "page_refs": [
+    12
+   ],
+   "sensors": [
+    "visual"
+   ],
+   "shape": "glowing object",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Pilot observed a strange object that circled his plane twice.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "circled plane"
+   ],
+   "country": "unknown",
+   "date": "1982-05-17",
+   "explanation_status": "not-assessed",
+   "location_name": "Mediterranean Sea",
+   "object_count": "1",
+   "page_refs": [
+    12
+   ],
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "size": "30 meters wide",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Corporate jet pilot observed a silver disc on a collision course.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "collision course"
+   ],
+   "color": "silver",
+   "country": "USA",
+   "date": "1982-06-18",
+   "explanation_status": "not-assessed",
+   "location_name": "Allendale, South Carolina",
+   "object_count": "1",
+   "page_refs": [
+    12
+   ],
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "size": "10 feet in diameter",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Pilot and passengers observed a bright white light moving like a yo-yo.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "moving like a yo-yo",
+    "loops"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "1982-02-21",
+   "explanation_status": "not-assessed",
+   "location_name": "Charleston, West Virginia",
+   "object_count": "1",
+   "page_refs": [
+    12
+   ],
+   "sensors": [
+    "visual"
+   ],
+   "shape": "light",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple aircraft reported rectangular-shaped objects with flashing lights.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "medium",
+   "behavior": [
+    "stationary",
+    "vertical ascent",
+    "level flight"
+   ],
+   "color": "orange, amber, red, green",
+   "country": "USA",
+   "date": "1981-10-01",
+   "explanation_status": "not-assessed",
+   "location_name": "Saranac Lake, New York",
+   "object_count": "1",
+   "page_refs": [
+    12
+   ],
+   "sensors": [
+    "visual"
+   ],
+   "shape": "rectangular",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Pilot observed a large silver disc pass above his plane.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "high speed"
+   ],
+   "color": "silver",
+   "country": "USA",
+   "date": "1981-06-27",
+   "explanation_status": "not-assessed",
+   "location_name": "Dubuque, Iowa",
+   "object_count": "1",
+   "page_refs": [
+    12
+   ],
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Pilot and passenger observed an egg-shaped object made of polished metal.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "medium",
+   "behavior": [
+    "high speed"
+   ],
+   "color": "polished metal",
+   "country": "USA",
+   "date": "1981-06-18",
+   "explanation_status": "not-assessed",
+   "location_name": "New Haven, Connecticut",
+   "object_count": "1",
+   "page_refs": [
+    13
+   ],
+   "sensors": [
+    "visual"
+   ],
+   "shape": "egg-shaped",
+   "size": "15 to 20 feet",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Pilot observed a black object like two soup bowls.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "unknown"
+   ],
+   "color": "black",
+   "country": "USA",
+   "date": "1981-06-06",
+   "explanation_status": "not-assessed",
+   "location_name": "Kansas City, Missouri",
+   "object_count": "1",
+   "page_refs": [
+    13
+   ],
+   "sensors": [
+    "visual"
+   ],
+   "shape": "two soup bowls",
+   "size": "3 feet",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "United Air Lines crew observed a large glowing object moving at high speed.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "medium",
+   "behavior": [
+    "level flight",
+    "reversed course"
+   ],
+   "country": "USA",
+   "date": "1981-05-21",
+   "explanation_status": "not-assessed",
+   "location_name": "Dove Creek, Colorado",
+   "object_count": "1",
+   "page_refs": [
+    13
+   ],
+   "sensors": [
+    "visual"
+   ],
+   "shape": "glowing object",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Pilot reported a rocket-ship shaped object with a blue flame.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "climbing",
+    "high speed"
+   ],
+   "color": "blue",
+   "country": "USA",
+   "date": "1981-05-10",
+   "explanation_status": "not-assessed",
+   "location_name": "Philadelphia, Pennsylvania",
+   "object_count": "1",
+   "page_refs": [
+    13
+   ],
+   "sensors": [
+    "visual"
+   ],
+   "shape": "rocket ship",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Pilot observed a glowing object that separated into two parts and caused engine failure.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "medium",
+   "behavior": [
+    "separated",
+    "caused engine failure"
+   ],
+   "country": "USA",
+   "date": "1980-11-11",
+   "explanation_status": "not-assessed",
+   "location_name": "Ozona, Texas",
+   "object_count": "2",
+   "page_refs": [
+    13
+   ],
+   "sensors": [
+    "visual"
+   ],
+   "shape": "long, pointed",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Pilot observed two hamburger bun-shaped objects circling his plane.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "medium",
+   "behavior": [
+    "circled plane"
+   ],
+   "color": "yellow",
+   "country": "USA",
+   "date": "1980-09-27",
+   "explanation_status": "not-assessed",
+   "location_name": "Pompano Beach, Florida",
+   "object_count": "2",
+   "page_refs": [
+    13
+   ],
+   "sensors": [
+    "visual"
+   ],
+   "shape": "hamburger bun",
+   "size": "10 feet",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

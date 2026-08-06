@@ -1,0 +1,101 @@
+{
+ "doc_id": "nara--493468580--osd-uap-records-03-2024-dgi-mission-brief",
+ "file": "nara--493468580--osd-uap-records-03-2024-dgi-mission-brief.md",
+ "source": "NARA-RG615",
+ "agency": "OSD",
+ "title": "OSD UAP records - 03_2024_DGI_Mission_Brief",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 5,
+ "doc_notes": "This document is a mission brief from the All-Domain Anomaly Resolution Office (AARO) dated February 2024, outlining the office's mission, operational framework, and strategic goals regarding UAP, but it contains no specific incident reports. / This document is an AARO mission brief outlining the analytic framework, peer-review processes, and methodology for investigating UAP reports. / This document is an AARO mission brief from March 2024 discussing analytic trends, data limitations, and reporting biases regarding UAP sightings. / This document is an AARO mission brief page describing a 2022 UAP sighting in the Middle East. / This document contains AARO case summaries for two UAP incidents, noting that both were resolved as commercial aircraft and sensor artifacts.",
+ "incidents": [
+  {
+   "summary": "MQ-9 drone observed a spherical UAP in the Middle East via electro-optical sensors.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "consistent with metallic orb observations"
+   ],
+   "color": "",
+   "country": "Middle East",
+   "date": "2022",
+   "duration": "",
+   "explanation": "Case in active archive, pending additional data.",
+   "explanation_status": "unexplained",
+   "location_name": "Middle East",
+   "object_count": "1",
+   "page_refs": [
+    9
+   ],
+   "quote": "MQ-9 OBSERVED APPARENT SPHERICAL UAP VIA ELECTRO-OPTICAL SENSORS",
+   "recording_agency": "AARO",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "spherical",
+   "size": "",
+   "time_local": "",
+   "witness_count": "",
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "P-3 aircraft on a training mission in the Western United States observed three equidistant UAP that it was unable to intercept.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "high velocity",
+    "flying in formation"
+   ],
+   "country": "United States",
+   "explanation": "Likely commercial aircraft transiting known flight paths and video autofocus effect.",
+   "explanation_status": "explained",
+   "location_name": "Western United States",
+   "object_count": "3",
+   "page_refs": [
+    10
+   ],
+   "quote": "Three UAP objects observed, apparently flying at high velocity.",
+   "recording_agency": "AARO",
+   "sensors": [
+    "visual",
+    "other"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "MQ-9 platform observed a UAP in South Asia with an apparent atmospheric wake.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "trailing wake"
+   ],
+   "country": "South Asia",
+   "date": "2023",
+   "explanation": "Likely commercial airliner and video-compression artifact.",
+   "explanation_status": "explained",
+   "location_name": "South Asia",
+   "object_count": "1",
+   "page_refs": [
+    11
+   ],
+   "quote": "South Asia UAP observed with apparent wake, likely resolved as commercial airliner",
+   "recording_agency": "AARO",
+   "sensors": [
+    "ir",
+    "video"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

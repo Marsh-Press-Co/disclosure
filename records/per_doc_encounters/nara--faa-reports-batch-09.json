@@ -1,0 +1,31 @@
+{
+ "doc_id": "nara--faa-reports-batch-09",
+ "file": "nara--faa-reports-batch-09.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 09 (237UAP00208 - 237UAP00233)",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a batch of FAA Skywatch incident reports; one report contains a close-approach encounter involving a civilian report of a hovering object.",
+ "encounters": [
+  {
+   "summary": "Frederick County Sheriff Office reported a lighted object the size of a car hovering over a truck near Point of Rocks, MD.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "2023-03-02",
+   "date_precision": "day",
+   "entity_appearance": "lighted object",
+   "entity_behavior": "hovering",
+   "location_name": "Point of Rocks, MD",
+   "page_refs": [
+    21
+   ],
+   "quote": "lighted object the size of a car hovering over their truck"
+  }
+ ]
+}

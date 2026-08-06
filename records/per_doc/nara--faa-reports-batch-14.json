@@ -1,0 +1,646 @@
+{
+ "doc_id": "nara--faa-reports-batch-14",
+ "file": "nara--faa-reports-batch-14.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 14 (237UAP00336 - 237UAP00361)",
+ "record_type": "report-batch",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FAA Skywatch incident reports regarding UAP sightings by commercial and general aviation pilots between January and March 2024.",
+ "incidents": [
+  {
+   "summary": "Commercial aircraft reported bright orange UAP that moved quickly and jumped in altitude.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "moved quickly",
+    "jumped in altitude"
+   ],
+   "color": "bright orange",
+   "country": "USA",
+   "date": "2024-01-02",
+   "explanation_status": "unexplained",
+   "location_name": "25NM SSW of ALB",
+   "page_refs": [
+    1
+   ],
+   "quote": "The unknown phenomenon was bright orange and moved quickly at near level altitude and would jump in altitude",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported white and blue UAP at 7,000 feet.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "color": "white and blue",
+   "country": "USA",
+   "date": "2024-01-13",
+   "explanation_status": "unexplained",
+   "location_name": "16 NM SE of SAT",
+   "page_refs": [
+    2
+   ],
+   "quote": "The unknown phenomenon was white and blue in color at approximately 7,000 feet.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple aircraft reported two white lights rapidly maneuvering and climbing.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "rapidly maneuvering",
+    "climbing"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2024-01-16",
+   "explanation_status": "unexplained",
+   "location_name": "45NM ESE of ZUN",
+   "object_count": "2",
+   "page_refs": [
+    3
+   ],
+   "quote": "2 white lights approximately 30NM in front of them rapidly maneuvering towards them",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported lights traveling at high altitude.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "traveling"
+   ],
+   "country": "USA",
+   "date": "2024-01-20",
+   "explanation_status": "unexplained",
+   "location_name": "3654N 9151W",
+   "page_refs": [
+    4
+   ],
+   "quote": "The unknown phenomenon was lights traveling NW bound at approximately FL500-FL600t.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported multiple lights dimming and intensifying.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "dimming",
+    "intensifying"
+   ],
+   "country": "USA",
+   "date": "2024-01-20",
+   "explanation_status": "unexplained",
+   "location_name": "33 NM North of MKS",
+   "page_refs": [
+    5
+   ],
+   "quote": "multiple lights in the distance, diming and light intensifying.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported multiple lights maneuvering at unknown altitude.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "maneuvering"
+   ],
+   "country": "USA",
+   "date": "2024-01-20",
+   "explanation_status": "unexplained",
+   "location_name": "40 NM SE of FSM",
+   "page_refs": [
+    6
+   ],
+   "quote": "multiple lights approximately 80 miles in the distance maneuvering at an unknown altitude",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple aircraft reported two red streaking lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "streaking"
+   ],
+   "color": "red",
+   "country": "USA",
+   "date": "2024-01-21",
+   "explanation_status": "unexplained",
+   "location_name": "TPA to SAV",
+   "object_count": "2",
+   "page_refs": [
+    7
+   ],
+   "quote": "two red streaking lights described as bright for about 15-20 seconds then disappeared.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a bright light turning and becoming stationary.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "turning",
+    "stationary"
+   ],
+   "color": "bright",
+   "country": "USA",
+   "date": "2024-01-21",
+   "explanation_status": "unexplained",
+   "location_name": "10NM NW of PSP",
+   "page_refs": [
+    8
+   ],
+   "quote": "a bright light turning and then stationary at times significantly higher than the aircraft.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple aircraft reported three white lights turning on and off.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "turning on and off"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2024-01-25",
+   "explanation_status": "unexplained",
+   "location_name": "26 NM E of CKW",
+   "object_count": "3",
+   "page_refs": [
+    9
+   ],
+   "quote": "three white lights turning on and off consistently",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple aircraft reported orange flashing lights.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "flashing",
+    "static"
+   ],
+   "color": "orange",
+   "country": "USA",
+   "date": "2024-01-26",
+   "explanation_status": "unexplained",
+   "location_name": "25 NM SW of GFS",
+   "page_refs": [
+    10
+   ],
+   "quote": "orange flashing lights static in nature",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported two lights chasing each other.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "chasing"
+   ],
+   "color": "white then red",
+   "country": "USA",
+   "date": "2024-01-27",
+   "explanation_status": "unexplained",
+   "location_name": "40 NM W of PSB",
+   "object_count": "2",
+   "page_refs": [
+    11
+   ],
+   "quote": "2 lights, white then turning red, chasing each other",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported objects appearing to dogfight.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "dogfighting"
+   ],
+   "country": "USA",
+   "date": "2024-01-27",
+   "explanation_status": "unexplained",
+   "location_name": "450 NM W of SFO",
+   "page_refs": [
+    12
+   ],
+   "quote": "appeared to be dogfighting at approximately FL500.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "ATCT reported three lights flying around.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "flying around"
+   ],
+   "country": "USA",
+   "date": "2024-02-04",
+   "explanation_status": "unexplained",
+   "location_name": "DCA",
+   "object_count": "3",
+   "page_refs": [
+    13
+   ],
+   "quote": "3 lights \"flying around\".",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported five craft with white lights traveling sporadically.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "traveling sporadically"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2024-02-04",
+   "explanation_status": "unexplained",
+   "location_name": "60NM SE of MTU",
+   "object_count": "5",
+   "page_refs": [
+    14
+   ],
+   "quote": "5 separate craft with white lights traveling sporadically",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a silver object the size of a small business jet.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "color": "silver",
+   "country": "USA",
+   "date": "2024-02-04",
+   "explanation_status": "unexplained",
+   "location_name": "110NM SE of IAH",
+   "page_refs": [
+    15
+   ],
+   "quote": "silver and the size of a small business jet",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "General aviation aircraft reported a fireball appearing to fall.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "falling"
+   ],
+   "country": "USA",
+   "date": "2024-02-05",
+   "explanation_status": "unexplained",
+   "location_name": "20NM NE of JAX",
+   "page_refs": [
+    16
+   ],
+   "quote": "described as a fireball that appeared to be falling.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported multiple lights orbiting.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "orbiting"
+   ],
+   "country": "USA",
+   "date": "2024-02-14",
+   "explanation_status": "unexplained",
+   "location_name": "50NM W of HSV",
+   "page_refs": [
+    17
+   ],
+   "quote": "multiple lights orbiting well ahead and above",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a single white light moving slowly.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "moving slowly"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2024-02-15",
+   "explanation_status": "unexplained",
+   "location_name": "DSD107054",
+   "object_count": "1",
+   "page_refs": [
+    18
+   ],
+   "quote": "dingle white light moving to slow to be an aircraft.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple pilots reported white lights moving vertically and horizontally.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "moving vertically and horizontally",
+    "appear and disappear"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2024-02-17",
+   "explanation_status": "partially-explained",
+   "location_name": "RZC VOR",
+   "object_count": "1-5",
+   "page_refs": [
+    19
+   ],
+   "quote": "1-5 white lights with different brightness moving vertically and horizontally.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple aircraft reported three lights moving erratically.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "moving erratically"
+   ],
+   "country": "USA",
+   "date": "2024-02-18",
+   "explanation_status": "unexplained",
+   "location_name": "PUB120050",
+   "object_count": "3",
+   "page_refs": [
+    20
+   ],
+   "quote": "three lights traveling ahead of the flight moving erratically",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported multiple lights circling high above.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "circling"
+   ],
+   "country": "USA",
+   "date": "2024-02-19",
+   "explanation_status": "partially-explained",
+   "location_name": "20 NM ENE of MTU",
+   "page_refs": [
+    21
+   ],
+   "quote": "multiple lights moving and circling high above.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported three white lights making tight spirals.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "spiraling"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2024-02-20",
+   "explanation_status": "unexplained",
+   "location_name": "200 NM SSE of CEW",
+   "object_count": "3",
+   "page_refs": [
+    22
+   ],
+   "quote": "three white lights making tight spirals",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported two stationary white lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "stationary"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2024-02-24",
+   "explanation_status": "unexplained",
+   "location_name": "140 NM S of ILM",
+   "object_count": "2",
+   "page_refs": [
+    23
+   ],
+   "quote": "2 white lights that appeared stationary",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "General aviation aircraft reported two stationary white lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "stationary"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2024-02-24",
+   "explanation_status": "unexplained",
+   "location_name": "140 NM S of ILM",
+   "object_count": "2",
+   "page_refs": [
+    24
+   ],
+   "quote": "2 white lights that appeared stationary",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported bright lights moving and wiggling.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "moving",
+    "wiggling"
+   ],
+   "color": "bright",
+   "country": "USA",
+   "date": "2024-03-02",
+   "explanation_status": "unexplained",
+   "location_name": "near MCK",
+   "page_refs": [
+    25
+   ],
+   "quote": "bright lights then dim, rapid moving and wiggling around",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

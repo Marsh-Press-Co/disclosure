@@ -1,0 +1,625 @@
+{
+ "doc_id": "nara--faa-reports-batch-11",
+ "file": "nara--faa-reports-batch-11.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 11 (237UAP00261 - 237UAP00285)",
+ "record_type": "report-batch",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FAA Skywatch incident reports regarding UAP sightings by commercial and private aircraft between May and August 2023.",
+ "incidents": [
+  {
+   "summary": "Multiple aircraft reported bright lights circling counterclockwise north of BHM.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "circling counterclockwise"
+   ],
+   "color": "bright",
+   "country": "USA",
+   "date": "2023-05-02",
+   "explanation_status": "not-assessed",
+   "location_name": "BHM",
+   "page_refs": [
+    1
+   ],
+   "quote": "The unknown phenomenon was bright lights, changing in intensity, circling counterclockwise north of BHM at high altitude.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Aircraft reported circling lights high above and to the NE, potentially Starlink satellites.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "circling"
+   ],
+   "country": "USA",
+   "date": "2023-05-03",
+   "explanation": "Appears to correlate with Star Link satellites.",
+   "explanation_status": "partially-explained",
+   "location_name": "FAY",
+   "page_refs": [
+    2
+   ],
+   "quote": "Appears to correlate with Star Link satellites.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Three white lights traveling west, moving back to start point periodically.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "traveling west",
+    "moving back to start point"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2023-05-17",
+   "explanation_status": "not-assessed",
+   "location_name": "VCT",
+   "page_refs": [
+    3
+   ],
+   "quote": "Lights would travel W for 3 to 5 seconds then immediately move back to start point.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Three white lights traveling west, moving back to start point periodically.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "traveling west",
+    "moving back to start point"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2023-05-17",
+   "explanation_status": "not-assessed",
+   "location_name": "SAT",
+   "page_refs": [
+    4
+   ],
+   "quote": "Lights would travel W for 3 to 5 seconds then immediately move back to start point.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Ground observation of a stationary bright sphere with surrounding lights.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "stationary"
+   ],
+   "color": "bright",
+   "country": "USA",
+   "date": "2023-05-25",
+   "explanation_status": "not-assessed",
+   "location_name": "TRK airport",
+   "page_refs": [
+    5
+   ],
+   "quote": "very bright light with a low sphere shape and lights surrounding it",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "sphere",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Near miss with a white cylindrical object.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "traveling east"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2023-05-29",
+   "explanation_status": "not-assessed",
+   "location_name": "JFK",
+   "page_refs": [
+    6
+   ],
+   "quote": "white cylindrical shape, approximately size of three bowling balls",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "cylindrical",
+   "size": "three bowling balls",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Triangle of bright lights observed at high altitude.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-05-29",
+   "explanation_status": "not-assessed",
+   "location_name": "2821N/7842W",
+   "page_refs": [
+    7
+   ],
+   "quote": "triangle of bright lights at an undetermined altitude",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "triangle",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Rapidly maneuvering objects observed and recorded on video.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "rapid maneuvering",
+    "disappearing"
+   ],
+   "country": "USA",
+   "date": "2023-05-31",
+   "explanation_status": "not-assessed",
+   "location_name": "McAllen, TX",
+   "page_refs": [
+    8
+   ],
+   "quote": "The videos reportedly indicate the objects maneuvering in the area and disappearing when a commercial airplane would come near.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "video"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Stationary white lights observed at high altitudes.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "stationary"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2023-06-10",
+   "explanation_status": "not-assessed",
+   "location_name": "2442N/8106W",
+   "page_refs": [
+    9
+   ],
+   "quote": "stationary white light that turned on and then off periodically",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "String of white lights observed overhead.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "color": "white",
+   "country": "USA",
+   "date": "2023-06-14",
+   "explanation": "Inconclusive.",
+   "explanation_status": "unexplained",
+   "location_name": "HGR",
+   "page_refs": [
+    10
+   ],
+   "quote": "string of white lights travelling at an unknown altitude",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Lights observed high above, possibly satellites.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-06-27",
+   "explanation_status": "not-assessed",
+   "location_name": "24.05N, 74.57W",
+   "page_refs": [
+    11
+   ],
+   "quote": "lights high above, possibly satellites",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Stationary brown object the size of a Volkswagen.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "stationary"
+   ],
+   "color": "brown",
+   "country": "USA",
+   "date": "2023-07-09",
+   "explanation_status": "not-assessed",
+   "location_name": "ALB",
+   "page_refs": [
+    12
+   ],
+   "quote": "brown, stationary object the size of a Volkswagon",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "size": "Volkswagen",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "String of lights observed high above, likely Starlink.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-07-17",
+   "explanation": "Appears to correlate with Starlink satellites.",
+   "explanation_status": "partially-explained",
+   "location_name": "MEM",
+   "page_refs": [
+    13
+   ],
+   "quote": "String of lights appears to correlate with Starlink satellites.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "10-15 stationary lights observed.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "stationary"
+   ],
+   "country": "USA",
+   "date": "2023-07-21",
+   "explanation_status": "not-assessed",
+   "location_name": "LAX",
+   "page_refs": [
+    14
+   ],
+   "quote": "described as 10-15 stationary lights at approximately FL230",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Bright lights observed offshore.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "color": "bright",
+   "country": "USA",
+   "date": "2023-07-21",
+   "explanation_status": "not-assessed",
+   "location_name": "OCN",
+   "page_refs": [
+    15
+   ],
+   "quote": "described as a set of bright lights offshore",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple lights observed separating.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "separating"
+   ],
+   "country": "USA",
+   "date": "2023-07-21",
+   "explanation_status": "not-assessed",
+   "location_name": "CMA",
+   "page_refs": [
+    16
+   ],
+   "quote": "described as multiple lights appearing to separate",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple synchronized stationary lights.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "stationary",
+    "synchronized"
+   ],
+   "country": "USA",
+   "date": "2023-07-21",
+   "explanation_status": "not-assessed",
+   "location_name": "LAX",
+   "page_refs": [
+    17
+   ],
+   "quote": "described as multiple stationary lights appearing to be synchronized",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Orange light observed near the Mexico border.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "color": "orange",
+   "country": "USA",
+   "date": "2023-07-21",
+   "explanation_status": "not-assessed",
+   "location_name": "PSP",
+   "page_refs": [
+    18
+   ],
+   "quote": "described as 1 orange colored light near the Mexico border",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple green lights climbing and descending rapidly.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "climbing",
+    "descending rapidly"
+   ],
+   "color": "green",
+   "country": "USA",
+   "date": "2023-07-22",
+   "explanation_status": "not-assessed",
+   "location_name": "ZFP",
+   "page_refs": [
+    19
+   ],
+   "quote": "lighted green climbing and descending rapidly and disappearing",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "video",
+    "radar"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Seven lights traveling west.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "traveling west"
+   ],
+   "country": "USA",
+   "date": "2023-07-23",
+   "explanation_status": "not-assessed",
+   "location_name": "FUZ",
+   "page_refs": [
+    20
+   ],
+   "quote": "7 lights traveling W bound at approximately FL 330",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Fifteen bright lights appeared and disappeared.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "color": "bright",
+   "country": "USA",
+   "date": "2023-07-31",
+   "explanation_status": "not-assessed",
+   "location_name": "LFK",
+   "page_refs": [
+    21
+   ],
+   "quote": "described as 15 bright lights that appeared and then quickly disappeared",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Bright white flashing lights traveling north to south.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "traveling north to south"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2023-08-04",
+   "explanation_status": "not-assessed",
+   "location_name": "DBN",
+   "page_refs": [
+    22
+   ],
+   "quote": "bright white flashing lights traveling N to S bound",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple bright white lights performing rapid maneuvers.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "rapid maneuvers",
+    "circles",
+    "altitude changes"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2023-08-04",
+   "explanation_status": "not-assessed",
+   "location_name": "Jacksonville, FL",
+   "page_refs": [
+    23
+   ],
+   "quote": "multiple bright white unidentified aerial phenomenon performing rapid maneuvers",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Bright circling lights maneuvering for 1-2 minutes.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "circling",
+    "maneuvering"
+   ],
+   "color": "bright",
+   "country": "USA",
+   "date": "2023-08-05",
+   "explanation_status": "not-assessed",
+   "location_name": "CRG",
+   "page_refs": [
+    24
+   ],
+   "quote": "bright circling lights and maneuvering for 1-2 min",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Possible military activity observed at 40,000 feet.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-08-08",
+   "explanation_status": "not-assessed",
+   "location_name": "2429N 7250W",
+   "page_refs": [
+    25
+   ],
+   "quote": "The unknown phenomenon appeared to be military activity at approximately 40,000 feet.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

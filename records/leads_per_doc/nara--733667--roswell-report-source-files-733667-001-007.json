@@ -1,0 +1,15 @@
+{
+ "doc": "nara--733667--roswell-report-source-files-733667-001-007.md",
+ "leads": [
+  {
+   "page": 12,
+   "lead_type": "biological",
+   "claim": "The document mentions an encounter with a creature and a spaceship with unknown scientific technology.",
+   "strength": "weak",
+   "why": "The text describes a narrative encounter with a creature and a spaceship but lacks any specific claim regarding the government obtaining, holding, or analyzing physical material.",
+   "outcome_in_document": "unresolved",
+   "quote": "Even the F-15 with the newest technology had no guarantee of safety against the creature with an unknown degree of scientific technology."
+  }
+ ],
+ "doc_verdict": "The document contains a narrative snippet regarding an encounter with a creature and a spaceship, but it does not provide any evidence or claim that the government or a contractor obtained or held physical material."
+}

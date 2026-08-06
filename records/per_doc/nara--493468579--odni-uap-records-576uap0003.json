@@ -1,0 +1,56 @@
+{
+ "doc_id": "nara--493468579--odni-uap-records-576uap0003",
+ "file": "nara--493468579--odni-uap-records-576uap0003.md",
+ "source": "NARA-RG615",
+ "agency": "ODNI",
+ "title": "ODNI UAP records - 576UAP0003",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a preliminary assessment report on Unidentified Aerial Phenomena (UAP) prepared by the ODNI for the Congressional Intelligence and Armed Services Committees, covering data from 2004 to 2021.",
+ "incidents": [
+  {
+   "summary": "A UAP incident identified as a large, deflating balloon.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "explanation": "large, deflating balloon",
+   "explanation_status": "explained",
+   "page_refs": [
+    4,
+    5
+   ]
+  },
+  {
+   "summary": "18 incidents involving unusual UAP movement patterns or flight characteristics.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "remain stationary in winds aloft",
+    "move against the wind",
+    "maneuver abruptly",
+    "move at considerable speed"
+   ],
+   "explanation_status": "unexplained",
+   "page_refs": [
+    5
+   ]
+  },
+  {
+   "summary": "11 documented instances of near misses between pilots and UAP.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "near miss"
+   ],
+   "explanation_status": "unexplained",
+   "page_refs": [
+    6
+   ]
+  }
+ ]
+}

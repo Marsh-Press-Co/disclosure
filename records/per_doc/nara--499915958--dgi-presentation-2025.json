@@ -1,0 +1,69 @@
+{
+ "doc_id": "nara--499915958--dgi-presentation-2025",
+ "file": "nara--499915958--dgi-presentation-2025.md",
+ "source": "NARA-RG615",
+ "agency": "OSD",
+ "title": "DGI Presentation 2025",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an unclassified AARO presentation from February 2025 regarding UAP analytic trends, methodology, and specific case studies like the Mt. Etna object and Starlink flaring.",
+ "incidents": [
+  {
+   "summary": "A US UAS platform captured video of an unidentified object while observing an eruption of Mt. Etna.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "pass through volcano plume"
+   ],
+   "country": "Italy",
+   "date": "2018",
+   "explanation": "Assessed as a balloon drifting with the wind approximately 170 kilometers from the volcano.",
+   "explanation_status": "explained",
+   "location_name": "Mt. Etna",
+   "page_refs": [
+    5,
+    6
+   ],
+   "quote": "the object appeared to pass through the volcano's plume without any impact on its performance, altitude, or trajectory.",
+   "recording_agency": "AARO",
+   "sensors": [
+    "video"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Controlled experiments using telemetered airborne surrogate targets to validate GEOINT methods.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "hot",
+    "high-speed",
+    "orb-like",
+    "star-like",
+    "highly maneuverable",
+    "transmedia"
+   ],
+   "country": "United States",
+   "location_name": "Camp Grafton, North Dakota",
+   "page_refs": [
+    7,
+    8
+   ],
+   "quote": "Surrogate targets exhibited similar behaviors and morphologies as widely reported UAP behaviors",
+   "recording_agency": "AARO",
+   "sensors": [
+    "video"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

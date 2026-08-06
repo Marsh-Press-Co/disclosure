@@ -1,0 +1,38 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-020",
+ "file": "nara--733667--roswell-report-source-files-733667-001-020.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-020",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an archival report from the USAF/FAA regarding the JAL 1628 incident, containing detailed accounts of the encounter and subsequent FAA investigations.",
+ "encounters": [
+  {
+   "summary": "Japan Air Lines Flight 1628 crew reported being shadowed for nearly an hour by two smaller objects and one massive globular craft over Alaska.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1986-11-17",
+   "date_precision": "day",
+   "entity_appearance": "Two smaller objects with amber and white lights; one massive globular craft with a lip around the middle, estimated size of two aircraft carriers.",
+   "entity_behavior": "Maneuvered in tandem with the aircraft, hovered, and followed the flight path.",
+   "location_name": "Alaska",
+   "page_refs": [
+    7,
+    8,
+    10,
+    11
+   ],
+   "physical_effects": [
+    "radar-return",
+    "cockpit-illumination",
+    "heat-sensation"
+   ],
+   "quote": "The ships appeared to hover in front of the jumbo jet, then flew in level flight at the same speed"
+  }
+ ]
+}

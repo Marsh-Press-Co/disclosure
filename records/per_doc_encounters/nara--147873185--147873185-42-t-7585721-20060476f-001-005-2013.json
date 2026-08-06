@@ -1,0 +1,34 @@
+{
+ "doc_id": "nara--147873185--147873185-42-t-7585721-20060476f-001-005-2013",
+ "file": "nara--147873185--147873185-42-t-7585721-20060476f-001-005-2013.md",
+ "source": "NARA-RG615",
+ "agency": "National Archives (RG 615)",
+ "title": "147873185 - 42-t-7585721-20060476F-001-005-2013",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document consists of internal NSC email correspondence and drafts of President Clinton's 1995 Christmas tree lighting speech in Belfast, which includes a humorous dismissal of the Roswell incident.",
+ "encounters": [
+  {
+   "summary": "President Bill Clinton addresses a letter from a 13-year-old boy named Ryan asking about the 1947 Roswell incident and the alleged recovery of alien bodies.",
+   "encounter_type": "claimed-contact",
+   "claimant_type": "civilian",
+   "document_stance": "dismissed",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "communication_content": "Inquiry regarding the 1947 Roswell crash and potential U.S. Air Force cover-up of alien bodies.",
+   "communication_method": "written",
+   "country": "United Kingdom",
+   "date": "1995",
+   "date_precision": "year",
+   "location_name": "Belfast, Northern Ireland",
+   "page_refs": [
+    7,
+    11,
+    16,
+    27,
+    42
+   ],
+   "quote": "No, an alien spacecraft did not crash in Roswell, New Mexico in 1947."
+  }
+ ]
+}

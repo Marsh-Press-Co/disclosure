@@ -1,0 +1,542 @@
+{
+ "doc_id": "nara--faa-reports-batch-03",
+ "file": "nara--faa-reports-batch-03.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 03 (237UAP00056 - 237UAP00080)",
+ "record_type": "report-batch",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document contains a series of FAA Skywatch incident reports regarding UAP sightings, including jetpacks, balloons, and radar targets.",
+ "incidents": [
+  {
+   "summary": "Commercial aircraft reported a white, diamond-shaped object passing underneath.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "color": "white",
+   "country": "USA",
+   "date": "2021-06-12",
+   "explanation_status": "unexplained",
+   "location_name": "40 NM ENE of PBI",
+   "page_refs": [
+    1
+   ],
+   "quote": "Aircraft reported an unidentified aerial phenomenon pass underneath",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "diamond",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported an unidentified phenomenon from both sides.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2021-06-19",
+   "explanation_status": "unexplained",
+   "location_name": "10 NM E of HSV",
+   "page_refs": [
+    2
+   ],
+   "quote": "Aircraft reported an unidentified aerial phenomenon from the left and right side",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported an unidentified phenomenon at same altitude.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2021-06-20",
+   "explanation_status": "unexplained",
+   "location_name": "over ACO",
+   "page_refs": [
+    3
+   ],
+   "quote": "The unknown phenomenon was undescribed by the flight crew",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "General aviation aircraft reported a jet pack.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2021-06-25",
+   "explanation_status": "unexplained",
+   "location_name": "Long Beach",
+   "page_refs": [
+    4
+   ],
+   "quote": "Aircraft reported a Jet Pack LGB205004",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft struck a silver balloon.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "color": "silver",
+   "country": "USA",
+   "date": "2021-07-24",
+   "explanation_status": "explained",
+   "location_name": "over BWZ",
+   "page_refs": [
+    5
+   ],
+   "quote": "Aircraft struck an unidentified aerial phenomenon (balloon)",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "balloon",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a jet pack.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2021-07-29",
+   "explanation_status": "unexplained",
+   "location_name": "15 NM E of LAX",
+   "page_refs": [
+    6
+   ],
+   "quote": "The unknown phenomenon was a jet pack.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported an object with star-shaped lighting that hovered.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "hovered",
+    "changing altitudes"
+   ],
+   "country": "USA",
+   "date": "2021-08-06",
+   "explanation_status": "unexplained",
+   "location_name": "vicinity of PMM VOR",
+   "page_refs": [
+    7
+   ],
+   "quote": "The unknown phenomenon had star shaped lighting, rapidly changing altitudes then hovered.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "star shaped",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "General aviation aircraft reported an unidentified phenomenon.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2021-08-22",
+   "explanation_status": "unexplained",
+   "location_name": "10 NM NE of ISO",
+   "page_refs": [
+    8
+   ],
+   "quote": "Aircraft reported an unidentified aerial phenomenon off of left side",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a strobing object in a race track formation.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "strobing",
+    "race track formation"
+   ],
+   "country": "USA",
+   "date": "2021-08-28",
+   "explanation_status": "unexplained",
+   "location_name": "over RIC",
+   "page_refs": [
+    9
+   ],
+   "quote": "The unknown phenomenon was strobing in a race track formation",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "General aviation aircraft reported a person in a jet pack.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2021-08-29",
+   "explanation_status": "unexplained",
+   "location_name": "6 NM E of OAK",
+   "page_refs": [
+    10
+   ],
+   "quote": "Aircraft reported person in a jet pack",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "General aviation aircraft reported a jet pack with red and green lights.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "color": "red and green",
+   "country": "USA",
+   "date": "2021-08-29",
+   "explanation_status": "unexplained",
+   "location_name": "33 NM E of FFU",
+   "page_refs": [
+    11
+   ],
+   "quote": "The unknown phenomenon was a jet pack with red and green lights.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported an object that shot straight up from the ground.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "shot straight up"
+   ],
+   "country": "USA",
+   "date": "2021-08-30",
+   "explanation_status": "unexplained",
+   "location_name": "15 NM N of FLL",
+   "page_refs": [
+    12
+   ],
+   "quote": "The unknown phenomenon shot straight up from the ground past the plane.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "General aviation aircraft reported an unidentified phenomenon above them.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2021-09-12",
+   "explanation_status": "unexplained",
+   "location_name": "65 NM E of ABQ",
+   "page_refs": [
+    13
+   ],
+   "quote": "The pilot was unable to describe the elements of the UFO.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft observed a manned jetpack.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2021-09-25",
+   "explanation_status": "unexplained",
+   "location_name": "17 NM NW of LAX",
+   "page_refs": [
+    14
+   ],
+   "quote": "Aircraft observed a manned jetpack off the left side",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Primary target detected by radar near DAA, no visual verification.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2021-10-16",
+   "explanation_status": "unexplained",
+   "location_name": "Arlington Ridge Rd and Lynne St",
+   "page_refs": [
+    15
+   ],
+   "quote": "PCT reported a primary target near DAA moving north eastbound.",
+   "recording_agency": "NCRCC",
+   "sensors": [
+    "radar"
+   ],
+   "witness_types": [
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a jetpack individual.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2021-10-20",
+   "explanation_status": "unexplained",
+   "location_name": "3NM E of BUR",
+   "page_refs": [
+    16
+   ],
+   "quote": "The unknown phenomenon was reported as a \"jetpack individual\"",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Residents and controller reported a green fireball.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "color": "green",
+   "country": "USA",
+   "date": "2021-11-20",
+   "explanation_status": "unexplained",
+   "location_name": "82 NM E of MEM",
+   "page_refs": [
+    17
+   ],
+   "quote": "The unknown phenomenon was described as a large green fire ball",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian",
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported an unidentified phenomenon.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2021-11-27",
+   "explanation_status": "unexplained",
+   "location_name": "040 NM E of BGS",
+   "page_refs": [
+    18
+   ],
+   "quote": "Aircraft reported an unidentified aerial phenomenon above them",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Primary target detected by radar moving southeast.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2021-11-28",
+   "explanation_status": "unexplained",
+   "location_name": "DCA0100027",
+   "page_refs": [
+    19
+   ],
+   "quote": "PCT reported a primary target at the DCA0100027, southeast bound",
+   "recording_agency": "NCRCC",
+   "sensors": [
+    "radar"
+   ],
+   "witness_types": [
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported an object resembling space debris.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "color": "white",
+   "country": "USA",
+   "date": "2021-12-04",
+   "explanation_status": "partially-explained",
+   "location_name": "over BWZ",
+   "page_refs": [
+    20
+   ],
+   "quote": "The unknown phenomenon was reported looking like space debris (burning flames)",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported airborne lights.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2021-12-18",
+   "explanation_status": "unexplained",
+   "location_name": "10 NM S of MHK",
+   "page_refs": [
+    21
+   ],
+   "quote": "The unknown phenomenon was reported as airborne lights traveling left to right.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a jet pack man.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2022-01-27",
+   "explanation_status": "unexplained",
+   "location_name": "5 NM E of LAX",
+   "page_refs": [
+    22
+   ],
+   "quote": "The unknown phenomenon was described as a jet pack man",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a flash of light or space debris.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2022-02-13",
+   "explanation_status": "unexplained",
+   "location_name": "VCNTY of ONL VOR",
+   "page_refs": [
+    23
+   ],
+   "quote": "The unknown phenomenon was described as a flash of light or space debris.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "General aviation aircraft reported a 25 ft diameter balloon.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2022-02-26",
+   "explanation_status": "unexplained",
+   "location_name": "42 NM SW of SPI",
+   "page_refs": [
+    24,
+    25
+   ],
+   "quote": "The unknown phenomenon was a balloon 25 ft in diameter.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "balloon",
+   "size": "25 ft",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

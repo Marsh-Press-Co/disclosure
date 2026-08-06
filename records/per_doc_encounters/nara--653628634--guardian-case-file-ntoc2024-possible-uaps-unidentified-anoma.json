@@ -1,0 +1,37 @@
+{
+ "doc_id": "nara--653628634--guardian-case-file-ntoc2024-possible-uaps-unidentified-anoma",
+ "file": "nara--653628634--guardian-case-file-ntoc2024-possible-uaps-unidentified-anoma.md",
+ "source": "NARA-RG615",
+ "agency": "FBI",
+ "title": "Guardian Case File \"NTOC2024 Possible UAPs [Unidentified Anomalous Phenomena] Hovering Near Rolling Meadows, IL. [Illinois],\" January 8, 2025",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is an FBI Guardian case file documenting a UAP sighting report in Rolling Meadows, IL, which was investigated and subsequently closed due to lack of corroborating sensor data.",
+ "encounters": [
+  {
+   "summary": "A civilian reported seeing three or four glowing orbs hovering in the sky over Rolling Meadows, IL, which appeared as round circles with moving parts when viewed through a telescope.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "2024-12-20",
+   "date_precision": "day",
+   "entity_appearance": "glowing orbs, round circles with stuff moving around them, bright yellow/white light, diamond shape",
+   "entity_behavior": "hovering, streaking side to side",
+   "location_name": "Rolling Meadows, IL",
+   "page_refs": [
+    1,
+    5,
+    6,
+    12,
+    13,
+    15,
+    16
+   ],
+   "quote": "look like round circles with stuff moving around them up close"
+  }
+ ]
+}

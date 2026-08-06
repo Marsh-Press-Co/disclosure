@@ -1,0 +1,579 @@
+{
+ "doc_id": "nara--faa-reports-batch-05",
+ "file": "nara--faa-reports-batch-05.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 05 (237UAP00107 - 237UAP00131)",
+ "record_type": "report-batch",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FAA Skywatch incident reports regarding UAP sightings by commercial and general aviation pilots between August and November 2022.",
+ "incidents": [
+  {
+   "summary": "Commercial aircraft reported 2-3 blinking lights steady over LIT at high altitude.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "medium",
+   "behavior": [
+    "steady"
+   ],
+   "country": "USA",
+   "date": "2022-08-19",
+   "explanation_status": "partially-explained",
+   "location_name": "LIT",
+   "object_count": "2-3",
+   "page_refs": [
+    1
+   ],
+   "quote": "The unknown phenomenon was reported as 2 and 3 blinking lights at an altitude well above FL390 steady over LIT.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "General aviation aircraft reported pulsating lights orbiting above the horizon.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "pulsating",
+    "orbiting"
+   ],
+   "color": "white and orange",
+   "country": "USA",
+   "date": "2022-08-28",
+   "explanation_status": "not-assessed",
+   "location_name": "35NM SE of VXV",
+   "page_refs": [
+    2
+   ],
+   "quote": "a series of white and orange pulsating lights appeared to be orbiting above the horizon",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "General aviation aircraft reported a flashing light well above their altitude.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "flashing"
+   ],
+   "country": "USA",
+   "date": "2022-09-12",
+   "explanation_status": "not-assessed",
+   "location_name": "4NM N of HCH",
+   "object_count": "1",
+   "page_refs": [
+    3
+   ],
+   "quote": "The unknown phenomenon was 1 flashing light 100NM N of BNA",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a single light that would shine and fade repeatedly.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "shine and fade"
+   ],
+   "country": "USA",
+   "date": "2022-09-12",
+   "explanation_status": "not-assessed",
+   "location_name": "100NM SE of MEM",
+   "object_count": "1",
+   "page_refs": [
+    4
+   ],
+   "quote": "The unknown phenomenon was a single light that would shine for 3-4 minutes then fade.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported three distinct targets behaving unexpectedly.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "unexpected behavior"
+   ],
+   "country": "USA",
+   "date": "2022-09-13",
+   "explanation_status": "not-assessed",
+   "location_name": "MMB",
+   "object_count": "3",
+   "page_refs": [
+    5
+   ],
+   "quote": "3 distinct well-lit targets behaving not as the pilot would expect with satellites.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "General aviation aircraft reported multiple bright yellow glowing lights.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "medium",
+   "behavior": [
+    "alternating brightness",
+    "near stationary"
+   ],
+   "color": "yellow",
+   "country": "USA",
+   "date": "2022-09-17",
+   "explanation_status": "not-assessed",
+   "location_name": "40 NM W of LOZ",
+   "page_refs": [
+    6
+   ],
+   "quote": "multiple bright yellow glowing lights alternating in brightness and number.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported flare-like lights traveling at high altitude.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "medium",
+   "behavior": [
+    "traveling"
+   ],
+   "country": "USA",
+   "date": "2022-09-20",
+   "explanation_status": "not-assessed",
+   "location_name": "45 NM E of TUL",
+   "page_refs": [
+    7
+   ],
+   "quote": "The unknown phenomenon was reported as flare like or bright lights traveling E bound at high altitude.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a light that turned off while traveling north.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "traveling",
+    "turning light off"
+   ],
+   "country": "USA",
+   "date": "2022-09-21",
+   "explanation_status": "not-assessed",
+   "location_name": "40 NM south of PGA",
+   "object_count": "1",
+   "page_refs": [
+    8
+   ],
+   "quote": "the UFO then proceeded to turn its light off and continue north bound.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple reports of UFO activity maneuvering aggressively at various altitudes.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "medium",
+   "behavior": [
+    "maneuvering aggressively"
+   ],
+   "country": "USA",
+   "date": "2022-09-27",
+   "explanation_status": "not-assessed",
+   "location_name": "Toledo and Detroit areas",
+   "page_refs": [
+    9
+   ],
+   "quote": "multiple reports of UFO activity in and around the Toledo and Detroit areas",
+   "recording_agency": "FAA",
+   "sensors": [
+    "radar",
+    "video"
+   ],
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "General aviation aircraft reported a sea of flashing white lights below their altitude.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "medium",
+   "behavior": [
+    "flashing"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2022-09-27",
+   "explanation_status": "not-assessed",
+   "location_name": "50NM WNW of LBL",
+   "page_refs": [
+    10
+   ],
+   "quote": "described as a sea of flashing white lights below their altitude.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "ATCT observed a jellyfish-like object with flashing lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "traveling"
+   ],
+   "color": "green/red/blue",
+   "country": "USA",
+   "date": "2022-10-07",
+   "explanation_status": "not-assessed",
+   "location_name": "5 NM S of LSE",
+   "page_refs": [
+    11
+   ],
+   "quote": "described as having flashing green/red/blue lights and looking like a jelly fish",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "jelly fish",
+   "witness_types": [
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a high-speed object passing between aircraft.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "high speed"
+   ],
+   "country": "USA",
+   "date": "2022-10-09",
+   "explanation_status": "not-assessed",
+   "location_name": "unknown",
+   "page_refs": [
+    12,
+    16
+   ],
+   "quote": "traveling W bound at a high rate of speed between their aircraft and the other two aircraft",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple aircraft reported lights moving in different directions near the constellation Leo.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "medium",
+   "behavior": [
+    "moving in different directions"
+   ],
+   "country": "USA",
+   "date": "2022-10-09",
+   "explanation_status": "not-assessed",
+   "location_name": "CNX/GUP",
+   "page_refs": [
+    13,
+    14,
+    15
+   ],
+   "quote": "multiple lights moving in different directions, left of the constellation Leo.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported twinkling lights described as a celestial phenomenon.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "medium",
+   "behavior": [
+    "twinkling",
+    "traveling"
+   ],
+   "country": "USA",
+   "date": "2022-10-15",
+   "explanation_status": "not-assessed",
+   "location_name": "50 NM E of FSD",
+   "page_refs": [
+    17
+   ],
+   "quote": "twinkling lights traveling from low on the horizon to high on the horizon",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported blue/white lights moving from low to high on the horizon.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "medium",
+   "behavior": [
+    "traveling"
+   ],
+   "color": "blue/white",
+   "country": "USA",
+   "date": "2022-10-15",
+   "explanation_status": "not-assessed",
+   "location_name": "25 NM S of ONL",
+   "page_refs": [
+    18
+   ],
+   "quote": "blue/white lights traveling from low on the horizon to high on the horizon.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple aircraft reported five white twinkling lights in the distance.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "medium",
+   "behavior": [
+    "twinkling",
+    "traveling"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2022-10-15",
+   "explanation_status": "not-assessed",
+   "location_name": "FSD",
+   "object_count": "5",
+   "page_refs": [
+    19
+   ],
+   "quote": "five white twinkling lights traveling above and in the distance.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a manned jetpack hovering.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "medium",
+   "behavior": [
+    "hovering"
+   ],
+   "country": "USA",
+   "date": "2022-10-22",
+   "explanation_status": "not-assessed",
+   "location_name": "29 NM SW of LGA",
+   "page_refs": [
+    20
+   ],
+   "quote": "manned jetpack hovering at approximately 8,000 feet.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "manned jetpack",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple aircraft reported three bright lights in a triangular shape moving erratically.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "erratic motion",
+    "dimming and brightening"
+   ],
+   "country": "USA",
+   "date": "2022-10-24",
+   "explanation_status": "not-assessed",
+   "location_name": "W of Chicago, IL",
+   "object_count": "3",
+   "page_refs": [
+    21
+   ],
+   "quote": "3 bright lights in a triangular shape moving in an erratic motion",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "triangular",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Ground observer reported an amber glowing sphere moving at high speed and ascending.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "low",
+   "behavior": [
+    "moving at high speed",
+    "stop in mid air",
+    "ascend straight up"
+   ],
+   "color": "amber",
+   "country": "USA",
+   "date": "2022-10-26",
+   "explanation_status": "not-assessed",
+   "location_name": "Deweyville, TX",
+   "page_refs": [
+    22
+   ],
+   "quote": "observed from the ground an amber glowing sphere moving at a high rate of speed",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "sphere",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple aircraft reported white lights circling at high altitude.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "medium",
+   "behavior": [
+    "circling"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2022-11-11",
+   "explanation_status": "not-assessed",
+   "location_name": "74NM W of ELY",
+   "object_count": "2-3",
+   "page_refs": [
+    23
+   ],
+   "quote": "2-3 white lights circling at approximately FL740.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "General aviation aircraft reported bright rotating lights traveling at high speed.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "rotating",
+    "high speed"
+   ],
+   "country": "USA",
+   "date": "2022-11-11",
+   "explanation_status": "not-assessed",
+   "location_name": "10 NM SE of 3T5",
+   "page_refs": [
+    24
+   ],
+   "quote": "bright rotating lights about the size of a C172 traveling at a high rate of speed",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "size": "size of a C172",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported stationary lights that disappeared and reappeared.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "medium",
+   "behavior": [
+    "stationary",
+    "disappeared and reappeared"
+   ],
+   "country": "USA",
+   "date": "2022-11-18",
+   "explanation_status": "not-assessed",
+   "location_name": "HNK",
+   "page_refs": [
+    25
+   ],
+   "quote": "appeared as aircraft landing lights and was stationary 30 degrees above the horizon.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

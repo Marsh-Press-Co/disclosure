@@ -1,0 +1,11 @@
+{
+ "doc_id": "nara--faa-reports-batch-21",
+ "file": "nara--faa-reports-batch-21.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 21 (237UAP00561 - 237UAP00588)",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FAA reports regarding UAP sightings, but all entries describe distant aerial phenomena or lights observed by pilots, with no reports of close approaches, landings, entities, or physical traces.",
+ "encounters": []
+}

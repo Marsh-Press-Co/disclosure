@@ -1,0 +1,11 @@
+{
+ "doc_id": "nara--499915940--go-fast-case-resolution-card-with-appendix",
+ "file": "nara--499915940--go-fast-case-resolution-card-with-appendix.md",
+ "source": "NARA-RG615",
+ "agency": "OSD",
+ "title": "Go Fast Case Resolution Card with Appendix",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an AARO technical report analyzing the 'Go Fast' UAP video, concluding that the object exhibited no anomalous performance characteristics; no encounters with entities or physical traces are present.",
+ "encounters": []
+}

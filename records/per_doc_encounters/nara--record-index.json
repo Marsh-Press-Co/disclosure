@@ -1,0 +1,42 @@
+{
+ "doc_id": "nara-record-index",
+ "file": "nara--record-index.md",
+ "source": "NARA-RG615",
+ "agency": "National Archives",
+ "title": "NARA UAP Records Collection (RG 615) - official catalog index",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a catalog index of UAP records transferred to the National Archives, containing references to two specific encounter-related files.",
+ "encounters": [
+  {
+   "summary": "Department of State record regarding UFOs over Georgia, described as strange encounters.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "unknown",
+   "document_stance": "recorded-no-comment",
+   "confidence": "low",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "Georgia",
+   "page_refs": [
+    1
+   ],
+   "quote": "Strange Encounters of an MFA Kind"
+  },
+  {
+   "summary": "Department of State record regarding close encounters in Afghanistan.",
+   "encounter_type": "close-approach",
+   "claimant_type": "unknown",
+   "document_stance": "recorded-no-comment",
+   "confidence": "low",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "Afghanistan",
+   "date": "1981-02-04",
+   "date_precision": "day",
+   "page_refs": [
+    1
+   ],
+   "quote": "Close Encounters in Afghanistan"
+  }
+ ]
+}

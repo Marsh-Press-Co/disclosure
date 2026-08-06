@@ -1,0 +1,59 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-018",
+ "file": "nara--733667--roswell-report-source-files-733667-001-018.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-018",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document consists of multiple redundant sets of personnel statements from FAA Anchorage Air Route Traffic Control Center employees regarding the Japan Airlines Flight 1628 incident.",
+ "incidents": [
+  {
+   "summary": "Japan Airlines Flight 1628 reported unidentified traffic with white and yellow strobes paralleling their flight path north of Fairbanks, Alaska.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "paralleling route",
+    "stayed with aircraft through turns and descent"
+   ],
+   "color": "white and yellow",
+   "country": "USA",
+   "date": "1986-11-18",
+   "explanation_status": "not-assessed",
+   "location_name": "North of Fairbanks, Alaska",
+   "page_refs": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ],
+   "quote": "He could not identify but reported white and yellow strobes.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "big plane",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "doc_id": "nara--147873183--147873183-42-t-7585721-20060476f-001-004-2013",
+ "file": "nara--147873183--147873183-42-t-7585721-20060476f-001-004-2013.md",
+ "source": "NARA-RG615",
+ "agency": "National Archives (RG 615)",
+ "title": "147873183 - 42-t-7585721-20060476F-001-004-2013",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a transcript of remarks by President Bill Clinton at a Christmas tree lighting ceremony in Belfast, Northern Ireland, in 1995, which includes a brief mention of the Roswell incident.",
+ "incidents": [
+  {
+   "summary": "President Clinton addresses a question from a 13-year-old boy regarding the 1947 Roswell alien spacecraft crash.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "explanation": "The President denies knowledge of an alien spacecraft crash or recovery of alien bodies.",
+   "explanation_status": "explained",
+   "location_name": "Roswell, New Mexico",
+   "page_refs": [
+    6
+   ],
+   "quote": "No, as far as I know, an alien spacecraft did not crash in Roswell, New Mexico, in 1947.",
+   "recording_agency": "The White House"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "doc_id": "nara--499915940--go-fast-case-resolution-card-with-appendix",
+ "file": "nara--499915940--go-fast-case-resolution-card-with-appendix.md",
+ "source": "NARA-RG615",
+ "agency": "OSD",
+ "title": "Go Fast Case Resolution Card with Appendix",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an AARO case resolution report for the 'Go Fast' UAP incident, detailing the methodology used to analyze the FLIR video and concluding that the object's behavior was not anomalous.",
+ "incidents": [
+  {
+   "summary": "A U.S. Navy F/A-18F pilot recorded an object using a FLIR sensor off the coast of Florida, which appeared to move at high speed but was later assessed to be moving at wind-consistent speeds due to motion parallax.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "moved at high speeds",
+    "moving with wind",
+    "no anomalous performance"
+   ],
+   "color": "",
+   "country": "United States",
+   "date": "2015-01",
+   "duration": "34 seconds",
+   "explanation": "The object's apparent high speed is attributed to motion parallax; it was likely a small drone or bird moving with the wind.",
+   "explanation_status": "explained",
+   "location_name": "Eastern coast of Florida",
+   "object_count": "1",
+   "page_refs": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26
+   ],
+   "quote": "AARO assesses with high confidence that the object did not move at anomalous speeds.",
+   "recording_agency": "AARO",
+   "sensors": [
+    "visual",
+    "ir"
+   ],
+   "shape": "spherical or oblate ellipsoid",
+   "size": "1 meter or less",
+   "time_local": "",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

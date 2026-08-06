@@ -1,0 +1,36 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-005",
+ "file": "nara--733667--roswell-report-source-files-733667-001-005.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-005",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a collection of FAA investigative reports regarding a pilot sighting of unidentified aerial phenomena; encounter content is present.",
+ "encounters": [
+  {
+   "summary": "The crew of JAL Flight 1628 reported observing unidentified lights and radar targets while flying over Alaska, which paced their aircraft for approximately 45 minutes.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1986-11-17",
+   "date_precision": "day",
+   "location_name": "Alaska",
+   "page_refs": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "physical_effects": [
+    "static in VHF receiver",
+    "radar contact"
+   ],
+   "quote": "The three crewmen stated that just after passing POTAT intersection... they observed strange lights ahead of their B-747."
+  }
+ ]
+}

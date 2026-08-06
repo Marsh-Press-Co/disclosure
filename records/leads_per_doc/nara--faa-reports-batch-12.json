@@ -1,0 +1,13 @@
+{
+ "doc": "nara--faa-reports-batch-12.md",
+ "leads": [
+  {
+   "page": 20,
+   "lead_type": "debris-material",
+   "claim": "Recovery of a rocket body following a space mission.",
+   "strength": "noise",
+   "why": "The document explicitly identifies the material as a rocket body from a space mission, which is conventional aerospace debris."
+  }
+ ],
+ "doc_verdict": "The document contains no information suggesting the recovery or custody of UAP-related material, as the referenced recovery pertains to a conventional rocket body."
+}

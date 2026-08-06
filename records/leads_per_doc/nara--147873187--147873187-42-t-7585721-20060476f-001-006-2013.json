@@ -1,0 +1,20 @@
+{
+ "doc": "nara--147873187--147873187-42-t-7585721-20060476f-001-006-2013.md",
+ "leads": [
+  {
+   "page": 5,
+   "lead_type": "debris-material",
+   "claim": "The Roswell Army Air Field reported the recovery of a flying disc, which was subsequently identified by the military as a radar-tracking balloon.",
+   "strength": "noise",
+   "why": "The document explicitly identifies the recovered material as a conventional radar-tracking balloon associated with a classified project, not UAP material."
+  },
+  {
+   "page": 8,
+   "lead_type": "debris-material",
+   "claim": "An Eighth Air Force official informed the FBI that a hexagonal-shaped disc suspended from a balloon was recovered and sent to Wright Field for examination.",
+   "strength": "noise",
+   "why": "The document clarifies that the recovered object was a high-altitude weather balloon with a radar reflector, which is conventional debris."
+  }
+ ],
+ "doc_verdict": "This document contains no evidence of UAP-related material, as it consistently identifies the Roswell wreckage as debris from a classified high-altitude balloon project (Project MOGUL)."
+}

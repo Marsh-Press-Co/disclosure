@@ -1,0 +1,624 @@
+{
+ "doc_id": "nara--faa-reports-batch-23",
+ "file": "nara--faa-reports-batch-23.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 23 (237UAP00614 - 237UAP00638)",
+ "record_type": "report-batch",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FAA reports regarding UAP sightings by commercial and private pilots between February and October 2024.",
+ "incidents": [
+  {
+   "summary": "Gulfstream GLF5 reported two stationary white lights at FL490.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "stationary"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2024-02-23",
+   "explanation_status": "unexplained",
+   "location_name": "Wilmington, NC",
+   "page_refs": [
+    1
+   ],
+   "quote": "THE UAP WAS DESCRIBED AS 2 WHITE LIGHTS THAT APPEARED STATIONARY AT FL490.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "lights",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Spirit 1777 reported two stationary white lights at FL490.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "stationary"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2024-02-23",
+   "explanation_status": "unexplained",
+   "location_name": "Wilmington, NC",
+   "page_refs": [
+    2
+   ],
+   "quote": "THE UAP WAS DESCRIBED AS 2 WHITE LIGHTS THAT APPEARED STATIONARY AT FL490.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "lights",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Sunwing 381 reported multiple bright white lights moving rapidly and changing directions at FL550.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "moving rapidly",
+    "changing directions"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2024-02-25",
+   "explanation_status": "unexplained",
+   "location_name": "Presque Isle, ME",
+   "page_refs": [
+    3
+   ],
+   "quote": "THE LIGHTS APPEARED TO BE MOVING RAPIDLY AND CHANGING DIRECTIONS.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "lights",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Air Transat 661 reported multiple bright white lights moving rapidly and changing directions at FL550.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "moving rapidly",
+    "changing directions"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2024-02-25",
+   "explanation_status": "unexplained",
+   "location_name": "Presque Isle, ME",
+   "page_refs": [
+    4
+   ],
+   "quote": "THE LIGHTS APPEARED TO BE MOVING RAPIDLY AND CHANGING DIRECTIONS.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "lights",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "NetJets 316 reported rapidly moving dim and bright lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "rapidly moving"
+   ],
+   "country": "USA",
+   "date": "2024-03-02",
+   "explanation_status": "unexplained",
+   "location_name": "McCook, NE",
+   "page_refs": [
+    5
+   ],
+   "quote": "PHENOMENON WAS RAPIDLY MOVING DIM AND BRIGHT LIGHTS.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "lights",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "United 1986 reported a black UFO 100 feet from their position.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "color": "black",
+   "country": "USA",
+   "date": "2024-03-06",
+   "explanation_status": "unexplained",
+   "location_name": "Oakland, CA",
+   "page_refs": [
+    6
+   ],
+   "quote": "REPORTED A BLACK UFO 100 FEET FROM THEIR 1 O'CLOCK POSITION",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Pilatus PC-12 reported a black UAS.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "color": "black",
+   "country": "USA",
+   "date": "2024-03-10",
+   "explanation_status": "unexplained",
+   "location_name": "Dallas, TX",
+   "page_refs": [
+    7
+   ],
+   "quote": "REPORTED A BLACK UAS WHILE SE BOUND AT 1,500 FEET",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple aircraft reported a bright object with smoke that appeared to break up or disappear.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "break up",
+    "disappear"
+   ],
+   "color": "bright",
+   "country": "USA",
+   "date": "2024-03-15",
+   "explanation_status": "unexplained",
+   "location_name": "Junction, TX",
+   "page_refs": [
+    8
+   ],
+   "quote": "THE DEVICE WAS VERY BRIGHT AND HAD SMOKE MOVING E BOUND AT FL360",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "rocket",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Gulfstream GA5C reported a group of 5 converging lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "converging"
+   ],
+   "country": "USA",
+   "date": "2024-03-20",
+   "explanation_status": "unexplained",
+   "location_name": "Dublin, GA",
+   "page_refs": [
+    9
+   ],
+   "quote": "REPORTED A UAP DESCRIBED AS A GROUP OF 5 CONVERGING LIGHTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "lights",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Cessna C208 reported a white UAP.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "color": "white",
+   "country": "USA",
+   "date": "2024-03-29",
+   "explanation_status": "unexplained",
+   "location_name": "Victoria, TX",
+   "page_refs": [
+    10
+   ],
+   "quote": "REPORTED A WHITE UAP AT THE 12 O'CLOCK POSITION",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Spirit 2321 reported 5 UFOs with white lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "color": "white",
+   "country": "USA",
+   "date": "2024-04-07",
+   "explanation_status": "unexplained",
+   "location_name": "Orlando, FL",
+   "page_refs": [
+    11
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON OF 5 UFO WITH WHITE LIGHTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "lights",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Delta 1706 reported a UAP.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2024-04-14",
+   "explanation_status": "unexplained",
+   "location_name": "Rutledge, GA",
+   "page_refs": [
+    12
+   ],
+   "quote": "REPORTED A UAP AT FL234 VCNTY PHIIL WAYPOINT.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "USN C130 reported an orb 1-2 meters in diameter.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2024-05-11",
+   "explanation_status": "unexplained",
+   "location_name": "Laramie, WY",
+   "page_refs": [
+    13
+   ],
+   "quote": "REPORTED AN ORB 1-2 METERS IN DIAMETER",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "orb",
+   "size": "1-2 meters",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Cirrus SR20 reported a manned jetpack.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2024-05-16",
+   "explanation_status": "unexplained",
+   "location_name": "Palm Springs, CA",
+   "page_refs": [
+    14
+   ],
+   "quote": "REPORTED A MANNED JETPACK PASSING FROM LEFT TO RIGHT",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "SkyWest 3260 reported two maneuvering lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "maneuvering"
+   ],
+   "country": "USA",
+   "date": "2024-05-18",
+   "explanation_status": "unexplained",
+   "location_name": "Austin, TX",
+   "page_refs": [
+    15
+   ],
+   "quote": "THE PHENOMENON WAS REPORTED AS TWO MANEUVERING LIGHTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "lights",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Gulfstream GLF5 reported a group of hovering lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "hovering"
+   ],
+   "country": "Turks and Caicos",
+   "date": "2024-05-26",
+   "explanation_status": "unexplained",
+   "location_name": "Grand Turk",
+   "page_refs": [
+    16
+   ],
+   "quote": "UAP DESCRIBED AS A GROUP OF HOVERING LIGHTS.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "lights",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Suspicious silver object floating for 50 minutes.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "floating",
+    "stationary"
+   ],
+   "color": "silver",
+   "country": "USA",
+   "date": "2024-06-03",
+   "duration": "50 minutes",
+   "explanation_status": "unexplained",
+   "location_name": "New York, NY",
+   "page_refs": [
+    17
+   ],
+   "quote": "OBJECT APPEARED TO BE SILVER IN COLOR AND APPROXIMATELY 50 FEET IN LENGTH",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "size": "50 feet",
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "United 1835 reported a 4-foot red and blue UAP.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "color": "red and blue",
+   "country": "USA",
+   "date": "2024-06-15",
+   "explanation_status": "unexplained",
+   "location_name": "Denver, CO",
+   "page_refs": [
+    18
+   ],
+   "quote": "REPORTED A 4-FOOT RED AND BLUE UAP",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "size": "4-foot",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "American 1913 reported a flight of 2 slow moving aircraft followed by a single aircraft.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "slow moving"
+   ],
+   "color": "light grey",
+   "country": "USA",
+   "date": "2024-07-05",
+   "explanation_status": "unexplained",
+   "location_name": "Topeka, KS",
+   "page_refs": [
+    19
+   ],
+   "quote": "UAP WAS A FLIGHT OF 2 SLOW MOVING ACFT FOLLOWED BY A SINGLE ACFT",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Delta 1480 reported a UAP.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2024-07-14",
+   "explanation_status": "unexplained",
+   "location_name": "Pocatello, ID",
+   "page_refs": [
+    20
+   ],
+   "quote": "REPORTED A UAP FROM THE RIGHT SIDE OF THE ACFT",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "NetJets 627 reported a white and metallic UAP.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "color": "white and metallic",
+   "country": "USA",
+   "date": "2024-07-27",
+   "explanation_status": "unexplained",
+   "location_name": "Wilmington, NC",
+   "page_refs": [
+    21
+   ],
+   "quote": "REPORTED A WHITE AND METALLIC UAP",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Envoy 3680 reported 4 to 5 bright strobing lights maneuvering.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "maneuvering"
+   ],
+   "color": "bright",
+   "country": "USA",
+   "date": "2024-08-21",
+   "explanation_status": "unexplained",
+   "location_name": "Thibodaux, LA",
+   "page_refs": [
+    22
+   ],
+   "quote": "THE PHENOMENON WAS 4 TO 5 BRIGHT STROBING LIGHTS MANEUVERING",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "lights",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Public Use Troy21 reported a football sized, cylindrical object.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2024-09-17",
+   "explanation_status": "unexplained",
+   "location_name": "Avenal, CA",
+   "page_refs": [
+    23
+   ],
+   "quote": "THE UAP WAS DESCRIBED AS A FOOTBALL SIZED, CYLINDRICAL SHAPE.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "cylindrical",
+   "size": "football sized",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Southwest 986 reported bright lights orbiting/stationary.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "orbiting",
+    "stationary"
+   ],
+   "color": "bright",
+   "country": "USA",
+   "date": "2024-09-30",
+   "explanation_status": "explained",
+   "location_name": "Los Angeles, CA",
+   "page_refs": [
+    24
+   ],
+   "quote": "OBJECT CORRELATES WITH STARLINK MAP.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "lights",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "PSA 5656 reported white bright lights orbiting/stationary.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "orbiting",
+    "stationary"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2024-10-02",
+   "explanation_status": "unexplained",
+   "location_name": "Akron, OH",
+   "page_refs": [
+    25
+   ],
+   "quote": "REPORTED AU UNIDENTIFIED AERIAL PHENOMENON OF WHITE BRIGHT LIGHTS ORBITING-STATIONARY",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "lights",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

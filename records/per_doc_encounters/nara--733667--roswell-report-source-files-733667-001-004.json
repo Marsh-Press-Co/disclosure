@@ -1,0 +1,25 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-004",
+ "file": "nara--733667--roswell-report-source-files-733667-001-004.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-004",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document consists of inspection and surveillance records, including a brief summary of a JAL flight crew's encounter with an unidentified object.",
+ "encounters": [
+  {
+   "summary": "Japan Air Lines flight crew reported observing an unidentified object that paced their aircraft for a period of time.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "page_refs": [
+    1,
+    2
+   ]
+  }
+ ]
+}

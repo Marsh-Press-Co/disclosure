@@ -1,0 +1,599 @@
+{
+ "doc_id": "nara--faa-reports-batch-17",
+ "file": "nara--faa-reports-batch-17.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 17 (237UAP00455 - 237UAP00482)",
+ "record_type": "report-batch",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FAA reports regarding UAP sightings by commercial and military pilots in February 2023.",
+ "incidents": [
+  {
+   "summary": "UAL1164 reported unidentified aerial phenomenon maneuvering between FL450-FL600 near Wolbach VORTAC.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "maneuvering"
+   ],
+   "color": "",
+   "country": "USA",
+   "date": "2023-02-07",
+   "explanation_status": "not-assessed",
+   "location_name": "Wolbach, NE",
+   "object_count": "2-3",
+   "page_refs": [
+    1
+   ],
+   "quote": "REPORTED UNIDENTIFIED AERIAL PHENOMENON MANEUVERING BETWEEN FL450-FL600",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "N378BG reported UAP with white and red flashing lights at 9 o'clock position.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "color": "white and red",
+   "country": "USA",
+   "date": "2023-02-09",
+   "explanation_status": "not-assessed",
+   "location_name": "Chanute, KS",
+   "page_refs": [
+    2
+   ],
+   "quote": "REPORTED UNIDENTIFIED AERIAL PHENOMENON WITH WHITE AND RED FLASHING LIGHTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "UPS1016 reported UAP with bright lights at 12 o'clock position.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "country": "USA",
+   "date": "2023-02-10",
+   "explanation_status": "not-assessed",
+   "location_name": "Wilkes-Barre, PA",
+   "page_refs": [
+    3
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON WITH BRIGHT LIGHTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "UPS1052 reported UAP with bright lights at 12 o'clock position.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "country": "USA",
+   "date": "2023-02-10",
+   "explanation_status": "not-assessed",
+   "location_name": "Wilkes-Barre, PA",
+   "page_refs": [
+    4
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON WITH BRIGHT LIGHTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "AAL403 reported lights circling off left side; noted as potentially satellites.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "circling"
+   ],
+   "country": "USA",
+   "date": "2023-02-11",
+   "explanation_status": "partially-explained",
+   "location_name": "Iowa City, IA",
+   "page_refs": [
+    5
+   ],
+   "quote": "REPORTED LIGHTS CIRCLING OFF LEFT SIDE",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "NKS656 reported lights circling off left side; noted as potentially satellites.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "circling"
+   ],
+   "country": "USA",
+   "date": "2023-02-11",
+   "explanation_status": "partially-explained",
+   "location_name": "Iowa City, IA",
+   "page_refs": [
+    6
+   ],
+   "quote": "REPORTED LIGHTS CIRCLING OFF LEFT SIDE",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "DAL384 reported lights circling off left side; noted as potentially satellites.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "circling"
+   ],
+   "country": "USA",
+   "date": "2023-02-11",
+   "explanation_status": "partially-explained",
+   "location_name": "Iowa City, IA",
+   "page_refs": [
+    7
+   ],
+   "quote": "REPORTED LIGHTS CIRCLING OFF LEFT SIDE",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "ROU1704 reported lights at 12 o'clock position.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "country": "USA",
+   "date": "2023-02-11",
+   "explanation_status": "not-assessed",
+   "location_name": "Sioux Falls, SD",
+   "page_refs": [
+    8
+   ],
+   "quote": "REPORTED LIGHTS FROM THE 12 O'CLOCK POSITION",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "UAL2059 reported lights coming and going.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "coming and going"
+   ],
+   "country": "USA",
+   "date": "2023-02-11",
+   "explanation_status": "not-assessed",
+   "location_name": "Sioux Falls, SD",
+   "page_refs": [
+    9
+   ],
+   "quote": "REPORTED LIGHTS \"COMING AND GOING\"",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "HAL90 reported lights coming and going.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "coming and going"
+   ],
+   "country": "USA",
+   "date": "2023-02-11",
+   "explanation_status": "not-assessed",
+   "location_name": "Sioux Falls, SD",
+   "page_refs": [
+    10
+   ],
+   "quote": "REPORTED LIGHTS \"COMING AND GOING\"",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "UAL1786 reported lights coming and going.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "coming and going"
+   ],
+   "country": "USA",
+   "date": "2023-02-11",
+   "explanation_status": "not-assessed",
+   "location_name": "Sioux Falls, SD",
+   "page_refs": [
+    11
+   ],
+   "quote": "REPORTED LIGHTS \"COMING AND GOING\"",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "ICV93PK reported UAP with erratic pattern; 3 lights formed a triangle.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "erratic pattern",
+    "forming a triangle"
+   ],
+   "country": "USA",
+   "date": "2023-02-12",
+   "explanation_status": "not-assessed",
+   "location_name": "Burlington, VT",
+   "object_count": "3",
+   "page_refs": [
+    12
+   ],
+   "quote": "3 LIGHTS APPEARED TO CREATE A TRIANGLE AND COME TOGETHER AS ONE LIGHT",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "triangle",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Cass County Sheriff reported a straight line of 10-15 flashing lights.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "medium",
+   "behavior": [
+    "straight line"
+   ],
+   "country": "USA",
+   "date": "2023-02-12",
+   "explanation_status": "not-assessed",
+   "location_name": "Dowagiac, MI",
+   "object_count": "10-15",
+   "page_refs": [
+    13
+   ],
+   "quote": "STRAIGHT LINE OF 10-15 FLASHING LIGHTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "PDT6044 reported a string of lights moving at high speed.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "medium",
+   "behavior": [
+    "moving at high speed"
+   ],
+   "country": "USA",
+   "date": "2023-02-13",
+   "explanation_status": "partially-explained",
+   "location_name": "Chester, MA",
+   "page_refs": [
+    14
+   ],
+   "quote": "REPORTED A STRING OF LIGHTS MOVING AT A HIGH RATE OF SPEED",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "ALPINE 5042 reported two lights circling that appear and disappear.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "medium",
+   "behavior": [
+    "circling"
+   ],
+   "country": "USA",
+   "date": "2023-02-15",
+   "explanation_status": "not-assessed",
+   "location_name": "Billings, MT",
+   "object_count": "2",
+   "page_refs": [
+    15
+   ],
+   "quote": "REPORTED TWO SEPARATE LIGHTS CIRCLING",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "USMC HSTLR91 reported UAP at 10 o'clock position.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-02-15",
+   "explanation_status": "not-assessed",
+   "location_name": "El Paso, TX",
+   "page_refs": [
+    16
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON FROM THE 10 O'CLOCK POSITION",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "USAF HAMMR31 reported UAP.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-02-16",
+   "explanation_status": "not-assessed",
+   "location_name": "Burlington, VT",
+   "page_refs": [
+    17
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "N189LW reported a possible parachute.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "medium",
+   "country": "USA",
+   "date": "2023-02-16",
+   "explanation_status": "not-assessed",
+   "location_name": "Atlanta, GA",
+   "page_refs": [
+    18
+   ],
+   "quote": "REPORTED A POSSIBLE PARACHUTE",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "ASA688 reported a dark object described as a UAS or balloon.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "medium",
+   "country": "USA",
+   "date": "2023-02-16",
+   "explanation_status": "not-assessed",
+   "location_name": "Seattle, WA",
+   "page_refs": [
+    19
+   ],
+   "quote": "REPORTED A DARK OBJECT DESCRIBED AS POSSIBLE UAS/BALLOON",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Frontier 2300 reported white blinking lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "color": "white",
+   "country": "USA",
+   "date": "2023-02-18",
+   "explanation_status": "not-assessed",
+   "location_name": "Charleston, WV",
+   "page_refs": [
+    20
+   ],
+   "quote": "THE PHENOMENON WAS DESCRIBED AS WHITE BLINKING LIGHTS.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Spirit 128 reported blinking lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "country": "USA",
+   "date": "2023-02-18",
+   "explanation_status": "not-assessed",
+   "location_name": "Charleston, WV",
+   "page_refs": [
+    21
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON AT FL350 WITH BLINKING LIGHTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "N926TT reported UAP with white lights at 12 o'clock position.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "color": "white",
+   "country": "USA",
+   "date": "2023-02-18",
+   "explanation_status": "not-assessed",
+   "location_name": "Atlantic Ocean",
+   "page_refs": [
+    22
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON WITH WHITE LIGHTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Ravn Alaska 140 reported a round black object.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "medium",
+   "behavior": [
+    "stationary"
+   ],
+   "country": "USA",
+   "date": "2023-02-20",
+   "explanation_status": "not-assessed",
+   "location_name": "Kenai, AK",
+   "page_refs": [
+    23
+   ],
+   "quote": "THE UAP WAS A ROUND BLACK OBJECT THAT WAS STATIONARY",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Delta 1156 reported lights in a triangular pattern moving at high speed.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "moving at high speed",
+    "forming a line"
+   ],
+   "country": "USA",
+   "date": "2023-02-21",
+   "explanation_status": "not-assessed",
+   "location_name": "Brownlee, ID",
+   "object_count": "2-4",
+   "page_refs": [
+    24
+   ],
+   "quote": "PILOTS REPORTED SEEING LIGHTS MOVING IN TRIANGULAR PATTERN",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "triangle",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "United 1325 reported lights in a triangular pattern moving at high speed.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "moving at high speed",
+    "forming a line"
+   ],
+   "country": "USA",
+   "date": "2023-02-21",
+   "explanation_status": "not-assessed",
+   "location_name": "Brownlee, ID",
+   "object_count": "2-4",
+   "page_refs": [
+    25
+   ],
+   "quote": "PILOTS REPORTED SEEING LIGHTS MOVING IN TRIANGULAR PATTERN",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "triangle",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

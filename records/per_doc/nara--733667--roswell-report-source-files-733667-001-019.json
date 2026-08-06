@@ -1,0 +1,77 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-019",
+ "file": "nara--733667--roswell-report-source-files-733667-001-019.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-019",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This document is a collection of FAA radar data printouts and internal memoranda regarding the Japan Air Lines Flight 1628 incident, including technical explanations for radar anomalies. / This document contains raw FAA radar data printouts and a summary page regarding the Japan Air Lines Flight 1628 UAP sighting.",
+ "incidents": [
+  {
+   "summary": "Japan Air Lines Flight 1628 reported an encounter with unidentified objects over Alaska, accompanied by radar returns.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "uncorrelated radar returns",
+    "split images"
+   ],
+   "country": "USA",
+   "date": "1986-11-17",
+   "explanation_status": "partially-explained",
+   "location_name": "Alaska",
+   "page_refs": [
+    2,
+    19
+   ],
+   "quote": "I couldn't see UFO",
+   "recording_agency": "FAA",
+   "sensors": [
+    "radar",
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Japan Air Lines Flight 1628 reported multiple unidentified objects, including two small objects and a large 'mother ship' craft, which were also tracked by FAA radar.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "maneuvering",
+    "tracking",
+    "maintaining distance"
+   ],
+   "color": "unknown",
+   "country": "USA",
+   "date": "1986-11-17",
+   "duration": "38 minutes",
+   "explanation": "The document provides raw radar data printouts for the event.",
+   "explanation_status": "not-assessed",
+   "location_name": "Alaska",
+   "object_count": "multiple",
+   "page_refs": [
+    162
+   ],
+   "quote": "Pilot first questioned ARTCC re other traffic",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "unknown",
+   "size": "large",
+   "time_local": "17:19",
+   "witness_count": "unknown",
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

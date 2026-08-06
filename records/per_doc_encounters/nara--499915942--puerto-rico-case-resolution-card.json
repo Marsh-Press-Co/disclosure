@@ -1,0 +1,11 @@
+{
+ "doc_id": "nara--499915942--puerto-rico-case-resolution-card",
+ "file": "nara--499915942--puerto-rico-case-resolution-card.md",
+ "source": "NARA-RG615",
+ "agency": "OSD",
+ "title": "Puerto Rico Case Resolution Card",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is an AARO case resolution report regarding an infrared video captured by U.S. Customs and Border Protection, which concludes the objects were likely sky lanterns and does not contain any reports of entities, contact, or close-range encounters.",
+ "encounters": []
+}

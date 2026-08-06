@@ -1,0 +1,74 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-015",
+ "file": "nara--733667--roswell-report-source-files-733667-001-015.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-015",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a transcript of air traffic control communications between Anchorage ARTCC, Japan Airlines Flight 1628, and other aircraft regarding an unidentified aerial phenomenon sighting.",
+ "incidents": [
+  {
+   "summary": "Japan Airlines Flight 1628 reported unidentified traffic in close proximity while flying over Alaska.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "formation flight",
+    "following",
+    "disappeared",
+    "reappeared"
+   ],
+   "color": "unknown",
+   "country": "USA",
+   "date": "1986-11-18",
+   "duration": "approx 45 minutes",
+   "explanation": "Not assessed in this document.",
+   "explanation_status": "not-assessed",
+   "location_name": "Alaska, near Fairbanks and Fort Yukon",
+   "object_count": "1-2",
+   "page_refs": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "quote": "It's ah I think ah very quite big ah plane",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "unknown",
+   "size": "quite big",
+   "time_local": "0218 UTC",
+   "witness_count": "multiple",
+   "witness_types": [
+    "civilian",
+    "military-other"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "doc_id": "nara--147873181--147873181-42-t-7585721-20060476f-001-003-2013",
+ "file": "nara--147873181--147873181-42-t-7585721-20060476f-001-003-2013.md",
+ "source": "NARA-RG615",
+ "agency": "National Archives (RG 615)",
+ "title": "147873181 - 42-t-7585721-20060476F-001-003-2013",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a transcript of a Department of Defense news briefing conducted on June 24, 1997, which briefly mentions the Roswell incident in the context of an upcoming Air Force report.",
+ "incidents": [
+  {
+   "summary": "The Roswell incident, referenced as a historical event being addressed by a new Air Force report.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "explanation_status": "explained",
+   "page_refs": [
+    1,
+    2,
+    7
+   ],
+   "quote": "I KNOW YOU ALL WANT TO GET ON TO UFOS, SO WE CAN DO THAT AS SOON AFTER I FINISH AS POSSIBLE.",
+   "recording_agency": "Department of Defense"
+  }
+ ]
+}

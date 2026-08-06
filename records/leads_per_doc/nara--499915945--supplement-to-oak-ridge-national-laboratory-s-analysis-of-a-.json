@@ -1,0 +1,18 @@
+{
+ "doc": "nara--499915945--supplement-to-oak-ridge-national-laboratory-s-analysis-of-a-.md",
+ "leads": [
+  {
+   "page": 1,
+   "lead_type": "analysis-of-material",
+   "claim": "A magnesium alloy specimen, alleged to be from a 1947 crashed extraterrestrial vehicle, was analyzed to determine if it was of terrestrial origin or a THz waveguide.",
+   "strength": "strong",
+   "why": "The document explicitly details the government's (AARO) engagement with a national laboratory (ORNL) to analyze a specific physical specimen claimed to be of extraterrestrial origin.",
+   "claimant": "Public allegations (unspecified)",
+   "custody_chain": "AARO contracted with ORNL for analysis; the specimen's history is described as undocumented and unverifiable.",
+   "government_response": "AARO and ORNL conducted isotopic and structural analysis, concluding the material is terrestrial and not a waveguide.",
+   "outcome_in_document": "confirmed-mundane",
+   "quote": "This specimen has been publicly alleged to be a component recovered from a crashed extraterrestrial vehicle in 1947"
+  }
+ ],
+ "doc_verdict": "The document confirms the government analyzed a specific physical specimen alleged to be of extraterrestrial origin, but concludes it is a mundane terrestrial material."
+}

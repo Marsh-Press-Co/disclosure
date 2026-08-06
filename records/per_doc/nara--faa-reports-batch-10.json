@@ -1,0 +1,615 @@
+{
+ "doc_id": "nara--faa-reports-batch-10",
+ "file": "nara--faa-reports-batch-10.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 10 (237UAP00234 - 237UAP00260)",
+ "record_type": "report-batch",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FAA Skywatch incident reports regarding UAP sightings from March to May 2023.",
+ "incidents": [
+  {
+   "summary": "Aircraft observed a Jet Pack individual 500 feet overhead.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flying"
+   ],
+   "country": "USA",
+   "date": "2023-03-05",
+   "explanation_status": "not-assessed",
+   "location_name": "DFW",
+   "page_refs": [
+    1
+   ],
+   "quote": "Aircraft observed a Jet Pack individual 500 feet overhead",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Aircraft reported an unidentified aerial phenomenon flashing blue and green lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flashing"
+   ],
+   "color": "blue and green",
+   "country": "USA",
+   "date": "2023-03-06",
+   "explanation_status": "not-assessed",
+   "location_name": "20NM NW of FMG",
+   "page_refs": [
+    2
+   ],
+   "quote": "The unknown phenomenon was flashing blue and green lights",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Aircraft reported an unidentified aerial phenomenon near Mt. Augustine.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "stationary"
+   ],
+   "country": "USA",
+   "date": "2023-03-09",
+   "explanation_status": "not-assessed",
+   "location_name": "Mt. Augustine",
+   "page_refs": [
+    3
+   ],
+   "quote": "The unknown phenomenon was well illuminated but undefined",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Three bright lights rotating around each other rapidly.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "rotating"
+   ],
+   "country": "USA",
+   "date": "2023-03-10",
+   "explanation_status": "not-assessed",
+   "location_name": "FOD",
+   "object_count": "3",
+   "page_refs": [
+    4
+   ],
+   "quote": "three very bright lights \"very high in the sky\" with various brightness rotating around each other rapidly",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Stationary pulsating lights observed.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "pulsating",
+    "stationary"
+   ],
+   "country": "USA",
+   "date": "2023-03-10",
+   "explanation_status": "not-assessed",
+   "location_name": "70NM NE of ACK",
+   "page_refs": [
+    5
+   ],
+   "quote": "The unknown phenomenon was described as stationary pulsating lights",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Two white lights observed at high altitude.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "color": "white",
+   "country": "USA",
+   "date": "2023-03-14",
+   "explanation_status": "not-assessed",
+   "location_name": "78NM NE of MEM",
+   "object_count": "2",
+   "page_refs": [
+    6
+   ],
+   "quote": "The unknown phenomenon was 2 white lights much higher above",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multicolored lights larger than an aircraft.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "color": "orange, purple, green, red",
+   "country": "USA",
+   "date": "2023-03-17",
+   "explanation_status": "not-assessed",
+   "location_name": "FAT and VIS",
+   "page_refs": [
+    7
+   ],
+   "quote": "The unknown phenomenon was multicolored lights (orange, purple, green, red) appearing to be larger than an aircraft",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Two flashing lights traveling together.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "flashing",
+    "traveling"
+   ],
+   "country": "USA",
+   "date": "2023-03-21",
+   "explanation_status": "not-assessed",
+   "location_name": "12NM NE of COS",
+   "object_count": "2",
+   "page_refs": [
+    8
+   ],
+   "quote": "The unknown phenomenon was described as 2 flashing lights traveling together",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Flashing lights observed above aircraft.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flashing"
+   ],
+   "country": "USA",
+   "date": "2023-03-22",
+   "explanation_status": "not-assessed",
+   "location_name": "10NM E of LVL",
+   "page_refs": [
+    9
+   ],
+   "quote": "The unknown phenomenon was described as flashing lights above them",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Flashing lights observed above aircraft.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flashing"
+   ],
+   "country": "USA",
+   "date": "2023-03-22",
+   "explanation_status": "not-assessed",
+   "location_name": "6NM SE of TYI",
+   "page_refs": [
+    10
+   ],
+   "quote": "The unknown phenomenon was described as flashing lights above them",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Jetpack observed traveling at 6,000 feet.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "traveling"
+   ],
+   "country": "USA",
+   "date": "2023-03-26",
+   "explanation_status": "not-assessed",
+   "location_name": "10NM NE of OMN",
+   "page_refs": [
+    11
+   ],
+   "quote": "The unknown phenomenon was a jetpack traveling S bound at approximately 6,000 feet",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Intermittent white lights moving and changing altitude.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "moving",
+    "changing altitude"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2023-04-09",
+   "explanation_status": "not-assessed",
+   "location_name": "NW of DBN",
+   "page_refs": [
+    12
+   ],
+   "quote": "The unknown phenomenon was intermittent white lights moving 20 degrees left and right",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Bright white light observed, consistent with Skylink satellites.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "color": "white",
+   "country": "USA",
+   "date": "2023-04-10",
+   "explanation_status": "explained",
+   "location_name": "148 NM NW of SPY",
+   "page_refs": [
+    13
+   ],
+   "quote": "This is consistent with a train of Skylink satellites traveling over Alaska",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Four red and white lights moving in circles.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "moving in circles"
+   ],
+   "color": "red and white",
+   "country": "USA",
+   "date": "2023-04-10",
+   "explanation_status": "not-assessed",
+   "location_name": "HTO 125046",
+   "object_count": "4",
+   "page_refs": [
+    14,
+    15
+   ],
+   "quote": "The unknown phenomenon was 4 red and white lights moving in circles",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Two or three white blooming lights observed.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "blooming"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2023-04-14",
+   "explanation_status": "not-assessed",
+   "location_name": "20NM S of MCN",
+   "object_count": "2 or 3",
+   "page_refs": [
+    16
+   ],
+   "quote": "The unknown phenomenon was reported as 2 or 3 \"white blooming lights\"",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Three lights flashing and moving above a thunderstorm.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flashing",
+    "moving"
+   ],
+   "country": "USA",
+   "date": "2023-04-15",
+   "explanation_status": "not-assessed",
+   "location_name": "40NM E of SAV",
+   "object_count": "3",
+   "page_refs": [
+    17
+   ],
+   "quote": "The unknown phenomenon was 3 lights flashing on and off and moving above a thunderstorm",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Three to five flashing lights observed.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flashing"
+   ],
+   "country": "USA",
+   "date": "2023-04-16",
+   "explanation_status": "not-assessed",
+   "location_name": "35NM S of EKN",
+   "object_count": "3 to 5",
+   "page_refs": [
+    18
+   ],
+   "quote": "The unknown phenomenon was 3 to 5 flashing lights well above FL390",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Flashing lights observed over Mackall AAF.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flashing",
+    "traveling"
+   ],
+   "country": "USA",
+   "date": "2023-04-17",
+   "explanation_status": "not-assessed",
+   "location_name": "Mackall AAF",
+   "page_refs": [
+    19
+   ],
+   "quote": "ZDC was receiving intermittent primary targets",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Four to five red and white lights traveling towards aircraft.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "traveling"
+   ],
+   "color": "red and white",
+   "country": "USA",
+   "date": "2023-04-18",
+   "explanation_status": "not-assessed",
+   "location_name": "50 NM SE of LFK",
+   "object_count": "4-5",
+   "page_refs": [
+    20
+   ],
+   "quote": "The unknown phenomenon was 4-5 white/red lights traveling towards them",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Two glowing and pulsing orbs observed.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "glowing",
+    "pulsing"
+   ],
+   "country": "USA",
+   "date": "2023-04-19",
+   "explanation_status": "not-assessed",
+   "location_name": "40 NM N of TXK",
+   "object_count": "2",
+   "page_refs": [
+    21
+   ],
+   "quote": "The unknown phenomenon was reported as 2 glowing and pulsing orbs that quickly disappeared",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "White, donut-shaped object observed.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "stationary"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2023-04-22",
+   "explanation_status": "not-assessed",
+   "location_name": "24 NM NW of FST",
+   "page_refs": [
+    22
+   ],
+   "quote": "The unknown phenomenon was white, donut shaped approximately 15 feet in diameter",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "donut",
+   "size": "15 feet",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Two black basketball-sized balloons with wires.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "color": "black",
+   "country": "USA",
+   "date": "2023-04-25",
+   "explanation_status": "not-assessed",
+   "location_name": "15 NM NW of PNS",
+   "object_count": "2",
+   "page_refs": [
+    23
+   ],
+   "quote": "The unknown phenomenon appeared to be two black basketball sized balloons with wires",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "balloon",
+   "size": "basketball sized",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "White oval object observed on TCAS.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "traveling",
+    "climbing"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2023-04-27",
+   "explanation_status": "not-assessed",
+   "location_name": "20NM W of GBN",
+   "page_refs": [
+    24
+   ],
+   "quote": "The unknown phenomenon was white and oval in shape traveling towards them",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "oval",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Alternating flashing lights observed.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "flashing"
+   ],
+   "country": "USA",
+   "date": "2023-05-01",
+   "explanation_status": "not-assessed",
+   "location_name": "235 NM 210 deg of SXC",
+   "page_refs": [
+    25
+   ],
+   "quote": "The unknown phenomenon was alternating flashing lights traveling same direction",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

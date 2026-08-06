@@ -1,0 +1,11 @@
+{
+ "doc_id": "nara--faa-reports-batch-03",
+ "file": "nara--faa-reports-batch-03.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 03 (237UAP00056 - 237UAP00080)",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a batch of FAA Skywatch Incident Reports regarding UAP sightings, but none of the entries meet the criteria for a close-range encounter, entity sighting, or physical trace as defined.",
+ "encounters": []
+}

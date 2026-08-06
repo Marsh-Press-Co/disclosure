@@ -1,0 +1,24 @@
+{
+ "doc": "nara--291645977--information-collection-1959-291645977.md",
+ "leads": [
+  {
+   "page": 4,
+   "lead_type": "craft-custody",
+   "claim": "The report explicitly states that no physical evidence exists regarding the sighting.",
+   "strength": "noise",
+   "why": "The document explicitly denies the existence of physical evidence, making it a negative report rather than a lead.",
+   "outcome_in_document": "denied-by-government",
+   "quote": "Existence of physical evidence. a. None."
+  },
+  {
+   "page": 6,
+   "lead_type": "craft-custody",
+   "claim": "The report explicitly states that no physical evidence exists regarding the sighting.",
+   "strength": "noise",
+   "why": "The document explicitly denies the existence of physical evidence, making it a negative report rather than a lead.",
+   "outcome_in_document": "denied-by-government",
+   "quote": "Existence of physical evidence. a. None."
+  }
+ ],
+ "doc_verdict": "The document contains no evidence of obtained material and explicitly states that no physical evidence exists for the reported sightings."
+}

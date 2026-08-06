@@ -1,0 +1,123 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-024",
+ "file": "nara--733667--roswell-report-source-files-733667-001-024.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-024",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FAA press releases and internal notes regarding reported UFO sightings by commercial flight crews in Alaska between 1985 and 1987.",
+ "incidents": [
+  {
+   "summary": "Japan Air Lines flight 1628 reported being accompanied by unidentified air traffic from the Alaska-Canadian border to Anchorage.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "erratic movement"
+   ],
+   "color": "yellow, amber, green",
+   "country": "USA",
+   "date": "1986-11-17",
+   "explanation": "FAA determined a second radar target was a split radar return from the JAL Boeing 747; visual sightings were not confirmed.",
+   "explanation_status": "explained",
+   "location_name": "Alaska",
+   "object_count": "1",
+   "page_refs": [
+    1,
+    2,
+    3,
+    6,
+    9
+   ],
+   "quote": "The Nov. 17 UFO sighting was reported by JAL Captain Kenjyu Terauchi",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "large black chunk",
+   "size": "as big as a B747 or larger",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Alaska Airlines flight 53 reported unidentified air traffic on onboard weather radar.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "high rate of speed"
+   ],
+   "country": "USA",
+   "date": "1987-01-29",
+   "explanation_status": "not-assessed",
+   "location_name": "McGrath, Alaska",
+   "page_refs": [
+    4,
+    7,
+    8
+   ],
+   "quote": "reported to the FAA Anchorage Air Route Traffic Control Center, the sighting of unidentified air traffic on their onboard weather radar system.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "radar"
+   ],
+   "time_local": "6:39 pm",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Captain Kenjyu Terauchi of JAL flight 628 reported seeing unusual lights.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "pulsating"
+   ],
+   "country": "USA",
+   "date": "1987-01-11",
+   "explanation": "FAA concluded phenomena was most likely caused by ice crystals created by a temperature inversion.",
+   "explanation_status": "explained",
+   "location_name": "Nenana, Alaska",
+   "page_refs": [
+    3,
+    4,
+    5
+   ],
+   "quote": "reported to the FAA Air Route Traffic Control Center in Anchorage, that he was seeing a group of unusual lights",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "7:30 am",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Flying Tigers Flight 73 reported observing a target.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "country": "USA",
+   "date": "1985-11-21",
+   "explanation": "Air Force was unable to confirm the sighting.",
+   "explanation_status": "unexplained",
+   "location_name": "Anchorage, Alaska",
+   "page_refs": [
+    5
+   ],
+   "quote": "reported observing a \"target\" heading 320 degrees as it approached Anchorage",
+   "recording_agency": "FAA",
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

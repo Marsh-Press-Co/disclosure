@@ -1,0 +1,54 @@
+{
+ "doc_id": "nara--499915942--puerto-rico-case-resolution-card",
+ "file": "nara--499915942--puerto-rico-case-resolution-card.md",
+ "source": "NARA-RG615",
+ "agency": "OSD",
+ "title": "Puerto Rico Case Resolution Card",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an AARO case resolution card regarding a 2013 UAP sighting in Puerto Rico, concluding the objects were likely sky lanterns.",
+ "incidents": [
+  {
+   "summary": "CBP aircraft captured thermal video of two objects drifting at wind speed near Rafael Hernandez Airport, Puerto Rico.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "drifting at wind speed",
+    "separating from one another"
+   ],
+   "color": "",
+   "country": "Puerto Rico",
+   "date": "2013-04-26",
+   "duration": "",
+   "explanation": "AARO assesses with moderate confidence that the objects were a pair of sky lanterns.",
+   "explanation_status": "partially-explained",
+   "location_name": "Rafael Hernandez Airport, Aguadilla, Puerto Rico",
+   "object_count": "2",
+   "page_refs": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "quote": "captured thermal video footage of two objects drifting at wind speed and direction.",
+   "recording_agency": "AARO",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "indistinct",
+   "size": "smaller than one meter",
+   "time_local": "21:22",
+   "witness_count": "",
+   "witness_types": [
+    "federal-le"
+   ]
+  }
+ ]
+}

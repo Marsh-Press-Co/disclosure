@@ -1,0 +1,56 @@
+{
+ "doc_id": "nara--4526519--ford-library-weekly-radio-reports-1966-4526519",
+ "file": "nara--4526519--ford-library-weekly-radio-reports-1966-4526519.md",
+ "source": "NARA-RG615",
+ "agency": "White House (Ford)",
+ "title": "Ford Library weekly radio reports 1966 - 4526519",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of weekly radio scripts written by Congressman Gerald R. Ford in 1966, primarily focusing on Vietnam policy, inflation, and domestic politics, with one specific script (Page 32-34) discussing his call for a Congressional investigation into UFOs.",
+ "incidents": [
+  {
+   "summary": "Congressman Jerry Ford mentions receiving a letter from a constituent claiming UFOs caused the Gemini 8 failure, the 1965 Northeast blackout, and Boeing 727 accidents.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "anti-gravity",
+    "high-speed travel"
+   ],
+   "country": "United States",
+   "date": "1966-03",
+   "explanation_status": "not-assessed",
+   "location_name": "United States",
+   "page_refs": [
+    33
+   ],
+   "quote": "planet people are piloting the UFO's, have superior abilities, have the anti-gravity secret",
+   "recording_agency": "White House (Ford)",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Congressman Jerry Ford references the Air Force's explanation of Michigan UFO sightings as 'swamp gas' and 'rising crescent moon and the planet Venus'.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "explanation": "Air Force identified sightings as swamp gas, crescent moon, and Venus.",
+   "explanation_status": "explained",
+   "location_name": "Michigan",
+   "page_refs": [
+    32,
+    33,
+    34
+   ],
+   "quote": "the Air Force did in telling the people of Michigan they have been seeing swamp gas",
+   "recording_agency": "White House (Ford)",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

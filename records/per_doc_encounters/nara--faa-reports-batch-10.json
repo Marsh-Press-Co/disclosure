@@ -1,0 +1,44 @@
+{
+ "doc_id": "nara--faa-reports-batch-10",
+ "file": "nara--faa-reports-batch-10.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 10 (237UAP00234 - 237UAP00260)",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FAA Skywatch incident reports; it contains two reports of close-approach encounters with unidentified aerial objects.",
+ "encounters": [
+  {
+   "summary": "General aviation aircraft reported a white, donut-shaped object approximately 15 feet in diameter, hovering or moving in the opposite direction 100 feet above their altitude.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "2023-04-22",
+   "date_precision": "day",
+   "location_name": "24 NM NW of FST",
+   "page_refs": [
+    22
+   ],
+   "quote": "white, donut shaped approximately 15 feet in diameter"
+  },
+  {
+   "summary": "General aviation aircraft reported a white, oval-shaped object at FL430 that traveled toward them, then turned away and climbed to FL470; object was detected on TCAS.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "2023-04-27",
+   "date_precision": "day",
+   "location_name": "20NM W of GBN",
+   "page_refs": [
+    24
+   ],
+   "quote": "white and oval in shape traveling towards them"
+  }
+ ]
+}

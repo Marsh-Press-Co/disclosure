@@ -1,0 +1,32 @@
+{
+ "doc": "nara--499915961--2023-the-u-s-defense-department-and-its-uap-mission-slides.md",
+ "leads": [
+  {
+   "page": 6,
+   "lead_type": "program-custody-language",
+   "claim": "AARO is tasked with the secure handling, storage, transport, and transfer of UAP objects and material for scientific and technical exploitation.",
+   "strength": "strong",
+   "why": "The document explicitly outlines a formal government program structure for the custody and exploitation of UAP material.",
+   "claimant": "AARO (All-domain Anomaly Resolution Office)",
+   "custody_chain": "AARO, in partnership with Joint Staff and counterintelligence elements.",
+   "government_response": "The document establishes this as an official function of the AARO mission.",
+   "material_description": "UAP Objects and Material",
+   "outcome_in_document": "unresolved",
+   "quote": "Advises Commands on the secure and safe handling, storage, transport, and transfer of UAP Objects and Material"
+  },
+  {
+   "page": 8,
+   "lead_type": "program-custody-language",
+   "claim": "AARO directs the exploitation of recovered enigmatic technologies through cross-sector partnerships and research laboratories.",
+   "strength": "strong",
+   "why": "The text confirms the existence of a program dedicated to the exploitation of recovered technologies.",
+   "claimant": "AARO (All-domain Anomaly Resolution Office)",
+   "custody_chain": "AARO and research partners, including Department of Energy (DoE) laboratories.",
+   "government_response": "The document codifies this as an active mission requirement.",
+   "material_description": "recovered enigmatic technologies",
+   "outcome_in_document": "unresolved",
+   "quote": "Directs exploitation of recovered enigmatic technologies, leveraging cross-sector partnerships"
+  }
+ ],
+ "doc_verdict": "This document explicitly confirms that AARO is tasked with the recovery, handling, and exploitation of UAP material and enigmatic technologies."
+}

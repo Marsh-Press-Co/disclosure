@@ -1,0 +1,38 @@
+{
+ "doc_id": "nara--faa-reports-batch-20",
+ "file": "nara--faa-reports-batch-20.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 20 (237UAP00535 - 237UAP00560)",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a batch of FAA reports regarding UAP sightings by commercial and private pilots; only two reports describe objects with physical characteristics (metallic/silver) rather than just lights.",
+ "encounters": [
+  {
+   "summary": "Pilot reported a silver UAP 500 feet below their aircraft while in flight.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "entity_appearance": "silver",
+   "page_refs": [
+    16
+   ],
+   "quote": "REPORTED A SILVER UAP 500 FEET BELOW THE ACFT"
+  },
+  {
+   "summary": "Pilot reported a metallic object while in flight.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "entity_appearance": "metallic",
+   "page_refs": [
+    20
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON OF A METALLIC OBJECT"
+  }
+ ]
+}

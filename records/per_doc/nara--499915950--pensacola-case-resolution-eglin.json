@@ -1,0 +1,57 @@
+{
+ "doc_id": "nara--499915950--pensacola-case-resolution-eglin",
+ "file": "nara--499915950--pensacola-case-resolution-eglin.md",
+ "source": "NARA-RG615",
+ "agency": "OSD",
+ "title": "Pensacola Case Resolution (Eglin)",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an AARO case resolution report regarding a UAP sighting near Eglin Air Force Base, including figures and technical assessments.",
+ "incidents": [
+  {
+   "summary": "A military pilot reported four potential UAP in the Eglin Air Force Base training range, with one object visually and sensor-tracked.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "flying in formation",
+    "moved very slowly",
+    "potentially stationary",
+    "descended into cloud deck"
+   ],
+   "color": "gray with orange-red coloring at the center",
+   "country": "United States",
+   "date": "2023-01-26",
+   "explanation": "Very likely a lighter-than-air object, such as a large commercial lighting balloon.",
+   "explanation_status": "explained",
+   "location_name": "Eglin Air Force Base training range, Florida",
+   "object_count": "4",
+   "page_refs": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "quote": "A military pilot reported the object due to its potential as a flight safety hazard",
+   "recording_agency": "AARO",
+   "sensors": [
+    "radar",
+    "visual",
+    "ir",
+    "photo"
+   ],
+   "shape": "Rounded, cone",
+   "size": "12 feet in diameter",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

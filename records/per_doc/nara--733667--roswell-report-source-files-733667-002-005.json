@@ -1,0 +1,29 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-002-005",
+ "file": "nara--733667--roswell-report-source-files-733667-002-005.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-002-005",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of correspondence from members of the public requesting information from the FAA regarding a November 1986 Japan Air Lines UFO sighting.",
+ "incidents": [
+  {
+   "summary": "Japan Air Lines flight crew sighting of a UFO over Alaska.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "doc_id": "nara--499915954--senate-armed-services-committee-sasc-on-emerging-threats-and",
+ "file": "nara--499915954--senate-armed-services-committee-sasc-on-emerging-threats-and.md",
+ "source": "NARA-RG615",
+ "agency": "OSD",
+ "title": "Senate Armed Services Committee (SASC) on Emerging Threats and Capabilities Briefing 2023",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a stenographic transcript of a 2023 Senate Armed Services Committee hearing regarding the mission and activities of the All-Domain Anomaly Resolution Office (AARO).",
+ "incidents": [
+  {
+   "summary": "MQ-9 drone observation of a spherical object in the Middle East.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "maneuvering"
+   ],
+   "shape": "spherical",
+   "size": "unknown",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "MQ-9 drone observation of an object in South Asia that was initially thought to be anomalous but was later identified as a commuter aircraft.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "flying"
+   ],
+   "explanation": "Commuter aircraft; sensor artifact created a false trail.",
+   "explanation_status": "explained",
+   "sensors": [
+    "ir",
+    "visual"
+   ],
+   "shape": "blob",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "PRC high-altitude balloon incursion over North America.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "date": "2023",
+   "explanation": "PRC high-altitude balloon.",
+   "explanation_status": "explained",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "balloon",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Multiple near-miss incidents involving UAPs and Navy pilots.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "date": "2004-2021",
+   "explanation_status": "not-assessed",
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

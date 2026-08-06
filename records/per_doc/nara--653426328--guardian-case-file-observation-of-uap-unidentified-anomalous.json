@@ -1,0 +1,62 @@
+{
+ "doc_id": "nara--653426328--guardian-case-file-observation-of-uap-unidentified-anomalous",
+ "file": "nara--653426328--guardian-case-file-observation-of-uap-unidentified-anomalous.md",
+ "source": "NARA-RG615",
+ "agency": "FBI",
+ "title": "Guardian Case File \"Observation of UAP [Unidentified Anomalous Phenomena] by Anoka Police Department personnel,\" March 10, 2025",
+ "record_type": "archival-record",
+ "index_date": "2025",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI Guardian case file regarding UAP observations reported by Anoka Police Department personnel, containing significant redactions under 1843(a).",
+ "incidents": [
+  {
+   "summary": "Anoka Police Department personnel observed a UAP with unusual lighting and movement near the western horizon.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "rapid movement",
+    "skipped across the sky like a stone"
+   ],
+   "color": "tie-dye multi-color",
+   "date": "2025-02-19",
+   "duration": "90 minutes",
+   "explanation_status": "not-assessed",
+   "location_name": "Anoka, near Monticello Nuclear Power Generation Plant",
+   "page_refs": [
+    1,
+    2
+   ],
+   "quote": "skipped across the sky like a stone",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "video"
+   ],
+   "shape": "orbital diagram of an atom with six hula-hoops",
+   "size": "10K-30K feet altitude",
+   "time_local": "01:17",
+   "witness_count": "3",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Additional UAP observation by Anoka Police Department personnel.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "date": "2025-02-17",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    2
+   ],
+   "recording_agency": "FBI",
+   "witness_types": [
+    "federal-le"
+   ]
+  }
+ ]
+}

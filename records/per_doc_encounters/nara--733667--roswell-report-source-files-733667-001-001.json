@@ -1,0 +1,31 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-001",
+ "file": "nara--733667--roswell-report-source-files-733667-001-001.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-001",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an administrative order form and correspondence from the FAA regarding the availability of records for the JAL Flight 1628 sighting; it contains references to encounter reports but does not detail the encounter itself.",
+ "encounters": [
+  {
+   "summary": "Japan Airlines Flight 1628 crew reported an unidentified traffic sighting over Alaska involving radar data and visual observations.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "unknown",
+   "country": "USA",
+   "date": "1986-11-17",
+   "date_precision": "day",
+   "location_name": "Alaska",
+   "page_refs": [
+    5,
+    6,
+    7
+   ],
+   "quote": "unidentified traffic sighting by the flight crew of Japan Airlines flight 1628"
+  }
+ ]
+}

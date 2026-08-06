@@ -1,0 +1,48 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-010",
+ "file": "nara--733667--roswell-report-source-files-733667-001-010.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-010",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a transcript of an FAA interview with a JAL flight engineer regarding a UFO sighting in 1986.",
+ "incidents": [
+  {
+   "summary": "JAL flight engineer Yoshie Tsukuba reports sighting unidentified lights while in flight, observed visually and on radar.",
+   "date_precision": "day",
+   "time_of_day": "dusk",
+   "confidence": "high",
+   "behavior": [
+    "undulating",
+    "accompanied aircraft during altitude changes"
+   ],
+   "color": "white or amber",
+   "date": "1986-11-17",
+   "duration": "30 minutes",
+   "explanation_status": "not-assessed",
+   "object_count": "2",
+   "page_refs": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "quote": "The first time I saw it was through the Ll window, at the 11 o'clock position.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "clusters of lights",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

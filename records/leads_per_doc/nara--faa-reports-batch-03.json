@@ -1,0 +1,20 @@
+{
+ "doc": "nara--faa-reports-batch-03.md",
+ "leads": [
+  {
+   "page": 20,
+   "lead_type": "debris-material",
+   "claim": "A pilot reported an object resembling space debris with burning flames entering the atmosphere.",
+   "strength": "noise",
+   "why": "The report describes a transient atmospheric phenomenon observed by a pilot, with no suggestion of physical recovery or government custody."
+  },
+  {
+   "page": 23,
+   "lead_type": "debris-material",
+   "claim": "An aerial phenomenon was described as a flash of light or space debris.",
+   "strength": "noise",
+   "why": "This is a sighting report of a transient event with no indication of physical material being obtained or held."
+  }
+ ],
+ "doc_verdict": "The document contains only pilot sighting reports of atmospheric phenomena and does not suggest that any physical material was located, obtained, or held by the government or contractors."
+}

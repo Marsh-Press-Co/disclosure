@@ -1,0 +1,13 @@
+{
+ "doc": "nara--faa-reports-batch-04.md",
+ "leads": [
+  {
+   "page": 4,
+   "lead_type": "debris-material",
+   "claim": "An unknown phenomenon reported by pilots was identified as space debris.",
+   "strength": "noise",
+   "why": "The document explicitly identifies the material as conventional space debris and provides no evidence of anomalous material recovery or custody."
+  }
+ ],
+ "doc_verdict": "The document does not contain any evidence of obtained UAP material, as it explicitly identifies the reported phenomenon as conventional space debris."
+}

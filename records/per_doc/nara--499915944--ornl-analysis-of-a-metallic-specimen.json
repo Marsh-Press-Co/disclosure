@@ -1,0 +1,48 @@
+{
+ "doc_id": "nara--499915944--ornl-analysis-of-a-metallic-specimen",
+ "file": "nara--499915944--ornl-analysis-of-a-metallic-specimen.md",
+ "source": "NARA-RG615",
+ "agency": "OSD",
+ "title": "ORNL - Analysis of a Metallic Specimen",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an AARO-sponsored technical report by Oak Ridge National Laboratory (ORNL) analyzing the composition of a metallic specimen allegedly recovered from a 1947 UAP crash.",
+ "incidents": [
+  {
+   "summary": "Analysis of a metallic specimen claimed to be recovered from a 1947 UAP crash, investigated for potential inertial mass reduction properties.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "inertial mass reduction",
+    "levitation",
+    "antigravity"
+   ],
+   "color": "unknown",
+   "country": "unknown",
+   "date": "1947",
+   "explanation": "ORNL analysis determined the material is terrestrial in origin and does not function as a terahertz waveguide.",
+   "explanation_status": "explained",
+   "page_refs": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "quote": "The material specimen, whose origin and purpose are of long and debated history, is claimed to be recovered from an unidentified anomalous phenomenon (UAP) crash",
+   "recording_agency": "AARO",
+   "sensors": [
+    "other"
+   ],
+   "shape": "layered material",
+   "size": "unknown"
+  }
+ ]
+}

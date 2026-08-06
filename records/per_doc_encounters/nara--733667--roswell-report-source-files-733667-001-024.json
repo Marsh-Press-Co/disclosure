@@ -1,0 +1,82 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-024",
+ "file": "nara--733667--roswell-report-source-files-733667-001-024.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-024",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FAA reports and press releases regarding UFO sightings by commercial flight crews in Alaska, containing detailed encounter information.",
+ "encounters": [
+  {
+   "summary": "Japan Air Lines flight 1628 crew reported an unidentified object accompanying their flight from the Alaska-Canadian border to Fairbanks and Anchorage, observed visually and on radar.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1986-11-17",
+   "date_precision": "day",
+   "entity_appearance": "Large black chunk, irregular pulsating lights, yellow, amber, green lights, rotating beacon.",
+   "location_name": "Alaska",
+   "page_refs": [
+    1,
+    2,
+    3,
+    5,
+    6,
+    9
+   ],
+   "physical_effects": [
+    "radar-return-anomaly",
+    "radio-static"
+   ],
+   "quote": "We see irregular pulsating lights just there is a large black chunk just in front of us"
+  },
+  {
+   "summary": "Alaska Airlines flight 53 crew reported an unidentified target on their onboard weather radar moving at high speed near McGrath, Alaska.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1987-01-29",
+   "date_precision": "day",
+   "location_name": "McGrath, Alaska",
+   "page_refs": [
+    4,
+    7,
+    8
+   ],
+   "physical_effects": [
+    "radar-return-anomaly"
+   ],
+   "quote": "The flight crew reported that the target on their radar moved at a very high rate of speed"
+  },
+  {
+   "summary": "Captain Terauchi of JAL flight 628 reported seeing a group of unusual lights in front of his aircraft.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "medium",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1987-01-11",
+   "date_precision": "day",
+   "entity_appearance": "Unusual lights.",
+   "location_name": "Alaska",
+   "page_refs": [
+    3,
+    4,
+    5
+   ],
+   "physical_effects": [],
+   "quote": "reported to the FAA Air Route Traffic Control Center, that he was seeing a group of unusual lights"
+  }
+ ]
+}

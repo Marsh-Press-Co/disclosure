@@ -1,0 +1,44 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-002",
+ "file": "nara--733667--roswell-report-source-files-733667-001-002.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-002",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document contains FAA investigation records and internal reports regarding the Japan Airlines Flight 1628 UAP sighting.",
+ "incidents": [
+  {
+   "summary": "Japan Airlines Flight 1628 reported unidentified traffic at its altitude, which was also tracked on the aircraft's weather radar and by ground radar centers.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "stayed in vicinity",
+    "descent",
+    "turns",
+    "360 degree turn"
+   ],
+   "country": "USA",
+   "date": "1986-11-18",
+   "duration": "34 minutes",
+   "explanation_status": "not-assessed",
+   "location_name": "en route from Keflavik to Anchorage",
+   "page_refs": [
+    2
+   ],
+   "quote": "the captain of Flight 1628 reported traffic at his altitude 1 mile in front of his aircraft",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

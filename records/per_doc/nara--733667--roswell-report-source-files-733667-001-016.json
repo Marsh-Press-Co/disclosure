@@ -1,0 +1,42 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-016",
+ "file": "nara--733667--roswell-report-source-files-733667-001-016.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-016",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a Record of Facility Operation log from the Anchorage ARTCC detailing routine air traffic control operations and the JAL 1628 incident.",
+ "incidents": [
+  {
+   "summary": "Japan Airlines flight 1628 reported an unidentified target pacing the aircraft at FL350, observed visually and via radar.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "pacing"
+   ],
+   "color": "white and yellow",
+   "country": "USA",
+   "date": "1986-11-17",
+   "explanation_status": "not-assessed",
+   "location_name": "Anchorage, Alaska",
+   "page_refs": [
+    1,
+    2
+   ],
+   "quote": "JL1628, HB747, BIKF ANC reported traffic at his altitude (FL350) one mile with a white and yellow strobe",
+   "recording_agency": "ZAN ARTCC",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

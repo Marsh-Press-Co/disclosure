@@ -1,0 +1,87 @@
+{
+ "doc_id": "nara--499915941--sasc-open-hearing-case-19nov2024",
+ "file": "nara--499915941--sasc-open-hearing-case-19nov2024.md",
+ "source": "NARA-RG615",
+ "agency": "OSD",
+ "title": "SASC Open Hearing Case 19Nov2024",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an AARO report presented to the Senate Armed Services Subcommittee on Emerging Threats and Capabilities detailing the resolution of three specific UAP cases.",
+ "incidents": [
+  {
+   "summary": "USCBP aircraft recorded IR video of an object over Puerto Rico that appeared to split and enter/exit water.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "high speed",
+    "splitting",
+    "entering and exiting water"
+   ],
+   "country": "United States",
+   "date": "2013-04-26",
+   "explanation": "The object was two distinct objects traveling at wind speed; the splitting and water entry were illusions caused by sensor angle and motion parallax.",
+   "explanation_status": "explained",
+   "location_name": "Rafael Hernandez Airport, Puerto Rico",
+   "page_refs": [
+    3,
+    4
+   ],
+   "quote": "The video appears to show an object traveling at high speed, splitting into two objects, and entering and exiting the water.",
+   "recording_agency": "AARO",
+   "sensors": [
+    "ir",
+    "video"
+   ]
+  },
+  {
+   "summary": "US Navy aircraft recorded an object appearing to travel at high speeds close to the ocean surface.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "high speed",
+    "straight trajectory",
+    "slow curving descent"
+   ],
+   "country": "United States",
+   "date": "2015-01",
+   "explanation": "The object was at 13,000 feet traveling at 45 mph, with the appearance of high speed attributed to wind and aircraft movement.",
+   "explanation_status": "explained",
+   "location_name": "Off Florida's east coast",
+   "page_refs": [
+    5
+   ],
+   "quote": "In January 2015, U.S. Navy aircraft recorded an object appearing to travel at high speeds close to the ocean surface",
+   "recording_agency": "AARO",
+   "sensors": [
+    "video"
+   ]
+  },
+  {
+   "summary": "UAV observed an object passing through the Mt. Etna volcanic plume.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "drifting with wind"
+   ],
+   "country": "Italy",
+   "date": "2018",
+   "explanation": "The object was a balloon drifting with the wind, not passing through the plume.",
+   "explanation_status": "explained",
+   "location_name": "Mediterranean Sea, near Mt. Etna",
+   "page_refs": [
+    6
+   ],
+   "quote": "capturing video of a potential UAP seemingly passing through the volcano's plume",
+   "recording_agency": "AARO",
+   "sensors": [
+    "video"
+   ]
+  }
+ ]
+}

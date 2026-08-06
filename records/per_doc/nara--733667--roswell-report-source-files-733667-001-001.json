@@ -1,0 +1,45 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-001",
+ "file": "nara--733667--roswell-report-source-files-733667-001-001.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-001",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FAA order forms and correspondence regarding the purchase of investigation materials related to the JAL Flight 1628 UAP sighting.",
+ "incidents": [
+  {
+   "summary": "Japan Air Lines Flight 1628 crew reported sighting unidentified air traffic.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "country": "USA",
+   "date": "1986-11-17",
+   "explanation_status": "not-assessed",
+   "location_name": "Alaska",
+   "page_refs": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "quote": "unidentified traffic sighting by the flight crew of Japan Airlines flight 1628",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

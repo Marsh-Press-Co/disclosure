@@ -1,0 +1,11 @@
+{
+ "doc_id": "nara--faa-reports-batch-14",
+ "file": "nara--faa-reports-batch-14.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 14 (237UAP00336 - 237UAP00361)",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FAA Skywatch incident reports regarding unidentified aerial phenomena, but none of the entries meet the criteria for an encounter involving landed craft, entities, or physical traces.",
+ "encounters": []
+}

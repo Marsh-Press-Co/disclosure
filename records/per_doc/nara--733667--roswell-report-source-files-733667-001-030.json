@@ -1,0 +1,49 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-030",
+ "file": "nara--733667--roswell-report-source-files-733667-001-030.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-030",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document contains FAA incident reports, interview transcripts, and press releases regarding an unidentified radar target observed by an Alaska Airlines flight crew in 1987.",
+ "incidents": [
+  {
+   "summary": "Alaska Airlines Flight 53 crew reported an unidentified target on their onboard weather radar while en route from Nome to Anchorage.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "moved at high rate of speed",
+    "moved 5 miles per second",
+    "disappeared from radar"
+   ],
+   "country": "United States",
+   "date": "1987-01-29",
+   "explanation_status": "unexplained",
+   "location_name": "60 miles west of McGrath, Alaska",
+   "page_refs": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "quote": "he was there and then he was gone",
+   "recording_agency": "FAA",
+   "sensors": [
+    "radar",
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

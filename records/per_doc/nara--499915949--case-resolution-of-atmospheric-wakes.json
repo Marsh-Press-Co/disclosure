@@ -1,0 +1,94 @@
+{
+ "doc_id": "nara--499915949--case-resolution-of-atmospheric-wakes",
+ "file": "nara--499915949--case-resolution-of-atmospheric-wakes.md",
+ "source": "NARA-RG615",
+ "agency": "OSD",
+ "title": "Case Resolution of 'Atmospheric Wakes'",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an AARO case resolution report regarding three UAP incidents in the Middle East and Mediterranean Sea involving sensor artifacts interpreted as atmospheric wakes.",
+ "incidents": [
+  {
+   "summary": "Case One: Unidentified object exhibiting potential anomalous propulsion signature, determined to be a sensor artifact.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "potential anomalous propulsion"
+   ],
+   "country": "unknown",
+   "date": "2022",
+   "explanation": "Sensor artifact; object not identified but not exhibiting anomalous behaviors.",
+   "explanation_status": "explained",
+   "location_name": "Middle East or Mediterranean Sea",
+   "page_refs": [
+    1,
+    2
+   ],
+   "quote": "The object in Case One has not been identified, but AARO is certain that it was not exhibiting anomalous behaviors.",
+   "recording_agency": "AARO",
+   "sensors": [
+    "ir"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Case Two: Two objects observed, one identified as military aircraft, the other unidentified but likely a small aircraft.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "potential anomalous propulsion"
+   ],
+   "country": "unknown",
+   "date": "2022",
+   "explanation": "Sensor artifact; one object matched military aircraft, second likely small aircraft.",
+   "explanation_status": "explained",
+   "location_name": "Middle East or Mediterranean Sea",
+   "page_refs": [
+    1,
+    2
+   ],
+   "quote": "it is assessed that both objects are most likely aircraft, one military and the other a small but unidentified aircraft.",
+   "recording_agency": "AARO",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "oblong",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Case Three: Object identified as a commercial Airbus A380.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "potential anomalous propulsion"
+   ],
+   "country": "unknown",
+   "date": "2022",
+   "explanation": "Sensor artifact; identified as commercial aircraft via flight data.",
+   "explanation_status": "explained",
+   "location_name": "Middle East or Mediterranean Sea",
+   "page_refs": [
+    1,
+    2
+   ],
+   "quote": "AARO's intelligence partners have high confidence that they identified the UAP in Case Three as a specific Airbus A380",
+   "recording_agency": "AARO",
+   "sensors": [
+    "ir"
+   ],
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-007",
+ "file": "nara--733667--roswell-report-source-files-733667-001-007.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-007",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a personal statement by Captain Kenju Terauchi regarding the JAL Flight 1628 sighting, received by the FAA in 1987, and contains detailed encounter information.",
+ "encounters": [
+  {
+   "summary": "Captain Kenju Terauchi of JAL Flight 1628 reported an encounter with two smaller spaceships and a large mother ship over Alaska, which followed the aircraft for approximately 50 minutes.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1986-11-17",
+   "date_precision": "day",
+   "entity_appearance": "Two smaller ships with numerous exhaust pipes and a large mother ship.",
+   "entity_behavior": "The ships performed high-speed maneuvers, matched the aircraft's speed and altitude, interfered with VHF communication, and disappeared when another aircraft approached.",
+   "entity_count": "3",
+   "location_name": "Alaska",
+   "page_refs": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "physical_effects": [
+    "cockpit heating",
+    "camera malfunction",
+    "aircraft vibration",
+    "VHF communication interference",
+    "radar detection"
+   ],
+   "quote": "two spaceships stopped in front of our face, shooting off lights"
+  }
+ ]
+}

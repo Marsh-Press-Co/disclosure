@@ -1,0 +1,73 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-02-001",
+ "file": "nara--733667--roswell-report-source-files-733667-02-001.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-02-001",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of news reports and FAA source files regarding the JAL Flight 1628 UFO sighting, which the FAA ultimately concluded was not substantiated by radar data.",
+ "encounters": [
+  {
+   "summary": "JAL Flight 1628 crew reported being followed by two smaller amber-lit objects and one massive walnut-shaped object for approximately 50 minutes over Alaska.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1986-11-17",
+   "date_precision": "day",
+   "entity_appearance": "Two smaller amber-lit cylinders and one massive walnut-shaped object estimated to be twice the size of an aircraft carrier.",
+   "entity_behavior": "Paced the aircraft, hovered, pulsed across the sky, and followed the plane during evasive maneuvers.",
+   "entity_count": "3",
+   "location_name": "Alaska airspace",
+   "page_refs": [
+    2,
+    3,
+    7,
+    9,
+    11,
+    14,
+    15,
+    16,
+    17,
+    19,
+    27,
+    29,
+    43,
+    48,
+    49
+   ],
+   "physical_effects": [
+    "radar-blip",
+    "split-radar-return",
+    "cockpit-radar-detection"
+   ],
+   "quote": "It was like a dream. Unbelievable."
+  },
+  {
+   "summary": "Capt. Terauchi reported a second sighting of irregular lights while flying over Alaska.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "debunked",
+   "confidence": "medium",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1987-01-11",
+   "date_precision": "day",
+   "entity_appearance": "Flashing amber and white lights.",
+   "entity_behavior": "Approached from the front, went underneath the aircraft, and reappeared behind it.",
+   "location_name": "Alaska airspace",
+   "page_refs": [
+    8,
+    10,
+    43
+   ],
+   "physical_effects": [
+    "none"
+   ],
+   "quote": "Irregular lights, looks like a space ship."
+  }
+ ]
+}

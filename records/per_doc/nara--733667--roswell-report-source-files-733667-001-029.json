@@ -1,0 +1,60 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-029",
+ "file": "nara--733667--roswell-report-source-files-733667-001-029.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-029",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document contains personnel statements and flight logs from the FAA regarding the Japan Airlines Flight 628 UFO sighting incident.",
+ "incidents": [
+  {
+   "summary": "Japan Airlines Flight 628 reported observing unusual pulsating lights and a large black object near their aircraft over Alaska.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "pulsating",
+    "formation flight",
+    "responding to signals"
+   ],
+   "color": "unknown",
+   "country": "USA",
+   "date": "1987-01-11",
+   "duration": "approximately 1 hour",
+   "explanation": "The pilot later suggested the lights were village lights distorted by ice crystals; controllers noted weather clutter and temperature inversions.",
+   "explanation_status": "partially-explained",
+   "location_name": "North of Nenana and Fort Yukon, Alaska",
+   "object_count": "multiple",
+   "page_refs": [
+    1,
+    2,
+    3,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "quote": "We see irregular pulsating lights just, there is a black chunk (just) in front (of us)",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "black chunk",
+   "size": "large",
+   "time_local": "1629 UTC",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

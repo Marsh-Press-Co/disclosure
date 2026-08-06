@@ -1,0 +1,46 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-002-008",
+ "file": "nara--733667--roswell-report-source-files-733667-002-008.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-002-008",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of correspondence and requests for information sent to the FAA regarding the November 17, 1986, JAL UFO sighting, including internal FAA memos and public inquiries.",
+ "incidents": [
+  {
+   "summary": "Japan Air Lines (JAL) flight 1628 cargo jet reported being shadowed by two belts of light and a huge spaceship while crossing into Alaska airspace.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "shadowed aircraft",
+    "huge size"
+   ],
+   "country": "USA",
+   "date": "1986-11-17",
+   "explanation_status": "partially-explained",
+   "location_name": "Alaska",
+   "object_count": "3",
+   "page_refs": [
+    4,
+    22,
+    137
+   ],
+   "quote": "JAL Capt. Kenjyu Terauchi reported on Nov. 17 that his Boeing 747 cargo jet was shadowed by two belts of light",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "spaceship",
+   "size": "size of two aircraft carriers",
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

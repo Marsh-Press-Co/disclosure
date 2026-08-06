@@ -1,0 +1,39 @@
+{
+ "doc_id": "nara--499915944--ornl-analysis-of-a-metallic-specimen",
+ "file": "nara--499915944--ornl-analysis-of-a-metallic-specimen.md",
+ "source": "NARA-RG615",
+ "agency": "OSD",
+ "title": "ORNL - Analysis of a Metallic Specimen",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is an archival report from the All-Domain Anomaly Resolution Office (AARO) detailing the scientific analysis of a metallic specimen; it contains a physical trace encounter claim which the document concludes is terrestrial.",
+ "encounters": [
+  {
+   "summary": "A metallic specimen, claimed to be recovered from a 1947 UAP crash, was analyzed to determine if it was of non-terrestrial origin or functioned as a terahertz waveguide.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "civilian",
+   "document_stance": "debunked",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "date": "1947",
+   "date_precision": "year",
+   "location_name": "unknown",
+   "page_refs": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "physical_effects": [
+    "heat damage",
+    "mechanical strain"
+   ],
+   "quote": "the material is terrestrial in origin"
+  }
+ ]
+}

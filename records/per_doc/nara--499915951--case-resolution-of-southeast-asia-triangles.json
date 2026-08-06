@@ -1,0 +1,45 @@
+{
+ "doc_id": "nara--499915951--case-resolution-of-southeast-asia-triangles",
+ "file": "nara--499915951--case-resolution-of-southeast-asia-triangles.md",
+ "source": "NARA-RG615",
+ "agency": "OSD",
+ "title": "Case Resolution of 'Southeast Asia Triangles'",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an AARO case resolution report regarding unidentified objects identified as fishing nets in Southeast Asia, with pages 2 and 3 containing only administrative markings.",
+ "incidents": [
+  {
+   "summary": "Six triangular objects observed in Southeast Asia via satellite imagery, initially flagged as potentially anomalous.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "static",
+    "risk to navigation"
+   ],
+   "color": "dark",
+   "country": "unknown",
+   "date": "2017-08-30",
+   "explanation": "Cone-shaped static fishing nets floating on the surface of the ocean.",
+   "explanation_status": "explained",
+   "location_name": "Southeast Asia",
+   "object_count": "6",
+   "page_refs": [
+    1
+   ],
+   "quote": "Six triangular objects in a formation were originally flagged as potentially anomalous",
+   "recording_agency": "AARO",
+   "sensors": [
+    "satellite"
+   ],
+   "shape": "triangular",
+   "size": "11 m x 7m",
+   "witness_types": [
+    "government-civilian"
+   ]
+  }
+ ]
+}

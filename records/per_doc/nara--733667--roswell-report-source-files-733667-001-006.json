@@ -1,0 +1,33 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-006",
+ "file": "nara--733667--roswell-report-source-files-733667-001-006.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-006",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document consists of highly degraded, mostly illegible photocopies of Japan Air Lines flight operations records and related materials, likely pertaining to the JAL 1628 incident.",
+ "incidents": [
+  {
+   "summary": "Japan Air Lines flight 1628 encounter with unidentified objects over Alaska.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "maneuvering",
+    "pacing"
+   ],
+   "recording_agency": "Japan Air Lines",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

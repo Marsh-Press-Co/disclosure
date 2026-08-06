@@ -1,0 +1,108 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-002-002",
+ "file": "nara--733667--roswell-report-source-files-733667-002-002.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-002-002",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of source files and reports regarding UFO sightings, primarily focusing on the JAL 1628 incident and various pilot reports compiled by Phenomena Research.",
+ "encounters": [
+  {
+   "summary": "Japan Airlines flight 1628 crew reported observing two amber lights and a large walnut-shaped object that maneuvered with the aircraft.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1986-11-17",
+   "date_precision": "day",
+   "entity_appearance": "Two amber lights, cylinders with lateral lines of light, walnut-shaped object twice the size of an aircraft carrier.",
+   "entity_behavior": "Hovered, shifted side-to-side, pulsed, moved in formation with the aircraft, circled the plane.",
+   "location_name": "Alaska",
+   "page_refs": [
+    8,
+    9
+   ],
+   "physical_effects": [
+    "radar-track"
+   ],
+   "quote": "The objects, Terauchi believes were not made by human kind."
+  },
+  {
+   "summary": "Pilot of a Cessna reported a torpedo-shaped object passing his aircraft, causing the instrument panel to malfunction.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "USA",
+   "date": "1988-01-27",
+   "date_precision": "day",
+   "entity_appearance": "Torpedo-shaped object, size of a Cessna.",
+   "location_name": "Riverside, California",
+   "page_refs": [
+    12
+   ],
+   "physical_effects": [
+    "instrument-malfunction"
+   ]
+  },
+  {
+   "summary": "Aeroflot airliner crew observed a glowing object that directed a beam of light to the ground and then paced the aircraft.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "USSR",
+   "date": "1988-01",
+   "date_precision": "month",
+   "entity_appearance": "Large glowing object.",
+   "entity_behavior": "Directed a bright ray of light to the ground, positioned itself beside the aircraft.",
+   "location_name": "Near Minsk",
+   "page_refs": [
+    12
+   ]
+  },
+  {
+   "summary": "Pilot and passengers of a small aircraft reported a glowing object that caused the engine to stop and lights to fail.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "USA",
+   "date": "1980-11",
+   "date_precision": "month",
+   "entity_appearance": "Long, pointed on both ends, glowing.",
+   "entity_behavior": "Separated into two parts, glow disappeared, later lunged upward on a highway.",
+   "location_name": "Ozona, Texas",
+   "page_refs": [
+    13
+   ],
+   "physical_effects": [
+    "engine-stall",
+    "electrical-failure"
+   ]
+  },
+  {
+   "summary": "Pilot of a small airplane reported two hamburger-bun-shaped objects circling his aircraft.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "USA",
+   "date": "1980-09-27",
+   "date_precision": "day",
+   "entity_appearance": "Hamburger-bun-shaped, yellow, 10 feet in diameter.",
+   "entity_behavior": "Circled the airplane about 50 times.",
+   "location_name": "Pompano Beach, Florida",
+   "page_refs": [
+    13
+   ]
+  }
+ ]
+}

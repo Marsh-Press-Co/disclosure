@@ -1,0 +1,11 @@
+{
+ "doc_id": "nara--493468580--osd-uap-records-03-2024-dgi-mission-brief",
+ "file": "nara--493468580--osd-uap-records-03-2024-dgi-mission-brief.md",
+ "source": "NARA-RG615",
+ "agency": "OSD",
+ "title": "OSD UAP records - 03_2024_DGI_Mission_Brief",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is an archival mission brief for the All-Domain Anomaly Resolution Office (AARO) describing their operational framework and analytic processes; it contains no specific encounter reports involving entities, contact, or physical traces.",
+ "encounters": []
+}

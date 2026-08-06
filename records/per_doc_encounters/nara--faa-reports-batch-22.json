@@ -1,0 +1,30 @@
+{
+ "doc_id": "nara--faa-reports-batch-22",
+ "file": "nara--faa-reports-batch-22.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 22 (237UAP00589 - 237UAP00613)",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a batch of FAA UAP reports from air traffic control logs; most entries are distant sightings, but one report describes a close-range encounter with a physical object.",
+ "encounters": [
+  {
+   "summary": "Pilot reported a silver, business-jet-sized object less than 1,000 feet above their aircraft.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "2024-02-04",
+   "date_precision": "day",
+   "entity_appearance": "silver, size of a small business jet",
+   "location_name": "110 ESE IAH",
+   "page_refs": [
+    20
+   ],
+   "quote": "silver in color and the size of a small business jet"
+  }
+ ]
+}

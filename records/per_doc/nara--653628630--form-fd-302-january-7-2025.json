@@ -1,0 +1,67 @@
+{
+ "doc_id": "nara--653628630--form-fd-302-january-7-2025",
+ "file": "nara--653628630--form-fd-302-january-7-2025.md",
+ "source": "NARA-RG615",
+ "agency": "FBI",
+ "title": "Form FD-302, January 7, 2025",
+ "record_type": "archival-record",
+ "index_date": "2025",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI Form FD-302 detailing a civilian interview regarding UAP sightings in Rolling Meadows, Illinois; pages 2-13 are blank or contain only headers.",
+ "incidents": [
+  {
+   "summary": "Witness observed a bright glowing light in the sky that shook or streaked before becoming still.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "shake",
+    "streak",
+    "still"
+   ],
+   "color": "bright",
+   "country": "United States",
+   "date": "2024-12-20",
+   "explanation_status": "not-assessed",
+   "location_name": "Rolling Meadows, IL",
+   "page_refs": [
+    1
+   ],
+   "quote": "he saw a bright glowing light in the sky",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "photo",
+    "video"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Witness observed the same bright light again while walking home.",
+   "date_precision": "day",
+   "time_of_day": "dusk",
+   "confidence": "high",
+   "country": "United States",
+   "date": "2024-12-31",
+   "explanation_status": "not-assessed",
+   "location_name": "Rolling Meadows, IL",
+   "page_refs": [
+    1
+   ],
+   "quote": "saw the same bright light again around sunset",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-008",
+ "file": "nara--733667--roswell-report-source-files-733667-001-008.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-008",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a transcript of a 1987 interview conducted by the FAA/USAF with JAL Captain Kenju Terauchi regarding a UAP sighting in Alaska in 1986, as well as two previous sightings.",
+ "incidents": [
+  {
+   "summary": "JAL Captain Kenju Terauchi observed a large 'mothership' while taking off from Taiwan.",
+   "date_precision": "year",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "hovering",
+    "climbing"
+   ],
+   "country": "Taiwan",
+   "date": "1981",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    2
+   ],
+   "quote": "When we start climb we saw left-hand side big mothership",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "mothership",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "JAL Captain Kenju Terauchi observed bright lights in the sky during the daytime at his home.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "hovering",
+    "disappeared suddenly"
+   ],
+   "date": "",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    2
+   ],
+   "quote": "we saw bright lights, I guess maybe ah 10,000 feet",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "JAL flight crew observed two unidentified objects with amber and white lights that paced their aircraft for several minutes before departing to a larger mothership.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "pacing",
+    "formation flight",
+    "jamming",
+    "acceleration"
+   ],
+   "color": "amber and white",
+   "country": "USA",
+   "date": "1986-11-17",
+   "explanation_status": "not-assessed",
+   "location_name": "Alaska",
+   "object_count": "3",
+   "page_refs": [
+    1,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+   ],
+   "quote": "This light was amber and whitish, but, when it came to here it was only amber",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "mothership and small ships",
+   "size": "carrier size",
+   "witness_count": "multiple",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

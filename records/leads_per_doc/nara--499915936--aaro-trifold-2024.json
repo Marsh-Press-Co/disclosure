@@ -1,0 +1,20 @@
+{
+ "doc": "nara--499915936--aaro-trifold-2024.md",
+ "leads": [
+  {
+   "page": 1,
+   "lead_type": "contractor-involvement",
+   "claim": "The document mentions collecting reports from contractor personnel regarding UAP programs.",
+   "strength": "noise",
+   "why": "This is a procedural statement about gathering information and does not claim that any physical material has been recovered or held."
+  },
+  {
+   "page": 2,
+   "lead_type": "debris-material",
+   "claim": "The document lists 'recovery' as a capability for UAP mitigation.",
+   "strength": "noise",
+   "why": "The term 'recovery' is used in a general, programmatic context for future capabilities rather than describing the possession of specific physical material."
+  }
+ ],
+ "doc_verdict": "This document is a programmatic overview of AARO's mission and does not contain any evidence or claims suggesting the government has obtained or held physical UAP material."
+}

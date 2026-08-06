@@ -1,0 +1,40 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-015",
+ "file": "nara--733667--roswell-report-source-files-733667-001-015.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-015",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a transcript of air traffic control communications regarding an unidentified aerial phenomenon encounter involving Japan Airlines Flight 1628.",
+ "encounters": [
+  {
+   "summary": "Japan Airlines Flight 1628 reported visual contact with unidentified traffic at the same altitude, which was also tracked by radar and observed by other aircraft in the vicinity.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1986-11-18",
+   "date_precision": "day",
+   "entity_appearance": "Described as quite big.",
+   "location_name": "Alaska",
+   "page_refs": [
+    2,
+    3,
+    5,
+    8,
+    10,
+    13,
+    16,
+    19,
+    20,
+    21,
+    23
+   ],
+   "quote": "It's ah I think ah very quite big ah plane"
+  }
+ ]
+}

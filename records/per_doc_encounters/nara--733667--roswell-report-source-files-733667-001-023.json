@@ -1,0 +1,11 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-023",
+ "file": "nara--733667--roswell-report-source-files-733667-001-023.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-023",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a technical analysis by the FAA regarding radar data anomalies associated with JAL flight 1628; it contains no reports of close encounters, entities, or physical traces.",
+ "encounters": []
+}

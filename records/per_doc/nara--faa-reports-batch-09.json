@@ -1,0 +1,577 @@
+{
+ "doc_id": "nara--faa-reports-batch-09",
+ "file": "nara--faa-reports-batch-09.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 09 (237UAP00208 - 237UAP00233)",
+ "record_type": "report-batch",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FAA Skywatch incident reports regarding UAP sightings from February to March 2023.",
+ "incidents": [
+  {
+   "summary": "Commercial aircraft reported lights coming and going at or above their altitude.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "lights coming and going"
+   ],
+   "country": "USA",
+   "date": "2023-02-11",
+   "explanation_status": "not-assessed",
+   "location_name": "25 NM south of FSD",
+   "page_refs": [
+    1
+   ],
+   "quote": "The unknown phenomenon was lights coming and going bound at or above their altitude.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported lights coming and going at or above their altitude.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "lights coming and going"
+   ],
+   "country": "USA",
+   "date": "2023-02-11",
+   "explanation_status": "not-assessed",
+   "location_name": "25 NM south of FSD",
+   "page_refs": [
+    2
+   ],
+   "quote": "The unknown phenomenon was lights coming and going bound at or above their altitude.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported lights coming and going at or above their altitude.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "lights coming and going"
+   ],
+   "country": "USA",
+   "date": "2023-02-11",
+   "explanation_status": "not-assessed",
+   "location_name": "25 NM south of FSD",
+   "page_refs": [
+    3
+   ],
+   "quote": "The unknown phenomenon was lights coming and going at or above their altitude.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported lights coming and going at or above their altitude.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "lights coming and going"
+   ],
+   "country": "USA",
+   "date": "2023-02-11",
+   "explanation_status": "not-assessed",
+   "location_name": "25 NM south of FSD",
+   "page_refs": [
+    4
+   ],
+   "quote": "The unknown phenomenon was lights coming and going at or above their altitude.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported an aircraft circling at or above their altitude appearing and disappearing.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "circling",
+    "appearing and disappearing"
+   ],
+   "country": "USA",
+   "date": "2023-02-11",
+   "explanation_status": "partially-explained",
+   "location_name": "Iowa City",
+   "page_refs": [
+    5,
+    6,
+    7
+   ],
+   "quote": "The unknown phenomenon was an aircraft circling at or above their altitude appearing and disappearing.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported lights forming a triangle and merging into one light.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "erratic pattern",
+    "forming triangle",
+    "merging"
+   ],
+   "country": "USA",
+   "date": "2023-02-12",
+   "explanation_status": "unexplained",
+   "location_name": "43NM NW of BTV",
+   "page_refs": [
+    8
+   ],
+   "quote": "3 lights appeared to create a triangle and came together as one light, repeating the process several times.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "triangle",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a string of lights moving SE.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "moving"
+   ],
+   "country": "USA",
+   "date": "2023-02-13",
+   "explanation_status": "explained",
+   "location_name": "Massachusetts",
+   "page_refs": [
+    9
+   ],
+   "quote": "The unknown phenomenon was a string of lights moving SE bound high above.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported lights correlating with a Starlink train.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "moving"
+   ],
+   "country": "USA",
+   "date": "2023-02-13",
+   "explanation_status": "explained",
+   "location_name": "1350 mile NNW of SOK",
+   "page_refs": [
+    10
+   ],
+   "quote": "The unknown phenomenon correlates with a STARLINK train traveling SE bound",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported white flashing lights.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "flashing"
+   ],
+   "country": "USA",
+   "date": "2023-02-14",
+   "explanation_status": "explained",
+   "location_name": "90 NM W of DBS",
+   "page_refs": [
+    11
+   ],
+   "quote": "The unknown phenomenon was white flashing lights.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a balloon-shaped object.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "moving"
+   ],
+   "country": "USA",
+   "date": "2023-02-17",
+   "explanation_status": "unexplained",
+   "location_name": "30 miles E of GRD",
+   "page_refs": [
+    12
+   ],
+   "quote": "The unknown phenomenon was a balloon shaped object moving Eastbound.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "balloon",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported white lights maneuvering.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "maneuvering"
+   ],
+   "country": "USA",
+   "date": "2023-02-18",
+   "explanation_status": "unexplained",
+   "location_name": "30NM S of AMN",
+   "page_refs": [
+    13
+   ],
+   "quote": "The unknown phenomenon was described as white lights maneuvering above FL410.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported white blinking lights.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "blinking"
+   ],
+   "country": "USA",
+   "date": "2023-02-18",
+   "explanation_status": "unexplained",
+   "location_name": "85NM SW of HVQ",
+   "page_refs": [
+    14
+   ],
+   "quote": "The unknown phenomenon was described as white blinking lights with varying intensities",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported fast-moving blinking white lights.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "fast moving",
+    "blinking"
+   ],
+   "country": "USA",
+   "date": "2023-02-18",
+   "explanation_status": "unexplained",
+   "location_name": "50NM W of HVQ",
+   "page_refs": [
+    15
+   ],
+   "quote": "The unknown phenomenon description was fast moving blinking white lights",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a flashing light.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "flashing"
+   ],
+   "country": "USA",
+   "date": "2023-02-19",
+   "explanation_status": "unexplained",
+   "location_name": "15NM W of SOT",
+   "page_refs": [
+    16
+   ],
+   "quote": "Aircraft observed a flashing light off the eleven o'clock",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a round black stationary object.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "stationary"
+   ],
+   "country": "USA",
+   "date": "2023-02-21",
+   "explanation_status": "unexplained",
+   "location_name": "52 NM NW of ENA",
+   "page_refs": [
+    17
+   ],
+   "quote": "The unknown phenomenon was round and black stationary at approximately 16,000+ feet.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported lights in a triangular/linear pattern.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "moving"
+   ],
+   "country": "USA",
+   "date": "2023-02-22",
+   "explanation_status": "explained",
+   "location_name": "BOI",
+   "page_refs": [
+    18
+   ],
+   "quote": "The unknown phenomenon was lights in triangular/linear pattern",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "triangular/linear",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Unidentified primary radar target entered restricted airspace.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "moving"
+   ],
+   "country": "USA",
+   "date": "2023-02-24",
+   "explanation_status": "unexplained",
+   "location_name": "DCA",
+   "page_refs": [
+    19
+   ],
+   "quote": "DCA1: DCA250018, primary target, heading 100 degree, 100 knots.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "radar"
+   ],
+   "witness_types": [
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "Multiple aircraft reported a bright white light.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "moving"
+   ],
+   "country": "USA",
+   "date": "2023-02-28",
+   "explanation_status": "unexplained",
+   "location_name": "63 NM W of LBV",
+   "page_refs": [
+    20
+   ],
+   "quote": "The unknown phenomenon was bright white light travelling high above",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Two reports of UAP, one described as a lighted object the size of a car hovering.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "hovering"
+   ],
+   "country": "USA",
+   "date": "2023-03-02",
+   "explanation_status": "unexplained",
+   "location_name": "Point of Rocks, MD",
+   "page_refs": [
+    21
+   ],
+   "quote": "lighted object the size of a car hovering over their truck.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported flashes.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flashing"
+   ],
+   "country": "USA",
+   "date": "2023-03-02",
+   "explanation_status": "unexplained",
+   "location_name": "73 NM NNE of MCI",
+   "page_refs": [
+    22
+   ],
+   "quote": "The unknown phenomenon was pilot reported flashes that may be space junk",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Police observed a large grey object with white lights stationary for over an hour.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "stationary"
+   ],
+   "country": "USA",
+   "date": "2023-03-02",
+   "explanation_status": "unexplained",
+   "location_name": "Excelsior Springs, MO",
+   "page_refs": [
+    23
+   ],
+   "quote": "The unknown phenomenon was very large and grey with white lights.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported bright white lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "moving"
+   ],
+   "country": "USA",
+   "date": "2023-03-02",
+   "explanation_status": "unexplained",
+   "location_name": "25 NM North of ORD",
+   "page_refs": [
+    24
+   ],
+   "quote": "The unknown phenomenon was described as bright white lights",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple aircraft reported UAP above their position.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "unknown"
+   ],
+   "country": "USA",
+   "date": "2023-03-02",
+   "explanation_status": "unexplained",
+   "location_name": "unknown",
+   "page_refs": [
+    25
+   ],
+   "quote": "Multiple aircraft reported an unidentified aerial phenomenon above their position",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

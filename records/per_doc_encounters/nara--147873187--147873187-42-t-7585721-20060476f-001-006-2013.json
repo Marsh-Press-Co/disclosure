@@ -1,0 +1,50 @@
+{
+ "doc_id": "nara--147873187--147873187-42-t-7585721-20060476f-001-006-2013",
+ "file": "nara--147873187--147873187-42-t-7585721-20060476f-001-006-2013.md",
+ "source": "NARA-RG615",
+ "agency": "National Archives (RG 615)",
+ "title": "147873187 - 42-t-7585721-20060476F-001-006-2013",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a GAO report investigating government records concerning the 1947 Roswell crash, which concludes that the recovered object was likely a Project Mogul balloon.",
+ "encounters": [
+  {
+   "summary": "The 509th Bomb Group and RAAF public information office reported the recovery of a 'flying disc' near Roswell, which was later identified by military officials as a radar-tracking balloon.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "military",
+   "document_stance": "debunked",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1947-07-08",
+   "date_precision": "day",
+   "location_name": "Roswell, New Mexico",
+   "page_refs": [
+    5,
+    6,
+    8,
+    17
+   ],
+   "quote": "The object turned out to be a radar tracking balloon."
+  },
+  {
+   "summary": "An Eighth Air Force official informed the FBI that a hexagonal-shaped disc suspended from a balloon by cable was recovered near Roswell and sent to Wright Field for examination.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "communication_method": "verbal",
+   "country": "USA",
+   "date": "1947-07-08",
+   "date_precision": "day",
+   "location_name": "Roswell, New Mexico",
+   "page_refs": [
+    8,
+    18
+   ],
+   "quote": "The disc is hexagonal in shape, and was suspended from a balloon by cable"
+  }
+ ]
+}

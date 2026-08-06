@@ -1,0 +1,29 @@
+{
+ "doc_id": "nara--faa-reports-batch-06",
+ "file": "nara--faa-reports-batch-06.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 06 (237UAP00132 - 237UAP00157)",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a batch of FAA Skywatch incident reports regarding UAP sightings, most of which describe distant lights or balloons, with one close-approach encounter reported.",
+ "encounters": [
+  {
+   "summary": "A small circular object with flashing white lights appeared 10 feet off the nose of a commercial aircraft before departing.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "date": "2022-12-17",
+   "date_precision": "day",
+   "entity_appearance": "small circular object with flashing white lights",
+   "location_name": "10 NM WNW of LFD",
+   "page_refs": [
+    4
+   ],
+   "quote": "what appeared to be 10 feet off the nose"
+  }
+ ]
+}

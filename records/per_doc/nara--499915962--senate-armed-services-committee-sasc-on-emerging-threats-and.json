@@ -1,0 +1,69 @@
+{
+ "doc_id": "nara--499915962--senate-armed-services-committee-sasc-on-emerging-threats-and",
+ "file": "nara--499915962--senate-armed-services-committee-sasc-on-emerging-threats-and.md",
+ "source": "NARA-RG615",
+ "agency": "OSD",
+ "title": "Senate Armed Services Committee (SASC) on Emerging Threats and Capabilities Briefing Slides 2023",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 3,
+ "doc_notes": "This document consists of briefing slides from the All-Domain Anomaly Resolution Office (AARO) dated April 2023, providing statistical trends and characteristics of UAP reports from 1996-2023 rather than specific incident reports. / This document consists of a single briefing slide from the Senate Armed Services Committee regarding UAP observations in the Middle East. / This document consists of briefing slides from the Senate Armed Services Committee regarding UAP observations, specifically detailing an AARO analysis of an MQ-9 sensor event.",
+ "incidents": [
+  {
+   "summary": "MQ-9 drone observed a spherical UAP in the Middle East.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "consistent with other metallic orb observations"
+   ],
+   "color": "",
+   "country": "",
+   "date": "2022",
+   "duration": "",
+   "explanation": "unresolved",
+   "explanation_status": "unexplained",
+   "location_name": "Middle East",
+   "object_count": "1",
+   "page_refs": [
+    3
+   ],
+   "quote": "MQ-9 observed apparent spherical UAP via electro-optical sensors",
+   "recording_agency": "AARO",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "spherical",
+   "size": "",
+   "time_local": "",
+   "witness_count": "",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "MQ-9 observed UAP object in South Asia with a potentially-anomalous atmospheric wake.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "tailed by potentially-anomalous atmospheric wake"
+   ],
+   "country": "South Asia",
+   "date": "2023",
+   "explanation": "Likely resolved as commercial airliner and video-compression artifact.",
+   "explanation_status": "explained",
+   "page_refs": [
+    4
+   ],
+   "quote": "MQ-9 observed UAP object apparently tailed by potentially-anomalous atmospheric wake",
+   "recording_agency": "AARO",
+   "sensors": [
+    "ir",
+    "video"
+   ]
+  }
+ ]
+}

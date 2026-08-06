@@ -1,0 +1,595 @@
+{
+ "doc_id": "nara--faa-reports-batch-18",
+ "file": "nara--faa-reports-batch-18.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 18 (237UAP00483 - 237UAP00508)",
+ "record_type": "report-batch",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FAA reports regarding UAP sightings by commercial and military pilots between February and April 2023.",
+ "incidents": [
+  {
+   "summary": "UPS598 reported seeing afterburners making lateral movements from above.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "lateral movements"
+   ],
+   "country": "USA",
+   "date": "2023-02-22",
+   "explanation_status": "unexplained",
+   "location_name": "Provo, UT",
+   "page_refs": [
+    1
+   ],
+   "quote": "REPORTED SEEING AFTERBURNERS MAKING LATERAL MOVEMENTS FROM ABOVE",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "USAF BLOOD01 reported a sensor and visual hit on an object.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-02-27",
+   "explanation_status": "unexplained",
+   "location_name": "Glendale, AZ",
+   "page_refs": [
+    2
+   ],
+   "quote": "REPORTED A SENSOR AND VISUAL HIT ON AN OBJECT",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "N4200K reported a very bright light passing off the left wing.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "color": "bright",
+   "country": "USA",
+   "date": "2023-02-27",
+   "explanation_status": "unexplained",
+   "location_name": "La Belle, FL",
+   "page_refs": [
+    3
+   ],
+   "quote": "REPORTED VERY BRIGHT LIGHT PASS OFF LEFT WING",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "AAL2640 captured video of a UAP previously reported by N4200K.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-02-27",
+   "explanation_status": "unexplained",
+   "location_name": "Gulf of Mexico",
+   "page_refs": [
+    4
+   ],
+   "quote": "CAPTURED VIDEO OF UAP WHILE NW BOUND",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "video"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "ASA421 reported 2 UAP off the right side of the aircraft.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-02-28",
+   "explanation_status": "unexplained",
+   "location_name": "St Petersburg-Clearwater, FL",
+   "object_count": "2",
+   "page_refs": [
+    5
+   ],
+   "quote": "REPORTED 2 UAP OFF THE RIGHT SIDE",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "RJA264 reported 2 bright white lights.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "color": "bright white",
+   "country": "USA",
+   "date": "2023-03-01",
+   "explanation_status": "unexplained",
+   "location_name": "Chicago, IL",
+   "object_count": "2",
+   "page_refs": [
+    6
+   ],
+   "quote": "REPORTED 2 BRIGHT WHITE LIGHTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "AAL1030 reported a jet pack man 500 feet above the aircraft.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-03-05",
+   "explanation_status": "unexplained",
+   "location_name": "Dallas-Fort Worth, TX",
+   "page_refs": [
+    7
+   ],
+   "quote": "REPORTED A JET PACK MAN 500 FEET ABOVE ACFT",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "N474PE observed a possible UFO with green and blue lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "color": "green and blue",
+   "country": "USA",
+   "date": "2023-03-05",
+   "explanation_status": "unexplained",
+   "location_name": "Reno, NV",
+   "page_refs": [
+    8
+   ],
+   "quote": "OBSERVED A POSSIBLE UFO WITH GREEN AND BLUE LIGHTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "USAF SWROD2 observed a UAP while southbound.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-03-08",
+   "explanation_status": "unexplained",
+   "location_name": "Luke AFB, AZ",
+   "page_refs": [
+    9
+   ],
+   "quote": "OBSERVED A UAP WHILE SOUTHBOUND",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "TN479AK reported an unidentified illuminated aerial phenomenon.",
+   "date_precision": "day",
+   "time_of_day": "dusk",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-03-08",
+   "explanation_status": "unexplained",
+   "location_name": "Pedro Bay, AK",
+   "page_refs": [
+    10
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED ILLUMINATED AERIAL PHENOMENON",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "OAE 573 reported stationary pulsating lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "stationary",
+    "pulsating"
+   ],
+   "country": "USA",
+   "date": "2023-03-10",
+   "explanation_status": "unexplained",
+   "location_name": "Nantucket, MA",
+   "page_refs": [
+    11
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON OF STATIONARY PULSATING LIGHTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "VIR156T reported 3 lights with various brightness/intensity.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-03-10",
+   "explanation_status": "unexplained",
+   "location_name": "Fort Dodge, IA",
+   "object_count": "3",
+   "page_refs": [
+    12
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON OF 3 LIGHTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "AAL421 reported a shiny white object with amber hue lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "color": "shiny white, amber",
+   "country": "USA",
+   "date": "2023-03-14",
+   "explanation_status": "unexplained",
+   "location_name": "Nashville, TN",
+   "page_refs": [
+    13
+   ],
+   "quote": "REPORTED SHINY WHITE OBJECT WITH AMBER HUE LIGHTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "SWA1307 reported flashing lights above the aircraft.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flashing"
+   ],
+   "country": "USA",
+   "date": "2023-03-22",
+   "explanation_status": "unexplained",
+   "location_name": "Lawrenceville, VA",
+   "page_refs": [
+    14
+   ],
+   "quote": "DESCRIBED AS FLASHING LIGHTS ABOVE THEM",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "FFT101 reported intermittent white lights moving laterally.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "moving 20 degrees left and right"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2023-04-08",
+   "explanation_status": "unexplained",
+   "location_name": "Dublin, GA",
+   "page_refs": [
+    15
+   ],
+   "quote": "REPORTED INTERMITTENT WHITE LIGHTS MOVING 20 DEGREES LEFT AND RIGHT",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "TSC611 observed red and white lights orbiting.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "orbiting"
+   ],
+   "color": "red and white",
+   "country": "USA",
+   "date": "2023-04-10",
+   "explanation_status": "unexplained",
+   "location_name": "East Hampton, NY",
+   "page_refs": [
+    16
+   ],
+   "quote": "OBSERVED RED AND WHITE LIGHTS ORBITING",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "SWG383 observed red and white lights orbiting.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "orbiting"
+   ],
+   "color": "red and white",
+   "country": "USA",
+   "date": "2023-04-10",
+   "explanation_status": "unexplained",
+   "location_name": "East Hampton, NY",
+   "page_refs": [
+    17
+   ],
+   "quote": "OBSERVED RED AND WHITE LIGHTS ORBITING",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "UPS49 reported a bright white light; event consistent with Skylink satellites.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "color": "bright white",
+   "country": "USA",
+   "date": "2023-04-10",
+   "explanation_status": "explained",
+   "location_name": "Saint Paul Island, AK",
+   "page_refs": [
+    18
+   ],
+   "quote": "EVENT CONSISTENT WITH SKYLINK SATELLITES TRAVELING OVER VCNTY ALASKA",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "FFT1024 reported two or three white blooming lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "color": "white",
+   "country": "USA",
+   "date": "2023-04-14",
+   "explanation_status": "unexplained",
+   "location_name": "Macon, GA",
+   "object_count": "2-3",
+   "page_refs": [
+    19
+   ],
+   "quote": "DESCRIBED AS TWO OR THREE WHITE BLOOMING LIGHTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "SWG615 reported 3 lights flashing on and off above a thunderstorm.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flashing on and off"
+   ],
+   "country": "USA",
+   "date": "2023-04-15",
+   "explanation_status": "unexplained",
+   "location_name": "Savannah, GA",
+   "object_count": "3",
+   "page_refs": [
+    20
+   ],
+   "quote": "PHENOMENON WAS 3 LIGHTS FLASHING ON AND OFF",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "ACA1091 reported 3 to 5 flashing lights well above flight level.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flashing"
+   ],
+   "country": "USA",
+   "date": "2023-04-16",
+   "explanation_status": "unexplained",
+   "location_name": "Elkins, WV",
+   "object_count": "3-5",
+   "page_refs": [
+    21
+   ],
+   "quote": "PHENOMENON WAS 3 TO 5 FLASHING LIGHTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "FFT1164 reported two intermittent flashing lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flashing"
+   ],
+   "country": "USA",
+   "date": "2023-04-17",
+   "explanation_status": "unexplained",
+   "location_name": "Southern Pines, NC",
+   "object_count": "2",
+   "page_refs": [
+    22
+   ],
+   "quote": "PHENOMENON WAS TWO INTERMITTENT FLASHING LIGHTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "DAL1508 reported 4-5 red and white lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "color": "red and white",
+   "country": "USA",
+   "date": "2023-04-18",
+   "explanation_status": "unexplained",
+   "location_name": "Lufkin, TX",
+   "object_count": "4-5",
+   "page_refs": [
+    23
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON WITH 4-5 RED AND WHITE LIGHTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "BYA584 reported 2 glowing and pulsing orbs that disappeared.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "glowing",
+    "pulsing",
+    "disappeared"
+   ],
+   "country": "USA",
+   "date": "2023-04-19",
+   "explanation_status": "unexplained",
+   "location_name": "Texarkana, AR",
+   "object_count": "2",
+   "page_refs": [
+    24
+   ],
+   "quote": "PHENOMENON WAS 2 GLOWING AND PULSING ORBS THAT QUICKLY DISAPPEARED",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "N781CW reported a white unidentified aerial phenomenon.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "color": "white",
+   "country": "USA",
+   "date": "2023-04-22",
+   "explanation_status": "unexplained",
+   "location_name": "Fort Stockton, TX",
+   "page_refs": [
+    25
+   ],
+   "quote": "REPORTED A WHITE UNIDENTIFIED AERIAL PHENOMENON",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

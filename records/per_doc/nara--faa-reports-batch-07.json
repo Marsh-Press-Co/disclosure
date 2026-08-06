@@ -1,0 +1,65 @@
+{
+ "doc_id": "nara--faa-reports-batch-07",
+ "file": "nara--faa-reports-batch-07.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 07 (237UAP00158 - 237UAP00182)",
+ "record_type": "report-batch",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FAA Skywatch incident reports from February 3, 2023, documenting multiple sightings of a large balloon by various commercial and general aviation aircraft.",
+ "incidents": [
+  {
+   "summary": "Commercial and general aviation aircraft reported a large balloon at high altitude.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "stationary"
+   ],
+   "country": "USA",
+   "date": "2023-02-03",
+   "explanation_status": "not-assessed",
+   "location_name": "Near BQS",
+   "object_count": "1",
+   "page_refs": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+   ],
+   "quote": "Aircraft reported a large balloon",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "balloon",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

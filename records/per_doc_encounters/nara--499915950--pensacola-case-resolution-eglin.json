@@ -1,0 +1,33 @@
+{
+ "doc_id": "nara--499915950--pensacola-case-resolution-eglin",
+ "file": "nara--499915950--pensacola-case-resolution-eglin.md",
+ "source": "NARA-RG615",
+ "agency": "OSD",
+ "title": "Pensacola Case Resolution (Eglin)",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is an AARO case resolution report regarding a military pilot's encounter with an object, which the agency concludes was a lighter-than-air balloon.",
+ "encounters": [
+  {
+   "summary": "A military pilot reported a rounded, cone-shaped object while operating in a training range, describing it as having a paneled surface, orange-red coloring, and a potential engine, while experiencing a radar malfunction during the approach.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "debunked",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "United States",
+   "date": "2023-01-26",
+   "date_precision": "day",
+   "location_name": "Eglin Air Force Base training range, Florida",
+   "page_refs": [
+    1,
+    2
+   ],
+   "physical_effects": [
+    "radar malfunction"
+   ],
+   "quote": "The pilot visually perceived a heat signature emanating from the rounded bottom portion, which they described as blurry air."
+  }
+ ]
+}

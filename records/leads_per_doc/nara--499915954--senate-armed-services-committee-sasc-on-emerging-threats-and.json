@@ -1,0 +1,22 @@
+{
+ "doc": "nara--499915954--senate-armed-services-committee-sasc-on-emerging-threats-and.md",
+ "leads": [
+  {
+   "page": 48,
+   "lead_type": "contractor-involvement",
+   "claim": "An audience member claims to have video evidence of UAP flying over Sandia Labs and Kirtland Air Force Base.",
+   "strength": "noise",
+   "why": "The claim refers to aerial sightings only and contains no assertion of physical material recovery or custody.",
+   "quote": "three different examples of glowing dots flying in circles or going over Sandia Labs"
+  },
+  {
+   "page": 49,
+   "lead_type": "contractor-involvement",
+   "claim": "A speaker suggests that engineers from Lockheed Martin and Raytheon should be allowed to speak about UAP-related secrecy.",
+   "strength": "noise",
+   "why": "This is a general call for transparency regarding contractors without alleging the possession of physical material.",
+   "quote": "pull up engineers out of Lockheed Martin, Raytheon, and allow them the freedom to speak"
+  }
+ ],
+ "doc_verdict": "This document contains no evidence or credible suggestions that the government or its contractors have obtained, held, or analyzed physical UAP material; it is a transcript of a Senate hearing focused on administrative oversight, sensor data, and public testimony regarding sightings."
+}

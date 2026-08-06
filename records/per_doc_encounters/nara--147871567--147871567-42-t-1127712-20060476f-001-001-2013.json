@@ -1,0 +1,48 @@
+{
+ "doc_id": "nara--147871567--147871567-42-t-1127712-20060476f-001-001-2013",
+ "file": "nara--147871567--147871567-42-t-1127712-20060476f-001-001-2013.md",
+ "source": "NARA-RG615",
+ "agency": "National Archives (RG 615)",
+ "title": "147871567 - 42-t-1127712-20060476F-001-001-2013",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of correspondence and articles regarding the Roswell incident and the International Roswell Initiative's petition for government openness, which concludes that the 1947 event involved a radar reflector rather than an extraterrestrial craft.",
+ "encounters": [
+  {
+   "summary": "Major Jesse Marcel, Sr. recovered debris from a ranch near Roswell, which he and others later claimed was of extraterrestrial origin, though the document identifies it as debris from an ML-307 radar reflector.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "military",
+   "document_stance": "debunked",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1947-07",
+   "date_precision": "month",
+   "entity_appearance": "",
+   "entity_behavior": "",
+   "entity_clothing": "",
+   "entity_count": "",
+   "entity_height": "",
+   "location_name": "Foster Ranch, Roswell, New Mexico",
+   "page_refs": [
+    10,
+    12,
+    14,
+    16,
+    18,
+    26,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37
+   ],
+   "physical_effects": [
+    "debris recovery"
+   ],
+   "quote": "It involved the recovery by the U.S. Military of material alleged to be of extraterrestrial origin."
+  }
+ ]
+}

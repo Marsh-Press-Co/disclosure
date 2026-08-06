@@ -1,0 +1,29 @@
+{
+ "doc_id": "nara--12130682--ford-press-releases-jan-apr-1966-12130682",
+ "file": "nara--12130682--ford-press-releases-jan-apr-1966-12130682.md",
+ "source": "NARA-RG615",
+ "agency": "White House (Ford)",
+ "title": "Ford press releases Jan-Apr 1966 - 12130682",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of press releases from Congressman Gerald R. Ford, which includes his correspondence and public statements regarding UFO sightings and his calls for a congressional investigation.",
+ "encounters": [
+  {
+   "summary": "A UPI report from Ann Arbor, Michigan, stated that at least 40 persons, including 12 policemen, claimed to have seen a strange flying object guarded by four sister ships land in a swamp.",
+   "encounter_type": "landing",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "United States",
+   "date": "1966-03-20",
+   "date_precision": "day",
+   "entity_count": "5",
+   "location_name": "Ann Arbor, Michigan",
+   "page_refs": [
+    29
+   ]
+  }
+ ]
+}

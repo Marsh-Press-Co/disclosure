@@ -1,0 +1,34 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-002-003",
+ "file": "nara--733667--roswell-report-source-files-733667-002-003.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-002-003",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of archival correspondence and internal FAA records regarding public requests for information on the JAL Flight 1628 UFO sighting; it contains a summary of the encounter.",
+ "encounters": [
+  {
+   "summary": "JAL Flight 1628 pilot Captain Kenjyu Terauchi reported his Boeing 747 cargo jet was shadowed by two belts of light and a massive spaceship the size of two aircraft carriers while crossing into Alaska airspace.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1986-11-17",
+   "date_precision": "day",
+   "entity_appearance": "two belts of light and a huge spaceship the size of two aircraft carriers",
+   "entity_behavior": "shadowed the aircraft for approximately 50 minutes",
+   "location_name": "Alaska airspace",
+   "page_refs": [
+    38
+   ],
+   "physical_effects": [
+    "radar contact"
+   ],
+   "quote": "Terauchi also reported seeing a third aircraft, a huge spaceship that he said was the size of two aircraft carriers."
+  }
+ ]
+}

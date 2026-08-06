@@ -1,0 +1,542 @@
+{
+ "doc_id": "nara--faa-reports-batch-20",
+ "file": "nara--faa-reports-batch-20.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 20 (237UAP00535 - 237UAP00560)",
+ "record_type": "report-batch",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FAA reports regarding UAP sightings by commercial and private aircraft between August and October 2023.",
+ "incidents": [
+  {
+   "summary": "FedEx 52 reported UAP activity 2,000 feet above their 12 o'clock position over the Atlantic Ocean.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-08-07",
+   "explanation_status": "not-assessed",
+   "location_name": "Atlantic Oceanic Airspace",
+   "page_refs": [
+    1
+   ],
+   "quote": "REPORTED UAP ACTIVITY 2,000 FEET ABOVE THEIR 12 O'CLOCK POSITION",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "JetBlue 1348 reported UAP activity 6,000 feet above their 12 o'clock position over the Atlantic Ocean.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-08-07",
+   "explanation_status": "not-assessed",
+   "location_name": "Atlantic Oceanic Airspace",
+   "page_refs": [
+    2
+   ],
+   "quote": "REPORTED UAP ACTIVITY 6,000 FEET ABOVE THEIR 12 O'CLOCK POSITION",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "TACA 580 reported an unidentified aerial phenomenon with white flashing lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-08-11",
+   "explanation_status": "not-assessed",
+   "location_name": "Raleigh/Durham, NC",
+   "page_refs": [
+    3
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON WITH WHITE FLASHING LIGHTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Sun Country 8727 observed an unidentified aerial phenomenon from the right side of the aircraft.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-08-12",
+   "explanation_status": "not-assessed",
+   "location_name": "Florence, SC",
+   "page_refs": [
+    4
+   ],
+   "quote": "OBSERVED AN UNIDENTIFIED AERIAL PHENOMENON FROM THE RIGHT SIDE",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "American 1397 and Birmingham ATCT reported two bright lights above the aircraft.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-08-16",
+   "explanation_status": "not-assessed",
+   "location_name": "Birmingham, AL",
+   "page_refs": [
+    5
+   ],
+   "quote": "OBSERVED TWO BRIGHT LIGHTS ABOVE ACFT",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian",
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "N414CY and Birmingham ATCT reported multiple colored lights flying between Birmingham and Huntsville.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-08-17",
+   "explanation_status": "not-assessed",
+   "location_name": "Huntsville, AL",
+   "page_refs": [
+    6
+   ],
+   "quote": "REPORTED SEEING MULTIPLE COLORED LIGHTS FLYING BETWEEN BIRMINGHAM AND HUNTSVILLE",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian",
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "Spirit 797 reported a black and white object the size of a small aircraft.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-08-21",
+   "explanation_status": "not-assessed",
+   "location_name": "Picayune, MS",
+   "page_refs": [
+    7
+   ],
+   "quote": "BLACK AND WHITE OBJECT THE SIZE OF A SMALL ACFT",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "United 369 and other aircraft reported 2-4 white lights with a green hue moving in a circular motion.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-08-25",
+   "explanation_status": "not-assessed",
+   "location_name": "Denver, CO",
+   "page_refs": [
+    8
+   ],
+   "quote": "REPORTED 2-4 UNIDENTIFIED AERIAL PHENOMENON'S OF WHITE LIGHTS WITH GREEN HUE",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Berry 651 and JBU358 reported dim-bright white lights moving in circles and up-down patterns.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-08-25",
+   "explanation_status": "not-assessed",
+   "location_name": "Little Rock, AR",
+   "page_refs": [
+    9
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON OF DIM-BRIGHT WHITE LIGHTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple aircraft observed flying white objects, presumed to be Starlink satellites.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-08-26",
+   "explanation_status": "explained",
+   "location_name": "El Paso, TX",
+   "page_refs": [
+    10
+   ],
+   "quote": "OBSERVED FLYING WHITE OBJECTS... PRESUMED TO BE STARLINK SATELLITES",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "UPS 917 reported 3 white lights orbiting and moving vertically and horizontally.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-08-27",
+   "explanation_status": "not-assessed",
+   "location_name": "Las Vegas, NV",
+   "page_refs": [
+    11
+   ],
+   "quote": "REPORTED 3 WHITE LIGHTS ORBITING",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "N224LD reported an unorganized group of white lights moving erratically.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-08-28",
+   "explanation_status": "not-assessed",
+   "location_name": "Florence, SC",
+   "page_refs": [
+    12
+   ],
+   "quote": "UNORGANIZED GROUP OF WHITE LIGHTS MOVING ERRATICALLY",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "JetBlue 1990 reported an unidentified aerial phenomenon.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-08-28",
+   "explanation_status": "not-assessed",
+   "location_name": "Yardley, PA",
+   "page_refs": [
+    13
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "United 665 reported an unidentified aerial phenomenon.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-08-28",
+   "explanation_status": "not-assessed",
+   "location_name": "Yardley, PA",
+   "page_refs": [
+    14
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "United 1560 reported a large white unidentified aerial phenomenon.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-08-28",
+   "explanation_status": "not-assessed",
+   "location_name": "Philadelphia, PA",
+   "page_refs": [
+    15
+   ],
+   "quote": "REPORTED A LARGE WHITE UNIDENTIFIED AERIAL PHENOMENON",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "N715JP reported a silver UAP 500 feet below the aircraft.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-08-31",
+   "explanation_status": "not-assessed",
+   "location_name": "Patuxent River, MD",
+   "page_refs": [
+    16
+   ],
+   "quote": "REPORTED A SILVER UAP 500 FEET BELOW THE ACFT",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Delta 574 reported an unidentified aerial phenomenon.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-09-05",
+   "explanation_status": "not-assessed",
+   "location_name": "Atlanta, GA",
+   "page_refs": [
+    17
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "American 577 reported lights coming from unidentified objects.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-09-15",
+   "explanation_status": "not-assessed",
+   "location_name": "Liberal, KS",
+   "page_refs": [
+    18
+   ],
+   "quote": "THE UAP WAS DESCRIBED AS LIGHTS COMING FROM UNIDENTIFIED OBJECTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "American 662 reported lights coming from unidentified objects.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-09-15",
+   "explanation_status": "not-assessed",
+   "location_name": "Liberal, KS",
+   "page_refs": [
+    19
+   ],
+   "quote": "THE UAP WAS DESCRIBED AS LIGHTS COMING FROM UNIDENTIFIED OBJECTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Air Transport Intl 3443 reported a metallic object.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-09-19",
+   "explanation_status": "not-assessed",
+   "location_name": "Louisville, KY",
+   "page_refs": [
+    20
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON OF A METALLIC OBJECT",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "JetBlue 811 and other flights reported multiple lights orbiting.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-09-25",
+   "explanation_status": "not-assessed",
+   "location_name": "Rome, NY",
+   "page_refs": [
+    21
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON OF MULTIPLE LIGHTS ORBITING",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "United 980 reported bright lights orbiting at high altitude.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-09-26",
+   "explanation_status": "not-assessed",
+   "location_name": "Boston, MA",
+   "page_refs": [
+    22
+   ],
+   "quote": "THE UNKNOWN PHENOMENON WAS BRIGHT LIGHTS ORBITING",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "United 2710 reported three bright white lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-09-27",
+   "explanation_status": "not-assessed",
+   "location_name": "Scottsbluff, NE",
+   "page_refs": [
+    23
+   ],
+   "quote": "REPORTED THREE BRIGHT WHITE LIGHTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "United 476 reported three stationary bright white lights blinking.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-10-04",
+   "explanation_status": "not-assessed",
+   "location_name": "Scottsbluff, NE",
+   "page_refs": [
+    24
+   ],
+   "quote": "THREE STATIONARY BRIGHT WHITE LIGHTS BLINKING",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Delta 2279 reported three stationary bright white lights blinking.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-10-04",
+   "explanation_status": "not-assessed",
+   "location_name": "Scottsbluff, NE",
+   "page_refs": [
+    25
+   ],
+   "quote": "THREE STATIONARY BRIGHT WHITE LIGHTS BLINKING",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

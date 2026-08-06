@@ -1,0 +1,30 @@
+{
+ "doc_id": "nara--faa-reports-batch-02",
+ "file": "nara--faa-reports-batch-02.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 02 (237UAP00030 - 237UAP00055)",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a batch of FAA Skywatch incident reports, most of which describe distant sightings or radar anomalies, with one report of a close-approach encounter.",
+ "encounters": [
+  {
+   "summary": "Pilot reported a red orb with black markings passing within 200 feet laterally and 30 feet above the aircraft.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "2021-04-19",
+   "date_precision": "day",
+   "entity_appearance": "red orb with black markings",
+   "location_name": "CVG360015",
+   "page_refs": [
+    18
+   ],
+   "quote": "passed within very close proximity to the ACFT"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "doc_id": "nara--40027753--project-blue-book-ufo-sightings-archive-40027753",
+ "file": "nara--40027753--project-blue-book-ufo-sightings-archive-40027753.md",
+ "source": "NARA-RG615",
+ "agency": "USAF",
+ "title": "Project Blue Book UFO sightings archive - 40027753",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an archival record of Project Blue Book, containing administrative information, statistical data, and various photographs of alleged UFO sightings, most of which are treated as identified phenomena or hoaxes.",
+ "encounters": [
+  {
+   "summary": "A series of photographs showing a disc-shaped object over the Washington D.C. skyline, including the U.S. Capitol building.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "civilian",
+   "document_stance": "dismissed",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "location_name": "Washington, D.C.",
+   "page_refs": [
+    47,
+    52,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    73
+   ],
+   "quote": "Charles J. Smith Dec 27. 1954"
+  },
+  {
+   "summary": "Radar screen display showing multiple signal returns tracked on June 18, 1953.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "location_name": "Unknown",
+   "page_refs": [
+    57,
+    58,
+    71,
+    72
+   ],
+   "physical_effects": [
+    "radar returns"
+   ],
+   "quote": "Case file 2605, dated June 18, 1953, includes this view of a radar screen"
+  }
+ ]
+}

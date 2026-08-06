@@ -1,0 +1,13 @@
+{
+ "doc": "nara--12237637--ford-broadcasts-1965-1966-12237637.md",
+ "leads": [
+  {
+   "page": 73,
+   "lead_type": "biological",
+   "claim": "The text mentions 'bodies' in the context of the United Nations and political organizations.",
+   "strength": "noise",
+   "why": "The term 'bodies' is used in a purely metaphorical, administrative sense referring to organizations, not biological entities."
+  }
+ ],
+ "doc_verdict": "The document contains no information regarding UAP-related material or biological matter; the term 'bodies' refers exclusively to political organizations."
+}

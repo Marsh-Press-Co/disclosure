@@ -1,0 +1,62 @@
+{
+ "doc_id": "nara--499915943--aaro-presentation-for-nasa-study-public-meeting-5-31-23",
+ "file": "nara--499915943--aaro-presentation-for-nasa-study-public-meeting-5-31-23.md",
+ "source": "NARA-RG615",
+ "agency": "OSD",
+ "title": "AARO Presentation for NASA Study Public Meeting 5.31.23",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an AARO presentation for a NASA study public meeting held on May 31, 2023, detailing UAP reporting trends, characteristics, and case studies.",
+ "incidents": [
+  {
+   "summary": "MQ-9 observed a spherical UAP in the Middle East.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "consistent with metallic orb observations"
+   ],
+   "country": "Middle East",
+   "date": "2022",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    3
+   ],
+   "quote": "MQ-9 observed apparent spherical UAP via electro-optical sensors",
+   "recording_agency": "AARO",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "spherical"
+  },
+  {
+   "summary": "P-3 aircraft observed several equidistant UAP in the Western United States that it was unable to intercept.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "high velocity"
+   ],
+   "country": "United States",
+   "explanation": "Analyses of air-traffic control data suggest objects likely commercial aircraft transiting known flight paths.",
+   "explanation_status": "explained",
+   "location_name": "Western United States",
+   "object_count": "3",
+   "page_refs": [
+    4
+   ],
+   "quote": "P-3 on training mission observed several equidistant UAP that it was unable to intercept",
+   "recording_agency": "AARO",
+   "sensors": [
+    "visual",
+    "other"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

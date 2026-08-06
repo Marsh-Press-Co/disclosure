@@ -1,0 +1,44 @@
+{
+ "doc_id": "nara--faa-reports-batch-17",
+ "file": "nara--faa-reports-batch-17.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 17 (237UAP00455 - 237UAP00482)",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a batch of FAA UAP reports; it contains two reports of close-approach encounters involving specific object descriptions rather than just lights.",
+ "encounters": [
+  {
+   "summary": "Pilot reported a UAP above FL600 flying in an erratic pattern; three lights formed a triangle and merged into one, repeating the process.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "USA",
+   "date": "2023-02-12",
+   "date_precision": "day",
+   "location_name": "Burlington, VT",
+   "page_refs": [
+    12
+   ],
+   "quote": "3 lights appeared to create a triangle and come together as one light"
+  },
+  {
+   "summary": "Pilot reported a round black object that was stationary at approximately 16,000 feet.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "USA",
+   "date": "2023-02-20",
+   "date_precision": "day",
+   "location_name": "Kenai, AK",
+   "page_refs": [
+    23
+   ],
+   "quote": "round black object that was stationary"
+  }
+ ]
+}

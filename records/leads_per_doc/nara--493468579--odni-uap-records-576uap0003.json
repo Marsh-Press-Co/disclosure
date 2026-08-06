@@ -1,0 +1,13 @@
+{
+ "doc": "nara--493468579--odni-uap-records-576uap0003.md",
+ "leads": [
+  {
+   "page": 5,
+   "lead_type": "debris-material",
+   "claim": "Airborne debris such as plastic bags are identified as common clutter that affects the identification of targets.",
+   "strength": "noise",
+   "why": "The document refers to common environmental debris like plastic bags, not UAP-related material."
+  }
+ ],
+ "doc_verdict": "The document does not contain any evidence or suggestions of obtained UAP material; it merely lists common airborne clutter."
+}

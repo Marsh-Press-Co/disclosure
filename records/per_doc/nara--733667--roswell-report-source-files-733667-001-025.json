@@ -1,0 +1,46 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-025",
+ "file": "nara--733667--roswell-report-source-files-733667-001-025.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-025",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document consists of FAA internal routing slips and an alert report regarding the JAL 1628 UFO sighting, containing some illegible handwritten notes on pages 3, 4, and 6.",
+ "incidents": [
+  {
+   "summary": "JAL flight 1628 reported observing unidentified lighted air traffic in close proximity while en route to Tokyo.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "close proximity",
+    "continued with aircraft",
+    "left in eastern direction"
+   ],
+   "color": "yellow, amber, green",
+   "date": "1986-11-17",
+   "explanation_status": "unexplained",
+   "object_count": "1",
+   "page_refs": [
+    1,
+    2,
+    5
+   ],
+   "quote": "JAL #1628 Cargo, B747, FL350 enroute to Tokyo via Reykjavik, Iceland, and Anchorage, reported observing lighted air traffic, in close proximity.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "size": "equal to B747",
+   "time_local": "18:19",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

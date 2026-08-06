@@ -1,0 +1,30 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-002",
+ "file": "nara--733667--roswell-report-source-files-733667-001-002.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-002",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an archival record of FAA source files regarding the Japan Airlines Flight 1628 sighting, which contains detailed encounter reports and interview transcripts.",
+ "encounters": [
+  {
+   "summary": "Japan Airlines Flight 1628 reported unidentified traffic at their altitude for approximately 34 minutes while en route to Anchorage, Alaska.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1986-11-18",
+   "date_precision": "day",
+   "location_name": "Alaska",
+   "page_refs": [
+    2,
+    3
+   ],
+   "quote": "The unidentified traffic was later reported visible on JAL 1628's weather radar and intermittently by Anchorage Center"
+  }
+ ]
+}

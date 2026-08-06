@@ -1,0 +1,11 @@
+{
+ "doc_id": "nara--493468580--osd-uap-records-015-2023-uap-mission-backgrounder-paper",
+ "file": "nara--493468580--osd-uap-records-015-2023-uap-mission-backgrounder-paper.md",
+ "source": "NARA-RG615",
+ "agency": "OSD",
+ "title": "OSD UAP records - 015_2023_UAP_Mission_Backgrounder_Paper",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is an AARO backgrounder paper regarding the mission and organizational structure of the office, and it contains no specific encounter reports.",
+ "encounters": []
+}

@@ -1,0 +1,51 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-005",
+ "file": "nara--733667--roswell-report-source-files-733667-001-005.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-005",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document consists of FAA investigative reports and interview notes regarding the Japan Airlines Flight 1628 UAP sighting, including handwritten sketches on the final pages.",
+ "incidents": [
+  {
+   "summary": "Japan Airlines Flight 1628 crew reported observing unidentified air traffic with yellow, amber, and green lights that paced their aircraft for approximately 50 minutes.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "paced aircraft",
+    "erratic movement",
+    "changed position from front to port side",
+    "lights changed from horizontal to vertical orientation"
+   ],
+   "color": "yellow, amber, green",
+   "country": "United States",
+   "date": "1986-11-17",
+   "duration": "approx 50 minutes",
+   "explanation_status": "unexplained",
+   "location_name": "Alaska, near Talkeetna and Fairbanks",
+   "object_count": "1",
+   "page_refs": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "quote": "Captain Terauchi stated the UAT was in front of his aircraft at a distance of approximately seven to eight nautical miles",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "size": "B747 or larger",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

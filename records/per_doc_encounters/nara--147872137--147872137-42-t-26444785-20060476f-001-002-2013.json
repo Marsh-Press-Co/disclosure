@@ -1,0 +1,70 @@
+{
+ "doc_id": "nara--147872137--147872137-42-t-26444785-20060476f-001-002-2013",
+ "file": "nara--147872137--147872137-42-t-26444785-20060476f-001-002-2013.md",
+ "source": "NARA-RG615",
+ "agency": "National Archives (RG 615)",
+ "title": "147872137 - 42-t-26444785-20060476F-001-002-2013",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of emails and attachments regarding UFO-related claims, including the Roswell incident, astronaut sightings, and government conspiracy theories, which the government records without endorsement.",
+ "encounters": [
+  {
+   "summary": "Mortician Glenn Dennis reported being contacted by a base mortuary officer regarding bodies of non-human entities, and later meeting a nurse who described the bodies.",
+   "encounter_type": "occupant-report",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "entity_appearance": "noses didn't protrude, eyes set deep, ears were little indentations, upper arm longer than lower, four tentacles instead of thumbs",
+   "location_name": "Roswell Army Air Field",
+   "page_refs": [
+    2,
+    3
+   ],
+   "quote": "Their noses didn't protrude, the eyes were set pretty deep, and the ears were just little indentations"
+  },
+  {
+   "summary": "Milton William Cooper claims to have witnessed a massive saucer-shaped craft emerge from the water and return to it while serving on the USS Tyroot.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "location_name": "Pacific Ocean",
+   "page_refs": [
+    9,
+    10
+   ],
+   "quote": "I saw a craft, saucer-shaped, the size of a Midway class carrier"
+  },
+  {
+   "summary": "Astronaut Gordon Cooper reported a glowing, greenish object approaching his capsule, which was tracked by radar.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "location_name": "Space",
+   "page_refs": [
+    4
+   ],
+   "quote": "reported a glowing, greenish object quickly approaching the capsule"
+  },
+  {
+   "summary": "Report of a triangular object following a car and an orange light causing tremors near a house in Michigan.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "location_name": "Tuscola County, Michigan",
+   "page_refs": [
+    4
+   ],
+   "physical_effects": [
+    "tremors"
+   ],
+   "quote": "triangular shaped object following her car"
+  }
+ ]
+}

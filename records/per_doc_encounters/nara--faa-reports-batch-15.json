@@ -1,0 +1,24 @@
+{
+ "doc_id": "nara--faa-reports-batch-15",
+ "file": "nara--faa-reports-batch-15.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 15 (237UAP00362 - 237UAP00388)",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FAA UAP incident reports; most entries are distant sightings, but one report describes a stationary boomerang-shaped object observed by facility staff.",
+ "encounters": [
+  {
+   "summary": "Facility observed a stationary boomerang-shaped object 4 NM SW of SWF for 50 minutes.",
+   "encounter_type": "close-approach",
+   "claimant_type": "government-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "location_name": "SWF",
+   "page_refs": [
+    11
+   ]
+  }
+ ]
+}

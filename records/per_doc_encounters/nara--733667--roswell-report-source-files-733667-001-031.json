@@ -1,0 +1,60 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-031",
+ "file": "nara--733667--roswell-report-source-files-733667-001-031.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-031",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FAA records, press releases, and media logs regarding the JAL 1628 UFO sighting incident, confirming the presence of encounter reports.",
+ "encounters": [
+  {
+   "summary": "JAL Flight 1628 crew reported being paced by unidentified objects with white and yellow strobe lights for approximately 50 miles over Alaska.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1986-11-17",
+   "date_precision": "day",
+   "entity_appearance": "Two small brightly lit objects and one enormous object described as twice the size of an aircraft carrier.",
+   "entity_behavior": "Paced the aircraft, changed altitude, and moved from front to side/rear of the flight.",
+   "location_name": "Alaska",
+   "page_refs": [
+    11,
+    14,
+    30,
+    31,
+    32,
+    34,
+    35,
+    36
+   ],
+   "physical_effects": [
+    "radar return",
+    "radio static"
+   ],
+   "quote": "The unknown aircraft accompanied the JAL flight for about 50 miles"
+  },
+  {
+   "summary": "Captain Terauchi reported a second sighting of irregular lights while flying over Alaska.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "investigated",
+   "confidence": "medium",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1987-01-11",
+   "date_precision": "day",
+   "entity_appearance": "Flashing amber and white lights.",
+   "entity_behavior": "Approached from the front, went underneath the aircraft, and reappeared behind it.",
+   "location_name": "Alaska",
+   "page_refs": [
+    11,
+    37
+   ],
+   "quote": "irregular lights, looks like a spaceship"
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "doc_id": "nara--147873191--147873191-42-t-7585721-20060533f-001-001-2013",
+ "file": "nara--147873191--147873191-42-t-7585721-20060533f-001-001-2013.md",
+ "source": "NARA-RG615",
+ "agency": "National Archives (RG 615)",
+ "title": "147873191 - 42-t-7585721-20060533F-001-001-2013",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document consists of two news wire reports discussing UFO-related folklore and disappearances in Colorado and Arizona; encounter content is present.",
+ "encounters": [
+  {
+   "summary": "Travis Walton claimed to have been abducted by aliens in 1975 and held for five days before being dropped off near a telephone booth.",
+   "encounter_type": "claimed-abduction",
+   "claimant_type": "contactee-figure",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "country": "USA",
+   "date": "1975",
+   "date_precision": "year",
+   "location_name": "Mogollon Rim, Arizona",
+   "page_refs": [
+    4,
+    5
+   ],
+   "quote": "hauled poor 01' Travis Walton away from the pine woods of the Mogollon Rim for five days."
+  },
+  {
+   "summary": "Devin Williams disappeared after erratic behavior and claiming 'they made me do it' following a potential UFO-related incident near the Mogollon Rim.",
+   "encounter_type": "claimed-abduction",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_content": "They made me do it.",
+   "communication_method": "verbal",
+   "country": "USA",
+   "date": "1995",
+   "date_precision": "year",
+   "location_name": "Winslow, Arizona",
+   "page_refs": [
+    4,
+    5
+   ],
+   "physical_effects": [
+    "engine stall"
+   ],
+   "quote": "He said, 'They made me do it.'"
+  }
+ ]
+}

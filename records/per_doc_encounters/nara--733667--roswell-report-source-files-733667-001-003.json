@@ -1,0 +1,39 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-003",
+ "file": "nara--733667--roswell-report-source-files-733667-001-003.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-003",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FAA source files and correspondence regarding the investigation of the JAL 1628 UFO incident, confirming the presence of encounter reports.",
+ "encounters": [
+  {
+   "summary": "JAL Flight 1628 pilot Captain Kenju Terauchi reported observing unidentified lights and a giant walnut-shaped craft while flying over Alaska, which he claimed paced his aircraft.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1986-11-17",
+   "date_precision": "day",
+   "entity_appearance": "giant walnut-shaped craft, amber-white lights",
+   "entity_behavior": "paced the aircraft, stopped in front of the cockpit, undulating lights",
+   "location_name": "Alaska",
+   "page_refs": [
+    2,
+    3,
+    32,
+    33
+   ],
+   "physical_effects": [
+    "cockpit illumination",
+    "pilot felt warmth on face",
+    "radar echo",
+    "VHF radio static"
+   ],
+   "quote": "two spaceships stopped in front of our face, shooting off lights"
+  }
+ ]
+}

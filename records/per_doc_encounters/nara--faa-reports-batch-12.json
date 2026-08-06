@@ -1,0 +1,46 @@
+{
+ "doc_id": "nara--faa-reports-batch-12",
+ "file": "nara--faa-reports-batch-12.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 12 (237UAP00286 - 237UAP00310)",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FAA Skywatch incident reports regarding UAP sightings; most entries are distant light sightings, but two reports describe specific physical objects at close range.",
+ "encounters": [
+  {
+   "summary": "Pilot reported a round, black and white oblong object approximately the size of an Embraer E-145 aircraft traveling at FL360-370.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "2023-08-21",
+   "date_precision": "day",
+   "entity_appearance": "round, black and white oblong object",
+   "location_name": "11NM SW of PCU",
+   "page_refs": [
+    5
+   ],
+   "quote": "round, black and white oblong object approximately the size of an Embraer E-145 aircraft"
+  },
+  {
+   "summary": "Pilot reported a silver, softball-sized object moving W/SW while descending through FL180.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "2023-10-19",
+   "date_precision": "day",
+   "entity_appearance": "silver, size of a softball",
+   "location_name": "inbound to ACK",
+   "page_refs": [
+    21
+   ],
+   "quote": "silver and the size of a softball"
+  }
+ ]
+}

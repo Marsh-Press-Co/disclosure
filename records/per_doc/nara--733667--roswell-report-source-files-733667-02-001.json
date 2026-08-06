@@ -1,0 +1,147 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-02-001",
+ "file": "nara--733667--roswell-report-source-files-733667-02-001.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-02-001",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of news clippings and FAA reports regarding the JAL Flight 1628 UFO incident in Alaska, including investigative follow-ups and skeptical analysis.",
+ "incidents": [
+  {
+   "summary": "Japan Air Lines Flight 1628 crew reported being followed by two small lights and a massive walnut-shaped object over Alaska.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "hovered",
+    "pulsed",
+    "followed in formation",
+    "abrupt bursts of speed"
+   ],
+   "color": "amber, white, yellow, green",
+   "country": "USA",
+   "date": "1986-11-17",
+   "duration": "50 minutes",
+   "explanation": "FAA concluded radar blips were split-image echoes of the aircraft; skeptics suggested Jupiter and Mars.",
+   "explanation_status": "explained",
+   "location_name": "Alaska",
+   "object_count": "3",
+   "page_refs": [
+    1,
+    2,
+    3,
+    7,
+    8,
+    9,
+    11,
+    12,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    21,
+    22,
+    23,
+    24,
+    27,
+    28,
+    29,
+    34,
+    35,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50
+   ],
+   "quote": "It was like a dream. Unbelievable.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "walnut-shaped, cylinder, globe",
+   "size": "twice the size of an aircraft carrier",
+   "time_local": "18:19",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Capt. Terauchi reported a second sighting of irregular lights while flying cargo over Alaska.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "medium",
+   "behavior": [
+    "approached from front",
+    "went underneath aircraft",
+    "reappeared behind"
+   ],
+   "color": "amber, white",
+   "country": "USA",
+   "date": "1987-01-11",
+   "duration": "30 minutes",
+   "explanation": "FAA officials speculated it was a bounce light effect from village lights reflected off ice crystals.",
+   "explanation_status": "explained",
+   "location_name": "Alaska",
+   "object_count": "unknown",
+   "page_refs": [
+    3,
+    8,
+    10,
+    43,
+    44
+   ],
+   "quote": "Irregular lights, looks like a space ship.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "size": "unknown",
+   "time_local": "07:30",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Alaska Airlines pilots reported a target on weather radar near McGrath.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "behavior": [
+    "moved off radar screen"
+   ],
+   "country": "USA",
+   "date": "",
+   "explanation_status": "not-assessed",
+   "location_name": "McGrath, Alaska",
+   "page_refs": [
+    34,
+    35
+   ],
+   "recording_agency": "FAA",
+   "sensors": [
+    "radar"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

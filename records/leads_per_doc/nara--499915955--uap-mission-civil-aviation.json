@@ -1,0 +1,14 @@
+{
+ "doc": "nara--499915955--uap-mission-civil-aviation.md",
+ "leads": [
+  {
+   "page": 5,
+   "lead_type": "craft-custody",
+   "claim": "The document mentions the need for capabilities for UAP recovery.",
+   "strength": "noise",
+   "why": "The mention of recovery is part of a generic strategic framework for UAP operations and does not describe a specific instance of material recovery or custody.",
+   "quote": "capabilities for optimized, cross- functional UAP detection, tracking, mitigation, and recovery"
+  }
+ ],
+ "doc_verdict": "The document does not contain any evidence or specific claims regarding the actual possession or analysis of physical UAP material."
+}

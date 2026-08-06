@@ -1,0 +1,32 @@
+{
+ "doc_id": "nara--4526519--ford-library-weekly-radio-reports-1966-4526519",
+ "file": "nara--4526519--ford-library-weekly-radio-reports-1966-4526519.md",
+ "source": "NARA-RG615",
+ "agency": "White House (Ford)",
+ "title": "Ford Library weekly radio reports 1966 - 4526519",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of weekly radio scripts by Congressman Jerry Ford, containing one section where he discusses public interest and constituent letters regarding UFOs.",
+ "encounters": [
+  {
+   "summary": "Congressman Jerry Ford reports receiving over 50 letters from constituents regarding his proposal for a congressional investigation into UFOs, including some far-out claims about planet people and harassment of the Air Force.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "communication_method": "written",
+   "country": "United States",
+   "date": "1966",
+   "date_precision": "year",
+   "entity_appearance": "planet people",
+   "entity_behavior": "harassing the Air Force and NASA",
+   "location_name": "Michigan and various U.S. locations",
+   "page_refs": [
+    32,
+    33
+   ],
+   "quote": "The SI's (Saucer Intelligences) are now going to teach the Air Force a lesson it will never forget."
+  }
+ ]
+}

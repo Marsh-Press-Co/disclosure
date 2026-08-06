@@ -1,0 +1,167 @@
+{
+ "doc_id": "nara--147872137--147872137-42-t-26444785-20060476f-001-002-2013",
+ "file": "nara--147872137--147872137-42-t-26444785-20060476f-001-002-2013.md",
+ "source": "NARA-RG615",
+ "agency": "National Archives (RG 615)",
+ "title": "147872137 - 42-t-26444785-20060476F-001-002-2013",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of emails and attachments from the Clinton Presidential Records regarding UFO/UAP inquiries, specifically focusing on the Roswell incident and Milton William Cooper's claims.",
+ "incidents": [
+  {
+   "summary": "Crash of an unidentified object near Roswell, New Mexico.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "crashed"
+   ],
+   "country": "USA",
+   "date": "1947-07-02",
+   "explanation": "Air Force balloon used in Project Mogul; later reports of bodies attributed to parachute test dummies.",
+   "explanation_status": "explained",
+   "location_name": "Roswell, New Mexico",
+   "page_refs": [
+    3,
+    4,
+    7,
+    11,
+    12,
+    20,
+    21,
+    22,
+    28,
+    29,
+    31,
+    35,
+    36,
+    37,
+    38,
+    47,
+    48,
+    49
+   ],
+   "quote": "something crashed just outside of Roswell New Mexico",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "flying saucer",
+   "witness_types": [
+    "military-other",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Observation of a large craft emerging from the water near a submarine.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "tumbled on its own axis",
+    "entered and left the water"
+   ],
+   "country": "USA",
+   "date": "1950",
+   "explanation": "unexplained",
+   "explanation_status": "unexplained",
+   "location_name": "Pacific Ocean",
+   "object_count": "1",
+   "page_refs": [
+    9,
+    10
+   ],
+   "quote": "I saw a craft, saucer-shaped, the size of a Midway class carrier",
+   "recording_agency": "US Navy",
+   "sensors": [
+    "visual",
+    "photo"
+   ],
+   "shape": "saucer",
+   "size": "Midway class carrier",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "UFO sightings by astronauts during Apollo 11 mission.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "surveillance"
+   ],
+   "country": "Moon",
+   "date": "1969-07-21",
+   "explanation": "unexplained",
+   "explanation_status": "unexplained",
+   "location_name": "Moon",
+   "page_refs": [
+    4
+   ],
+   "quote": "These Babies are huge, Sir! Enormous!",
+   "recording_agency": "NASA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "astronaut"
+   ]
+  },
+  {
+   "summary": "Triangular object following a car.",
+   "date_precision": "year",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "following car"
+   ],
+   "country": "USA",
+   "date": "1993",
+   "explanation": "not-assessed",
+   "explanation_status": "not-assessed",
+   "location_name": "Michigan",
+   "page_refs": [
+    4
+   ],
+   "quote": "triangular shaped object following her car",
+   "recording_agency": "MUFON",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "triangular",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Orange light causing tremors near a house.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "caused tremors"
+   ],
+   "color": "orange",
+   "country": "USA",
+   "date": "1993",
+   "explanation": "not-assessed",
+   "explanation_status": "not-assessed",
+   "location_name": "Michigan",
+   "page_refs": [
+    4
+   ],
+   "quote": "orange colored light which when it approached a house caused tremors",
+   "recording_agency": "MUFON",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-002-007",
+ "file": "nara--733667--roswell-report-source-files-733667-002-007.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-002-007",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of correspondence and FOIA requests sent to the FAA regarding the Japan Air Lines Flight 1628 UFO incident, including internal FAA memoranda and responses.",
+ "incidents": [
+  {
+   "summary": "Japan Air Lines Flight 1628 encounter with unidentified air traffic.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "uncorrelated radar signals",
+    "light belts"
+   ],
+   "country": "USA",
+   "date": "1986-11-17",
+   "explanation_status": "not-assessed",
+   "location_name": "Alaska",
+   "page_refs": [
+    5,
+    8,
+    9,
+    11,
+    12,
+    15,
+    27,
+    30,
+    31,
+    32,
+    35,
+    41,
+    42,
+    54,
+    55,
+    56,
+    57,
+    65,
+    66,
+    67,
+    68,
+    70,
+    72,
+    73,
+    75,
+    76,
+    84
+   ],
+   "quote": "sighting of unidentified air traffic by Japan Air Lines Flight 1628",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_types": [
+    "military-pilot",
+    "civilian"
+   ]
+  }
+ ]
+}

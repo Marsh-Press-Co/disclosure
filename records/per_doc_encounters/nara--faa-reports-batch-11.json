@@ -1,0 +1,69 @@
+{
+ "doc_id": "nara--faa-reports-batch-11",
+ "file": "nara--faa-reports-batch-11.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 11 (237UAP00261 - 237UAP00285)",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a batch of FAA Skywatch incident reports; it contains three reports of close-range encounters with objects, while the remainder are distant light sightings.",
+ "encounters": [
+  {
+   "summary": "A ground observer reported a stationary bright light with a low sphere shape and surrounding lights near TRK airport for 30 minutes.",
+   "encounter_type": "occupant-report",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "date": "2023-05-25",
+   "date_precision": "day",
+   "entity_appearance": "bright light with a low sphere shape and lights surrounding it",
+   "entity_behavior": "stationary",
+   "location_name": "TRK airport",
+   "page_refs": [
+    5
+   ],
+   "quote": "ground observation of a very bright light with a low sphere shape"
+  },
+  {
+   "summary": "A pilot reported a near miss with a white cylindrical object the size of three bowling balls at FL 190.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "date": "2023-05-29",
+   "date_precision": "day",
+   "entity_appearance": "white cylindrical shape, approximately size of three bowling balls",
+   "entity_behavior": "traveling E bound",
+   "location_name": "10 NM S of JFK",
+   "page_refs": [
+    6
+   ],
+   "physical_effects": [
+    "near miss"
+   ],
+   "quote": "white cylindrical shape, approximately size of three bowling balls"
+  },
+  {
+   "summary": "A pilot reported a brown, stationary object the size of a Volkswagen 200 feet below their aircraft.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "date": "2023-07-09",
+   "date_precision": "day",
+   "entity_appearance": "brown, stationary object the size of a Volkswagon",
+   "entity_behavior": "stationary",
+   "location_name": "OVHD ALB",
+   "page_refs": [
+    12
+   ],
+   "quote": "brown, stationary object the size of a Volkswagon"
+  }
+ ]
+}

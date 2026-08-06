@@ -1,0 +1,64 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-007",
+ "file": "nara--733667--roswell-report-source-files-733667-001-007.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-007",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a translated personal statement by Captain Kenju Terauchi regarding the JAL Flight 1628 UAP encounter, received by the FAA in 1987.",
+ "incidents": [
+  {
+   "summary": "Japan Airlines Flight 1628 encountered two smaller unidentified craft and a large mother ship over Alaska.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "formation flight",
+    "sudden appearance",
+    "maneuvering like bear cubs",
+    "interfering with radio communication",
+    "following aircraft",
+    "sudden disappearance"
+   ],
+   "color": "pale white",
+   "country": "USA",
+   "date": "1986-11-17",
+   "duration": "50 minutes",
+   "explanation": "The document provides a personal account of the sighting without offering a formal government explanation.",
+   "explanation_status": "unexplained",
+   "location_name": "Alaska, near Ft. Yukon and Talkeetna",
+   "object_count": "3",
+   "page_refs": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "quote": "two spaceships stopped in front of our face, shooting off lights",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "square",
+   "size": "size of a DC-8 jet",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

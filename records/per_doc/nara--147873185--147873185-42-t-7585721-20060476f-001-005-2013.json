@@ -1,0 +1,31 @@
+{
+ "doc_id": "nara--147873185--147873185-42-t-7585721-20060476f-001-005-2013",
+ "file": "nara--147873185--147873185-42-t-7585721-20060476f-001-005-2013.md",
+ "source": "NARA-RG615",
+ "agency": "National Archives (RG 615)",
+ "title": "147873185 - 42-t-7585721-20060476F-001-005-2013",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of email drafts and final transcripts of President Bill Clinton's remarks during his November 1995 visit to Belfast, Northern Ireland, which includes a humorous reference to the 1947 Roswell incident.",
+ "incidents": [
+  {
+   "summary": "President Clinton addresses a letter from a 13-year-old boy named Ryan asking about the 1947 Roswell incident.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    7,
+    11,
+    16,
+    27,
+    42
+   ],
+   "quote": "No, an alien spacecraft did not crash in Roswell, New Mexico in 1947.",
+   "recording_agency": "The White House"
+  }
+ ]
+}

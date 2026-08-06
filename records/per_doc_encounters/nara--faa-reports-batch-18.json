@@ -1,0 +1,25 @@
+{
+ "doc_id": "nara--faa-reports-batch-18",
+ "file": "nara--faa-reports-batch-18.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 18 (237UAP00483 - 237UAP00508)",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a batch of FAA UAP reports, most of which describe distant light sightings, with one report of a jet pack man sighting.",
+ "encounters": [
+  {
+   "summary": "Pilot reported a jet pack man 500 feet above aircraft while on short final to runway.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "entity_appearance": "jet pack man",
+   "entity_height": "unknown",
+   "page_refs": [
+    7
+   ]
+  }
+ ]
+}

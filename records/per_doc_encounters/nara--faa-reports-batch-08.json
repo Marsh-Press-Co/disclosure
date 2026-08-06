@@ -1,0 +1,137 @@
+{
+ "doc_id": "nara--faa-reports-batch-08",
+ "file": "nara--faa-reports-batch-08.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 08 (237UAP00183 - 237UAP00207)",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FAA UAP incident reports, most of which describe balloons or satellite trains, though some entries describe unidentified lights with anomalous behavior.",
+ "encounters": [
+  {
+   "summary": "Aircraft reported an unidentified aerial phenomenon above them with lights appearing to maneuver at FL400 or above.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "date": "2023-02-03",
+   "date_precision": "day",
+   "entity_appearance": "lights",
+   "entity_behavior": "maneuvering",
+   "page_refs": [
+    14
+   ]
+  },
+  {
+   "summary": "Aircraft reported an unidentified aerial phenomenon above them with lights that was orbiting.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "date": "2023-02-04",
+   "date_precision": "day",
+   "entity_appearance": "lights",
+   "entity_behavior": "orbiting",
+   "page_refs": [
+    16
+   ]
+  },
+  {
+   "summary": "Aircraft reported multi-colored flashing lights leaving a contrail/wake; another aircraft suggested satellite reflections.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "date": "2023-02-04",
+   "date_precision": "day",
+   "entity_appearance": "multi-colored flashing lights",
+   "entity_behavior": "leaving a contrail/wake",
+   "page_refs": [
+    17
+   ]
+  },
+  {
+   "summary": "Aircraft reported approximately 10 lights at high altitude moving in multiple directions before fading out.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "date": "2023-02-05",
+   "date_precision": "day",
+   "entity_appearance": "approximately 10 lights",
+   "entity_behavior": "moving in multiple directions",
+   "page_refs": [
+    18
+   ]
+  },
+  {
+   "summary": "Aircraft reported multiple bright lights at high altitude changing directions.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "date": "2023-02-07",
+   "date_precision": "day",
+   "entity_appearance": "multiple bright lights",
+   "entity_behavior": "changing directions",
+   "page_refs": [
+    20
+   ]
+  },
+  {
+   "summary": "Multiple aircraft reported bright flashing lights; correlated to a Starlink satellite train.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "civilian",
+   "document_stance": "debunked",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "date": "2023-02-07",
+   "date_precision": "day",
+   "entity_appearance": "bright flashing lights",
+   "page_refs": [
+    21
+   ]
+  },
+  {
+   "summary": "Aircraft reported 3 bright flashing objects; correlated to a Starlink satellite train.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "civilian",
+   "document_stance": "debunked",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "date": "2023-02-07",
+   "date_precision": "day",
+   "entity_appearance": "3 bright flashing objects",
+   "page_refs": [
+    22
+   ]
+  },
+  {
+   "summary": "Aircraft reported red and white lights traveling at FL280.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "date": "2023-02-10",
+   "date_precision": "day",
+   "entity_appearance": "red and white lights",
+   "page_refs": [
+    25
+   ]
+  }
+ ]
+}

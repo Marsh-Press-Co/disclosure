@@ -1,0 +1,29 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-002-004",
+ "file": "nara--733667--roswell-report-source-files-733667-002-004.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-002-004",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of archival correspondence and requests for information regarding a 1986 Japan Airlines UFO sighting, and it contains a summary of the reported encounter.",
+ "encounters": [
+  {
+   "summary": "Japan Airlines flight crew reported being shadowed by two belts of lights and a massive object the size of two aircraft carriers while flying over Alaska.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1986-11-17",
+   "date_precision": "day",
+   "entity_appearance": "two belts of lights and a huge spaceship the size of two aircraft carriers",
+   "location_name": "Alaska airspace",
+   "page_refs": [
+    17
+   ]
+  }
+ ]
+}

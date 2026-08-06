@@ -1,0 +1,37 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-004",
+ "file": "nara--733667--roswell-report-source-files-733667-001-004.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-004",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document consists of handwritten inspection and surveillance records regarding a Japan Air Lines flight crew's report of unidentified objects, featuring significant illegible handwriting and minimal context.",
+ "incidents": [
+  {
+   "summary": "Japan Air Lines flight crew reported sighting unidentified objects while in flight.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "maneuvering",
+    "following"
+   ],
+   "country": "unknown",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "quote": "J.A.L. flight crew had seen the objects",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

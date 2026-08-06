@@ -1,0 +1,576 @@
+{
+ "doc_id": "nara--faa-reports-batch-01",
+ "file": "nara--faa-reports-batch-01.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 01 (237UAP00001 - 237UAP00026)",
+ "record_type": "report-batch",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FAA Skywatch incident reports regarding UAP sightings, primarily reported by civilian pilots.",
+ "incidents": [
+  {
+   "summary": "12 aircraft reported a UFO between FL340 and 400 in the Hayden CO area.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "tracking the aircraft"
+   ],
+   "country": "USA",
+   "date": "2007-02-20",
+   "explanation_status": "unexplained",
+   "location_name": "Hayden, CO",
+   "page_refs": [
+    1
+   ],
+   "quote": "ZDV reports at least 12 aircraft are reporting a UFO",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot",
+    "civilian"
+   ]
+  },
+  {
+   "summary": "UFO reported by two aircraft off the Maverick VOR.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2007-05-13",
+   "explanation_status": "unexplained",
+   "location_name": "Maverick VOR",
+   "page_refs": [
+    2
+   ],
+   "quote": "UFO reported at 1629 and 1632 by AAL576",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Pilot reported a bright white light following his flight.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "following flight",
+    "not moving"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2007-08-31",
+   "explanation_status": "unexplained",
+   "location_name": "DRYER VOR",
+   "page_refs": [
+    3
+   ],
+   "quote": "PICobserved a bright white light that is notmovingbutisfollowinghisflight",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Pilot observed an unidentified white object passing in the opposite direction.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "color": "white",
+   "country": "USA",
+   "date": "2007-10-19",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    4
+   ],
+   "quote": "unidentified object white in color passedabovein opposite direction",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Pilot reported a bright light that moves rapidly then is stationary.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "moves rapidly",
+    "stationary"
+   ],
+   "country": "USA",
+   "date": "2007-12-11",
+   "explanation_status": "partially-explained",
+   "location_name": "ELY",
+   "page_refs": [
+    5
+   ],
+   "quote": "bright light that moves rapidly then is stationary",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Pilot reported a red unmanned aircraft passed underneath his aircraft.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "passed underneath"
+   ],
+   "color": "red",
+   "country": "USA",
+   "date": "2008-08-23",
+   "explanation_status": "unexplained",
+   "location_name": "BWI",
+   "page_refs": [
+    7
+   ],
+   "quote": "Pilot reported a red unmanned aircraft passed underneath his aircraft",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Aircraft encountered a UFO resembling a very large kite.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2009-04-23",
+   "explanation_status": "unexplained",
+   "location_name": "IAH",
+   "page_refs": [
+    8
+   ],
+   "quote": "encountereda UFO which resembles a very large kite",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "kite",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Several reports of unidentified lights above FL400.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "medium",
+   "country": "USA",
+   "date": "2009-09-10",
+   "explanation_status": "unexplained",
+   "location_name": "St. Louis, MO",
+   "page_refs": [
+    9
+   ],
+   "quote": "Several reports of UFO (unidentifiedlightsabove FL400) sightings",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Helium balloon made to resemble a UFO caused a public incident.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "airborne"
+   ],
+   "country": "USA",
+   "date": "2009-10-16",
+   "explanation_status": "explained",
+   "location_name": "Denver, CO",
+   "page_refs": [
+    10
+   ],
+   "quote": "helium filled balloonthat he had made to resemble a UFO",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "balloon",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Report of a possible UFO from a civilian.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "low",
+   "country": "USA",
+   "date": "2010-09-07",
+   "explanation_status": "not-assessed",
+   "location_name": "CHS",
+   "page_refs": [
+    11
+   ],
+   "quote": "Received a report from CHS of a possible UFO",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple aircraft reported two fast moving targets with very bright lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "fast moving"
+   ],
+   "country": "USA",
+   "date": "2010-11-17",
+   "explanation_status": "unexplained",
+   "location_name": "AMG",
+   "page_refs": [
+    12
+   ],
+   "quote": "two fast moving targets very bright light",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Pilot observed a UFO matching his speed, direction, and altitude.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "matching speed",
+    "matching altitude"
+   ],
+   "country": "USA",
+   "date": "2010-12-24",
+   "explanation_status": "unexplained",
+   "location_name": "WINK VOR",
+   "page_refs": [
+    13
+   ],
+   "quote": "observed a UFO that had been matching his speed direction and altitude",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Pilot reported small luminous bright objects above at FL340.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2011-01-26",
+   "explanation_status": "unexplained",
+   "location_name": "FWA",
+   "page_refs": [
+    14
+   ],
+   "quote": "pilot reported small luminous bright objects above at FL340",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Two aircraft reported seeing a UFO ten miles south of Elizabeth City, NC.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2012-01-13",
+   "explanation_status": "unexplained",
+   "location_name": "Elizabeth City, NC",
+   "page_refs": [
+    15
+   ],
+   "quote": "FIV546 and WJA2668 atFL400 reported seeing a UFO",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "UFO reported heading north at 50,000 feet.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "heading north"
+   ],
+   "country": "USA",
+   "date": "2012-08-07",
+   "explanation_status": "unexplained",
+   "location_name": "Flagstaff, AZ",
+   "page_refs": [
+    16
+   ],
+   "quote": "UFO heading north about 50,000",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Pilot reported a circular, silver UFO.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "color": "silver",
+   "country": "USA",
+   "date": "2012-08-19",
+   "explanation_status": "unexplained",
+   "location_name": "GAI",
+   "page_refs": [
+    17
+   ],
+   "quote": "circular shape, silver color",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "circular",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Rocket/UFO brake light observed going up.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "going up"
+   ],
+   "country": "USA",
+   "date": "2013-08-28",
+   "explanation_status": "unexplained",
+   "location_name": "Kessel, WV",
+   "page_refs": [
+    18
+   ],
+   "quote": "rocket/UFO brake light observed going up",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Pilot reported a UFO contrail and something shiny.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "contrail"
+   ],
+   "country": "USA",
+   "date": "2014-08-10",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    19
+   ],
+   "quote": "PIC reported a UFO CONTRAIL and something shiny",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Aircraft reported a strobe light flashing every 30 seconds.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "flashing"
+   ],
+   "country": "USA",
+   "date": "2014-12-15",
+   "explanation_status": "partially-explained",
+   "location_name": "Parkersburg",
+   "page_refs": [
+    20
+   ],
+   "quote": "Aircraft reported observing a strobe light 20NM W Parkersburg",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Aircraft reported 5 or 6 UFOs.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2015-01-15",
+   "explanation_status": "unexplained",
+   "object_count": "5-6",
+   "page_refs": [
+    21
+   ],
+   "quote": "ACFT reported 5 or 6 UFOs at 28,500",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple aircraft reported a bright light traveling at an excessive rate of speed.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "excessive rate of speed"
+   ],
+   "country": "USA",
+   "date": "2015-05-17",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    22
+   ],
+   "quote": "reported a bright light above them traveling at an excessive rate of speed",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Two aircraft reported an illuminated object traveling at a high rate of speed.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "high rate of speed"
+   ],
+   "country": "USA",
+   "date": "2015-07-24",
+   "explanation_status": "unexplained",
+   "location_name": "SWL VORTAC",
+   "page_refs": [
+    23
+   ],
+   "quote": "Object was reportedly illuminated and traveling at a high rate of speed",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Caller reported seeing two small, low, and stationary UFOs.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "stationary"
+   ],
+   "country": "USA",
+   "date": "2015-10-23",
+   "explanation_status": "unexplained",
+   "location_name": "Baltimore, MD",
+   "object_count": "2",
+   "page_refs": [
+    24
+   ],
+   "quote": "Caller stated the UFOs were small,low,and stationary",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Pilot observed a fast moving UFO 500 feet above aircraft.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "fast moving"
+   ],
+   "country": "USA",
+   "date": "2016-01-02",
+   "explanation_status": "unexplained",
+   "location_name": "FLO",
+   "page_refs": [
+    25
+   ],
+   "quote": "PIC observed a fast moving UFO at FL370 500 feet above ACFT",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

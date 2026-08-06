@@ -1,0 +1,575 @@
+{
+ "doc_id": "nara--faa-reports-batch-16",
+ "file": "nara--faa-reports-batch-16.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 16 (237UAP00389 - 237UAP00454)",
+ "record_type": "report-batch",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FAA reports regarding UAP sightings by commercial and private pilots between 2019 and 2023.",
+ "incidents": [
+  {
+   "summary": "Alaska 428 reported a slow moving UFO with a flashing white light.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "slow moving"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2019-02-09",
+   "location_name": "Chiloquin, OR",
+   "page_refs": [
+    1
+   ],
+   "quote": "REPORTED A SLOW MOVING UFO WITH A FLASHING WHITE LIGHT",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Endeavor 3468 observed a large UAS or UFO at 11,300 feet.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2019-07-13",
+   "location_name": "Robbinsville, NJ",
+   "page_refs": [
+    2
+   ],
+   "quote": "OBSERVED A LARGE UAS OR UFO AT 11,300 FEET",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "N39RC reported a white UFO circling at FL450.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "circling"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2021-04-26",
+   "location_name": "Washington, DC",
+   "page_refs": [
+    3
+   ],
+   "quote": "REPORTED A WHITE UFO FROM THE RIGHT SIDE CIRCLING AT FL450",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "UPS 913 reported a fast moving white torpedo shaped object.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "fast moving"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2021-05-18",
+   "location_name": "Palm Springs, CA",
+   "page_refs": [
+    4
+   ],
+   "quote": "PILOT STATED WHITE TORPEDO SHAPED OBJECT",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "torpedo",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "N499PA observed a UFO with a line of stationary strobe lights.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2022-03-09",
+   "location_name": "Lynchburg, VA",
+   "page_refs": [
+    5
+   ],
+   "quote": "UFO WITH A LINE OF STATIONARY STROBE LIGHTS ABOVE",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Flexjet 359 reported a UFO sighting 10,000 feet above aircraft, causing autopilot issues.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "autopilot interference"
+   ],
+   "country": "USA",
+   "date": "2022-04-21",
+   "location_name": "Kessel, WV",
+   "page_refs": [
+    6
+   ],
+   "quote": "REPORTED UFO SIGHTING 10,000 FEET ABOVE ACFT",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Allegiant 913 reported lights with no contrail at high altitude.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2022-07-17",
+   "location_name": "Greenville, MS",
+   "page_refs": [
+    7
+   ],
+   "quote": "THE UNKNOWN PHENOMENON WAS DESCRIBED AS LIGHTS WITH NO CONTRAIL",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "American 2561 reported a possible UFO sighting above their altitude.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2022-08-07",
+   "location_name": "Little Rock, AR",
+   "page_refs": [
+    8
+   ],
+   "quote": "REPORTED A POSSIBLE UFO SIGHTING ABOVE HIS ALTITUDE",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "N782HG reported 3 lights in a row in geosynchronous orbit.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "geosynchronous orbit"
+   ],
+   "country": "USA",
+   "date": "2022-08-14",
+   "location_name": "Wilmington, NC",
+   "page_refs": [
+    9
+   ],
+   "quote": "THE PILOT DESCRIBED IT AS 3 LIGHTS IN A ROW ABOVE THEM",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "UPS 2897 and JBU 2924 reported UAP at 12 o'clock position.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2022-12-12",
+   "location_name": "Winamac, IN",
+   "page_refs": [
+    10
+   ],
+   "quote": "REPORTED UNIDENTIFIED AERIAL PHENOMENA-UFO FROM THE 12 O'CLOCK POSITION",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "American 276 reported an aerial phenomenon at 12 o'clock.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2022-12-14",
+   "location_name": "St Joseph, MO",
+   "page_refs": [
+    11
+   ],
+   "quote": "REPORTED AN AERIAL PHENOMENON-UFO FROM THE 12 O'CLOCK POSITION",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Delta 722 reported UAP appearing as two aircraft with red and white lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "color": "red and white",
+   "country": "USA",
+   "date": "2023-01-14",
+   "location_name": "Fayetteville, AR",
+   "object_count": "2",
+   "page_refs": [
+    12
+   ],
+   "quote": "UAP APPEARED TO BE TWO ACFT WITH RED AND WHITE LIGHTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Delta 726 reported UAP appearing as two aircraft with red and white lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "color": "red and white",
+   "country": "USA",
+   "date": "2023-01-14",
+   "location_name": "Fayetteville, AR",
+   "object_count": "2",
+   "page_refs": [
+    13
+   ],
+   "quote": "UAP APPEARED TO BE TWO ACFT WITH RED AND WHITE LIGHTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Delta 8934 reported an unidentified aerial phenomenon.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-01-23",
+   "location_name": "St Petersburg-Clearwater, FL",
+   "page_refs": [
+    14
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON FROM THEIR 12 O'CLOCK POSITION",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "N926FM reported a shiny missile shaped object with a smoke trail.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "climbing",
+    "smoke trail"
+   ],
+   "country": "USA",
+   "date": "2023-01-26",
+   "location_name": "Lynchburg, VA",
+   "page_refs": [
+    15
+   ],
+   "quote": "THE UAP WAS DESCRIBED AS A SHINY MISSILE SHAPED OBJECT",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "missile",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "N541Z reported an object descending into cloud cover.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "descending"
+   ],
+   "country": "USA",
+   "date": "2023-01-26",
+   "location_name": "Lynchburg, VA",
+   "page_refs": [
+    16
+   ],
+   "quote": "UAP WAS AN OBJECT TRAVELING SW BOUND DESCENDING INTO CLOUD BASE COVER",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "American 2547 reported 2-3 sets of objects looking like stars turning on and off.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "turning on and off"
+   ],
+   "country": "USA",
+   "date": "2023-01-29",
+   "location_name": "Walnut Ridge, AR",
+   "object_count": "2-3",
+   "page_refs": [
+    17
+   ],
+   "quote": "LOOKING LIKE A STAR TURNING ON AND OFF EVERY MINUTE OR SO",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "American 2399 reported red/green/white lights in formation.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "formation flight",
+    "changing colors"
+   ],
+   "color": "red, green, white",
+   "country": "USA",
+   "date": "2023-02-01",
+   "location_name": "Nashville, TN",
+   "page_refs": [
+    18
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON OF RED/GREEN/WHITE LIGHTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Citizen reported a green object the size of a car falling from the sky.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "medium",
+   "behavior": [
+    "falling"
+   ],
+   "color": "green",
+   "country": "USA",
+   "date": "2023-02-01",
+   "explanation": "Known green meteor",
+   "explanation_status": "explained",
+   "location_name": "Merrill, IA",
+   "page_refs": [
+    19
+   ],
+   "quote": "STATED THEY SAW SOMETHING GREEN THE SIZE OF A CAR FALL FROM THE SKY",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "size": "car",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "FFX1 helicopter reported an unidentified aerial phenomenon.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-02-01",
+   "location_name": "Washington, DC",
+   "page_refs": [
+    20
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON FROM THE LEFT SIDE",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "United 1046 reported bright lights 4,000 feet above.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-02-02",
+   "location_name": "Sioux City, IA",
+   "page_refs": [
+    21
+   ],
+   "quote": "REPORTED BRIGHT LIGHTS 4,000 FEET ABOVE",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "JetBlue 1211 reported multi-colored flashing lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flashing"
+   ],
+   "country": "USA",
+   "date": "2023-02-03",
+   "location_name": "Kansas City, MO",
+   "page_refs": [
+    22
+   ],
+   "quote": "REPORTED MULTI-COLORED FLASHING LIGHTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Southwest 2520 reported multi-colored flashing lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flashing"
+   ],
+   "country": "USA",
+   "date": "2023-02-03",
+   "location_name": "Kansas City, MO",
+   "page_refs": [
+    23
+   ],
+   "quote": "REPORTED MULTI-COLORED FLASHING LIGHTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "United 1580 reported orbiting lights from above.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "orbiting"
+   ],
+   "country": "USA",
+   "date": "2023-02-03",
+   "location_name": "Billings, MT",
+   "page_refs": [
+    24
+   ],
+   "quote": "REPORTED ORBITING LIGHTS FROM ABOVE",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Delta 395 reported approximately 10 lights moving in multiple directions.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "moving in multiple directions"
+   ],
+   "country": "USA",
+   "date": "2023-02-05",
+   "location_name": "Jackson, MS",
+   "object_count": "10",
+   "page_refs": [
+    25
+   ],
+   "quote": "APPROXIMATELY 10 LIGHTS AT A HIGH ALTITUDE MOVING IN MULTIPLE DIRECTIONS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

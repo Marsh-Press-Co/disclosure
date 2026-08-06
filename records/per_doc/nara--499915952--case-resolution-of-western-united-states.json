@@ -1,0 +1,48 @@
+{
+ "doc_id": "nara--499915952--case-resolution-of-western-united-states",
+ "file": "nara--499915952--case-resolution-of-western-united-states.md",
+ "source": "NARA-RG615",
+ "agency": "OSD",
+ "title": "Case Resolution of 'Western United States'",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an AARO case resolution report regarding a UAP sighting in the Western United States in 2021.",
+ "incidents": [
+  {
+   "summary": "Military personnel reported five equidistant lights in restricted airspace, which were later identified as commercial aircraft.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "equidistant lights",
+    "flew at a relatively constant pace"
+   ],
+   "color": "",
+   "country": "United States",
+   "date": "2021",
+   "duration": "",
+   "explanation": "The objects were commercial aircraft travelling on well-established air corridors up to 300 nautical miles from the sensor.",
+   "explanation_status": "explained",
+   "location_name": "Western United States military airspace",
+   "object_count": "5",
+   "page_refs": [
+    1
+   ],
+   "quote": "Military personnel reported seeing five equidistant lights that they believed represented a potential incursion into restricted military airspace.",
+   "recording_agency": "AARO",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "Oblong dots/lights",
+   "size": "",
+   "time_local": "",
+   "witness_count": "",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

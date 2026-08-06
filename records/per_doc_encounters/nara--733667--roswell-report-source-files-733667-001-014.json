@@ -1,0 +1,38 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-014",
+ "file": "nara--733667--roswell-report-source-files-733667-001-014.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-014",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a transcript of air traffic control communications regarding an encounter between JAL flight 1628 and unidentified traffic over Alaska.",
+ "encounters": [
+  {
+   "summary": "Japan Air Lines flight 1628 reported unidentified traffic in close proximity, including radar returns and visual sightings of lights, which persisted for an extended duration while being tracked by multiple ground radar stations.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1986-11-17",
+   "date_precision": "day",
+   "location_name": "Alaska",
+   "page_refs": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "physical_effects": [
+    "radar return"
+   ],
+   "quote": "we can see, ah navigation lights and ah, strobe lights."
+  }
+ ]
+}

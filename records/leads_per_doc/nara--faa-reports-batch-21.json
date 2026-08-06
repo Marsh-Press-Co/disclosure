@@ -1,0 +1,13 @@
+{
+ "doc": "nara--faa-reports-batch-21.md",
+ "leads": [
+  {
+   "page": 2,
+   "lead_type": "debris-material",
+   "claim": "A potential SpaceX mission failure was reported, but confirmed as a standard rocket body recovery.",
+   "strength": "noise",
+   "why": "The document explicitly identifies the material as a conventional rocket body from a known SpaceX mission."
+  }
+ ],
+ "doc_verdict": "The document contains no evidence of UAP-related material, as the only mentioned recovery pertains to a conventional SpaceX rocket."
+}

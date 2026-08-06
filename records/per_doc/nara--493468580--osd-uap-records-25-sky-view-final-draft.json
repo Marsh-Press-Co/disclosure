@@ -1,0 +1,40 @@
+{
+ "doc_id": "nara--493468580--osd-uap-records-25-sky-view-final-draft",
+ "file": "nara--493468580--osd-uap-records-25-sky-view-final-draft.md",
+ "source": "NARA-RG615",
+ "agency": "OSD",
+ "title": "OSD UAP records - 25_Sky_View_Final_Draft",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an academic analysis of spatial patterns in publicly reported UAP sightings using NUFORC data, authored by researchers from the University of Utah and the Department of Defense.",
+ "incidents": [
+  {
+   "summary": "A deflating balloon was identified as a UAP sighting with high confidence.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "explanation": "Deflating balloon",
+   "explanation_status": "explained",
+   "page_refs": [
+    1
+   ]
+  },
+  {
+   "summary": "The Roswell, New Mexico incident involving a multi-balloon project intended to detect Soviet nuclear tests.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "date": "1947",
+   "explanation": "Classified multi-balloon project",
+   "explanation_status": "explained",
+   "location_name": "Roswell, New Mexico",
+   "page_refs": [
+    3
+   ],
+   "quote": "arguably the most popular UAP case in U.S. history"
+  }
+ ]
+}

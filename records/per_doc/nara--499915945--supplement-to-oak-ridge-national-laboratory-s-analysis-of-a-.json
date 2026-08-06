@@ -1,0 +1,29 @@
+{
+ "doc_id": "nara--499915945--supplement-to-oak-ridge-national-laboratory-s-analysis-of-a-",
+ "file": "nara--499915945--supplement-to-oak-ridge-national-laboratory-s-analysis-of-a-.md",
+ "source": "NARA-RG615",
+ "agency": "OSD",
+ "title": "Supplement to Oak Ridge National Laboratory’s Analysis of a Metallic Specimen",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an AARO supplement to an Oak Ridge National Laboratory analysis of a metallic specimen, concluding the material is terrestrial and likely related to historical magnesium alloy research.",
+ "incidents": [
+  {
+   "summary": "Analysis of a magnesium alloy specimen alleged to be a component recovered from a 1947 crashed extraterrestrial vehicle.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "explanation": "The specimen is terrestrial in origin and consistent with mid-20th century magnesium alloy research and development.",
+   "explanation_status": "explained",
+   "recording_agency": "AARO",
+   "shape": "unknown",
+   "size": "unknown",
+   "witness_types": [
+    "unknown"
+   ]
+  }
+ ]
+}

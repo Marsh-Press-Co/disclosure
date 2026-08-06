@@ -1,0 +1,29 @@
+{
+ "doc_id": "nara--311003081--ufo-records-1965-311003081",
+ "file": "nara--311003081--ufo-records-1965-311003081.md",
+ "source": "NARA-RG615",
+ "agency": "USAF",
+ "title": "UFO records 1965 - 311003081",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a USAF memorandum for the record summarizing several UFO reports from Exeter, New Hampshire, including one close-approach encounter.",
+ "encounters": [
+  {
+   "summary": "Norman J. Muscarello reported that a silent object with flashing red lights came so close to him while hitchhiking that he had to dodge and fall to the ground to avoid being struck.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "United States",
+   "date": "1965-09-03",
+   "date_precision": "day",
+   "location_name": "Route 101, Exeter, New Hampshire",
+   "page_refs": [
+    1
+   ],
+   "quote": "came close enough to him (Muscarello) so as for Muscarello to dodge and fall to the ground"
+  }
+ ]
+}

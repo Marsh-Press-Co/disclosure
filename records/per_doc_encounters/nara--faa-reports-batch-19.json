@@ -1,0 +1,11 @@
+{
+ "doc_id": "nara--faa-reports-batch-19",
+ "file": "nara--faa-reports-batch-19.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 19 (237UAP00509 - 237UAP00534)",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a batch of FAA UAP reports summarizing pilot sightings of aerial phenomena, but none of the entries meet the criteria for a close-range encounter, landing, entity sighting, or physical trace.",
+ "encounters": []
+}

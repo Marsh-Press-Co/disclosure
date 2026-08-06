@@ -1,0 +1,41 @@
+{
+ "doc_id": "nara--488808322--nrc-uap-records-klukan-oct-2015-emails-re-pilgrim-drone-spot",
+ "file": "nara--488808322--nrc-uap-records-klukan-oct-2015-emails-re-pilgrim-drone-spot.md",
+ "source": "NARA-RG615",
+ "agency": "NRC",
+ "title": "NRC UAP records - Klukan_Oct_2015_Emails_re_Pilgrim_Drone_Spotting",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document consists of an email thread between NRC staff regarding a reported drone sighting at the Pilgrim Nuclear Power Station in September 2015.",
+ "incidents": [
+  {
+   "summary": "An unidentified object was spotted near the Pilgrim Nuclear Power Station, prompting an investigation by local police and state police.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "flyover"
+   ],
+   "country": "United States",
+   "date": "2015-09",
+   "explanation": "The object was indiscernible at distance; authorities speculated it might have been a weather balloon.",
+   "explanation_status": "partially-explained",
+   "location_name": "Pilgrim Nuclear Power Station, Massachusetts",
+   "page_refs": [
+    1,
+    3
+   ],
+   "quote": "They think it might have been a weather balloon of some sort, but no one was definite. They are calling it a UFO.",
+   "recording_agency": "NRC",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "government-civilian"
+   ]
+  }
+ ]
+}

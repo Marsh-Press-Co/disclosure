@@ -1,0 +1,518 @@
+{
+ "doc_id": "nara--faa-reports-batch-21",
+ "file": "nara--faa-reports-batch-21.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 21 (237UAP00561 - 237UAP00588)",
+ "record_type": "report-batch",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FAA Washington Operations Center reports regarding UAP sightings by civilian and commercial pilots between October and December 2023.",
+ "incidents": [
+  {
+   "summary": "Gulfstream GLF5 reported UAP with lights at 11 o'clock position.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "color": "unknown",
+   "country": "USA",
+   "date": "2023-10-05",
+   "explanation_status": "not-assessed",
+   "location_name": "Albany, NY",
+   "page_refs": [
+    1
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON WITH LIGHTS FROM THE 11 O'CLOCK POSITION",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple aircraft reported bright lights through smoke ring or rocket climb.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "color": "bright",
+   "country": "USA",
+   "date": "2023-10-12",
+   "explanation_status": "explained",
+   "location_name": "Cape Canaveral, FL",
+   "page_refs": [
+    2
+   ],
+   "quote": "MULTIPLE ACFT REPORTED SIMILAR SIGHTING OF AN UNIDENTIFIED AERIAL PHENOMENON CONSISTING OF BRIGHT LIGHTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Learjet LJ45 reported silver, softball-sized UAP.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "color": "silver",
+   "country": "USA",
+   "date": "2023-10-19",
+   "explanation_status": "not-assessed",
+   "location_name": "Nantucket, MA",
+   "page_refs": [
+    3
+   ],
+   "quote": "REPORTED A SILVER, SOFTBALL-SIZED UAP FROM THE RIGHT SIDE",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "softball-sized",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "B763 reported UFO 2,000 feet below.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-10-24",
+   "explanation_status": "not-assessed",
+   "location_name": "St Petersburg-Clearwater, FL",
+   "page_refs": [
+    4
+   ],
+   "quote": "REPORTED A UFO 2,000 FEET BELOW WHILE E BOUND",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "B739 reported lights from above at 12 o'clock.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-10-27",
+   "explanation_status": "not-assessed",
+   "location_name": "Ukiah, CA",
+   "page_refs": [
+    5
+   ],
+   "quote": "REPORTED LIGHTS FROM ABOVE AT THE 12 O'CLOCK POSITION",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "United 541 reported light splitting into two in a criss-cross pattern.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "criss-cross pattern"
+   ],
+   "country": "USA",
+   "date": "2023-10-28",
+   "explanation_status": "not-assessed",
+   "location_name": "Buffalo, NY",
+   "page_refs": [
+    6
+   ],
+   "quote": "REPORTED 1 LIGHT SPLIT INTO TWO LIGHTS FLYING IN A CRISS CROSS PATTERN",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "American 2928 and FedEx 1402 reported UAP with 3 bright lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "color": "bright",
+   "country": "USA",
+   "date": "2023-10-28",
+   "explanation_status": "not-assessed",
+   "location_name": "Lynchburg, VA",
+   "object_count": "3",
+   "page_refs": [
+    7
+   ],
+   "quote": "REPORTED A UAP WITH 3 BRIGHT LIGHTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Pilatus PC12 reported UAP 1,200 feet above; facility observed as primary radar target.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-11-03",
+   "explanation_status": "not-assessed",
+   "location_name": "Yardley, PA",
+   "page_refs": [
+    8
+   ],
+   "quote": "THE UAP WAS OBSERVED BY FACILITY AS PRIMARY ONLY",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple aircraft reported UAP changing altitudes erratically.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "erratic altitude changes"
+   ],
+   "country": "USA",
+   "date": "2023-11-08",
+   "explanation_status": "not-assessed",
+   "location_name": "Walnut Ridge, AR",
+   "page_refs": [
+    9
+   ],
+   "quote": "MULTIPLE ACFT REPORTED AN UNIDENTIFIED AERIAL PHENOMENON CHANGING ALTITUDES ERRATICALLY",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Piper P28A reported three lights in a triangle maneuvering.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "maneuvering"
+   ],
+   "country": "USA",
+   "date": "2023-11-15",
+   "explanation_status": "not-assessed",
+   "location_name": "New York, NY",
+   "object_count": "3",
+   "page_refs": [
+    10
+   ],
+   "quote": "REPORTED UNIDENTIFIED AERIAL PHENOMENA OF THREE LIGHTS IN A TRIANGLE MANEUVERING",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "triangle",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Omni Air 1169 reported bright white UAP.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "color": "white",
+   "country": "USA",
+   "date": "2023-11-18",
+   "explanation_status": "not-assessed",
+   "location_name": "Los Angeles, CA",
+   "page_refs": [
+    11
+   ],
+   "quote": "REPORTED A BRIGHT WHITE UNIDENTIFIED AERIAL PHENOMENON",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Frontier 4139 reported 2-5 lights moving up/down and left/right.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "moving up and down",
+    "moving left to right"
+   ],
+   "country": "USA",
+   "date": "2023-11-18",
+   "explanation_status": "not-assessed",
+   "location_name": "San Juan, Puerto Rico",
+   "object_count": "2-5",
+   "page_refs": [
+    12
+   ],
+   "quote": "REPORTED AS 2-5 LIGHTS MOVING UP AND DOWN THEN LEFT TO RIGHT",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Three aircraft reported large UAP the size of an airliner hovering.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "hovering"
+   ],
+   "country": "USA",
+   "date": "2023-11-19",
+   "explanation_status": "not-assessed",
+   "location_name": "Tampa, FL",
+   "page_refs": [
+    13,
+    14,
+    15
+   ],
+   "quote": "REPORTED A LARGE UNIDENTIFIED AERIAL PHENOMENON THE \"SIZE OF AN AIRLINER\" HOVERING",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "size": "size of an airliner",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "FedEx 3184 reported UAP with 3 lights in vertical and horizontal arrangement.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-11-21",
+   "explanation_status": "not-assessed",
+   "location_name": "Fort Myers, FL",
+   "object_count": "3",
+   "page_refs": [
+    16
+   ],
+   "quote": "UAP DESCRIBED AS 3 LIGHTS VERTICAL AND HORIZONTAL",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Frontier 31 reported UAP from the left side.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-11-23",
+   "explanation_status": "not-assessed",
+   "location_name": "Melbourne, FL",
+   "page_refs": [
+    17
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON FROM THE LEFT SIDE",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Civilian reported cylindrical shaped UFO at low level.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "medium",
+   "country": "USA",
+   "date": "2023-11-25",
+   "explanation_status": "not-assessed",
+   "location_name": "Rio Grande, NJ",
+   "page_refs": [
+    18
+   ],
+   "quote": "REPORTED CYLINDRICAL SHAPED UFO AT A LOW LEVEL",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "cylindrical",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "ATCT reported 5 or more lights at FL400.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-12-02",
+   "explanation_status": "not-assessed",
+   "location_name": "Great Falls, MT",
+   "object_count": "5+",
+   "page_refs": [
+    19
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON (UAP) OF 5 OR MORE LIGHTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Gulfstream GLF4 reported UAP below them.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-12-02",
+   "explanation_status": "not-assessed",
+   "location_name": "O'Neill, NE",
+   "page_refs": [
+    20
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON BELOW THEM",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Southwest 498 reported lights moving at high speed.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "high speed movement"
+   ],
+   "country": "USA",
+   "date": "2023-12-07",
+   "explanation_status": "not-assessed",
+   "location_name": "Meridian, MS",
+   "page_refs": [
+    21
+   ],
+   "quote": "PILOT REPORTED LIGHTS MOVING AT HIGH RATE OF SPEED",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Honda HDJT reported 2 objects moving side to side.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "moving side to side"
+   ],
+   "country": "USA",
+   "date": "2023-12-14",
+   "explanation_status": "not-assessed",
+   "location_name": "Muscle Shoals, AL",
+   "object_count": "2",
+   "page_refs": [
+    22
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON OF 2 OBJECTS APPEARING AS LIGHTS MOVING SIDE TO SIDE",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Delta 750 reported UAP from 9 o'clock position.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-12-22",
+   "explanation_status": "not-assessed",
+   "location_name": "Denver, CO",
+   "page_refs": [
+    23
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON FROM THE 9 O'CLOCK POSITION",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "American 2003 and Delta 2665 reported UAP from 12 o'clock position.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-12-22",
+   "explanation_status": "not-assessed",
+   "location_name": "Pocatello, ID",
+   "page_refs": [
+    24,
+    25
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON FROM THE 12 O'CLOCK POSITION",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "nara--faa-reports-batch-05",
+ "file": "nara--faa-reports-batch-05.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 05 (237UAP00107 - 237UAP00131)",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FAA Skywatch incident reports regarding UAP sightings; it contains two reports involving specific descriptions of objects or occupants.",
+ "encounters": [
+  {
+   "summary": "LSE ATCT observed a jelly-fish shaped object with flashing green/red/blue lights at 1,500 feet; ZMP radar confirmed a primary target.",
+   "encounter_type": "occupant-report",
+   "claimant_type": "government-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "2022-10-07",
+   "date_precision": "day",
+   "entity_appearance": "jelly fish",
+   "location_name": "LSE",
+   "page_refs": [
+    11
+   ]
+  },
+  {
+   "summary": "A pilot reported a manned jetpack hovering at approximately 8,000 feet while the aircraft was at 10,000 feet.",
+   "encounter_type": "occupant-report",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "2022-10-22",
+   "date_precision": "day",
+   "entity_appearance": "manned jetpack",
+   "location_name": "NY",
+   "page_refs": [
+    20
+   ]
+  }
+ ]
+}

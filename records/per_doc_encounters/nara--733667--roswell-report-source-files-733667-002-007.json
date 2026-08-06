@@ -1,0 +1,30 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-002-007",
+ "file": "nara--733667--roswell-report-source-files-733667-002-007.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-002-007",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of archival correspondence and administrative records regarding public requests for information on the JAL Flight 1628 UFO sighting; encounter content is present.",
+ "encounters": [
+  {
+   "summary": "Japan Air Lines Flight 1628 crew reported sighting an unidentified flying object over Alaska.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "1986-11-17",
+   "date_precision": "day",
+   "location_name": "Alaska",
+   "page_refs": [
+    5,
+    8,
+    84
+   ],
+   "quote": "sighting of unidentified air traffic by Japan Air Lines Flight 1628"
+  }
+ ]
+}

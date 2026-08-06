@@ -1,0 +1,632 @@
+{
+ "doc_id": "nara--faa-reports-batch-19",
+ "file": "nara--faa-reports-batch-19.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 19 (237UAP00509 - 237UAP00534)",
+ "record_type": "report-batch",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a batch of FAA reports regarding UAP sightings by commercial and private pilots between April and August 2023.",
+ "incidents": [
+  {
+   "summary": "Cessna C172 pilot reported two basketball-sized balloons with wires.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "stationary"
+   ],
+   "color": "",
+   "country": "USA",
+   "date": "2023-04-25",
+   "location_name": "Pensacola, FL",
+   "page_refs": [
+    1
+   ],
+   "quote": "PILOT REPORTED PHENOMENON AS TWO BASKETBALL SIZED BALLOONS WITH WIRES",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "balloons",
+   "size": "basketball-sized",
+   "time_local": "0856",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Gulfstream G280 reported a white oval shaped UAP.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [],
+   "color": "white",
+   "country": "USA",
+   "date": "2023-04-27",
+   "location_name": "Gila Bend, AZ",
+   "page_refs": [
+    2
+   ],
+   "quote": "REPORTED A WHITE OVAL SHAPED UNIDENTIFIED AERIAL PHENOMENON",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "oval",
+   "time_local": "1110",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Medevac flight reported bright lights changing intensity and circling counter-clockwise.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "circling counter-clockwise",
+    "changing intensity"
+   ],
+   "color": "",
+   "country": "USA",
+   "date": "2023-05-02",
+   "location_name": "Birmingham, AL",
+   "page_refs": [
+    3
+   ],
+   "quote": "BRIGHT LIGHTS CHANGING IN INTENSITY AND CIRCLING COUNTER CLOCKWISE",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "0121",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Aeromexico 692 reported 3 white lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [],
+   "color": "white",
+   "country": "USA",
+   "date": "2023-05-17",
+   "location_name": "San Antonio, TX",
+   "page_refs": [
+    4
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON WITH 3 WHITE LIGHTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "0215",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Cargojet 906 reported 3 white lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [],
+   "color": "white",
+   "country": "USA",
+   "date": "2023-05-17",
+   "location_name": "Victoria, TX",
+   "page_refs": [
+    5
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON WITH 3 WHITE LIGHTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "0220",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "FedEx 64 reported triangle lights brightening and dimming.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "brightening and dimming"
+   ],
+   "color": "",
+   "country": "USA",
+   "date": "2023-05-29",
+   "location_name": "Miami, FL",
+   "page_refs": [
+    6
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON OF TRIANGLE LIGHTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "triangle",
+   "time_local": "0205",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "LGM Enterprises 785 reported a white cylindrical object.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [],
+   "color": "white",
+   "country": "USA",
+   "date": "2023-05-29",
+   "location_name": "New York, NY",
+   "page_refs": [
+    7
+   ],
+   "quote": "WHITE AND CYLINDRICAL SHAPED THE SIZE OF THREE BOWLING BALLS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "cylindrical",
+   "size": "three bowling balls",
+   "time_local": "1810",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Copa 404 reported a stationary white light turning on and off.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "stationary",
+    "turning on and off"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2023-06-10",
+   "location_name": "Marathon, FL",
+   "page_refs": [
+    8
+   ],
+   "quote": "STATIONARY WHITE LIGHT THAT TURNED ON AND OFF PERIODICALLY",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "0226",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Mooney M20P reported a large brown object.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [],
+   "color": "brown",
+   "country": "USA",
+   "date": "2023-06-25",
+   "location_name": "Nashville, TN",
+   "page_refs": [
+    9
+   ],
+   "quote": "REPORTED A LARGE BROWN OBJECT",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "2015",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Spirit 1900 reported a UAP.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [],
+   "color": "",
+   "country": "Bahamas",
+   "date": "2023-06-27",
+   "location_name": "Cockburn Town, Bahamas",
+   "page_refs": [
+    10
+   ],
+   "quote": "REPORTED A UAP WHILE NW BOUND",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "0011",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "NetJets 828 reported a large brown UAP.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [],
+   "color": "brown",
+   "country": "USA",
+   "date": "2023-07-08",
+   "location_name": "Albany, NY",
+   "page_refs": [
+    11
+   ],
+   "quote": "REPORTED A LARGE, BROWN UNIDENTIFIED AERIAL PHENOMENON",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "2004",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Jazz 653 reported a stationary UAP that later moved.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "stationary",
+    "moving north"
+   ],
+   "color": "",
+   "country": "USA",
+   "date": "2023-07-15",
+   "location_name": "Seattle, WA",
+   "page_refs": [
+    12
+   ],
+   "quote": "REPORTED STATIONARY UAP AT FL200-FL220",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "1230",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Southwest 549 reported a string of lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [],
+   "color": "",
+   "country": "USA",
+   "date": "2023-07-16",
+   "explanation": "Sighting correlated with Starlink satellites.",
+   "explanation_status": "explained",
+   "location_name": "Memphis, TN",
+   "page_refs": [
+    13
+   ],
+   "quote": "SIGHTING CORRELATED WITH STARLINK SATELLITES",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "2136",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Delta 2054 reported multiple synchronized stationary lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "stationary",
+    "synchronized"
+   ],
+   "color": "",
+   "country": "USA",
+   "date": "2023-07-20",
+   "location_name": "Los Angeles, CA",
+   "page_refs": [
+    14
+   ],
+   "quote": "PHENOMENON DESCRIBED AS MULTIPLE STATIONARY LIGHTS APPEARING TO BE SYNCHRONIZED",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "2152",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Southwest 121 reported a UAP.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [],
+   "color": "",
+   "country": "USA",
+   "date": "2023-07-20",
+   "location_name": "Palm Springs, CA",
+   "page_refs": [
+    15
+   ],
+   "quote": "REPORTED AND UNIDENTIFIED AERIAL PHENOMENON",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "2140",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "American 266 reported multiple lights appearing to separate.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "separating"
+   ],
+   "color": "",
+   "country": "USA",
+   "date": "2023-07-20",
+   "location_name": "Camarillo, CA",
+   "page_refs": [
+    16
+   ],
+   "quote": "PHENOMENON DESCRIBED AS MULTIPLE LIGHTS APPEARING TO SEPARATE",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "2153",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Delta 2110 reported bright lights off shore.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [],
+   "color": "",
+   "country": "USA",
+   "date": "2023-07-20",
+   "location_name": "Oceanside, CA",
+   "page_refs": [
+    17
+   ],
+   "quote": "DESCRIBED AT SET OF BRIGHT LIGHTS OFF SHORE",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "2155",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Horizon 2063 reported 10-15 stationary lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "stationary"
+   ],
+   "color": "",
+   "country": "USA",
+   "date": "2023-07-20",
+   "location_name": "Los Angeles, CA",
+   "page_refs": [
+    18
+   ],
+   "quote": "PHENOMENON DESCRIBED AS 10-15 STATIONARY LIGHTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "2215",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Avianca 062 reported 4 green lights climbing and descending rapidly.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "climbing rapidly",
+    "descending rapidly"
+   ],
+   "color": "green",
+   "country": "Bahamas",
+   "date": "2023-07-21",
+   "location_name": "Freeport, Bahamas",
+   "page_refs": [
+    19
+   ],
+   "quote": "PHENOMENON WAS LIGHTED GREEN CLIMBING AND DESCENDING RAPIDLY",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "2005",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "American 821 reported 7 lights traveling west.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "traveling"
+   ],
+   "color": "",
+   "country": "USA",
+   "date": "2023-07-23",
+   "location_name": "Dallas-Fort Worth, TX",
+   "page_refs": [
+    20
+   ],
+   "quote": "7 LIGHTS WERE OBSERVED TRAVELING W BOUND",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "0207",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Cirrus SR22 reported an unidentified aerial object.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [],
+   "color": "",
+   "country": "USA",
+   "date": "2023-07-26",
+   "location_name": "Cleveland, OH",
+   "page_refs": [
+    21
+   ],
+   "quote": "REPORTED AN UNKN AERIAL OBJECT",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "1320",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "United 1409 reported 15 bright lights that appeared and disappeared.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "appeared and disappeared"
+   ],
+   "color": "",
+   "country": "USA",
+   "date": "2023-07-30",
+   "location_name": "Lufkin, TX",
+   "page_refs": [
+    22
+   ],
+   "quote": "THE UAP WAS DESCRIBED AS 15 BRIGHT LIGHTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "2209",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "NetJets 631 reported bright white lights maneuvering rapidly.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "maneuvering rapidly"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2023-08-04",
+   "location_name": "Jacksonville, FL",
+   "page_refs": [
+    23
+   ],
+   "quote": "THE UAP WAS DESCRIBED AS BRIGHT WHITE LIGHTS THAT APPEARED AND MANEUVERED RAPIDLY",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "0235",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Allegiant 1432 reported bright white flashing lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flashing"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2023-08-04",
+   "location_name": "Dublin, GA",
+   "page_refs": [
+    24
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON WITH BRIGHT WHITE FLASHING LIGHTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "0304",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Sunwing 6415 reported bright circling lights maneuvering at high altitude.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "circling",
+    "maneuvering"
+   ],
+   "color": "",
+   "country": "USA",
+   "date": "2023-08-05",
+   "location_name": "Jacksonville, FL",
+   "page_refs": [
+    25
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON WITH BRIGHT CIRCLING LIGHTS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "0111",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "doc_id": "nara--493468580--osd-uap-records-25-sky-view-final-draft",
+ "file": "nara--493468580--osd-uap-records-25-sky-view-final-draft.md",
+ "source": "NARA-RG615",
+ "agency": "OSD",
+ "title": "OSD UAP records - 25_Sky_View_Final_Draft",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an academic research paper analyzing spatial patterns of public UAP sightings using statistical modeling and environmental variables; it contains no specific encounter reports.",
+ "encounters": []
+}

@@ -1,0 +1,647 @@
+{
+ "doc_id": "nara--faa-reports-batch-08",
+ "file": "nara--faa-reports-batch-08.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 08 (237UAP00183 - 237UAP00207)",
+ "record_type": "report-batch",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FAA Skywatch incident reports regarding UAP sightings, primarily involving balloons and satellite trains, from February 2023.",
+ "incidents": [
+  {
+   "summary": "Commercial aircraft reported a large balloon at FL500.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "N bound"
+   ],
+   "country": "USA",
+   "date": "2023-02-03",
+   "explanation_status": "not-assessed",
+   "location_name": "29NM S of LNK",
+   "page_refs": [
+    1
+   ],
+   "quote": "Aircraft reported a large balloon off the left side",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "balloon",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a large balloon at FL500.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "N bound"
+   ],
+   "country": "USA",
+   "date": "2023-02-03",
+   "explanation_status": "not-assessed",
+   "location_name": "30NM W of RBA",
+   "page_refs": [
+    2
+   ],
+   "quote": "Aircraft reported a large balloon off the right side",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "balloon",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Numerous aircraft reported suspicious UAS activity appearing as a balloon at FL500.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "moving SE bound"
+   ],
+   "country": "USA",
+   "date": "2023-02-03",
+   "explanation_status": "not-assessed",
+   "location_name": "vicinity of PWE120025",
+   "page_refs": [
+    3
+   ],
+   "quote": "The suspicious UAS appeared to be a balloon at FL500",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "balloon",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a large balloon at FL500.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "N bound"
+   ],
+   "country": "USA",
+   "date": "2023-02-03",
+   "explanation_status": "not-assessed",
+   "location_name": "30NM W of RBA",
+   "page_refs": [
+    4
+   ],
+   "quote": "Aircraft reported a large balloon off the right side",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "balloon",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a large balloon at FL500.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "W bound"
+   ],
+   "country": "USA",
+   "date": "2023-02-03",
+   "explanation_status": "not-assessed",
+   "location_name": "15NM W of RBA",
+   "page_refs": [
+    5
+   ],
+   "quote": "Aircraft reported a large balloon off the right side",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "balloon",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a large balloon at FL500.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "W bound"
+   ],
+   "country": "USA",
+   "date": "2023-02-03",
+   "explanation_status": "not-assessed",
+   "location_name": "30NM W of RBA",
+   "page_refs": [
+    6
+   ],
+   "quote": "Aircraft reported a large balloon off the right side",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "balloon",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a large balloon at FL500.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "W bound"
+   ],
+   "country": "USA",
+   "date": "2023-02-03",
+   "explanation_status": "not-assessed",
+   "location_name": "30NM W of RBA",
+   "page_refs": [
+    7
+   ],
+   "quote": "Aircraft reported a large balloon off the right side",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "balloon",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported an unidentified balloon at FL500.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "S bound"
+   ],
+   "country": "USA",
+   "date": "2023-02-03",
+   "explanation_status": "not-assessed",
+   "location_name": "60NM NW of MCI",
+   "page_refs": [
+    8
+   ],
+   "quote": "Aircraft reported an unidentified aerial phenomenon (Balloon)",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "balloon",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a large balloon at FL500.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "W bound"
+   ],
+   "country": "USA",
+   "date": "2023-02-03",
+   "explanation_status": "not-assessed",
+   "location_name": "30NM W of RBA",
+   "page_refs": [
+    9
+   ],
+   "quote": "Aircraft reported a large balloon off the right side",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "balloon",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a large balloon at FL500.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "W bound"
+   ],
+   "country": "USA",
+   "date": "2023-02-03",
+   "explanation_status": "not-assessed",
+   "location_name": "30NM W of RBA",
+   "page_refs": [
+    10
+   ],
+   "quote": "Aircraft reported a large balloon off the right side",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "balloon",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a large balloon at FL500.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "N bound"
+   ],
+   "country": "USA",
+   "date": "2023-02-03",
+   "explanation_status": "not-assessed",
+   "location_name": "10NM W of RBA",
+   "page_refs": [
+    11
+   ],
+   "quote": "Aircraft reported a large balloon off the left side",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "balloon",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a balloon at FL500.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "S bound"
+   ],
+   "country": "USA",
+   "date": "2023-02-03",
+   "explanation_status": "not-assessed",
+   "location_name": "30NM E of PWK",
+   "page_refs": [
+    12
+   ],
+   "quote": "Aircraft reported a balloon off the right side",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "balloon",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft passed under a large balloon.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "E bound"
+   ],
+   "country": "USA",
+   "date": "2023-02-03",
+   "explanation_status": "not-assessed",
+   "location_name": "20NM E of PWK",
+   "page_refs": [
+    13
+   ],
+   "quote": "Aircraft reported large balloon they passed under",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "balloon",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a maneuvering UAP with lights above them.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "maneuvering",
+    "W bound"
+   ],
+   "country": "USA",
+   "date": "2023-02-03",
+   "explanation_status": "not-assessed",
+   "location_name": "37NM NE of SUX",
+   "page_refs": [
+    14
+   ],
+   "quote": "The unknown phenomenon had lights and appeared to be maneuvering",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a large silver/white balloon.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "ENE bound"
+   ],
+   "color": "silver/white",
+   "country": "USA",
+   "date": "2023-02-03",
+   "explanation_status": "not-assessed",
+   "location_name": "101NM W of ONL",
+   "page_refs": [
+    15
+   ],
+   "quote": "Aircraft reported a large silver/white balloon",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "balloon",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported an orbiting UAP with lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "orbiting",
+    "WNW bound"
+   ],
+   "country": "USA",
+   "date": "2023-02-04",
+   "explanation_status": "not-assessed",
+   "location_name": "60NM E of BIL",
+   "page_refs": [
+    16
+   ],
+   "quote": "The unknown phenomenon had lights and was reported as orbiting",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a UAP with flashing lights and a contrail; second aircraft suggested satellite reflections.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "W bound"
+   ],
+   "country": "USA",
+   "date": "2023-02-04",
+   "explanation_status": "partially-explained",
+   "location_name": "36NM S of MCI",
+   "page_refs": [
+    17
+   ],
+   "quote": "multi-colored flashing lights and leaving a contrail/wake behind it",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported 10 lights moving in multiple directions.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "moving in multiple directions",
+    "E bound"
+   ],
+   "country": "USA",
+   "date": "2023-02-05",
+   "explanation_status": "not-assessed",
+   "location_name": "35NM WNW of JAN",
+   "page_refs": [
+    18
+   ],
+   "quote": "approximately 10 lights at \"a high altitude\" moving in multiple directions",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "lights",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "NORAD reported a potential balloon; later determined to be erroneous radar data.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "NE bound"
+   ],
+   "country": "USA",
+   "date": "2023-02-06",
+   "explanation_status": "explained",
+   "location_name": "115 NM N of OTZ",
+   "page_refs": [
+    19
+   ],
+   "quote": "Report determined to be erroneous and uncorrelated radar data",
+   "recording_agency": "FAA",
+   "sensors": [
+    "radar"
+   ],
+   "shape": "balloon",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported multiple bright lights changing directions.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "changing directions",
+    "E bound"
+   ],
+   "country": "USA",
+   "date": "2023-02-07",
+   "explanation_status": "not-assessed",
+   "location_name": "184 NM W of MCI",
+   "page_refs": [
+    20
+   ],
+   "quote": "multiple bright lights at high altitude changing directions",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "lights",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple aircraft reported bright flashing lights; correlated to Starlink satellite train.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "moving to the ESE"
+   ],
+   "country": "USA",
+   "date": "2023-02-07",
+   "explanation_status": "explained",
+   "location_name": "50 NM north of DSM",
+   "page_refs": [
+    21
+   ],
+   "quote": "correlated the report to a STARLINK satellite train",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "lights",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported 3 bright flashing objects; correlated to Starlink satellite train.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "NE bound",
+    "SE bound"
+   ],
+   "country": "USA",
+   "date": "2023-02-07",
+   "explanation_status": "explained",
+   "location_name": "60 NM SE of ENE",
+   "page_refs": [
+    22
+   ],
+   "quote": "correlated the report to a STARLINK satellite train",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "objects",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported bright lights well above them.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "NE bound"
+   ],
+   "country": "USA",
+   "date": "2023-02-10",
+   "explanation_status": "not-assessed",
+   "location_name": "41.27N/76.25W",
+   "page_refs": [
+    23
+   ],
+   "quote": "The unknown phenomenon was bright lights well above them",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "lights",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported bright lights well above them.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "NE bound"
+   ],
+   "country": "USA",
+   "date": "2023-02-10",
+   "explanation_status": "not-assessed",
+   "location_name": "41.27N/76.25W",
+   "page_refs": [
+    24
+   ],
+   "quote": "The unknown phenomenon was bright lights well above them",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "lights",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "General aviation aircraft reported red and white lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "NW bound"
+   ],
+   "color": "red and white",
+   "country": "USA",
+   "date": "2023-02-10",
+   "explanation_status": "not-assessed",
+   "location_name": "15 NM south of CNU",
+   "page_refs": [
+    25
+   ],
+   "quote": "The unknown phenomenon was red and white lights",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "lights",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

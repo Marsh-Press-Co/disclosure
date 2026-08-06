@@ -1,0 +1,19 @@
+{
+ "doc": "nara--record-index.md",
+ "leads": [
+  {
+   "page": 1,
+   "lead_type": "analysis-of-material",
+   "claim": "Oak Ridge National Laboratory conducted an analysis of a metallic specimen related to UAP.",
+   "strength": "strong",
+   "why": "The document explicitly references a specific laboratory conducting an analysis on a metallic specimen in the context of UAP briefing materials.",
+   "claimant": "Senate Armed Services Committee (SASC) briefing materials",
+   "custody_chain": "Oak Ridge National Laboratory",
+   "government_response": "The document lists the analysis as a briefing item for the SASC.",
+   "material_description": "Metallic specimen",
+   "outcome_in_document": "unresolved",
+   "quote": "Oak Ridge National Laboratory’s Analysis of a Metallic Specimen"
+  }
+ ],
+ "doc_verdict": "The document contains explicit references to an analysis of a metallic specimen performed by Oak Ridge National Laboratory in the context of UAP-related briefings."
+}

@@ -1,0 +1,47 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-012",
+ "file": "nara--733667--roswell-report-source-files-733667-001-012.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-012",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FAA memorandum and chronological summary regarding the Japan Airlines Flight 1628 UAP sighting incident.",
+ "incidents": [
+  {
+   "summary": "Japan Airlines Flight 1628 reported unidentified traffic in proximity to their aircraft over Alaska.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "descending in formation",
+    "stayed with aircraft"
+   ],
+   "color": "white and yellow",
+   "country": "USA",
+   "date": "1986-11-18",
+   "explanation_status": "unexplained",
+   "location_name": "Alaska",
+   "object_count": "2",
+   "page_refs": [
+    2,
+    3,
+    4
+   ],
+   "quote": "JL1628 advised that the plane was quite big",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "size": "quite big",
+   "time_local": "0219-0253 UTC",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,483 @@
+{
+ "doc_id": "nara--faa-reports-batch-06",
+ "file": "nara--faa-reports-batch-06.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 06 (237UAP00132 - 237UAP00157)",
+ "record_type": "report-batch",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FAA Skywatch incident reports regarding UAP sightings, many of which were identified as balloons.",
+ "incidents": [
+  {
+   "summary": "Commercial aircraft reported two bright lights following it.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "following aircraft"
+   ],
+   "color": "bright",
+   "country": "USA",
+   "date": "2022-11-26",
+   "location_name": "16 NM NW of GLD",
+   "page_refs": [
+    1
+   ],
+   "quote": "The unknown phenomenon was 2 bright lights following aircraft.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple commercial flights reported orbs of light moving in various directions.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "moving in various directions"
+   ],
+   "country": "USA",
+   "date": "2022-12-11",
+   "location_name": "DSM",
+   "page_refs": [
+    2
+   ],
+   "quote": "They reported Orbs of light moving in various directions.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "orbs",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported flashing lights.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "flashing"
+   ],
+   "country": "USA",
+   "date": "2022-12-14",
+   "location_name": "40NM WSW of BDF",
+   "page_refs": [
+    3
+   ],
+   "quote": "The unknown phenomenon was reported as flashing lights",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a small circular object with flashing white lights.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "departed field of view"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2022-12-17",
+   "location_name": "10 NM WNW of LFD",
+   "page_refs": [
+    4
+   ],
+   "quote": "a small circular object with flashing white lights",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple aircraft reported red, green, and white lights fading in and out.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "fading in and out"
+   ],
+   "color": "red, green, white",
+   "country": "USA",
+   "date": "2022-12-17",
+   "location_name": "MCI area",
+   "page_refs": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "quote": "red, green, and white lights fading in and out",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported two objects with red and white lights.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "color": "red, white",
+   "country": "USA",
+   "date": "2023-01-14",
+   "location_name": "RZC",
+   "page_refs": [
+    10,
+    11
+   ],
+   "quote": "appeared to be two aircraft with red and white lights",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported an object with changing altitude, speed, and light intensity.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "changed altitude",
+    "changed vertical speed",
+    "changed light intensity"
+   ],
+   "country": "USA",
+   "date": "2023-01-23",
+   "location_name": "40NM SW of PIE",
+   "page_refs": [
+    12
+   ],
+   "quote": "The unknown phenomenon had changed altitude, vertical speed and light intensity.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "General aviation aircraft reported an object descending into cloud cover.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "descending"
+   ],
+   "country": "USA",
+   "date": "2023-01-26",
+   "location_name": "10 miles N of LYH",
+   "page_refs": [
+    13
+   ],
+   "quote": "an object traveling SW bound descending into cloud base cover",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "General aviation aircraft reported a shiny missile-like object traveling vertically.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "climbing",
+    "traveling vertically"
+   ],
+   "color": "shiny",
+   "country": "USA",
+   "date": "2023-01-26",
+   "location_name": "10 miles NE of LYH",
+   "page_refs": [
+    14
+   ],
+   "quote": "A projectile was observed climbing passing through FL360 with a smoke trail going straight up.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "missile",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple aircraft reported objects looking like stars turning on and off.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "moving right to left and left to right",
+    "turning on and off"
+   ],
+   "country": "USA",
+   "date": "2023-01-29",
+   "location_name": "ARG",
+   "page_refs": [
+    15
+   ],
+   "quote": "looking like a star turning on and off every minute or so",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a large balloon.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-02-01",
+   "location_name": "73 NM of BIL",
+   "page_refs": [
+    16
+   ],
+   "quote": "The unknown phenomenon appeared to be a large balloon",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "balloon",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported red, green, and white lights in formation.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "traveling in formation"
+   ],
+   "color": "red, green, white",
+   "country": "USA",
+   "date": "2023-02-01",
+   "location_name": "10 NM W of BNA",
+   "page_refs": [
+    17
+   ],
+   "quote": "red, green, and white lights above their altitude traveling in formation.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a large silver balloon.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "color": "silver",
+   "country": "USA",
+   "date": "2023-02-01",
+   "location_name": "30 NM south of FCA",
+   "page_refs": [
+    18
+   ],
+   "quote": "Aircraft observed a large silver balloon",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "balloon",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a balloon.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-02-02",
+   "location_name": "10 NM SE of BIL",
+   "page_refs": [
+    19
+   ],
+   "quote": "Aircraft reported a balloon",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "balloon",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a balloon with something hanging from the bottom.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "something hanging from bottom"
+   ],
+   "country": "USA",
+   "date": "2023-02-03",
+   "location_name": "MCM",
+   "page_refs": [
+    20
+   ],
+   "quote": "PIC reported something hanging from bottom.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "balloon",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple aircraft reported sightings of balloons, some with baskets or strings.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "stationary",
+    "traveling"
+   ],
+   "country": "USA",
+   "date": "2023-02-03",
+   "location_name": "Various locations near STL/HLV/FAM",
+   "page_refs": [
+    21
+   ],
+   "quote": "Balloon is getting smaller and has a basket",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "balloon",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a large balloon.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-02-03",
+   "location_name": "15NM SW of MCM",
+   "page_refs": [
+    22
+   ],
+   "quote": "Aircraft reported a large balloon",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "balloon",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a balloon.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-02-03",
+   "location_name": "BQS",
+   "page_refs": [
+    23
+   ],
+   "quote": "Aircraft reported an unidentified aerial phenomenon (Balloon)",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "balloon",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "U2 aircraft reported a large balloon and circled it.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "circling"
+   ],
+   "country": "USA",
+   "date": "2023-02-03",
+   "location_name": "10NM NE of BQS",
+   "page_refs": [
+    24
+   ],
+   "quote": "aircraft is circling balloon location",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "balloon",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a large balloon.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-02-03",
+   "location_name": "10NM NE of BQS",
+   "page_refs": [
+    25
+   ],
+   "quote": "Aircraft reported a large balloon",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "balloon",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "doc": "nara--faa-reports-batch-01.md",
+ "leads": [
+  {
+   "page": 6,
+   "lead_type": "debris-material",
+   "claim": "ATC centers were instructed to report sightings of UFOs or debris fields.",
+   "strength": "noise",
+   "why": "The document refers to standard reporting procedures for aerial phenomena and debris, not the recovery or custody of anomalous material."
+  },
+  {
+   "page": 20,
+   "lead_type": "debris-material",
+   "claim": "An aircraft reported a light in the atmosphere, potentially identified as a satellite or space debris.",
+   "strength": "noise",
+   "why": "This is a standard report of conventional space debris or satellite activity, not anomalous material."
+  }
+ ],
+ "doc_verdict": "The document contains no evidence or suggestions of the government or contractors obtaining, analyzing, or holding anomalous UAP material."
+}

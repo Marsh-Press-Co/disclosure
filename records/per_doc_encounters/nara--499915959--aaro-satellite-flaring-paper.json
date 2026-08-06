@@ -1,0 +1,31 @@
+{
+ "doc_id": "nara--499915959--aaro-satellite-flaring-paper",
+ "file": "nara--499915959--aaro-satellite-flaring-paper.md",
+ "source": "NARA-RG615",
+ "agency": "OSD",
+ "title": "AARO Satellite Flaring Paper",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is an AARO information paper explaining how satellite flaring can be misinterpreted as UAP, and it contains one specific case study of a pilot report.",
+ "encounters": [
+  {
+   "summary": "An airline pilot reported multiple unidentified lights moving in different directions near Gallup, NM, which AARO determined were likely Starlink satellite flares.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "debunked",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "United States",
+   "date": "2022-10-09",
+   "date_precision": "day",
+   "location_name": "Gallup, NM",
+   "page_refs": [
+    14,
+    15,
+    16
+   ],
+   "quote": "multiple lights moving in different directions, left of the constellation Leo"
+  }
+ ]
+}

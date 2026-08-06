@@ -1,0 +1,41 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-029",
+ "file": "nara--733667--roswell-report-source-files-733667-001-029.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-029",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FAA personnel statements and flight logs regarding the Japan Airlines Flight 628 UFO sighting, which the agency investigated and attributed to weather phenomena.",
+ "encounters": [
+  {
+   "summary": "Captain Terauchi of Japan Airlines Flight 628 reported observing irregular pulsating lights and a large black object near his aircraft over Alaska.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_content": "Pilot signaled the object with wing lights and believed the object was responding to his signals.",
+   "communication_method": "gesture",
+   "country": "USA",
+   "date": "1987-01-11",
+   "date_precision": "day",
+   "entity_appearance": "irregular pulsating lights and a black chunk",
+   "location_name": "Arctic Village and Fort Yukon, Alaska",
+   "page_refs": [
+    1,
+    2,
+    3,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "quote": "it seems to be a spaceship"
+  }
+ ]
+}

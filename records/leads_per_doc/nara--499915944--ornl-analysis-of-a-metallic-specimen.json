@@ -1,0 +1,19 @@
+{
+ "doc": "nara--499915944--ornl-analysis-of-a-metallic-specimen.md",
+ "leads": [
+  {
+   "page": 2,
+   "lead_type": "analysis-of-material",
+   "claim": "A metallic specimen composed of magnesium, zinc, and bismuth is claimed to be recovered from a 1947 UAP crash and capable of inertial mass reduction.",
+   "strength": "strong",
+   "why": "The document explicitly identifies a specific physical specimen, details its alleged origin (1947 UAP crash), and describes the government's formal scientific analysis of it.",
+   "claimant": "Public and media sources (referenced by AARO)",
+   "custody_chain": "TTSA (To The Stars Academy) and DEVCOM Ground Vehicle System Center provided the specimen to ORNL for analysis.",
+   "government_response": "AARO tasked ORNL with an independent assessment to determine if the material is terrestrial and if it functions as a terahertz waveguide.",
+   "material_description": "A layered metallic specimen primarily composed of magnesium and zinc, with bands of bismuth and trace elements.",
+   "outcome_in_document": "confirmed-mundane",
+   "quote": "claimed to be recovered from an unidentified anomalous phenomenon (UAP) crash in or around 1947."
+  }
+ ],
+ "doc_verdict": "The document confirms that the government possessed and analyzed a specific physical specimen claimed to be of UAP origin, ultimately concluding that the material is terrestrial."
+}

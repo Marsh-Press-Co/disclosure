@@ -1,0 +1,54 @@
+{
+ "doc": "nara--147872137--147872137-42-t-26444785-20060476f-001-002-2013.md",
+ "leads": [
+  {
+   "page": 12,
+   "lead_type": "biological",
+   "claim": "The claimant asserts they saw photographs of dead aliens, live aliens, autopsies, and an alien designated 'E.B.' held in captivity from 1949 to 1952.",
+   "strength": "strong",
+   "why": "The claimant provides specific details regarding the types of biological evidence and the duration of custody for a specific entity.",
+   "claimant": "Anonymous source (narrator of the document)",
+   "custody_chain": "Project Grudge",
+   "government_response": "None mentioned in the text.",
+   "outcome_in_document": "asserted-under-oath",
+   "quote": "I saw photographs of these dead alien's, of the craft; I saw photographs of live aliens; I saw photographs of 'autopsies"
+  },
+  {
+   "page": 12,
+   "lead_type": "craft-custody",
+   "claim": "The claimant asserts the existence of a project to fly recovered alien craft that were obtained intact and undamaged.",
+   "strength": "strong",
+   "why": "The claimant describes a specific program (Project Redlight) dedicated to the testing and operation of recovered extraterrestrial technology.",
+   "claimant": "Anonymous source (narrator of the document)",
+   "custody_chain": "Project Redlight, Tonopah",
+   "government_response": "None mentioned in the text.",
+   "outcome_in_document": "asserted-under-oath",
+   "quote": "I saw a project that was, to fly recovered alien craft that had been recovered intact and un­ damaged"
+  },
+  {
+   "page": 21,
+   "lead_type": "craft-custody",
+   "claim": "The document describes 'POUNCE' as a project to recover downed craft and 'REDLIGHT' as a project to test them at Area 51, noting aliens provided assistance.",
+   "strength": "strong",
+   "why": "The text explicitly names recovery and testing programs and describes a collaborative relationship with extraterrestrials regarding the technology.",
+   "claimant": "Anonymous source (narrator of the document)",
+   "custody_chain": "POUNCE, REDLIGHT, AREA 51 (DREAMLAND)",
+   "government_response": "None mentioned in the text.",
+   "outcome_in_document": "asserted-under-oath",
+   "quote": "POUNCE the project formed to recover all downed/crashed craft and aliens. REDLIGHT is the ,project to test recovered alien craft."
+  },
+  {
+   "page": 47,
+   "lead_type": "contractor-involvement",
+   "claim": "The claimant asserts they were tasked with distributing advanced technology to defense contractors and universities for reverse engineering.",
+   "strength": "moderate",
+   "why": "The claim links government intelligence work to the transfer of advanced technology to private contractors for analysis, though it lacks specific material descriptions.",
+   "claimant": "Anonymous source (narrator of the document)",
+   "custody_chain": "Pentagon, Foreign Technology section of Army Intelligence",
+   "government_response": "None mentioned in the text.",
+   "outcome_in_document": "asserted-under-oath",
+   "quote": "charged with the task of getting this advanced technology in the hands Jf defense contractors and universities, so they could reverse engineer"
+  }
+ ],
+ "doc_verdict": "The document contains multiple assertions from an anonymous narrator claiming the existence of recovered alien craft, biological entities, and government programs dedicated to their study and reverse engineering."
+}

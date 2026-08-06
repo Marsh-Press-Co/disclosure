@@ -1,0 +1,154 @@
+{
+ "doc_id": "nara--653457957--guardian-case-file-observation-of-uap-unidentified-anomalous",
+ "file": "nara--653457957--guardian-case-file-observation-of-uap-unidentified-anomalous.md",
+ "source": "NARA-RG615",
+ "agency": "FBI",
+ "title": "Guardian Case File \"Observation of UAP [Unidentified Anomalous Phenomena] by Anoka Police Department personnel,\" May 9, 2025",
+ "record_type": "archival-record",
+ "index_date": "2025",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI case closing report regarding UAP observations reported by Anoka Police Department personnel, containing significant redactions.",
+ "incidents": [
+  {
+   "summary": "Anoka Police Department personnel observed a multi-colored, gyroscope-shaped object hovering near Anoka, MN, which performed evasive maneuvers around a private airplane.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "dropped in altitude",
+    "moved around the path of the air plane",
+    "climbed in altitude",
+    "changed location in three separate burst",
+    "descended like a leaf floating on a breeze"
+   ],
+   "color": "multi colored",
+   "country": "USA",
+   "date": "2025-02-19",
+   "duration": "90 minutes",
+   "explanation_status": "not-assessed",
+   "location_name": "Anoka, MN",
+   "object_count": "1",
+   "page_refs": [
+    1,
+    2
+   ],
+   "quote": "describe the object's appearance as a multi colored gyroscope that was approximately the size of a SUV or school bus",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "video",
+    "other"
+   ],
+   "shape": "gyroscope",
+   "size": "SUV or school bus",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "A second object, similar to the first, was observed hovering north of Anoka, MN, by police personnel.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "hovering"
+   ],
+   "country": "USA",
+   "date": "2025-02-19",
+   "explanation_status": "not-assessed",
+   "location_name": "Anoka, MN",
+   "object_count": "1",
+   "page_refs": [
+    2
+   ],
+   "quote": "he observed a second object, similar to the first, hovering in the area north of Anoka, MN.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "An object was observed hovering near the Anoka Ice Arena and recorded on a cellphone.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "hovering",
+    "climbed rapidly"
+   ],
+   "country": "USA",
+   "date": "2022-09-11",
+   "explanation_status": "not-assessed",
+   "location_name": "Anoka, MN",
+   "object_count": "1",
+   "page_refs": [
+    2
+   ],
+   "quote": "observed an object hovering near the Anoka Ice Arena.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "video"
+   ],
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "A large yellow and orange orb was observed hovering over a lake at the witness's parents' cabin.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "hovering"
+   ],
+   "color": "yellow and orange",
+   "country": "USA",
+   "explanation_status": "not-assessed",
+   "object_count": "1",
+   "page_refs": [
+    2
+   ],
+   "quote": "observed large yellow and orange orb hovering over the lake at his parents' cabin.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "orb",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Three separate flashes of light were observed and recorded while traveling north on Hwy 169 in Champlin, MN.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "behavior": [
+    "traveled north"
+   ],
+   "country": "USA",
+   "explanation_status": "not-assessed",
+   "location_name": "Champlin, MN",
+   "object_count": "3",
+   "page_refs": [
+    2
+   ],
+   "quote": "observed three separate flashes of light that traveled north.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "video"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

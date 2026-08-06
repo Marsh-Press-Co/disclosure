@@ -1,0 +1,19 @@
+{
+ "doc": "nara--493468580--osd-uap-records-03-2024-dgi-mission-brief.md",
+ "leads": [
+  {
+   "page": 4,
+   "lead_type": "program-custody-language",
+   "claim": "AARO S&T group is tasked with the planning and execution of UAP object recovery and the subsequent handling, storage, transport, and transfer of such material for exploitation.",
+   "strength": "strong",
+   "why": "The document explicitly outlines a formal government program and protocol for the recovery, custody, and exploitation of UAP objects.",
+   "claimant": "AARO (All-domain Anomaly Resolution Office)",
+   "custody_chain": "Commands to AARO S&T group for exploitation",
+   "government_response": "The document establishes this as an official mission function.",
+   "material_description": "UAP objects and material",
+   "outcome_in_document": "asserted-under-oath",
+   "quote": "Leads UAP recovery planning and execution... Advises Commands on the secure and safe handling, storage, transport, and transfer of UAP objects"
+  }
+ ],
+ "doc_verdict": "The document explicitly confirms the existence of an official government program for the recovery, custody, and exploitation of UAP objects and material."
+}

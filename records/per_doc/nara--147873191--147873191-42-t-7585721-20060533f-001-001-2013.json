@@ -1,0 +1,85 @@
+{
+ "doc_id": "nara--147873191--147873191-42-t-7585721-20060533f-001-001-2013",
+ "file": "nara--147873191--147873191-42-t-7585721-20060533f-001-001-2013.md",
+ "source": "NARA-RG615",
+ "agency": "National Archives (RG 615)",
+ "title": "147873191 - 42-t-7585721-20060533F-001-001-2013",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document consists of two internal email messages containing AP news wire stories regarding UFO sightings and related phenomena in Colorado and Arizona.",
+ "incidents": [
+  {
+   "summary": "Travis Walton reported being abducted by aliens after being beamed up by a blue light.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "beamed up"
+   ],
+   "color": "blue",
+   "country": "USA",
+   "date": "1975",
+   "explanation_status": "not-assessed",
+   "location_name": "Mogollon Rim, Arizona",
+   "page_refs": [
+    4,
+    5
+   ],
+   "quote": "hauled poor 01' Travis Walton away from the pine woods of the Mogollon Rim for five days",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Devin Williams disappeared after exhibiting bizarre behavior and claiming 'they' made him do it.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "menacingly circling campers",
+    "running motorists off the road",
+    "talking to a tree"
+   ],
+   "country": "USA",
+   "date": "1995",
+   "explanation_status": "unexplained",
+   "location_name": "Winslow, Arizona",
+   "page_refs": [
+    4,
+    5
+   ],
+   "quote": "He said, 'They made me doit,'",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Three witnesses reported seeing a large orange object hit the ground near Pinedale.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "behavior": [
+    "hit the ground"
+   ],
+   "color": "orange",
+   "country": "USA",
+   "date": "1996-07",
+   "explanation": "Forest Service attributed the fire to a lightning strike.",
+   "explanation_status": "explained",
+   "location_name": "Pinedale, Arizona",
+   "page_refs": [
+    5
+   ],
+   "quote": "Three different people told me they saw a big, orange object hit the ground",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "doc_id": "nara--653628634--guardian-case-file-ntoc2024-possible-uaps-unidentified-anoma",
+ "file": "nara--653628634--guardian-case-file-ntoc2024-possible-uaps-unidentified-anoma.md",
+ "source": "NARA-RG615",
+ "agency": "FBI",
+ "title": "Guardian Case File \"NTOC2024 Possible UAPs [Unidentified Anomalous Phenomena] Hovering Near Rolling Meadows, IL. [Illinois],\" January 8, 2025",
+ "record_type": "archival-record",
+ "index_date": "2025",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI Guardian case file regarding a UAP sighting in Rolling Meadows, IL, which was investigated and closed due to a lack of corroborating sensor data from local airports.",
+ "incidents": [
+  {
+   "summary": "Witness reported seeing three or four glowing orbs hovering in the sky in Rolling Meadows, IL.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "streak side to side"
+   ],
+   "color": "yellow/white",
+   "country": "USA",
+   "date": "2024-12-20",
+   "explanation_status": "explained",
+   "location_name": "Rolling Meadows, IL",
+   "page_refs": [
+    1,
+    5,
+    6,
+    12,
+    13,
+    15,
+    16
+   ],
+   "quote": "reported seeing three or four glowing orbs hovering in the sky",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "photo",
+    "video"
+   ],
+   "shape": "round circles, diamond shape",
+   "time_local": "17:05",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

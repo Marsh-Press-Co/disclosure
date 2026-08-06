@@ -1,0 +1,27 @@
+{
+ "doc": "nara--733667--roswell-report-source-files-733667-001-003.md",
+ "leads": [
+  {
+   "page": 4,
+   "lead_type": "biological",
+   "claim": "Western Reserve University assisted in calculating the position of celestial bodies relative to a JAL 747 airliner.",
+   "strength": "noise",
+   "why": "The snippet refers to astronomical calculations regarding a commercial airliner sighting, not biological material or UAP debris."
+  },
+  {
+   "page": 14,
+   "lead_type": "program-custody-language",
+   "claim": "ATS-1 is responsible for investigating air traffic accidents and has a need-to-know for related information.",
+   "strength": "noise",
+   "why": "This is standard administrative language regarding the handling of conventional air traffic accident investigation data."
+  },
+  {
+   "page": 14,
+   "lead_type": "program-custody-language",
+   "claim": "The office restricts the release of investigative data and material to authorized parties only.",
+   "strength": "noise",
+   "why": "The mention of 'material' refers to conventional investigative documentation and data, not physical UAP or extraterrestrial artifacts."
+  }
+ ],
+ "doc_verdict": "This document contains no information suggesting the government or contractors obtained, held, or analyzed physical UAP material."
+}

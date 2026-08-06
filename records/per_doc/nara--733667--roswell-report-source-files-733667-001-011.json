@@ -1,0 +1,190 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-011",
+ "file": "nara--733667--roswell-report-source-files-733667-001-011.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-011",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FAA records, transcripts, and internal memoranda regarding the November 17, 1986, JAL 1628 sighting, along with brief mentions of other Alaskan sightings and technical guidelines for digitizing archival records.",
+ "incidents": [
+  {
+   "summary": "JAL flight 1628 crew reported sighting unidentified air traffic over Alaska.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "formation flight",
+    "maneuvering",
+    "pulsating lights",
+    "disappeared"
+   ],
+   "color": "white, yellow, amber, green",
+   "country": "USA",
+   "date": "1986-11-17",
+   "duration": "approx 50 minutes",
+   "explanation": "FAA concluded radar returns were uncorrelated primary and beacon targets (split radar return).",
+   "explanation_status": "explained",
+   "location_name": "Alaska",
+   "object_count": "2",
+   "page_refs": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    14,
+    16,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    73,
+    74,
+    75,
+    76,
+    77,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    93,
+    94,
+    100
+   ],
+   "quote": "The Nov. 17 UFO sighting was reported by JAL Captain Kenjyu Terauchi on a cargo flight over the polar cap from Iceland to Japan via Anchorage.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "square",
+   "size": "larger than a B747",
+   "time_local": "18:18",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Captain Terauchi reported a second sighting in the same general area as the first.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "medium",
+   "behavior": [
+    "pulsating lights"
+   ],
+   "color": "unknown",
+   "country": "USA",
+   "date": "1987-01-11",
+   "duration": "unknown",
+   "explanation": "FAA concluded phenomena was likely ice crystals caused by temperature inversion.",
+   "explanation_status": "explained",
+   "location_name": "Alaska",
+   "object_count": "unknown",
+   "page_refs": [
+    3,
+    100
+   ],
+   "quote": "On Jan. 11, 1987, Captain Terauchi also reported another sighting in the same general area as the first.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "size": "unknown",
+   "time_local": "07:30",
+   "witness_count": "unknown",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Alaska Airlines flight 63 reported unidentified air traffic on weather radar.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "medium",
+   "behavior": [
+    "high speed movement"
+   ],
+   "color": "unknown",
+   "country": "USA",
+   "date": "1987-01-29",
+   "duration": "unknown",
+   "explanation": "FAA has no opinions or conclusions.",
+   "explanation_status": "not-assessed",
+   "location_name": "McGrath, Alaska",
+   "object_count": "1",
+   "page_refs": [
+    99
+   ],
+   "quote": "An Alaska Airlines flight crew of a Boeing 737 aircraft, flight 63, enroute from Nome to Anchorage, Alaska, on January 29, 1987, reported to the FAA Anchorage Air Route Traffic Control Center, the sighting of unidentified air traffic on their onboard weather radar system.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "radar"
+   ],
+   "shape": "unknown",
+   "size": "unknown",
+   "time_local": "18:39",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Flying Tigers Flight 73 reported observing a target approaching Anchorage.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "behavior": [
+    "unknown"
+   ],
+   "color": "unknown",
+   "country": "USA",
+   "date": "1985-11-21",
+   "duration": "unknown",
+   "explanation": "Air Force unable to confirm; no FAA investigation.",
+   "explanation_status": "not-assessed",
+   "location_name": "Anchorage, Alaska",
+   "object_count": "1",
+   "page_refs": [
+    100
+   ],
+   "quote": "The crew of a Flying Tigers Flight #73, Boeing 747, cargo aircraft, flying at 37,000 feet, reported observing a \"target\" heading 320 degrees as it approached Anchorage on November 21, 1985.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "unknown",
+   "size": "unknown",
+   "time_local": "unknown",
+   "witness_count": "unknown",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

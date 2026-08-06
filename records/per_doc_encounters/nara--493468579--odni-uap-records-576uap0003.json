@@ -1,0 +1,25 @@
+{
+ "doc_id": "nara--493468579--odni-uap-records-576uap0003",
+ "file": "nara--493468579--odni-uap-records-576uap0003.md",
+ "source": "NARA-RG615",
+ "agency": "ODNI",
+ "title": "ODNI UAP records - 576UAP0003",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a preliminary assessment report from the ODNI regarding UAP, which contains a single identified encounter case among a broader dataset of 144 reports.",
+ "encounters": [
+  {
+   "summary": "A UAP incident identified as a large, deflating balloon.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "debunked",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "page_refs": [
+    4,
+    5
+   ]
+  }
+ ]
+}

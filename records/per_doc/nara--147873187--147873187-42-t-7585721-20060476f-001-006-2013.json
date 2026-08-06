@@ -1,0 +1,51 @@
+{
+ "doc_id": "nara--147873187--147873187-42-t-7585721-20060476f-001-006-2013",
+ "file": "nara--147873187--147873187-42-t-7585721-20060476f-001-006-2013.md",
+ "source": "NARA-RG615",
+ "agency": "National Archives (RG 615)",
+ "title": "147873187 - 42-t-7585721-20060476F-001-006-2013",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a 1995 GAO report investigating government records concerning the 1947 Roswell incident, containing correspondence from various federal agencies regarding their lack of additional records.",
+ "incidents": [
+  {
+   "summary": "Recovery of an airborne object near Roswell, New Mexico, initially reported as a flying disc and later identified by the military as a radar-tracking balloon.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "crashed"
+   ],
+   "color": "",
+   "country": "United States",
+   "date": "1947-07-08",
+   "duration": "",
+   "explanation": "Identified by the military as a radar-tracking balloon, later associated with Project Mogul.",
+   "explanation_status": "explained",
+   "location_name": "Roswell, New Mexico",
+   "object_count": "1",
+   "page_refs": [
+    5,
+    6,
+    8,
+    17,
+    18
+   ],
+   "quote": "The object turned out to be a radar tracking balloon.",
+   "recording_agency": "GAO",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "hexagonal disc",
+   "size": "balloon approximately 20 feet in diameter",
+   "time_local": "",
+   "witness_count": "",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

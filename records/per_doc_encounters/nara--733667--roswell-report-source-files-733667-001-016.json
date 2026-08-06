@@ -1,0 +1,30 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-016",
+ "file": "nara--733667--roswell-report-source-files-733667-001-016.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-016",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a facility operation log from the Anchorage ARTCC documenting a reported close-approach encounter with an unknown target by Japan Airlines flight 1628.",
+ "encounters": [
+  {
+   "summary": "A Japan Airlines flight (JL1628) reported an unknown target pacing their aircraft at FL350, exhibiting white and yellow strobe lights, which was also tracked intermittently by radar.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1986-11-17",
+   "date_precision": "day",
+   "location_name": "Anchorage, Alaska",
+   "page_refs": [
+    1,
+    2
+   ],
+   "quote": "JL1628's traffic apparently pacing visually"
+  }
+ ]
+}

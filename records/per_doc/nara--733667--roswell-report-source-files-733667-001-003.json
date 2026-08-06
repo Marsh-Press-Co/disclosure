@@ -1,0 +1,136 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-003",
+ "file": "nara--733667--roswell-report-source-files-733667-001-003.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-003",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document consists of internal FAA correspondence, memoranda, and news clippings regarding the investigation of the JAL 1628 UFO incident and the subsequent unauthorized release of investigative materials.",
+ "incidents": [
+  {
+   "summary": "Japan Air Lines flight 1628 crew reported sighting unidentified objects over Alaska while en route to Anchorage.",
+   "date_precision": "day",
+   "time_of_day": "dusk",
+   "confidence": "high",
+   "behavior": [
+    "paced aircraft",
+    "undulating",
+    "pulsating",
+    "stopped in front of aircraft"
+   ],
+   "color": "amber-white",
+   "country": "USA",
+   "date": "1986-11-17",
+   "explanation": "FAA investigation suggested the sightings were likely caused by moonlight reflecting off ice crystals and the planet Jupiter.",
+   "explanation_status": "explained",
+   "location_name": "Alaska",
+   "object_count": "multiple",
+   "page_refs": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40
+   ],
+   "quote": "It was not a weather phenomena. Not a star. It moved with you.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "walnut-shaped",
+   "time_local": "18:15",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Captain Terauchi reported spotting unusual lights while on a flight from Paris to Anchorage.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "pulsating"
+   ],
+   "country": "USA",
+   "date": "1987-01-11",
+   "explanation": "Agreed by pilot and FAA to be village lights diffused by ice crystals.",
+   "explanation_status": "explained",
+   "location_name": "Alaska",
+   "page_refs": [
+    2,
+    3,
+    32,
+    33
+   ],
+   "quote": "We see irregular pulsating lights just there is a large black chunk just in front of us.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Air Force crew and Alaskan Airlines flight crew reported sighting unidentified air traffic.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "country": "USA",
+   "date": "1987-01-29",
+   "explanation_status": "not-assessed",
+   "location_name": "Alaska",
+   "page_refs": [
+    10,
+    20,
+    37,
+    38
+   ],
+   "recording_agency": "FAA",
+   "witness_types": [
+    "military-other",
+    "civilian"
+   ]
+  }
+ ]
+}

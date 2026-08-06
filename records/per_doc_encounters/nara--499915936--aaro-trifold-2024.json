@@ -1,0 +1,11 @@
+{
+ "doc_id": "nara--499915936--aaro-trifold-2024",
+ "file": "nara--499915936--aaro-trifold-2024.md",
+ "source": "NARA-RG615",
+ "agency": "OSD",
+ "title": "AARO Trifold 2024",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an informational trifold brochure from the All-domain Anomaly Resolution Office (AARO) outlining their mission, reporting procedures, and definitions; it contains no specific encounter reports.",
+ "encounters": []
+}

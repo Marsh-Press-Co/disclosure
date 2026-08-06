@@ -1,0 +1,64 @@
+{
+ "doc_id": "nara--faa-reports-batch-16",
+ "file": "nara--faa-reports-batch-16.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 16 (237UAP00389 - 237UAP00454)",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a batch of FAA UAP incident reports; most entries are distant sightings, but three reports describe close-range encounters with specific physical characteristics or associated technical issues.",
+ "encounters": [
+  {
+   "summary": "UPS 913 reported a white torpedo-shaped object passing 500 feet below their left wing while at FL240.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "2021-05-18",
+   "date_precision": "day",
+   "location_name": "Palm Springs, CA",
+   "page_refs": [
+    4
+   ],
+   "quote": "white torpedo shaped object"
+  },
+  {
+   "summary": "Flexjet 359 reported a UFO 10,000 feet above their aircraft at FL450, accompanied by autopilot and attitude reference system issues.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "2022-04-21",
+   "date_precision": "day",
+   "location_name": "Kessel, WV",
+   "page_refs": [
+    6
+   ],
+   "physical_effects": [
+    "attitude reference system issues",
+    "auto pilot issues"
+   ],
+   "quote": "PIC reported attitude reference system and auto pilot issues"
+  },
+  {
+   "summary": "N926FM reported a shiny missile-shaped object climbing through FL360 with a smoke trail.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "USA",
+   "date": "2023-01-26",
+   "date_precision": "day",
+   "location_name": "Lynchburg, VA",
+   "page_refs": [
+    15
+   ],
+   "quote": "shiny missile shaped object"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "doc_id": "nara--faa-reports-batch-23",
+ "file": "nara--faa-reports-batch-23.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 23 (237UAP00614 - 237UAP00638)",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a batch of FAA UAP reports containing two close-approach encounters and several distant sightings.",
+ "encounters": [
+  {
+   "summary": "United 1986 reported a black UFO 100 feet from their 1 o'clock position while at 8,000 feet.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "location_name": "OAKLAND, CA",
+   "page_refs": [
+    6
+   ],
+   "quote": "REPORTED A BLACK UFO 100 FEET FROM THEIR 1 O'CLOCK POSITION"
+  },
+  {
+   "summary": "Public use TROY21 reported a football-sized, cylindrical UAP traveling 10 feet below their right wing at FL200.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "location_name": "AVENAL, CA",
+   "page_refs": [
+    23
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON TRAVEL 10 FEET BELOW RIGHT WING"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "doc": "nara--147871567--147871567-42-t-1127712-20060476f-001-001-2013.md",
+ "leads": [
+  {
+   "page": 10,
+   "lead_type": "debris-material",
+   "claim": "The U.S. Military recovered material of extraterrestrial origin near Roswell, New Mexico, in July 1947.",
+   "strength": "moderate",
+   "why": "The document acknowledges the existence of a widely reported claim regarding the recovery of extraterrestrial material, though it ultimately argues against its validity.",
+   "claimant": "Major Jesse Marcel and other military/civilian witnesses",
+   "material_description": "Roswell wreckage of extraterrestrial origin",
+   "outcome_in_document": "judged-hoax",
+   "quote": "It involved the recovery by the U.S. Military of material alleged to be of extraterrestrial origin."
+  },
+  {
+   "page": 28,
+   "lead_type": "biological",
+   "claim": "A witness claimed to have seen alien bodies related to the Roswell incident.",
+   "strength": "moderate",
+   "why": "The text references a specific claim about the existence of bodies, even while dismissing it as part of a larger, debunked narrative.",
+   "claimant": "Anonymous witness cited in a letter",
+   "material_description": "Alien bodies",
+   "outcome_in_document": "judged-hoax",
+   "quote": "we secured another first-hand witness to the bodies."
+  },
+  {
+   "page": 32,
+   "lead_type": "debris-material",
+   "claim": "Jesse Marcel, Jr. saw unusual material recovered from the Foster Ranch that his father brought home.",
+   "strength": "moderate",
+   "why": "The claim involves a specific witness who allegedly handled the material, though the author concludes it was mundane.",
+   "claimant": "Jesse Marcel, Jr.",
+   "material_description": "Unusual material/debris",
+   "outcome_in_document": "confirmed-mundane",
+   "quote": "Jesse Marcel, Jr., got a good look at the unusual material."
+  }
+ ],
+ "doc_verdict": "The document explicitly denies the existence of any extraterrestrial material or secret programs, characterizing all such claims as hoaxes or misidentifications of mundane objects like radar reflectors."
+}

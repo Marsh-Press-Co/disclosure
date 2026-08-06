@@ -1,0 +1,544 @@
+{
+ "doc_id": "nara--faa-reports-batch-22",
+ "file": "nara--faa-reports-batch-22.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 22 (237UAP00589 - 237UAP00613)",
+ "record_type": "report-batch",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This document is a collection of FAA reports regarding UAP sightings by commercial aircraft pilots between December 2023 and January 2024. / This document is a collection of FAA reports regarding UAP sightings by commercial and military pilots between January and February 2024.",
+ "incidents": [
+  {
+   "summary": "Southwest 111 reported an unidentified aerial phenomenon at 12 o'clock position.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-12-22",
+   "explanation_status": "unexplained",
+   "location_name": "Pocatello, ID",
+   "page_refs": [
+    1
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON FROM THE 12 O'CLOCK POSITION",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "United 1605 reported erratically moving lights off the left side of the aircraft.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "moving erratically",
+    "traveling in random directions"
+   ],
+   "country": "USA",
+   "date": "2023-12-23",
+   "explanation_status": "unexplained",
+   "location_name": "Springfield, IL",
+   "page_refs": [
+    2
+   ],
+   "quote": "UAP WAS LIGHTS MOVING ERRATICALLY TRAVELING IN RANDOM DIRECTIONS",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple aircraft reported two white lights circling each other.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "circling each other",
+    "moving away from each other"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2023-12-27",
+   "explanation_status": "unexplained",
+   "location_name": "Salina, KS",
+   "object_count": "2",
+   "page_refs": [
+    3
+   ],
+   "quote": "TWO WHITE LIGHTS CIRCLING EACH OTHER",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Southwest 1508 reported two orbiting aircraft 10,000 feet above.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "orbiting"
+   ],
+   "country": "USA",
+   "date": "2023-12-27",
+   "explanation_status": "unexplained",
+   "location_name": "Shreveport, LA",
+   "object_count": "2",
+   "page_refs": [
+    4
+   ],
+   "quote": "TWO ORBITING ACFT 10,000 FEET ABOVE THEIR 12 O'CLOCK POSITION",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Envoy 3781 reported two orbiting aircraft 10,000 feet above.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "orbiting"
+   ],
+   "country": "USA",
+   "date": "2023-12-27",
+   "explanation_status": "unexplained",
+   "location_name": "Shreveport, LA",
+   "object_count": "2",
+   "page_refs": [
+    5
+   ],
+   "quote": "TWO ORBITING ACFT 10,000 FEET ABOVE THEIR 12 O'CLOCK POSITION",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "N268CA reported an unidentified aerial phenomenon from the left side.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2023-12-28",
+   "explanation_status": "unexplained",
+   "location_name": "Hartselle, AL",
+   "page_refs": [
+    6
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON FROM THE LEFT SIDE",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "United 1715 reported a white and blue unidentified aerial phenomenon.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "color": "white and blue",
+   "country": "USA",
+   "date": "2024-01-13",
+   "explanation_status": "unexplained",
+   "location_name": "San Antonio, TX",
+   "page_refs": [
+    7
+   ],
+   "quote": "REPORTED A WHITE AND BLUE UNIDENTIFIED AERIAL PHENOMENON",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "NetJets 466 reported an unidentified aerial phenomenon from the right side.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2024-01-19",
+   "explanation_status": "unexplained",
+   "location_name": "Thayer, MO",
+   "page_refs": [
+    8
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON FROM THE RIGHT SIDE",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Envoy 3914 reported an unidentified aerial phenomenon while south bound.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2024-01-19",
+   "explanation_status": "unexplained",
+   "location_name": "Jackson, TN",
+   "page_refs": [
+    9
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON WHILE S BOUND",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Delta 2784 reported an unidentified aerial phenomenon at 12 o'clock position.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2024-01-19",
+   "explanation_status": "unexplained",
+   "location_name": "Fort Smith, AR",
+   "page_refs": [
+    10
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON AT THE 12 O'CLOCK POSITION",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Breeze 505 reported an unidentified aerial phenomenon with red lights below the aircraft.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "color": "red",
+   "country": "USA",
+   "date": "2024-01-20",
+   "explanation_status": "unexplained",
+   "location_name": "Orangeburg, SC",
+   "page_refs": [
+    11
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON WITH RED LIGHTS BELOW ACFT",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Xcel Jet 411 reported a bright stationary light turning significantly higher than the aircraft.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "stationary",
+    "turning"
+   ],
+   "country": "USA",
+   "date": "2024-01-21",
+   "explanation_status": "unexplained",
+   "location_name": "Palm Springs, CA",
+   "page_refs": [
+    12
+   ],
+   "quote": "REPORTED AN UNIDENTIFIED AERIAL PHENOMENON OF A BRIGHT LIGHT STATIONARY AND TURNING",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Alaska 440 reported an unidentified aerial phenomenon with white lights at 12 o'clock position.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "stationary"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2024-01-24",
+   "location_name": "Denver ARTCC airspace",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Multiple aircraft reported an unidentified aerial phenomenon with orange flashing lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flashing"
+   ],
+   "color": "orange",
+   "country": "USA",
+   "date": "2024-01-25",
+   "location_name": "Goffs, CA",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Republic 4809 reported two white and red rapidly moving lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "rapidly moving"
+   ],
+   "color": "white and red",
+   "country": "USA",
+   "date": "2024-01-26",
+   "location_name": "Philipsburg, PA",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "EVA 008 reported an unidentified aerial phenomenon of aircraft dogfighting.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "dogfighting"
+   ],
+   "country": "USA",
+   "date": "2024-01-27",
+   "location_name": "450 NM west of SFO",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "USAF Racer2 reported an unidentified aerial phenomenon 10 miles south of Valparaiso.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2024-01-29",
+   "location_name": "Valparaiso, FL",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "National ATCT reported 3 lights flying around at FL300.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flying around"
+   ],
+   "country": "USA",
+   "date": "2024-02-04",
+   "location_name": "Washington, DC",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "Sun Country 3053 reported 5 separate craft with white lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "color": "white",
+   "country": "USA",
+   "date": "2024-02-04",
+   "location_name": "Myton, UT",
+   "object_count": "5",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Spirit 1337 reported a silver object the size of a small business jet.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "color": "silver",
+   "country": "USA",
+   "date": "2024-02-04",
+   "location_name": "Houston, TX",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "size": "small business jet",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Delta 757 reported multiple lights orbiting ahead of the aircraft.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "orbiting"
+   ],
+   "country": "USA",
+   "date": "2024-02-14",
+   "location_name": "Huntsville, AL",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "United 2484 reported 1-5 white lights moving vertically and horizontally.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "moving vertically and horizontally"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2024-02-17",
+   "location_name": "Ardmore, OK",
+   "object_count": "1-5",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "N151SD and American 2514 reported 3 bright lights moving fast.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "moving fast",
+    "dramatic movements"
+   ],
+   "country": "USA",
+   "date": "2024-02-18",
+   "location_name": "Lamar, CO",
+   "object_count": "3",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Air Transport 3498 reported multiple lights moving and circling.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "moving",
+    "circling"
+   ],
+   "country": "USA",
+   "date": "2024-02-19",
+   "location_name": "Chicago-Rockford, IL",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "American 2054 reported three white lights making tight spirals.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "tight spirals"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2024-02-20",
+   "location_name": "Crestview, FL",
+   "object_count": "3",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

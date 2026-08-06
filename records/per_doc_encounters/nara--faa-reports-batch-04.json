@@ -1,0 +1,33 @@
+{
+ "doc_id": "nara--faa-reports-batch-04",
+ "file": "nara--faa-reports-batch-04.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 04 (237UAP00082 - 237UAP00106)",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a batch of FAA Skywatch incident reports; only one report contains a claim of physical effects on an aircraft.",
+ "encounters": [
+  {
+   "summary": "LXJ359 reported a string of bright lights at FL550 while at FL450; experienced double Attitude Reference System and Autopilot System failures while underneath the lights.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "2022-04-22",
+   "date_precision": "day",
+   "location_name": "ESL VORTAC",
+   "page_refs": [
+    7
+   ],
+   "physical_effects": [
+    "double Attitude Reference System failure",
+    "double Autopilot System failure"
+   ],
+   "quote": "LXJ359 experienced a double Attitude Reference System failure and a double Autopilot System failure while directly underneath of the UFO lights."
+  }
+ ]
+}

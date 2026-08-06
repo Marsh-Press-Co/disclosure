@@ -1,0 +1,44 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-018",
+ "file": "nara--733667--roswell-report-source-files-733667-001-018.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-018",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document consists of a series of personnel statements from FAA Air Traffic Control staff regarding the radar and visual tracking of an unidentified object reported by Japan Airlines Flight 1628.",
+ "encounters": [
+  {
+   "summary": "Japan Airlines Flight 1628 reported an unidentified aircraft with white and yellow strobes paralleling its flight path near Fairbanks, Alaska, which was intermittently tracked by radar.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1986-11-18",
+   "date_precision": "day",
+   "location_name": "North of Fairbanks, Alaska",
+   "page_refs": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ],
+   "quote": "reported traffic at his altitude (FL 350), distance one (1) mile with a white and yellow strobe light"
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "doc": "nara--733667--roswell-report-source-files-733667-001-011.md",
+ "leads": [
+  {
+   "page": 31,
+   "lead_type": "biological",
+   "claim": "The pilot observed a living creature inside an unidentified machine that performed unexpected maneuvers.",
+   "strength": "noise",
+   "why": "The claim describes a sighting and subjective interpretation of pilot behavior rather than the recovery, custody, or analysis of physical biological material.",
+   "outcome_in_document": "unknown",
+   "quote": "I felt there was a living creature in it."
+  },
+  {
+   "page": 47,
+   "lead_type": "biological",
+   "claim": "The pilot describes a spaceship and a creature with unknown scientific technology during a flight encounter.",
+   "strength": "noise",
+   "why": "This is a narrative account of an aerial sighting and does not involve the physical recovery or government custody of any material or biological entity.",
+   "outcome_in_document": "unknown",
+   "quote": "Even the F-15 with the newest technology had no guarantee of safety against the creature"
+  }
+ ],
+ "doc_verdict": "The document contains only pilot accounts of aerial sightings and does not provide any evidence or claims regarding the government recovery, custody, or analysis of physical UAP material or biological matter."
+}

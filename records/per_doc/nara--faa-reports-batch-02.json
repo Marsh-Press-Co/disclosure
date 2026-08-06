@@ -1,0 +1,618 @@
+{
+ "doc_id": "nara--faa-reports-batch-02",
+ "file": "nara--faa-reports-batch-02.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 02 (237UAP00030 - 237UAP00055)",
+ "record_type": "report-batch",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FAA Skywatch incident reports regarding UAP sightings from 2017 to 2021.",
+ "incidents": [
+  {
+   "summary": "Aircraft reported a white object descending and following them.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "following"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2017-02-06",
+   "explanation": "Likely another aircraft (SWA814) 20 NM away.",
+   "explanation_status": "explained",
+   "location_name": "PHL",
+   "page_refs": [
+    1
+   ],
+   "quote": "ACFT reported a UFO off of the right side descending with the ACFT.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Radar target and visual sighting of a large white UAS hovering near runway.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "climbing"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2018-03-02",
+   "explanation_status": "not-assessed",
+   "location_name": "HOU",
+   "page_refs": [
+    2
+   ],
+   "quote": "HOU ATCT visually observed a 'large white UAS until they lost sight of it to the ESE.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "radar",
+    "visual"
+   ],
+   "shape": "large",
+   "witness_types": [
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "Aircraft reported a circular object with red and green lights.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "moving slowly"
+   ],
+   "color": "red and green",
+   "country": "USA",
+   "date": "2018-03-06",
+   "explanation_status": "not-assessed",
+   "location_name": "GLD",
+   "page_refs": [
+    3
+   ],
+   "quote": "Aircraft reported a UFO of a circular red and green light pattern moving slowly westbound",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Multiple aircraft reported a sighting in the vicinity of Amarillo, TX.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "medium",
+   "country": "USA",
+   "date": "2018-06-05",
+   "explanation": "NASA website indicated the Space Station would be visible.",
+   "explanation_status": "explained",
+   "location_name": "Amarillo, TX",
+   "page_refs": [
+    4
+   ],
+   "quote": "ZAB reports multiple ACFT reporting possible UFO sighting in VCNTY of PHN",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Five reports of objects over Patuxent VOR showing on TCAS.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "medium",
+   "country": "USA",
+   "date": "2018-06-15",
+   "explanation_status": "not-assessed",
+   "location_name": "Patuxent VOR",
+   "page_refs": [
+    5
+   ],
+   "quote": "ZDC reporting 5 UFO reports over the Patuxent (PXT) VOR between FL320 and FL350",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "other"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Circular object with red and green strobe lights hovering over a hospital.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "medium",
+   "behavior": [
+    "hovering"
+   ],
+   "color": "red and green",
+   "country": "USA",
+   "date": "2018-11-03",
+   "explanation_status": "not-assessed",
+   "location_name": "Columbia City Hospital",
+   "page_refs": [
+    6
+   ],
+   "quote": "Witnesses are reporting sighting red and green strobe lights on a circular object.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Static object with red, green, and white lights reported by pilot.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "static"
+   ],
+   "color": "red, green, white",
+   "country": "USA",
+   "date": "2019-02-08",
+   "explanation_status": "not-assessed",
+   "location_name": "CPN14010",
+   "page_refs": [
+    7
+   ],
+   "quote": "PIC reported a UFO on the CPN14010 between FL370 and FL390.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "White flashing light observed moving slowly.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "slow moving"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2019-02-10",
+   "explanation_status": "not-assessed",
+   "location_name": "42:47N 121:42W",
+   "page_refs": [
+    8
+   ],
+   "quote": "UFO had a white flashing light, slow moving, estimated at FL400 - FL500",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Object with flashing lights observed descending rapidly.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "descending rapidly"
+   ],
+   "country": "USA",
+   "date": "2019-02-10",
+   "explanation_status": "not-assessed",
+   "location_name": "90NM SE of BOS",
+   "page_refs": [
+    9
+   ],
+   "quote": "PICobserved a UFO withflashing lights at FL500 descending rapidly.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Bright light identified by two aircraft.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2019-03-04",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    10
+   ],
+   "quote": "2 aircraft at approximately 0115zidentified a bright light in their vicinity",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "String of white lights observed off the side of the aircraft.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "color": "white",
+   "country": "USA",
+   "date": "2020-01-07",
+   "explanation_status": "not-assessed",
+   "location_name": "Talladega, AL",
+   "page_refs": [
+    11
+   ],
+   "quote": "PIC reported a UFO, described as a string of white lights",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Light brighter than any star observed.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2020-11-09",
+   "explanation_status": "not-assessed",
+   "location_name": "Bimini",
+   "page_refs": [
+    12
+   ],
+   "quote": "The light was described as \"brighter than any star they had ever seen.\"",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "UFO reported at 15,000 feet.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "country": "USA",
+   "date": "2020-11-14",
+   "explanation_status": "not-assessed",
+   "location_name": "3615N 8047W",
+   "page_refs": [
+    13
+   ],
+   "quote": "PIC reported a UFO at 3615N 8047W, 15,000 north bound.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Silver object passed overhead.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "color": "silver",
+   "country": "USA",
+   "date": "2020-12-26",
+   "explanation_status": "not-assessed",
+   "location_name": "13 NM SW of RDU",
+   "page_refs": [
+    14
+   ],
+   "quote": "aircraft reported a silver UFO pass overhead",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Fast moving object climbing.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "fast moving",
+    "climbing"
+   ],
+   "country": "USA",
+   "date": "2021-02-13",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    15
+   ],
+   "quote": "Object was fast moving and climbing.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Long cylindrical object passed over the aircraft.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "passing over"
+   ],
+   "country": "USA",
+   "date": "2021-02-21",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    16
+   ],
+   "quote": "It was described as a long cylindrical object that was EB and went over the top of the aircraft.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "cylindrical",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Formation of two bright lights flying overhead.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "formation flight",
+    "turning"
+   ],
+   "country": "USA",
+   "date": "2021-03-08",
+   "explanation_status": "not-assessed",
+   "location_name": "ORF and RIC",
+   "page_refs": [
+    17
+   ],
+   "quote": "two bright lights between ORF and RIC that appeared like a formation flight",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Red orb with black markings observed in close proximity.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "color": "red",
+   "country": "USA",
+   "date": "2021-04-19",
+   "explanation": "Possible weather balloon.",
+   "explanation_status": "partially-explained",
+   "page_refs": [
+    18
+   ],
+   "quote": "PIC observed a \"UFO\" described as a red orb with black markings",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "orb",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "White, rapidly circling light observed by two aircraft.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "circling"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2021-04-26",
+   "explanation_status": "not-assessed",
+   "location_name": "IAD",
+   "page_refs": [
+    19
+   ],
+   "quote": "PIC of N39RC and JBU1380 reported a UFO described as a white, rapidly circling light",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Object passing too fast to describe.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "fast moving"
+   ],
+   "country": "USA",
+   "date": "2021-05-04",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    20
+   ],
+   "quote": "The UFO was flying too fast to provide description.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Mode C intruder alert and visual report of phenomenon.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "moving slowly"
+   ],
+   "country": "USA",
+   "date": "2021-05-20",
+   "explanation_status": "not-assessed",
+   "location_name": "RIC",
+   "page_refs": [
+    21
+   ],
+   "quote": "Mode C intruder alert observed by controller moving slowly to the NW",
+   "recording_agency": "FAA",
+   "sensors": [
+    "radar",
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Cluster of lights traveling in a circular direction.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "circular direction"
+   ],
+   "country": "USA",
+   "date": "2021-05-21",
+   "explanation_status": "not-assessed",
+   "location_name": "LFD",
+   "page_refs": [
+    22
+   ],
+   "quote": "The unknown phenomenon was cluster of lights traveling in a circular direction",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Large balloon reported by police.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "medium",
+   "behavior": [
+    "traveling"
+   ],
+   "country": "USA",
+   "date": "2021-06-04",
+   "explanation": "Possibly a large balloon.",
+   "explanation_status": "partially-explained",
+   "location_name": "Fort Myer",
+   "page_refs": [
+    23
+   ],
+   "quote": "The unknown phenomenon was possibly a large balloon",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Glowing white cylindrical object paralleling aircraft.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "paralleling"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2021-06-09",
+   "explanation_status": "not-assessed",
+   "location_name": "GCN",
+   "page_refs": [
+    24
+   ],
+   "quote": "Aircraft reported an unidentified aerial phenomenon, a glowing white cylindrical object",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "photo",
+    "video"
+   ],
+   "shape": "cylindrical",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Manned jet pack maneuvering in circles.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "maneuvering in circles"
+   ],
+   "country": "USA",
+   "date": "2021-06-10",
+   "explanation": "Manned jet pack.",
+   "explanation_status": "explained",
+   "location_name": "TEB",
+   "page_refs": [
+    25
+   ],
+   "quote": "Aircraft reported an unidentified aerial phenomenon (manned jet pack) maneuvering in circles",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

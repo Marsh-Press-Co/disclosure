@@ -1,0 +1,550 @@
+{
+ "doc_id": "nara--faa-reports-batch-12",
+ "file": "nara--faa-reports-batch-12.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 12 (237UAP00286 - 237UAP00310)",
+ "record_type": "report-batch",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FAA Skywatch incident reports regarding UAP sightings between August and October 2023.",
+ "incidents": [
+  {
+   "summary": "Commercial aircraft reported flashing white lights rapidly climbing and descending.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "flashing",
+    "climbing",
+    "descending"
+   ],
+   "color": "white",
+   "date": "2023-08-11",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    1
+   ],
+   "quote": "The unknown phenomenon was flashing white lights rapidly climbing and descending.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Aircraft reported three circling lights; primary radar target confirmed.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "circling",
+    "maneuvering"
+   ],
+   "date": "2023-08-12",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    2
+   ],
+   "quote": "The unknown phenomenon was described as three circling lights maneuvering at 40,000 feet.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Multiple aircraft reported two bright lights circling at high altitude.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "circling",
+    "disappearing"
+   ],
+   "date": "2023-08-16",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    3
+   ],
+   "quote": "The unknown phenomenon was described as two bright lights 60 miles N of BHM circling at a very high altitude.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Multiple colored lights reported by aircraft and tower personnel.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "moving"
+   ],
+   "date": "2023-08-17",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    4
+   ],
+   "quote": "Aircraft reported seeing multiple colored lights and flying between BHM and HSV.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot",
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "Round, black and white oblong object observed by commercial flight.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "traveling"
+   ],
+   "color": "black and white",
+   "date": "2023-08-21",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    5
+   ],
+   "quote": "The unknown phenomenon was a round, black and white oblong object approximately the size of an Embraer E-145 aircraft.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "oblong",
+   "size": "size of an Embraer E-145",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Multiple aircraft reported 2-4 lights with greenish hue moving in circular motion.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "moving independently",
+    "circular motion"
+   ],
+   "color": "white with greenish hue",
+   "date": "2023-08-25",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    6
+   ],
+   "quote": "saw 2-4 possible UAPs each having a white light with light greenish hue moving independently in a circular motion",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Dim white lights moving in circles and up and down patterns.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "circling",
+    "up and down patterns"
+   ],
+   "color": "white",
+   "date": "2023-08-25",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    7
+   ],
+   "quote": "The unknown phenomenon was described as dim white lights that would get brighter, and moved in circles and up and down patterns.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Bright white light with aura reported by multiple aircraft; correlated to satellites.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "traveling"
+   ],
+   "color": "white",
+   "date": "2023-08-27",
+   "explanation_status": "explained",
+   "page_refs": [
+    8
+   ],
+   "quote": "These reports correlate with a train of Space X satellites moving SW to NE bound.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Unorganized group of white lights moving erratically.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "moving erratically"
+   ],
+   "color": "white",
+   "date": "2023-08-28",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    9
+   ],
+   "quote": "The unknown phenomenon was an unorganized group of white lights moving erratically",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Silver rocket-shaped object observed.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "traveling"
+   ],
+   "color": "silver",
+   "date": "2023-09-01",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    10
+   ],
+   "quote": "The unknown phenomenon was described as a silver rocket approximately six feel long",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "rocket",
+   "size": "six feet long",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Moving lights reported; correlated to StarLink satellites.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "moving"
+   ],
+   "date": "2023-09-04",
+   "explanation_status": "explained",
+   "page_refs": [
+    11
+   ],
+   "quote": "Report appears to correlate with StarLink satellite constellations.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Multiple lights orbiting with erratic movement.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "orbiting",
+    "erratic movement"
+   ],
+   "date": "2023-09-05",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    12
+   ],
+   "quote": "The unknown phenomenon was multiple dim and bright lights orbiting with erratic movement",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Metallic object reported by pilot.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "unknown"
+   ],
+   "date": "2023-09-19",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    13,
+    14
+   ],
+   "quote": "The unknown phenomenon was described as metallic.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Multiple lights orbiting, similar to landing lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "orbiting"
+   ],
+   "date": "2023-09-26",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    15
+   ],
+   "quote": "The unknown phenomenon was multiple lights orbiting. They appear to be similar to aircraft landing lights.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Bright lights orbiting at high altitude.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "orbiting"
+   ],
+   "date": "2023-09-26",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    16
+   ],
+   "quote": "The unknown phenomenon was bright lights orbiting at a high altitude",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Three bright white lights blinking left to right.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "blinking"
+   ],
+   "color": "white",
+   "date": "2023-10-04",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    17,
+    18
+   ],
+   "quote": "three bright white lights, not moving or changing altitude, blinking left to right and right to left.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "4-5 lights changing direction and speed.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "blinking",
+    "changing directions",
+    "changing speed"
+   ],
+   "date": "2023-10-05",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    19
+   ],
+   "quote": "The lights would also seem to change directions and speed.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Multiple reports of potential mission failure; identified as rocket body recovery.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "unknown"
+   ],
+   "date": "2023-10-14",
+   "explanation_status": "explained",
+   "page_refs": [
+    20
+   ],
+   "quote": "Space OPS at ATCSCC reports the mission is a success without issue. Rocket body recovery is in process.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Silver, softball-sized object.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "moving"
+   ],
+   "color": "silver",
+   "date": "2023-10-19",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    21
+   ],
+   "quote": "The unknown phenomenon was silver and the size of a softball and was moving W/SW bound.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "size": "softball",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Unidentified object traveling at 34,000 feet.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "traveling"
+   ],
+   "date": "2023-10-24",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    22
+   ],
+   "quote": "The unknown phenomenon was traveling E bound at approximately 34,000 feet.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Lights traveling along the coast.",
+   "date_precision": "day",
+   "time_of_day": "dawn",
+   "confidence": "high",
+   "behavior": [
+    "traveling"
+   ],
+   "date": "2023-10-28",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    23
+   ],
+   "quote": "The unknown phenomenon was lights traveling along the coast above their altitude.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Light split into two lights flying in a crisscross pattern.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "split",
+    "crisscross pattern"
+   ],
+   "date": "2023-10-28",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    24
+   ],
+   "quote": "The unknown phenomenon was 1 light that split into 2 lights flying in a crisscross pattern",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Three bright white lights, mostly stationary at high altitude.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "stationary"
+   ],
+   "color": "white",
+   "date": "2023-10-28",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    25
+   ],
+   "quote": "The unknown phenomenon was 3 bright white lights on a single object mostly stationary at very high altitude.",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

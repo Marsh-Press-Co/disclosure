@@ -1,0 +1,34 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-001-025",
+ "file": "nara--733667--roswell-report-source-files-733667-001-025.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-001-025",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is an archival record from the USAF Roswell Report source files containing an investigation into a 1986 JAL flight UFO sighting.",
+ "encounters": [
+  {
+   "summary": "JAL flight 1628 reported observing lighted air traffic in close proximity for over 350 miles, with the object tracked by onboard radar and military radar, though subsequent analysis of radar tapes showed no valid traffic data.",
+   "encounter_type": "close-approach",
+   "claimant_type": "pilot-civilian",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "date": "1986-11-17",
+   "date_precision": "day",
+   "entity_appearance": "flashing yellow, amber, and green lights; no red lights",
+   "entity_behavior": "maintained proximity to aircraft, performed 360-degree turn with aircraft, eventually departed in eastern direction",
+   "entity_count": "unknown",
+   "location_name": "Enroute to Tokyo via Reykjavik and Anchorage",
+   "page_refs": [
+    2
+   ],
+   "physical_effects": [
+    "radar targets"
+   ],
+   "quote": "reported observing lighted air traffic, in close proximity"
+  }
+ ]
+}

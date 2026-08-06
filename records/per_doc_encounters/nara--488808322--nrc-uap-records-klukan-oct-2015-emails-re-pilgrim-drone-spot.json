@@ -1,0 +1,11 @@
+{
+ "doc_id": "nara--488808322--nrc-uap-records-klukan-oct-2015-emails-re-pilgrim-drone-spot",
+ "file": "nara--488808322--nrc-uap-records-klukan-oct-2015-emails-re-pilgrim-drone-spot.md",
+ "source": "NARA-RG615",
+ "agency": "NRC",
+ "title": "NRC UAP records - Klukan_Oct_2015_Emails_re_Pilgrim_Drone_Spotting",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of internal NRC emails discussing a reported drone sighting near the Pilgrim nuclear site, which was ultimately determined to be a distant, unidentified object; no actual encounters as defined are present.",
+ "encounters": []
+}

@@ -1,0 +1,643 @@
+{
+ "doc_id": "nara--faa-reports-batch-15",
+ "file": "nara--faa-reports-batch-15.md",
+ "source": "NARA-RG615",
+ "agency": "FAA",
+ "title": "FAA UAP reports, batch 15 (237UAP00362 - 237UAP00388)",
+ "record_type": "report-batch",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of FAA Skywatch incident reports regarding UAP sightings by commercial and general aviation pilots, with one historical report from 2019 included.",
+ "incidents": [
+  {
+   "summary": "Commercial aircraft reported 2-3 bright white lights moving in multiple directions.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "moving in several directions",
+    "up and down",
+    "left and right"
+   ],
+   "color": "bright white",
+   "country": "USA",
+   "date": "2024-03-03",
+   "location_name": "49NM W of BFF",
+   "object_count": "2-3",
+   "page_refs": [
+    1
+   ],
+   "quote": "2-3 bright white lights, possibly more, moving in several directions",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple aircraft reported a bright object with smoke that broke up into pieces.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "moving west to east",
+    "break up into pieces",
+    "disappear"
+   ],
+   "color": "very bright",
+   "country": "USA",
+   "date": "2024-03-16",
+   "location_name": "JCT VOR",
+   "page_refs": [
+    2
+   ],
+   "quote": "passed from below to above and then appeared to break up into pieces",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "rocket",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "General aviation aircraft reported 3 bright lights coming together.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "coming together"
+   ],
+   "color": "bright",
+   "country": "USA",
+   "date": "2024-03-16",
+   "location_name": "40NM NW of IAH",
+   "object_count": "3",
+   "page_refs": [
+    3
+   ],
+   "quote": "3 bright lights coming together",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "video"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "General aviation aircraft reported a group of five converging lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "converging",
+    "choreographed"
+   ],
+   "country": "USA",
+   "date": "2024-03-21",
+   "location_name": "NE of DBN",
+   "object_count": "5",
+   "page_refs": [
+    4
+   ],
+   "quote": "group of five converging lights that appeared to be choreographed",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a white object traveling around the aircraft.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "traveling around the aircraft"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2024-03-29",
+   "location_name": "22NM NE of VCT",
+   "object_count": "1",
+   "page_refs": [
+    5
+   ],
+   "quote": "white object traveling around the aircraft",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported 5 stationary white lights above the aircraft.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "stationary"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2024-04-08",
+   "location_name": "10NM N of ORL",
+   "object_count": "5",
+   "page_refs": [
+    6
+   ],
+   "quote": "5 white lights above the aircraft not moving",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a 1-2 meter orb traveling east.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "traveling E bound"
+   ],
+   "country": "USA",
+   "date": "2024-05-11",
+   "location_name": "Laramie Regional Airport, WY",
+   "object_count": "1",
+   "page_refs": [
+    7
+   ],
+   "quote": "1 to 2 meter orb traveling E bound",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "orb",
+   "size": "1 to 2 meter",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "General aviation aircraft reported a manned jet pack.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "traveling N bound"
+   ],
+   "country": "USA",
+   "date": "2024-05-16",
+   "location_name": "7NM SE of PSP",
+   "object_count": "1",
+   "page_refs": [
+    8
+   ],
+   "quote": "manned jet pack traveling N bound",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported 2 maneuvering lights.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "maneuvering"
+   ],
+   "country": "USA",
+   "date": "2024-05-18",
+   "location_name": "30NM W of AUS",
+   "object_count": "2",
+   "page_refs": [
+    9
+   ],
+   "quote": "2 maneuvering lights",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Multiple aircraft reported a group of hovering lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "hovering"
+   ],
+   "country": "USA",
+   "date": "2024-05-26",
+   "location_name": "20 NM NNW of GTK",
+   "page_refs": [
+    10
+   ],
+   "quote": "group of hovering lights",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Facility observed a stationary boomerang-shaped object.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "stationary",
+    "disappearing into the clouds"
+   ],
+   "country": "USA",
+   "date": "2024-06-03",
+   "location_name": "4 NM SW of SWF",
+   "object_count": "1",
+   "page_refs": [
+    11
+   ],
+   "quote": "boomerang shaped",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "boomerang",
+   "size": "50 feet long",
+   "witness_types": [
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a red and blue object.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "color": "red and blue",
+   "country": "USA",
+   "date": "2024-06-15",
+   "location_name": "10 NM S of DEN",
+   "object_count": "1",
+   "page_refs": [
+    12
+   ],
+   "quote": "red and blue, 3 to 4 feet in diameter",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "size": "3 to 4 feet in diameter",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a flight of 2 followed by a single aircraft, light grey in color.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "slow moving"
+   ],
+   "color": "light grey",
+   "country": "USA",
+   "date": "2024-07-05",
+   "location_name": "40 NM N of FOE",
+   "object_count": "3",
+   "page_refs": [
+    13
+   ],
+   "quote": "flight of 2 followed by a single aircraft, all slow moving",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a stationary white triangle.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "stationary"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2024-07-14",
+   "location_name": "18NM E of PIH",
+   "object_count": "1",
+   "page_refs": [
+    14
+   ],
+   "quote": "white triangle stationary",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "triangle",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a white/metallic cylindrical object.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "color": "white/metallic",
+   "country": "USA",
+   "date": "2024-07-27",
+   "location_name": "20 NM NE of ILM",
+   "object_count": "1",
+   "page_refs": [
+    15
+   ],
+   "quote": "White/Metallic cylindrical object",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "cylindrical",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported 4 or 5 lights maneuvering in all directions.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "maneuvering",
+    "traveling in all directions"
+   ],
+   "country": "USA",
+   "date": "2024-08-22",
+   "location_name": "10 NM NW of TBD VOR",
+   "object_count": "4-5",
+   "page_refs": [
+    16
+   ],
+   "quote": "4 or 5 lights maneuvering and traveling in all directions",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported three white lights in trail.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "in trail"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2024-09-15",
+   "location_name": "50NM E of VXV",
+   "object_count": "3",
+   "page_refs": [
+    17
+   ],
+   "quote": "three white lights in trail of each other",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported bright lights orbiting.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "orbiting",
+    "stationary"
+   ],
+   "color": "bright",
+   "country": "USA",
+   "date": "2024-10-01",
+   "explanation": "Objects correlate with StarLink map.",
+   "explanation_status": "explained",
+   "location_name": "16NM SW of LAX",
+   "page_refs": [
+    18
+   ],
+   "quote": "bright lights orbiting and stationary",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a bright white light orbiting.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "orbiting",
+    "disappearing"
+   ],
+   "color": "bright white",
+   "country": "USA",
+   "date": "2024-10-03",
+   "location_name": "CAK airport",
+   "object_count": "1",
+   "page_refs": [
+    19
+   ],
+   "quote": "bright white light orbiting",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported an orange light moving vertically.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "going straight up",
+    "back down"
+   ],
+   "color": "orange",
+   "country": "USA",
+   "date": "2024-10-19",
+   "location_name": "7NM SE of CHS",
+   "object_count": "1",
+   "page_refs": [
+    20
+   ],
+   "quote": "orange light going straight up to 10,000 feet and then back down",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a light climbing, descending, and moving right to left.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "climbing",
+    "descending",
+    "moving right to left"
+   ],
+   "country": "USA",
+   "date": "2024-10-20",
+   "location_name": "Lake Michigan",
+   "object_count": "1",
+   "page_refs": [
+    21
+   ],
+   "quote": "light seemed to be climbing and descending with movement right to left",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported several orbs traveling in multiple directions.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "traveling multiple directions"
+   ],
+   "country": "USA",
+   "date": "2024-10-21",
+   "location_name": "125NM SE of ACY",
+   "page_refs": [
+    22
+   ],
+   "quote": "several orbs traveling multiple directions",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "orb",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported bright white and yellow flashing lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "stationary"
+   ],
+   "color": "bright white and yellow",
+   "country": "USA",
+   "date": "2024-10-22",
+   "location_name": "over LDN",
+   "page_refs": [
+    23
+   ],
+   "quote": "bright white and yellow flashing lights, stationary",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported white lights circling above.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "circling"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "2024-10-26",
+   "location_name": "170 NM W of RSW",
+   "page_refs": [
+    24
+   ],
+   "quote": "white lights circling above the aircraft",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Commercial aircraft reported a UFO with red, green, and white lights hovering.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "hovering"
+   ],
+   "color": "red, green, and white",
+   "country": "USA",
+   "date": "2019-02-08",
+   "location_name": "10 SE COPPERTOWN VOR, Butte, MT",
+   "object_count": "1",
+   "page_refs": [
+    25
+   ],
+   "quote": "UFO with red, green, and white lights hovering",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

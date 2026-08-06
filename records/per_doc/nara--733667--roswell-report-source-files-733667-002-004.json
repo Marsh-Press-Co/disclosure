@@ -1,0 +1,58 @@
+{
+ "doc_id": "nara--733667--roswell-report-source-files-733667-002-004",
+ "file": "nara--733667--roswell-report-source-files-733667-002-004.md",
+ "source": "NARA-RG615",
+ "agency": "USAF (Roswell Report)",
+ "title": "Roswell Report source files - 733667-002-004",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of correspondence and requests sent to the FAA in Anchorage, Alaska, following public interest in the November 1986 Japan Air Lines UFO sighting.",
+ "incidents": [
+  {
+   "summary": "Japan Air Lines flight 1628 reported being shadowed by two belts of lights and a huge spaceship over Alaska.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "shadowed aircraft"
+   ],
+   "country": "USA",
+   "date": "1986-11-17",
+   "explanation_status": "not-assessed",
+   "location_name": "Alaska",
+   "page_refs": [
+    8,
+    12,
+    13,
+    17,
+    21,
+    24,
+    25,
+    35,
+    39,
+    43,
+    45,
+    46,
+    50,
+    54,
+    57,
+    58,
+    59
+   ],
+   "quote": "Japan Air Lines pilot reported that his jet was shadowed by two belts of lights",
+   "recording_agency": "FAA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "spaceship",
+   "size": "size of two aircraft carriers",
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

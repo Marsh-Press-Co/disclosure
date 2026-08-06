@@ -1,0 +1,14 @@
+{
+ "doc": "nara--147873183--147873183-42-t-7585721-20060476f-001-004-2013.md",
+ "leads": [
+  {
+   "page": 6,
+   "lead_type": "biological",
+   "claim": "The speaker denies that a spacecraft crashed in Roswell in 1947 and questions whether the Air Force recovered alien bodies.",
+   "strength": "noise",
+   "why": "The statement is a rhetorical denial and a political joke rather than a substantive claim of material custody.",
+   "quote": "if the United States Air Force did recover alien bodies, they didn't tell me about it"
+  }
+ ],
+ "doc_verdict": "The document contains no evidence of obtained material, as the snippet is a transcript of a political speech containing a rhetorical denial."
+}

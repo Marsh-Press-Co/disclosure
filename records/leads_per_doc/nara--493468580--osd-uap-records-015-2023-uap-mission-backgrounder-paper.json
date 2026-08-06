@@ -1,0 +1,32 @@
+{
+ "doc": "nara--493468580--osd-uap-records-015-2023-uap-mission-backgrounder-paper.md",
+ "leads": [
+  {
+   "page": 2,
+   "lead_type": "analysis-of-material",
+   "claim": "The National Air and Space Intelligence Center is involved in the exploitation and analysis of recovered UAP objects and material.",
+   "strength": "strong",
+   "why": "The document explicitly links a specific government intelligence center to the active exploitation and analysis of recovered UAP material.",
+   "claimant": "AARO (All-domain Anomaly Resolution Office) document",
+   "custody_chain": "National Air and Space Intelligence Center",
+   "government_response": "The document identifies this as part of AARO's operational framework.",
+   "material_description": "Recovered UAP objects and material",
+   "outcome_in_document": "asserted-under-oath",
+   "quote": "exploitation and analysis of recovered UAP objects and material"
+  },
+  {
+   "page": 2,
+   "lead_type": "debris-material",
+   "claim": "AARO coordinates capabilities for UAP recovery.",
+   "strength": "moderate",
+   "why": "The document mentions 'recovery' as a functional capability, though it does not specify a particular instance of material in custody.",
+   "claimant": "AARO (All-domain Anomaly Resolution Office) document",
+   "custody_chain": "AARO and Theater/IC capabilities",
+   "government_response": "The document lists recovery as a mission capability.",
+   "material_description": "UAP",
+   "outcome_in_document": "asserted-under-oath",
+   "quote": "optimized, cross‐functional UAP detection, tracking, mitigation, and recovery"
+  }
+ ],
+ "doc_verdict": "The document explicitly confirms that the government, through the National Air and Space Intelligence Center and AARO, maintains capabilities for the exploitation and recovery of UAP material."
+}

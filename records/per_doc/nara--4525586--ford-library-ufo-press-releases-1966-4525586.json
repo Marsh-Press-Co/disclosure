@@ -1,0 +1,42 @@
+{
+ "doc_id": "nara--4525586--ford-library-ufo-press-releases-1966-4525586",
+ "file": "nara--4525586--ford-library-ufo-press-releases-1966-4525586.md",
+ "source": "NARA-RG615",
+ "agency": "White House (Ford)",
+ "title": "Ford Library UFO press releases 1966 - 4525586",
+ "record_type": "archival-record",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of press releases and correspondence from the office of Congressman Gerald R. Ford regarding UFO sightings in 1966 and the subsequent Air Force decision to commission an independent study by the University of Colorado.",
+ "incidents": [
+  {
+   "summary": "At least 40 persons, including 12 policemen, observed a strange flying object guarded by four sister ships landing in a swamp.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "landing"
+   ],
+   "country": "United States",
+   "date": "1966-03-20",
+   "explanation_status": "unexplained",
+   "location_name": "Ann Arbor, Michigan",
+   "page_refs": [
+    6,
+    9
+   ],
+   "quote": "at least 40 persons, including 12 policemen, said today that they saw a strange flying object guarded by four sister ships",
+   "recording_agency": "UPI",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "40",
+   "witness_types": [
+    "federal-le",
+    "civilian"
+   ]
+  }
+ ]
+}
