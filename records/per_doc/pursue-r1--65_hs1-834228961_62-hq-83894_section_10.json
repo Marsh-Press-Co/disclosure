@@ -1,0 +1,541 @@
+{
+ "doc_id": "65_hs1-834228961_62-hq-83894_section_10",
+ "file": "pursue-r1--65_hs1-834228961_62-hq-83894_section_10.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "65_HS1-834228961_62-HQ-83894_Section_10",
+ "record_type": "case_file",
+ "index_date": "1957-06-15",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 5,
+ "doc_notes": "This document is an FBI case file (62-HQ-83894) containing correspondence, newspaper clippings, and internal memoranda regarding UFO sightings and the public's interest in the subject between 1965 and 1966. / This document is a collection of FBI case files (62-HQ-83894) regarding UFO reports, correspondence, and investigative records from 1967, including reports of abductions, historical sightings, and media clippings. / This document is a collection of FBI case file records (62-HQ-83894) concerning UFO reports, including correspondence with the public, internal memoranda, and reports of anonymous informant claims from 1967-1968. / This document is a collection of FBI case file records (62-HQ-83894) containing correspondence, internal memoranda, and administrative notes regarding public inquiries about UFOs and alleged government involvement between 1968 and 1969. / This document is a collection of FBI case file records (62-HQ-83894) regarding UFO inquiries, correspondence, and internal memoranda from 1969 to 1977, documenting the Bureau's consistent policy of non-jurisdiction over UFO sightings.",
+ "incidents": [
+  {
+   "summary": "A 17-year-old boy reported seeing a high-altitude object with white lights moving north from the southwest.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "medium",
+   "behavior": [
+    "moving north"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "1966-03-21",
+   "location_name": "Detroit, Michigan",
+   "page_refs": [
+    15
+   ],
+   "quote": "saw a very high object with white lights heading north",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Two individuals observed an object over a home that stopped and changed colors from red to green to amber.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "medium",
+   "behavior": [
+    "stopped",
+    "moving east"
+   ],
+   "color": "red, green, amber",
+   "country": "USA",
+   "date": "1966-03-21",
+   "location_name": "Detroit, Michigan",
+   "page_refs": [
+    15
+   ],
+   "quote": "lights changing from the color red to green and then amber",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "A 15-year-old girl observed a motionless object near the John Lodge Expressway.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "motionless"
+   ],
+   "country": "USA",
+   "date": "1966-03-21",
+   "location_name": "Detroit, Michigan",
+   "page_refs": [
+    15
+   ],
+   "quote": "stood motionless over the John Lodge Expressway",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "A 39-year-old man observed an object with rotating lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "rotating"
+   ],
+   "color": "red, yellow, green",
+   "country": "USA",
+   "date": "1966-03-21",
+   "location_name": "Detroit, Michigan",
+   "page_refs": [
+    15
+   ],
+   "quote": "observed something with red, yellow and green rotating lights",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "A 17-year-old girl observed an object that stopped twice and flashed lights.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "stopped",
+    "flashing"
+   ],
+   "country": "USA",
+   "date": "1966-03-21",
+   "location_name": "Detroit, Michigan",
+   "page_refs": [
+    15
+   ],
+   "quote": "object stopped twice and lights started flashing",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Police Chief Joe Thorn reported seeing two UFOs, one under low cloud cover in daylight and another at 2,000 feet altitude.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "country": "USA",
+   "date": "1966",
+   "location_name": "Princeton, West Virginia",
+   "page_refs": [
+    41
+   ],
+   "quote": "I have personally seen two of them",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "1",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "James C. Collins reported being abducted by a craft manned by small creatures after observing it land in the street in Chesapeake, Virginia.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "landed",
+    "abduction"
+   ],
+   "color": "",
+   "country": "USA",
+   "date": "1967-01-18",
+   "duration": "1 hour",
+   "explanation": "",
+   "explanation_status": "not-assessed",
+   "location_name": "Chesapeake, Virginia",
+   "object_count": "1",
+   "page_refs": [
+    51
+   ],
+   "quote": "observed a large oblong-shaped object which alighted in the street",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "oblong",
+   "size": "",
+   "time_local": "04:10 a.m.",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Paul L. Peyerl reported photographing a saucer-shaped aircraft in the Black Forest of Austria in 1944 while serving as a test pilot.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "flight",
+    "parked"
+   ],
+   "color": "",
+   "country": "Austria",
+   "date": "1944-11",
+   "duration": "",
+   "explanation": "",
+   "explanation_status": "not-assessed",
+   "location_name": "Black Forest, Austria",
+   "object_count": "1",
+   "page_refs": [
+    62,
+    63,
+    65,
+    68
+   ],
+   "quote": "saucer shaped, about twenty-one feet in diameter, radio controlled",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "photo"
+   ],
+   "shape": "saucer",
+   "size": "21 feet diameter",
+   "time_local": "",
+   "witness_count": "1",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Fred Steckling filmed an armada of 40-50 UFOs while traveling by train between Mannheim and Frankfurt.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "flight",
+    "formation"
+   ],
+   "color": "white",
+   "country": "Germany",
+   "date": "1966-09-07",
+   "duration": "",
+   "explanation": "",
+   "explanation_status": "not-assessed",
+   "location_name": "Mannheim-Frankfurt, Germany",
+   "object_count": "40-50",
+   "page_refs": [
+    84,
+    85,
+    87
+   ],
+   "quote": "Armada of about 40 to 50 UFO's appearing and disappearing in the middle of the blue sky",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "photo"
+   ],
+   "shape": "cigarette",
+   "size": "",
+   "time_local": "11:40 a.m.",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "At least 29 personnel at White Sands Missile Range observed one or more UFOs moving at high speed.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "medium",
+   "behavior": [
+    "flight",
+    "disappeared"
+   ],
+   "color": "silvery",
+   "country": "USA",
+   "date": "1967-03-02",
+   "duration": "",
+   "explanation": "",
+   "explanation_status": "not-assessed",
+   "location_name": "White Sands Missile Range, New Mexico",
+   "object_count": "1+",
+   "page_refs": [
+    87
+   ],
+   "quote": "silvery discs were flying at an altitude of 20,000 to 25,000 feet",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "disc",
+   "size": "",
+   "time_local": "10:30 a.m. - 11:00 a.m.",
+   "witness_count": "29",
+   "witness_types": [
+    "military-other",
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "Two boys and a woman reported seeing red and green lights hovering over the Uplands residential district.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "medium",
+   "behavior": [
+    "hovering"
+   ],
+   "color": "red and green",
+   "country": "Canada",
+   "date": "1967-04-14",
+   "duration": "",
+   "explanation": "",
+   "explanation_status": "not-assessed",
+   "location_name": "Victoria, British Columbia",
+   "object_count": "1",
+   "page_refs": [
+    87
+   ],
+   "quote": "saw a red and a green light hovering over what they thought was probably the area of the Uplands Golf Clubhouse",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "",
+   "size": "",
+   "time_local": "8:05 p.m.",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "An antimissile missile was fired at a UFO over Africa, but the object was protected by a force field.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "protected by force field"
+   ],
+   "country": "Africa",
+   "date": "1962-05-22",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    102,
+    105,
+    107,
+    109
+   ],
+   "quote": "An antimissile missile was fired at a UFO over Africa on May 22, 1962, but the UFO was protected by its \"force field.\"",
+   "recording_agency": "FBI",
+   "sensors": [
+    "other"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "A UFO was detected by radar 22,000 miles from Earth.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "unknown",
+   "date": "1967-08-06",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    102,
+    105,
+    107,
+    109
+   ],
+   "quote": "A UFO was detected 22,000 miles from earth by radar about August 6, 1967.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "radar"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "A UFO was detected over Antarctica.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "Antarctica",
+   "date": "1967-08-20",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    102,
+    105,
+    107,
+    109
+   ],
+   "quote": "A UFO was detected over Antarctica August 20, 1967.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "other"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "A UFO was detected over the Dewline and reportedly shot down.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "shot down"
+   ],
+   "country": "unknown",
+   "date": "1967-10",
+   "explanation_status": "unexplained",
+   "page_refs": [
+    102,
+    105,
+    107,
+    109
+   ],
+   "quote": "A UFO was detected over the \"Dewline\" in the past week and was shot down",
+   "recording_agency": "FBI",
+   "sensors": [
+    "other"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "A report of a U.S. government capture of a saucer occupant, accompanied by a photograph of two alleged FBI agents and an alien.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "explanation": "The FBI stated the photograph does not represent Bureau employees and the matter is not within their jurisdiction; the photo is known to have appeared in European publications.",
+   "explanation_status": "explained",
+   "page_refs": [
+    114,
+    116,
+    117
+   ],
+   "quote": "a report that the F.B.I had captured a saucer occupant this was published in a flying saucer mag.",
+   "recording_agency": "FBI"
+  },
+  {
+   "summary": "Observation of an unusual object in the sky near Moorestown, New Jersey, which the witness associated with a subsequent plane crash in Elkton, Maryland.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "laying air mines"
+   ],
+   "date": "1963-12-07",
+   "explanation": "The witness claimed the object was a missile camouflaged as a meteor or saucer; the CAB attributed the plane crash to a lightning strike.",
+   "explanation_status": "explained",
+   "location_name": "Moorestown, New Jersey",
+   "page_refs": [
+    127,
+    129,
+    130
+   ],
+   "quote": "I claimed that the object which I seen was laying air mines and that this aircraft was destroyed by contact with one of these mines.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Observation of a bright meteor (fireball/bolide) reported to the Harvard College Observatory.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "date": "1964-07-18",
+   "explanation": "Identified by Harvard College Observatory as a bright meteor or bolide.",
+   "explanation_status": "explained",
+   "page_refs": [
+    129,
+    131
+   ],
+   "quote": "The object you saw was a bright meteor, sometimes called a \"fireball\" or a \"bolide\".",
+   "recording_agency": "Harvard College Observatory",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "A former CIA agent reported seeing flying objects and requested to speak with the FBI Director.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "date": "1969-05-16",
+   "explanation": "The individual was reported to be intoxicated and recently discharged from a psychiatric ward; no record of him as a CIA agent was found.",
+   "explanation_status": "explained",
+   "location_name": "Compton, California",
+   "page_refs": [
+    136
+   ],
+   "quote": "Wood stated he is a former CIA Agent and wanted to report to the Director that recently he has been seeing flying objects.",
+   "recording_agency": "FBI",
+   "time_local": "00:50",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "An unidentified object was recovered by Milwaukee police and reported to the FBI; described as metallic, jagged, and having an internal heat source.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "recovered by police"
+   ],
+   "color": "metallic",
+   "country": "USA",
+   "date": "1974-08-21",
+   "explanation_status": "not-assessed",
+   "location_name": "Milwaukee, Wisconsin",
+   "page_refs": [
+    172
+   ],
+   "quote": "unidentified object had been recovered by Milwaukee police",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "jagged",
+   "size": "13 x 8 x 5 inches",
+   "witness_count": "unknown",
+   "witness_types": [
+    "federal-le"
+   ]
+  }
+ ]
+}

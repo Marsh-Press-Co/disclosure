@@ -1,0 +1,48 @@
+{
+ "doc_id": "65_hs1-101634279_100-de-26505",
+ "file": "pursue-r1--65_hs1-101634279_100-de-26505.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "65_HS1-101634279_100-DE-26505",
+ "record_type": "other",
+ "index_date": "2057-11-07",
+ "index_location": "Germany",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI file regarding an interview with Wladyslaw Krasuski, who reported a 1944 UFO sighting in Germany, and also includes administrative correspondence regarding a 1966 inquiry from a UFO research group.",
+ "incidents": [
+  {
+   "summary": "Wladyslaw Krasuski observed a large, circular, vertically-rising vehicle near a German military compound while working as a prisoner of war.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "vertically rising",
+    "moving horizontally",
+    "engine stalling"
+   ],
+   "color": "dark gray",
+   "country": "Germany",
+   "date": "1944",
+   "explanation_status": "not-assessed",
+   "location_name": "Gut Alt Golssen",
+   "object_count": "1",
+   "page_refs": [
+    9,
+    10,
+    13
+   ],
+   "quote": "observed a circular enclosure approximately 100 to 150 yards in diameter",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular",
+   "size": "75 to 100 yards in diameter, 14 feet high",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

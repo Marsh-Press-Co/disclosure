@@ -1,0 +1,438 @@
+{
+ "doc_id": "65_hs1-834228961_62-hq-83894_section_1",
+ "file": "pursue-r1--65_hs1-834228961_62-hq-83894_section_1.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "65_HS1-834228961_62-HQ-83894_Section_1",
+ "record_type": "case_file",
+ "index_date": "1957-06-15",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This document is an FBI case file (62-HQ-83894) containing investigative records, correspondence, and newspaper clippings regarding UAP sightings between 1947 and 1948. / This document is an FBI case file (62-HQ-83894) containing investigative reports, teletypes, and correspondence regarding UAP sightings between 1947 and 1948, characterized by heavy administrative routing and stamps.",
+ "incidents": [
+  {
+   "summary": "A circular metal disc, 18 inches in diameter, crashed into a church yard in Grafton, WI, making a swishing noise and a mild explosion.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "crashed",
+    "swishing",
+    "whirring",
+    "explosion"
+   ],
+   "color": "metallic",
+   "country": "USA",
+   "date": "1947-07-06",
+   "explanation_status": "explained",
+   "location_name": "Grafton, Wisconsin",
+   "object_count": "1",
+   "page_refs": [
+    2,
+    24,
+    46,
+    48,
+    50,
+    56
+   ],
+   "quote": "A Catholic priest at Grafton, Wis., said tonight that a round, metal disc... had crashed into his parish yard",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular disc",
+   "size": "18 inches",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "A student pilot reported seeing a saucer-shaped object traveling at high speed over the Northeast section of Washington, D.C.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "traveling at high speed"
+   ],
+   "color": "orange",
+   "country": "USA",
+   "date": "1947-07-04",
+   "explanation_status": "not-assessed",
+   "location_name": "Washington, D.C.",
+   "object_count": "1",
+   "page_refs": [
+    4
+   ],
+   "quote": "looked like an orange lamp bulb without the socket",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "saucer",
+   "size": "unknown",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "A flaming object dropped in the street in front of a house in Omaha, Nebraska, and was examined by the witness.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "dropped",
+    "burning"
+   ],
+   "color": "unknown",
+   "country": "USA",
+   "date": "1947-07-07",
+   "explanation_status": "explained",
+   "location_name": "Omaha, Nebraska",
+   "object_count": "1",
+   "page_refs": [
+    11,
+    13,
+    14,
+    15
+   ],
+   "quote": "witnessed a flaming object which dropped in street",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular disc",
+   "size": "silver dollar",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Witness reported seeing a flying saucer in the air at the same level as searchlight beams near Lake St. Clair.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "hovering"
+   ],
+   "country": "USA",
+   "date": "1947-07-04",
+   "explanation_status": "not-assessed",
+   "location_name": "Lake St. Clair",
+   "object_count": "1",
+   "page_refs": [
+    16
+   ],
+   "quote": "I have also seen a flying saucer",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "saucer",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Approximately 12 flying discs reported passing over Darlington, SC.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "medium",
+   "behavior": [
+    "flying in formation"
+   ],
+   "country": "USA",
+   "date": "1947-07-06",
+   "explanation_status": "not-assessed",
+   "location_name": "Darlington, South Carolina",
+   "object_count": "12",
+   "page_refs": [
+    42
+   ],
+   "quote": "ABOUT 12 SO-CALL FLYING DISCS PASSED OVER DARLINGTON SC",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "A flying disc reported recovered near Roswell, New Mexico, described as hexagonal and suspended from a balloon.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "suspended"
+   ],
+   "country": "USA",
+   "date": "1947-07-08",
+   "explanation_status": "not-assessed",
+   "location_name": "Roswell, New Mexico",
+   "object_count": "1",
+   "page_refs": [
+    70
+   ],
+   "quote": "OBJECT PURPORTING TO BE A FLYING DISC WAS RE COVERED NEAR ROSWELL, NEW MEXICO",
+   "recording_agency": "FBI",
+   "sensors": [
+    "radar"
+   ],
+   "shape": "hexagonal",
+   "size": "20 feet diameter balloon",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "A circular disc observed whirring in the air with fire spouting from sides, landing in Shreveport, LA.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "whirring",
+    "spouting fire"
+   ],
+   "color": "aluminum",
+   "country": "USA",
+   "date": "1947-07-07",
+   "explanation_status": "not-assessed",
+   "location_name": "Shreveport, Louisiana",
+   "object_count": "1",
+   "page_refs": [
+    72
+   ],
+   "quote": "DISC WHIRLING WHEN SEEN IN AIR AND FIRE SEEN SPOUTING FROM SIDES",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular disc",
+   "size": "16 inches",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "A flying disc reported landed in Burbank, CA, and burst into flame.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "landed",
+    "burst into flame"
+   ],
+   "color": "aluminum",
+   "country": "USA",
+   "date": "1947-07-09",
+   "explanation_status": "not-assessed",
+   "location_name": "Burbank, California",
+   "object_count": "1",
+   "page_refs": [
+    85,
+    86
+   ],
+   "quote": "a 'flying disc' had landed in or near Burbank and had been seen to burst into flame",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "size": "2 feet",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Recovery of a metallic, disc-shaped object in North Hollywood, CA, reported to have landed and caught fire.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "landed",
+    "burst into flames"
+   ],
+   "color": "off-white",
+   "country": "USA",
+   "date": "1947-07-09",
+   "explanation": "Determined to be a hoax by military authorities.",
+   "explanation_status": "explained",
+   "location_name": "North Hollywood, California",
+   "object_count": "1",
+   "page_refs": [
+    94
+   ],
+   "quote": "a so-called \"flying disc\" had landed in the vicinity of Radford and Magnolia Streets",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "size": "30 inches in diameter",
+   "witness_count": "unknown",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Report of a flying disc landing on a roof in Seattle, WA.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "landed",
+    "burning"
+   ],
+   "color": "light gray outside, red inside",
+   "country": "USA",
+   "date": "1947-07-15",
+   "explanation": "Determined to be a hoax/non-flying object.",
+   "explanation_status": "explained",
+   "location_name": "Seattle, Washington",
+   "object_count": "1",
+   "page_refs": [
+    99,
+    101
+   ],
+   "quote": "FLYING DISK HAD LANDED ON HER ROOF ABOUT NINE FORTY TWO PM LAST NIGHT",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "size": "28 inch",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Observation of metallic fragments and small fires on a lawn in West Rindge, NH.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "started fires",
+    "fragmented"
+   ],
+   "country": "USA",
+   "date": "1947-07-07",
+   "explanation": "Possibly lining from a jet turbo plane or V-2 bomb.",
+   "explanation_status": "partially-explained",
+   "location_name": "West Rindge, New Hampshire",
+   "object_count": "1",
+   "page_refs": [
+    106,
+    108
+   ],
+   "quote": "LITTLE CURLS OF SMOKE, WHICH ON INSPECTION DISCLOSED SMALL BURNED SPOTS",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "size": "14 inches in diameter",
+   "witness_count": "several",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Observation of two round objects moving at high speed over the Grand Canyon.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "flying straight down",
+    "inconceivable speeds"
+   ],
+   "color": "light gray",
+   "country": "USA",
+   "date": "1947-06-30",
+   "explanation": "None provided.",
+   "explanation_status": "unexplained",
+   "location_name": "Grand Canyon, Arizona",
+   "object_count": "2",
+   "page_refs": [
+    136
+   ],
+   "quote": "saw two round objects going at inconceivable speeds, straight down",
+   "recording_agency": "AAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "size": "8 feet in diameter",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Observation of ten flying discs in formation over Bakersfield, CA.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "flying in formation",
+    "oscillating"
+   ],
+   "country": "USA",
+   "date": "1947-06-14",
+   "explanation": "None provided.",
+   "explanation_status": "unexplained",
+   "location_name": "Bakersfield, California",
+   "object_count": "10",
+   "page_refs": [
+    179,
+    180
+   ],
+   "quote": "saw ten articles flying from the South to the North",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "size": "unknown",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Observation of three discs flying over Portland, OR.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "flying in formation",
+    "oscillating",
+    "changing direction"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "1947-07-04",
+   "explanation": "None provided.",
+   "explanation_status": "unexplained",
+   "location_name": "Portland, Oregon",
+   "object_count": "3",
+   "page_refs": [
+    183,
+    184
+   ],
+   "quote": "saw three flat round discs, having a white color to them",
+   "recording_agency": "CIC",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "size": "unknown",
+   "witness_count": "2",
+   "witness_types": [
+    "federal-le"
+   ]
+  }
+ ]
+}

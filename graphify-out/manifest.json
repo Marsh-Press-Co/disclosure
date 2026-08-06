@@ -1,0 +1,632 @@
+{
+  "aaro-fy23-consolidated-annual-report.md": {
+    "mtime": 1785982482.0,
+    "ast_hash": "1ec5f4385f7e195647ebf8497457fc09",
+    "semantic_hash": "1ec5f4385f7e195647ebf8497457fc09"
+  },
+  "aaro-fy24-consolidated-annual-report.md": {
+    "mtime": 1785982482.0,
+    "ast_hash": "b77234b808454132ef95473f6eeaed9d",
+    "semantic_hash": "b77234b808454132ef95473f6eeaed9d"
+  },
+  "aaro-fy25-consolidated-annual-report.md": {
+    "mtime": 1785982484.0,
+    "ast_hash": "3d96a650a639e31bed87545a797af98b",
+    "semantic_hash": "3d96a650a639e31bed87545a797af98b"
+  },
+  "aaro-historical-record-report-vol1.md": {
+    "mtime": 1785982482.0,
+    "ast_hash": "b408ee649d2c07e86a584a401442d0a1",
+    "semantic_hash": "b408ee649d2c07e86a584a401442d0a1"
+  },
+  "hearing-2023-07-26-house-oversight.md": {
+    "mtime": 1785982484.0,
+    "ast_hash": "7c1a9ffd0bbf2cd442d533b57166de51",
+    "semantic_hash": "7c1a9ffd0bbf2cd442d533b57166de51"
+  },
+  "hearing-2024-11-13-house-oversight.md": {
+    "mtime": 1785982484.0,
+    "ast_hash": "3badde0d7a4ebb7842bfcbb91018e8ae",
+    "semantic_hash": "3badde0d7a4ebb7842bfcbb91018e8ae"
+  },
+  "odni-2021-preliminary-assessment.md": {
+    "mtime": 1785982480.0,
+    "ast_hash": "3eb31da8e4f6ca47520595060089cf4e",
+    "semantic_hash": "3eb31da8e4f6ca47520595060089cf4e"
+  },
+  "odni-2022-annual-report.md": {
+    "mtime": 1785982480.0,
+    "ast_hash": "e2981d2b54558c258e78a01f3e742973",
+    "semantic_hash": "e2981d2b54558c258e78a01f3e742973"
+  },
+  "pursue-r1--059uap00011.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "a82aea0e5a1e11b3cf3ac2050951ea4c",
+    "semantic_hash": "a82aea0e5a1e11b3cf3ac2050951ea4c"
+  },
+  "pursue-r1--059uap00012.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "d4f41cb8bfdf6652882b29dabb6a6105",
+    "semantic_hash": "d4f41cb8bfdf6652882b29dabb6a6105"
+  },
+  "pursue-r1--059uap00013.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "fa56f2e1f5c789e07f65539120cacb3e",
+    "semantic_hash": "fa56f2e1f5c789e07f65539120cacb3e"
+  },
+  "pursue-r1--18_100754_general_1946-7_vol_2.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "72a20e9dc5e40488b5a16bcb1cf1f263",
+    "semantic_hash": "72a20e9dc5e40488b5a16bcb1cf1f263"
+  },
+  "pursue-r1--18_6369445_general_1948_vol_1.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "ef1b2aff57c707fec6461a43cfec7bc0",
+    "semantic_hash": "ef1b2aff57c707fec6461a43cfec7bc0"
+  },
+  "pursue-r1--2024-04-30-composite-sketch.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "7b2f0367457dd1229d5578dd6010fe3d",
+    "semantic_hash": "7b2f0367457dd1229d5578dd6010fe3d"
+  },
+  "pursue-r1--255_413270_ufo_s_and_defense_what_should_we_prepare_for.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "b101faf810fd667551e7a6f2127ba4b8",
+    "semantic_hash": "b101faf810fd667551e7a6f2127ba4b8"
+  },
+  "pursue-r1--255_t_763_r1b_transcripts.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "b671559671d2cf0e314c5572a0d4a4b8",
+    "semantic_hash": "b671559671d2cf0e314c5572a0d4a4b8"
+  },
+  "pursue-r1--331_120752_numeric_files_1944_1945_37153_german_armament_equipment_documents.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "1c32c9c1b2f6899bfa67b57d21cdd4aa",
+    "semantic_hash": "1c32c9c1b2f6899bfa67b57d21cdd4aa"
+  },
+  "pursue-r1--341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "4e3ae36bb4457228c45aead95b5c1543",
+    "semantic_hash": "4e3ae36bb4457228c45aead95b5c1543"
+  },
+  "pursue-r1--341_110677_numerical_file_5-2500.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "cc99643f9f5e8696a84df284c8a3009b",
+    "semantic_hash": "cc99643f9f5e8696a84df284c8a3009b"
+  },
+  "pursue-r1--342_hs1-416511228_box186_319.1-flying-discs-1949.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "9d57443bf9887dc9a9de2a2fd613131c",
+    "semantic_hash": "9d57443bf9887dc9a9de2a2fd613131c"
+  },
+  "pursue-r1--38_143685_box7_incident_summaries_1-100.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "0d0d41dae117cbb614c8cb0c2ae91381",
+    "semantic_hash": "0d0d41dae117cbb614c8cb0c2ae91381"
+  },
+  "pursue-r1--38_143685_box7_incident_summaries_101-172.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "f35d888d08d48302c86945656fef9889",
+    "semantic_hash": "f35d888d08d48302c86945656fef9889"
+  },
+  "pursue-r1--38_143685_box7_incident_summaries_173-233.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "54a044e29428fcf101e596a7032debeb",
+    "semantic_hash": "54a044e29428fcf101e596a7032debeb"
+  },
+  "pursue-r1--59_214434_sp_16_19630718.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "ccc7f2aabdce71d3fca367ac712b9cf4",
+    "semantic_hash": "ccc7f2aabdce71d3fca367ac712b9cf4"
+  },
+  "pursue-r1--59_214434_sp_16_7.18.1963.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "cb5d6f05eb3afefdb2509f0e27dc2f8c",
+    "semantic_hash": "cb5d6f05eb3afefdb2509f0e27dc2f8c"
+  },
+  "pursue-r1--65_HS1-834228961_62-HQ-83894_Serial_153.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "a53d271c9f0f588205ea7bf462eee9ca",
+    "semantic_hash": "a53d271c9f0f588205ea7bf462eee9ca"
+  },
+  "pursue-r1--65_hs1-101634279_100-de-18221_serial_844.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "4418deea38c6e6812685e2a2c0bbdb08",
+    "semantic_hash": "4418deea38c6e6812685e2a2c0bbdb08"
+  },
+  "pursue-r1--65_hs1-101634279_100-de-26505.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "6f9c60e7b42a8477c88c17ff94d355b1",
+    "semantic_hash": "6f9c60e7b42a8477c88c17ff94d355b1"
+  },
+  "pursue-r1--65_hs1-834228961_62-hq-83894_section_1.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "2f406151f7967294d907f92326cbd057",
+    "semantic_hash": "2f406151f7967294d907f92326cbd057"
+  },
+  "pursue-r1--65_hs1-834228961_62-hq-83894_section_10.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "af1f91b3107b1a47abc2c017403f4e64",
+    "semantic_hash": "af1f91b3107b1a47abc2c017403f4e64"
+  },
+  "pursue-r1--65_hs1-834228961_62-hq-83894_section_2.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "82044f8e22c78e3dccd82343c1446bae",
+    "semantic_hash": "82044f8e22c78e3dccd82343c1446bae"
+  },
+  "pursue-r1--65_hs1-834228961_62-hq-83894_section_3.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "819d21d73e6492ab58e387ec5b1600e4",
+    "semantic_hash": "819d21d73e6492ab58e387ec5b1600e4"
+  },
+  "pursue-r1--65_hs1-834228961_62-hq-83894_section_4.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "a2009a0c92e57a7bd7d759af7b91eff3",
+    "semantic_hash": "a2009a0c92e57a7bd7d759af7b91eff3"
+  },
+  "pursue-r1--65_hs1-834228961_62-hq-83894_section_5.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "db169ea607c3946794a52eb91b084d4f",
+    "semantic_hash": "db169ea607c3946794a52eb91b084d4f"
+  },
+  "pursue-r1--65_hs1-834228961_62-hq-83894_section_6.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "494af5c14ce2fb1da0ecb2ccf33710b6",
+    "semantic_hash": "494af5c14ce2fb1da0ecb2ccf33710b6"
+  },
+  "pursue-r1--65_hs1-834228961_62-hq-83894_section_7.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "d0e540c40830020d339b8831a4bf408e",
+    "semantic_hash": "d0e540c40830020d339b8831a4bf408e"
+  },
+  "pursue-r1--65_hs1-834228961_62-hq-83894_section_8.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "f49cf033ba1620ac9b1c5d0ff310d071",
+    "semantic_hash": "f49cf033ba1620ac9b1c5d0ff310d071"
+  },
+  "pursue-r1--65_hs1-834228961_62-hq-83894_section_9.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "811ee0aad026b07eed7d79cdb7bbd0c4",
+    "semantic_hash": "811ee0aad026b07eed7d79cdb7bbd0c4"
+  },
+  "pursue-r1--65_hs1-834228961_62-hq-83894_serial_130.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "abf784a25dac09a0421f27f5ce74e8e5",
+    "semantic_hash": "abf784a25dac09a0421f27f5ce74e8e5"
+  },
+  "pursue-r1--65_hs1-834228961_62-hq-83894_serial_164.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "25e0ff55eaa464c3f17e36955d476e2a",
+    "semantic_hash": "25e0ff55eaa464c3f17e36955d476e2a"
+  },
+  "pursue-r1--65_hs1-834228961_62-hq-83894_serial_220.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "1e34f5ccb1f3d4c0d56f27c55eec09ae",
+    "semantic_hash": "1e34f5ccb1f3d4c0d56f27c55eec09ae"
+  },
+  "pursue-r1--65_hs1-834228961_62-hq-83894_serial_403.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "c2935a7f4457fabd00111470a9508a18",
+    "semantic_hash": "c2935a7f4457fabd00111470a9508a18"
+  },
+  "pursue-r1--65_hs1-834228961_62-hq-83894_serial_438.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "2be81d1d5d2483c4764f0baa33a43729",
+    "semantic_hash": "2be81d1d5d2483c4764f0baa33a43729"
+  },
+  "pursue-r1--65_hs1-834228961_62-hq-83894_serial_449.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "0368f87b2aeec78ea0cdfe1e882eb63f",
+    "semantic_hash": "0368f87b2aeec78ea0cdfe1e882eb63f"
+  },
+  "pursue-r1--65_hs1-834228961_62-hq-83894_sub_a.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "a9d5b714ee53090d777b9ecb964259f2",
+    "semantic_hash": "a9d5b714ee53090d777b9ecb964259f2"
+  },
+  "pursue-r1--dos-uap-d1-cable-1-papua-new-guinea-january-1985.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "fcd24c3c5be835e77718db7b755137c9",
+    "semantic_hash": "fcd24c3c5be835e77718db7b755137c9"
+  },
+  "pursue-r1--dos-uap-d2-cable-2-kazakhstan-january-1994.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "912cb76d4702d39bbdee5d3f96898aa8",
+    "semantic_hash": "912cb76d4702d39bbdee5d3f96898aa8"
+  },
+  "pursue-r1--dow-uap-d10-mission-report-middle-east-may-2022.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "d69d07e522f94783deb0c9dc35b84f60",
+    "semantic_hash": "d69d07e522f94783deb0c9dc35b84f60"
+  },
+  "pursue-r1--dow-uap-d12-mission-report-iraq-may-2022.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "7e1f812842e4d89878b3ee1164dcfefe",
+    "semantic_hash": "7e1f812842e4d89878b3ee1164dcfefe"
+  },
+  "pursue-r1--dow-uap-d14-mission-report-iraq-may-2022.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "479efc86018cfc502aa9a33d98eaef2a",
+    "semantic_hash": "479efc86018cfc502aa9a33d98eaef2a"
+  },
+  "pursue-r1--dow-uap-d16-mission-report-syria-july-2022.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "1f20578b77707403e9a6f5891e331562",
+    "semantic_hash": "1f20578b77707403e9a6f5891e331562"
+  },
+  "pursue-r1--dow-uap-d18-mission-report-iraq-december-2022.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "fd23bfbc0b0745fba0ac50560b95f745",
+    "semantic_hash": "fd23bfbc0b0745fba0ac50560b95f745"
+  },
+  "pursue-r1--dow-uap-d19-mission-report-syria-february-21-2023.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "b5f7c47ae3c07ded5d5044a1b3237290",
+    "semantic_hash": "b5f7c47ae3c07ded5d5044a1b3237290"
+  },
+  "pursue-r1--dow-uap-d20-mission-report-southern-united-states-2023.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "229fb7f425ea02eefd9c9d4d7009abdf",
+    "semantic_hash": "229fb7f425ea02eefd9c9d4d7009abdf"
+  },
+  "pursue-r1--dow-uap-d23-mission-report-united-arab-emirates-october-2023.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "404f8274350f9fe1605ab8f2a8102160",
+    "semantic_hash": "404f8274350f9fe1605ab8f2a8102160"
+  },
+  "pursue-r1--dow-uap-d25-mission-report-greece-january-2024.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "67e04875422d9137f60df85da6d5bdc7",
+    "semantic_hash": "67e04875422d9137f60df85da6d5bdc7"
+  },
+  "pursue-r1--dow-uap-d27-mission-report-united-arab-emirates-october-2023.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "55efd797894842fb19c6fa79f503f54d",
+    "semantic_hash": "55efd797894842fb19c6fa79f503f54d"
+  },
+  "pursue-r1--dow-uap-d28-mission-report-east-china-sea-2024.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "f8286e31426936ff2559d2e70726bedc",
+    "semantic_hash": "f8286e31426936ff2559d2e70726bedc"
+  },
+  "pursue-r1--dow-uap-d3-mission-report-arabian-gulf-2020.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "adeb3edbb65caf29c8287849342bd485",
+    "semantic_hash": "adeb3edbb65caf29c8287849342bd485"
+  },
+  "pursue-r1--dow-uap-d32-mission-report_-syria-october-2024.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "46b3d6b8bb0d4e319cc50a0645f8ee5e",
+    "semantic_hash": "46b3d6b8bb0d4e319cc50a0645f8ee5e"
+  },
+  "pursue-r1--dow-uap-d33-mission-report-greece-october-2023.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "09f04b10b402eb106003730b9536eaf3",
+    "semantic_hash": "09f04b10b402eb106003730b9536eaf3"
+  },
+  "pursue-r1--dow-uap-d35-mission-report-greece-october-2023.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "e3904389d56bfd54ba622cdbb646cf6e",
+    "semantic_hash": "e3904389d56bfd54ba622cdbb646cf6e"
+  },
+  "pursue-r1--dow-uap-d38-range-fouler-debrief-middle-east-may-2020.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "2bc9b21920c007a07b097531cb22840a",
+    "semantic_hash": "2bc9b21920c007a07b097531cb22840a"
+  },
+  "pursue-r1--dow-uap-d4-mission-report-arabian-gulf-2020.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "23d267b3c739643139dfafb07ffc3956",
+    "semantic_hash": "23d267b3c739643139dfafb07ffc3956"
+  },
+  "pursue-r1--dow-uap-d42-range-fouler-debrief-japan-2023.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "b8d0bd7e48ec84508cfb04416fb3acf5",
+    "semantic_hash": "b8d0bd7e48ec84508cfb04416fb3acf5"
+  },
+  "pursue-r1--dow-uap-d44-range-fouler-arabian-sea-october-2020.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "b3d05687b508c55b6475e34eddeadc9a",
+    "semantic_hash": "b3d05687b508c55b6475e34eddeadc9a"
+  },
+  "pursue-r1--dow-uap-d48-report-september-1996.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "190b57b2c7f7f62054b732197d7d2633",
+    "semantic_hash": "190b57b2c7f7f62054b732197d7d2633"
+  },
+  "pursue-r1--dow-uap-d49-launch-summary-february-2000.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "5a06b71fdc87ead728a4746269be4a0b",
+    "semantic_hash": "5a06b71fdc87ead728a4746269be4a0b"
+  },
+  "pursue-r1--dow-uap-d5-mission-report-arabian-gulf-2020.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "0bd993db27ce9e7bc0524eb98e6c9510",
+    "semantic_hash": "0bd993db27ce9e7bc0524eb98e6c9510"
+  },
+  "pursue-r1--dow-uap-d50-email-correspondence-indopacom-april-2025.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "f49c09fa087c43e575b44697881a1783",
+    "semantic_hash": "f49c09fa087c43e575b44697881a1783"
+  },
+  "pursue-r1--dow-uap-d51-email-correspondence-pacific-time-zone-march-2023.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "cad3057db64ba0e32c218d37c7abc6ed",
+    "semantic_hash": "cad3057db64ba0e32c218d37c7abc6ed"
+  },
+  "pursue-r1--dow-uap-d52-email-correspondance-na-august-2024.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "4369920bb02f1f76b99868fd4bc1a644",
+    "semantic_hash": "4369920bb02f1f76b99868fd4bc1a644"
+  },
+  "pursue-r1--dow-uap-d54-mission-report-mediterranean-sea-na.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "f1d559de33352a71e1b5bcc1ef3c0f66",
+    "semantic_hash": "f1d559de33352a71e1b5bcc1ef3c0f66"
+  },
+  "pursue-r1--dow-uap-d55-mission-report-syria-november-2016.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "1ee4865fb3462f601efae6d67b6706cc",
+    "semantic_hash": "1ee4865fb3462f601efae6d67b6706cc"
+  },
+  "pursue-r1--dow-uap-d56-range-fouler-debrief-arabian-sea-august-2020.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "a9f020e3fdbb6b0a03f8ae2a9b0e3502",
+    "semantic_hash": "a9f020e3fdbb6b0a03f8ae2a9b0e3502"
+  },
+  "pursue-r1--dow-uap-d57-mission-report-gulf-of-aden-september-2020.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "b8d8edb37678ed6124a60813d3ca84b6",
+    "semantic_hash": "b8d8edb37678ed6124a60813d3ca84b6"
+  },
+  "pursue-r1--dow-uap-d58-range-fouler-debrief-na-october-2020.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "cb5d0d4e120156011b84414001ab1444",
+    "semantic_hash": "cb5d0d4e120156011b84414001ab1444"
+  },
+  "pursue-r1--dow-uap-d6-mission-report-arabian-gulf-2020.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "f62f7e85b73a9acc18e944a73ff2452c",
+    "semantic_hash": "f62f7e85b73a9acc18e944a73ff2452c"
+  },
+  "pursue-r1--dow-uap-d60-mission-report-persian-gulf-august-2020.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "4b24d9faba64f1ef8e86e92318bb0213",
+    "semantic_hash": "4b24d9faba64f1ef8e86e92318bb0213"
+  },
+  "pursue-r1--dow-uap-d61-mission-report-persian-gulf-august-2020.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "59268a4b2f9e49438784a53b3432cf32",
+    "semantic_hash": "59268a4b2f9e49438784a53b3432cf32"
+  },
+  "pursue-r1--dow-uap-d62-mission-report-strait-of-hormuz-september-2020.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "c107e730514ab42704e0fd5b3b51091b",
+    "semantic_hash": "c107e730514ab42704e0fd5b3b51091b"
+  },
+  "pursue-r1--dow-uap-d63-mission-report-strait-of-hormuz-october-2020.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "dcbd1143f2b270e93d0f7ac835f3a5f8",
+    "semantic_hash": "dcbd1143f2b270e93d0f7ac835f3a5f8"
+  },
+  "pursue-r1--dow-uap-d64-mission-report-iran-november-2020.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "c565e2f2255141ccd5700bcbaffb832e",
+    "semantic_hash": "c565e2f2255141ccd5700bcbaffb832e"
+  },
+  "pursue-r1--dow-uap-d65-mission-report-persian-gulf-july-2020.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "6b03d61710ac5955a7766724461fac08",
+    "semantic_hash": "6b03d61710ac5955a7766724461fac08"
+  },
+  "pursue-r1--dow-uap-d7-mission-report-arabian-gulf-2020.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "7e6321fc583af8d760781b9a9dcb139e",
+    "semantic_hash": "7e6321fc583af8d760781b9a9dcb139e"
+  },
+  "pursue-r1--dow-uap-d74-mission-report-syria-november-2023.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "17a9b32b3611483c2c375b6ff6d7c8e5",
+    "semantic_hash": "17a9b32b3611483c2c375b6ff6d7c8e5"
+  },
+  "pursue-r1--dow-uap-d75-mission-report-gulf-of-aden-july-2024.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "a9f85caa69c9d166c86baa38349dccc4",
+    "semantic_hash": "a9f85caa69c9d166c86baa38349dccc4"
+  },
+  "pursue-r1--dow-uap-d8-mission-report-djibouti-2025.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "7f571b51a7d113242832db46eeaf7c9f",
+    "semantic_hash": "7f571b51a7d113242832db46eeaf7c9f"
+  },
+  "pursue-r1--dow-uap-pr20.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "4a81dd878895eed95da78192cfc49329",
+    "semantic_hash": "4a81dd878895eed95da78192cfc49329"
+  },
+  "pursue-r1--fbi-photo-b1.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "93b117df2f7b2c0ddf21c9f1335509c5",
+    "semantic_hash": "93b117df2f7b2c0ddf21c9f1335509c5"
+  },
+  "pursue-r1--fbi-photo-b10.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "408f6de507fa7c227ba5f2f5bdd89b0e",
+    "semantic_hash": "408f6de507fa7c227ba5f2f5bdd89b0e"
+  },
+  "pursue-r1--fbi-photo-b11.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "d1c91f379c00c17d3e4ab4342b381da3",
+    "semantic_hash": "d1c91f379c00c17d3e4ab4342b381da3"
+  },
+  "pursue-r1--fbi-photo-b12.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "11da455557c5602dff8d36b0a25f68c9",
+    "semantic_hash": "11da455557c5602dff8d36b0a25f68c9"
+  },
+  "pursue-r1--fbi-photo-b13.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "3623c64b944e18e857866dc42ffb977b",
+    "semantic_hash": "3623c64b944e18e857866dc42ffb977b"
+  },
+  "pursue-r1--fbi-photo-b14.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "0b75d9ba02b4e93067e50e4208358f46",
+    "semantic_hash": "0b75d9ba02b4e93067e50e4208358f46"
+  },
+  "pursue-r1--fbi-photo-b15.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "2d31a1ffd62987d782e56a23e797bd21",
+    "semantic_hash": "2d31a1ffd62987d782e56a23e797bd21"
+  },
+  "pursue-r1--fbi-photo-b16.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "672a159c51681c05b493f39dc2a8e98a",
+    "semantic_hash": "672a159c51681c05b493f39dc2a8e98a"
+  },
+  "pursue-r1--fbi-photo-b17.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "4c526d83b8897a3ffaa67764d6c257e8",
+    "semantic_hash": "4c526d83b8897a3ffaa67764d6c257e8"
+  },
+  "pursue-r1--fbi-photo-b18.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "4b53db2900bffa139310c613fcf2dbfb",
+    "semantic_hash": "4b53db2900bffa139310c613fcf2dbfb"
+  },
+  "pursue-r1--fbi-photo-b19.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "85d246ebd6e8025e8dd63aae3d38c1b8",
+    "semantic_hash": "85d246ebd6e8025e8dd63aae3d38c1b8"
+  },
+  "pursue-r1--fbi-photo-b2.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "2008cf034082d6439451aef22a050b15",
+    "semantic_hash": "2008cf034082d6439451aef22a050b15"
+  },
+  "pursue-r1--fbi-photo-b20.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "6ab58e6757f23f178be04e52215c8cd1",
+    "semantic_hash": "6ab58e6757f23f178be04e52215c8cd1"
+  },
+  "pursue-r1--fbi-photo-b21.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "caeaf43b47f5b270b6a1934b1970d5bb",
+    "semantic_hash": "caeaf43b47f5b270b6a1934b1970d5bb"
+  },
+  "pursue-r1--fbi-photo-b22.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "1833020c7582ff1c350527a3543aa787",
+    "semantic_hash": "1833020c7582ff1c350527a3543aa787"
+  },
+  "pursue-r1--fbi-photo-b23.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "d22263688316649531745e5a372cb291",
+    "semantic_hash": "d22263688316649531745e5a372cb291"
+  },
+  "pursue-r1--fbi-photo-b24.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "6e50284df164784d4cc3d10ad1dc6fb4",
+    "semantic_hash": "6e50284df164784d4cc3d10ad1dc6fb4"
+  },
+  "pursue-r1--fbi-photo-b3.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "6f7a228bb6afd3876d0bf07528295506",
+    "semantic_hash": "6f7a228bb6afd3876d0bf07528295506"
+  },
+  "pursue-r1--fbi-photo-b4.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "087bec1c4fe1f7e98acea556e92977aa",
+    "semantic_hash": "087bec1c4fe1f7e98acea556e92977aa"
+  },
+  "pursue-r1--fbi-photo-b5.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "68b783901d13a33f0744bc50766dd02f",
+    "semantic_hash": "68b783901d13a33f0744bc50766dd02f"
+  },
+  "pursue-r1--fbi-photo-b6.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "ba4082b722e9b1f53d82e9e7230537c3",
+    "semantic_hash": "ba4082b722e9b1f53d82e9e7230537c3"
+  },
+  "pursue-r1--fbi-photo-b7.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "17714ed9782d244a63ff9887350faef6",
+    "semantic_hash": "17714ed9782d244a63ff9887350faef6"
+  },
+  "pursue-r1--fbi-photo-b8.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "4642c6c9a695f39db1c5450a5c8d775f",
+    "semantic_hash": "4642c6c9a695f39db1c5450a5c8d775f"
+  },
+  "pursue-r1--fbi-photo-b9.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "0cd6cad6c3e84527f284982e8ef97712",
+    "semantic_hash": "0cd6cad6c3e84527f284982e8ef97712"
+  },
+  "pursue-r1--nasa-uap-d1-apollo-12-transcript-1969.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "43921f59a4901e0487f640d4179ae290",
+    "semantic_hash": "43921f59a4901e0487f640d4179ae290"
+  },
+  "pursue-r1--nasa-uap-d2-apollo-17-transcript-1972.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "41ae1c5fb1e1f27f2a101b772e3de890",
+    "semantic_hash": "41ae1c5fb1e1f27f2a101b772e3de890"
+  },
+  "pursue-r1--nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "96f07c0fba51111e4af7541bedb5ccf0",
+    "semantic_hash": "96f07c0fba51111e4af7541bedb5ccf0"
+  },
+  "pursue-r1--nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "54e3e0563353a5f784a683a89261aca8",
+    "semantic_hash": "54e3e0563353a5f784a683a89261aca8"
+  },
+  "pursue-r1--nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "a6689cce3ae753860f42fa5c3f37cf5a",
+    "semantic_hash": "a6689cce3ae753860f42fa5c3f37cf5a"
+  },
+  "pursue-r1--nasa-uap-d7-skylab-technical-crew-debriefing-1973.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "e0ef708d13c6a5eb92fabbddc88fc1ca",
+    "semantic_hash": "e0ef708d13c6a5eb92fabbddc88fc1ca"
+  },
+  "pursue-r1--record-index.md": {
+    "mtime": 1785982204.0,
+    "ast_hash": "9b27f1a2568b6e90569b94eff42f0c40",
+    "semantic_hash": "9b27f1a2568b6e90569b94eff42f0c40"
+  },
+  "pursue-r1--serial-3_redacted.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "9325212897c9fc29ccc2d19987c2c905",
+    "semantic_hash": "9325212897c9fc29ccc2d19987c2c905"
+  },
+  "pursue-r1--serial-4-redacted_redacted.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "ce09c5f868283d10bd2c395bdbb81c3c",
+    "semantic_hash": "ce09c5f868283d10bd2c395bdbb81c3c"
+  },
+  "pursue-r1--serial_5_redacted_redacted.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "94882ccba40ace7d9143aab3e27dfeec",
+    "semantic_hash": "94882ccba40ace7d9143aab3e27dfeec"
+  },
+  "pursue-r1--usper-statement-redacted.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "f54029eb185bbce61ef0ea7d2146419a",
+    "semantic_hash": "f54029eb185bbce61ef0ea7d2146419a"
+  },
+  "pursue-r1--western_us_event_slides_5.08.2026.md": {
+    "mtime": 1785982070.0,
+    "ast_hash": "77e5dd4eca122524252f4671d2adef94",
+    "semantic_hash": "77e5dd4eca122524252f4671d2adef94"
+  },
+  "sasc-2024-11-19-aaro-remarks.md": {
+    "mtime": 1785982484.0,
+    "ast_hash": "b34f72d87bfb3bdec0e8675691f6ac1b",
+    "semantic_hash": "b34f72d87bfb3bdec0e8675691f6ac1b"
+  }
+}

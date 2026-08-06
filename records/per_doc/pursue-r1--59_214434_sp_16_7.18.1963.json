@@ -1,0 +1,26 @@
+{
+ "doc_id": "59_214434_sp_16_7.18.1963",
+ "file": "pursue-r1--59_214434_sp_16_7.18.1963.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of State",
+ "title": "59_64634_711.5612[7-2852",
+ "record_type": "other",
+ "index_date": "2052-07-18",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This document is a memorandum from the National Aeronautics and Space Council discussing the theoretical possibility of extraterrestrial life and addressing claims made by 'flying saucer advocates' regarding Mars and the moon. / This document is a memorandum written by Maxwell W. Hunter II regarding the theoretical implications of extraterrestrial life and interstellar travel on national policy, containing no specific UAP incident reports.",
+ "incidents": [
+  {
+   "summary": "Observation of hot gases emanating from the lunar crater Alphonsus.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    3
+   ],
+   "quote": "The discovery of hot gasses emanating from the crater Alphonsus when the moon was supposedly dead."
+  }
+ ]
+}

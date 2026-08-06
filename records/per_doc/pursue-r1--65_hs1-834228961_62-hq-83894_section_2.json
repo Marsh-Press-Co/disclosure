@@ -1,0 +1,555 @@
+{
+ "doc_id": "65_hs1-834228961_62-hq-83894_section_2",
+ "file": "pursue-r1--65_hs1-834228961_62-hq-83894_section_2.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "65_HS1-834228961_62-HQ-83894_Section_2",
+ "record_type": "case_file",
+ "index_date": "1957-06-15",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This document is an FBI case file (62-HQ-83894) containing investigative reports, teletypes, and correspondence regarding UAP sightings between 1947 and 1952, including several reports of hoaxes and misidentifications. / This document is a collection of FBI case files (62-HQ-83894) regarding UAP sightings and investigations between 1947 and 1952, containing correspondence, teletypes, and military intelligence reports.",
+ "incidents": [
+  {
+   "summary": "Charles Casella Jr. and William Truex observed a round, black object moving rapidly north at approximately 200 yards altitude.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "steady rate",
+    "moving rapidly"
+   ],
+   "country": "USA",
+   "date": "1947-08-03",
+   "location_name": "Hackensack, New Jersey",
+   "object_count": "1",
+   "page_refs": [
+    4,
+    6,
+    7
+   ],
+   "quote": "round, black object moving from south to north",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "size": "30-40 inches",
+   "time_local": "19:45",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian",
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Raymond and Laura Lane observed a ball of white fire burning near the ground, leaving fused sand.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "medium",
+   "behavior": [
+    "burning",
+    "puff noise"
+   ],
+   "country": "USA",
+   "date": "1947-07-09",
+   "location_name": "Midland, Michigan",
+   "object_count": "1",
+   "page_refs": [
+    8,
+    10,
+    14
+   ],
+   "quote": "ball of white about the size of a bushel basket burning",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "ball",
+   "size": "bushel basket",
+   "time_local": "17:15",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Mrs. Robert Little reported seeing a disc sailing above Lake Michigan.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "low",
+   "country": "USA",
+   "date": "1947-08-08",
+   "location_name": "Chicago, Illinois",
+   "object_count": "1",
+   "page_refs": [
+    15
+   ],
+   "quote": "seeing a disc 3:30 AM today sailing above Lake Michigan",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "time_local": "03:30",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Four witnesses in two airplanes observed flying saucers performing high-speed maneuvers.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "medium",
+   "behavior": [
+    "descended vertically",
+    "horizontal flight",
+    "high speed"
+   ],
+   "country": "USA",
+   "date": "1947-07-07",
+   "location_name": "Wisconsin",
+   "object_count": "1",
+   "page_refs": [
+    21
+   ],
+   "quote": "saucer descended vertically edgewise through altocumulus clouds",
+   "recording_agency": "AAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "saucer",
+   "witness_count": "4",
+   "witness_types": [
+    "military-pilot",
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Ray Virgil Hatfield and Noble Ellison observed a silver spherical object while in flight.",
+   "date_precision": "day",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "climbing",
+    "traveling at high speed"
+   ],
+   "country": "USA",
+   "date": "1947-08-06",
+   "location_name": "Myrtle Creek, Oregon",
+   "object_count": "1",
+   "page_refs": [
+    52,
+    54
+   ],
+   "quote": "glistened and appeared to be of aluminium sheeting",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "spherical",
+   "size": "30-50 feet",
+   "time_local": "18:15",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Mr. and Mrs. H. H. Hedstrom and police officers observed multiple groups of triangularly-formed objects.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "triangular formation",
+    "peeled off",
+    "rapid movement"
+   ],
+   "country": "USA",
+   "date": "1947-08-19",
+   "location_name": "Twin Falls, Idaho",
+   "object_count": "35-50",
+   "page_refs": [
+    57,
+    59
+   ],
+   "quote": "ten similar objects proceeding rapidly in the same direction in the form of a triangle",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "saucer",
+   "time_local": "21:30",
+   "witness_count": "6",
+   "witness_types": [
+    "civilian",
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "John Bartl observed a bright glow of light fluctuating in altitude over the ocean.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "fluctuating in altitude"
+   ],
+   "country": "USA",
+   "date": "1947-08-07",
+   "location_name": "Agate Beach, Oregon",
+   "object_count": "1",
+   "page_refs": [
+    68
+   ],
+   "quote": "bright glow of light across the sky out over the ocean",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "time_local": "00:30",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Mrs. Raymond Dupuis and children observed approximately two dozen round silver objects.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "medium",
+   "behavior": [
+    "rotate rapidly",
+    "floated slowly downward"
+   ],
+   "country": "USA",
+   "date": "1947-09-03",
+   "location_name": "Oswego, Oregon",
+   "object_count": "24",
+   "page_refs": [
+    92,
+    94
+   ],
+   "quote": "approximately two dozen round silver objects high in the sky",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "platter",
+   "time_local": "12:15",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "A. Courtney Parker observed two objects, one ball-shaped and one saucer-shaped, flying noiselessly from the east.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "approached rapidly",
+    "noiseless",
+    "followed at constant distance"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "1947-09-17",
+   "duration": "more than a minute",
+   "explanation_status": "not-assessed",
+   "location_name": "Rix Ledges, north of Lebanon, N.H.",
+   "object_count": "2",
+   "page_refs": [
+    100
+   ],
+   "quote": "This object approached rapidly and noiselessly from the East and was followed closely by another object",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "ball and saucer",
+   "size": "tennis ball",
+   "witness_count": "1",
+   "witness_types": [
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "William Albert Rhodes observed and photographed an odd-shaped ship that spiraled and banked into clouds.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "spiral",
+    "banked to the right",
+    "disappeared into clouds"
+   ],
+   "color": "dark",
+   "country": "USA",
+   "date": "1947-07-07",
+   "explanation_status": "not-assessed",
+   "location_name": "Phoenix, Arizona",
+   "object_count": "1",
+   "page_refs": [
+    117,
+    118
+   ],
+   "quote": "observed to the northeast what appeared to be an odd shaped ship",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "photo"
+   ],
+   "shape": "odd shaped ship",
+   "size": "20 to 30 feet",
+   "time_local": "5 p.m.",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Chief of Police Leon V. Jenkins observed a bright metallic object similar to a weather balloon.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "traveling rapidly",
+    "veered to south"
+   ],
+   "color": "bright metal",
+   "country": "USA",
+   "date": "1947-09-11",
+   "duration": "approximately one minute",
+   "explanation_status": "not-assessed",
+   "location_name": "Portland, Oregon",
+   "object_count": "1",
+   "page_refs": [
+    120
+   ],
+   "quote": "observed at about five fifteen PM eleventh instant, an object similar in size to a weather balloon",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "similar to weather balloon",
+   "time_local": "5:15 PM",
+   "witness_count": "2",
+   "witness_types": [
+    "federal-le"
+   ]
+  },
+  {
+   "summary": "Mrs. G. H. Stockton and Hugh Jennings observed a football-shaped object turning end over end.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "turning end over end"
+   ],
+   "country": "USA",
+   "date": "1947-09-06",
+   "duration": "approximately five minutes",
+   "explanation_status": "partially-explained",
+   "location_name": "Shouns, Tennessee",
+   "object_count": "1",
+   "page_refs": [
+    122
+   ],
+   "quote": "described as being shaped like football, moving in a southerly direction",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "football",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Fred M. Johnson observed five or six discs while prospecting in the Cascade Mountains.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "banking in the sun"
+   ],
+   "country": "USA",
+   "date": "1947-06-24",
+   "duration": "45 to 60 seconds",
+   "explanation_status": "not-assessed",
+   "location_name": "Cascade Mountains",
+   "object_count": "5 or 6",
+   "page_refs": [
+    127
+   ],
+   "quote": "saw a disc proceeding in a southeasterly direction",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "size": "30 feet",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Kenneth Arnold observed nine flying machines flying in a chain-like formation.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "flying in a chain-like line",
+    "swerved in and out of mountain peaks"
+   ],
+   "country": "USA",
+   "date": "1947-06-24",
+   "duration": "2 to 3 minutes",
+   "explanation_status": "not-assessed",
+   "location_name": "Cascade Mountains, Washington",
+   "object_count": "9",
+   "page_refs": [
+    164,
+    165
+   ],
+   "quote": "observed a chain of nine peculiar looking aircraft",
+   "recording_agency": "US Army Air Forces",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "saucer-like",
+   "time_local": "3:00 PM",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "David N. Johnson observed a black, round object performing erratic maneuvers.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "erratic movement",
+    "slow roll",
+    "barrel roll"
+   ],
+   "color": "black",
+   "country": "USA",
+   "date": "1947-07-09",
+   "explanation_status": "not-assessed",
+   "location_name": "Boise, Idaho",
+   "object_count": "1",
+   "page_refs": [
+    169,
+    170
+   ],
+   "quote": "there suddenly appeared in the left hand portion of my field of vision an object which was black and round",
+   "recording_agency": "US Army Air Forces",
+   "sensors": [
+    "visual",
+    "photo"
+   ],
+   "shape": "round",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Captain William H. Ryherd observed two shiny objects traveling at high speed.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "traveling straight and level",
+    "guard in an aircraft formation"
+   ],
+   "color": "shiny white",
+   "country": "USA",
+   "date": "1947-07-29",
+   "explanation_status": "not-assessed",
+   "location_name": "Hamilton Field, California",
+   "object_count": "2",
+   "page_refs": [
+    186
+   ],
+   "quote": "two flying objects traveling the same direction as the P-80",
+   "recording_agency": "US Army Air Forces",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular",
+   "size": "15 to 25 feet",
+   "time_local": "14:50",
+   "witness_count": "2",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Lt. Armstrong sighted five or six white circular objects.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "flying very smoothly",
+    "close formation"
+   ],
+   "color": "white",
+   "country": "USA",
+   "date": "1947-06-28",
+   "explanation_status": "not-assessed",
+   "location_name": "Lake Meade, Nevada",
+   "object_count": "5 or 6",
+   "page_refs": [
+    189
+   ],
+   "quote": "sighted five or six white, circular objects",
+   "recording_agency": "US Army Air Forces",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular",
+   "size": "36 inches",
+   "time_local": "15:15 CST",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Horace P. Wenyon observed a projectile crossing his course at high speed.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "spurting flame",
+    "high speed"
+   ],
+   "country": "USA",
+   "date": "1946-09",
+   "explanation_status": "not-assessed",
+   "location_name": "Rehoboth Beach, Delaware",
+   "object_count": "1",
+   "page_refs": [
+    192
+   ],
+   "quote": "projectile approximately fifteen inches in diameter which crossed his course at right angles",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "projectile",
+   "size": "15 inches",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

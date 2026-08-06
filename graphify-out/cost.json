@@ -1,0 +1,20 @@
+{
+  "runs": [
+    {
+      "date": "2026-08-06T04:35:00+00:00",
+      "note": "shallow pass (60k budget), superseded",
+      "input_tokens": 2477853,
+      "output_tokens": 132376,
+      "files": 126
+    },
+    {
+      "date": "2026-08-06T02:40:46.289446+00:00",
+      "note": "fine pass (20k budget) - the shipped graph",
+      "input_tokens": 2550303,
+      "output_tokens": 389046,
+      "files": 126
+    }
+  ],
+  "total_input_tokens": 5028156,
+  "total_output_tokens": 521422
+}

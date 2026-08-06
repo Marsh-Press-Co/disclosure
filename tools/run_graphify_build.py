@@ -64,9 +64,11 @@ def build():
     labels = {cid: "Community " + str(cid) for cid in communities}
     questions = suggest_questions(G, communities, labels)
 
-    wrote = to_json(G, communities, str(GOUT / "graph.json"))
+    force = "--force" in sys.argv
+    wrote = to_json(G, communities, str(GOUT / "graph.json"), force=force)
     if not wrote:
-        print("ERROR: refused to shrink existing graph.json (#479 guard).")
+        print("ERROR: refused to shrink existing graph.json (#479 guard). "
+              "Re-run with --force if the reduction is verified legitimate.")
         raise SystemExit(1)
     report = generate(G, communities, cohesion, labels, gods, surprises, detection,
                       tokens, INPUT_PATH, suggested_questions=questions)

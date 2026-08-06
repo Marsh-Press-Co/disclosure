@@ -1,0 +1,47 @@
+{
+ "doc_id": "65_hs1-101634279_100-de-18221_serial_844",
+ "file": "pursue-r1--65_hs1-101634279_100-de-18221_serial_844.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "65_HS1-101634279_100-DE-18221_Serial_844",
+ "record_type": "other",
+ "index_date": "2058-04-17",
+ "index_location": "Detroit, MI",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI office memorandum from 1958 regarding a civilian report of an unidentified flying object in Detroit.",
+ "incidents": [
+  {
+   "summary": "A Detroit resident reported seeing a circular object with a crystal-type dome reflecting lights moving in a northern direction.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "passing in a northern direction"
+   ],
+   "color": "unknown",
+   "country": "United States",
+   "date": "1958-04-17",
+   "duration": "unknown",
+   "explanation": "none",
+   "explanation_status": "not-assessed",
+   "location_name": "Detroit, Michigan",
+   "object_count": "1",
+   "page_refs": [
+    1
+   ],
+   "quote": "circular object with a crystal-type dome that reflected lights",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular",
+   "size": "unknown",
+   "time_local": "04:08",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,580 @@
+{
+ "doc_id": "65_hs1-834228961_62-hq-83894_section_3",
+ "file": "pursue-r1--65_hs1-834228961_62-hq-83894_section_3.md",
+ "source": "PURSUE-R1",
+ "agency": "FBI",
+ "title": "65_HS1-834228961_62-HQ-83894_Section_3",
+ "record_type": "case_file",
+ "index_date": "1957-06-15",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 2,
+ "doc_notes": "This document is a collection of FBI case files (62-HQ-83894) regarding UAP investigations from 1947, featuring significant documentation on the Maury Island hoax and the subsequent crash of an Army B-25. / This document is a declassified FBI case file (62-HQ-83894) containing investigative reports, correspondence, and teletypes regarding UAP sightings between 1947 and 1949, including the transition of investigative responsibility to the Air Force.",
+ "incidents": [
+  {
+   "summary": "F. M. Johnson reported seeing a formation of flying discs near Mt. Adams, Washington, on the same day as Kenneth Arnold's sighting.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "banking",
+    "shifting"
+   ],
+   "color": "bright top surface",
+   "country": "USA",
+   "date": "1947-06-24",
+   "explanation_status": "not-assessed",
+   "location_name": "Mt. Adams district, Washington",
+   "shape": "round, oval, tapering to a point",
+   "size": "30 foot diameter",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Three enlisted men observed two crescent-shaped objects traveling at high speed over Harmon Field, Guam.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "medium",
+   "behavior": [
+    "zig-zag course"
+   ],
+   "country": "Guam",
+   "date": "1947-08-14",
+   "explanation_status": "not-assessed",
+   "location_name": "Harmon Field, Guam",
+   "page_refs": [
+    6
+   ],
+   "quote": "two objects, which they describe as small, crescent shaped",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "crescent",
+   "witness_count": "3",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Harold Dahl and Fred Crisman reported that flying discs dropped debris on their boat near Maury Island, Washington.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "fluttering",
+    "dropping debris"
+   ],
+   "country": "USA",
+   "date": "1947-06-21",
+   "explanation_status": "explained",
+   "location_name": "Maury Island, Washington",
+   "page_refs": [
+    15,
+    16,
+    33,
+    35,
+    36,
+    44,
+    52,
+    53,
+    54,
+    76,
+    91
+   ],
+   "quote": "Five flying discs came down out of the clouds and circled slowly around the bay",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round, flattened, inner tube",
+   "size": "100 feet across",
+   "witness_count": "4",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Metal fragments found in West Rindge, New Hampshire, were investigated as potential flying disc debris.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "country": "USA",
+   "date": "1947-07-07",
+   "explanation_status": "explained",
+   "location_name": "West Rindge, New Hampshire",
+   "page_refs": [
+    26,
+    27,
+    28
+   ],
+   "quote": "They were determined to be of ordinary cast iron which had been subjected to a very high degree of heat.",
+   "recording_agency": "FBI",
+   "shape": "hollow cylinder",
+   "witness_types": [
+    "scientist"
+   ]
+  },
+  {
+   "summary": "Two silver disc-shaped objects observed flying over Muroc Army Air Field.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "flying in circles"
+   ],
+   "country": "USA",
+   "date": "1947-07-08",
+   "explanation_status": "not-assessed",
+   "location_name": "Muroc Army Air Field, California",
+   "page_refs": [
+    65,
+    66,
+    67,
+    71,
+    72
+   ],
+   "quote": "two (2) flying disc or saucer shaped silver colored objects",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc, saucer, spherical",
+   "witness_count": "4",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Ray A. Switzer observed a metallic, rocket-shaped object near Placerville, California.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "medium",
+   "behavior": [
+    "shallow dive"
+   ],
+   "country": "USA",
+   "date": "1947-08-14",
+   "explanation_status": "partially-explained",
+   "location_name": "Placerville, California",
+   "page_refs": [
+    73,
+    79,
+    80,
+    82
+   ],
+   "quote": "object, four to six feet in length, ten to fourteen inches wide, and of a metal color",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "rocket-shaped, rectangular",
+   "size": "4-6 feet long",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Two disc-like objects observed flying at high altitude near Twin Falls, Idaho.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "medium",
+   "country": "USA",
+   "date": "1947-08-13",
+   "explanation_status": "not-assessed",
+   "location_name": "Twin Falls, Idaho",
+   "page_refs": [
+    85
+   ],
+   "quote": "saw two objects flying through air at great height, which appeared to be discs",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "size": "6 feet diameter",
+   "witness_count": "2",
+   "witness_types": [
+    "government-civilian"
+   ]
+  },
+  {
+   "summary": "Two unidentified objects observed following a P-80 aircraft near Hamilton Field.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "maneuvering",
+    "following"
+   ],
+   "country": "USA",
+   "date": "1947-07-29",
+   "explanation_status": "not-assessed",
+   "location_name": "Hamilton Field, California",
+   "page_refs": [
+    84
+   ],
+   "quote": "unidentified flying object that was following a P-80 aircraft at a terrific rate of speed",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "milky white",
+   "witness_count": "2",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Three men observed a bright disc hovering and fluttering near Canyon Ferry, Montana.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "fluttering",
+    "swooping"
+   ],
+   "country": "USA",
+   "date": "1947-07-29",
+   "explanation_status": "not-assessed",
+   "location_name": "Canyon Ferry, Montana",
+   "page_refs": [
+    76
+   ],
+   "quote": "bright disc hovering and fluttering in the air",
+   "recording_agency": "USAF",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular disc",
+   "size": "5 feet diameter",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Kenneth Arnold observed nine disc-like objects flying in formation near Mt. Rainier.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "formation flight",
+    "dipping",
+    "flashing"
+   ],
+   "color": "silvery",
+   "country": "USA",
+   "date": "1947-06-24",
+   "explanation_status": "not-assessed",
+   "location_name": "Mt. Rainier, Washington",
+   "object_count": "9",
+   "page_refs": [
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    138,
+    139
+   ],
+   "quote": "I observed a chain of nine peculiar looking aircraft flying from north to south",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "saucer-like",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "John Bartlett reported sighting a bright disc near Agate Beach, Oregon.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "high speed"
+   ],
+   "color": "bright",
+   "country": "USA",
+   "date": "1947-08-07",
+   "explanation_status": "not-assessed",
+   "location_name": "Agate Beach, Oregon",
+   "object_count": "1",
+   "page_refs": [
+    117
+   ],
+   "quote": "he sighted what he believed to be a disc bright in color",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Bluish-white flaming object observed over Philadelphia moving northeast to southwest.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flaming",
+    "hissing sound"
+   ],
+   "color": "bluish-white",
+   "country": "USA",
+   "date": "1947-08-06",
+   "explanation_status": "not-assessed",
+   "location_name": "Philadelphia, Pennsylvania",
+   "object_count": "1",
+   "page_refs": [
+    119,
+    121,
+    153,
+    155,
+    156
+   ],
+   "quote": "a bluish white flaming object was observed at a height of one thousand feet or more",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "flaming object",
+   "witness_count": "multiple",
+   "witness_types": [
+    "civilian",
+    "military-other"
+   ]
+  },
+  {
+   "summary": "A.C. Urie and his sons observed a disc-shaped object in Snake River Canyon.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "fluttering",
+    "swooping"
+   ],
+   "color": "sky blue",
+   "country": "USA",
+   "date": "1947-08-13",
+   "explanation_status": "not-assessed",
+   "location_name": "Snake River Canyon, Idaho",
+   "object_count": "1",
+   "page_refs": [
+    123,
+    124,
+    125,
+    128,
+    131,
+    133,
+    134
+   ],
+   "quote": "I obtained a close-up view of the flying saucer as it passed by the trout farm",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "size": "20 ft long by 10 ft high",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Byron B. Savage observed a round, flat object over Oklahoma City.",
+   "date_precision": "month",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "swishing sound"
+   ],
+   "color": "frosty white",
+   "country": "USA",
+   "date": "1947-05",
+   "explanation_status": "not-assessed",
+   "location_name": "Oklahoma City, Oklahoma",
+   "object_count": "1",
+   "page_refs": [
+    136,
+    137
+   ],
+   "quote": "it appeared perfectly round and was flat",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Sid Decker and L.R. Brummett observed two bright objects over Redmond, Washington.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "high speed",
+    "noiseless"
+   ],
+   "color": "bright",
+   "country": "USA",
+   "date": "1947-08-13",
+   "explanation_status": "not-assessed",
+   "location_name": "Redmond, Washington",
+   "object_count": "2",
+   "page_refs": [
+    143,
+    145
+   ],
+   "quote": "two very bright objects traveling at an extreme rate of speed",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "tapered",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Two army officers observed a silver, spherical object over Fort Richardson, Alaska.",
+   "date_precision": "unknown",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "high speed",
+    "traveling against wind"
+   ],
+   "color": "silver",
+   "country": "USA",
+   "date": "",
+   "explanation_status": "not-assessed",
+   "location_name": "Fort Richardson, Alaska",
+   "object_count": "1",
+   "page_refs": [
+    150,
+    152
+   ],
+   "quote": "The object appeared to be shaped like a sphere",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "sphere",
+   "size": "2-10 feet",
+   "witness_count": "2",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "Multiple witnesses in Logan, Utah reported seeing groups of small objects circling the city.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "circling",
+    "high speed"
+   ],
+   "color": "yellowish white",
+   "country": "USA",
+   "date": "1947-09-08",
+   "explanation_status": "not-assessed",
+   "location_name": "Logan, Utah",
+   "object_count": "multiple",
+   "page_refs": [
+    169,
+    171
+   ],
+   "quote": "five groups, each containing thirty-five to sixty small objects",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "small objects",
+   "witness_count": "multiple",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "R.J. Madden and others observed a bright disc near Canyon Ferry, Montana.",
+   "date_precision": "day",
+   "time_of_day": "midday",
+   "confidence": "high",
+   "behavior": [
+    "hovering",
+    "fluttering",
+    "high speed"
+   ],
+   "color": "polished nickel",
+   "country": "USA",
+   "date": "1947-07-29",
+   "explanation_status": "not-assessed",
+   "location_name": "Canyon Ferry, Montana",
+   "object_count": "1",
+   "page_refs": [
+    172,
+    173,
+    175
+   ],
+   "quote": "a bright disc hovering and fluttering in the air",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc",
+   "size": "3 ft diameter",
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Warden John Henry observed a silver object disintegrate over Washington state.",
+   "date_precision": "day",
+   "time_of_day": "afternoon",
+   "confidence": "medium",
+   "behavior": [
+    "nose dive",
+    "disintegrated"
+   ],
+   "color": "silver",
+   "country": "USA",
+   "date": "1947-05-05",
+   "explanation_status": "not-assessed",
+   "location_name": "Between Ellensburg and Seattle, Washington",
+   "object_count": "1",
+   "page_refs": [
+    186
+   ],
+   "quote": "sighted a silver object streaking across the sky",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "3",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}
