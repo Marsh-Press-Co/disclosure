@@ -1,0 +1,11 @@
+{
+ "doc_id": "dow-uap-d60-mission-report-persian-gulf-august-2020",
+ "file": "pursue-r1--dow-uap-d60-mission-report-persian-gulf-august-2020.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D60, Mission Report, Persian Gulf, August 2020",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a declassified military mission report (MISREP) from the Persian Gulf in August 2020; while it mentions a UAP observation, the description is limited to a distant transit observed via Full Motion Video (FMV) and does not meet the criteria for a close-range encounter, landing, or occupant report.",
+ "encounters": []
+}

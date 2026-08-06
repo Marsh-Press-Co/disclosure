@@ -1,0 +1,54 @@
+{
+ "doc_id": "dow-uap-d48-report-september-1996",
+ "file": "pursue-r1--dow-uap-d48-report-september-1996.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D48, Department of the Air Force Report, 1996",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 3,
+ "doc_notes": "This is a technical report on space-booster failure modeling for the Air Force, which includes brief narrative descriptions of specific anomalous flight events as case studies for failure-response modes. / This is a technical report from the Department of the Air Force regarding launch vehicle failure probabilities and performance histories; it contains no UAP or extraterrestrial encounter content. / This document is a technical report detailing the launch and performance history of various U.S. space launch vehicles (Atlas, Delta, Titan, and Thor) from 1957 to 1996, and it contains no reports of UAP encounters.",
+ "encounters": [
+  {
+   "summary": "A Joust vehicle experienced a radical pitch-up maneuver due to structural failure at T+14 seconds, resulting in an impact trace that would have been well away from the flight line if destruct action had been taken.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1991-06",
+   "date_precision": "month",
+   "location_name": "Eastern Range",
+   "page_refs": [
+    15
+   ],
+   "physical_effects": [
+    "structural failure",
+    "radical pitch-up maneuver"
+   ],
+   "quote": "The vehicle made a radical pitch-up maneuver due to aft-skirt structural failure"
+  },
+  {
+   "summary": "A guided Red Tigress sounding rocket made a near 90-degree right turn shortly after launch and flew stably until destroyed by the safety officer.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "USA",
+   "date": "1991-08-20",
+   "date_precision": "day",
+   "location_name": "Pad 20, Cape Canaveral",
+   "page_refs": [
+    15
+   ],
+   "physical_effects": [
+    "near 90-degree turn",
+    "destruct action"
+   ],
+   "quote": "Within a second or two after clearing the launcher, the rocket made a near 90° right turn"
+  }
+ ]
+}

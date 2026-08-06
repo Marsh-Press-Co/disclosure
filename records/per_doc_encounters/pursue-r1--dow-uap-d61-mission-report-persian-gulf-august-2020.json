@@ -1,0 +1,30 @@
+{
+ "doc_id": "dow-uap-d61-mission-report-persian-gulf-august-2020",
+ "file": "pursue-r1--dow-uap-d61-mission-report-persian-gulf-august-2020.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D61, Mission Report, Persian Gulf, August 2020",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a declassified mission report (MISREP) from the Department of War regarding an ISR flight in the Persian Gulf, which includes a brief mention of an unidentified aerial formation observation.",
+ "encounters": [
+  {
+   "summary": "A formation of unknown flying objects was observed by an ISR aircraft sensor traveling NE-NW along the coast for approximately two minutes before being lost in cloud cover.",
+   "encounter_type": "entity-sighted",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "Iran",
+   "date": "2020-08-27",
+   "date_precision": "day",
+   "location_name": "Persian Gulf",
+   "page_refs": [
+    6,
+    7
+   ],
+   "quote": "observed a formation of flying objects traveling NE-NW along the coast"
+  }
+ ]
+}

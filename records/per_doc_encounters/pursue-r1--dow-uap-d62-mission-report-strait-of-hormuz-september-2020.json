@@ -1,0 +1,29 @@
+{
+ "doc_id": "dow-uap-d62-mission-report-strait-of-hormuz-september-2020",
+ "file": "pursue-r1--dow-uap-d62-mission-report-strait-of-hormuz-september-2020.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D62, Mission Report, Strait of Hormuz, September 2020",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a declassified military mission report (MISREP) detailing ISR operations, which includes a brief mention of a UAP observation via sensor data.",
+ "encounters": [
+  {
+   "summary": "An unmanned aerial asset observed a UAP via Full Motion Video (FMV) while conducting ISR operations in the Arabian Gulf.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "Iran",
+   "date": "2020-09-16",
+   "date_precision": "day",
+   "location_name": "Arabian Gulf",
+   "page_refs": [
+    8
+   ],
+   "quote": "OBSERVED A UAP"
+  }
+ ]
+}

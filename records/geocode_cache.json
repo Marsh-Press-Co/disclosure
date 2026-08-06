@@ -1677,5 +1677,73 @@
   "lat": 37.654421,
   "lon": -104.7930869,
   "display": "Western, U.S. Highway 85-87, Walsenburg, Huerfano County, Colorado, 81089, United States"
+ },
+ "Shaddadi, Syria": {
+  "lat": 36.0509404,
+  "lon": 40.7832847,
+  "display": "\u0646\u0627\u062d\u064a\u0629 \u0627\u0644\u0634\u062f\u0627\u062f\u064a, \u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u062f\u0627\u062f\u064a, \u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062d\u0633\u0643\u0629, \u0633\u0648\u0631\u064a\u0627"
+ },
+ "NE of RLZ, Iraq": null,
+ "NE of RLZ": null,
+ "39RYJ74, United Arab Emirates": null,
+ "39RYJ74": null,
+ "35S KD 95/53": null,
+ "Aegean Sea": {
+  "lat": 38.0622276,
+  "lon": 25.7205887,
+  "display": "\u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03bd \u03a0\u03ad\u03bb\u03b1\u03b3\u03bf\u03c2 / Ege Denizi"
+ },
+ "Langley Air Force Base, United States": {
+  "lat": 37.0875143,
+  "lon": -76.3572224,
+  "display": "Langley Air Force Base, North Armistead Avenue, Hampton, Virginia, 23681, United States"
+ },
+ "Gulf of Oman": {
+  "lat": 24.2138029,
+  "lon": 58.9845823,
+  "display": "\u062f\u0631\u06cc\u0627\u06cc \u0639\u0645\u0627\u0646 - \u0628\u062d\u0631 \u0639\u0645\u0627\u0646"
+ },
+ "Ayn al Asad Airbase (AAAB) Restricted Operating Zone (ROZ) Raindrop, Iraq": null,
+ "Ayn al Asad Airbase (AAAB) Restricted Operating Zone (ROZ) Raindrop": null,
+ "Djibouti": {
+  "lat": 11.8145966,
+  "lon": 42.8453061,
+  "display": "Djibouti \u062c\u064a\u0628\u0648\u062a\u064a"
+ },
+ "35SQT3423692957, Djibouti": null,
+ "35SQT3423692957": null,
+ "34SDG9041417044": null,
+ "363453N 0255943E": null,
+ "Carthage, Missouri": {
+  "lat": 37.1765141,
+  "lon": -94.3103412,
+  "display": "Carthage, Jasper County, Missouri, 64836, United States"
+ },
+ "Martinsburg, West Virginia": {
+  "lat": 39.4562528,
+  "lon": -77.9639604,
+  "display": "Martinsburg, Berkeley County, West Virginia, United States"
+ },
+ "D.C. Cook Nuclear Power Plant, Michigan": {
+  "lat": 41.9757238,
+  "lon": -86.5654636,
+  "display": "D.C. Cook Nuclear Power Plant, Rosemary Beach, Lake Charter Township, Berrien County, Michigan, United States"
+ },
+ "Lynchburg, Virginia": {
+  "lat": 37.4137536,
+  "lon": -79.1422464,
+  "display": "Lynchburg, Virginia, United States"
+ },
+ "off the coast of Virginia, United States": null,
+ "off the coast of Virginia": null,
+ "Kuwait": {
+  "lat": 29.2733964,
+  "lon": 47.4979476,
+  "display": "\u0627\u0644\u0643\u0648\u064a\u062a"
+ },
+ "Mexico": {
+  "lat": 23.6585116,
+  "lon": -102.0077097,
+  "display": "M\u00e9xico"
  }
 }

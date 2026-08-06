@@ -1,0 +1,11 @@
+{
+ "doc_id": "dow-uap-d54-mission-report-mediterranean-sea-na",
+ "file": "pursue-r1--dow-uap-d54-mission-report-mediterranean-sea-na.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D54, Mission Report, Mediterranean Sea, NA",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a Department of War mission report from the PURSUE-R1 collection that is almost entirely redacted, containing no reports of close-range encounters or occupant sightings.",
+ "encounters": []
+}

@@ -7,6 +7,7 @@ builds with whatever exists; re-run after any pipeline stage updates.
 Usage: python tools/build_site_data.py
 """
 import json
+import re
 import sys
 from collections import defaultdict
 from pathlib import Path
@@ -28,6 +29,13 @@ SHAPE_CLASSES = [
     ("star", ["star"]),
     ("diamond", ["diamond"]),
 ]
+
+
+LOC_STOP = {"the", "of", "a", "an", "near", "off", "over", "in", "at", "area", "n/a", "na", ""}
+
+
+def loc_tokens(text):
+    return {t for t in re.split(r"[^a-z]+", (text or "").lower()) if t and t not in LOC_STOP}
 
 
 def shape_class(shape):
@@ -60,6 +68,11 @@ def main():
                 encounters_by_doc[d.get("doc_id")].append(e)
                 n_enc += 1
 
+    incidents_per_doc = defaultdict(int)
+    for inc in incidents:
+        for s in inc.get("sources", []):
+            incidents_per_doc[s.get("doc_id")] += 1
+
     out = []
     for inc in incidents:
         year = None
@@ -80,8 +93,18 @@ def main():
                 "quote": s.get("quote", ""),
             })
             for e in encounters_by_doc.get(s.get("doc_id"), []):
-                # attach encounter types when dates align (or encounter undated)
-                if not e.get("date") or not inc.get("date") or str(e["date"])[:4] == str(inc["date"])[:4]:
+                # Incident-level attachment: a year match alone would tag every
+                # 1947 incident in a 40-incident FBI section with one 1947
+                # encounter. Require year + location-token compatibility, with
+                # doc-level attachment only for single-incident documents.
+                e_year = str(e.get("date") or "")[:4]
+                i_year = str(inc.get("date") or "")[:4]
+                e_loc = loc_tokens((e.get("location_name") or "") + " " + (e.get("country") or ""))
+                i_loc = loc_tokens((inc.get("location") or "") + " " + (inc.get("country") or ""))
+                year_ok = bool(e_year and i_year and e_year == i_year)
+                loc_ok = bool(e_loc and i_loc and len(e_loc & i_loc) / min(len(e_loc), len(i_loc)) >= 0.5)
+                single = incidents_per_doc[s.get("doc_id")] == 1
+                if (year_ok and loc_ok) or (year_ok and not e_loc) or (single and (year_ok or not e.get("date"))):
                     enc_types.add(e.get("encounter_type"))
         out.append({
             "id": inc["incident_id"],

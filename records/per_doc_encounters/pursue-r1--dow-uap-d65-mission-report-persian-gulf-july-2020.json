@@ -1,0 +1,11 @@
+{
+ "doc_id": "dow-uap-d65-mission-report-persian-gulf-july-2020",
+ "file": "pursue-r1--dow-uap-d65-mission-report-persian-gulf-july-2020.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D65, Mission Report, Persian Gulf, July 2020",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a declassified military mission report (MISREP) detailing aerial surveillance activity in the Persian Gulf; while it mentions observations of Unidentified Aerial Phenomena (UAP), these are categorized as distant sensor observations rather than close-range encounters, and thus no encounter records are generated.",
+ "encounters": []
+}

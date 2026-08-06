@@ -1,0 +1,11 @@
+{
+ "doc_id": "dow-uap-d42-range-fouler-debrief-japan-2023",
+ "file": "pursue-r1--dow-uap-d42-range-fouler-debrief-japan-2023.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D42, Range Fouler Debrief, Japan, 2023",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a military range fouler debrief form for a pilot reporting radar contacts, but it contains no encounters with entities, landed craft, or physical traces.",
+ "encounters": []
+}

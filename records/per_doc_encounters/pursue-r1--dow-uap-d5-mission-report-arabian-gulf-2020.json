@@ -1,0 +1,11 @@
+{
+ "doc_id": "dow-uap-d5-mission-report-arabian-gulf-2020",
+ "file": "pursue-r1--dow-uap-d5-mission-report-arabian-gulf-2020.md",
+ "source": "PURSUE-R1",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D5, Mission Report, Arabian Gulf, 2020",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a mission report from the Department of War containing redacted UAP sighting data, but no encounters meeting the criteria for close-range or occupant-related events.",
+ "encounters": []
+}
