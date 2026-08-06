@@ -4,6 +4,47 @@ Running project history, newest entries first. Current state lives in the vault 
 (`MindHive/10-Projects/Disclosure/_Disclosure-Hub.md`); this file records what
 happened when.
 
+## 2026-08-06 — Phase 2 (same night, continued): globe site + encounter layer + retrieval trail
+
+**Shipped/Done**
+- **Globe site v1** (`site/index.html`, local-only): 456 geocoded incidents on a 3D
+  globe (globe.gl), era-colored points, ★ corroboration rings, timeline scrubber
+  with play mode, era/shape/time-of-day/★/◆ filters, paper dossier cards with
+  page-cited sources, browse list for unplaced records, off-earth tray.
+  Interactions DOM-verified in the pane. Public flip deferred to Marsh's explicit go.
+- **Geocoding**: 456/593 placed (Nominatim + curated water-body coords), 26
+  off-earth (Apollo/Gemini/Skylab), 111 browse-only.
+- **Encounter layer** (Marsh's mid-flight tip): 217 records with claimant strata
+  (66 military / 11 federal-LE / 115 civilian / 3 contactee) + document stance.
+  FINDINGS §9: Socorro/Zamora occupant case in 38-page FBI Serial 438; French-US
+  "small beings" convergence; communication claims rare (10/217, none official);
+  dominant government posture = file-and-say-nothing (115).
+- **Retrieval trail** (Marsh's ask): 1,609-hit lexicon sweep → 56 LLM-evaluated
+  leads (29 strong) → `RETRIEVAL_TRAIL.md`. Custody-machinery chains (Wright
+  Field T-2, FBI Lab, ONI, standing AMC forwarding orders — every traceable chain
+  ends mundane/hoax/unresolved); **Hoover's handwritten "Army grabbed it" note
+  with the file's own "Ia. case" transcription** (S1 pp.127-131); **Hottel memo
+  verified at S5 p.68**; bodies-claims lineage 1949-50 → Grusch/Elizondo sworn;
+  denial ledger 1947 AMC → 2026 AARO. Claims AND denials cited to page.
+- `pursue-r5-watch` scheduled task (Mondays 9am, detection-only, $0).
+
+**Decisions** — Marsh: site phase next (3D globe, build-local-flip-on-go);
+encounter schema added before site data baked; retrieval hunt commissioned.
+
+**Verified** — site interactions via DOM events (card/filters/scrub); both
+extraction passes 0 failures; Hottel memo + Hoover note verified against source
+text; encounter attachment fix confirmed (358→187 flagged incidents).
+
+**Deferred/next** — PURSUE R2-R4 ingest + sweep rerun; NARA RG 615; NUFORC join;
+site polish (About modal, mobile pass, public name); hosting + public flip
+(Marsh's go); RETRIEVAL_TRAIL §6 open threads (Socorro sample, Milwaukee object,
+"Ia. case" field file, Serial 164 close read).
+
+**Gotchas** — encounter→incident attachment must be incident-level (year +
+location tokens), never doc-level (one undated encounter tagged all 40 incidents
+of an FBI section); "entity-sighted" over-applied to plural-craft sightings —
+use the occupant/contact subset for being statistics.
+
 ## 2026-08-05 — v1 SHIPPED in one session: corpus → incident records → knowledge graph → findings
 
 **Shipped/Done**
