@@ -4,6 +4,10 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>DISCLOSURE — The Paper Trail</title>
+<meta name="description" content="1,455 UAP incidents from the U.S. government's own released files — every dot cites its paper. Built by skeptics, with no agenda.">
+<meta property="og:title" content="DISCLOSURE — The Paper Trail">
+<meta property="og:description" content="The government's UAP records as an explorable globe. Every dot cites its paper.">
+<meta name="theme-color" content="#06080d">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,600;9..144,900&family=IBM+Plex+Mono:wght@300;400;600&display=swap" rel="stylesheet">
 <script src="https://unpkg.com/globe.gl@2.34.5/dist/globe.gl.min.js"></script>
@@ -19,16 +23,47 @@
   #globe{position:absolute; inset:0}
   .noise{position:fixed; inset:0; pointer-events:none; opacity:.05; z-index:5;
     background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='120' height='120' filter='url(%23n)' opacity='0.6'/%3E%3C/svg%3E")}
+  button{font-family:inherit}
 
-  /* ---------- left rail : the file cover ---------- */
+  /* ---------- landing ---------- */
+  #landing{position:fixed; inset:0; z-index:60; display:flex; flex-direction:column; align-items:center;
+    justify-content:center; text-align:center; background:radial-gradient(ellipse at 50% 120%, #0d1524 0%, var(--bg) 62%);
+    transition:opacity .8s; padding:24px}
+  #landing.gone{opacity:0; pointer-events:none}
+  #landing .stamp{border:2px solid var(--amber); color:var(--amber); padding:3px 12px; font-size:11px;
+    letter-spacing:.3em; transform:rotate(-1.6deg); margin-bottom:26px; animation:stampIn .6s .2s both}
+  @keyframes stampIn{from{opacity:0; transform:rotate(-1.6deg) scale(1.6)} to{opacity:1; transform:rotate(-1.6deg) scale(1)}}
+  #landing h1{font-family:'Fraunces',serif; font-weight:900; font-size:clamp(44px,8vw,96px); line-height:.92; letter-spacing:.01em}
+  #landing h1 span{display:block; font-weight:300; font-size:clamp(14px,2vw,22px); letter-spacing:.42em; color:var(--dim); margin-top:14px}
+  #counters{display:flex; gap:clamp(18px,4vw,54px); margin:44px 0 8px; flex-wrap:wrap; justify-content:center}
+  .cnt{min-width:110px}
+  .cnt b{display:block; font-family:'Fraunces',serif; font-weight:600; font-size:clamp(26px,4vw,44px); color:var(--paper)}
+  .cnt i{font-style:normal; font-size:10px; letter-spacing:.22em; color:var(--dim)}
+  .cnt .star{color:var(--amber)}
+  #landing .tag{font-size:12px; color:var(--dim); letter-spacing:.14em; margin:6px 0 34px}
+  #landing .tag b{color:var(--amber); font-weight:400}
+  #landingBtns{display:flex; gap:16px; flex-wrap:wrap; justify-content:center}
+  .bigbtn{background:var(--paper); color:var(--ink); border:none; padding:14px 30px; font-size:12px;
+    letter-spacing:.24em; cursor:pointer; transition:transform .15s}
+  .bigbtn:hover{transform:translateY(-2px)}
+  .bigbtn.ghost{background:transparent; color:var(--paper); border:1px solid var(--line)}
+  .bigbtn.ghost:hover{border-color:var(--dim)}
+  #landing .skep{margin-top:38px; max-width:560px; font-size:10.5px; line-height:1.8; color:#5d6578}
+
+  /* ---------- left rail ---------- */
   #rail{position:absolute; z-index:10; top:0; left:0; bottom:0; width:308px; padding:22px 20px;
     background:linear-gradient(90deg, rgba(6,8,13,.94) 70%, rgba(6,8,13,0)); overflow-y:auto; scrollbar-width:thin}
   .stamp{display:inline-block; border:2px solid var(--amber); color:var(--amber); padding:2px 8px;
     font-size:10px; letter-spacing:.22em; transform:rotate(-2deg); margin-bottom:14px}
-  h1{font-family:'Fraunces',serif; font-weight:900; font-size:clamp(28px,2.6vw,38px); line-height:.95; letter-spacing:.01em}
-  h1 .thin{display:block; font-weight:300; font-size:17px; letter-spacing:.28em; margin-top:8px; color:var(--dim)}
-  .redact{display:inline-block; background:#000; color:#000; border-radius:1px; user-select:none}
-  #tally{margin:18px 0 6px; font-size:11px; line-height:2; color:var(--dim)}
+  h1.railtitle{font-family:'Fraunces',serif; font-weight:900; font-size:clamp(28px,2.6vw,38px); line-height:.95}
+  h1.railtitle .thin{display:block; font-weight:300; font-size:16px; letter-spacing:.28em; margin-top:8px; color:var(--dim)}
+  #railBtns{display:flex; gap:8px; margin:16px 0 4px}
+  .railbtn{flex:1; background:transparent; border:1px solid var(--amber); color:var(--amber); padding:8px 0;
+    font-size:10.5px; letter-spacing:.2em; cursor:pointer}
+  .railbtn:hover{background:var(--amber); color:var(--ink)}
+  .railbtn.dim{border-color:var(--line); color:var(--dim)}
+  .railbtn.dim:hover{background:transparent; border-color:var(--dim); color:var(--paper)}
+  #tally{margin:14px 0 6px; font-size:11px; line-height:2; color:var(--dim)}
   #tally b{color:var(--paper); font-weight:600}
   #tally .star{color:var(--amber)}
   .rule{border-top:1px dashed var(--line); margin:14px 0}
@@ -44,8 +79,8 @@
   .tog:hover{color:var(--paper)}
   .tog .cr{color:var(--crimson)}
   #browseLink{font-size:10.5px; color:var(--dim); text-decoration:underline dotted; cursor:pointer; margin-top:4px; display:inline-block}
-  #about{margin-top:16px; font-size:10px; line-height:1.7; color:var(--dim)}
-  #about a{color:var(--amber)}
+  #aboutBlock{margin-top:16px; font-size:10px; line-height:1.7; color:var(--dim)}
+  #aboutBlock a{color:var(--amber); cursor:pointer}
   .credit{margin-top:10px; font-size:9.5px; color:#4a5262}
 
   /* ---------- timeline ---------- */
@@ -54,10 +89,11 @@
   #bars{position:relative; flex:1; display:flex; align-items:flex-end; gap:1px; border-bottom:1px solid var(--line)}
   .bar{flex:1; background:var(--dim); opacity:.35; min-height:1px; transition:opacity .2s, background .2s}
   .bar.inwin{opacity:.95}
+  .eralab{position:absolute; top:-14px; font-size:8.5px; letter-spacing:.14em; color:#5d6578; transform:translateX(-50%)}
   #tlabels{display:flex; justify-content:space-between; font-size:9.5px; color:var(--dim); letter-spacing:.1em}
   #tctrl{position:absolute; right:0; top:-26px; display:flex; gap:10px; align-items:center; font-size:10.5px}
   #yearRead{color:var(--amber); letter-spacing:.12em; min-width:110px; text-align:right}
-  button.tbtn{background:none; border:1px solid var(--line); color:var(--paper); font-family:inherit;
+  button.tbtn{background:none; border:1px solid var(--line); color:var(--paper);
     font-size:10px; padding:3px 10px; cursor:pointer; letter-spacing:.15em}
   button.tbtn:hover{border-color:var(--amber); color:var(--amber)}
   #winA,#winB{position:absolute; top:-6px; bottom:14px; width:10px; cursor:ew-resize; z-index:3}
@@ -73,8 +109,8 @@
   #card .cid{font-size:10px; letter-spacing:.25em; color:#7a6c4a}
   #card h2{font-family:'Fraunces',serif; font-weight:600; font-size:21px; line-height:1.15; margin:6px 0 2px}
   #card .when{font-size:11px; color:#5b5443; margin-bottom:10px}
-  #card .corrStamp{display:inline-block; border:2px solid #9a6a1f; color:#9a6a1f; font-size:9.5px;
-    letter-spacing:.18em; padding:1px 7px; transform:rotate(1.5deg); margin:2px 0 8px}
+  .corrStamp{display:inline-block; border:2px solid #9a6a1f; color:#9a6a1f; font-size:9.5px;
+    letter-spacing:.18em; padding:1px 7px; transform:rotate(1.5deg); margin:2px 0 8px; cursor:help}
   .kv{display:grid; grid-template-columns:88px 1fr; gap:2px 10px; font-size:11.5px; margin:10px 0; line-height:1.55}
   .kv dt{color:#8a7d5e; letter-spacing:.06em; font-size:10px; padding-top:1px}
   .kv dd{color:var(--ink)}
@@ -87,7 +123,58 @@
   #card .caveat{margin-top:12px; font-size:9.5px; color:#7c7259; border-top:2px solid var(--ink); padding-top:6px}
   #card .encList{font-size:11px; background:#f6efe0; border:1px dashed #b3a67f; padding:8px; margin-top:8px}
 
-  /* ---------- browse list ---------- */
+  /* ---------- tour ---------- */
+  #tour{position:absolute; z-index:25; left:24px; bottom:118px; width:min(470px, calc(100vw - 48px));
+    background:rgba(10,14,22,.92); backdrop-filter:blur(8px); border:1px solid var(--line);
+    padding:20px 22px 14px; transform:translateY(140%); transition:transform .4s cubic-bezier(.2,.8,.2,1)}
+  #tour.open{transform:none}
+  #tour .kicker{font-size:9.5px; letter-spacing:.3em; color:var(--amber)}
+  #tour h2{font-family:'Fraunces',serif; font-weight:600; font-size:26px; margin:6px 0 8px}
+  #tour .txt{font-size:12px; line-height:1.75; color:#c9cfdb; max-height:32vh; overflow-y:auto; scrollbar-width:thin}
+  #tourMedia{display:flex; gap:8px; margin:12px 0 2px; flex-wrap:wrap}
+  #tourMedia img{height:64px; border:1px solid var(--line); cursor:zoom-in; transition:transform .15s; background:#000}
+  #tourMedia img:hover{transform:scale(1.05); border-color:var(--amber)}
+  #tourNav{display:flex; align-items:center; gap:12px; margin-top:12px}
+  #tourNav .tbtn{padding:6px 14px}
+  #dots{display:flex; gap:6px; flex:1; justify-content:center}
+  .dot{width:7px; height:7px; border-radius:50%; background:var(--line); cursor:pointer}
+  .dot.on{background:var(--amber)}
+  #tourExit{color:var(--dim); font-size:10px; letter-spacing:.15em; cursor:pointer}
+  #tourExit:hover{color:var(--paper)}
+
+  /* ---------- lightbox ---------- */
+  #lightbox{position:fixed; inset:0; z-index:70; background:rgba(4,6,10,.94); display:none;
+    flex-direction:column; align-items:center; justify-content:center; padding:30px; cursor:zoom-out}
+  #lightbox.open{display:flex}
+  #lightbox img{max-width:min(92vw,1100px); max-height:72vh; border:1px solid var(--line); box-shadow:0 30px 90px rgba(0,0,0,.8)}
+  #lbCap{max-width:760px; margin-top:16px; font-size:11.5px; line-height:1.7; color:#c9cfdb; text-align:center}
+  #lbCred{margin-top:8px; font-size:9.5px; color:#5d6578; letter-spacing:.08em}
+  #lbCred a{color:var(--amber)}
+
+  /* ---------- findings drawer ---------- */
+  #findings{position:fixed; inset:0; z-index:55; background:rgba(4,6,10,.9); backdrop-filter:blur(6px);
+    display:none; align-items:center; justify-content:center; padding:30px}
+  #findings.open{display:flex}
+  #fGrid{display:grid; grid-template-columns:repeat(auto-fit,minmax(230px,1fr)); gap:14px; max-width:1080px; width:100%}
+  .fcard{border:1px solid var(--line); background:var(--bg2); padding:18px; cursor:pointer; transition:all .18s}
+  .fcard:hover{border-color:var(--amber); transform:translateY(-3px)}
+  .fcard b{display:block; font-family:'Fraunces',serif; font-weight:600; font-size:30px; color:var(--amber); margin-bottom:6px}
+  .fcard span{font-size:11px; line-height:1.6; color:#c9cfdb}
+  #fClose{position:absolute; top:22px; right:30px; color:var(--dim); cursor:pointer; font-size:13px; letter-spacing:.15em}
+
+  /* ---------- about modal ---------- */
+  #about{position:fixed; inset:0; z-index:65; background:rgba(4,6,10,.93); display:none;
+    align-items:center; justify-content:center; padding:26px}
+  #about.open{display:flex}
+  #aboutBox{max-width:640px; max-height:84vh; overflow-y:auto; background:var(--paper); color:var(--ink);
+    padding:30px 32px; box-shadow:0 30px 90px rgba(0,0,0,.8)}
+  #aboutBox h2{font-family:'Fraunces',serif; font-size:26px; margin-bottom:4px}
+  #aboutBox h3{font-family:'Fraunces',serif; font-size:15px; margin:18px 0 6px; border-bottom:2px solid var(--ink); padding-bottom:3px}
+  #aboutBox p{font-size:12px; line-height:1.75; margin:8px 0; color:#2a2620}
+  #aboutBox a{color:#8a5b1d}
+  #aboutBox .close{float:right; cursor:pointer; font-size:16px; color:#666}
+
+  /* ---------- browse ---------- */
   #browse{position:absolute; z-index:30; inset:60px 80px; background:var(--bg2); border:1px solid var(--line);
     display:none; flex-direction:column; padding:18px}
   #browse.open{display:flex}
@@ -98,18 +185,17 @@
   .brow .d{color:var(--amber); min-width:86px}
   .brow .star{color:var(--amber)}
   #browse .close{align-self:flex-end; cursor:pointer; color:var(--dim); margin-bottom:6px}
-
-  /* off-earth tray */
   #orbit{position:absolute; z-index:10; top:18px; right:20px; font-size:10px; color:var(--dim);
     letter-spacing:.15em; cursor:pointer; border:1px dashed var(--line); padding:4px 10px}
   #orbit:hover{color:var(--paper); border-color:var(--dim)}
 
   @media (max-width:820px){
-    #rail{width:100%; bottom:auto; max-height:46%; background:rgba(6,8,13,.93)}
-    h1{font-size:30px}
+    #rail{width:100%; bottom:auto; max-height:44%; background:rgba(6,8,13,.93)}
     #timeline{left:12px; right:12px}
     #card{left:10px; right:10px; width:auto; top:auto; bottom:110px; max-height:55%}
+    #tour{left:0; bottom:0; width:100vw; border-left:none; border-right:none}
     #orbit{display:none}
+    #browse{inset:40px 10px}
   }
 </style>
 </head>
@@ -117,45 +203,57 @@
 <div id="globe"></div>
 <div class="noise"></div>
 
+<!-- landing -->
+<div id="landing">
+  <span class="stamp">DECLASSIFIED · PUBLIC RECORD · $0 · NO ADS</span>
+  <h1>DISCLOSURE<span>THE PAPER TRAIL</span></h1>
+  <div id="counters">
+    <div class="cnt"><b data-n="12258">0</b><i>PAGES READ</i></div>
+    <div class="cnt"><b data-n="1455">0</b><i>INCIDENTS</i></div>
+    <div class="cnt"><b class="star" data-n="19">0</b><i>★ CORROBORATED</i></div>
+    <div class="cnt"><b data-n="516">0</b><i>◆ ENCOUNTER RECORDS</i></div>
+  </div>
+  <div class="tag">the U.S. government's own UAP releases, as a living archive — <b>every dot cites its paper</b></div>
+  <div id="landingBtns">
+    <button class="bigbtn" onclick="startTour()">BEGIN THE TOUR</button>
+    <button class="bigbtn ghost" onclick="dismissLanding()">EXPLORE FREELY</button>
+  </div>
+  <div class="skep">Built by skeptics with no agenda. Nothing here is presumed true because it is official —
+    the files themselves document the government managing public perception. What you'll see is what the
+    record says, with page numbers to check it yourself.</div>
+</div>
+
+<!-- rail -->
 <aside id="rail">
   <span class="stamp">DECLASSIFIED · PUBLIC RECORD</span>
-  <h1>DISCLOSURE<span class="thin">THE PAPER TRAIL</span></h1>
+  <h1 class="railtitle">DISCLOSURE<span class="thin">THE PAPER TRAIL</span></h1>
+  <div id="railBtns">
+    <button class="railbtn" onclick="startTour()">▶ TOUR</button>
+    <button class="railbtn dim" onclick="openFindings()">FINDINGS</button>
+    <button class="railbtn dim" onclick="openAbout()">ABOUT</button>
+  </div>
   <div id="tally">loading the record…</div>
   <div class="rule"></div>
-
-  <div class="flabel">ERA</div>
-  <div class="chips" id="eraChips"></div>
-
-  <div class="flabel">REPORTED SHAPE</div>
-  <div class="chips" id="shapeChips"></div>
-
-  <div class="flabel">TIME OF DAY</div>
-  <div class="chips" id="todChips"></div>
-
+  <div class="flabel">ERA</div><div class="chips" id="eraChips"></div>
+  <div class="flabel">REPORTED SHAPE</div><div class="chips" id="shapeChips"></div>
+  <div class="flabel">TIME OF DAY</div><div class="chips" id="todChips"></div>
   <div class="rule"></div>
-  <label class="tog"><input type="checkbox" id="fCorr"> <span>★ corroborated by 2+ agencies only</span></label>
+  <label class="tog"><input type="checkbox" id="fCorr"> <span title="2+ independent government institutions - strictly counted: publishers excluded, renamed agencies merged, press clippings disqualified">★ corroborated by 2+ agencies only</span></label>
   <label class="tog"><input type="checkbox" id="fEnc"> <span class="cr">◆ encounter records only</span></label>
   <span id="browseLink">not on the globe: <b id="unplacedN">0</b> — browse all →</span>
-
   <div class="rule"></div>
-  <div id="about">
-    Every dot is an incident recorded in the U.S. government's own released
-    files — PURSUE Releases&nbsp;1–4 (war.gov/UFO), AARO &amp; ODNI reports, and
-    congressional testimony. Click a dot: the card cites the document and page.
-    <br><br>
-    <b style="color:var(--paper)">Honesty:</b> text of scanned pages is a
-    vision-model transcription (CC0 for Release 1 via
-    <a href="https://github.com/AlexZhangji/ufo-pursue-open-atlas" target="_blank" rel="noopener">ufo-pursue-open-atlas</a>,
-    Gemini vision for Releases 2-4);
-    incidents were structured by an LLM with page references; verify quotes
-    against source pages before citing. Claims in files are not government
-    endorsements.
-    <div class="credit" id="credit">incidents · $0 · every dot cites its paper</div>
+  <div id="aboutBlock">
+    Every dot is an incident recorded in the U.S. government's own released files —
+    PURSUE Releases 1–4 (war.gov/UFO), the National Archives UAP Records Collection,
+    AARO &amp; ODNI reports, and congressional testimony. Click a dot: the card cites
+    the document and page. <a onclick="openAbout()">Method &amp; honesty →</a>
+    <div class="credit" id="credit"></div>
   </div>
 </aside>
 
 <div id="orbit">⦿ IN ORBIT: <span id="orbitN">0</span> RECORDS</div>
 
+<!-- timeline -->
 <div id="timeline">
   <div id="tctrl">
     <span id="yearRead"></span>
@@ -166,8 +264,69 @@
   <div id="tlabels"></div>
 </div>
 
+<!-- dossier card -->
 <div id="card"><span class="close" onclick="closeCard()">✕</span><div id="cardBody"></div></div>
 
+<!-- tour -->
+<div id="tour">
+  <div class="kicker" id="tKicker"></div>
+  <h2 id="tTitle"></h2>
+  <div class="txt" id="tText"></div>
+  <div id="tourMedia"></div>
+  <div id="tourNav">
+    <button class="tbtn" onclick="stepTour(-1)">←</button>
+    <div id="dots"></div>
+    <button class="tbtn" onclick="stepTour(1)">→</button>
+    <span id="tourExit" onclick="exitTour()">EXIT ✕</span>
+  </div>
+</div>
+
+<!-- lightbox -->
+<div id="lightbox" onclick="this.classList.remove('open')">
+  <img id="lbImg" src="" alt="">
+  <div id="lbCap"></div>
+  <div id="lbCred"></div>
+</div>
+
+<!-- findings -->
+<div id="findings" onclick="if(event.target===this)this.classList.remove('open')">
+  <span id="fClose" onclick="document.getElementById('findings').classList.remove('open')">CLOSE ✕</span>
+  <div id="fGrid"></div>
+</div>
+
+<!-- about -->
+<div id="about" onclick="if(event.target===this)this.classList.remove('open')">
+  <div id="aboutBox">
+    <span class="close" onclick="document.getElementById('about').classList.remove('open')">✕</span>
+    <h2>Method &amp; honesty</h2>
+    <p><b>What this is.</b> Every incident on this globe comes from the U.S. government's own released
+    files: the Department of War's PURSUE releases 1–4, the National Archives UAP Records Collection
+    (RG 615), AARO and ODNI reports, and congressional testimony — 384 documents, 12,258 pages, read
+    in full. Text was structured into incident records by a language model with page references; the
+    same-event records of different agencies were matched to measure corroboration.</p>
+    <h3>The skeptic's charter</h3>
+    <p>This site was built by skeptics with no agenda to persuade you in either direction. It relies on
+    government material over private claims — and remains skeptical of the government material too. The
+    files themselves document why: the CIA-convened Robertson Panel (1953) recommended reducing public
+    interest in the subject, and the government's own historical report records decades of managing
+    public perception. Nothing here is presumed true because it is official. Everything is presented as
+    <i>what the record says</i>, with each document's own stance attached and the page number to check it.</p>
+    <h3>Honest counting</h3>
+    <p>★ means 2+ independent government institutions hold paper on the same event — strictly counted:
+    the modern publisher of the releases never counts, renamed agencies (AAF→USAF) are one institution,
+    and press clippings inside files are not agencies. These counts are floors, not ceilings.</p>
+    <h3>Caveats that matter</h3>
+    <p>Most scanned pages were transcribed by a vision model — a re-rendering, not verbatim OCR. Incident
+    fields were extracted by a language model with confidence flags. Both can err; that is why every card
+    links toward its source document. For any quotation or serious use, verify against the source page.</p>
+    <h3>Provenance &amp; credit</h3>
+    <p>All source documents are U.S. government records (public domain, 17 U.S.C. §105). Release 1
+    transcriptions build on the CC0 <a href="https://github.com/AlexZhangji/ufo-pursue-open-atlas" target="_blank" rel="noopener">ufo-pursue-open-atlas</a>
+    project. This site costs $0 to run, shows no ads, and sets no trackers.</p>
+  </div>
+</div>
+
+<!-- browse -->
 <div id="browse"><span class="close" onclick="toggleBrowse(false)">✕ close</span>
   <h3>All incidents in the current filter</h3><div id="blist"></div></div>
 
@@ -177,38 +336,56 @@ const ERAS=[["1940s",1940,"#d9a05b"],["1950s",1950,"#c8b48a"],["1960s",1960,"#a8
 const eraColor=y=>{ if(y==null) return "#6c7484"; for(let i=ERAS.length-1;i>=0;i--) if(y>=ERAS[i][1]) return ERAS[i][2]; return "#6c7484"; };
 const TODS=["night","dawn","morning","midday","afternoon","dusk","evening","unknown"];
 const YMIN=1940, YMAX=2026;
+const blankFilters=()=>({eras:new Set(), shapes:new Set(), tods:new Set(), corr:false, enc:false, y0:YMIN, y1:YMAX});
 
-let DATA=[], filt={eras:new Set(), shapes:new Set(), tods:new Set(), corr:false, enc:false, y0:YMIN, y1:YMAX};
-let globe, playTimer=null;
+let DATA=[], TOUR=null, filt=blankFilters(), globe, playTimer=null, tourIdx=-1, highlightSet=new Set();
 
-fetch("data.json").then(r=>r.json()).then(d=>{
-  DATA=d.incidents;
+Promise.all([fetch("data.json").then(r=>r.json()), fetch("tour.json").then(r=>r.json()).catch(()=>null)])
+.then(([d, t])=>{
+  DATA=d.incidents; TOUR=t;
+  document.getElementById("credit").textContent=
+    `${d.counts.incidents} incidents · ${d.counts.corroborated} corroborated · $0 · every dot cites its paper`;
   initGlobe(); initChips(); initTimeline(); apply();
+  runCounters();
 }).catch(e=>{ document.getElementById("tally").textContent="data.json missing — run tools/build_site_data.py"; });
 
+/* ---------- landing ---------- */
+function runCounters(){
+  document.querySelectorAll("#counters b").forEach(el=>{
+    const target=+el.dataset.n, t0=performance.now();
+    const tick=now=>{ const p=Math.min(1,(now-t0)/1600);
+      el.textContent=Math.round(target*(1-Math.pow(1-p,3))).toLocaleString();
+      if(p<1) requestAnimationFrame(tick); };
+    requestAnimationFrame(tick);
+  });
+}
+function dismissLanding(){ document.getElementById("landing").classList.add("gone"); }
+
+/* ---------- globe ---------- */
 function initGlobe(){
   globe=Globe()(document.getElementById("globe"))
     .globeImageUrl("https://unpkg.com/three-globe/example/img/earth-night.jpg")
     .backgroundImageUrl("https://unpkg.com/three-globe/example/img/night-sky.png")
     .atmosphereColor("#2b3a55").atmosphereAltitude(.18)
     .pointAltitude(.012)
-    .pointRadius(p=>.22+.22*(p.corr-1))
-    .pointColor(p=>filt.enc||p.encounter.length? (p.encounter.length? "#ff5470":eraColor(p.year)) : eraColor(p.year))
+    .pointRadius(p=>highlightSet.has(p.id)? .5 : .22+.22*Math.min(3,(p.corr-1)))
+    .pointColor(p=>highlightSet.has(p.id)? "#ffd98a" : (filt.enc&&p.encounter.length? "#ff5470" : eraColor(p.year)))
     .pointsTransitionDuration(600)
     .onPointClick(p=>openCard(p))
     .ringColor(()=>t=>`rgba(232,163,61,${1-t})`)
     .ringMaxRadius(3.2).ringPropagationSpeed(1.6).ringRepeatPeriod(1800);
-  globe.controls().autoRotate=true; globe.controls().autoRotateSpeed=.42;
+  globe.controls().autoRotate=true; globe.controls().autoRotateSpeed=.4;
   globe.pointOfView({lat:32,lng:-88,altitude:2.1});
   document.getElementById("globe").addEventListener("pointerdown",()=>{globe.controls().autoRotate=false;},{once:true});
   addEventListener("resize",()=>globe.width(innerWidth).height(innerHeight));
 }
 
+/* ---------- chips + filters ---------- */
 function chip(parent,label,set,key,color){
   const el=document.createElement("span");
   el.className="chip"+(parent.id==="eraChips"?" era":"");
   if(color) el.style.setProperty("--ec",color);
-  el.textContent=label;
+  el.textContent=label; el.dataset.key=key;
   el.onclick=()=>{ set.has(key)?set.delete(key):set.add(key); el.classList.toggle("on"); apply(); };
   parent.appendChild(el);
 }
@@ -221,14 +398,22 @@ function initChips(){
   document.getElementById("fEnc").onchange=ev=>{filt.enc=ev.target.checked; apply();};
   document.getElementById("browseLink").onclick=()=>toggleBrowse(true);
   document.getElementById("orbit").onclick=()=>toggleBrowse(true,"off-earth");
+  addEventListener("keydown",ev=>{
+    if(tourIdx>=0){ if(ev.key==="ArrowRight") stepTour(1); if(ev.key==="ArrowLeft") stepTour(-1);
+      if(ev.key==="Escape") exitTour(); }
+  });
 }
-
+function syncChipUI(){
+  document.querySelectorAll("#eraChips .chip").forEach(el=>el.classList.toggle("on",filt.eras.has(+el.dataset.key)));
+  document.querySelectorAll("#shapeChips .chip").forEach(el=>el.classList.toggle("on",filt.shapes.has(el.dataset.key)));
+  document.querySelectorAll("#todChips .chip").forEach(el=>el.classList.toggle("on",filt.tods.has(el.dataset.key)));
+  document.getElementById("fCorr").checked=filt.corr;
+  document.getElementById("fEnc").checked=filt.enc;
+}
 function match(i){
-  if(filt.eras.size){
-    if(i.year==null) return false;
+  if(filt.eras.size){ if(i.year==null) return false;
     const dec=Math.max(1940, Math.floor(i.year/10)*10);
-    if(!filt.eras.has(dec)) return false;
-  }
+    if(!filt.eras.has(dec)) return false; }
   if(i.year!=null && (i.year<filt.y0||i.year>filt.y1)) return false;
   if(filt.y0>YMIN && i.year==null) return false;
   if(filt.shapes.size && !filt.shapes.has(i.shapeClass)) return false;
@@ -237,21 +422,18 @@ function match(i){
   if(filt.enc && !i.encounter.length) return false;
   return true;
 }
-
 function apply(){
   const all=DATA.filter(match);
   const placed=all.filter(i=>i.lat!=null);
   globe.pointsData(placed);
-  globe.ringsData(placed.filter(i=>i.corr>=2));
+  globe.ringsData(placed.filter(i=>i.corr>=2||highlightSet.has(i.id)));
   const stars=all.filter(i=>i.corr>=2).length, enc=all.filter(i=>i.encounter.length).length;
   document.getElementById("tally").innerHTML=
     `<b>${all.length}</b> incidents in view · <b>${placed.length}</b> on the globe<br>`+
     `<span class="star">★ ${stars}</span> multi-agency · <span style="color:var(--crimson)">◆ ${enc}</span> with encounter records`;
   document.getElementById("unplacedN").textContent=all.length-placed.length;
   document.getElementById("orbitN").textContent=DATA.filter(i=>i.geo==="off-earth").length;
-  document.getElementById("credit").textContent=`${DATA.length} incidents · $0 · every dot cites its paper`;
-  renderBrowse(all);
-  paintBars();
+  renderBrowse(all); syncChipUI(); paintBars();
 }
 
 /* ---------- timeline ---------- */
@@ -268,11 +450,15 @@ function initTimeline(){
     b.onclick=()=>{filt.y0=y; filt.y1=y; apply();};
     bars.appendChild(b); barEls.push([y,b]);
   }
+  [["THE WAVE",1947],["THE SILENCE",1998],["THE DELUGE",2022]].forEach(([txt,y])=>{
+    const l=document.createElement("span"); l.className="eralab"; l.textContent=txt;
+    l.style.left=((y-YMIN)/(YMAX-YMIN)*100)+"%"; bars.appendChild(l);
+  });
   const lab=document.getElementById("tlabels");
   [1940,1960,1980,2000,2026].forEach(y=>{const s=document.createElement("span");s.textContent=y;lab.appendChild(s);});
   dragHandle("winA","y0"); dragHandle("winB","y1");
   document.getElementById("playBtn").onclick=togglePlay;
-  document.getElementById("resetBtn").onclick=()=>{stopPlay(); filt.y0=YMIN; filt.y1=YMAX; apply();};
+  document.getElementById("resetBtn").onclick=()=>{stopPlay(); filt=blankFilters(); highlightSet=new Set(); apply();};
 }
 function xToYear(clientX){
   const r=document.getElementById("bars").getBoundingClientRect();
@@ -324,7 +510,7 @@ function openCard(p){
     <div class="cid">${esc(p.id)} · ${esc(p.geo)}</div>
     <h2>${esc(p.loc||"Location unstated")}</h2>
     <div class="when">${esc(p.date||"undated")}${p.tod!=="unknown"?" · "+esc(p.tod):""}</div>
-    ${p.corr>=2?`<span class="corrStamp">★ CORROBORATED — ${p.corr} AGENCIES</span><br>`:""}
+    ${p.corr>=2?`<span class="corrStamp" title="2+ independent government institutions hold paper on this event - strictly counted">★ CORROBORATED — ${p.corr} AGENCIES</span><br>`:""}
     <dl class="kv">
       ${kv("SHAPE",p.shape)}${kv("BEHAVIOR",(p.behavior||[]).join("; "))}
       ${kv("SENSORS",(p.sensors||[]).join(", "))}${kv("AGENCIES",(p.agencies||[]).join(", "))}
@@ -333,10 +519,77 @@ function openCard(p){
     <div class="sum">${esc(p.summary)}</div>
     ${p.encounter.length?`<div class="encList">◆ encounter record types in source file: ${p.encounter.map(esc).join(", ")}</div>`:""}
     <div class="srcHead">CITATIONS — THE PAPER</div>${srcs}
-    <div class="caveat">Transcribed text is a VLM re-rendering of scanned pages — verify quotes against the source page before citing.</div>`;
+    <div class="caveat">Transcribed text is a model re-rendering of scanned pages — verify quotes against the source page before citing.</div>`;
   document.getElementById("card").classList.add("open");
 }
 function closeCard(){document.getElementById("card").classList.remove("open");}
+
+/* ---------- tour ---------- */
+function startTour(){ dismissLanding();
+  if(!TOUR){ return; }
+  tourIdx=-1; document.getElementById("tour").classList.add("open");
+  stepTour(1);
+}
+function exitTour(){
+  tourIdx=-1; highlightSet=new Set();
+  document.getElementById("tour").classList.remove("open");
+  filt=blankFilters(); apply();
+  globe.controls().autoRotate=true;
+}
+function stepTour(dir){
+  if(!TOUR) return;
+  tourIdx=Math.max(0, Math.min(TOUR.chapters.length-1, tourIdx+dir));
+  const ch=TOUR.chapters[tourIdx];
+  document.getElementById("tKicker").textContent=ch.kicker;
+  document.getElementById("tTitle").textContent=(tourIdx+1)+". "+ch.title;
+  document.getElementById("tText").textContent=ch.text;
+  const dots=document.getElementById("dots"); dots.innerHTML="";
+  TOUR.chapters.forEach((_,i)=>{ const d=document.createElement("span");
+    d.className="dot"+(i===tourIdx?" on":""); d.onclick=()=>{tourIdx=i-0; stepTour(0);}; dots.appendChild(d); });
+  const mediaEl=document.getElementById("tourMedia"); mediaEl.innerHTML="";
+  (ch.media||[]).forEach(m=>{ const img=document.createElement("img");
+    img.src=m.file; img.alt=m.caption; img.loading="lazy";
+    img.onclick=()=>openLightbox(m); mediaEl.appendChild(img); });
+  filt=blankFilters();
+  const f=ch.filters||{};
+  if(f.y0) filt.y0=f.y0; if(f.y1) filt.y1=f.y1;
+  (f.shapes||[]).forEach(s=>filt.shapes.add(s));
+  (f.tods||[]).forEach(t=>filt.tods.add(t));
+  if(f.corr) filt.corr=true;
+  highlightSet=new Set(ch.highlight||[]);
+  apply();
+  globe.controls().autoRotate=false;
+  globe.pointOfView({lat:ch.camera.lat,lng:ch.camera.lng,altitude:ch.camera.alt},1800);
+}
+function openLightbox(m){
+  document.getElementById("lbImg").src=m.file;
+  document.getElementById("lbCap").textContent=m.caption;
+  document.getElementById("lbCred").innerHTML=esc(m.credit)+(m.source_url?` — <a href="${esc(m.source_url)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">source ↗</a>`:"");
+  document.getElementById("lightbox").classList.add("open");
+}
+
+/* ---------- findings ---------- */
+const FCARDS=[
+  {stat:"165 = 165", line:"Night alone exactly ties morning, midday, and afternoon combined in the time-stated record.", ch:"night-tie"},
+  {stat:"★ 19", line:"Incidents with independent paper from 2+ government institutions — strictly counted floors.", ch:"the-nineteen"},
+  {stat:"1947", line:"Three weeks in one summer produced the densest paper trail in the archive.", ch:"wave-1947"},
+  {stat:"518", line:"The 2020s are the largest decade in the record — sensors, orbs, and Starlink.", ch:"silence-deluge"},
+  {stat:"disc → orb", line:"The saucer fades from the files by 1960; the orb spans 1947 to now.", ch:"shape-eras"},
+  {stat:"12 sites", line:"Nuclear and weapons facilities recur across 55 years of incident paper.", ch:"watched-skies"},
+  {stat:"1953", line:"The CIA-convened Robertson Panel recommended reducing public interest — it's in the files.", ch:"record-about-record"},
+  {stat:"1 chain", line:"One claimed crash specimen has a complete custody-and-analysis chain. Verdict: mundane.", ch:"claims-verdicts"},
+];
+function openFindings(){
+  const g=document.getElementById("fGrid"); g.innerHTML="";
+  FCARDS.forEach(c=>{ const el=document.createElement("div"); el.className="fcard";
+    el.innerHTML=`<b>${c.stat}</b><span>${c.line}</span>`;
+    el.onclick=()=>{ document.getElementById("findings").classList.remove("open");
+      dismissLanding(); document.getElementById("tour").classList.add("open");
+      tourIdx=TOUR.chapters.findIndex(x=>x.id===c.ch); stepTour(0); };
+    g.appendChild(el); });
+  document.getElementById("findings").classList.add("open");
+}
+function openAbout(){ document.getElementById("about").classList.add("open"); }
 
 /* ---------- browse ---------- */
 function renderBrowse(list){
