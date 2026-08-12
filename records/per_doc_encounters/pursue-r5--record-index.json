@@ -1,0 +1,33 @@
+{
+ "doc_id": "pursue-r5-record-index",
+ "file": "pursue-r5--record-index.md",
+ "source": "PURSUE-R5",
+ "agency": "Department of War",
+ "title": "PURSUE Release 5 - official record index (all 41 records: documents, videos, images, audio)",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an official record index for the PURSUE Release 5 collection, containing one specific encounter report involving military aircrew.",
+ "encounters": [
+  {
+   "summary": "USSOF AC-130 aircrew observed 25 'cold orbs' maneuvering aggressively and reacting to weapons systems during a training exercise.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "date": "2021-09-08",
+   "date_precision": "day",
+   "entity_appearance": "cold orbs",
+   "entity_behavior": "maneuvering aggressively, reacting to weapons systems",
+   "entity_count": "25",
+   "page_refs": [
+    1
+   ],
+   "physical_effects": [
+    "reaction to weapons systems"
+   ],
+   "quote": "maneuvering aggressively"
+  }
+ ]
+}

@@ -47,6 +47,15 @@ MODEL = "gemini-3-flash-preview"
 URL = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
 LOW_TEXT_CHARS = 50
 SCAN_THRESHOLD = 0.3  # >30% low-text pages -> treat whole doc as scanned
+
+# Docs whose embedded war.gov OCR text layer passes the char-count gate but is
+# too degraded to trust (or omits handwritten annotations the official
+# description says are present). Curated per-doc after inspection; these skip
+# the digital path and go straight to vision.
+FORCE_VISION = {
+    "pursue-r5--dow-uap-d098",   # 1953 Navy film analysis: text layer is mangled 1950s-scan OCR
+    "pursue-r5--eop-uap-d001",   # NASC/Bahia: handwritten NASC annotations absent from text layer
+}
 MAX_DIM = 2000
 JPEG_QUALITY = 88
 DPI = 200
@@ -237,6 +246,8 @@ def main():
                 vision += 1
             else:
                 page_texts, scanned = extract_digital(local_path)
+                if rec["id"] in FORCE_VISION:
+                    scanned = True
                 if not scanned:
                     pages = list(enumerate(page_texts, start=1))
                     words = write_corpus_md(rec, pages, f"born-digital government PDF, text extracted with pypdf {pypdf.__version__}")

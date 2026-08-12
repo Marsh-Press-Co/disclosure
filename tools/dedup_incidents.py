@@ -35,6 +35,14 @@ AGENCY_ALIASES = {
     "us navy": "US Navy", "u.s. navy": "US Navy", "navy": "US Navy",
     "united states navy": "US Navy", "oni": "US Navy",
     "office of naval intelligence": "US Navy",
+    # Navy photo/intel organs ARE the Navy (2026-08-12: the R5 film-analysis
+    # doc briefly double-counted Tremonton as Navy + its own photo lab).
+    "u.s. naval photographic interpretation center": "US Navy",
+    "naval photographic interpretation center": "US Navy",
+    "navpic": "US Navy", "usnpic": "US Navy",
+    "naval photographic center": "US Navy",
+    "usn photographic interpretation laboratory": "US Navy",
+    "photographic interpretation laboratory": "US Navy",
     "cic": "US Army", "counter intelligence corps": "US Army",
     "centcom": "CENTCOM", "uscentcom": "CENTCOM", "us central command": "CENTCOM",
     "u.s. central command": "CENTCOM",
@@ -42,6 +50,11 @@ AGENCY_ALIASES = {
     "nasa": "NASA",
     "department of state": "Department of State", "state department": "Department of State",
     "dos": "Department of State",
+    # The presidential complex is ONE institution for corroboration: NASC,
+    # any EOP body, and "White House" merge (strict direction - fewer stars).
+    "nasc": "White House (EOP)", "national aeronautics and space council": "White House (EOP)",
+    "executive office of the president": "White House (EOP)", "eop": "White House (EOP)",
+    "white house": "White House (EOP)",
     "cia": "CIA", "central intelligence agency": "CIA",
     "aaro": "AARO", "odni": "ODNI",
     "aec": "AEC/DOE", "atomic energy commission": "AEC/DOE",

@@ -1,0 +1,1 @@
+{"nodes": [{"id": "fbi_uap_d030", "label": "FBI-UAP-D030: Large Triangle with Red Lights (2023)", "file_type": "document", "source_file": "pursue-r5--fbi-uap-d030.md"}], "edges": [{"source": "fbi_uap_d030", "target": "fbi_uap_d031", "relation": "references", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "pursue-r5--fbi-uap-d030.md"}], "hyperedges": []}

@@ -36,6 +36,8 @@ CURATED = {
     "southern united states": (32.0, -90.0), "pacific time zone": (39.0, -120.0),
     "off the coast of san diego": (32.2, -118.2), "atlantic ocean": (35.0, -50.0),
     "pacific ocean": (20.0, -150.0), "north sea": (56.0, 3.5),
+    "anacostia": (38.851, -76.999),  # Anacostia NAS, Washington DC (a starred incident)
+    "gulf of oman": (24.5, 58.5),
 }
 OFF_EARTH_KEYS = ("apollo", "gemini", "skylab", "lunar", "orbit", "moon")
 

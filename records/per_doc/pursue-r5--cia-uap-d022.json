@@ -1,0 +1,90 @@
+{
+ "doc_id": "pursue-r5--cia-uap-d022",
+ "file": "pursue-r5--cia-uap-d022.md",
+ "source": "PURSUE-R5",
+ "agency": "CIA",
+ "title": "CIA-UAP-D022, Unidentified Flying Object Reported near Puerto Rico, 1965",
+ "record_type": "document",
+ "index_date": "2/1/65",
+ "index_location": "Caribbean Sea",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 3,
+ "doc_notes": "This document consists of CIA memoranda regarding a 1964 UAP sighting near Puerto Rico, involving both visual and radar data. / This document is a CIA memorandum discussing a 1964 UAP sighting near Puerto Rico, featuring significant text degradation and illegibility. / This document is a CIA memorandum regarding the evaluation of radar data and reports of a high-speed unidentified object near Puerto Rico in November 1964.",
+ "incidents": [
+  {
+   "summary": "A U.S. Navy pilot observed a delta-shaped object near Puerto Rico, which was also tracked by the USS Gyatt's radar at high speeds.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "high speed flight"
+   ],
+   "color": "",
+   "country": "Puerto Rico",
+   "date": "1964-11-19",
+   "duration": "",
+   "explanation": "The AD/SI suggested it was conceivably associated with foreign intelligence gathering activities.",
+   "explanation_status": "partially-explained",
+   "location_name": "Atlantic Fleet Weapons Range",
+   "object_count": "1",
+   "page_refs": [
+    3
+   ],
+   "quote": "U.S. Navy pilot was able to distinguish the object as a delta shape about the size of a jet fighter.",
+   "recording_agency": "CIA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "delta-shaped",
+   "size": "size of a jet fighter",
+   "time_local": "",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "A U.S. Naval aviator and the USS Gyatt radar system tracked an unidentified delta-shaped object near Puerto Rico.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "high velocity"
+   ],
+   "shape": "delta-shaped",
+   "size": "size of a jet fighter",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "A U.S. Naval aviator observed a delta-shaped object estimated at Mach 3, while the USS Gyatt radar tracked it at 3,800 knots.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "high speed"
+   ],
+   "country": "Puerto Rico",
+   "date": "1964-11-19",
+   "explanation_status": "unexplained",
+   "location_name": "Caribbean Sea",
+   "page_refs": [
+    5,
+    6
+   ],
+   "quote": "delta-shaped, about the size of a jet fighter",
+   "recording_agency": "CIA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "delta-shaped",
+   "size": "size of a jet fighter",
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

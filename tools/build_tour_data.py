@@ -101,7 +101,7 @@ CHAPTERS = [
         "filters": {"y0": 1947, "y1": 1947},
         "highlight": {"date_prefix": "1947-06", "min_corr": 2},
         "media": ["serial-130-survey"],
-        "text": "On June 24, 1947, pilot Kenneth Arnold reported nine mirror-bright objects near Mt. Rainier. Within three weeks, the government's own files record hundreds of sightings across the country - and the paper survives. Arnold's case carries records from the FBI, the Air Force, and, decades later, the NSA's historical file: three independent institutions documenting one afternoon. This corpus holds 324 incidents from the 1940s alone, most of them from this single impossible summer. Every dot you see is a government record, cited to its page.",
+        "text": "On June 24, 1947, pilot Kenneth Arnold reported nine mirror-bright objects near Mt. Rainier. Within three weeks, the government's own files record hundreds of sightings across the country - and the paper survives. Arnold's case carries records from the FBI, the Air Force, and, decades later, the NSA's historical file: three independent institutions documenting one afternoon. This corpus holds 328 incidents from the 1940s alone, most of them from this single impossible summer. Every dot you see is a government record, cited to its page.",
     },
     {
         "id": "paper-machine", "title": "The Paper Machine",
@@ -113,13 +113,13 @@ CHAPTERS = [
         "text": "The government built real machinery for this: standing orders to forward physical evidence to Air Materiel Command, analysis facilities at Wright Field, reporting channels codified in military regulation. And it fought over that machinery - in July 1947, J. Edgar Hoover wrote in his own hand that before helping the Army, 'we must insist upon full access to discs recovered,' complaining that in one case 'the Army grabbed it and would not let us have it.' Whatever the objects were, the seizures, the demands, and the friction were real, and they are in the file.",
     },
     {
-        "id": "night-tie", "title": "The Night Tie",
+        "id": "dark-hours", "title": "The Dark Hours",
         "kicker": "WHEN THE SKY GETS WATCHED",
         "camera": {"lat": 39, "lng": -98, "alt": 1.8},
         "filters": {"tods": ["night", "dusk", "evening", "dawn"]},
         "highlight": {},
         "media": ["fbi-photo-b7"],
-        "text": "Of the incidents whose records state a time of day, night alone exactly ties morning, midday, and afternoon combined. Add dusk, dawn, and evening, and the dark hours dominate the record. The honest caveat is part of the finding: night is when infrared sensors operate, when night-vision units train, and when ordinary lights confuse ordinary eyes. The record cannot say whether more happens at night - only that the government's paper overwhelmingly comes from the dark.",
+        "text": "Of the 967 incidents whose records support a time of day, night alone - 450 - now exceeds morning, midday, and afternoon combined (337). Add dusk, dawn, and evening, and the dark hours are nearly two-thirds of the time-known record. (An earlier, smaller corpus had night exactly tying the daylight buckets; five releases later, the dark pulled ahead.) The honest caveat is part of the finding: night is when infrared sensors operate, when night-vision units train, and when ordinary lights confuse ordinary eyes. The record cannot say whether more happens at night - only that the government's paper overwhelmingly comes from the dark.",
     },
     {
         "id": "shape-eras", "title": "Shapes Have Eras",
@@ -162,18 +162,18 @@ CHAPTERS = [
         "kicker": "1990s SILENCE. 2020s FLOOD.",
         "camera": {"lat": 25, "lng": -30, "alt": 2.2},
         "filters": {"y0": 1990, "y1": 2026},
-        "highlight": {"date_prefix": "2023-12-27", "loc": "shreveport"},
+        "highlight": {"date_prefix": "2023-10", "loc": "western united states"},
         "media": ["faa-starlink", "western-slides-orbs"],
-        "text": "The released record is quietest in the 1990s and 2000s - thirty-five incidents across twenty years - then erupts: the 2020s are the largest decade in the corpus, 518 incidents, driven by military sensors and a modern FAA reporting pipeline. The new era has a signature the old one couldn't: Starlink satellite trains, now a recurring explanation in the FAA's own paper. And it has genuine puzzles - federal agents on night vision watching orange orbs launch smaller red orbs across two nights in the western United States, with an AARO field follow-up. Whether the silence was an absence of events or an absence of releases is one of this archive's sharpest open questions.",
+        "text": "The released record is quietest in the 1990s and 2000s - thirty-six incidents across twenty years - then erupts: the 2020s are the largest decade in the corpus, 533 incidents, driven by military sensors and a modern FAA reporting pipeline. The new era has a signature the old one couldn't: Starlink satellite trains, now a recurring explanation in the FAA's own paper. And it has genuine puzzles - federal agents on night vision watching orange orbs launch smaller red orbs across two nights in the western United States, with an AARO field follow-up. Whether the silence was an absence of events or an absence of releases is one of this archive's sharpest open questions.",
     },
     {
-        "id": "the-nineteen", "title": "The Nineteen",
+        "id": "the-starred", "title": "The Twenty-Two",
         "kicker": "EVERY MULTI-AGENCY INCIDENT IN THE RECORD",
         "camera": {"lat": 35, "lng": -60, "alt": 1.9},
         "filters": {"corr": True},
         "highlight": {"min_corr": 3},
         "media": ["gemini-vii-bogey", "western-slides-1"],
-        "text": "Strictly counted - publishers excluded, renamed agencies merged, press clippings disqualified - nineteen incidents in this archive carry independent paper from two or more government institutions. Four carry three: Kenneth Arnold's 1947 sighting (FBI, USAF, NSA), the Roswell recovery-and-explanation story itself (USAF, GAO, FBI), the 1952 Tremonton film (CIA, USAF, Navy), and the 1976 Tehran F-4 encounter (DIA, Defense Attache, Pentagon). These counts are floors, not ceilings. They are also the closest thing this subject has to a bibliography of events the government wrote down more than once. Explore them - every dot cites its paper.",
+        "text": "Strictly counted - publishers excluded, renamed agencies merged, press clippings disqualified - twenty-two incidents in this archive carry independent paper from two or more government institutions. Four carry three: Kenneth Arnold's 1947 sighting (FBI, USAF, NSA), the Roswell recovery-and-explanation story itself (USAF, GAO, FBI), the 1952 Tremonton film (CIA, USAF, Navy), and the 1976 Tehran F-4 encounter (DIA, Defense Attache, Pentagon). These counts are floors, not ceilings. They are also the closest thing this subject has to a bibliography of events the government wrote down more than once. Explore them - every dot cites its paper.",
     },
 ]
 

@@ -1,0 +1,40 @@
+{
+ "doc_id": "pursue-r5--fbi-uap-d031",
+ "file": "pursue-r5--fbi-uap-d031.md",
+ "source": "PURSUE-R5",
+ "agency": "FBI",
+ "title": "FBI-UAP-D031, Digital Rendering, “Large Triangle with Red Lights,” 2023",
+ "record_type": "image",
+ "index_date": "2023",
+ "index_location": "Colorado Springs, Colorado",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a digital rendering created by the FBI in 2026 based on a 2023 civilian report of a UAP near Colorado Springs.",
+ "incidents": [
+  {
+   "summary": "Artistic rendering of a large triangular craft with red lights observed near Colorado Springs.",
+   "date_precision": "year",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "hovering"
+   ],
+   "color": "dark with red lights",
+   "country": "United States",
+   "date": "2023",
+   "location_name": "Colorado Springs, Colorado",
+   "page_refs": [
+    1
+   ],
+   "quote": "A nighttime photograph of a dark, triangular craft hovering in a clear, star-filled sky.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "triangular",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

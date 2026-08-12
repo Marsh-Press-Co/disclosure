@@ -1,0 +1,101 @@
+{
+ "doc_id": "pursue-r5--dow-uap-d100",
+ "file": "pursue-r5--dow-uap-d100.md",
+ "source": "PURSUE-R5",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D100, Air Materiel Command Report on Unidentified Flying Objects, 1947-1948",
+ "record_type": "document",
+ "index_date": "1947-1948",
+ "index_location": "N/A",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of U.S. Government memoranda and correspondence relating to Project Sign, an Air Force program to investigate UAP reports from 1947-1948.",
+ "incidents": [
+  {
+   "summary": "Observation of a yellow sphere, 25-40 feet in diameter, near Anacostia Naval Air Station.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "constant altitude",
+    "followed flight path"
+   ],
+   "color": "yellow",
+   "country": "United States",
+   "date": "1948-04-30",
+   "location_name": "Anacostia Naval Air Station",
+   "object_count": "1",
+   "page_refs": [
+    84
+   ],
+   "quote": "The object resembled a yellow sphere estimated at 25-40 feet in diameter.",
+   "recording_agency": "US Navy",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "sphere",
+   "size": "25-40 feet",
+   "time_local": "1015",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Report of a strange object in the night sky that moved, stopped, and changed course.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "moved",
+    "stopped",
+    "changed course"
+   ],
+   "color": "star-like",
+   "country": "United States",
+   "date": "1948-07-04",
+   "location_name": "Dravasburg, Pa.",
+   "object_count": "1",
+   "page_refs": [
+    57
+   ],
+   "quote": "this \"thing\" moved across the sky then stopped for about 8 seconds then changed its course",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "star-like",
+   "time_local": "2315",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Sighting of a round, phosphorescent object at high altitude.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "high speed"
+   ],
+   "color": "phosphorescent",
+   "country": "United States",
+   "date": "1948-05-08",
+   "location_name": "Hobson, Ohio",
+   "object_count": "unknown",
+   "page_refs": [
+    68,
+    69
+   ],
+   "quote": "round, phosphorescent trail in the sky",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "round",
+   "size": "9 inches at ground level",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

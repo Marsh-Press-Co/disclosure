@@ -1,0 +1,28 @@
+{
+ "doc_id": "pursue-r5--fbi-uap-d042",
+ "file": "pursue-r5--fbi-uap-d042.md",
+ "source": "PURSUE-R5",
+ "agency": "FBI",
+ "title": "FBI-UAP-D042, Digital Rendering 2, “Multiple Red Lights,” 2026",
+ "record_type": "document",
+ "index_date": "2026",
+ "index_location": "Western United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI digital rendering created in 2026 as a visual aid for the PURSUE initiative, based on witness accounts from a separate report.",
+ "incidents": [
+  {
+   "summary": "Artistic rendering of a UAP incident in the western United States based on witness descriptions.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "recording_agency": "FBI",
+   "shape": "unknown",
+   "size": "unknown",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

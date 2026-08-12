@@ -1,0 +1,93 @@
+{
+ "doc_id": "pursue-r5--dow-uap-d098",
+ "file": "pursue-r5--dow-uap-d098.md",
+ "source": "PURSUE-R5",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D098, Film Analysis of Unidentified Objects, 1953",
+ "record_type": "document",
+ "index_date": "1950, 1952",
+ "index_location": "Montana, Utah",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a progress report from the U.S. Naval Photographic Interpretation Center regarding the analysis of two films of unidentified objects from 1950 and 1952, containing extensive technical charts and densitometric data.",
+ "incidents": [
+  {
+   "summary": "Analysis of 16mm color motion picture film depicting unidentified objects in Utah.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "counter-clockwise movement",
+    "abrupt changes in direction",
+    "formation flight",
+    "varying luminosity"
+   ],
+   "color": "blue-white",
+   "country": "USA",
+   "date": "1952-07-02",
+   "explanation_status": "unexplained",
+   "location_name": "Utah",
+   "object_count": "multiple",
+   "page_refs": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    13,
+    14,
+    15,
+    16,
+    19,
+    20,
+    21,
+    23
+   ],
+   "quote": "it appears as if the objects are of a nature which we are not able to identify in terms of natural phenomena",
+   "recording_agency": "U.S. Naval Photographic Interpretation Center",
+   "sensors": [
+    "visual",
+    "photo"
+   ],
+   "shape": "oblate or disk shaped",
+   "size": "98 and 16 feet",
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "Analysis of motion picture film depicting unidentified objects in Montana.",
+   "date_precision": "year",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "formation flight"
+   ],
+   "country": "USA",
+   "date": "1950",
+   "explanation_status": "unexplained",
+   "location_name": "Montana",
+   "page_refs": [
+    3,
+    4,
+    5,
+    8,
+    11,
+    12,
+    22
+   ],
+   "quote": "There is no indication of what kind of objects could have caused the images",
+   "recording_agency": "U.S. Naval Photographic Interpretation Center",
+   "sensors": [
+    "visual",
+    "photo"
+   ],
+   "witness_types": [
+    "unknown"
+   ]
+  }
+ ]
+}

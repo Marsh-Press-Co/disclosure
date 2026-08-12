@@ -1,0 +1,74 @@
+{
+ "doc_id": "pursue-r5--fbi-uap-d040",
+ "file": "pursue-r5--fbi-uap-d040.md",
+ "source": "PURSUE-R5",
+ "agency": "FBI",
+ "title": "FBI-UAP-D040, FD-302, “Multiple Red Lights,” 2026",
+ "record_type": "document",
+ "index_date": "2026",
+ "index_location": "Western United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI FD-302 interview record detailing two UAP sightings in the western United States in 2026, featuring heavy redactions of names and locations.",
+ "incidents": [
+  {
+   "summary": "Witness observed a red light at the crest of a mountain range, which appeared as a cluster of three lights in a triangular or diamond-shaped pattern.",
+   "date_precision": "year",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "moved in tandem"
+   ],
+   "color": "red",
+   "country": "United States",
+   "date": "2026",
+   "explanation_status": "not-assessed",
+   "location_name": "Western United States",
+   "page_refs": [
+    1,
+    2
+   ],
+   "quote": "the lights appeared to each be three separate lights in a triangular or diamond-shaped pattern.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "triangular or diamond-shaped",
+   "time_local": "2200",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Witness observed two lights on or near the ground using night observation devices, followed by a rapidly moving streak of light.",
+   "date_precision": "year",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "moved west",
+    "moved north",
+    "stopped",
+    "rapidly moving"
+   ],
+   "country": "United States",
+   "date": "2026",
+   "explanation_status": "not-assessed",
+   "location_name": "Western United States",
+   "page_refs": [
+    2
+   ],
+   "quote": "witnessed two lights on or close to the ground to their east, which were only visible using NODs.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "nvg"
+   ],
+   "time_local": "2350",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

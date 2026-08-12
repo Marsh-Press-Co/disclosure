@@ -1,0 +1,39 @@
+{
+ "doc_id": "pursue-r5--fbi-uap-d025",
+ "file": "pursue-r5--fbi-uap-d025.md",
+ "source": "PURSUE-R5",
+ "agency": "FBI",
+ "title": "FBI-UAP-D025, Digital Rendering, “Airborne Triangle,” 2002",
+ "record_type": "image",
+ "index_date": "2002",
+ "index_location": "Afghanistan",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a digital rendering created by the FBI in 2026 based on a 2002 sighting report from Afghanistan.",
+ "incidents": [
+  {
+   "summary": "A reported sighting of a large, solid black triangle object above Bagram Air Force Base, Afghanistan.",
+   "date_precision": "month",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [],
+   "color": "black",
+   "country": "Afghanistan",
+   "date": "2002-06",
+   "explanation_status": "not-assessed",
+   "location_name": "Bagram Air Force Base",
+   "page_refs": [
+    1
+   ],
+   "quote": "A large, solid black triangle pointing downwards",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "triangle",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

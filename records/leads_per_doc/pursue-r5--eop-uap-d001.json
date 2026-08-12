@@ -1,0 +1,18 @@
+{
+ "doc": "pursue-r5--eop-uap-d001.md",
+ "leads": [
+  {
+   "page": 1,
+   "lead_type": "biological",
+   "claim": "A radio broadcast reported the crash of a large metal sphere containing a deceased occupant in Conde, Bahia, Brazil.",
+   "strength": "weak",
+   "why": "The document reports on a third-party media broadcast rather than providing evidence of government custody or verification of the event.",
+   "claimant": "Radio broadcast reported via FBIS",
+   "custody_chain": "Unknown",
+   "government_response": "Documented as an excerpt in the files of Edward C. Welsh.",
+   "outcome_in_document": "unresolved",
+   "quote": "alleged crash of a “large metal sphere” containing a deceased occupant"
+  }
+ ],
+ "doc_verdict": "The document contains a report of a foreign media claim regarding a crash but provides no evidence that the U.S. government obtained or held any material."
+}

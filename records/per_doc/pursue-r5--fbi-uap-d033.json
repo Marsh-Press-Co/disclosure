@@ -1,0 +1,45 @@
+{
+ "doc_id": "pursue-r5--fbi-uap-d033",
+ "file": "pursue-r5--fbi-uap-d033.md",
+ "source": "PURSUE-R5",
+ "agency": "FBI",
+ "title": "FBI-UAP-D033, FD-302, “Thermally Elevated Aerial Object,” 2026",
+ "record_type": "document",
+ "index_date": "2026",
+ "index_location": "Western United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI FD-302 interview report regarding a UAP sighting by a Special Agent in 2026, containing significant redactions of names and specific dates.",
+ "incidents": [
+  {
+   "summary": "A U.S. Government Special Agent observed a thermally elevated aerial object flying southbound in the western United States.",
+   "date_precision": "year",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "flying southbound"
+   ],
+   "country": "United States",
+   "date": "2026",
+   "explanation_status": "unexplained",
+   "location_name": "Western United States",
+   "page_refs": [
+    1,
+    2
+   ],
+   "quote": "the object presented as a hot aerial object through thermal observation",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "ir",
+    "video"
+   ],
+   "size": "approximately half the size of a Black Hawk helicopter",
+   "time_local": "2100",
+   "witness_count": "1",
+   "witness_types": [
+    "federal-le"
+   ]
+  }
+ ]
+}

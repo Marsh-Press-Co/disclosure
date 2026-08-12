@@ -1,0 +1,35 @@
+{
+ "doc_id": "pursue-r5--eop-uap-d001",
+ "file": "pursue-r5--eop-uap-d001.md",
+ "source": "PURSUE-R5",
+ "agency": "Executive Office of the President",
+ "title": "EOP-UAP-D001, NASC Inquiry into Bahia, Brazil Incident, November 13, 1963",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a declassified intelligence report summarizing a radio broadcast regarding a crash in Brazil, and it contains one encounter report.",
+ "encounters": [
+  {
+   "summary": "A large metal sphere crashed in Conde, Bahia, containing a human-like body in heavy clothing with undecipherable inscriptions.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "anonymous",
+   "document_stance": "recorded-no-comment",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "Brazil",
+   "date": "1963-11-08",
+   "date_precision": "day",
+   "entity_appearance": "human body",
+   "entity_clothing": "heavy clothing with undecipherable inscriptions",
+   "entity_count": "1",
+   "location_name": "Conde, Bahia",
+   "page_refs": [
+    1
+   ],
+   "physical_effects": [
+    "gouging a hole four meters deep"
+   ],
+   "quote": "A LARGE METAL SPHERE FELL IN THE CENTER OF THE CITY, GOUGING A HOLE FOUR METERS DEEP."
+  }
+ ]
+}

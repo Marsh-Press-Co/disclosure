@@ -1,0 +1,76 @@
+{
+ "doc_id": "pursue-r5--dow-uap-d101",
+ "file": "pursue-r5--dow-uap-d101.md",
+ "source": "PURSUE-R5",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D101, Intelligence Information Report, Unresolved UAP Report, Gulf of Oman, 2021",
+ "record_type": "document",
+ "index_date": "9/8/21",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an Intelligence Information Report (IIR) detailing UAP observations by a USSOF AC-130 gunship crew during a 2021 training exercise in the Gulf of Oman.",
+ "incidents": [
+  {
+   "summary": "USSOF AC-130 gunship aircrew observed two unidentified cold orbs stationary over a water-activated flare during a training exercise.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "stationary",
+    "rapidly flew away"
+   ],
+   "color": "cold",
+   "country": "Oman",
+   "date": "2021-09-08",
+   "explanation_status": "unexplained",
+   "location_name": "Gulf of Oman",
+   "object_count": "2",
+   "page_refs": [
+    2,
+    5
+   ],
+   "quote": "observed two approximately four-foot diameter cold orbs between 0 to 20 feet above the surface of the water",
+   "recording_agency": "AFSOC",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "orb",
+   "size": "four-foot diameter",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "USSOF AC-130 gunship aircrew observed approximately 25 instances of UAP during a training sortie, exhibiting various formations and aggressive maneuvering.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "maneuvering aggressively",
+    "flying in formations",
+    "reacting to weapons systems",
+    "increasing and decreasing altitude"
+   ],
+   "color": "cold",
+   "country": "Oman",
+   "date": "2021-09-08",
+   "explanation_status": "unexplained",
+   "location_name": "Gulf of Oman",
+   "object_count": "25",
+   "page_refs": [
+    2,
+    5
+   ],
+   "quote": "observed approximately 25 instances of UAPs viewed in IR as cold orbs",
+   "recording_agency": "AFSOC",
+   "sensors": [
+    "ir"
+   ],
+   "shape": "orb",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

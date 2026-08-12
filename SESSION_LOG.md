@@ -4,6 +4,66 @@ Running project history, newest entries first. Current state lives in the vault 
 (`MindHive/10-Projects/Disclosure/_Disclosure-Hub.md`); this file records what
 happened when.
 
+## 2026-08-12 — PURSUE Release 5 ingested (published 2026-08-07; caught on manual check)
+
+**Shipped/Done**
+- **R5 in end-to-end**: 41 records (22 PDFs + 3 images downloaded/extracted;
+  16 videos metadata-indexed, linked not hosted). Corpus 384 → **410 docs /
+  3.38M words / 12,594 pages**; incidents 1,455 → **1,483** (★19 → **22**);
+  encounters 516 → **528**; graph 4,268 → **4,344 nodes** (30 communities
+  relabeled); globe 982 → **997 placed**. Still $0 lifetime.
+- **Three new stars, all provenance-verified against page scans**: Conde/Bahia
+  Brazil 1963 ★2 (State + CIA; first EOP document in PURSUE; the record
+  self-resolves — "apparently fabricated in Rio"); Anacostia NAS 1948 ★2
+  (USAF + Navy pilot's own memo, D100 p.84); Hobson OH 1948 ★2 (USAF + FBI).
+- **Tremonton + Great Falls primary paper**: DOW-UAP-D098 = the Navy photo
+  lab's 1953 analysis of both films. Utah record clusters into Tremonton (★3
+  unchanged); Montana record stays honest at year-precision ("Montana, 1950"
+  in-text only) — Great Falls stays ★2, narrative note in FINDINGS.
+- **RETRIEVAL_TRAIL R5 addendum** (quotes verified on page renders): Cabell's
+  "conclusion appears inescapable" (D100 p.3); AMC's founding "no physical
+  evidence... has been obtained" + "not of domestic origin" + "vehicles from
+  another planet... not been ignored" (p.8); ghost rockets' "nonmetallic slag"
+  (D099 p.3); Horten-brothers T-2 exploitation as custody-machinery yardstick.
+  §6 threads: zero R5 references, still open.
+- Tour: "The Nineteen" → **"The Twenty-Two"** (id `the-starred`), "The Night
+  Tie" → **"The Dark Hours"**, 1940s/2020s counts refreshed; site counters,
+  About, FCARDS, meta description all re-based.
+
+**Decisions**
+- **Honest-counting extensions (strict direction, never loosened)**: Navy
+  photo/intel organs → US Navy (caught D098 double-counting Tremonton ★4→★3);
+  NASC/EOP/White House merged as one institution. §1 night-bias re-based to a
+  reproducible formula (canonical incidents, time-of-day known, n=967: night
+  450 vs day-buckets 337, dark 65%) — prior addenda had computed it at raw
+  record level.
+- `FORCE_VISION` override added to extract_r2r3.py: docs whose embedded
+  war.gov OCR passes the char gate but is garbage (D098) or omits handwritten
+  annotations the official description says exist (EOP-D001 — the Welsh
+  "a curious report" + "asked State (Nesbitt)" notes only exist in vision).
+
+**Verified**
+- All 25 R5 downloads validated (magic bytes, 0 failures); extraction 0
+  failures; every addendum quote checked against rendered page scans; site
+  DOM-verified locally (counters, data counts, chapter ids, FCARD refs,
+  Bahia + Anacostia placed and starred).
+
+**Deferred/next**
+- The 16 R5 videos: candidates for tour media links (official host) if a
+  chapter ever features Gulf of Oman 2021 (its IIR is D101).
+- Tour bug found + fixed in passing: silence-deluge's highlight anchor
+  (Shreveport 2023-12-27) never resolved in shipped data — re-anchored to the
+  Western US Event (2023-10, AARO+FBI).
+
+**Notes/gotchas**
+- war.gov's embedded OCR text layers vary from decent to garbage on 1940s-50s
+  scans — the char-count gate can't tell; curate FORCE_VISION per-doc after
+  inspection. Digital-extracted word counts of garbage OCR inflate ~3× vs the
+  clean vision transcription (D098: 18.9k → 6.0k words).
+- The weekly `pursue-r5-watch` task fired late (machine off at Monday 9 AM
+  slot; ran 08-12 04:53Z) — Marsh's manual ask caught R5 first. The task's
+  cadence survives; its notification path is worth a look next time it fires.
+
 ## 2026-08-06 — Story tour shipped + repo moved to the org (group project now)
 
 **Shipped/Done**

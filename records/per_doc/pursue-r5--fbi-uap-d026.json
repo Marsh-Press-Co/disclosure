@@ -1,0 +1,53 @@
+{
+ "doc_id": "pursue-r5--fbi-uap-d026",
+ "file": "pursue-r5--fbi-uap-d026.md",
+ "source": "PURSUE-R5",
+ "agency": "FBI",
+ "title": "FBI-UAP-D026, FD-302, “Dark Translucent Triangle,” 2023",
+ "record_type": "document",
+ "index_date": "2023",
+ "index_location": "Colorado Springs, Colorado",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI FD-302 interview record regarding a UAP sighting in Colorado Springs, containing significant redactions of personal names and specific location details.",
+ "incidents": [
+  {
+   "summary": "A former Department of War employee and his wife observed a silent, translucent, triangular object flying at low altitude over their residence in Colorado Springs.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "straight path",
+    "consistent elevation",
+    "moved very quickly",
+    "banked up vertically",
+    "silent"
+   ],
+   "color": "dark gray or silver with a band of silverish blue light",
+   "country": "United States",
+   "date": "2023-10",
+   "duration": "4 seconds",
+   "explanation_status": "unexplained",
+   "location_name": "Colorado Springs, Colorado",
+   "object_count": "1",
+   "page_refs": [
+    1,
+    2,
+    3
+   ],
+   "quote": "The UAP looked like a perfect triangle, however because of his viewing angle, he couldn't definitively say whether it was isosceles or equilateral",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "triangle",
+   "size": "large SUV",
+   "time_local": "10:50 PM",
+   "witness_count": "2",
+   "witness_types": [
+    "government-civilian",
+    "civilian"
+   ]
+  }
+ ]
+}

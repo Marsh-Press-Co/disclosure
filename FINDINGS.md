@@ -1,6 +1,6 @@
-# FINDINGS — what the government's own UAP paper trail shows (PURSUE R1–R4 corpus)
+# FINDINGS — what the government's own UAP paper trail shows (PURSUE R1–R5 + NARA RG 615 corpus)
 
-*Built 2026-08-05/06, updated through the Release 2–4 ingests and the 2026-08-06
+*Built 2026-08-05/06, updated through the Release 2–5 and NARA ingests and the 2026-08-06
 review pass. Corpus: PURSUE Releases 1–4 (text inherited from the CC0
 ufo-pursue-open-atlas transcription for R1; direct war.gov acquisition +
 Gemini-vision transcription for R2–R4) + AARO reports + ODNI assessments +
@@ -223,6 +223,62 @@ quote pre-revision ★ figures in their narrative; §3 and §8 above are current
 Also fixed in the same pass: document D094's extraction re-run and its agency
 corrected to USAF (its records had fallen back to the publisher), and
 `records/encounters.csv` rebuilt (was stale at the v1 count).
+
+## Addendum — PURSUE Release 5 ingest (2026-08-12)
+
+The Department of War published Release 5 on 2026-08-07 (41 records: 22 PDFs,
+3 images, 16 videos). All documents and images are in; videos remain
+metadata-indexed and linked to their official host, per the media policy.
+Corpus 384 → **410 documents / 3.38M words / 12,594 pages**; incidents 1,455 →
+**1,483 canonical**; corroborated ★19 → **22**; encounters 516 → **528**;
+graph 4,268 → **4,344 nodes**; 996 of 1,483 on the globe. Still $0.
+
+- **Three new stars, all strictly counted.** The **Conde, Bahia (Brazil)
+  1963-11-08 crash story** enters at ★2 (Department of State + CIA) — see
+  below. **Anacostia NAS 1948-04-30** enters at ★2 (USAF + US Navy): a Navy
+  pilot's own report memo (Navy SNJ BuNo 90731, "yellow sphere estimated at
+  25-40 feet," DOW-UAP-D100 p.84) joins USAF paper already in three other
+  documents — the Navy memo is preserved *within* the Air Force's file, the
+  same originating-institution counting used for Tehran's DIA report.
+  **Hobson, Ohio 1948-05-08** enters at ★2 (USAF + FBI): the new AMC file's
+  incident list bridged an R1 FBI file record and USAF summaries.
+- **The Bahia chain is the release's best self-correction story.** A CIA/FBIS
+  wire tracks a Rio radio broadcast: a "large metal sphere" down in the center
+  of Conde, a hole four meters deep, "a human body dressed in heavy clothing"
+  inside (EOP-UAP-D001 p.1). The wire sits in NASC Executive Secretary Edward
+  Welsh's White House files, annotated in his hand — "a curious report" — with
+  a staff note: "asked State (Nesbitt) to let us know if Embassy follows with
+  any info" (11/13). The Embassy cables back within the week; the second cable's
+  verdict: "Story of strange object descending in region of Conde Bahia
+  apparently fabricated in Rio" (DOS-UAP-D002 pp.1-2). The government's own
+  paper raises AND resolves the most sensational item in Release 5 — six days,
+  three institutions. It is also the first **Executive Office of the
+  President** document in PURSUE; the star counts State + CIA (the White House
+  annotations ride on the CIA wire, and the presidential complex is merged as
+  one institution in the alias set — the strict direction).
+- **Tremonton and Great Falls get their primary analysis paper.**
+  DOW-UAP-D098 is the Navy photographic laboratory's 1953 frame-by-frame
+  analysis of *both* famous films — densitometry, luminosity-vs-angular-size
+  charts, velocity/acceleration determinations. The Utah-film analysis
+  clusters into **Tremonton 1952 (★3, unchanged — the Navy was already
+  counted; now its primary paper is attached)**. The Montana-film analysis
+  states only "Montana, 1950" in its text — historically the Great Falls
+  (Mariana) film, but the conservative clusterer will not merge a year-precision
+  record into the day-precision **Great Falls 1950-08-15 (★2)** incident on
+  history alone. The counting rules also caught this document trying to
+  inflate Tremonton to ★4: "U.S. Naval Photographic Interpretation Center" is
+  the Navy, and the alias set now says so.
+- **The FBI's triangle file is current.** Nine new FD-302 witness interviews
+  with Bureau-drawn digital renderings: triangles from 2002, 2011, and 2023,
+  plus a **2026 batch** ("Multiple Red Lights," "Slow-moving Objects" with a
+  paired FBI video, "Thermally Elevated Aerial Object"). The Bureau is still
+  taking these interviews now; the encounter table grows 516 → 528 rows.
+- **§1 re-based to a reproducible formula** (canonical incidents whose
+  time-of-day is known, n=967): night alone **450** vs morning + midday +
+  afternoon combined **337**; dark hours 630/967 = **65%**. Earlier addenda
+  computed this at raw record level; this canonical-incident formula is the
+  metric going forward. The v1 "exact tie" is long gone — the dark-hours lean
+  only strengthened. Decade counts moved with it: 1940s **328**, 2020s **533**.
 
 ## Addendum — NARA UAP Records Collection ingest (2026-08-06)
 

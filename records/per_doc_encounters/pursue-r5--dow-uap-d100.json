@@ -1,0 +1,71 @@
+{
+ "doc_id": "pursue-r5--dow-uap-d100",
+ "file": "pursue-r5--dow-uap-d100.md",
+ "source": "PURSUE-R5",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D100, Air Materiel Command Report on Unidentified Flying Objects, 1947-1948",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of Air Materiel Command and Air Force correspondence regarding Project SIGN and the investigation of unidentified aerial phenomena, containing several specific encounter reports.",
+ "encounters": [
+  {
+   "summary": "Witnesses observed two objects falling to earth from an unknown source, described as falling aircraft with smoke and debris trails.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "United States",
+   "date": "1948-03-05",
+   "date_precision": "day",
+   "location_name": "Bakersfield, California",
+   "page_refs": [
+    135
+   ],
+   "physical_effects": [
+    "smoke trail",
+    "debris"
+   ]
+  },
+  {
+   "summary": "Witness observed two objects falling to earth, one appearing to be on fire with red and black smoke.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "civilian",
+   "document_stance": "investigated",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "United States",
+   "date": "1948-03-08",
+   "date_precision": "day",
+   "location_name": "Bakersfield, California",
+   "page_refs": [
+    135
+   ],
+   "physical_effects": [
+    "fire",
+    "smoke trail"
+   ]
+  },
+  {
+   "summary": "Pilot observed a yellow sphere, 25-40 feet in diameter, moving at constant altitude.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "United States",
+   "date": "1948-04-30",
+   "date_precision": "day",
+   "entity_appearance": "yellow sphere",
+   "entity_count": "1",
+   "location_name": "Anacostia Naval Air Station, Washington D.C.",
+   "page_refs": [
+    84,
+    85
+   ]
+  }
+ ]
+}

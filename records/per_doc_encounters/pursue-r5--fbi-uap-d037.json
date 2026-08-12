@@ -1,0 +1,32 @@
+{
+ "doc_id": "pursue-r5--fbi-uap-d037",
+ "file": "pursue-r5--fbi-uap-d037.md",
+ "source": "PURSUE-R5",
+ "agency": "FBI",
+ "title": "FBI-UAP-D037, FD-302, “Multiple Red Lights,” 2026",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is an FBI FD-302 interview report documenting a civilian's account of unidentified aerial phenomena; the document contains encounter content.",
+ "encounters": [
+  {
+   "summary": "Two individuals observed multiple unidentified lights exhibiting non-linear movement, low-altitude hovering, and a localized glow in a dry wash, accompanied by a reported mechanical watch time discrepancy.",
+   "encounter_type": "physical-trace",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "date_precision": "day",
+   "entity_behavior": "moved erratically, hovered at low altitude, emitted glow",
+   "page_refs": [
+    1,
+    2,
+    3
+   ],
+   "physical_effects": [
+    "mechanical watch time discrepancy"
+   ],
+   "quote": "the lights he observed and described were unlike anything he had seen before"
+  }
+ ]
+}

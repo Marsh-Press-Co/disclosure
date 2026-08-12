@@ -1,0 +1,41 @@
+{
+ "doc_id": "pursue-r5--fbi-uap-d039",
+ "file": "pursue-r5--fbi-uap-d039.md",
+ "source": "PURSUE-R5",
+ "agency": "FBI",
+ "title": "FBI-UAP-D039, Digital Rendering 2, “Multiple Red Lights,” 2026",
+ "record_type": "document",
+ "index_date": "2026",
+ "index_location": "Western United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document consists of three pages of digital renderings depicting a UAP sighting from November 28, 2024, including technical metadata such as altitude and distance to target.",
+ "incidents": [
+  {
+   "summary": "Observation of a bright white circular object with concentric halos over a mountain range at night.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [],
+   "color": "white",
+   "date": "2024-11-28",
+   "explanation_status": "not-assessed",
+   "page_refs": [
+    1,
+    2,
+    3
+   ],
+   "quote": "bright, featureless white disc centered in the upper half, surrounded by three faint, concentric glowing halos",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "circular",
+   "time_local": "22:00",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

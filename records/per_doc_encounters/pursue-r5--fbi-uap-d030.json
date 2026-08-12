@@ -1,0 +1,33 @@
+{
+ "doc_id": "pursue-r5--fbi-uap-d030",
+ "file": "pursue-r5--fbi-uap-d030.md",
+ "source": "PURSUE-R5",
+ "agency": "FBI",
+ "title": "FBI-UAP-D030, FD-302, “Large Triangle with Red Lights,” 2023",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is an FBI FD-302 interview report documenting a civilian's sighting of a triangular aerial object, which includes a report of electronic interference during a subsequent phone call.",
+ "encounters": [
+  {
+   "summary": "A witness observed a large, solid black triangular object with red lights at each corner emerging from a pixelated cloud, exhibiting non-conventional flight maneuvers and high-speed acceleration.",
+   "encounter_type": "close-approach",
+   "claimant_type": "civilian",
+   "document_stance": "recorded-no-comment",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "United States",
+   "date": "2023-10",
+   "date_precision": "month",
+   "location_name": "Colorado Springs",
+   "page_refs": [
+    1,
+    2
+   ],
+   "physical_effects": [
+    "electronic interference"
+   ],
+   "quote": "saw what appeared to be a dark-gray colored cloud phasing into his sight"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "doc_id": "pursue-r5--fbi-uap-d030",
+ "file": "pursue-r5--fbi-uap-d030.md",
+ "source": "PURSUE-R5",
+ "agency": "FBI",
+ "title": "FBI-UAP-D030, FD-302, “Large Triangle with Red Lights,” 2023",
+ "record_type": "document",
+ "index_date": "2023",
+ "index_location": "Colorado Springs, Colorado",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI FD-302 interview report regarding a UAP sighting in Colorado Springs, containing heavy redactions of personal names and specific locations.",
+ "incidents": [
+  {
+   "summary": "A witness observed a large, solid black triangular object with red lights at each corner emerging from a dark-gray cloud, exhibiting instantaneous acceleration and unusual banking maneuvers.",
+   "date_precision": "month",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "stationary",
+    "steady speed",
+    "instantaneous acceleration",
+    "banking",
+    "waves radiating from object"
+   ],
+   "color": "black, red",
+   "country": "United States",
+   "date": "2023-10",
+   "duration": "unknown",
+   "explanation": "not assessed",
+   "explanation_status": "not-assessed",
+   "location_name": "Colorado Springs, Colorado",
+   "object_count": "1",
+   "page_refs": [
+    1,
+    2
+   ],
+   "quote": "saw a constant, diffuse red light on the bottom front point of a solid black triangular shaped object",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "equilateral triangle",
+   "size": "3-5 stories thick",
+   "time_local": "20:00-21:30",
+   "witness_count": "1",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

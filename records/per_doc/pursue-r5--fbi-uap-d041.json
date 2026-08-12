@@ -1,0 +1,47 @@
+{
+ "doc_id": "pursue-r5--fbi-uap-d041",
+ "file": "pursue-r5--fbi-uap-d041.md",
+ "source": "PURSUE-R5",
+ "agency": "FBI",
+ "title": "FBI-UAP-D041, Digital Rendering 1, “Multiple Red Lights,” 2026",
+ "record_type": "document",
+ "index_date": "2026",
+ "index_location": "Western United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a collection of digital renderings created by the FBI in 2026 as visual aids for the PURSUE initiative, based on descriptions from a separate report (FBI-UAP-D040).",
+ "incidents": [
+  {
+   "summary": "A series of digital renderings depicting an increasing number of red light clusters in triangular formations over a desert mountain range.",
+   "date_precision": "year",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "hovering"
+   ],
+   "color": "red",
+   "country": "United States",
+   "date": "2026",
+   "explanation_status": "not-assessed",
+   "location_name": "Western United States",
+   "page_refs": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "quote": "small, bright cluster of three red lights arranged in a triangular formation",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "triangular formation",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "doc_id": "pursue-r5--dow-uap-d101",
+ "file": "pursue-r5--dow-uap-d101.md",
+ "source": "PURSUE-R5",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D101, Intelligence Information Report, Unresolved UAP Report, Gulf of Oman, 2021",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is an intelligence information report regarding UAP observations by a USSOF AC-130 gunship crew, and it contains detailed encounter reports.",
+ "encounters": [
+  {
+   "summary": "During a live-fire training exercise, an AC-130 gunship crew observed two cold orbs stationary over a flare, which then rapidly departed upon the firing of the aircraft's cannon.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "OM",
+   "date": "2021-09-08",
+   "date_precision": "day",
+   "entity_appearance": "cold orbs, approximately four-foot diameter",
+   "entity_behavior": "stationary, then rapidly flew away without changing altitude",
+   "entity_count": "2",
+   "location_name": "Gulf of Oman",
+   "page_refs": [
+    2,
+    5
+   ],
+   "quote": "observed two approximately four-foot diameter cold orbs"
+  },
+  {
+   "summary": "AC-130 crew observed approximately 25 instances of UAPs maneuvering in coordinated formations, including erratic movements and aggressive behavior.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "country": "OM",
+   "date": "2021-09-08",
+   "date_precision": "day",
+   "entity_appearance": "cold orbs",
+   "entity_behavior": "coordinated formation, maneuvering like dolphins in a pod, erratic, aggressive",
+   "entity_count": "25",
+   "location_name": "Gulf of Oman",
+   "page_refs": [
+    2,
+    5
+   ],
+   "quote": "maneuvering around, over, and under each other in a manner similar to how dolphins playfully swim in a pod"
+  }
+ ]
+}

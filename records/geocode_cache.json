@@ -3608,5 +3608,31 @@
   "lat": 42.0841936,
   "lon": -88.0131275,
   "display": "Rolling Meadows, Palatine Township, Cook County, Illinois, 60008, United States"
+ },
+ "Sweden, Finland, Denmark, Norway": null,
+ "Belgium, Greece, Italy, Morocco, Austria": null,
+ "Dravasburg, Pa., United States": null,
+ "Dravasburg, Pa.": null,
+ "Salvador, Brazil, Brazil": null,
+ "Salvador, Brazil": {
+  "lat": -12.9822499,
+  "lon": -38.4812772,
+  "display": "Salvador, Bahia, Regi\u00e3o Nordeste, Brasil"
+ },
+ "Atlantic Fleet Weapons Range, Puerto Rico": null,
+ "Atlantic Fleet Weapons Range": null,
+ "Bagram, Afghanistan": {
+  "lat": 34.9333734,
+  "lon": 69.2341077,
+  "display": "\u0628\u06af\u0631\u0627\u0645, \u0648\u0644\u0633\u0648\u0627\u0644\u06cc \u0628\u06af\u0631\u0627\u0645, \u0648\u0644\u0627\u06cc\u062a \u067e\u0631\u0648\u0627\u0646, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646"
+ },
+ "Gulf of Oman, Oman": null,
+ "Northeast towards Gander, Canada, Canada": null,
+ "Northeast towards Gander, Canada": null,
+ "North Dakota region, United States": null,
+ "North Dakota region": {
+  "lat": 48.1151606,
+  "lon": -98.8593592,
+  "display": "Lake Region Public Library, 423, 7th Street Northeast, Devils Lake, Ramsey County, North Dakota, 58301, United States"
  }
 }

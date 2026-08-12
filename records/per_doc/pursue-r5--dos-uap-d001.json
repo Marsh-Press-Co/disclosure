@@ -1,0 +1,62 @@
+{
+ "doc_id": "pursue-r5--dos-uap-d001",
+ "file": "pursue-r5--dos-uap-d001.md",
+ "source": "PURSUE-R5",
+ "agency": "Department of State",
+ "title": "DOS-UAP-D001, Diplomatic Cable, Brazil, November 14, 1963",
+ "record_type": "document",
+ "index_date": "11/14/63",
+ "index_location": "Bahia, Brazil",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a U.S. Department of State diplomatic cable regarding the verification of a local newspaper report about a crashed balloon in Brazil.",
+ "incidents": [
+  {
+   "summary": "Local newspaper report of a large metal manned balloon crash near Salvador, Brazil, with a dead crewman in a spacesuit.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "crashed"
+   ],
+   "color": "unknown",
+   "country": "Brazil",
+   "date": "1963-11-08",
+   "explanation": "The Department of State assessed the report as inauthentic and no object was found.",
+   "explanation_status": "explained",
+   "location_name": "Salvador, Brazil",
+   "page_refs": [
+    1
+   ],
+   "quote": "large metal manned balloon had been found vicinity Salvador",
+   "recording_agency": "Department of State",
+   "shape": "balloon",
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "Sighting of an object identified as a weather-type balloon in the vicinity of Salvador.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "sighted"
+   ],
+   "country": "Brazil",
+   "date": "1963-11-08",
+   "explanation": "Tentatively identified as a weather-type balloon.",
+   "explanation_status": "explained",
+   "location_name": "Salvador, Brazil",
+   "page_refs": [
+    1
+   ],
+   "quote": "object had been sighted in that vicinity around that date",
+   "recording_agency": "Department of State",
+   "shape": "balloon",
+   "witness_types": [
+    "unknown"
+   ]
+  }
+ ]
+}

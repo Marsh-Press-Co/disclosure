@@ -1,5 +1,9 @@
-"""Build corpus/pursue-r2--record-index.md and corpus/pursue-r3--record-index.md
-from the official war.gov master CSV (raw/pursue-r2r3/uap-data-master.csv).
+"""Build corpus/pursue-rN--record-index.md (R2..R5) from the official war.gov
+master CSV (raw/pursue-r2r3/uap-data-master.csv).
+
+csv_saved is per-release (the date the CSV snapshot covering that release was
+taken) so re-running never rewrites older releases' index docs byte-for-byte
+identically dated - keeps the graphify semantic cache warm.
 
 Covers ALL records in each release (PDF / video / image / audio) with
 official metadata, description blurbs, and video<->document pairings - same
@@ -19,9 +23,10 @@ OUT_DIR = ROOT / "corpus"
 
 TYPE_NAMES = {"PDF": "Documents (PDF)", "IMG": "Images", "VID": "Videos", "AUD": "Audio"}
 RELEASES = [
-    {"date": "5/22/26", "label": "PURSUE-R2", "id": "pursue-r2", "num": "2", "published": "2026-05-22"},
-    {"date": "6/12/26", "label": "PURSUE-R3", "id": "pursue-r3", "num": "3", "published": "2026-06-12"},
-    {"date": "7/10/26", "label": "PURSUE-R4", "id": "pursue-r4", "num": "4", "published": "2026-07-10"},
+    {"date": "5/22/26", "label": "PURSUE-R2", "id": "pursue-r2", "num": "2", "published": "2026-05-22", "csv_saved": "2026-08-06"},
+    {"date": "6/12/26", "label": "PURSUE-R3", "id": "pursue-r3", "num": "3", "published": "2026-06-12", "csv_saved": "2026-08-06"},
+    {"date": "7/10/26", "label": "PURSUE-R4", "id": "pursue-r4", "num": "4", "published": "2026-07-10", "csv_saved": "2026-08-06"},
+    {"date": "8/7/26", "label": "PURSUE-R5", "id": "pursue-r5", "num": "5", "published": "2026-08-07", "csv_saved": "2026-08-12"},
 ]
 
 
@@ -64,7 +69,7 @@ def main():
             'record_type: "index"',
             'incident_date: ""',
             'incident_location: ""',
-            f'description: "Official war.gov index metadata (uap-data.csv, saved 2026-08-06) for every Release {rel["num"]} record. Non-PDF records (video/audio, and images already transcribed separately) have no transcribed text of their own but carry dates, locations, agencies, and description blurbs here, plus document<->video/image pairings."',
+            f'description: "Official war.gov index metadata (uap-data.csv, saved {rel["csv_saved"]}) for every Release {rel["num"]} record. Non-PDF records (video/audio, and images already transcribed separately) have no transcribed text of their own but carry dates, locations, agencies, and description blurbs here, plus document<->video/image pairings."',
             "pages: 1",
             'provenance: "war.gov uap-data.csv (official master index), filtered by Release Date"',
             "---",

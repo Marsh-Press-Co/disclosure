@@ -1,0 +1,33 @@
+{
+ "doc_id": "pursue-r5--dos-uap-d001",
+ "file": "pursue-r5--dos-uap-d001.md",
+ "source": "PURSUE-R5",
+ "agency": "Department of State",
+ "title": "DOS-UAP-D001, Diplomatic Cable, Brazil, November 14, 1963",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a Department of State diplomatic cable from 1963 regarding a false report of a crashed object and occupant, which the document explicitly dismisses.",
+ "encounters": [
+  {
+   "summary": "A local newspaper report claimed a large metal unmanned balloon with a dead crewman in a spacesuit was found in a 10-meter crater near Salvador, which the embassy clarified was false.",
+   "encounter_type": "occupant-report",
+   "claimant_type": "civilian",
+   "document_stance": "dismissed",
+   "confidence": "medium",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "Brazil",
+   "date": "1963-11-08",
+   "date_precision": "day",
+   "entity_appearance": "dead crewman wearing uniform or spacesuit with strange markings",
+   "location_name": "Salvador",
+   "page_refs": [
+    1
+   ],
+   "physical_effects": [
+    "10-meter crater"
+   ],
+   "quote": "dead crewman aboard wearing uniform or spacesuit with strange markings"
+  }
+ ]
+}

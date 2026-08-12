@@ -1,0 +1,47 @@
+{
+ "doc_id": "pursue-r5--eop-uap-d001",
+ "file": "pursue-r5--eop-uap-d001.md",
+ "source": "PURSUE-R5",
+ "agency": "Executive Office of the President",
+ "title": "EOP-UAP-D001, NASC Inquiry into Bahia, Brazil Incident, November 13, 1963",
+ "record_type": "document",
+ "index_date": "11/13/63",
+ "index_location": "Bahia, Brazil",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a CIA FBIS wire report regarding a reported crash in Brazil, annotated by NASC officials requesting diplomatic verification.",
+ "incidents": [
+  {
+   "summary": "A large metal sphere reportedly crashed in the center of Conde, Bahia, creating a four-meter deep hole and containing a deceased occupant in heavy clothing.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "crashed"
+   ],
+   "color": "",
+   "country": "Brazil",
+   "date": "1963-11-08",
+   "duration": "",
+   "explanation": "",
+   "explanation_status": "not-assessed",
+   "location_name": "Conde, Bahia",
+   "object_count": "1",
+   "page_refs": [
+    1
+   ],
+   "quote": "A LARGE METAL SPHERE FELL IN THE CENTER OF THE CITY, GOUGING A HOLE FOUR METERS DEEP.",
+   "recording_agency": "CIA",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "sphere",
+   "size": "large",
+   "time_local": "2330",
+   "witness_count": "",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

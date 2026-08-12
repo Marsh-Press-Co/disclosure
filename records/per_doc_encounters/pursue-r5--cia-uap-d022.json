@@ -1,0 +1,33 @@
+{
+ "doc_id": "pursue-r5--cia-uap-d022",
+ "file": "pursue-r5--cia-uap-d022.md",
+ "source": "PURSUE-R5",
+ "agency": "CIA",
+ "title": "CIA-UAP-D022, Unidentified Flying Object Reported near Puerto Rico, 1965",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is a CIA memorandum regarding the investigation of a high-speed, high-altitude UFO sighting near Puerto Rico in November 1964, which includes radar analysis.",
+ "encounters": [
+  {
+   "summary": "A US Navy pilot observed a high-speed object near the USS Gyatt off the coast of Puerto Rico, which was also tracked on radar.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": false,
+   "communication_method": "none",
+   "country": "Puerto Rico",
+   "date": "1964-11-19",
+   "date_precision": "day",
+   "location_name": "vicinity of Puerto Rico",
+   "page_refs": [
+    3,
+    4
+   ],
+   "physical_effects": [
+    "radar tracking"
+   ],
+   "quote": "US Navy F-4C pilot was able to distinguish the object as a delta shape about the size of a jet fighter"
+  }
+ ]
+}

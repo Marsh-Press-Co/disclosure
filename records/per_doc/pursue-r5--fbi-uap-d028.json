@@ -1,0 +1,49 @@
+{
+ "doc_id": "pursue-r5--fbi-uap-d028",
+ "file": "pursue-r5--fbi-uap-d028.md",
+ "source": "PURSUE-R5",
+ "agency": "FBI",
+ "title": "FBI-UAP-D028, FD-302, “Dark Triangle with Lights,” 2011",
+ "record_type": "document",
+ "index_date": "2011",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI FD-302 interview record from 2025 regarding a UAP sighting that occurred in 2011; it contains redactions of names and specific locations.",
+ "incidents": [
+  {
+   "summary": "Two former military service members observed a massive black triangular object with three white lights in the corners while leaving a driveway in the evening.",
+   "date_precision": "month",
+   "time_of_day": "evening",
+   "confidence": "high",
+   "behavior": [
+    "flying North",
+    "low to the ground",
+    "low humming noise",
+    "pulsing sound",
+    "moving slowly and steadily"
+   ],
+   "color": "black, white, grayish or graphite",
+   "date": "2011-06",
+   "duration": "10-15 seconds",
+   "explanation_status": "not-assessed",
+   "object_count": "1",
+   "page_refs": [
+    1,
+    2
+   ],
+   "quote": "saw a massive black isosceles triangle shaped object flying North.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "isosceles triangle",
+   "size": "200 feet long and 100 feet wide",
+   "time_local": "20:00-21:00",
+   "witness_count": "3",
+   "witness_types": [
+    "military-other"
+   ]
+  }
+ ]
+}

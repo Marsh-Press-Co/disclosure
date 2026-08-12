@@ -1,0 +1,96 @@
+{
+ "doc_id": "pursue-r5-record-index",
+ "file": "pursue-r5--record-index.md",
+ "source": "PURSUE-R5",
+ "agency": "Department of War",
+ "title": "PURSUE Release 5 - official record index (all 41 records: documents, videos, images, audio)",
+ "record_type": "index",
+ "index_date": "",
+ "index_location": "",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an official index of 41 UAP-related records released by the Department of War in 2026.",
+ "incidents": [
+  {
+   "summary": "U.S. Special Operations Forces AC-130 aircrew observed approximately 25 unidentified 'cold orbs' during a training exercise.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "stationary",
+    "maneuvering aggressively",
+    "flying in various formations",
+    "reacting to weapons systems"
+   ],
+   "country": "Oman",
+   "date": "2021-09-08",
+   "explanation_status": "unexplained",
+   "location_name": "Gulf of Oman",
+   "object_count": "25",
+   "page_refs": [
+    1
+   ],
+   "quote": "The report describes the UAP as stationary, approximately four feet in diameter, 0-20 feet above the water’s surface.",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual",
+    "ir"
+   ],
+   "size": "4 feet in diameter",
+   "witness_types": [
+    "military-other"
+   ]
+  },
+  {
+   "summary": "U.S. Naval aviator and USS Gyatt radar observed a delta-shaped object moving at high velocity.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "country": "Puerto Rico",
+   "date": "1964-11-19",
+   "explanation_status": "unexplained",
+   "location_name": "Caribbean Sea",
+   "object_count": "1",
+   "page_refs": [
+    1
+   ],
+   "quote": "delta-shaped, about the size of a jet fighter",
+   "recording_agency": "CIA",
+   "sensors": [
+    "visual",
+    "radar"
+   ],
+   "shape": "delta-shaped",
+   "size": "size of a jet fighter",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "U.S. Government Special Agent observed slow-moving objects in the western United States.",
+   "date_precision": "year",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "slow-moving"
+   ],
+   "country": "United States",
+   "date": "2026",
+   "explanation_status": "unexplained",
+   "location_name": "Western United States",
+   "object_count": "2",
+   "page_refs": [
+    1
+   ],
+   "quote": "The footage features two, slow-moving “black-hot” areas of contrast",
+   "recording_agency": "FBI",
+   "sensors": [
+    "ir"
+   ],
+   "time_local": "4:00 PM",
+   "witness_types": [
+    "federal-le"
+   ]
+  }
+ ]
+}

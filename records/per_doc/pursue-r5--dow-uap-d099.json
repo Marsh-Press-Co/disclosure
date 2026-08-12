@@ -1,0 +1,93 @@
+{
+ "doc_id": "pursue-r5--dow-uap-d099",
+ "file": "pursue-r5--dow-uap-d099.md",
+ "source": "PURSUE-R5",
+ "agency": "Department of War",
+ "title": "DOW-UAP-D099, Intelligence Review of “Ghost Rocket” Incidents, 1947",
+ "record_type": "document",
+ "index_date": "1/9/47",
+ "index_location": "Sweden",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a 1947 intelligence review by the U.S. Department of War regarding the 'Ghost Rocket' phenomena in Scandinavia, noting the shift in Swedish official explanations from Soviet technology to celestial origins.",
+ "incidents": [
+  {
+   "summary": "Swedish Air Force pilot observed a dark, cigar-shaped object while flying over central Sweden.",
+   "date_precision": "day",
+   "time_of_day": "morning",
+   "confidence": "high",
+   "behavior": [
+    "maintaining constant altitude",
+    "following terrain"
+   ],
+   "color": "dark",
+   "country": "Sweden",
+   "date": "1946-08-14",
+   "explanation_status": "not-assessed",
+   "object_count": "1",
+   "page_refs": [
+    4
+   ],
+   "quote": "saw a dark, cigar-shaped object about 50 feet long and 3 feet in diameter",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "cigar-shaped",
+   "size": "50 feet long, 3 feet in diameter",
+   "time_local": "1000",
+   "witness_count": "1",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "General reports of 'Ghost Rockets' over Scandinavia, including Sweden, Finland, Denmark, and Norway.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "horizontal flight",
+    "diving into ground",
+    "diving into lakes",
+    "exploding in air"
+   ],
+   "color": "fire",
+   "country": "Sweden, Finland, Denmark, Norway",
+   "date": "1946-05",
+   "explanation_status": "partially-explained",
+   "page_refs": [
+    3
+   ],
+   "quote": "The two most common descriptions of the missiles were 'a ball of fire with a tail' and a 'shiny cigar-shaped object.'",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "ball of fire, cigar-shaped",
+   "witness_types": [
+    "civilian"
+   ]
+  },
+  {
+   "summary": "Reports of flying objects over various points in Europe and Africa.",
+   "date_precision": "month",
+   "time_of_day": "unknown",
+   "confidence": "low",
+   "country": "Belgium, Greece, Italy, Morocco, Austria",
+   "date": "1946-09",
+   "explanation_status": "explained",
+   "page_refs": [
+    5
+   ],
+   "quote": "flying objects were reported over widely separate points in Europe and Africa",
+   "recording_agency": "Department of War",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "unknown"
+   ]
+  }
+ ]
+}

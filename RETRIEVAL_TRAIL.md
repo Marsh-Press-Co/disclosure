@@ -253,3 +253,43 @@ added weak/noise-tier leads only, none rose to strong.*
 - **R2-R4 are now fully swept.** The remaining named next step per §6's
   original list is NARA RG 615 and the NSA's May 2026 "Top Secret Umbra"
   release, both still outside authorized scope.
+
+## Addendum — PURSUE Release 5 sweep (2026-08-12)
+
+*Corpus grew 384 → 410 documents; the sweep rerun found 3,035 lexicon hits
+(was 2,962) and the lead evaluator 96 non-noise leads (was 92), 31 strong
+(unchanged) — R5's additions land in the machinery and denial ledger, not in
+custody claims. All quotes below verified against the page scans.*
+
+- **The founding denial gets its founding document.** DOW-UAP-D100 is a
+  245-page Project SIGN-era file from the exact command §1's machinery ran
+  through. In it: Maj. Gen. C. P. Cabell (USAF Director of Intelligence)
+  writes AMC on 3 Nov 1948 that "the conclusion appears inescapable that some
+  type of flying object has been observed" and demands evidence "until
+  conclusive evidence is obtained" (p.3). AMC's reply carries the ledger's
+  cornerstone line: **"So far, no physical evidence of the existence of the
+  unidentified sightings has been obtained"** (p.8) — the same language family
+  as the 1947 Twining/AMC "no crash recovered exhibits" entry in §4, one year
+  later, still candid, still secret-at-the-time. The same page holds the
+  tension in both directions: "all information... indicates that the discs,
+  the cigar shaped objects, and the 'balls of light' are not of domestic
+  origin" (¶7), and "the possibility that the reported objects are vehicles
+  from another planet has not been ignored... tangible evidence to support
+  conclusions about such a possibility are completely lacking" (¶8).
+- **The earliest fragment recovery in the corpus is slag.** DOW-UAP-D099
+  (intelligence digest feature, "'Ghost Rockets' over Scandinavia," 1946-47):
+  "In no case have fragments been found other than bits of material described
+  as 'nonmetallic slag'" (p.3). Fragments were recovered and characterized —
+  and the government's own characterization is as mundane as it gets.
+- **Custody-machinery texture, from when the hardware was real**: the same
+  AMC file documents T-2 intelligence exploiting the Horten brothers' flying-
+  wing work (proposed interrogations, RAE technical notes, pp.76, 101) —
+  a working example of what §1's recovery-and-analysis machine did with
+  *terrestrial* unknown aircraft, and the yardstick for what a real UAP
+  custody chain would have generated on paper.
+- **Open threads #1-4 — still fully open.** Direct text search across all 25
+  R5 documents: zero references to the 1964 Socorro sample, the Milwaukee
+  object, the "Ia. case" field file, or Serial 164. The Bahia, Brazil "sphere
+  with a body" chain (see FINDINGS R5 addendum) is the release's only
+  biologics-adjacent item, and the State Department's own cable closes it:
+  "apparently fabricated in Rio."

@@ -1,0 +1,13 @@
+cache: 370 files hit, 40 to extract
+  chunk done (1, 9)
+  chunk done (2, 9)
+  chunk done (0, 9)
+  chunk done (3, 9)
+  chunk done (4, 9)
+  chunk done (5, 9)
+  chunk done (6, 9)
+  chunk done (7, 9)
+  chunk done (8, 9)
+extracted in 36s: 124 nodes, 84 edges, tokens 169,752 in / 22,571 out
+saved 34 files to semantic cache
+semantic total: 4817 nodes, 3583 edges, 613 hyperedges -> .graphify_semantic.json

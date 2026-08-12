@@ -1,0 +1,32 @@
+{
+ "doc_id": "pursue-r5--fbi-uap-d024",
+ "file": "pursue-r5--fbi-uap-d024.md",
+ "source": "PURSUE-R5",
+ "agency": "FBI",
+ "title": "FBI-UAP-D024, FD-302, “Airborne Lights and Triangle,” 2002, 2023-2024",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This is an FBI FD-302 interview report regarding pilot observations of aerial phenomena, containing one specific encounter report of a triangle-shaped object.",
+ "encounters": [
+  {
+   "summary": "A pilot observed a large, silent, equilateral triangle-shaped object blocking out stars while stationed in Bagram, Afghanistan.",
+   "encounter_type": "close-approach",
+   "claimant_type": "military",
+   "document_stance": "investigated",
+   "confidence": "high",
+   "claimant_firsthand": true,
+   "communication_method": "none",
+   "country": "Afghanistan",
+   "date": "2002-06",
+   "date_precision": "month",
+   "entity_appearance": "equilateral triangle shape, estimated 500 feet in size",
+   "entity_behavior": "moving silently at a consistent speed and altitude",
+   "location_name": "Bagram",
+   "page_refs": [
+    2,
+    3
+   ],
+   "quote": "It appeared as if something huge went overhead, from west to east, and was an equilateral triangle shape."
+  }
+ ]
+}

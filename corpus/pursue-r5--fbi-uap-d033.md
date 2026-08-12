@@ -1,0 +1,68 @@
+---
+id: "pursue-r5--fbi-uap-d033"
+title: "FBI-UAP-D033, FD-302, “Thermally Elevated Aerial Object,” 2026"
+source: PURSUE-R5
+source_url: "https://www.war.gov/medialink/ufo/release_05/Aug_07/documents/FBI-UAP-D033_FD-302_Thermally-Elevated-Aerial-Object_2026.pdf"
+agency: "FBI"
+record_type: "document"
+published: "8/7/26"
+incident_date: "2026"
+incident_location: "Western United States"
+description: "This document is an FBI FD-302, a form the Federal Bureau of Investigation (FBI) uses to record interviews. This FD-302 records a 2026 interview with a U.S. Government Special Agent, in which the interviewee describes an incident potentially involving unidentified anomalous phenomena (UAP) in the western United States, at approximately 9:00 PM local time, in 2026."
+pages: 2
+source_sha256: "bea21a52d0bfcf82ca2845628f39aeaaeccb447a924babfd448ab89a57f5eb02"
+provenance: "born-digital government PDF, text extracted with pypdf 6.14.2"
+---
+
+# FBI-UAP-D033, FD-302, “Thermally Elevated Aerial Object,” 2026
+
+## Page 1
+
+- 1 of 2 -
+FD-302 (Rev. 5-8-10) 
+FEDERAL BUREAU OF INVESTIGA TION 
+Date of entry -----
+On or about - /2026 , 
+received from 
+- Special Agent a written 
+statement signed by llll special Agent statement will 
+be attached t o this FD- 302 and is provid ed verbatim below for ease o f 
+reading : 
+" Unidentif ied Aerial Object Obs ervati on Rep ort evening of 1111 126 
+"On _ , 2026 , at approximately 21 00 hours, I, 
+Special Agent 
+posit i oned in the same general observation area reference d in my prior 
+statement fr om . While conducting observat i on i n the area, I 
+obs erve d a therma lly e l evate d aerial ob ject in the same genera l western 
+sector and along a s i milar heading as t he ob ject obs erved t he previous 
+night . 
+The object appeared appr oxima te ly two ridge lines f arther west t h an the 
+l oca tion where the ob ject was obs erved. Due t o the increased 
+distance and terrain separation , I was unabl e t o i dentify specific physical 
+characteristics of t h e object or determine its exact c onfigur ati on . However, 
+the ob ject presented as a hot aerial object t h roug h therma l observation and 
+appeare d t o be f lying southbound , consistent with the general dir ecti on of 
+travel observed during t h e pri o r n i ght 's sighting _ 
+During this same operati ona l peri od, I als o recorded video o f a u _s . Army 
+Black Hawk he l icopter operating in the same general area . The purp ose of 
+recording the h e licop ter was t o estab lis h a v i sual and therma l reference 
+point for sca l e, flight characteristics, and comparative size assessment . 
+Based on my observati on and compar i son t o the Black Hawk he licopter , t h e 
+u nidentified aeria l obj ect appeared t o be approximately ha l f the size of t h e 
+Bl ack Hawk . This size comparison is an estimate onl y , base d on obs erved 
+appearance, di stance, and availab l e reference footage . 
+I was unable to determine the object ' s make , mode l, propulsion type, or 
+Investigation on 
+by 
+This document contains neither recommendations nor conclusions ofthe FBI. It is the property ofthe FBI and is loaned to your agency; it and its contents are not 
+to be distributed outside your agency.
+
+## Page 2
+
+FD-302a (Rev. 5-8-10) 
+Statement of - SA -
+Continuation ofFD-302 of ___________________ ,On __,Page 2 of 2 
+whe t her it was a f i xed - wi ng , rotar y- wing, o r o ther unmanne d aer i al sys tem 
+due t o the distance and limited observable detai l - The objec t con t inued 
+southbound and was event u a lly l ost fr om obs e rvat ion due t o terrai n and 
+distance .

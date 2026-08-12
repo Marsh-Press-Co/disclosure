@@ -1,0 +1,45 @@
+{
+ "doc_id": "pursue-r5--fbi-uap-d027",
+ "file": "pursue-r5--fbi-uap-d027.md",
+ "source": "PURSUE-R5",
+ "agency": "FBI",
+ "title": "FBI-UAP-D027, Digital Rendering, “Dark Translucent Triangle,” 2023",
+ "record_type": "document",
+ "index_date": "2023",
+ "index_location": "Colorado Springs, Colorado",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document consists of five pages of digital renderings created by the FBI in 2026 to illustrate a UAP sighting reported in October 2023 near Colorado Springs.",
+ "incidents": [
+  {
+   "summary": "A reported UAP sighting in a residential backyard in Colorado Springs, described as a dark, translucent, trapezoidal or rectangular object with horizontal or vertical banding.",
+   "date_precision": "month",
+   "time_of_day": "night",
+   "confidence": "medium",
+   "behavior": [
+    "hovering"
+   ],
+   "color": "dark, white light",
+   "country": "United States",
+   "date": "2023-10",
+   "location_name": "Colorado Springs, Colorado",
+   "page_refs": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "quote": "a glowing, semi-transparent, trapezoidal or disc-shaped object characterized by distinct horizontal banding",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "trapezoidal, rectangular, triangular, disc",
+   "witness_count": "2",
+   "witness_types": [
+    "government-civilian"
+   ]
+  }
+ ]
+}

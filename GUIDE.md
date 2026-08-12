@@ -6,12 +6,12 @@ https://marsh-press-co.github.io/disclosure/*
 ## What this is
 
 Five official U.S. government sources — the Department of War's PURSUE
-Releases 1–4 (war.gov/UFO) and the National Archives UAP Records Collection
+Releases 1–5 (war.gov/UFO) and the National Archives UAP Records Collection
 (RG 615), plus AARO/ODNI reports and congressional testimony — read in full
-(384 documents, 12,258 pages, 3.3M words), structured into **1,455 canonical
-incidents** with page-level citations, cross-agency corroboration (★19,
-strictly counted), **516 encounter records** with claimant strata, a
-4,268-node knowledge graph, a materiel/biologics evidence dossier
+(410 documents, 12,594 pages, 3.38M words), structured into **1,483 canonical
+incidents** with page-level citations, cross-agency corroboration (★22,
+strictly counted), **528 encounter records** with claimant strata, a
+4,344-node knowledge graph, a materiel/biologics evidence dossier
 (`RETRIEVAL_TRAIL.md`), and a story-tour globe. Total cash cost: $0.
 
 ## Architecture (pipeline order)
@@ -43,8 +43,9 @@ graph extraction (separate quota buckets).
 - **Navaid geocoding** — FAA reports use VOR waypoints; a lookup table would
   place ~100 more modern incidents on the globe.
 - **Site polish** — mobile pass, og:image card, accessibility.
-- **R5 watch** — a scheduled check watches war.gov for Release 5; when it
-  lands, `HANDOFF-R2.md` is the ingest runbook pattern.
+- **Next-release watch** — a scheduled check watches war.gov for new PURSUE
+  tranches (it caught Release 5, ingested 2026-08-12); when one lands,
+  `HANDOFF-R2.md` is the ingest runbook pattern.
 
 ## The rules that keep this credible
 

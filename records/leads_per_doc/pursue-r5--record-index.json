@@ -1,0 +1,17 @@
+{
+ "doc": "pursue-r5--record-index.md",
+ "leads": [
+  {
+   "page": 1,
+   "lead_type": "biological",
+   "claim": "A radio broadcast reported a large metal sphere crash in Brazil containing a deceased occupant.",
+   "strength": "weak",
+   "why": "The document reports on a media broadcast of an event rather than providing evidence of government custody or verification of the claim.",
+   "claimant": "Rio de Janeiro radio broadcast",
+   "material_description": "Large metal sphere containing a deceased occupant",
+   "outcome_in_document": "unresolved",
+   "quote": "alleged crash of a “large metal sphere” containing a deceased occupant"
+  }
+ ],
+ "doc_verdict": "The document does not contain evidence of obtained material, explicitly stating that no physical evidence of unidentified sightings has been obtained."
+}

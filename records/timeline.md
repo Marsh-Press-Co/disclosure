@@ -1,7 +1,7 @@
 # UAP incident timeline - as recorded by the U.S. government
 
-Built from 1937 extracted records across the corpus -> 1455 canonical incidents (1280 dated, 175 undated).
-★ = corroborated by 2+ independent agencies (19 incidents).
+Built from 1980 extracted records across the corpus -> 1483 canonical incidents (1306 dated, 177 undated).
+★ = corroborated by 2+ independent agencies (22 incidents).
 
 Quotes are VLM transcriptions - verify against source pages before citing.
 
@@ -16,12 +16,12 @@ Quotes are VLM transcriptions - verify against source pages before citing.
 - **1947-06-28** Rockfield, Wisconsin - Seven to ten saucer-shaped objects observed flying south. — ★2 (USAF, FBI)
 - **1947-07-07** Muroc Army Air Field, Muroc, California - Yellowish white sphere observed oscillating in a forward whirling movement. — ★2 (FBI, USAF)
 - **1947-07-29** Canyon Ferry, Montana - Polished nickel disc observed hovering and swooping. — ★2 (USAF, FBI)
+- **1948-04-30** Anacostia, Naval Air Station - Yellow spherical object observed by pilot. — ★2 (USAF, US Navy)
+- **1948-05-08** Hobson, Ohio - Four witnesses observed a round, phosphorescent object moving at high speed with a phosphorescent trail at an altitude of 6-8 miles. — ★2 (USAF, FBI)
 - **1948-07-24** Montgomery, Alabama - Airline pilots observed a cigar-shaped object with a red-orange flame and blue glow. — ★2 (USAF, FBI)
 - **1948-07-26** United States - Two pilots observed a huge wingless flying craft. — ★2 (USAF, FBI)
 - **1948-12** Starvation Peak, New Mexico - Dr. Lincoln La Paz observed a green fireball phenomenon near Starvation Peak, New Mexico. — ★2 (FBI, AEC/DOE)
 - **1949-01-30** New Mexico - Green fireball reported over New Mexico. — ★2 (AEC/DOE, USAF)
-- **1950-08-15** Great Falls, Montana - Great Falls, Montana sighting. — ★2 (CIA, USAF)
-- **1955-10-04** Between Atjaty and Adzhijabul - Three US observers (Senator Richard Russell, Lt. Col. E.U. Hathaway, and Mr. Ruben Efron) witnessed two unconventional disc-shaped aircraft  — ★2 (US Air Attache, CIA)
 
 ## 1940s
 
@@ -56,7 +56,10 @@ Quotes are VLM transcriptions - verify against source pages before citing.
 - **1945-12-12** (night) — Bernal, New Mexico — ball — A bright green fireball moved horizontally before exploding into fragments. — Department of War — [38_143685_box7_incident_summaries_173-233 p.126]
 - **1946** — location unstated — cigar — Scandinavians reported cigar-shaped objects. — NSA — [nara--596347955--huyghe-patrick-ufo-files-the-untold-story-january-1-1976 p.3]
 - **1946** — location unstated — Reference to a historical UFO sighting in Sweden. — CIA — [pursue-r3--cia-uap-014 p.1]
+- **1946-05** — location unstated — ball of fire, cigar-shaped — General reports of 'Ghost Rockets' over Scandinavia, including Sweden, Finland, Denmark, and Norway. — Department of War — [pursue-r5--dow-uap-d099 p.3]
+- **1946-08-14** (morning) — location unstated — cigar-shaped — Swedish Air Force pilot observed a dark, cigar-shaped object while flying over central Sweden. — Department of War — [pursue-r5--dow-uap-d099 p.4]
 - **1946-09** — Rehoboth Beach, Delaware — projectile — Horace P. Wenyon observed a projectile crossing his course at high speed. — FBI — [65_hs1-834228961_62-hq-83894_section_2 p.192]
+- **1946-09** — location unstated — Reports of flying objects over various points in Europe and Africa. — Department of War — [pursue-r5--dow-uap-d099 p.5]
 - **1946-10-31** (afternoon) — Goose Bay, Labrador — unknown — Radar target detected at Goose Bay. — Department of War — [38_143685_box7_incident_summaries_173-233 p.49]
 - **1946-11** — Jefferson, Oregon — Photographs taken by Mary L. Herren in the vicinity of Jefferson, Oregon, showing objects in the sky. — USAF — [18_100754_general_1946-7_vol_2 p.4]
 - **1946-12** — Northern Arizona — unknown — White vapor trail observed at high altitude. — Department of War — [38_143685_box7_incident_summaries_1-100 p.62]
@@ -208,14 +211,14 @@ Quotes are VLM transcriptions - verify against source pages before citing.
 - **1948-04-18** — Fairbanks, Alaska — round and flat — Silvery round object observed oscillating near Fairbanks. — USAF — [38_143685_box7_incident_summaries_101-172 p.52; pursue-r3--dow-uap-d088 p.53]
 - **1948-04-18** — North Atlantic — Radar track of unidentified target. — USAF — [38_143685_box7_incident_summaries_101-172 p.76]
 - **1948-04-19** (afternoon) — Greenville, South Carolina — elliptical — Elliptical objects observed hovering then accelerating rapidly. — USAF — [38_143685_box7_incident_summaries_101-172 p.54; pursue-r3--dow-uap-d088 p.55]
-- **1948-04-30** (morning) — Anacostia, Naval Air Station — sphere — Yellow spherical object observed by pilot. — USAF — [38_143685_box7_incident_summaries_101-172 p.79; pursue-r4--dow-uap-d093 p.30; pursue-r4--dow-uap-d094]
+- **1948-04-30** (morning) — Anacostia, Naval Air Station — sphere — Yellow spherical object observed by pilot. ★2 — USAF, US Navy — [38_143685_box7_incident_summaries_101-172 p.79; pursue-r4--dow-uap-d093 p.30; pursue-r4--dow-uap-d094]
 - **1948-05** (afternoon) — Cascade Mountains — Rev. Charles Barnes observed four beams of light converging in the Cascade Mountains with a visible explosion effect at the convergence point. — FBI — [pursue-r3--fbi-uap-d011 p.2]
 - **1948-05-02** (night) — St. Louis, Missouri — bird — Phosphorescent bird-like object. — USAF — [38_143685_box7_incident_summaries_101-172 p.78]
 - **1948-05-05** — Adapazari, Turkey — Reports of shining objects like meteors, one of which exploded. — Department of War — [38_143685_box7_incident_summaries_101-172 p.173]
 - **1948-05-06** (morning) — Kwajalein Island — ball — Capt Floyd Barnes observed a white ball of fire that exploded. — USAF — [38_143685_box7_incident_summaries_101-172 p.168]
 - **1948-05-07** (afternoon) — Memphis, Tennessee — unknown — Fifty to 60 shiny objects observed moving at high speed. — USAF — [38_143685_box7_incident_summaries_101-172 p.59; pursue-r3--dow-uap-d088 p.60]
 - **1948-05-07** — Lake Doiran — flying disc — Flying disc observed making noise like an artillery shell. — USAF — [38_143685_box7_incident_summaries_101-172 p.81]
-- **1948-05-08** (night) — Hobson, Ohio — round — Four witnesses observed a round, phosphorescent object moving at high speed with a phosphorescent trail at an altitude of 6-8 miles. — USAF — [18_6369445_general_1948_vol_1 p.2; 38_143685_box7_incident_summaries_101-172 p.83]
+- **1948-05-08** (night) — Hobson, Ohio — round — Four witnesses observed a round, phosphorescent object moving at high speed with a phosphorescent trail at an altitude of 6-8 miles. ★2 — USAF, FBI — [18_6369445_general_1948_vol_1 p.2; 38_143685_box7_incident_summaries_101-172 p.83; pursue-r5--dow-uap-d100 p.68]
 - **1948-05-17** (night) — Plevna, Montana — ball — Bright white ball observed performing maneuvers. — USAF — [38_143685_box7_incident_summaries_101-172 p.87]
 - **1948-05-28** (afternoon) — Monroe, Michigan — disc — Lt Kokolonis observed five disc-shaped objects flying in a stepped-up line formation. — USAF — [38_143685_box7_incident_summaries_101-172 p.94; 38_143685_box7_incident_summaries_101-172 p.95]
 - **1948-05-31** (afternoon) — Wilmington, North Carolina — oblong — Oblong object emitting smoke observed. — USAF — [38_143685_box7_incident_summaries_101-172 p.85]
@@ -228,6 +231,7 @@ Quotes are VLM transcriptions - verify against source pages before citing.
 - **1948-07-01** (night) — Gahanna, Ohio — Multiple witnesses observed a bright yellow-white light moving at a terrific rate of speed. — USAF — [38_143685_box7_incident_summaries_101-172 p.108]
 - **1948-07-01** — Rapid City Air Base — oval — Major Hammer reported twelve oval-shaped disks. — USAF — [pursue-r4--dow-uap-d093 p.30; pursue-r4--dow-uap-d094]
 - **1948-07-04** (night) — Dravasburg, Pennsylvania — star — John Jannicky observed a star-like object that stopped and started. — USAF — [38_143685_box7_incident_summaries_101-172 p.154]
+- **1948-07-04** (night) — Dravasburg, Pa. — star-like — Report of a strange object in the night sky that moved, stopped, and changed course. — Department of War — [pursue-r5--dow-uap-d100 p.57]
 - **1948-07-07** (night) — Chapel Hill, North Carolina — cigar — Mathematics instructor observed three cigar-shaped objects moving generally North. — USAF — [38_143685_box7_incident_summaries_101-172 p.100]
 - **1948-07-08** (morning) — Columbus, Ohio — cigar — Mrs. Wilda Zittak observed two silver, cigar-shaped objects bobbing in the air. — USAF — [38_143685_box7_incident_summaries_101-172 p.102]
 - **1948-07-08** — McKeesport, Pennsylvania — plate — Two women observed a silver, plate-like object. — USAF — [38_143685_box7_incident_summaries_101-172 p.156]
@@ -352,6 +356,7 @@ Quotes are VLM transcriptions - verify against source pages before citing.
 ## 1950s
 
 - **1950** — Pacific Ocean — saucer — Observation of a large craft emerging from the water near a submarine. — US Navy — [nara--147872137--147872137-42-t-26444785-20060476f-001-002-2013 p.9]
+- **1950** — Montana — Analysis of motion picture film depicting unidentified objects in Montana. — US Navy — [pursue-r5--dow-uap-d098 p.3]
 - **1950-01-06** (night) — Kansas City and Olathe, Kansas — spherical — Two spherical objects sighted over Kansas City and Olathe, Kansas, appearing motionless for 10-15 minutes before moving off fast. — USAF — [342_hs1-416511228_box186_319.1-flying-discs-1949 p.1]
 - **1950-01-22** (night) — Kodiak, Alaska — ball of fire — Naval personnel reported unidentified radar contacts and visual sightings of orange lights and a reddish-orange ball of fire. — US Navy — [65_hs1-834228961_62-hq-83894_section_5 p.147]
 - **1950-02-27** (morning) — Caoggia, Italy — saucer — Silver-colored flying saucer reported at 6,000 feet. — FBI — [65_hs1-834228961_62-hq-83894_sub_a p.93]
@@ -405,7 +410,7 @@ Quotes are VLM transcriptions - verify against source pages before citing.
 - **1952-05-25** (night) — Ashland, Kentucky — oval — Three women observed strange objects floating in the sky over Ashland, Kentucky. — FBI — [65_hs1-834228961_62-hq-83894_section_6 p.150]
 - **1952-06-06** (morning) — Air Force base — disc-like — Flight Sergeant observed an object performing spinning and tumbling actions. — USAF — [pursue-r3--cia-uap-015 p.93]
 - **1952-06-13** — location unstated — US RB-29 lost in the Sea of Japan, likely shot down by Soviet fighters. — CIA — [pursue-r3--cia-uap-003 p.16]
-- **1952-07-02** — Tremonton, Utah — circular — Tremonton, Utah sighting involving motion picture film of objects. ★3 — CIA, USAF, US Navy — [pursue-r3--cia-uap-002 p.10; pursue-r4--dow-uap-d092 p.51; pursue-r4--dow-uap-d096 p.34]
+- **1952-07-02** — Tremonton, Utah — circular — Tremonton, Utah sighting involving motion picture film of objects. ★3 — CIA, USAF, US Navy — [pursue-r3--cia-uap-002 p.10; pursue-r4--dow-uap-d092 p.51; pursue-r5--dow-uap-d098 p.3]
 - **1952-07-15** (night) — Norfolk, VA — disc — Two pilots reported seeing eight glowing orange-red discs flying in formation. — FBI — [65_hs1-834228961_62-hq-83894_sub_a p.59]
 - **1952-07-19** (night) — Washington, D.C. — ring-shaped — Multiple radar contacts and visual sightings of unidentified objects over Washington D.C. restricted airspace. — USAF — [nara--595466--project-blue-book-case-file-records-595553 p.1]
 - **1952-07-19** (night) — unknown — cigar-shaped — Farmer and hired hand observed two cigar-shaped objects hovering and moving. — USAF — [pursue-r3--cia-uap-015 p.90]
@@ -537,6 +542,7 @@ Quotes are VLM transcriptions - verify against source pages before citing.
 - **1963-05-16** (night) — orbital space — Astronaut Gordon Cooper observed a flashing light beacon ejected from the spacecraft. — NASA — [pursue-r3--nasa-uap-d015 p.64; pursue-r3--nasa-uap-d015 p.107]
 - **1963-05-24** — Wendover, Utah — A-12 — A-12 crash near Wendover, Utah due to ice in pitot-static tube. — CIA — [pursue-r3--cia-uap-003 p.308]
 - **1963-11-01** — location unstated — U-2 aircraft — A Nationalist Chinese U-2 pilot was shot down over the PRC. — CIA — [pursue-r3--cia-uap-003 p.248]
+- **1963-11-08** (night) — Salvador, Brazil — balloon — Local newspaper report of a large metal manned balloon crash near Salvador, Brazil, with a dead crewman in a spacesuit. ★2 — Department of State, CIA — [pursue-r5--dos-uap-d001 p.1; pursue-r5--dos-uap-d001 p.1; pursue-r5--dos-uap-d002 p.1]
 - **1963-12-07** — Moorestown, New Jersey — Observation of an unusual object in the sky near Moorestown, New Jersey, which the witness associated with a subsequent plane crash in Elkton, Maryland. — FBI — [65_hs1-834228961_62-hq-83894_section_10 p.127]
 - **1964-04-24** (afternoon) — Socorro, New Mexico — oval — Lonnie Zamora, a Socorro police officer, observed a landed oval-shaped object with two occupants in white coveralls, which then took off with a roar and flames. — FBI — [65_hs1-834228961_62-hq-83894_section_9 p.226; 65_hs1-834228961_62-hq-83894_serial_438 p.2; 65_hs1-834228961_62-hq-83894_serial_449 p.18]
 - **1964-04-26** (night) — La Maderia, New Mexico — butane tank — Orlando Gallegos observed a butane-tank-shaped object at La Maderia, New Mexico, surrounded by a blue-white flame. — FBI — [65_hs1-834228961_62-hq-83894_section_9 p.221]
@@ -544,6 +550,8 @@ Quotes are VLM transcriptions - verify against source pages before citing.
 - **1964-07-07** — location unstated — U-2 aircraft — A Nationalist Chinese U-2 pilot was shot down over the PRC. — CIA — [pursue-r3--cia-uap-003 p.248]
 - **1964-07-09** — Nevada — A-12 — A-12 article 133 crash during landing due to frozen pitch-control servo. — CIA — [pursue-r3--cia-uap-003 p.309]
 - **1964-07-18** — location unstated — Observation of a bright meteor (fireball/bolide) reported to the Harvard College Observatory. — Harvard College Observatory — [65_hs1-834228961_62-hq-83894_section_10 p.129]
+- **1964-11-19** (night) — Atlantic Fleet Weapons Range — delta-shaped — A U.S. Navy pilot observed a delta-shaped object near Puerto Rico, which was also tracked by the USS Gyatt's radar at high speeds. — CIA — [pursue-r5--cia-uap-d022 p.3; pursue-r5--cia-uap-d022 p.5; pursue-r5--cia-uap-d023 p.1]
+- **1964-11-24** — Atlantic Fleet Weapons Range — High-speed, high-altitude target tracked by Atlantic Fleet Weapons Range, maneuvering away from a Crusader aircraft. — CIA — [pursue-r5--cia-uap-d023 p.1]
 - **1965** (night) — location unstated — Aurora-like — Astronauts observed a bright green Aurora-like light in the airglow layer that changed color and affected the airglow's appearance. — NASA — [pursue-r3--nasa-uap-d020 p.163]
 - **1965** — Santa Ana, Calif. — Metallic-like disk hovered over Santa Ana. — NSA — [nara--596347955--huyghe-patrick-ufo-files-the-untold-story-january-1-1976 p.1]
 - **1965** — location unstated — large object — Astronauts observed a large object reentering behind the spacecraft during the reentry phase. — NASA — [pursue-r3--nasa-uap-d020 p.191]
@@ -736,6 +744,7 @@ Quotes are VLM transcriptions - verify against source pages before citing.
 
 - **2001-01-26** — Barnaul airport — A luminescent object hovered above the runway of Barnaul airport, causing a cargo plane crew to refuse takeoff and another to divert. — Agence France Presse — [255_413270_ufo's_and_defense_what_should_we_prepare_for p.93]
 - **2001-10-28** — Kodori Gorge — Alleged violation of Georgian airspace and bombing of Kodori Gorge by unidentified aircraft, which Russian officials suggested could have been UFOs. — Department of State — [059uap00011 p.2]
+- **2002-06** (night) — Bagram — equilateral triangle — Pilot observed a large, silent, equilateral triangle-shaped object blocking out stars over Bagram. — FBI — [pursue-r5--fbi-uap-d024 p.2; pursue-r5--fbi-uap-d025 p.1]
 - **2003** (morning) — Vandenberg Air Force Base — square — Boeing contractors observed a large red square object hovering over a launch facility. — USAF — [hearing-2023-07-26-house-oversight p.28]
 - **2004** — location unstated — tic-tac — Tic Tac object encounter by Navy pilots. — US Navy — [hearing-2024-11-13-house-oversight p.9]
 - **2004-11-14** — Off the coast of San Diego — Tic Tac — Tic Tac UAP encounter by USS Nimitz Carrier Airwing 11. — US Navy — [hearing-2023-07-26-house-oversight p.13]
@@ -756,6 +765,8 @@ Quotes are VLM transcriptions - verify against source pages before citing.
 - **2010-11-17** (night) — AMG — Multiple aircraft reported two fast moving targets with very bright lights. — FAA — [nara--faa-reports-batch-01 p.12]
 - **2010-12-24** (evening) — WINK VOR — Pilot observed a UFO matching his speed, direction, and altitude. — FAA — [nara--faa-reports-batch-01 p.13]
 - **2011-01-26** (evening) — FWA — Pilot reported small luminous bright objects above at FL340. — FAA — [nara--faa-reports-batch-01 p.14]
+- **2011-06** (evening) — location unstated — isosceles triangle — Two former military service members observed a massive black triangular object with three white lights in the corners while leaving a driveway in the evening. — FBI — [pursue-r5--fbi-uap-d028 p.1]
+- **2011-06** (night) — location unstated — triangular — A nighttime sighting of a large, dark, triangular craft with three circular white lights at each corner. — FBI — [pursue-r5--fbi-uap-d029 p.1]
 - **2012-01-13** (night) — Elizabeth City, NC — Two aircraft reported seeing a UFO ten miles south of Elizabeth City, NC. — FAA — [nara--faa-reports-batch-01 p.15]
 - **2012-08-07** (morning) — Flagstaff, AZ — UFO reported heading north at 50,000 feet. — FAA — [nara--faa-reports-batch-01 p.16]
 - **2012-08-19** (dawn) — GAI — circular — Pilot reported a circular, silver UFO. — FAA — [nara--faa-reports-batch-01 p.17]
@@ -880,6 +891,7 @@ Quotes are VLM transcriptions - verify against source pages before citing.
 - **2021-08-28** (morning) — over RIC — Commercial aircraft reported a strobing object in a race track formation. — FAA — [nara--faa-reports-batch-03 p.9]
 - **2021-08-29** (evening) — 6 NM E of OAK — General aviation aircraft reported a person in a jet pack. — FAA — [nara--faa-reports-batch-03 p.10; nara--faa-reports-batch-03 p.11]
 - **2021-08-30** (evening) — 15 NM N of FLL — Commercial aircraft reported an object that shot straight up from the ground. — FAA — [nara--faa-reports-batch-03 p.12]
+- **2021-09-08** (night) — Gulf of Oman — orb — USSOF AC-130 gunship aircrew observed two unidentified cold orbs stationary over a water-activated flare during a training exercise. — AFSOC — [pursue-r5--dow-uap-d101 p.2; pursue-r5--dow-uap-d101 p.2; pursue-r5-record-index p.1]
 - **2021-09-12** (night) — 65 NM E of ABQ — General aviation aircraft reported an unidentified phenomenon above them. — FAA — [nara--faa-reports-batch-03 p.13]
 - **2021-09-25** (afternoon) — 17 NM NW of LAX — Commercial aircraft observed a manned jetpack. — FAA — [nara--faa-reports-batch-03 p.14]
 - **2021-10-16** (afternoon) — Arlington Ridge Rd and Lynne St — Primary target detected by radar near DAA, no visual verification. — NCRCC — [nara--faa-reports-batch-03 p.15]
@@ -975,6 +987,7 @@ Quotes are VLM transcriptions - verify against source pages before citing.
 - **2023** (night) — Western U.S. — triangular — Federal law enforcement agents pursued a dark kite-shaped object moving laterally over the desert. — AARO — [western_us_event_slides_5.08.2026 p.3]
 - **2023** (night) — Western U.S. — kite — Federal law enforcement agents observed a transparent kite-shaped object floating in the wind. — AARO — [western_us_event_slides_5.08.2026 p.4]
 - **2023** (night) — Western United States — Witness observed a yellow light that moved quickly from North to South. — AARO — [pursue-r3--dow-uap-d082 p.3]
+- **2023** (night) — Colorado Springs, Colorado — triangular — Artistic rendering of a large triangular craft with red lights observed near Colorado Springs. — FBI — [pursue-r5--fbi-uap-d031 p.1]
 - **2023** — South Asia — MQ-9 platform observed a UAP in South Asia with an apparent atmospheric wake. — AARO — [nara--493468580--osd-uap-records-03-2024-dgi-mission-brief p.11]
 - **2023** — location unstated — balloon — PRC high-altitude balloon incursion over North America. — OSD — [nara--499915954--senate-armed-services-committee-sasc-on-emerging-threats-and]
 - **2023** — location unstated — MQ-9 observed UAP object in South Asia with a potentially-anomalous atmospheric wake. — AARO — [nara--499915962--senate-armed-services-committee-sasc-on-emerging-threats-and p.4]
@@ -1146,6 +1159,7 @@ Quotes are VLM transcriptions - verify against source pages before citing.
 - **2023-09-27** (night) — Scottsbluff, NE — United 2710 reported three bright white lights. — FAA — [nara--faa-reports-batch-20 p.23]
 - **2023-10** (dusk) — Western United States — orb — Six federal law enforcement agents observed luminous orange mother orbs releasing smaller red orbs over a two-day period. ★2 — AARO, FBI — [pursue-r3--dow-uap-d077 p.1; pursue-r3--dow-uap-d079 p.1; pursue-r3--dow-uap-d079 p.1]
 - **2023-10** (night) — Western United States — undefined — Witness 1 observed a translucent, floating object with one round and one square light spot, appearing to have a vertical orientation. — AARO — [pursue-r3--dow-uap-d079 p.2]
+- **2023-10** (night) — Northeast towards Gander, Canada — Pilot observed multiple white lights in the sky while flying from Boston to Dublin. — FBI — [pursue-r5--fbi-uap-d024 p.1]
 - **2023-10** — location unstated — orb — Agents reported observing a large fiery orb projected against a ridgeline. — Department of War — [pursue-r3--dow-uap-d078]
 - **2023-10** — location unstated — kite-shaped — Agents reported observing a dark kite-shaped object with red and white lights. — Department of War — [pursue-r3--dow-uap-d078; pursue-r3--dow-uap-d078]
 - **2023-10-04** (morning) — location unstated — Three bright white lights blinking left to right. — FAA — [nara--faa-reports-batch-12 p.17]
@@ -1231,6 +1245,7 @@ Quotes are VLM transcriptions - verify against source pages before citing.
 - **2024-01-26** (night) — Philipsburg, PA — Republic 4809 reported two white and red rapidly moving lights. — FAA — [nara--faa-reports-batch-22]
 - **2024-01-27** (night) — 40 NM W of PSB — Commercial aircraft reported two lights chasing each other. — FAA — [nara--faa-reports-batch-14 p.11; nara--faa-reports-batch-14 p.12; nara--faa-reports-batch-22]
 - **2024-01-29** (morning) — Valparaiso, FL — USAF Racer2 reported an unidentified aerial phenomenon 10 miles south of Valparaiso. — FAA — [nara--faa-reports-batch-22]
+- **2024-02** (night) — North Dakota region — Pilot captured video of white lights while flying northwest of Minneapolis. — FBI — [pursue-r5--fbi-uap-d024 p.2]
 - **2024-02-04** (morning) — DCA — ATCT reported three lights flying around. — FAA — [nara--faa-reports-batch-14 p.13; nara--faa-reports-batch-14 p.14; nara--faa-reports-batch-14 p.15]
 - **2024-02-05** (night) — 20NM NE of JAX — General aviation aircraft reported a fireball appearing to fall. — FAA — [nara--faa-reports-batch-14 p.16]
 - **2024-02-14** (morning) — 50NM W of HSV — Commercial aircraft reported multiple lights orbiting. — FAA — [nara--faa-reports-batch-14 p.17]
@@ -1299,6 +1314,7 @@ Quotes are VLM transcriptions - verify against source pages before citing.
 - **2024-10-22** (night) — over LDN — Commercial aircraft reported bright white and yellow flashing lights. — FAA — [nara--faa-reports-batch-15 p.23]
 - **2024-10-26** (night) — 170 NM W of RSW — Commercial aircraft reported white lights circling above. — FAA — [nara--faa-reports-batch-15 p.24]
 - **2024-11** (afternoon) — Northeastern United States — FBI agents observed a white pulsating light moving erratically at or below the tree line near a pond. — FBI — [pursue-r3--fbi-uap-d007 p.3; pursue-r3--fbi-uap-d007 p.3; pursue-r3--fbi-uap-d007 p.4]
+- **2024-11-28** (night) — location unstated — circular — Observation of a bright white circular object with concentric halos over a mountain range at night. — FBI — [pursue-r5--fbi-uap-d039 p.1]
 - **2024-12-20** (evening) — Rolling Meadows, IL — round circles — Witness reported observing three or four glowing orbs hovering in the sky near Rolling Meadows, IL. — FBI — [nara--653628628--guardian-case-file-ntoc2024-possible-uaps-unidentified-anoma p.1; nara--653628630--form-fd-302-january-7-2025 p.1; nara--653628634--guardian-case-file-ntoc2024-possible-uaps-unidentified-anoma p.1]
 - **2024-12-31** (dusk) — Rolling Meadows, IL — Witness observed the same bright light again while walking home. — FBI — [nara--653628630--form-fd-302-january-7-2025 p.1]
 - **2025** (night) — location unstated — Ground team observed a super-hot object low to the ground that split in two and changed direction. — ODNI — [pursue-r2--odni-uap-d001 p.1]
@@ -1319,10 +1335,20 @@ Quotes are VLM transcriptions - verify against source pages before citing.
 - **2025-06-15** (afternoon) — 35SQT3423692957 — round — U.S. military operator observed two round white hot UAPs moving south at 240 knots. — Department of War — [dow-uap-d8-mission-report-djibouti-2025 p.7]
 - **2025-07** (night) — Northeastern United States — sphere — Eyewitnesses observed two red orbs with white plasma centers hovering and moving in tandem before merging. — FBI — [pursue-r3-record-index p.1]
 - **2025-12-15** (evening) — Western United States — irregular — A grainy monochrome IR image of a single dark, irregular-shaped object captured by a U.S. military system. — FBI — [fbi-photo-b24 p.1; pursue-r1-record-index; usper-statement-redacted p.1]
+- **2026** (afternoon) — Western United States — A U.S. Government Special Agent observed two black objects using a thermal optical device after an RF detection alert. — FBI — [pursue-r5--fbi-uap-d032 p.1]
+- **2026** (afternoon) — Western United States — U.S. Government Special Agent observed slow-moving objects in the western United States. — FBI — [pursue-r5-record-index p.1]
+- **2026** (dusk) — Western United States — disc-shaped or cigar-shaped — Two glowing red, horizontal, disc-shaped or cigar-shaped objects observed hovering above mountain peaks in the western United States. — FBI — [pursue-r5--fbi-uap-d038 p.1]
+- **2026** (night) — Western United States — A U.S. Government Special Agent observed a thermally elevated aerial object flying southbound in the western United States. — FBI — [pursue-r5--fbi-uap-d033 p.1]
+- **2026** (night) — location unstated — dash-shaped — Two unidentified lights observed moving along a ridgeline. — FBI — [pursue-r5--fbi-uap-d037 p.1]
+- **2026** (night) — location unstated — A single unidentified light appeared directly above the observers' location. — FBI — [pursue-r5--fbi-uap-d037 p.1]
+- **2026** (night) — location unstated — Multiple lights observed to the east, including low-altitude objects and a glow in a dry wash. — FBI — [pursue-r5--fbi-uap-d037 p.2]
+- **2026** (night) — Western United States — triangular or diamond-shaped — Witness observed a red light at the crest of a mountain range, which appeared as a cluster of three lights in a triangular or diamond-shaped pattern. — FBI — [pursue-r5--fbi-uap-d040 p.1]
+- **2026** (night) — Western United States — Witness observed two lights on or near the ground using night observation devices, followed by a rapidly moving streak of light. — FBI — [pursue-r5--fbi-uap-d040 p.2]
+- **2026** (night) — Western United States — triangular formation — A series of digital renderings depicting an increasing number of red light clusters in triangular formations over a desert mountain range. — FBI — [pursue-r5--fbi-uap-d041 p.1]
 - **2026-02** (night) — location unstated — sphere — Witnesses observed two red spherical objects hovering in their backyard, which then moved in tandem and merged. — FBI — [pursue-r3--fbi-uap-d009 p.1]
 - **2026-02** — location unstated — orb — Witness observed several white orbs traveling at high altitude over their house. — FBI — [pursue-r3--fbi-uap-d009 p.2]
 
-## Undated records (175)
+## Undated records (177)
 
 - orbital — Gemini VII crew observes sunrise and airglow phenomena from orbit, noting color bands and cloud formations on the horizon. — NASA
 - location unstated — Witness observed a very large object high in the sky directly above and west of Sand Point Naval Air Station. — FBI

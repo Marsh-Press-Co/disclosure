@@ -1,0 +1,49 @@
+{
+ "doc_id": "pursue-r5--fbi-uap-d032",
+ "file": "pursue-r5--fbi-uap-d032.md",
+ "source": "PURSUE-R5",
+ "agency": "FBI",
+ "title": "FBI-UAP-D032, FD-302, “Slow-moving Objects,” 2026",
+ "record_type": "document",
+ "index_date": "2026",
+ "index_location": "Western United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI FD-302 interview record regarding a 2026 UAP sighting, containing heavy redactions of names and specific locations.",
+ "incidents": [
+  {
+   "summary": "A U.S. Government Special Agent observed two black objects using a thermal optical device after an RF detection alert.",
+   "date_precision": "year",
+   "time_of_day": "afternoon",
+   "confidence": "high",
+   "behavior": [
+    "moving together at the same speed",
+    "not moving fast"
+   ],
+   "color": "black",
+   "country": "United States",
+   "date": "2026",
+   "duration": "5-10 minutes",
+   "explanation_status": "not-assessed",
+   "location_name": "Western United States",
+   "object_count": "2",
+   "page_refs": [
+    1,
+    2
+   ],
+   "quote": "He saw a black object in the sky. It was not moving fast.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "other",
+    "ir",
+    "photo",
+    "video"
+   ],
+   "time_local": "1604",
+   "witness_count": "1",
+   "witness_types": [
+    "government-civilian"
+   ]
+  }
+ ]
+}

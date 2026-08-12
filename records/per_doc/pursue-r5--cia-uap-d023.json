@@ -1,0 +1,71 @@
+{
+ "doc_id": "pursue-r5--cia-uap-d023",
+ "file": "pursue-r5--cia-uap-d023.md",
+ "source": "PURSUE-R5",
+ "agency": "CIA",
+ "title": "CIA-UAP-D023, Briefing Notes for Mr. Walter Elder",
+ "record_type": "document",
+ "index_date": "Undated",
+ "index_location": "Caribbean Sea",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a CIA briefing note regarding UAP incidents near Puerto Rico in November 1964, featuring significant text degradation and illegible characters.",
+ "incidents": [
+  {
+   "summary": "Radar detection and visual observation of a high-speed object near Puerto Rico by USS Gyatt and an F-8 Crusader pilot.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "high speed",
+    "closed on fighter"
+   ],
+   "country": "Puerto Rico",
+   "date": "1964-11-19",
+   "duration": "21 minutes",
+   "explanation_status": "not-assessed",
+   "location_name": "vicinity of Puerto Rico",
+   "page_refs": [
+    1,
+    2
+   ],
+   "quote": "UFO was identified as a Delta shaped object about the size of a jet fighter.",
+   "recording_agency": "CIA",
+   "sensors": [
+    "radar",
+    "visual",
+    "photo"
+   ],
+   "shape": "Delta",
+   "size": "size of a jet fighter",
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "High-speed, high-altitude target tracked by Atlantic Fleet Weapons Range, maneuvering away from a Crusader aircraft.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "high",
+   "behavior": [
+    "high speed",
+    "pulled away rapidly"
+   ],
+   "country": "Puerto Rico",
+   "date": "1964-11-24",
+   "explanation_status": "not-assessed",
+   "location_name": "Atlantic Fleet Weapons Range",
+   "page_refs": [
+    1
+   ],
+   "quote": "held a high-speed, high-altitude target which simultaneously pulled away rapidly from another Crusader aircraft",
+   "recording_agency": "CIA",
+   "sensors": [
+    "radar"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "doc": "pursue-r5--dow-uap-d099.md",
+ "leads": [
+  {
+   "page": 3,
+   "lead_type": "debris-material",
+   "claim": "The document asserts that in cases of reported UAP crashes, only nonmetallic slag has been recovered.",
+   "strength": "moderate",
+   "why": "The document explicitly mentions the recovery of physical material described as nonmetallic slag, though it dismisses the significance of the findings.",
+   "material_description": "nonmetallic slag",
+   "outcome_in_document": "confirmed-mundane",
+   "quote": "In no case have fragments been found other than bits of materia l described as \"nonmetallic slag.\""
+  }
+ ],
+ "doc_verdict": "The document acknowledges the recovery of physical material described as nonmetallic slag but characterizes these findings as mundane and dismissive of any anomalous origin."
+}

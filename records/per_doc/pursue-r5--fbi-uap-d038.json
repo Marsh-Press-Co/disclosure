@@ -1,0 +1,43 @@
+{
+ "doc_id": "pursue-r5--fbi-uap-d038",
+ "file": "pursue-r5--fbi-uap-d038.md",
+ "source": "PURSUE-R5",
+ "agency": "FBI",
+ "title": "FBI-UAP-D038, Digital Rendering 1, “Multiple Red Lights,” 2026",
+ "record_type": "document",
+ "index_date": "2026",
+ "index_location": "Western United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a digital rendering created by the FBI in 2026 as a visual aid for the PURSUE initiative, based on a first-hand description of a 2026 UAP sighting.",
+ "incidents": [
+  {
+   "summary": "Two glowing red, horizontal, disc-shaped or cigar-shaped objects observed hovering above mountain peaks in the western United States.",
+   "date_precision": "year",
+   "time_of_day": "dusk",
+   "confidence": "medium",
+   "behavior": [
+    "hovering"
+   ],
+   "color": "red",
+   "country": "United States",
+   "date": "2026",
+   "explanation_status": "not-assessed",
+   "location_name": "Western United States",
+   "object_count": "2",
+   "page_refs": [
+    1
+   ],
+   "quote": "Hovering in the sky above the mountain peaks are two distinct, glowing red, horizontal, disc-shaped or cigar-shaped objects.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "disc-shaped or cigar-shaped",
+   "witness_count": "2",
+   "witness_types": [
+    "civilian"
+   ]
+  }
+ ]
+}

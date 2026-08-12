@@ -1,0 +1,35 @@
+{
+ "doc_id": "pursue-r5--dos-uap-d002",
+ "file": "pursue-r5--dos-uap-d002.md",
+ "source": "PURSUE-R5",
+ "agency": "Department of State",
+ "title": "DOS-UAP-D002, Diplomatic Cable, Brazil, November 20, 1963",
+ "record_type": "document",
+ "index_date": "11/20/63",
+ "index_location": "Bahia, Brazil",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is a U.S. Department of State diplomatic cable from the U.S. Embassy in Rio de Janeiro reporting that a widely publicized UFO crash in Bahia was a fabrication.",
+ "incidents": [
+  {
+   "summary": "Alleged crash of an unidentified object in Conde, Bahia, Brazil, which was investigated and determined to be a fabrication.",
+   "date_precision": "day",
+   "time_of_day": "unknown",
+   "confidence": "medium",
+   "behavior": [
+    "descending"
+   ],
+   "country": "Brazil",
+   "date": "1963-11-08",
+   "explanation": "The incident was determined to be a fabrication originating in Rio de Janeiro; local authorities and the Ministry of Aeronautics found no evidence of any object.",
+   "explanation_status": "explained",
+   "location_name": "Conde, Bahia, Brazil",
+   "page_refs": [
+    1,
+    2
+   ],
+   "quote": "Story of strange object descending in region of Conde Bahia apparently fabricated in Rio",
+   "recording_agency": "Department of State"
+  }
+ ]
+}

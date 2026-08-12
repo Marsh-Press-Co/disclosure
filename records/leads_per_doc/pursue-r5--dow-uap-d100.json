@@ -1,0 +1,27 @@
+{
+ "doc": "pursue-r5--dow-uap-d100.md",
+ "leads": [
+  {
+   "page": 1,
+   "lead_type": "analysis-of-material",
+   "claim": "The Air Materiel Command (AMC) has not yet obtained physical evidence of unidentified sightings.",
+   "strength": "noise",
+   "why": "The document explicitly states that no physical evidence has been obtained, serving as a negative assertion rather than a lead."
+  },
+  {
+   "page": 76,
+   "lead_type": "contractor-involvement",
+   "claim": "The Air Materiel Command (AMC) T-2 intelligence division retained a report and drawings regarding German Horten tailless aircraft.",
+   "strength": "noise",
+   "why": "The material described is identified as conventional German aeronautical technology (Horten brothers design) rather than UAP-related material."
+  },
+  {
+   "page": 135,
+   "lead_type": "debris-material",
+   "claim": "Objects resembling falling aircraft with smoke and debris were observed near Bakersfield, California.",
+   "strength": "noise",
+   "why": "The description refers to conventional aircraft-like debris and does not suggest anomalous material."
+  }
+ ],
+ "doc_verdict": "The document contains no evidence of obtained UAP material and explicitly states on multiple pages that no such physical evidence has been acquired by the Air Materiel Command."
+}

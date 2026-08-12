@@ -1,0 +1,96 @@
+{
+ "doc_id": "pursue-r5--fbi-uap-d037",
+ "file": "pursue-r5--fbi-uap-d037.md",
+ "source": "PURSUE-R5",
+ "agency": "FBI",
+ "title": "FBI-UAP-D037, FD-302, “Multiple Red Lights,” 2026",
+ "record_type": "document",
+ "index_date": "2026",
+ "index_location": "Western United States",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI FD-302 interview record detailing three UAP sighting events in 2026, including reports of anomalous time discrepancies on a mechanical watch.",
+ "incidents": [
+  {
+   "summary": "Two unidentified lights observed moving along a ridgeline.",
+   "date_precision": "year",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "moved along ridgeline"
+   ],
+   "color": "dull red",
+   "date": "2026",
+   "duration": "20 minutes",
+   "explanation_status": "not-assessed",
+   "object_count": "2",
+   "page_refs": [
+    1
+   ],
+   "quote": "described the lights as \"dash\" shaped and dull red in color to the naked eye.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "nvg"
+   ],
+   "shape": "dash-shaped",
+   "witness_count": "2",
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "A single unidentified light appeared directly above the observers' location.",
+   "date_precision": "year",
+   "time_of_day": "night",
+   "confidence": "high",
+   "date": "2026",
+   "duration": "10 minutes",
+   "explanation_status": "not-assessed",
+   "object_count": "1",
+   "page_refs": [
+    1,
+    2
+   ],
+   "quote": "another, similar unidentified light appear directly above their location",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "witness_count": "2",
+   "witness_types": [
+    "unknown"
+   ]
+  },
+  {
+   "summary": "Multiple lights observed to the east, including low-altitude objects and a glow in a dry wash.",
+   "date_precision": "year",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "moved toward observers",
+    "stopped",
+    "descended",
+    "changed direction"
+   ],
+   "date": "2026",
+   "explanation_status": "not-assessed",
+   "object_count": "3+",
+   "page_refs": [
+    2,
+    3
+   ],
+   "quote": "The unidentified light appeared to move toward them and stopped approximately 400 meters away.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "nvg",
+    "ir"
+   ],
+   "witness_count": "2",
+   "witness_types": [
+    "unknown"
+   ]
+  }
+ ]
+}

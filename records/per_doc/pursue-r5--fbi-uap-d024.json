@@ -1,0 +1,105 @@
+{
+ "doc_id": "pursue-r5--fbi-uap-d024",
+ "file": "pursue-r5--fbi-uap-d024.md",
+ "source": "PURSUE-R5",
+ "agency": "FBI",
+ "title": "FBI-UAP-D024, FD-302, “Airborne Lights and Triangle,” 2002, 2023-2024",
+ "record_type": "document",
+ "index_date": "2002, 2023-2024",
+ "index_location": "Northeastern U.S.; Afghanistan",
+ "model": "gemini-3.1-flash-lite",
+ "chunks": 1,
+ "doc_notes": "This document is an FBI FD-302 interview record of a former military pilot describing multiple UAP sightings in 2023-2024 and a historical sighting in 2002.",
+ "incidents": [
+  {
+   "summary": "Pilot observed multiple white lights in the sky while flying from Boston to Dublin.",
+   "date_precision": "month",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "dimming and brightening",
+    "moving in straight lines",
+    "changing direction",
+    "non-coordinated movement"
+   ],
+   "color": "white",
+   "country": "Canada",
+   "date": "2023-10",
+   "duration": "10 seconds to one minute per cycle",
+   "explanation_status": "unexplained",
+   "location_name": "Northeast towards Gander, Canada",
+   "object_count": "1-4",
+   "page_refs": [
+    1
+   ],
+   "quote": "The lights were white in color, would start out as dim, and get brighter before they eventually faded out.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Pilot captured video of white lights while flying northwest of Minneapolis.",
+   "date_precision": "day",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "moving in straight lines",
+    "dimming and brightening"
+   ],
+   "color": "white",
+   "country": "United States",
+   "date": "2024-02",
+   "explanation_status": "unexplained",
+   "location_name": "North Dakota region",
+   "object_count": "10 or more",
+   "page_refs": [
+    2
+   ],
+   "quote": "white lights were seen, sometimes ten or more present at once, moving around in straight lines",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual",
+    "video"
+   ],
+   "witness_types": [
+    "military-pilot"
+   ]
+  },
+  {
+   "summary": "Pilot observed a large, silent, equilateral triangle-shaped object blocking out stars over Bagram.",
+   "date_precision": "month",
+   "time_of_day": "night",
+   "confidence": "high",
+   "behavior": [
+    "silent",
+    "consistent speed and altitude",
+    "blocking out stars"
+   ],
+   "country": "Afghanistan",
+   "date": "2002-06",
+   "explanation_status": "unexplained",
+   "location_name": "Bagram",
+   "object_count": "1",
+   "page_refs": [
+    2,
+    3
+   ],
+   "quote": "It appeared as if something huge went overhead, from west to east, and was an equilateral triangle shape.",
+   "recording_agency": "FBI",
+   "sensors": [
+    "visual"
+   ],
+   "shape": "equilateral triangle",
+   "size": "500 feet",
+   "time_local": "04:30 AM",
+   "witness_count": "2",
+   "witness_types": [
+    "military-pilot"
+   ]
+  }
+ ]
+}
