@@ -8,8 +8,12 @@
 <meta property="og:title" content="DISCLOSURE — The Paper Trail">
 <meta property="og:description" content="The government's UAP records as an explorable globe. Every dot cites its paper.">
 <meta property="og:url" content="https://marsh-press-co.github.io/disclosure/">
-<meta property="og:image" content="https://marsh-press-co.github.io/disclosure/media/composite-sketch.jpg">
+<meta property="og:image" content="https://marsh-press-co.github.io/disclosure/media/og-card.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
 <meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://marsh-press-co.github.io/disclosure/media/og-card.jpg">
 <meta name="theme-color" content="#06080d">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,600;9..144,900&family=IBM+Plex+Mono:wght@300;400;600&display=swap" rel="stylesheet">
@@ -272,7 +276,7 @@
 
 <!-- landing -->
 <div id="landing">
-  <span class="stamp">DECLASSIFIED · PUBLIC RECORD · $0 · NO ADS</span>
+  <span class="stamp">DECLASSIFIED · PUBLIC RECORD</span>
   <h1>DISCLOSURE<span>THE PAPER TRAIL</span></h1>
   <div id="counters">
     <div class="cnt"><b data-n="12594">0</b><i>PAGES READ</i></div>
@@ -402,7 +406,7 @@
     <h3>Provenance &amp; credit</h3>
     <p>All source documents are U.S. government records (public domain, 17 U.S.C. §105). Release 1
     transcriptions build on the CC0 <a href="https://github.com/AlexZhangji/ufo-pursue-open-atlas" target="_blank" rel="noopener">ufo-pursue-open-atlas</a>
-    project. This site costs $0 to run, shows no ads, and sets no trackers.</p>
+    project. This site is an independent public-research effort; it sets no trackers.</p>
   </div>
 </div>
 
@@ -424,7 +428,7 @@ Promise.all([fetch("data.json").then(r=>r.json()), fetch("tour.json").then(r=>r.
 .then(([d, t])=>{
   DATA=d.incidents; TOUR=t;
   document.getElementById("credit").textContent=
-    `${d.counts.incidents} incidents · ${d.counts.corroborated} corroborated · $0 · every dot cites its paper`;
+    `${d.counts.incidents} incidents · ${d.counts.corroborated} corroborated · every dot cites its paper`;
   initGlobe(); initChips(); initTimeline(); apply();
   runCounters();
 }).catch(e=>{ document.getElementById("tally").textContent="data.json missing — run tools/build_site_data.py"; });
@@ -571,8 +575,13 @@ function paintBars(){
 function togglePlay(){
   if(playTimer) return stopPlay();
   document.getElementById("playBtn").textContent="❚❚ STOP";
+  const WIN=4;  // rolling window: eras pulse as the sweep passes; the 90s go dark
   filt.y0=YMIN; filt.y1=YMIN; apply();
-  playTimer=setInterval(()=>{ filt.y1++; if(filt.y1>=YMAX){stopPlay(); filt.y1=YMAX;} apply(); },260);
+  playTimer=setInterval(()=>{
+    filt.y1++; filt.y0=Math.max(YMIN, filt.y1-WIN+1);
+    if(filt.y1>=YMAX){ stopPlay(); filt.y0=YMIN; filt.y1=YMAX; }
+    apply();
+  },260);
 }
 function stopPlay(){ clearInterval(playTimer); playTimer=null; document.getElementById("playBtn").textContent="▶ PLAY"; }
 

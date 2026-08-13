@@ -4,6 +4,27 @@ Running project history, newest entries first. Current state lives in the vault 
 (`MindHive/10-Projects/Disclosure/_Disclosure-Hub.md`); this file records what
 happened when.
 
+## 2026-08-13 (later) — Social card, era sweep, copy cleanup
+
+**Shipped/Done**
+- **og:image social card** (`tools/build_og_card.py` → `docs/media/og-card.jpg`,
+  1200×630): Hoover's handwritten note full-frame with the site's amber
+  highlight treatment under the title band — a designed card, clearly branded,
+  never presented as a raw record. og + twitter meta wired.
+- **Era sweep**: PLAY now sweeps a rolling 4-year window 1940→2026 instead of
+  cumulatively growing — eras pulse on the globe and the 90s silence goes
+  visibly dark (1991–94 window: 8 incidents; 2021–24: 457). Natural finish
+  restores the full range.
+- **Copy cleanup (Marsh's call)**: all "$0 / no ads" messaging removed from
+  the user-facing site (landing stamp, About, credit line) — reads more like
+  the research archive it is. About now says: independent public-research
+  effort, sets no trackers. ($0 policy remains in contributor docs — it's a
+  budget rule, not marketing.)
+
+**Verified** — stamp/About/credit clean, og meta present, sweep window math
+spot-checked at the silence and the deluge; desktop features from the morning
+ship unaffected.
+
 ## 2026-08-13 — Quote highlights on the record + findings visuals + mobile pass
 
 **Shipped/Done**
