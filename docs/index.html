@@ -133,8 +133,9 @@
   /* ---------- tour ---------- */
   #tour{position:absolute; z-index:25; left:24px; bottom:118px; width:min(470px, calc(100vw - 48px));
     background:rgba(10,14,22,.92); backdrop-filter:blur(8px); border:1px solid var(--line);
-    padding:20px 22px 14px; transform:translateY(140%); transition:transform .4s cubic-bezier(.2,.8,.2,1)}
-  #tour.open{transform:none}
+    padding:20px 22px 14px; transform:translateY(140%); visibility:hidden;
+    transition:transform .4s cubic-bezier(.2,.8,.2,1), visibility 0s .4s}
+  #tour.open{transform:none; visibility:visible; transition:transform .4s cubic-bezier(.2,.8,.2,1)}
   #tour .kicker{font-size:9.5px; letter-spacing:.3em; color:var(--amber)}
   #tour h2{font-family:'Fraunces',serif; font-weight:600; font-size:26px; margin:6px 0 8px}
   #tour .txt{font-size:12px; line-height:1.75; color:#c9cfdb; max-height:32vh; overflow-y:auto; scrollbar-width:thin}
@@ -438,7 +439,7 @@ Promise.all([fetch("data.json").then(r=>r.json()), fetch("tour.json").then(r=>r.
 function runCounters(){
   document.querySelectorAll("#counters b").forEach(el=>{
     const target=+el.dataset.n, t0=performance.now();
-    const tick=now=>{ const p=Math.min(1,(now-t0)/1600);
+    const tick=now=>{ const p=Math.min(1,Math.max(0,(now-t0)/1600));
       el.textContent=Math.round(target*(1-Math.pow(1-p,3))).toLocaleString();
       if(p<1) requestAnimationFrame(tick); };
     requestAnimationFrame(tick);

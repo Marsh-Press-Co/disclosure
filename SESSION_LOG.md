@@ -4,6 +4,57 @@ Running project history, newest entries first. Current state lives in the vault 
 (`MindHive/10-Projects/Disclosure/_Disclosure-Hub.md`); this file records what
 happened when.
 
+## 2026-08-13 (evening) — Short URL + findings video series: 3 pilots produced
+
+**Shipped/Done**
+- **Short URL live: uapdisclosure.github.io** → redirects to the site (deep
+  paths forwarded, e.g. /connections.html). Marsh created the free org; the
+  redirect repo is `uapdisclosure/uapdisclosure.github.io`. Chosen over
+  tinyurl/is-a.dev/eu.org: free forever, no tracking, no new service, and it
+  updates if a real domain ever happens.
+- **Findings video pipeline** (`tools/video/produce.py`, all-local, $0):
+  Kokoro TTS narration (**bm_george @ 0.92** — Marsh picked from 5 samples;
+  Apache-2.0, one identical voice forever) → Playwright records scripted
+  scenes of the live site at 1080p (SwiftShader WebGL) → ffmpeg assembly
+  with burned captions + end card carrying the short URL.
+- **Three pilots produced + delivered to Marsh** (raw/video/out/, NOT
+  published): wave-1947 (~56s), paper-machine (~53s, Hoover-note highlight
+  zoom = the site's thesis in motion), the-starred (~88s).
+- **Primary-source inserts** (Marsh's mid-flight idea): the-starred splices
+  the FBI's digital recreation of the Western US orbs testimony
+  (FBI-UAP-PR005) against 2026 agent-captured thermal footage (PR007), each
+  with burned provenance labels ("NOT PHOTOGRAPHIC EVIDENCE" on the
+  recreation). Discovery: **144 released records pair with official DVIDS
+  footage** (fresh war.gov CSV in raw/video/); direct-mp4 scrape pattern
+  proven.
+- **Two live-site bugs caught by the recording pass, fixed**: counter
+  animation could render negative (rAF timestamp before t0 — clamp added);
+  the empty tour panel peeked at bottom-left before any tour started
+  (slide-offset proportional to its own small height — visibility toggle).
+- **HANDOFF-VIDEO.md** — cold-start handoff for Preston + Bonnie (rebuild
+  steps, series contract, honesty rules for inserts, macOS portability
+  notes, DVIDS library recipe). Marsh has edit notes to convey; batch of
+  remaining chapters follows style sign-off.
+
+**Decisions** — voice/format/scope locked (George, 16:9, pilot-first); no
+music (archival austerity, zero licensing); distribution = Marsh's explicit
+call, nothing published.
+
+**Verified** — frame-level QA on all three clips (captions, highlight zoom,
+insert labels, end card); audio present; site fixes visually confirmed in
+re-records.
+
+**Notes/gotchas**
+- `pip install kokoro` fails on Python 3.14/Windows (blis has no wheel, via
+  misaki→spacy) — **use `kokoro-onnx`** + model files from its GitHub
+  releases; same voices, light deps.
+- war.gov CSV + DVIDS pages need curl_cffi `impersonate="chrome"`; DVIDS
+  direct mp4 = regex the cloudfront URL out of the video page.
+- Headless-capture rAF timestamps can precede a `performance.now()` taken
+  earlier — animation math needs a lower clamp too, or captures show
+  negative interpolation (this was a real site bug, not just a capture
+  artifact).
+
 ## 2026-08-13 (later still) — CONNECTIONS: the knowledge graph goes public, curated
 
 **Shipped/Done**
