@@ -27,6 +27,14 @@ strictly counted), **528 encounter records** with claimant strata, a
 | Geocode | `geocode_incidents.py` | `records/incidents_geo.json` |
 | Graph | `regen_detect.py` → `run_graphify_extract.py` → `merge_entities.py` → `run_graphify_build.py` → `apply_labels.py` | `graphify-out/` |
 | Site | `build_site_data.py`, `build_tour_assets.py`, `build_tour_data.py` | `docs/` (GitHub Pages) |
+| Connections | `build_graph_data.py` | `docs/graph.json` → `docs/connections.html` (3D constellation) |
+
+The Connections page shows a **curated** cut of the knowledge graph (top
+entities + guided constellations), never the raw hairball: presentation-layer
+entity merging (`build_graph_data.py`), every edge citing its source document
+with a live-verified URL, constellation captions computed at export time so
+they cannot go stale, and a byte-reproducible export (deterministic
+tie-breaks — rerun and diff to verify).
 
 Tour media carry **quote highlights**: `tools/quote_hl.py` fuzzy-locates each
 asset's quoted passage in the PDF text layer (line-clustered, OCR-garble

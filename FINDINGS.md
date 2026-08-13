@@ -99,12 +99,18 @@ usually means *unassessed paper*, not *investigated mystery*.
 
 ## 7. What the graph found that reading wouldn't
 
-- **The two most-connected entities across 80 years are AARO and J. Edgar Hoover,
-  tied at 38 edges each** — each era's bureaucratic center of gravity. UAP history
-  in the government's own files is a story of two filing systems.
-- **Project Sign → AARO's shortest path runs through KONA BLUE**, the proposed
-  DHS reverse-engineering program AARO documented — the graph's own summary of
-  how 1948 connects to 2024.
+- **The two busiest entities across 80 years are AARO and J. Edgar Hoover,
+  tied at 96 connections each** — a dead heat between each era's bureaucratic
+  center of gravity, once per-document duplicates are merged (Hoover's count
+  includes mail addressed to "Director, FBI"). Behind them: the government's
+  own UAP evaluation taxonomy (81), astronaut James McDivitt (45), Project
+  Blue Book (41). UAP history in the government's own files is a story of two
+  filing systems. (Counts recomputed at every export by
+  `tools/build_graph_data.py`; an earlier, less-merged graph had them tied
+  at 38.)
+- **KONA BLUE sits one hop from DHS, AAWSAP/AATIP, and AARO** in the modern
+  web — the claimed compartment, its investigators, and the unsubstantiated
+  verdict, adjacent in the graph.
 - **The Western US Event (2023–2025)** is the densest modern corroboration web:
   federal law-enforcement witnesses, 24 FBI photos, a slide deck, redacted serials,
   and a composite sketch all bind to one node ("orbs launching orbs," the

@@ -4,6 +4,57 @@ Running project history, newest entries first. Current state lives in the vault 
 (`MindHive/10-Projects/Disclosure/_Disclosure-Hub.md`); this file records what
 happened when.
 
+## 2026-08-13 (later still) — CONNECTIONS: the knowledge graph goes public, curated
+
+**Shipped/Done**
+- **docs/connections.html** — the corpus knowledge graph as a slowly rotating
+  3D constellation in the site's visual language (Marsh's idea; built curated
+  per Clyde's recommendation, never the raw 4,344-node hairball). Three
+  guided constellations (Two Filing Systems; The KONA BLUE Web; The Western
+  US Event) + free explore over the strongest-connected entities + search +
+  dossier cards. **Every edge cites its source document with a live-verified
+  URL**; the charter note on-page: "density measures paper, not truth."
+- **tools/build_graph_data.py** — curated export with presentation-layer
+  entity merging (label-key merge with disambiguation guards: dated
+  parentheticals never merge; accents/middle-initials normalized; explicit
+  alias map), constellation captions computed at export time, NARA medialz
+  URL derivation for docs whose frontmatter lacked a source_url
+  (spot-verified live: all 200s), byte-reproducible output (deterministic
+  tie-breaks; two consecutive runs compare identical).
+- **FINDINGS graph claims re-based to the merged R5 graph** — both prior
+  claims were stale (verification catches something every run): the "tied at
+  38" hub claim and the Sign→KONA BLUE shortest path (an artifact of a
+  duplicate AARO node). The merged truth is better than the old poetry:
+  **AARO and J. Edgar Hoover, dead-tied at 96 connections each** — each
+  era's filing system.
+- **Review workflow (17 agents)** confirmed 13 defects pre-ship, all fixed:
+  a NaN-poisoned camera blocker (focusNode after mode-switch → permanent
+  black screen), nondeterministic exporter (hash-seed tie-breaks), dossier
+  header contradicting its own list (full-graph degree presented as "shown
+  web" — now both counts, honestly labeled), ~1 in 6 citation links dead
+  (href="" — now zero: NARA URLs derived + unlinked-title fallback), no
+  fallback when esm.sh/graph.json fail (classic-script watchdog + message),
+  false merges (three distinct dated incidents collapsed; "Pilot (Jim
+  Lovell)" into generic "Pilot"), KONA constellation silently missing Luis
+  Elizondo (id-prefix matching → label matching), Hoover web misdated
+  1947–52 (actually 1947 into the late 1960s), mobile caption off-screen +
+  keyboard inaccessibility.
+- Also this round: og:image social card (highlighted Hoover note), era sweep
+  on PLAY, $0/no-ads copy removed (see prior entry), ✦ WEB button on the
+  globe rail.
+
+**Verified** — NaN repro dead (camera finite through the exact failing flow);
+export byte-identical across runs; zero unlinkable citations; zero duplicate
+entity families; desktop + mobile geometry checks; sampled NARA URLs 200.
+
+**Notes/gotchas**
+- 3d-force-graph's dist .mjs bare-imports its own deps and its UMD pairs
+  badly with modern three (no global) — load via esm.sh with `?deps=three@`
+  pinned on BOTH packages (Timer needs three ≥0.17x).
+- `position:fixed` inside the transformed mobile rail = positioned relative
+  to the rail, not the viewport (caption flew off-screen); fixed elements
+  must live outside transformed ancestors.
+
 ## 2026-08-13 (later) — Social card, era sweep, copy cleanup
 
 **Shipped/Done**

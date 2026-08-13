@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>CONNECTIONS — DISCLOSURE: The Paper Trail</title>
+<meta name="description" content="The entities and relationships inside the U.S. government's released UAP files, as a cited constellation. Every connection cites its document.">
+<meta property="og:title" content="CONNECTIONS — DISCLOSURE: The Paper Trail">
+<meta property="og:description" content="Who and what connect inside the government's own UAP files — every connection cites its document.">
+<meta property="og:url" content="https://marsh-press-co.github.io/disclosure/connections.html">
+<meta property="og:image" content="https://marsh-press-co.github.io/disclosure/media/og-card.jpg">
+<meta name="theme-color" content="#06080d">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,600;9..144,900&family=IBM+Plex+Mono:wght@300;400;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#06080d; --bg2:#0b0f17; --paper:#ece5d3; --ink:#10131a;
+    --amber:#e8a33d; --crimson:#ff5470; --dim:#8b93a5; --line:#232a38;
+  }
+  *{box-sizing:border-box; margin:0; padding:0}
+  html,body{height:100%; background:var(--bg); color:var(--paper); font-family:'IBM Plex Mono',monospace; overflow:hidden}
+  #graph{position:absolute; inset:0}
+  .noise{position:fixed; inset:0; pointer-events:none; opacity:.05; z-index:5;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='120' height='120' filter='url(%23n)' opacity='0.6'/%3E%3C/svg%3E")}
+
+  /* ---------- rail ---------- */
+  #rail{position:absolute; z-index:10; top:0; left:0; bottom:0; width:308px; padding:22px 20px;
+    background:linear-gradient(90deg, rgba(6,8,13,.94) 70%, rgba(6,8,13,0)); overflow-y:auto; scrollbar-width:thin}
+  .stamp{display:inline-block; border:2px solid var(--amber); color:var(--amber); padding:2px 8px;
+    font-size:10px; letter-spacing:.22em; transform:rotate(-2deg); margin-bottom:14px}
+  h1{font-family:'Fraunces',serif; font-weight:900; font-size:34px; line-height:.95}
+  h1 .thin{display:block; font-weight:300; font-size:13px; letter-spacing:.28em; margin-top:8px; color:var(--dim)}
+  #backLink{display:inline-block; margin:14px 0 4px; font-size:10.5px; color:var(--amber);
+    letter-spacing:.15em; text-decoration:none; border:1px solid var(--amber); padding:7px 12px}
+  #backLink:hover{background:var(--amber); color:var(--ink)}
+  .flabel{font-size:10px; letter-spacing:.24em; color:var(--dim); margin:16px 0 8px}
+  .cbtn{display:block; width:100%; text-align:left; background:transparent; border:1px solid var(--line);
+    color:var(--paper); font-family:inherit; font-size:11px; padding:9px 11px; margin-bottom:6px;
+    cursor:pointer; letter-spacing:.06em; transition:all .15s}
+  .cbtn:hover{border-color:var(--dim)}
+  .cbtn.on{border-color:var(--amber); color:var(--amber)}
+  .cbtn small{display:block; color:var(--dim); font-size:9.5px; margin-top:2px; letter-spacing:.04em}
+  #searchBox{width:100%; background:var(--bg2); border:1px solid var(--line); color:var(--paper);
+    font-family:inherit; font-size:11.5px; padding:8px 10px; margin-top:2px}
+  #searchBox:focus{outline:none; border-color:var(--amber)}
+  #searchHits{margin-top:4px}
+  .hit{padding:5px 8px; font-size:10.5px; color:var(--dim); cursor:pointer; border-left:2px solid transparent}
+  .hit:hover,.hit:focus{color:var(--paper); border-left-color:var(--amber); background:#101623; outline:none}
+  #caption{position:fixed; z-index:9; left:328px; bottom:16px; max-width:430px; font-size:10.5px;
+    line-height:1.7; color:#c9cfdb; border-left:2px solid var(--amber);
+    padding:10px 12px 10px 14px; background:rgba(6,8,13,.85); display:none}
+  #charter{margin-top:18px; font-size:9.5px; line-height:1.7; color:#5d6578}
+  #charter b{color:#7c8496; font-weight:400}
+  .credit{margin-top:10px; font-size:9px; color:#4a5262}
+  .credit a{color:var(--amber)}
+
+  /* ---------- legend ---------- */
+  #legend{position:absolute; z-index:10; right:20px; bottom:16px; font-size:9.5px; color:var(--dim);
+    background:rgba(6,8,13,.7); padding:10px 12px; border:1px solid var(--line); max-width:290px}
+  #legend .li{display:flex; align-items:center; gap:7px; margin:3px 0}
+  #legend .sw{width:9px; height:9px; border-radius:50%; flex:none}
+
+  /* ---------- dossier card ---------- */
+  #card{position:absolute; z-index:20; top:20px; right:20px; width:340px; max-height:calc(100% - 60px);
+    background:var(--paper); color:var(--ink); border-radius:2px; padding:18px 18px 14px;
+    box-shadow:0 18px 60px rgba(0,0,0,.65); overflow-y:auto; transform:translateX(110%);
+    visibility:hidden; transition:transform .28s cubic-bezier(.2,.8,.2,1), visibility 0s .28s}
+  #card.open{transform:none; visibility:visible; transition:transform .28s cubic-bezier(.2,.8,.2,1)}
+  #card .close{position:absolute; top:8px; right:12px; cursor:pointer; font-size:16px; color:#666;
+    background:none; border:none; font-family:inherit}
+  #card .kind{font-size:10px; letter-spacing:.25em; color:#7a6c4a}
+  #card h2{font-family:'Fraunces',serif; font-weight:600; font-size:20px; line-height:1.15; margin:6px 0 8px}
+  #card .meta{font-size:11px; color:#5b5443; margin-bottom:8px; line-height:1.6}
+  #card .srcHead{font-size:10px; letter-spacing:.24em; color:#8a7d5e; margin:12px 0 6px}
+  .src{border-top:1px solid #d4c9ac; padding:7px 0; font-size:11px; line-height:1.5}
+  .src a{color:#8a5b1d}
+  .rel{display:inline-block; background:#f6efd9; border:1px dashed #b3a67f; font-size:10px;
+    padding:2px 8px; margin:2px 0 6px; letter-spacing:.08em}
+  #card .caveat{margin-top:12px; font-size:9.5px; color:#7c7259; border-top:2px solid var(--ink); padding-top:6px}
+  .nlink{color:#8a5b1d; cursor:pointer; text-decoration:underline dotted}
+
+  #railToggle{display:none; position:absolute; z-index:12; top:14px; left:14px; background:rgba(6,8,13,.85);
+    border:1px solid var(--amber); color:var(--amber); font-family:inherit; font-size:10px;
+    letter-spacing:.18em; padding:8px 12px; cursor:pointer}
+  @media (max-width:820px){
+    #rail{width:min(84vw,320px); transform:translateX(-105%); transition:transform .3s; background:rgba(6,8,13,.96)}
+    #rail.open{transform:none}
+    #railToggle{display:block}
+    #card{left:10px; right:10px; width:auto; top:auto; bottom:10px; max-height:52%}
+    #legend{display:none}
+    /* the guided caption floats over the graph once the rail closes */
+    #caption{position:fixed; left:10px; right:10px; bottom:calc(10px + env(safe-area-inset-bottom));
+      z-index:9; margin:0; max-width:none; background:rgba(6,8,13,.88); padding:10px 12px 10px 14px}
+    #railLegend{display:block !important}
+  }
+  #railLegend{display:none; margin-top:14px; font-size:9.5px; color:var(--dim)}
+  #railLegend .li{display:flex; align-items:center; gap:7px; margin:3px 0}
+  #railLegend .sw{width:9px; height:9px; border-radius:50%; flex:none}
+</style>
+</head>
+<body>
+<div id="graph"></div>
+<div class="noise"></div>
+
+<button id="railToggle" onclick="document.getElementById('rail').classList.toggle('open')">☰ MENU</button>
+
+<aside id="rail">
+  <span class="stamp">DECLASSIFIED · PUBLIC RECORD</span>
+  <h1>CONNECTIONS<span class="thin">THE PAPER TRAIL</span></h1>
+  <a id="backLink" href="index.html">← THE GLOBE</a>
+
+  <div class="flabel">CONSTELLATIONS — GUIDED</div>
+  <div id="constBtns"></div>
+
+  <div class="flabel">SEARCH THE WEB</div>
+  <input id="searchBox" placeholder="entity, program, case…" autocomplete="off">
+  <div id="searchHits"></div>
+
+  <div id="railLegend"></div>
+
+  <div id="charter">
+    <b>How to read this honestly.</b> Nodes are entities a language model extracted
+    from the released documents; lines are relationships it read there. Entities are
+    merged for presentation and only the strongest connections are shown
+    (<span id="statLine"></span>). Density measures paper, not truth — a bright hub
+    means the government wrote something down many times, nothing more.
+    <b>Every connection cites its document</b> — click a line or a node.
+    <div class="credit">Part of <a href="index.html">DISCLOSURE — The Paper Trail</a>. All sources are U.S. government records (public domain).</div>
+  </div>
+</aside>
+
+<div id="caption" aria-live="polite"></div>
+<div id="legend"></div>
+<div id="loadFail" style="display:none; position:absolute; z-index:30; top:40%; left:50%; transform:translate(-50%,-50%);
+  max-width:420px; text-align:center; font-size:11px; line-height:1.8; color:#c9cfdb; background:rgba(11,15,23,.95);
+  border:1px solid var(--line); padding:20px 24px">
+  The 3D module could not load — a network filter may be blocking esm.sh, or the
+  connection dropped. The archive itself is unaffected:
+  <a href="index.html" style="color:var(--amber)">return to the globe →</a>
+</div>
+
+<div id="card"><button class="close" onclick="closeCard()" aria-label="Close">✕</button><div id="cardBody"></div></div>
+
+<script>
+/* runs even if the ES module below never loads (blocked CDN, dropped link) */
+setTimeout(function(){
+  if(!window.__cx) document.getElementById("loadFail").style.display="block";
+}, 12000);
+</script>
+<script type="module">
+import ForceGraph3D from "https://esm.sh/3d-force-graph@1.79.0?deps=three@0.180.0";
+import SpriteText from "https://esm.sh/three-spritetext@1.10.0?deps=three@0.180.0";
+
+const COMM_COLORS=["#7bd0ff","#5e8ce8","#58a3c4","#85b3a6","#c8b48a","#d9a05b","#4f97d6","#a8b79b"];
+const OTHER="#6c7484";
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+let FULL=null, graph=null, mode="all", commColor=new Map();
+
+function loadFail(){ document.getElementById("loadFail").style.display="block"; }
+
+fetch("graph.json").then(r=>{ if(!r.ok) throw new Error(r.status); return r.json(); }).then(d=>{
+  FULL=d;
+  document.getElementById("statLine").textContent=
+    `${d.stats.nodes} of ${d.stats.full_nodes} entities, ${d.stats.edges} of ${d.stats.full_edges} connections`;
+  // fixed color order: biggest communities first, never re-assigned
+  const counts=new Map();
+  d.nodes.forEach(n=>{ if(n.community) counts.set(n.community,(counts.get(n.community)||0)+1); });
+  [...counts.entries()].sort((a,b)=>b[1]-a[1]).slice(0,COMM_COLORS.length)
+    .forEach(([c],i)=>commColor.set(c,COMM_COLORS[i]));
+  buildLegend();
+  buildButtons();
+  initGraph();
+  setMode("all");
+}).catch(loadFail);
+
+addEventListener("keydown",e=>{ if(e.key==="Escape") closeCard(); });
+
+const colorOf=n=>commColor.get(n.community)||OTHER;
+
+function initGraph(){
+  graph=ForceGraph3D()(document.getElementById("graph"))
+    .backgroundColor("#06080d")
+    .showNavInfo(false)
+    .nodeVal(n=>Math.max(1.2, n.deg*.55))
+    .nodeColor(colorOf)
+    .nodeOpacity(.92)
+    .nodeLabel(n=>`<div style="font:11px 'IBM Plex Mono',monospace;color:#ece5d3;background:rgba(6,8,13,.85);padding:3px 7px;border:1px solid #232a38">${esc(n.label)}<br><span style="color:#8b93a5">${esc(n.community||"")}</span></div>`)
+    .nodeThreeObjectExtend(true)
+    .nodeThreeObject(n=>{
+      const thr = mode==="all" ? 14 : 4;
+      if((n.deg||0) < thr) return undefined;
+      const s=new SpriteText(n.label, Math.min(7, 2.6+n.deg*.06), "#ece5d3");
+      s.fontFace="IBM Plex Mono, monospace";
+      s.backgroundColor=false;
+      s.material.depthWrite=false;
+      s.center.y=-0.9;
+      return s;
+    })
+    .linkColor(()=>"#3a4356")
+    .linkOpacity(.55)
+    .linkWidth(0.6)
+    .linkHoverPrecision(4)
+    .onNodeClick(openNode)
+    .onLinkClick(openLink)
+    .onBackgroundClick(closeCard);
+  graph.controls().autoRotate=true;
+  graph.controls().autoRotateSpeed=.55;
+  document.getElementById("graph").addEventListener("pointerdown",()=>{graph.controls().autoRotate=false;},{once:true});
+  addEventListener("resize",()=>graph.width(innerWidth).height(innerHeight));
+}
+
+function subgraph(ids){
+  const set=new Set(ids);
+  const nodes=FULL.nodes.filter(n=>set.has(n.id)).map(n=>({...n}));
+  const links=FULL.links.filter(l=>set.has(l.source)&&set.has(l.target)).map(l=>({...l}));
+  return {nodes, links};
+}
+
+function setMode(m){
+  mode=m;
+  closeCard();
+  const cap=document.getElementById("caption");
+  if(m==="all"){
+    graph.graphData({nodes:FULL.nodes.map(n=>({...n})), links:FULL.links.map(l=>({...l}))});
+    cap.style.display="none";
+  }else{
+    const c=FULL.constellations.find(x=>x.id===m);
+    graph.graphData(subgraph(c.nodes));
+    cap.textContent=c.caption;
+    cap.style.display="block";
+  }
+  document.querySelectorAll(".cbtn").forEach(b=>b.classList.toggle("on",b.dataset.m===m));
+  document.getElementById("rail").classList.remove("open");  // mobile: reveal the graph
+  graph.controls().autoRotate=true;
+  setTimeout(()=>graph.zoomToFit(900, 60),700);
+}
+
+function buildButtons(){
+  const holder=document.getElementById("constBtns");
+  FULL.constellations.forEach(c=>{
+    const b=document.createElement("button");
+    b.className="cbtn"; b.dataset.m=c.id;
+    b.innerHTML=`✦ ${esc(c.title)}<small>${c.nodes.length} entities</small>`;
+    b.onclick=()=>setMode(c.id);
+    holder.appendChild(b);
+  });
+  const all=document.createElement("button");
+  all.className="cbtn"; all.dataset.m="all";
+  all.innerHTML=`◦ Free explore<small>the ${FULL.stats.nodes} strongest-connected entities</small>`;
+  all.onclick=()=>setMode("all");
+  holder.appendChild(all);
+}
+
+function buildLegend(){
+  const html=`<div style="letter-spacing:.2em; margin-bottom:5px">DOCUMENT COMMUNITIES</div>`+
+    [...commColor.entries()].map(([c,col])=>
+      `<div class="li"><span class="sw" style="background:${col}"></span>${esc(c)}</div>`).join("")+
+    `<div class="li"><span class="sw" style="background:${OTHER}"></span>other</div>`;
+  document.getElementById("legend").innerHTML=html;
+  document.getElementById("railLegend").innerHTML=html;  // phones: legend lives in the rail
+}
+
+/* ---------- search ---------- */
+document.getElementById("searchBox").addEventListener("input",e=>{
+  const q=e.target.value.trim().toLowerCase();
+  const el=document.getElementById("searchHits"); el.innerHTML="";
+  if(q.length<2) return;
+  FULL.nodes.filter(n=>n.label.toLowerCase().includes(q)).slice(0,8).forEach(n=>{
+    const d=document.createElement("div"); d.className="hit"; d.textContent=n.label;
+    d.tabIndex=0; d.setAttribute("role","button");
+    const go=()=>{ el.innerHTML=""; e.target.value=n.label;
+      document.getElementById("rail").classList.remove("open"); focusNode(n.id); };
+    d.onclick=go;
+    d.onkeydown=ev=>{ if(ev.key==="Enter"||ev.key===" "){ ev.preventDefault(); go(); } };
+    el.appendChild(d);
+  });
+});
+function focusNode(id){
+  const needSwitch = mode!=="all" && !graph.graphData().nodes.some(n=>n.id===id);
+  if(needSwitch) setMode("all");
+  const attempt=tries=>{
+    const n=graph.graphData().nodes.find(x=>x.id===id);
+    if(!n) return;
+    if(![n.x,n.y,n.z].every(Number.isFinite)){    // layout hasn't placed it yet
+      if(tries>0) setTimeout(()=>attempt(tries-1),150);
+      return;
+    }
+    graph.controls().autoRotate=false;
+    const len=Math.hypot(n.x,n.y,n.z)||1, r=1+90/len;
+    graph.cameraPosition({x:n.x*r,y:n.y*r,z:n.z*r},{x:n.x,y:n.y,z:n.z},1200);
+    openNode(n);
+  };
+  setTimeout(()=>attempt(24), needSwitch?600:0);
+}
+
+/* ---------- dossier ---------- */
+const docLine=dd=>dd.url
+  ?`<div><a href="${esc(dd.url)}" target="_blank" rel="noopener">${esc(dd.title)} ↗</a></div>`
+  :`<div>${esc(dd.title)}</div>`;
+function openNode(n){
+  const nbrs=FULL.links.filter(l=>l.source===n.id||l.target===n.id);
+  const rows=nbrs.slice(0,14).map(l=>{
+    const other=l.source===n.id?l.target:l.source;
+    const on=FULL.nodes.find(x=>x.id===other);
+    return `<div class="src"><span class="nlink" data-n="${esc(other)}" tabindex="0" role="button">${esc(on?on.label:other)}</span>
+      <div class="rel">${esc(l.relation||"related")}</div>
+      ${(l.docs||[]).map(docLine).join("")}
+    </div>`;}).join("");
+  const firstRead=n.doc&&n.doc.title
+    ?` · first read in ${n.doc.url?`<a class="nlink" href="${esc(n.doc.url)}" target="_blank" rel="noopener" style="text-decoration:underline">${esc(n.doc.title)}</a>`:esc(n.doc.title)}`:"";
+  document.getElementById("cardBody").innerHTML=`
+    <div class="kind">ENTITY · ${esc(n.community||"uncategorized")}</div>
+    <h2>${esc(n.label)}</h2>
+    <div class="meta">${nbrs.length} connection${nbrs.length===1?"":"s"} in this curated web · ${n.deg} in the full corpus graph${firstRead}</div>
+    <div class="srcHead">CONNECTIONS — EACH CITES ITS PAPER</div>${rows}
+    ${nbrs.length>14?`<div class="meta">…and ${nbrs.length-14} more.</div>`:""}
+    <div class="caveat">Relationships are model-extracted from the documents; verify against the linked source before citing.</div>`;
+  document.getElementById("card").classList.add("open");
+  document.querySelectorAll("#cardBody .nlink[data-n]").forEach(el=>{
+    el.onclick=()=>focusNode(el.dataset.n);
+    el.onkeydown=e=>{ if(e.key==="Enter"||e.key===" "){ e.preventDefault(); focusNode(el.dataset.n); } };
+  });
+}
+function openLink(l){
+  const s=FULL.nodes.find(x=>x.id===(l.source.id||l.source)), t=FULL.nodes.find(x=>x.id===(l.target.id||l.target));
+  document.getElementById("cardBody").innerHTML=`
+    <div class="kind">CONNECTION</div>
+    <h2>${esc(s?.label)} ⟷ ${esc(t?.label)}</h2>
+    <div class="rel">${esc(l.relation||"related")}</div>
+    <div class="srcHead">READ FROM</div>
+    ${(l.docs||[]).map(dd=>`<div class="src">${docLine(dd)}</div>`).join("")||'<div class="src">source document not on file</div>'}
+    <div class="caveat">Relationships are model-extracted from the documents; verify against the linked source before citing.</div>`;
+  document.getElementById("card").classList.add("open");
+}
+function closeCard(){document.getElementById("card").classList.remove("open");}
+window.closeCard=closeCard;
+window.__cx={get FULL(){return FULL}, get graph(){return graph}, openNode, openLink, setMode, focusNode};
+</script>
+</body>
+</html>
