@@ -105,7 +105,7 @@ usually means *unassessed paper*, not *investigated mystery*.
 - **Project Sign → AARO's shortest path runs through KONA BLUE**, the proposed
   DHS reverse-engineering program AARO documented — the graph's own summary of
   how 1948 connects to 2024.
-- **The Western US Event (Dec 15, 2025)** is the densest modern corroboration web:
+- **The Western US Event (2023–2025)** is the densest modern corroboration web:
   federal law-enforcement witnesses, 24 FBI photos, a slide deck, redacted serials,
   and a composite sketch all bind to one node ("orbs launching orbs," the
   "Dark Kite," a ~12-18m motionless fiery orb).

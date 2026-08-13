@@ -28,6 +28,16 @@ strictly counted), **528 encounter records** with claimant strata, a
 | Graph | `regen_detect.py` → `run_graphify_extract.py` → `merge_entities.py` → `run_graphify_build.py` → `apply_labels.py` | `graphify-out/` |
 | Site | `build_site_data.py`, `build_tour_assets.py`, `build_tour_data.py` | `docs/` (GitHub Pages) |
 
+Tour media carry **quote highlights**: `tools/quote_hl.py` fuzzy-locates each
+asset's quoted passage in the PDF text layer (line-clustered, OCR-garble
+tolerant) and emits normalized rects into `docs/media/manifest.json` (`page` +
+`hl`); handwriting/no-text pages use pinned manual rects in
+`build_tour_assets.py`. The site draws them as a **toggleable SVG overlay** in
+the lightbox — the render JPEGs stay unmarked, and every rect is visually
+proofed against the page before shipping (see `specs/2026-08-12-*.md`). All
+source links (tour + incident cards) deep-link `#page=N`. Local preview:
+`.claude/launch.json` serves `docs/` on :8642.
+
 Everything is resumable; free-tier daily caps just mean run again tomorrow.
 Bulk LLM reading runs on Gemini free tier (`GEMINI_API_KEY` in `.env`,
 never committed); keep records/encounters/eval on a DIFFERENT model than the
@@ -42,7 +52,8 @@ graph extraction (separate quota buckets).
   famous cases, never bulk.
 - **Navaid geocoding** — FAA reports use VOR waypoints; a lookup table would
   place ~100 more modern incidents on the globe.
-- **Site polish** — mobile pass, og:image card, accessibility.
+- **Site polish** — og:image card, accessibility (mobile pass + quote
+  highlights + findings charts shipped 2026-08-12).
 - **Next-release watch** — a scheduled check watches war.gov for new PURSUE
   tranches (it caught Release 5, ingested 2026-08-12); when one lands,
   `HANDOFF-R2.md` is the ingest runbook pattern.

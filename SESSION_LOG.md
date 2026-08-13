@@ -4,6 +4,78 @@ Running project history, newest entries first. Current state lives in the vault 
 (`MindHive/10-Projects/Disclosure/_Disclosure-Hub.md`); this file records what
 happened when.
 
+## 2026-08-13 — Quote highlights on the record + findings visuals + mobile pass
+
+**Shipped/Done**
+- **Quote highlights** (Marsh's ask: "mark up whatever text we found so people
+  can find it visually"): every tour render's quoted passage now carries a
+  toggleable amber overlay in the lightbox — page dimmed around the quote,
+  VIEW CLEAN one tap away, "highlight added by this site — the document itself
+  is unmarked" on the caption. 12 of 15 assets highlighted; all placements
+  vision-proofed against the page before ship.
+- **New `tools/quote_hl.py`**: fuzzy line-level quote locator over PDF text
+  layers (char clustering → column-gap segmenting → stopword-filtered token
+  matching, difflib fuzz 0.72 for OCR garble; geometric run grouping;
+  /Rotate 90/180/270 coordinate transform; overlap trimming). Handwriting and
+  no-text scans (Hoover note, Gemini VII) use pinned manual rects.
+- **Deep page links**: every source link — tour media AND all incident-card
+  citations — now opens the PDF at the cited page (`#page=N`).
+- **Lightbox pan/zoom**: double-tap/click to zoom, drag pan, pinch, wheel.
+- **Findings drawer**: mini-charts from shipped data (night 450 v day 337 of
+  967 split bar; decade histogram; disc/orb era bands) + **The Twenty-Two**
+  ranked leaderboard (agency chips; row click flies to the dot). All numbers
+  recomputed client-side from data.json and verified against FINDINGS.
+- **Mobile pass** (desktop verified pixel-identical): rail is a compact strip
+  with a FILTERS fold, bigger tap targets, horizontal media strip, safe-area
+  insets, tightened lightbox/drawer. Verified at mobile emulation.
+- **Four shipped media bugs caught & fixed** (verification catches something
+  every run — again): western-slides-orbs showed the Transparent Kite slide
+  (p4) instead of Orbs Launching Orbs (p1); western-slides-1 "Cover slide" was
+  actually the orbs slide (deck has no cover — now the Transparent Kite slide
+  with its spotlight-stopped-on-nothing quote); robertson-hrr rendered the
+  report's TABLE OF CONTENTS (p2) instead of the Robertson Panel discussion
+  (p17, now quoting "use various channels to debunk UFO reports" precisely);
+  ornl-specimen showed an unrelated DoD/ODNI annual-report page — now the real
+  AARO/ORNL supplement p1 with claim AND verdict highlighted on one page.
+  Plus: FAA caption now matches the report ("Starlink satellites", not
+  "satellite train"); "(Dec 2025)" deck date (unsupported by the record)
+  removed from the western-slides caption and FINDINGS.md.
+- **Review workflow (13 agents, 3 dimensions + adversarial verify)** found 10
+  real defects — all confirmed by reproduction, all fixed: image ghost-drag
+  killing mouse pan (draggable=false), evenodd dim stripes on overlapping
+  rects (SVG mask + data-level trim), fresh-clone rebuild silently deleting
+  supplemental assets and hl data (prev-manifest carry-forward; fresh-clone
+  sim now byte-identical), rotated-page rect corruption (transform, tested
+  90/180/270), stale-JPG cache on page changes (page-diff invalidation),
+  pre-load NaN charts (data gate), mobile handle offset, 3-finger pinch jump,
+  and the caption date above.
+
+**Decisions**
+- Highlights are site annotations drawn as overlays — the record renders are
+  never marked up. Toggleable by design: proving the document is unmarked IS
+  the honesty feature.
+- Highlight scope = tour media only for now; incident-card sources (1,483)
+  parked until per-case visual verification is feasible.
+
+**Verified**
+- All 12 highlight placements eyeballed against proof composites; chart
+  numbers reproduce canonical findings (450/337/967, 533-2020s, ★22); desktop
+  layout unchanged; fresh-clone rebuild byte-identical; rotation invariant
+  test 90/270 exact, 180 line-segmentation borderline only (wider coverage,
+  never misplacement).
+
+**Deferred/next**
+- og:image refresh (a highlighted Hoover note would make a great social card);
+  globe time-scrubber; NUFORC join; navaid geocoding.
+
+**Notes/gotchas**
+- pypdfium2 charboxes are UNROTATED user space while get_size()/render() are
+  rotation-applied — locate coordinates need the /Rotate transform
+  (quote_hl.py handles it; promoted here on first occurrence).
+- The in-app browser pane can refuse screenshots ("not displayed") while page
+  JS runs fine — hidden-tab timer throttling also stalls setTimeout polling
+  loops in injected JS; assert via synchronous DOM reads instead.
+
 ## 2026-08-12 — PURSUE Release 5 ingested (published 2026-08-07; caught on manual check)
 
 **Shipped/Done**

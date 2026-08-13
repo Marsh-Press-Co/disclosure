@@ -15,6 +15,8 @@ from pathlib import Path
 
 import pypdfium2
 
+from quote_hl import locate_quote, trim_overlaps
+
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -59,35 +61,63 @@ def find_page_with(pdf_path, needle):
         if r.is_encrypted:
             r.decrypt("")
         for n, p in enumerate(r.pages, 1):
-            if needle.lower() in (p.extract_text() or "").lower():
+            if needle.lower() in " ".join((p.extract_text() or "").split()).lower():
                 return n
     except Exception:
         return None
     return None
 
 
+def hl_for(pdf_path, page, quotes):
+    pdf = pypdfium2.PdfDocument(str(pdf_path), password="")
+    rects = []
+    for q in quotes:
+        found = locate_quote(pdf[page - 1], q)
+        if not found:
+            print(f"  HL MISS {pdf_path} p{page}: {q[:60]!r}")
+        rects += found
+    pdf.close()
+    return trim_overlaps(rects)
+
+
+def fresh_render(pdf_path, pg, name):
+    """render_page, invalidating the cached JPG if the cited page changed."""
+    out = MEDIA / f"{name}.jpg"
+    if out.exists() and MANIFEST.get(name, {}).get("page") not in (None, pg):
+        out.unlink()
+    return render_page(pdf_path, pg, name)
+
+
 def supplemental():
-    # Robertson Panel discussion inside AARO's Historical Record Report
+    # Robertson Panel discussion inside AARO's Historical Record Report.
+    # Anchor on the panel's actual recommendation, not the first TOC mention.
+    ROBERTSON_Q = ("They recommended the USG use various channels to debunk UFO reports "
+                   "and suggested monitoring domestic UFO enthusiast organizations.")
     hrr = ROOT / "raw" / "pdfs" / "aaro-historical-record-report-vol1.pdf"
     if hrr.exists():
-        pg = find_page_with(hrr, "Robertson")
-        if pg and render_page(hrr, pg, "robertson-hrr"):
+        pg = find_page_with(hrr, "debunk UFO reports")
+        if pg and fresh_render(hrr, pg, "robertson-hrr"):
             MANIFEST["robertson-hrr"] = {
                 "file": "media/robertson-hrr.jpg",
-                "caption": f"AARO's own history (p.{pg}) documenting the CIA-convened Robertson Panel (1953), which recommended reducing public interest in UFOs - the government's management of public perception, described in a government report.",
+                "caption": f"AARO's own history (p.{pg}) on the CIA-convened Robertson Panel (1953), which \"recommended the USG use various channels to debunk UFO reports and suggested monitoring domestic UFO enthusiast organizations\" - the government's management of public perception, described in a government report.",
                 "credit": "AARO Historical Record Report Vol. I (public domain).",
                 "source_url": "https://www.aaro.mil",
+                "page": pg,
+                "hl": hl_for(hrr, pg, [ROBERTSON_Q]),
             }
     # A Starlink-era FAA report page
+    STARLINK_Q = "Pilot later called back and stated he thinks it is Starlink satellites."
     for pdf in sorted((ROOT / "raw" / "nara" / "extracted" / "493468575").rglob("*.pdf"))[:400]:
         pg = find_page_with(pdf, "starlink")
         if pg:
-            render_page(pdf, pg, "faa-starlink")
+            fresh_render(pdf, pg, "faa-starlink")
             MANIFEST["faa-starlink"] = {
                 "file": "media/faa-starlink.jpg",
-                "caption": "A modern FAA UAP report attributing a sighting to a Starlink satellite train - the signature explanation of the 2020s reporting era.",
+                "caption": "A modern FAA UAP report: multiple aircraft report the same phenomenon; a pilot later attributes it to Starlink satellites - the signature explanation of the 2020s reporting era.",
                 "credit": "FAA record, NARA RG 615 (public domain).",
-                "source_url": "https://www.archives.gov/research/topics/uaps",
+                "source_url": f"https://catalog.archives.gov/medialz/electronic-records/rg-615/493468575/{pdf.name}",
+                "page": pg,
+                "hl": hl_for(pdf, pg, [STARLINK_Q]),
             }
             break
     (MEDIA / "manifest.json").write_text(json.dumps(MANIFEST, indent=1, ensure_ascii=False), encoding="utf-8")
@@ -146,7 +176,7 @@ CHAPTERS = [
         "filters": {"y0": 1947, "y1": 1969},
         "highlight": {},
         "media": ["robertson-hrr"],
-        "text": "This site trusts nothing, including its sources - and the sources agree. In 1953, the CIA-convened Robertson Panel recommended reducing public interest in flying saucers; AARO's own historical report documents the government's decades of managing public perception, and Project Blue Book's public-relations posture is part of that documented history. So nothing here is presumed true because it is official. What you are reading is what the record says - with each document's own stance attached, and the page number to check it yourself. That is the only honest way to read a government archive about a subject the government once worked to make uninteresting.",
+        "text": "This site trusts nothing, including its sources - and the sources agree. In 1953, the CIA-convened Robertson Panel recommended the government 'use various channels to debunk UFO reports'; AARO's own historical report documents the government's decades of managing public perception, and Project Blue Book's public-relations posture is part of that documented history. So nothing here is presumed true because it is official. What you are reading is what the record says - with each document's own stance attached, and the page number to check it yourself. That is the only honest way to read a government archive about a subject the government once worked to make uninteresting.",
     },
     {
         "id": "claims-verdicts", "title": "Claims and Verdicts",
@@ -164,7 +194,7 @@ CHAPTERS = [
         "filters": {"y0": 1990, "y1": 2026},
         "highlight": {"date_prefix": "2023-10", "loc": "western united states"},
         "media": ["faa-starlink", "western-slides-orbs"],
-        "text": "The released record is quietest in the 1990s and 2000s - thirty-six incidents across twenty years - then erupts: the 2020s are the largest decade in the corpus, 533 incidents, driven by military sensors and a modern FAA reporting pipeline. The new era has a signature the old one couldn't: Starlink satellite trains, now a recurring explanation in the FAA's own paper. And it has genuine puzzles - federal agents on night vision watching orange orbs launch smaller red orbs across two nights in the western United States, with an AARO field follow-up. Whether the silence was an absence of events or an absence of releases is one of this archive's sharpest open questions.",
+        "text": "The released record is quietest in the 1990s and 2000s - thirty-six incidents across twenty years - then erupts: the 2020s are the largest decade in the corpus, 533 incidents, driven by military sensors and a modern FAA reporting pipeline. The new era has a signature the old one couldn't: Starlink satellite trains, now a recurring explanation in the FAA's own paper. And it has genuine puzzles - three teams of federal agents watching orange orbs launch smaller red orbs in groups of two to four across two days in the western United States, with AARO follow-up analysis. Whether the silence was an absence of events or an absence of releases is one of this archive's sharpest open questions.",
     },
     {
         "id": "the-starred", "title": "The Twenty-Two",
@@ -186,7 +216,7 @@ def main():
         chapters.append({**ch, "highlight": find_incidents(**ch["highlight"]) if ch["highlight"] else [],
                          "media": media})
     counts = json.loads((SITE / "data.json").read_text(encoding="utf-8"))["counts"]
-    tour = {"built": "2026-08-06", "counts": counts, "chapters": chapters}
+    tour = {"built": "2026-08-12", "counts": counts, "chapters": chapters}
     (SITE / "tour.json").write_text(json.dumps(tour, ensure_ascii=False, indent=1), encoding="utf-8")
     for ch in chapters:
         print(f"  {ch['id']}: {len(ch['highlight'])} highlighted, {len(ch['media'])} media")

@@ -1,8 +1,8 @@
 {
- "built": "2026-08-06",
+ "built": "2026-08-12",
  "counts": {
   "incidents": 1483,
-  "placed": 996,
+  "placed": 997,
   "corroborated": 22,
   "encounters": 528
  },
@@ -31,6 +31,7 @@
      "caption": "1947 witness-survey analysis from FBI Serial 130 - the Bureau cataloguing the summer wave in real time.",
      "credit": "U.S. government record (public domain). R1 renders from war.gov source PDFs.",
      "source_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_130.pdf",
+     "page": 14,
      "id": "serial-130-survey"
     }
    ],
@@ -106,6 +107,15 @@
      "caption": "J. Edgar Hoover's handwritten note, July 1947: \"...we must insist upon full access to discs recovered. For instance in the [Ia.] case the Army grabbed it and would not let us have it for cursory examination.\" FBI file 62-HQ-83894, Section 1.",
      "credit": "U.S. government record (public domain). R1 renders from war.gov source PDFs.",
      "source_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_1.pdf",
+     "page": 127,
+     "hl": [
+      [
+       0.18,
+       0.748,
+       0.955,
+       0.954
+      ]
+     ],
      "id": "hoover-note"
     },
     {
@@ -113,6 +123,57 @@
      "caption": "The typed follow-up quoting Hoover's note as \"the Ia. case\" and recording Gen. Schulgen's assurance of FBI access to recovered discs.",
      "credit": "U.S. government record (public domain). R1 renders from war.gov source PDFs.",
      "source_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_1.pdf",
+     "page": 131,
+     "hl": [
+      [
+       0.0934,
+       0.2971,
+       0.7759,
+       0.3159
+      ],
+      [
+       0.0938,
+       0.3159,
+       0.8328,
+       0.3293
+      ],
+      [
+       0.0934,
+       0.3316,
+       0.2527,
+       0.3463
+      ],
+      [
+       0.2763,
+       0.3301,
+       0.5058,
+       0.348
+      ],
+      [
+       0.5195,
+       0.3293,
+       0.8726,
+       0.3488
+      ],
+      [
+       0.0946,
+       0.3488,
+       0.5471,
+       0.3642
+      ],
+      [
+       0.0947,
+       0.4485,
+       0.8459,
+       0.4667
+      ],
+      [
+       0.0962,
+       0.4667,
+       0.251,
+       0.4848
+      ]
+     ],
      "id": "schulgen-followup"
     },
     {
@@ -120,6 +181,21 @@
      "caption": "Standing order: \"Any physical evidence of the sighting will be forwarded by most expeditious means to Commanding General, Air Materiel Command.\" The custody pipeline, in writing.",
      "credit": "U.S. government record (public domain). R1 renders from war.gov source PDFs.",
      "source_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf",
+     "page": 12,
+     "hl": [
+      [
+       0.2534,
+       0.6544,
+       0.8836,
+       0.6735
+      ],
+      [
+       0.1618,
+       0.6735,
+       0.9018,
+       0.6932
+      ]
+     ],
      "id": "forwarding-order"
     }
    ],
@@ -149,6 +225,7 @@
      "caption": "FBI photo B7, Western US, Sept 2025: unresolved object below a helicopter. An infrared frame of something unidentified - nothing more is claimed.",
      "credit": "U.S. government record (public domain). R1 renders from war.gov source PDFs.",
      "source_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b7.pdf",
+     "page": 1,
      "id": "fbi-photo-b7"
     }
    ],
@@ -176,6 +253,7 @@
      "caption": "FBI laboratory composite sketch rendered from eyewitness descriptions (SE US, Sept 2023). A sketch of what witnesses described - not a photograph of a craft.",
      "credit": "U.S. government record (public domain). R1 renders from war.gov source PDFs.",
      "source_url": "https://www.war.gov/medialink/ufo/release_1/2024-04-30-composite-sketch.pdf",
+     "page": 1,
      "id": "composite-sketch"
     }
    ],
@@ -217,13 +295,28 @@
    "media": [
     {
      "file": "media/robertson-hrr.jpg",
-     "caption": "AARO's own history (p.2) documenting the CIA-convened Robertson Panel (1953), which recommended reducing public interest in UFOs - the government's management of public perception, described in a government report.",
+     "caption": "AARO's own history (p.17) on the CIA-convened Robertson Panel (1953), which \"recommended the USG use various channels to debunk UFO reports and suggested monitoring domestic UFO enthusiast organizations\" - the government's management of public perception, described in a government report.",
      "credit": "AARO Historical Record Report Vol. I (public domain).",
      "source_url": "https://www.aaro.mil",
+     "page": 17,
+     "hl": [
+      [
+       0.2032,
+       0.6621,
+       0.8853,
+       0.6824
+      ],
+      [
+       0.202,
+       0.6824,
+       0.8291,
+       0.7027
+      ]
+     ],
      "id": "robertson-hrr"
     }
    ],
-   "text": "This site trusts nothing, including its sources - and the sources agree. In 1953, the CIA-convened Robertson Panel recommended reducing public interest in flying saucers; AARO's own historical report documents the government's decades of managing public perception, and Project Blue Book's public-relations posture is part of that documented history. So nothing here is presumed true because it is official. What you are reading is what the record says - with each document's own stance attached, and the page number to check it yourself. That is the only honest way to read a government archive about a subject the government once worked to make uninteresting."
+   "text": "This site trusts nothing, including its sources - and the sources agree. In 1953, the CIA-convened Robertson Panel recommended the government 'use various channels to debunk UFO reports'; AARO's own historical report documents the government's decades of managing public perception, and Project Blue Book's public-relations posture is part of that documented history. So nothing here is presumed true because it is official. What you are reading is what the record says - with each document's own stance attached, and the page number to check it yourself. That is the only honest way to read a government archive about a subject the government once worked to make uninteresting."
   },
   {
    "id": "claims-verdicts",
@@ -253,6 +346,21 @@
      "caption": "The Hottel memo, March 22, 1950 - an FBI record of a third-hand claim of \"three so-called flying saucers... recovered in New Mexico.\" Filed without investigation; the claim chain traces to a known con. A recorded claim, not a finding.",
      "credit": "U.S. government record (public domain). R1 renders from war.gov source PDFs.",
      "source_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf",
+     "page": 68,
+     "hl": [
+      [
+       0.1601,
+       0.325,
+       0.8,
+       0.3442
+      ],
+      [
+       0.1614,
+       0.3442,
+       0.6479,
+       0.3627
+      ]
+     ],
      "id": "hottel-memo"
     },
     {
@@ -260,20 +368,107 @@
      "caption": "Air Materiel Command, 1947, internal and candid: \"the lack of physical evidence in the shape of crash recovered exhibits...\" The strongest contemporaneous counter-evidence in the corpus.",
      "credit": "U.S. government record (public domain). R1 renders from war.gov source PDFs.",
      "source_url": "https://www.war.gov/medialink/ufo/release_1/18_100754_ general 1946-7_vol_2.pdf",
+     "page": 10,
+     "hl": [
+      [
+       0.3428,
+       0.6537,
+       0.9323,
+       0.6736
+      ],
+      [
+       0.3945,
+       0.6736,
+       0.9307,
+       0.69
+      ],
+      [
+       0.3958,
+       0.69,
+       0.68,
+       0.7099
+      ]
+     ],
      "id": "amc-no-exhibits"
     },
     {
      "file": "media/ornl-specimen.jpg",
-     "caption": "Oak Ridge National Laboratory's analysis of a metallic specimen \"publicly alleged to be a component recovered from a crashed extraterrestrial vehicle\" (1947 claim). Verdict: mundane terrestrial manufacture. The record's one complete custody-and-analysis chain.",
-     "credit": "ORNL / AARO analysis (public domain), NARA RG 615.",
-     "source_url": "https://www.archives.gov/research/topics/uaps",
+     "caption": "AARO's July 2024 supplement to Oak Ridge National Laboratory's analysis of the metallic specimen \"publicly alleged to be a component recovered from a crashed extraterrestrial vehicle\" in 1947. The verdict sits on the same page: terrestrial in origin. The record's one complete custody-and-analysis chain.",
+     "credit": "U.S. government record, NARA RG 615 (public domain).",
+     "source_url": "https://catalog.archives.gov/medialz/electronic-records/rg-615/493468580/13_Supplement_to_Metallic_Specimen.pdf",
+     "page": 1,
+     "hl": [
+      [
+       0.1143,
+       0.2841,
+       0.7919,
+       0.3037
+      ],
+      [
+       0.1144,
+       0.3037,
+       0.8232,
+       0.3212
+      ],
+      [
+       0.1145,
+       0.3212,
+       0.8702,
+       0.3408
+      ],
+      [
+       0.1144,
+       0.3889,
+       0.8672,
+       0.4084
+      ],
+      [
+       0.1138,
+       0.4084,
+       0.813,
+       0.4281
+      ]
+     ],
      "id": "ornl-specimen"
     },
     {
      "file": "media/osd-custody.jpg",
      "caption": "OSD briefing, 2023: NASIC's role in \"exploitation and analysis of recovered UAP objects and material.\" A chartered function on a modern org chart - not confirmed inventory.",
-     "credit": "U.S. government record (public domain). R1 renders from war.gov source PDFs.",
-     "source_url": "https://www.archives.gov/research/topics/uaps",
+     "credit": "U.S. government record, NARA RG 615 (public domain).",
+     "source_url": "https://catalog.archives.gov/medialz/electronic-records/rg-615/493468580/015_2023_UAP_Mission_Backgrounder_Paper.pdf",
+     "page": 2,
+     "hl": [
+      [
+       0.5257,
+       0.3563,
+       0.9437,
+       0.377
+      ],
+      [
+       0.5263,
+       0.377,
+       0.9443,
+       0.3984
+      ],
+      [
+       0.5263,
+       0.3984,
+       0.9443,
+       0.4197
+      ],
+      [
+       0.5263,
+       0.4197,
+       0.9453,
+       0.4409
+      ],
+      [
+       0.5269,
+       0.4409,
+       0.8188,
+       0.4624
+      ]
+     ],
      "id": "osd-custody"
     }
    ],
@@ -299,20 +494,50 @@
    "media": [
     {
      "file": "media/faa-starlink.jpg",
-     "caption": "A modern FAA UAP report attributing a sighting to a Starlink satellite train - the signature explanation of the 2020s reporting era.",
+     "caption": "A modern FAA UAP report: multiple aircraft report the same phenomenon; a pilot later attributes it to Starlink satellites - the signature explanation of the 2020s reporting era.",
      "credit": "FAA record, NARA RG 615 (public domain).",
-     "source_url": "https://www.archives.gov/research/topics/uaps",
+     "source_url": "https://catalog.archives.gov/medialz/electronic-records/rg-615/493468575/237UAP00075.pdf",
+     "page": 1,
+     "hl": [
+      [
+       0.0163,
+       0.345,
+       0.9551,
+       0.3642
+      ]
+     ],
      "id": "faa-starlink"
     },
     {
      "file": "media/western-slides-orbs.jpg",
-     "caption": "\"Orbs launching orbs\": orange orbs emitting smaller red orbs in groups of 2-4, observed by federal agents on night-vision across two days.",
+     "caption": "\"Orbs Launching Orbs\": three teams of federal agents independently describe orange orbs emitting smaller red orbs in groups of two to four, at least five times across two days. Western US Event deck, slide 1.",
      "credit": "U.S. government record (public domain). R1 renders from war.gov source PDFs.",
      "source_url": "https://www.war.gov/medialink/ufo/release_1/western_us_event_slides_5.08.2026.pdf",
+     "page": 1,
+     "hl": [
+      [
+       0.1216,
+       0.3983,
+       0.8816,
+       0.4317
+      ],
+      [
+       0.1221,
+       0.4344,
+       0.8768,
+       0.4673
+      ],
+      [
+       0.1209,
+       0.4699,
+       0.89,
+       0.5028
+      ]
+     ],
      "id": "western-slides-orbs"
     }
    ],
-   "text": "The released record is quietest in the 1990s and 2000s - thirty-six incidents across twenty years - then erupts: the 2020s are the largest decade in the corpus, 533 incidents, driven by military sensors and a modern FAA reporting pipeline. The new era has a signature the old one couldn't: Starlink satellite trains, now a recurring explanation in the FAA's own paper. And it has genuine puzzles - federal agents on night vision watching orange orbs launch smaller red orbs across two nights in the western United States, with an AARO field follow-up. Whether the silence was an absence of events or an absence of releases is one of this archive's sharpest open questions."
+   "text": "The released record is quietest in the 1990s and 2000s - thirty-six incidents across twenty years - then erupts: the 2020s are the largest decade in the corpus, 533 incidents, driven by military sensors and a modern FAA reporting pipeline. The new era has a signature the old one couldn't: Starlink satellite trains, now a recurring explanation in the FAA's own paper. And it has genuine puzzles - three teams of federal agents watching orange orbs launch smaller red orbs in groups of two to four across two days in the western United States, with AARO follow-up analysis. Whether the silence was an absence of events or an absence of releases is one of this archive's sharpest open questions."
   },
   {
    "id": "the-starred",
@@ -336,15 +561,45 @@
     {
      "file": "media/gemini-vii-bogey.jpg",
      "caption": "Gemini VII air-to-ground transcript, Dec 1965, 01:43:23 mission time: \"I have a bogey at 10 o'clock high.\" The primary source, declassified.",
-     "credit": "U.S. government record (public domain). R1 renders from war.gov source PDFs.",
+     "credit": "NASA record, National Archives (public domain).",
      "source_url": "https://catalog.archives.gov/id/5011500",
+     "page": 33,
+     "hl": [
+      [
+       0.13,
+       0.775,
+       0.885,
+       0.875
+      ]
+     ],
      "id": "gemini-vii-bogey"
     },
     {
      "file": "media/western-slides-1.jpg",
-     "caption": "The Western US Event slide deck (Dec 2025): federal law-enforcement witnesses, AARO follow-up. Cover slide.",
+     "caption": "The Western US Event deck, \"Transparent Kite\" slide: a federal agent's spotlight beam \"went from shining far into the distance to stopping about 50 yards away on nothing in particular.\" Events of 2023; federal law-enforcement witnesses, AARO follow-up.",
      "credit": "U.S. government record (public domain). R1 renders from war.gov source PDFs.",
      "source_url": "https://www.war.gov/medialink/ufo/release_1/western_us_event_slides_5.08.2026.pdf",
+     "page": 4,
+     "hl": [
+      [
+       0.1209,
+       0.7765,
+       0.7193,
+       0.808
+      ],
+      [
+       0.1216,
+       0.808,
+       0.6993,
+       0.8453
+      ],
+      [
+       0.1221,
+       0.8476,
+       0.7394,
+       0.8808
+      ]
+     ],
      "id": "western-slides-1"
     }
    ],
